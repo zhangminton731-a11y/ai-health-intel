@@ -9,6 +9,9 @@ import json
 import sys
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 OUTPUT = Path(__file__).resolve().parents[1] / "output"
 REQUIRED_FILES = [
     "daily_items.jsonl",
