@@ -1,0 +1,74 @@
+{
+  "name": "ai-health-founder-profile-v1",
+  "freshness_days": 10,
+  "topic_terms": {
+    "wearable": 0.30,
+    "smart ring": 0.30,
+    "smartwatch": 0.26,
+    "digital health": 0.30,
+    "medtech": 0.26,
+    "medical device": 0.26,
+    "health ai": 0.30,
+    "ai health": 0.30,
+    "clinical ai": 0.26,
+    "510(k)": 0.25,
+    "ce mark": 0.24,
+    "fda": 0.22,
+    "glucose": 0.22,
+    "cgm": 0.22,
+    "sleep tracking": 0.24,
+    "hrv": 0.22,
+    "recovery": 0.18,
+    "sensor": 0.18,
+    "biometric": 0.22,
+    "precision health": 0.26,
+    "remote patient monitoring": 0.26,
+    "digital therapeutic": 0.28,
+    "surgical robot": 0.24,
+    "可穿戴": 0.30,
+    "智能手表": 0.28,
+    "手术机器人": 0.26,
+    "医疗器械": 0.24,
+    "睡眠监测": 0.24,
+    "康复": 0.20,
+    "融资": 0.24,
+    "并购": 0.24
+  },
+  "negative_terms": {
+    "advertisement": 0.5,
+    "sponsored": 0.4,
+    "podcast": 0.15,
+    "webinar": 0.15,
+    "election": 0.3,
+    "cryptocurrency": 0.3
+  },
+  "novelty_terms": [
+    "first",
+    "breakthrough",
+    "record",
+    "launch",
+    "unveils",
+    "cleared",
+    "approved",
+    "acquires",
+    "acquisition",
+    "raises",
+    "ipo",
+    "milestone"
+  ],
+  "source_weights": {
+    "rss": 0.05,
+    "hacker_news": 0.03
+  },
+  "thresholds": {
+    "must_read": {
+      "topic_relevance": 0.5
+    },
+    "skim": {
+      "topic_relevance": 0.3
+    },
+    "collapsed": {
+      "topic_relevance": 0.1
+    }
+  }
+}

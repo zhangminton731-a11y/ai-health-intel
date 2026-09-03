@@ -1,0 +1,49 @@
+name: Daily Health Intel Aggregation
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # 00:30 UTC = 北京 08:30（V1 每日一次，参数化可调）
+  workflow_dispatch:
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run SIH Engine Tests
+        run: python -m unittest discover -s engine/tests -p 'test_*.py'
+
+      - name: Aggregate (live)
+        env:
+          PYTHONPATH: ${{ github.workspace }}/engine/src
+        run: >
+          python -m sih_ref.cli run
+          --config config/sources.json
+          --profile config/profile.json
+          --output-dir output
+          --live
+
+      - name: Quality Gate（结构完整性校验；失败告警但不阻断——宽松兜底，吸收上游连续失败教训）
+        run: python scripts/quality_gate.py
+        continue-on-error: true
+
+      - name: Commit & Push
+        run: |
+          git config user.name "health-intel-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add output/ config/ scripts/
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "🔄 [auto] 情报更新 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
+            git push
+          fi

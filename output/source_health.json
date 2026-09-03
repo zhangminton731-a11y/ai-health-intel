@@ -1,0 +1,100 @@
+{
+  "as_of": "2026-09-03",
+  "daily_status": "complete",
+  "extensions": {
+    "llm_triage": {
+      "status": "disabled"
+    }
+  },
+  "generated_at": "2026-09-03T09:41:45+00:00",
+  "loaded_source_count": 5,
+  "schema_version": "1.0",
+  "source_count": 5,
+  "sources": [
+    {
+      "checks": [
+        {
+          "count": 10,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-03T09:41:45+00:00",
+      "item_count": 10,
+      "required": true,
+      "role": "primary",
+      "source_id": "medtech_dive_primary",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 20,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-03T09:41:45+00:00",
+      "item_count": 20,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "stat_news_feed",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 10,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-03T09:41:45+00:00",
+      "item_count": 10,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "crunchbase_news_feed",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 10,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-03T09:41:45+00:00",
+      "item_count": 10,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "rock_health_feed",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 0,
+          "kind": "hn_firebase"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-03T09:41:45+00:00",
+      "item_count": 0,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "hn_ai_health_signals",
+      "source_kind": "hacker_news",
+      "status": "ok_no_updates"
+    }
+  ]
+}

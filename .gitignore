@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# SIH demo 默认输出（我们的运行产物在 output/，需入库）
+engine/demo/output/
+
+# 系统杂项
+.DS_Store
+Thumbs.db

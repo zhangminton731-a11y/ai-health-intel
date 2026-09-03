@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "count": 10,
+      "kind": "rss_atom"
+    }
+  ],
+  "enabled": true,
+  "error": "",
+  "generated_at": "2026-09-03T09:41:45+00:00",
+  "item_count": 10,
+  "required": true,
+  "role": "primary",
+  "source_id": "medtech_dive_primary",
+  "source_kind": "rss",
+  "status": "ok"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "synthetic_demo": false,
+  "sources": [
+    {
+      "id": "medtech_dive_primary",
+      "kind": "rss",
+      "enabled": true,
+      "required": true,
+      "role": "primary",
+      "url": "https://www.medtechdive.com/feeds/news/",
+      "max_results": 30
+    },
+    {
+      "id": "stat_news_feed",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.statnews.com/feed/",
+      "max_results": 20
+    },
+    {
+      "id": "crunchbase_news_feed",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://news.crunchbase.com/feed/",
+      "max_results": 20
+    },
+    {
+      "id": "rock_health_feed",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://rockhealth.com/feed/",
+      "max_results": 15
+    },
+    {
+      "id": "hn_ai_health_signals",
+      "kind": "hacker_news",
+      "enabled": true,
+      "required": false,
+      "keywords": ["wearable", "health", "medical", "biotech", "fda", "sensor"],
+      "scan_limit": 40,
+      "max_results": 8
+    }
+  ],
+  "llm": {
+    "enabled": false,
+    "endpoint_env": "SIH_LLM_ENDPOINT",
+    "api_key_env": "SIH_LLM_API_KEY",
+    "model_env": "SIH_LLM_MODEL",
+    "requires_api_key": true,
+    "timeout_seconds": 60
+  },
+  "delivery": {
+    "enabled": false,
+    "endpoint_env": "SIH_WEBHOOK_ENDPOINT",
+    "timeout_seconds": 20
+  }
+}
