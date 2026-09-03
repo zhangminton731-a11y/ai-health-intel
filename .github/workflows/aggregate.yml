@@ -32,6 +32,9 @@ jobs:
           --output-dir output
           --live
 
+      - name: Build Chinese Site & Briefing
+        run: python scripts/build_site.py
+
       - name: Quality Gate（结构完整性校验；失败告警但不阻断——宽松兜底，吸收上游连续失败教训）
         run: python scripts/quality_gate.py
         continue-on-error: true

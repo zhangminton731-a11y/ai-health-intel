@@ -40,8 +40,8 @@
       "kind": "hacker_news",
       "enabled": true,
       "required": false,
-      "keywords": ["wearable", "health", "medical", "biotech", "fda", "sensor"],
-      "scan_limit": 40,
+      "keywords": ["wearable", "health", "medical", "biotech", "fda", "sensor", "medicine", "clinic", "llm", "device", "startup"],
+      "scan_limit": 80,
       "max_results": 8
     }
   ],

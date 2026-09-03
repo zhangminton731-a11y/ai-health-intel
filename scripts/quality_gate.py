@@ -16,7 +16,7 @@ OUTPUT = Path(__file__).resolve().parents[1] / "output"
 REQUIRED_FILES = [
     "daily_items.jsonl",
     "daily_briefing.md",
-    "source_health.json",
+    "daily_briefing_cn.md",
     "site/index.html",
 ]
 ALLOWED_DAILY_STATUS = {"complete", "complete_with_warning", "degraded", "failed"}
