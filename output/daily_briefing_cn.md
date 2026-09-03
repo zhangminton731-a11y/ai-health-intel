@@ -1,6 +1,6 @@
 # AI+健康情报日报 · 2026-09-03
 
-> 信源 5 · 条目 58 · 状态 运行正常
+> 信源 5 · 条目 50 · 状态 运行正常
 
 **今日精选：STAT+：FDA 试点项目为生成式人工智能医疗设备在获得授权之前为患者提供了一条途径**
 链接：https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss
