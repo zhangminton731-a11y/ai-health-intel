@@ -6,7 +6,7 @@
       "status": "disabled"
     }
   },
-  "generated_at": "2026-09-03T10:29:47+00:00",
+  "generated_at": "2026-09-03T10:31:19+00:00",
   "loaded_source_count": 5,
   "schema_version": "1.0",
   "source_count": 5,
@@ -20,7 +20,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-03T10:29:47+00:00",
+      "generated_at": "2026-09-03T10:31:19+00:00",
       "item_count": 10,
       "required": true,
       "role": "primary",
@@ -37,7 +37,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-03T10:29:47+00:00",
+      "generated_at": "2026-09-03T10:31:19+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -54,7 +54,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-03T10:29:47+00:00",
+      "generated_at": "2026-09-03T10:31:19+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -71,7 +71,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-03T10:29:47+00:00",
+      "generated_at": "2026-09-03T10:31:19+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -82,19 +82,19 @@
     {
       "checks": [
         {
-          "count": 0,
+          "count": 8,
           "kind": "hn_firebase"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-03T10:29:47+00:00",
-      "item_count": 0,
+      "generated_at": "2026-09-03T10:31:19+00:00",
+      "item_count": 8,
       "required": false,
       "role": "supplemental",
       "source_id": "hn_ai_health_signals",
       "source_kind": "hacker_news",
-      "status": "ok_no_updates"
+      "status": "ok"
     }
   ]
 }

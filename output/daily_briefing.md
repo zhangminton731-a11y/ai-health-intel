@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-09-03
 
-> Daily status: **complete** · sources 5/5 · items 50
+> Daily status: **complete** · sources 5/5 · items 58
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -84,7 +84,7 @@ UniQure has submitted its Huntington’s gene therapy to the FDA, investors rema
 
 “These successes are surprising, worth discussing, and even celebrating a bit,” STAT Lab Dish columnist Paul Knoepfler writes of the FDA and stem cells.
 
-## Archive · 41
+## Archive · 49
 
 ### [How to advance healthcare quality though digital health](https://rockhealth.com/how-to-advance-healthcare-quality-though-digital-health/)
 
@@ -278,14 +278,6 @@ A review of findings from a five-person committee is being sent to the ADA board
 
 The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants.
 
-### [STAT+: Novartis gets multiple sclerosis win with BTK inhibitor](https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-01` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss`
-
-More Trump drug pricing deals, GSK speeds up development of mRNA flu vaccine, and other biotech news
-
 ### [Stryker to add rotator cuff repair tech with ZuriMED buy](https://www.medtechdive.com/news/stryker-to-add-rotator-cuff-repair-tech-with-zurimed-buy/829380/)
 
 - Source: `medtech_dive_primary` · published `2026-09-01` · freshness `fresh`
@@ -398,6 +390,14 @@ In the first half of this year, 58 venture-backed companies joined the public li
 
 “The longer I practice, the more I think many conflicts in maternity care come from a simple misunderstanding,” writes Debra Eluobaju, a doula turned OB-GYN.
 
+### [STAT+: Abivax has still not been acquired. What’s going on?](https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss`
+
+Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.
+
 ### [The pediatricians who take in vaccine-skeptical parents others won’t](https://www.statnews.com/2026/09/03/vaccine-hesitant-parents-how-pediatrician-builds-trust/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
@@ -413,6 +413,70 @@ At a "practice of last resort," pediatricians prioritize allaying parents' vacci
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss`
 
 Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says.
+
+### [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0)
+
+- Source: `hn_ai_health_signals` · published `2026-08-30` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41562-026-02550-0`
+
+Hacker News community signal; score 144.
+
+### [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+
+- Source: `hn_ai_health_signals` · published `2026-09-01` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/`
+
+Hacker News community signal; score 152.
+
+### [AI is stopping startups from completing puberty](https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/)
+
+- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/`
+
+Hacker News community signal; score 34.
+
+### [LLMs and Self-Referentiality](https://scottaaronson.blog/?p=10046)
+
+- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://scottaaronson.blog/?p=10046`
+
+Hacker News community signal; score 53.
+
+### [LLMs: Intelligence vs. Cost](https://openteams.com/intelligence-vs-cost/)
+
+- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://openteams.com/intelligence-vs-cost/`
+
+Hacker News community signal; score 84.
+
+### [WebLLM: high-performance in-browser LLM inference engine](https://github.com/mlc-ai/web-llm)
+
+- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://github.com/mlc-ai/web-llm`
+
+Hacker News community signal; score 122.
+
+### [Denmark versus UK: which country gets more health for their money?](https://theconversation.com/denmark-versus-uk-which-country-gets-more-health-for-their-money-276937)
+
+- Source: `hn_ai_health_signals` · published `2026-09-03` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://theconversation.com/denmark-versus-uk-which-country-gets-more-health-for-their-money-276937`
+
+Hacker News community signal; score 10.
+
+### [US gov sides with OpenAI on issue of training LLMs on copyrighted material](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
+
+- Source: `hn_ai_health_signals` · published `2026-09-03` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/`
+
+Hacker News community signal; score 42.
 
 ---
 
