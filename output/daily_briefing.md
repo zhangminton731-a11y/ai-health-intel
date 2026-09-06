@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-09-05
+# Scientific Information Brief · 2026-09-06
 
-> Daily status: **complete** · sources 5/5 · items 52
+> Daily status: **complete** · sources 5/5 · items 54
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -40,7 +40,7 @@ AI products from Cadence and Limbic are among four devices recently accepted int
 
 - Source: `medtech_dive_primary` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.29` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/vara-receives-ce-mark-for-first-autonomous-breast-cancer-screening/829696/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/vara-receives-ce-mark-for-first-autonomous-breast-cancer-screening/829696/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/md_8b2Wt1CpXsbm1tAiHxFIn5ovm6gOetx5j6eLNSd4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pY2FkX21hbW1vZ3JhcGh5LmpwZw==.webp"/></div></figure><p>The AI-enabled device can report screenings it determines are normal without radiologist review.</p>
 
@@ -52,19 +52,11 @@ AI products from Cadence and Limbic are among four devices recently accepted int
 
 <figure><div><img src="https://imgproxy.divecdn.com/7QkGl6Ik3acUgR0oApdteOJRLrDcGleRHad5hJJs-c0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BQkJPVFQtU0lHTi5qcGc=.webp"/></div></figure><p>Abbott said it will use the study results to secure FDA approval for the TactiFlex Duo catheter that offers both PFA and RF energy for tailoring treatment of atrial fibrillation.</p>
 
-### [Opinion: STAT+: A surprising bright spot at the FDA on regulating unproven stem cells](https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
-- Topic relevance: `0.27` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/stem-cell-clinics-fda-cber-warning-letters-marketing/?utm_campaign=rss`
-
-“These successes are surprising, worth discussing, and even celebrating a bit,” STAT Lab Dish columnist Paul Knoepfler writes of the FDA and stem cells.
-
 ### [STAT+: Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder](https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/ionis-fda-approval-zanvastro-alexander-disease/?utm_campaign=rss`
 
 Zanvastro is the first disease-modifying treatment for Alexander disease, a rare and fatal disorder.
 
@@ -72,7 +64,7 @@ Zanvastro is the first disease-modifying treatment for Alexander disease, a rare
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss`
 
 In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulation, OpenEvidence launches new AI models, and more.
 
@@ -80,7 +72,7 @@ In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulat
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss`
 
 Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news
 
@@ -88,7 +80,7 @@ Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss`
 
 Clozapine “is one of the most underused drugs in all of medicine,” writes Nitin Gogtay.
 
@@ -96,11 +88,19 @@ Clozapine “is one of the most underused drugs in all of medicine,” writes Ni
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss`
 
 The biggest barrier for a top schzophrenia treatment, Ionis' first approval for Alexander disease, and more biotech news
 
-## Archive · 41
+### [CHC5: Open Camera System – Image Sensor Specification Comparison](https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html)
+
+- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
+- Topic relevance: `0.21` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html`
+
+Hacker News community signal; score 3.
+
+## Archive · 43
 
 ### [How to advance healthcare quality though digital health](https://rockhealth.com/how-to-advance-healthcare-quality-though-digital-health/)
 
@@ -258,7 +258,7 @@ In the first half of this year, 58 venture-backed companies joined the public li
 
 - Source: `medtech_dive_primary` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/davita-agrees-to-pay-15m-to-settle-claims-from-data-breach/829452/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/davita-agrees-to-pay-15m-to-settle-claims-from-data-breach/829452/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/F6yfoA0Xw2DL_3jL8EcpmTh-IB0mNRfOwomqrjEJ6hM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzMzQ5NTU4LmpwZw==.webp"/></div></figure><p>The dialysis provider has opted to settle a proposed class action lawsuit stemming from a data breach last year that impacted 2.7 million people.</p>
 
@@ -266,7 +266,7 @@ In the first half of this year, 58 venture-backed companies joined the public li
 
 - Source: `crunchbase_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/`
 
 Venture investors poured $42 billion into just over 1,500 startups worldwide in August, Crunchbase data shows, down 25% from July’s $56 billion but still up a significant 122% compared to last August, which is typically a slower month for startup investment.
 
@@ -274,7 +274,7 @@ Venture investors poured $42 billion into just over 1,500 startups worldwide in 
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss`
 
 Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds
 
@@ -282,7 +282,7 @@ Drug overdose deaths decreasing, a path to patients for AI devices, and more hea
 
 - Source: `medtech_dive_primary` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/novocure-says-cyberattack-caused-patient-data-exposure/829553/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/novocure-says-cyberattack-caused-patient-data-exposure/829553/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/JxVR1QHLPVFteBc7dqk3fxdQromcahBdm3_ZZyejzYg/g:nowe:0:1064/c:5197:2936/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMjMzMzIwLmpwZw==.webp"/></div></figure><p>The cancer treatment company said internal data from more than 1,400 patient records were exposed in a cyberattack detected in mid-August.</p>
 
@@ -290,7 +290,7 @@ Drug overdose deaths decreasing, a path to patients for AI devices, and more hea
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss`
 
 Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.
 
@@ -298,7 +298,7 @@ Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax has
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss`
 
 Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter.
 
@@ -306,7 +306,7 @@ Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals,
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss`
 
 Two recipients of gene-edited pig kidneys have successfully received human organs, a milestone in the wider effort to advance xenografts.
 
@@ -314,7 +314,7 @@ Two recipients of gene-edited pig kidneys have successfully received human organ
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss`
 
 The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter
 
@@ -322,7 +322,7 @@ The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter
 
 - Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss`
 
 Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care.
 
@@ -330,7 +330,7 @@ Tactical athletes, a category of people first recognized in the early 2000s, als
 
 - Source: `crunchbase_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/`
 
 After nearly two decades working as a lawyer at companies such as Amazon, Cruise, Replit and Anki, Cecilia Ziniti teamed up with engineer Bardia Pourvakil to combine their knowledge of law and coding to co-found GC AI.
 
@@ -338,7 +338,7 @@ After nearly two decades working as a lawyer at companies such as Amazon, Cruise
 
 - Source: `medtech_dive_primary` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/boston-scientific-begins-to-restore-shipping-after-cyberattack/829694/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-begins-to-restore-shipping-after-cyberattack/829694/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/Lyg-8rmCTujgRCMvDWgxiJgD88R_1aVXbpWNzXOngKE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3N0b25fU2NpZW50aWZpY19tYW51Zl9wYWxudC5qcGVn.webp"/></div></figure><p>The company is working through a backlog after the cyberattack hampered manufacturing, order processing and shipping.</p>
 
@@ -346,7 +346,7 @@ After nearly two decades working as a lawyer at companies such as Amazon, Cruise
 
 - Source: `medtech_dive_primary` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/boston-scientific-recall-of-spinal-cord-stimulator-leads-tied-to-more-than/829699/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-recall-of-spinal-cord-stimulator-leads-tied-to-more-than/829699/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/DJet28oWLnaMhtl1zOQ5NfWyIH57FTfYriXtiDdcxiA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExMTk5MTM4LmpwZw==.webp"/></div></figure><p>A problem with the leads could cause inadequate stimulation, Boston Scientific said. In the worst case, leads may need to be removed or replaced.</p>
 
@@ -354,7 +354,7 @@ After nearly two decades working as a lawyer at companies such as Amazon, Cruise
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss`
 
 An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds
 
@@ -362,7 +362,7 @@ An organ transplant first, new details on ADA conference controversy, and more h
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss`
 
 After the failure of an experimental drug for Angelman syndrome, experts cautioned that there is still reason to think similar experimental medicines can succeed.
 
@@ -370,7 +370,7 @@ After the failure of an experimental drug for Angelman syndrome, experts caution
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss`
 
 In the months before killing her children, Lindsay Clancy repeatedly sought help for her deteriorating mental health.
 
@@ -378,7 +378,7 @@ In the months before killing her children, Lindsay Clancy repeatedly sought help
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss`
 
 A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm.
 
@@ -386,7 +386,7 @@ A closely watched cardiovascular drug from Novartis failed in a pivotal study, t
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss`
 
 First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital.
 
@@ -394,7 +394,7 @@ First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage p
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss`
 
 The latest pharma news from the Pharmalot campus brought to you by the Pharmalittle newsletter
 
@@ -402,31 +402,47 @@ The latest pharma news from the Pharmalot campus brought to you by the Pharmalit
 
 - Source: `crunchbase_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/`
 
 AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe led with a massive $3 billion financing, followed by Fluidstack’s $1.5 billion raise.
+
+### [Opinion: What STAT readers think about M.D. vs. D.O., AI in medicine, surrogacy, and more](https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-05` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss`
+
+“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.
 
 ### [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md)
 
 - Source: `hn_ai_health_signals` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md`
+- Event: `updated` · identity: `url:https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md`
 
-Hacker News community signal; score 89.
+Hacker News community signal; score 187.
 
 ### [“Next-token predictor” is the wrong mental model for LLMs](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)
 
 - Source: `hn_ai_health_signals` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html`
+- Event: `updated` · identity: `url:https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html`
 
-Hacker News community signal; score 73.
+Hacker News community signal; score 146.
+
+### [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
+
+- Source: `hn_ai_health_signals` · published `2026-09-05` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://arxiv.org/abs/2609.03344`
+
+Hacker News community signal; score 158.
 
 ### [Opinion: Make infectious disease data boring again](https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss`
 
 “Is CDC now applying different standards to state data depending on who governs the state or what political party won an election?” ask former CDC officials.
 
