@@ -194,7 +194,7 @@ def build() -> None:
              f"> 信源 {n_src} · 条目 {len(data)} · 状态 {STATUS_CN.get(status, status)}", ""]
     if top_ids:
         d = by_id[top_ids[0]]
-        lines += [f"**今日精选：{d.get('t') or d.get('te')}**", f"链接：{d.get('u')}", ""]
+        lines += [f"**机器首推：{d.get('t') or d.get('te')}**（算法排序第一，未经人工审核）", f"链接：{d.get('u')}", ""]
     lines.append("**今日 TOP 10**")
     for i, iid in enumerate(top_ids, 1):
         d = by_id.get(iid, {})
@@ -237,7 +237,7 @@ html{scroll-behavior:smooth}
     </div>
     <div class="text-xs text-zinc-400 px-2 mb-1">内容</div>
     <nav class="space-y-0.5" id="nav">
-      <a href="#jingxuan" class="navitem"><svg viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>精选</a>
+      <a href="#jingxuan" class="navitem"><svg viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>首推</a>
       <a href="#feed" class="navitem"><svg viewBox="0 0 24 24"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>全部情报</a>
       <a href="#hot" class="navitem"><svg viewBox="0 0 24 24"><path d="M12 2c1 4-3 5-3 9a5 5 0 0 0 10 0c0-2-1-3.5-2-5-.5 2-2 2.5-2 2.5C16 5 14 3 12 2z"/></svg>热点榜</a>
       <a href="#daily" class="navitem"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>AI 日报</a>
@@ -266,7 +266,7 @@ html{scroll-behavior:smooth}
   <div class="flex-1 min-w-0">
     <div class="lg:hidden sticky top-0 z-40 bg-white/90 dark:bg-zinc-950/90 backdrop-blur border-b border-zinc-200 dark:border-zinc-800 px-4 h-12 flex items-center gap-3 overflow-x-auto">
       <span class="font-black tracking-[.15em] whitespace-nowrap" id="brandM">__SITE_NAME__</span>
-      <a href="#jingxuan" class="text-xs whitespace-nowrap text-zinc-500">精选</a>
+      <a href="#jingxuan" class="text-xs whitespace-nowrap text-zinc-500">首推</a>
       <a href="#feed" class="text-xs whitespace-nowrap text-zinc-500">全部</a>
       <a href="#hot" class="text-xs whitespace-nowrap text-zinc-500">热点榜</a>
       <a href="#daily" class="text-xs whitespace-nowrap text-zinc-500">日报</a>
@@ -276,9 +276,9 @@ html{scroll-behavior:smooth}
     <main class="max-w-5xl mx-auto px-5 md:px-10 py-8 md:py-10">
 
       <section id="v-jingxuan" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">EDITOR'S PICK · 今日精选</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black leading-tight text-ink dark:text-white mb-2">今日精选</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-1">为什么值得看：从当日全部情报中，按相关度与信源可信度选出最值得创业者关注的一条。</p>
+        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">MACHINE TOP PICK · 机器首推（未经人工审核）</div>
+        <h1 class="text-3xl md:text-[2.6rem] font-black leading-tight text-ink dark:text-white mb-2">机器首推</h1>
+        <p class="text-zinc-500 dark:text-zinc-400 mb-1">算法按相关度与信源可信度排出第一名——它不是团队精选；人工精选机制规划中（见 Issue #1）。</p>
         <p class="text-xs text-zinc-400 mb-6">更新于 <span id="upd1">—</span></p>
         <div id="spotBox" class="mb-10"></div>
         <div class="flex items-end justify-between mb-3">

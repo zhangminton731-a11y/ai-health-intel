@@ -1,17 +1,17 @@
 {
   "checks": [
     {
-      "count": 10,
-      "kind": "rss_atom"
+      "kind": "rss",
+      "reason": "disabled_by_config"
     }
   ],
-  "enabled": true,
+  "enabled": false,
   "error": "",
   "generated_at": "2026-09-07T09:04:18+00:00",
-  "item_count": 10,
+  "item_count": 0,
   "required": false,
   "role": "supplemental",
-  "source_id": "crunchbase_news_feed",
+  "source_id": "apple_newsroom",
   "source_kind": "rss",
-  "status": "ok"
+  "status": "inactive"
 }

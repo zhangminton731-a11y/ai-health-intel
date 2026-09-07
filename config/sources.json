@@ -30,10 +30,26 @@
     {
       "id": "rock_health_feed",
       "kind": "rss",
-      "enabled": true,
+      "enabled": false,
       "required": false,
       "url": "https://rockhealth.com/feed/",
       "max_results": 15
+    },
+    {
+      "id": "apple_newsroom",
+      "kind": "rss",
+      "enabled": false,
+      "required": false,
+      "url": "https://www.apple.com/newsroom/rss/",
+      "max_results": 10
+    },
+    {
+      "id": "fitbit_google_blog",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://blog.google/rss/",
+      "max_results": 10
     },
     {
       "id": "hn_ai_health_signals",

@@ -11,7 +11,7 @@
   "item_count": 10,
   "required": false,
   "role": "supplemental",
-  "source_id": "crunchbase_news_feed",
+  "source_id": "fitbit_google_blog",
   "source_kind": "rss",
   "status": "ok"
 }
