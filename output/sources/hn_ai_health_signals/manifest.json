@@ -1,14 +1,14 @@
 {
   "checks": [
     {
-      "count": 4,
+      "count": 3,
       "kind": "hn_firebase"
     }
   ],
   "enabled": true,
   "error": "",
-  "generated_at": "2026-09-06T00:44:17+00:00",
-  "item_count": 4,
+  "generated_at": "2026-09-07T00:44:52+00:00",
+  "item_count": 3,
   "required": false,
   "role": "supplemental",
   "source_id": "hn_ai_health_signals",

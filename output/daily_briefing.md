@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-09-06
+# Scientific Information Brief · 2026-09-07
 
-> Daily status: **complete** · sources 5/5 · items 54
+> Daily status: **complete** · sources 5/5 · items 53
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,15 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 2
-
-### [STAT+: FDA pilot offers generative AI medical devices a path to patients before they are authorized](https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
-- Topic relevance: `0.83` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss`
-
-AI products from Cadence and Limbic are among four devices recently accepted into the FDA’s TEMPO pilot that will allow digital health companies to release products without marketing authorization.
+## Scan · 1
 
 ### [Medtronic kicks off its fiscal year on a high note](https://www.medtechdive.com/news/medtronic-kicks-off-its-fiscal-year-on-a-high-note/829299/)
 
@@ -26,7 +18,7 @@ AI products from Cadence and Limbic are among four devices recently accepted int
 
 <figure><div><img src="https://imgproxy.divecdn.com/i8A5VqMEYsHuXAjTLjF66dOSUaYqdgaHljwPz_Sz7zk/g:nowe:0:29/c:1000:564/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZWR0cm9uaWMuNC4yNi4yNC43XzEwMDAuanBn.webp"/></div></figure><p>The medical device maker grew revenue by double digits in its fiscal first quarter, following fourth-quarter growth of nearly 10%.</p>
 
-## Hold · 9
+## Hold · 8
 
 ### [Medtronic invests $700M in Cornerstone Robotics](https://www.medtechdive.com/news/medtronic-invests-700m-in-cornerstone-robotics/829354/)
 
@@ -92,15 +84,7 @@ Clozapine “is one of the most underused drugs in all of medicine,” writes Ni
 
 The biggest barrier for a top schzophrenia treatment, Ionis' first approval for Alexander disease, and more biotech news
 
-### [CHC5: Open Camera System – Image Sensor Specification Comparison](https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html)
-
-- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
-- Topic relevance: `0.21` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.circuitvalley.com/2026/08/chc5-open-camera-sensor-comparison-specification.html`
-
-Hacker News community signal; score 3.
-
-## Archive · 43
+## Archive · 44
 
 ### [How to advance healthcare quality though digital health](https://rockhealth.com/how-to-advance-healthcare-quality-though-digital-health/)
 
@@ -410,33 +394,41 @@ AI infrastructure dominated the largest venture rounds this week, with two multi
 
 - Source: `stat_news_feed` · published `2026-09-05` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/05/md-vs-do-surrogacy-ai-medicine-stat-letters-to-editor/?utm_campaign=rss`
 
 “A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT.
 
-### [Show HN: TERMy – A fast terminal assistant that does not use LLMs](https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md)
+### [STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting](https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss)
 
-- Source: `hn_ai_health_signals` · published `2026-09-04` · freshness `fresh`
+- Source: `stat_news_feed` · published `2026-09-06` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss`
+
+The American Diabetes Association “continues to move from crisis to crisis to crisis,” says one of five members ejected from June conference.
+
+### [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
+
+- Source: `hn_ai_health_signals` · published `2026-09-02` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md`
+- Event: `new` · identity: `url:http://miod.online.fr/software/openbsd/stories/smd.html`
 
-Hacker News community signal; score 187.
-
-### [“Next-token predictor” is the wrong mental model for LLMs](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)
-
-- Source: `hn_ai_health_signals` · published `2026-09-04` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html`
-
-Hacker News community signal; score 146.
+Hacker News community signal; score 88.
 
 ### [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344)
 
 - Source: `hn_ai_health_signals` · published `2026-09-05` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://arxiv.org/abs/2609.03344`
+- Event: `updated` · identity: `url:https://arxiv.org/abs/2609.03344`
 
-Hacker News community signal; score 158.
+Hacker News community signal; score 378.
+
+### [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
+
+- Source: `hn_ai_health_signals` · published `2026-09-06` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm`
+
+Hacker News community signal; score 1.
 
 ### [Opinion: Make infectious disease data boring again](https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss)
 
