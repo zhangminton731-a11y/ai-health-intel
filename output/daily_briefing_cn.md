@@ -1,6 +1,6 @@
-# AI+健康情报日报 · 2026-09-07
+# AI+健康情报日报 · 2026-09-08
 
-> 信源 5 · 条目 53 · 状态 运行正常
+> 信源 5 · 条目 55 · 状态 运行正常
 
 **机器首推：前苹果工程师的物理人工智能初创公司 Lyt​​e 以 1.6B 估值筹集 1.65 亿美元**（算法排序第一，未经人工审核）
 链接：https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/
@@ -18,13 +18,13 @@
    https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss
 6. STAT+：西雅图科学家发起 9500 万美元的人工智能生物学研究
    https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss
-7. 行业概况：太空科技初创公司融资创下新高
-   https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/
-8. 本周最大的 10 轮融资：人工智能工具和助手引领大型交易的稀疏阵容
-   https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/
-9. 尽管人工智能资金激增，生物技术初创公司投资仍保持稳定
+7. 尽管人工智能资金激增，生物技术初创公司投资仍保持稳定
    https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/
-10. 行业概况：房地产科技资金坚挺，但投资者押注不同
+8. 行业概况：房地产科技资金坚挺，但投资者押注不同
    https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/
+9. 8 月份全球风险投资额猛增 122%，交易额持续增长 10 亿美元
+   https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/
+10. 本周最大的 10 轮融资：Crusoe 和 Fluidstack 领投数十亿美元的人工智能基础设施投资
+   https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/
 
 （机器翻译与评分，未经人工审核；不构成医疗/投资建议）

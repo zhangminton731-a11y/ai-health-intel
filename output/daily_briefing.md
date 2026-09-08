@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-09-07
+# Scientific Information Brief · 2026-09-08
 
-> Daily status: **complete** · sources 5/5 · items 53
+> Daily status: **complete** · sources 5/5 · items 55
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -14,7 +14,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year’s end now in sight, a small window remains for other startups to launch 2026 IPOs, so we took a look at notable venture-backed startups that Crunchbase’s predictive intelligence suggests are potential IPO candidates within the next six months.
 
-## Scan · 11
+## Scan · 9
 
 ### [Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation](https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/)
 
@@ -55,22 +55,6 @@ In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulat
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss`
 
 Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news
-
-### [Sector Snapshot: Space Tech Startup Funding Orbits New Highs](https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/)
-
-- Source: `crunchbase_news_feed` · published `2026-08-28` · freshness `fresh`
-- Topic relevance: `0.31` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/`
-
-So far this year, a record $20.3 billion in global seed- through growth-stage funding has gone to companies in space- and satellite-related sectors, per Crunchbase data. That’s already by far the highest annual tally on record, and we’ve still got four months left in 2026.
-
-### [The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser Lineup Of Megadeals](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/)
-
-- Source: `crunchbase_news_feed` · published `2026-08-28` · freshness `fresh`
-- Topic relevance: `0.31` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/`
-
-Most of this week’s largest funding recipients were AI-focused startups, with Instinct, a developer of AI assistants, pulling in the biggest round.
 
 ### [Biotech Startup Investment Held Steady Even As AI Funding Surged](https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/)
 
@@ -150,11 +134,27 @@ The biggest barrier for a top schzophrenia treatment, Ionis' first approval for 
 
 - Source: `fitbit_google_blog` · published `2026-09-02` · freshness `fresh`
 - Topic relevance: `0.21` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/`
+- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp">In this Ads Decoded episode, we discuss how to assess marketing campaigns with attribution, incrementality, and media mix models.
 
-## Archive · 35
+## Archive · 39
+
+### [Sector Snapshot: Space Tech Startup Funding Orbits New Highs](https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/)
+
+- Source: `crunchbase_news_feed` · published `2026-08-28` · freshness `stale`
+- Topic relevance: `0.31` · novelty hint: `0.25`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/`
+
+So far this year, a record $20.3 billion in global seed- through growth-stage funding has gone to companies in space- and satellite-related sectors, per Crunchbase data. That’s already by far the highest annual tally on record, and we’ve still got four months left in 2026.
+
+### [The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser Lineup Of Megadeals](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/)
+
+- Source: `crunchbase_news_feed` · published `2026-08-28` · freshness `stale`
+- Topic relevance: `0.31` · novelty hint: `0.0`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/`
+
+Most of this week’s largest funding recipients were AI-focused startups, with Instinct, a developer of AI assistants, pulling in the biggest round.
 
 ### [Stryker to add rotator cuff repair tech with ZuriMED buy](https://www.medtechdive.com/news/stryker-to-add-rotator-cuff-repair-tech-with-zurimed-buy/829380/)
 
@@ -168,7 +168,7 @@ The biggest barrier for a top schzophrenia treatment, Ionis' first approval for 
 
 - Source: `fitbit_google_blog` · published `2026-09-02` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp">We're donating our open-source Longfellow Zero-Knowledge Proof library to the Linux Foundation.
 
@@ -176,7 +176,7 @@ The biggest barrier for a top schzophrenia treatment, Ionis' first approval for 
 
 - Source: `fitbit_google_blog` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_Hero.max-600x600.format-webp.webp">HHMI Janelia, Google and partners mapped the brain and central nervous system of a male fruit fly, a key model organism in science.
 
@@ -200,7 +200,7 @@ Drug overdose deaths decreasing, a path to patients for AI devices, and more hea
 
 - Source: `fitbit_google_blog` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.max-600x600.format-webp.webp">WeatherNext 3, our most advanced global weather AI model, is now in Search, Gemini, Maps, Google Maps Platform, and Cloud.
 
@@ -216,17 +216,9 @@ Drug overdose deaths decreasing, a path to patients for AI devices, and more hea
 
 - Source: `fitbit_google_blog` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp">An overview of upcoming training sessions from the Google AI Educator Series (GES), and how teachers are putting these tools to work.
-
-### [STAT+: Abivax has still not been acquired. What’s going on?](https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-03` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss`
-
-Biotech M&#038;A activity is off the charts, yet the French drugmaker Abivax hasn't been picked up yet. There may be some explanations.
 
 ### [STAT+: Recipients of gene-edited pig kidneys successfully receive human organs](https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss)
 
@@ -248,7 +240,7 @@ The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter
 
 - Source: `fitbit_google_blog` · published `2026-09-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp">Three new voice-activated features will change the way you use Google Workspace products.
 
@@ -280,7 +272,7 @@ After nearly two decades working as a lawyer at companies such as Amazon, Cruise
 
 - Source: `fitbit_google_blog` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp">Lyria 3.5, our best-sounding music generation model, is now available in the Gemini app and the Gemini API. Lyria 3.5 brings more expressive vocals and richer musical ar…
 
@@ -296,7 +288,7 @@ An organ transplant first, new details on ADA conference controversy, and more h
 
 - Source: `fitbit_google_blog` · published `2026-09-04` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp">We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.
 
@@ -360,7 +352,7 @@ The American Diabetes Association “continues to move from crisis to crisis to 
 
 - Source: `fitbit_google_blog` · published `2026-09-07` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG_0934.JPG_1.max-600x600.format-webp.webp">We’re supporting 16 organizations across Asia-Pacific using frontier AI to tackle challenges in climate, agriculture, and biodiversity.
 
@@ -368,9 +360,17 @@ The American Diabetes Association “continues to move from crisis to crisis to 
 
 - Source: `fitbit_google_blog` · published `2026-09-07` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Contrails_Hero.max-600x600.format-webp.webp">We’re partnering with Cathay Pacific to test our AI-powered contrail mitigation technology on ultra-long-haul flights.
+
+### [STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation](https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-07` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss`
+
+Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.
 
 ### [Opalite Health (YC W26) Is Hiring – Founding GTM](https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm)
 
@@ -384,17 +384,33 @@ Hacker News community signal; score 1.
 
 - Source: `hn_ai_health_signals` · published `2026-09-06` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/`
+- Event: `updated` · identity: `url:https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/`
 
-Hacker News community signal; score 643.
+Hacker News community signal; score 705.
 
-### [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+### [El Yayster – a resident LLM that inhabits Emacs](https://github.com/yayster/yayster.el)
 
 - Source: `hn_ai_health_signals` · published `2026-09-07` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html`
+- Event: `new` · identity: `url:https://github.com/yayster/yayster.el`
 
-Hacker News community signal; score 15.
+Hacker News community signal; score 6.
+
+### [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+
+- Source: `hn_ai_health_signals` · published `2026-09-07` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus`
+
+Hacker News community signal; score 127.
+
+### [The smallest edge AI device for local LLMs](https://tiiny.ai/)
+
+- Source: `hn_ai_health_signals` · published `2026-09-07` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://tiiny.ai/`
+
+Hacker News community signal; score 18.
 
 ### [Medtronic kicks off its fiscal year on a high note](https://www.medtechdive.com/news/medtronic-kicks-off-its-fiscal-year-on-a-high-note/829299/)
 
