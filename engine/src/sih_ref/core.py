@@ -223,7 +223,7 @@ def freshness_gate(item: Mapping[str, Any], as_of: date, lookback_days: int) -> 
         return "undated"
     published = date.fromisoformat(normalized)
     age = (as_of - published).days
-    if age < -1:
+    if age < 0:
         return "future"
     return "fresh" if age <= lookback_days else "stale"
 
@@ -256,7 +256,7 @@ def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date)
     must_novelty = float((thresholds.get("must_read") or {}).get("method_novelty_hint", 0.40))
     skim_relevance = float((thresholds.get("skim") or {}).get("topic_relevance", 0.30))
     collapsed_relevance = float((thresholds.get("collapsed") or {}).get("topic_relevance", 0.10))
-    if gate in {"stale", "future"}:
+    if gate != "fresh":
         tier = "archive"
     elif topic_score >= must_relevance and novelty_hint >= must_novelty:
         tier = "must_read"
