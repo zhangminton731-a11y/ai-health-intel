@@ -1,6 +1,6 @@
-# AI+健康情报日报 · 2026-09-09
+# AI+健康情报日报 · 2026-09-10
 
-> 信源 5 · 条目 54 · 状态 运行正常
+> 信源 5 · 条目 52 · 状态 运行正常
 
 **机器首推：前苹果工程师的物理人工智能初创公司 Lyt​​e 以 1.6B 估值筹集 1.65 亿美元**（算法排序第一，未经人工审核）
 链接：https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/
@@ -12,14 +12,14 @@
    https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/
 3. IPO窗口即将关闭。这里有 8 家值得关注的初创公司。
    https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/
-4. Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round
+4. Mistral AI 在另一轮创纪录的欧洲 AI 融资中筹集了 $3.5B，估值为 $24B
    https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/
-5. STAT+: FDA approves AstraZeneca breast cancer drug
+5. STAT+： FDA 批准阿斯利康乳腺癌药物
    https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/?utm_campaign=rss
-6. Elucid raises $55M to commercialize cardiovascular imaging platform
+6. Elucid 筹集 5500 万美元用于心血管成像平台的商业化
    https://www.medtechdive.com/news/elucid-raises-55m-to-commercialize-cardiovascular-imaging-platform/829752/
-7. 尽管人工智能资金激增，生物技术初创公司投资仍保持稳定
-   https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/
+7. Labcorp 收购 MLM Medical Labs 进行全球扩张
+   https://www.medtechdive.com/news/labcorp-acquires-mlm-medical-labs-in-global-expansion/829879/
 8. 行业概况：房地产科技资金坚挺，但投资者押注不同
    https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/
 9. 8 月份全球风险投资额猛增 122%，交易额持续增长 10 亿美元

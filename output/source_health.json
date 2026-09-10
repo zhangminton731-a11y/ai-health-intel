@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-10",
   "daily_status": "complete",
   "extensions": {
     "llm_triage": {
       "status": "disabled"
     }
   },
-  "generated_at": "2026-09-09T00:44:06+00:00",
+  "generated_at": "2026-09-10T00:41:13+00:00",
   "loaded_source_count": 5,
   "schema_version": "1.0",
   "source_count": 5,
@@ -20,7 +20,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
+      "generated_at": "2026-09-10T00:41:13+00:00",
       "item_count": 10,
       "required": true,
       "role": "primary",
@@ -37,7 +37,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
+      "generated_at": "2026-09-10T00:41:13+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -54,7 +54,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
+      "generated_at": "2026-09-10T00:41:13+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -71,7 +71,7 @@
       ],
       "enabled": false,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
+      "generated_at": "2026-09-10T00:41:13+00:00",
       "item_count": 0,
       "required": false,
       "role": "supplemental",
@@ -88,7 +88,7 @@
       ],
       "enabled": false,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
+      "generated_at": "2026-09-10T00:41:13+00:00",
       "item_count": 0,
       "required": false,
       "role": "supplemental",
@@ -105,7 +105,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
+      "generated_at": "2026-09-10T00:41:13+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -116,14 +116,14 @@
     {
       "checks": [
         {
-          "count": 4,
+          "count": 2,
           "kind": "hn_firebase"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-09T00:44:06+00:00",
-      "item_count": 4,
+      "generated_at": "2026-09-10T00:41:13+00:00",
+      "item_count": 2,
       "required": false,
       "role": "supplemental",
       "source_id": "hn_ai_health_signals",
