@@ -17,13 +17,16 @@ import re
 import sys
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone, timedelta
+from datetime import date, datetime, timezone, timedelta
 from pathlib import Path
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "engine" / "src"))
+from sih_ref.core import freshness_gate, normalize_date
+
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
 SITE_NAME = "健微知著"
@@ -112,16 +115,16 @@ def load_health() -> dict:
         return {}
 
 
-def rel_time(pub: str) -> str:
+def rel_time(pub: str, as_of: date) -> str:
     try:
         d = datetime.strptime(pub[:10], "%Y-%m-%d").date()
-        delta = (datetime.now(CST).date() - d).days
+        delta = (as_of - d).days
         return {0: "今天", 1: "昨天"}.get(delta, f"{max(delta, 0)} 天前") if delta >= 0 else pub
     except Exception:
         return pub
 
 
-def build_data(items: list[dict], tr: Translator) -> list[dict]:
+def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
     out = []
     for it in items:
         title_en = it.get("title", "")
@@ -138,8 +141,9 @@ def build_data(items: list[dict], tr: Translator) -> list[dict]:
             "u": it.get("url", ""),
             "src": name, "role": role, "cat": cat, "trust": trust,
             "tier": it.get("reading_tier", "archive"),
+            "freshness": it.get("freshness_gate", "undated"),
             "rel": round((it.get("topic_relevance") or 0) * 100, 1),
-            "when": rel_time(it.get("published_at", "")), "date": it.get("published_at", ""),
+            "when": rel_time(it.get("published_at", ""), as_of), "date": it.get("published_at", ""),
         })
     return out
 
@@ -152,46 +156,68 @@ def keyword_stats(items: list[dict], profile: dict) -> list[dict]:
     return stats[:14]
 
 
-def build() -> None:
+def build(*, as_of: date | None = None) -> None:
+    # Recheck persisted labels at build time; collection dates are not build dates.
+    build_date = as_of or datetime.now(CST).date()
     items = load_items()
     health = load_health()
     tr = Translator()
     profile = json.loads((ROOT / "config" / "profile.json").read_text(encoding="utf-8"))
 
-    as_of = health.get("as_of", datetime.now(CST).strftime("%Y-%m-%d"))
+    as_of = build_date.isoformat()
     status = health.get("daily_status", "unknown")
     n_src = health.get("source_count", len(SOURCE_META))
-    data = build_data(items, tr)
-    fresh = [it for it in items if it.get("freshness_gate") == "fresh" and it.get("reading_tier") != "archive"]
-    top10 = sorted(fresh, key=lambda it: -(it.get("topic_relevance") or 0))[:10]
+    items = [dict(it) for it in items]
+    freshness_counts = dict.fromkeys(("fresh", "stale", "future", "undated"), 0)
+    for it in items:
+        gate = freshness_gate(it, build_date, int(profile["freshness_days"]))
+        it["freshness_gate"] = gate
+        freshness_counts[gate] += 1
+        if gate != "fresh":
+            it["reading_tier"] = "archive"
+    # Sole current recommendation set: every current view derives from this list.
+    current_items = [it for it in items if it["freshness_gate"] == "fresh"
+                     and it.get("reading_tier", "archive") != "archive"]
+    ranked_current = sorted(current_items, key=lambda it: -(it.get("topic_relevance") or 0))
+    data = build_data(items, tr, build_date)
+    by_id = {d["id"]: d for d in data}
+    top10 = ranked_current[:10]
     top_ids = [it.get("item_id") for it in top10]
-    hot30 = sorted(data, key=lambda d: -d["rel"])[:30]
-    kws = keyword_stats(items, profile)
+    hot30 = [by_id[it["item_id"]] for it in ranked_current[:30]]
+    kws = keyword_stats(current_items, profile)
+    print(f"Freshness check ({as_of}): {freshness_counts}; current={len(current_items)}")
 
     src_rows = []
     for s in health.get("sources", []):
         sid = s.get("source_id", "")
         name, role, _, _ = SOURCE_META.get(sid, (sid, "", "", 1))
+        dates = [normalize_date(it.get("published_at")) for it in items if it.get("source_id") == sid]
+        dates = [d for d in dates if d and d <= as_of]
+        low_activity = bool(dates) and (build_date - date.fromisoformat(max(dates))).days > 14
         src_rows.append({"name": name, "role": role, "status": s.get("status", ""),
+                         "activity": "低活跃" if low_activity else "",
                          "n": s.get("item_count", 0),
                          "ok": s.get("status") in ("ok", "ok_no_updates")})
 
     payload = json.dumps({
         "name": SITE_NAME, "asOf": as_of,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
-        "nSrc": n_src, "nItems": len(data), "top": top_ids, "hot30": hot30,
+        "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),
+        "freshnessCounts": freshness_counts, "top": top_ids, "hot30": hot30,
         "items": data, "kws": kws, "srcs": src_rows,
         "updated": datetime.now(CST).strftime("%Y-%m-%d %H:%M") + " CST",
     }, ensure_ascii=False).replace("</", "<\\/")
 
     page = TEMPLATE.replace("__PAYLOAD__", payload).replace("__DATE__", as_of).replace("__SITE_NAME__", SITE_NAME)
+    (OUTPUT / "site").mkdir(parents=True, exist_ok=True)
     (OUTPUT / "site" / "index.html").write_text(page, encoding="utf-8")
     print(f"✅ AI Hot 式浅色站点已生成: site/index.html（翻译 {tr.translated}，熔断={'开' if tr.circuit_open else '关'}）")
     save_cache(tr.cache)
 
-    by_id = {d["id"]: d for d in data}
     lines = [f"# AI+健康情报日报 · {as_of}", "",
-             f"> 信源 {n_src} · 条目 {len(data)} · 状态 {STATUS_CN.get(status, status)}", ""]
+             f"> 信源 {n_src} · 事实池 {len(data)} · 当前有效 {len(current_items)} · 推荐产出 {len(top_ids)} · 状态 {STATUS_CN.get(status, status)}", ""]
+    if not current_items:
+        lines += ["今日暂无新条目（零产出）", ""]
     if top_ids:
         d = by_id[top_ids[0]]
         lines += [f"**机器首推：{d.get('t') or d.get('te')}**（算法排序第一，未经人工审核）", f"链接：{d.get('u')}", ""]
@@ -291,7 +317,7 @@ html{scroll-behavior:smooth}
       <section id="v-feed" class="view">
         <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">ALL INTEL · 全部情报</div>
         <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">全部情报流</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-4">按相关度排序的全部当日条目，可按分类与层级过滤。</p>
+        <p class="text-zinc-500 dark:text-zinc-400 mb-4">全部事实记录，包含过期、未来及无有效日期的归档条目，可按分类与层级过滤。</p>
         <div class="flex flex-wrap gap-2 mb-3 text-sm" id="feedCats"></div>
         <div class="flex flex-wrap gap-2 mb-4 text-sm" id="feedTiers"></div>
         <div id="feedRows" class="border border-zinc-200 dark:border-zinc-800 rounded-xl overflow-hidden divide-y divide-zinc-100 dark:divide-zinc-800"></div>
@@ -300,7 +326,7 @@ html{scroll-behavior:smooth}
       <section id="v-hot" class="view">
         <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">TRENDING · 热点榜</div>
         <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">AI+健康热点榜</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-1">按情报相关度排序的 TOP 30，相关度由主题词命中与信源权重计算。</p>
+        <p class="text-zinc-500 dark:text-zinc-400 mb-1">当前有效条目按情报相关度排序，最多 30 条；不足不回填旧闻。热词使用同一集合。</p>
         <p class="text-xs text-zinc-400 mb-6">更新于 <span id="upd2">—</span></p>
         <div id="kws" class="flex flex-wrap gap-1.5 text-xs mb-5 items-center"></div>
         <div id="hotRows" class="border border-zinc-200 dark:border-zinc-800 rounded-xl overflow-hidden divide-y divide-zinc-100 dark:divide-zinc-800"></div>
@@ -309,7 +335,7 @@ html{scroll-behavior:smooth}
       <section id="v-daily" class="view">
         <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">DAILY BRIEF · AI 日报</div>
         <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">每日情报日报</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-1">精选与 TOP 10 摘编，可直接复制转发到微信群。</p>
+        <p class="text-zinc-500 dark:text-zinc-400 mb-1">机器首推与 TOP 10 摘编，可直接复制转发到微信群。</p>
         <p class="text-xs text-zinc-400 mb-4">更新于 <span id="upd3">—</span></p>
         <button id="copyBtn" class="mb-5 text-sm px-4 py-2 rounded-lg bg-signal text-white font-bold hover:opacity-90">📋 复制日报全文</button>
         <pre id="dailyText" class="whitespace-pre-wrap text-sm bg-zinc-50 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-xl p-5 leading-relaxed"></pre>
@@ -387,8 +413,9 @@ if(D.top.length&&byId[D.top[0]]){
       <span>相关度 ${s.rel.toFixed(1)}</span><span>${esc(s.when)}</span></div>
     <p class="text-sm mt-3 leading-relaxed">${esc(s.s||s.se||'')}</p>
     <a class="inline-block mt-3 text-sm font-bold text-moss hover:underline" href="${esc(s.u)}" target="_blank" rel="noopener">阅读原文 →</a></div>`;
-}
-$('#topRows').innerHTML=D.top.map((id,ix)=>row(byId[id],ix+1)).join('');
+} else { $('#spotBox').textContent='今日暂无新条目'; }
+const emptyRows='<div class="p-8 text-center text-zinc-400">今日暂无新条目</div>';
+$('#topRows').innerHTML=D.top.map((id,ix)=>row(byId[id],ix+1)).join('')||emptyRows;
 bindRows($('#topRows'));
 
 let fCat='全部分类',fTier='全部层级';
@@ -404,7 +431,7 @@ $('#feedCats').onclick=e=>{const b=e.target.closest('button');if(!b)return;fCat=
 $('#feedTiers').onclick=e=>{const b=e.target.closest('button');if(!b)return;fTier=b.dataset.t;$('#feedTiers').querySelectorAll('button').forEach(x=>x.className='px-3 py-1.5 rounded-lg border text-xs border-zinc-200 dark:border-zinc-800 text-zinc-500');b.className='px-3 py-1.5 rounded-lg border text-xs bg-moss text-white border-moss';renderFeed();};
 renderFeed();
 
-$('#hotRows').innerHTML=D.hot30.map((it,ix)=>row(it,ix+1)).join('');
+$('#hotRows').innerHTML=D.hot30.map((it,ix)=>row(it,ix+1)).join('')||emptyRows;
 bindRows($('#hotRows'));
 $('#kws').innerHTML='<span class="text-zinc-400 mr-1">热词：</span>'+D.kws.map(k=>`<span class="px-2 py-0.5 rounded-full bg-zinc-100 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800">${esc(k.term)} <b class="text-signal">${k.n}</b></span>`).join('');
 
@@ -415,11 +442,14 @@ $('#srcRows').innerHTML=D.srcs.map(s=>`
     <span class="text-xs text-zinc-400">${esc(s.role)}</span>
     <span class="flex-1"></span>
     <span class="text-xs text-zinc-500">${s.n} 条</span>
+    <span class="text-xs text-zinc-500">${esc(s.activity)}</span>
     <span class="text-xs px-2 py-0.5 rounded-full ${s.ok?'bg-teal-50 text-teal-700 dark:bg-teal-950 dark:text-teal-400':'bg-orange-50 text-signal dark:bg-orange-950'}">${esc(s.status)}</span>
   </div>`).join('');
 
 let text=`【AI+健康情报日报 · ${D.asOf}】\n`;
-if(D.top.length){const s=byId[D.top[0]];text+=`今日精选：${s.t||s.te}\n${s.u}\n\n今日 TOP10：\n`;}
+text+=`当前有效 ${D.nCurrent} · 推荐产出 ${D.top.length}\n`;
+if(!D.top.length){text+='今日暂无新条目（零产出）\n';}
+if(D.top.length){const s=byId[D.top[0]];text+=`机器首推：${s.t||s.te}（算法排序第一，未经人工审核）\n${s.u}\n\n今日 TOP10：\n`;}
 D.top.forEach((id,ix)=>{const it=byId[id];text+=`${ix+1}. ${it.t||it.te}\n   ${it.u}\n`;});
 text+=`\n（机器翻译与评分，未经人工审核；不构成医疗/投资建议）`;
 $('#dailyText').textContent=text;

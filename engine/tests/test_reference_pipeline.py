@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 import shutil
 import sys
 import tempfile
@@ -19,6 +20,144 @@ from sih_ref.delivery import publish_webhook  # noqa: E402
 from sih_ref.pipeline import run_pipeline  # noqa: E402
 from sih_ref.render import render_site  # noqa: E402
 from sih_ref.sources import NETWORK_SOURCE_KINDS, collect_source  # noqa: E402
+from sih_ref.core import apply_incremental, freshness_gate, score_item  # noqa: E402
+
+sys.path.insert(0, str(ROOT.parent / "scripts"))
+import build_site  # noqa: E402
+
+
+class FreshnessTests(unittest.TestCase):
+    as_of = date(2026, 9, 7)
+    profile = {"freshness_days": 10, "topic_terms": {"wellness": 1}}
+
+    def item(self, published="2026-09-07", name="fresh"):
+        return normalize_item({"title": f"wellness {name}", "summary": f"{name} {name}",
+                               "url": f"https://example.org/{name}", "published_at": published},
+                              {"id": "fixture", "kind": "rss"})
+
+    def test_day_zero(self):
+        self.assertEqual("fresh", freshness_gate(self.item(), self.as_of, 10))
+
+    def test_day_ten(self):
+        self.assertEqual("fresh", freshness_gate(self.item("2026-08-28"), self.as_of, 10))
+
+    def test_day_eleven(self):
+        self.assertEqual("stale", freshness_gate(self.item("2026-08-27"), self.as_of, 10))
+
+    def test_tomorrow(self):
+        self.assertEqual("future", freshness_gate(self.item("2026-09-08"), self.as_of, 10))
+
+    def test_far_future(self):
+        self.assertEqual("future", freshness_gate(self.item("2027-01-01"), self.as_of, 10))
+
+    def test_missing_date_archived(self):
+        result = score_item(self.item(None), self.profile, self.as_of)
+        self.assertEqual(("undated", "archive"), (result["freshness_gate"], result["reading_tier"]))
+
+    def test_invalid_date_archived(self):
+        for value in ("nonsense", "2026-02-30"):
+            with self.subTest(value=value):
+                result = score_item({**self.item(), "published_at": value}, self.profile, self.as_of)
+                self.assertEqual(("undated", "archive"), (result["freshness_gate"], result["reading_tier"]))
+
+    def build_fixture(self, items, as_of=None, health=None):
+        with tempfile.TemporaryDirectory() as temp:
+            output = Path(temp)
+            (output / "site").mkdir()
+            raw = "\n".join(json.dumps(item) for item in items)
+            (output / "daily_items.jsonl").write_text(raw, encoding="utf-8")
+            with patch.object(build_site, "OUTPUT", output), patch.object(build_site, "load_health", return_value=health or {}), \
+                 patch.object(build_site.Translator, "zh", return_value=None), patch.object(build_site, "save_cache"):
+                build_site.build(as_of=as_of or self.as_of)
+            html = (output / "site/index.html").read_text(encoding="utf-8")
+            payload = json.loads(re.search(r'<script id="payload" type="application/json">(.*?)</script>', html, re.S).group(1))
+            briefing = (output / "daily_briefing_cn.md").read_text(encoding="utf-8")
+            self.assertEqual(raw, (output / "daily_items.jsonl").read_text(encoding="utf-8"))
+            return payload, briefing, html
+
+    def test_all_views_exclude_noncurrent_and_preserve_archive(self):
+        items = [self.item(), self.item("2026-08-27", "stale"),
+                 self.item("2026-09-08", "future"), self.item(None, "undated")]
+        # Simulate old persisted labels and higher scores on excluded records.
+        items = [{**it, "freshness_gate": "fresh", "reading_tier": "skim", "topic_relevance": 1} for it in items]
+        payload, briefing, _ = self.build_fixture(items)
+        self.assertEqual([items[0]["item_id"]], payload["top"])
+        self.assertEqual(payload["top"], [it["id"] for it in payload["hot30"]])
+        self.assertEqual([], payload["kws"])  # Only one eligible wellness occurrence.
+        for name in ("stale", "future", "undated"):
+            self.assertNotIn(f"https://example.org/{name}", briefing)
+        self.assertEqual(4, len(payload["items"]))
+        self.assertTrue(all(it["tier"] == "archive" for it in payload["items"][1:]))
+        self.assertEqual({"fresh": 1, "stale": 1, "future": 1, "undated": 1}, payload["freshnessCounts"])
+
+    def test_all_stale_never_backfilled(self):
+        items = [{**self.item("2020-01-01"), "reading_tier": "skim", "freshness_gate": "fresh"}]
+        payload, briefing, html = self.build_fixture(items)
+        for field in ("top", "hot30", "kws"):
+            self.assertEqual([], payload[field])
+        self.assertIn("今日暂无新条目", briefing)
+        self.assertIn("当前有效 0", briefing)
+        self.assertIn("今日暂无新条目", html)
+        self.assertEqual(1, len(payload["items"]))
+
+    def test_empty_pool(self):
+        payload, briefing, _ = self.build_fixture([])
+        self.assertEqual([], payload["top"])
+        self.assertIn("当前有效 0", briefing)
+
+    def test_future_and_undated_only_never_backfilled(self):
+        for published in ("2026-09-08", "2027-01-01", None, "invalid"):
+            with self.subTest(published=published):
+                payload, briefing, _ = self.build_fixture([
+                    {**self.item(published), "reading_tier": "skim", "topic_relevance": 1}])
+                self.assertEqual([], payload["top"])
+                self.assertEqual([], payload["hot30"])
+                self.assertEqual([], payload["kws"])
+                self.assertNotIn("https://example.org/fresh", briefing)
+
+    def test_ranking_limits_and_day_ten_inclusion(self):
+        items = [{**self.item("2026-08-28", f"item-{i}"), "reading_tier": "skim",
+                  "topic_relevance": i / 100} for i in range(35)]
+        payload, briefing, _ = self.build_fixture(items)
+        expected = [it["item_id"] for it in reversed(items)]
+        self.assertEqual(expected[:10], payload["top"])
+        self.assertEqual(expected[:30], [it["id"] for it in payload["hot30"]])
+        self.assertEqual([{"term": "wellness", "n": 35}], payload["kws"])
+        self.assertIn("https://example.org/item-34", briefing)
+        self.assertNotIn("https://example.org/item-24", briefing)
+
+    def test_build_date_overrides_old_collection_labels(self):
+        item = score_item(self.item(), self.profile, self.as_of)
+        payload, _, _ = self.build_fixture([item], date(2026, 9, 18), {"as_of": "2026-09-07"})
+        self.assertEqual("2026-09-18", payload["asOf"])
+        self.assertEqual([], payload["top"])
+
+    def test_fresh_archive_stays_out(self):
+        payload, _, _ = self.build_fixture([{**self.item(), "reading_tier": "archive"}])
+        self.assertEqual([], payload["top"])
+        self.assertEqual([], payload["hot30"])
+
+    def test_low_activity_is_not_collection_failure(self):
+        for published, expected in (("2026-08-24", ""), ("2026-08-23", "低活跃")):
+            health = {"daily_status": "complete", "sources": [{"source_id": "fixture", "status": "ok", "item_count": 1}]}
+            payload, _, _ = self.build_fixture([self.item(published)], health=health)
+            self.assertEqual("complete", payload["statusRaw"])
+            self.assertTrue(payload["srcs"][0]["ok"])
+            self.assertEqual(expected, payload["srcs"][0]["activity"])
+
+    def test_legacy_state_seen_does_not_revive_stale_item(self):
+        item = self.item("2020-01-01")
+        with tempfile.TemporaryDirectory() as temp:
+            state = Path(temp) / "fixture.json"
+            legacy = {item["item_id"]: item["fingerprint"]}
+            state.write_text(json.dumps(legacy), encoding="utf-8")
+            stamped = apply_incremental([item], state, persist=True)[0]
+            result = score_item(stamped, self.profile, self.as_of)
+            self.assertEqual("seen", result["event_type"])
+            self.assertEqual("archive", result["reading_tier"])
+            self.assertEqual(legacy, json.loads(state.read_text(encoding="utf-8")))
+            for key in ("item_id", "fingerprint", "provenance"):
+                self.assertEqual(item[key], result[key])
 
 
 def tree_digest(path: Path) -> str:
