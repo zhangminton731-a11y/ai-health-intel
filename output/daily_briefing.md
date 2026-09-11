@@ -1,4 +1,4 @@
-# Scientific Information Brief · 2026-09-10
+# Scientific Information Brief · 2026-09-11
 
 > Daily status: **complete** · sources 5/5 · items 51
 
@@ -36,7 +36,7 @@ Lyte, a physical AI startup building sensing and perception technology for robot
 
 - Source: `medtech_dive_primary` · published `2026-09-08` · freshness `fresh`
 - Topic relevance: `0.61` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/5-takeaways-from-ouras-ipo-filing/829858/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/5-takeaways-from-ouras-ipo-filing/829858/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/D0gVEHO9xhuSvtbN8m8zx8VeFNPds2_0F-cLjfl_s7I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vdXJhLU9SNENfQ2FtcGFpZ25fNS5qcGc=.webp"/></div></figure><p>The wearables firm&rsquo;s sales are growing, and it is adding more paid members, but questions loom about whether the company will need to approach future features as a medical device.</p>
 
@@ -52,7 +52,7 @@ Lyte, a physical AI startup building sensing and perception technology for robot
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.35` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/running-race-training-tips/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/running-race-training-tips/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp">Search can help runners get race-day ready with registration alerts, tailored training plans, and more.
 
@@ -92,7 +92,7 @@ A U.K. commission has unveiled its recommendations for how the country should re
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.31` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp">We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
 
@@ -110,7 +110,7 @@ A U.K. commission has unveiled its recommendations for how the country should re
 
 - Source: `crunchbase_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/august-2026-new-unicorns-ai-robotics-semiconductors-xpeng-lumilens-river-source/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/august-2026-new-unicorns-ai-robotics-semiconductors-xpeng-lumilens-river-source/`
 
 A total of 29 companies joined The Crunchbase Unicorn Board in August, adding around $63 billion in value to the board. More than a third of the companies to join last month were under 3 years old, underscoring how quickly some of today's best-funded startups are reaching multibillion-dollar valuations.
 
@@ -158,7 +158,7 @@ An AstraZeneca drug reduced the dangerous flare-ups that worsen COPD in a pair o
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/biotech-news-fda-expands-bayer-lung-cancer-drug-approval/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/biotech-news-fda-expands-bayer-lung-cancer-drug-approval/?utm_campaign=rss`
 
 UniQure readout tests durability of benefits, an AI effort to manage heart failure, and more biotech news from The Readout
 
@@ -240,7 +240,7 @@ In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm 
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-labs/dreambeans-expansion-september-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dreambeans_social.max-600x600.format-webp.webp">In June, Google Labs introduced Dreambeans, an experiment that creates personalized daily collections of stories. Now, Dreambeans is available to all accounts in the U.S…
 
@@ -248,7 +248,7 @@ In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm 
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/data-strength-updates/`
+- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/data-strength-updates/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp">New capabilities across our measurement suite can help you make better, faster decisions that drive business growth.
 
@@ -256,7 +256,7 @@ In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm 
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Landscape.max-600x600.format-webp.webp">A new weekend explores how artists, digital innovation and AI are reshaping the world we live in.
 
@@ -264,7 +264,7 @@ In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm 
 
 - Source: `crunchbase_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/`
 
 Guest author Alberto Onetti, chairman of Mind the Bridge, shares how South Korea’s rise to the world’s eighth-largest national innovation ecosystem shows how sustained government investment, startup programs, regulatory reforms and deep-tech policies can transform an economy over time.
 
@@ -272,7 +272,7 @@ Guest author Alberto Onetti, chairman of Mind the Bridge, shares how South Korea
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss`
 
 “Nothing in the recent reporting about John Fetterman is medically surprising,” write Michael P.H. Stanley and Isaiah Kletenik.
 
@@ -280,7 +280,7 @@ Guest author Alberto Onetti, chairman of Mind the Bridge, shares how South Korea
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/?utm_campaign=rss`
 
 Feds invest in AI for heart failure, vaccines and this year's midterms, and more health news from Morning Rounds
 
@@ -288,7 +288,7 @@ Feds invest in AI for heart failure, vaccines and this year's midterms, and more
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss`
 
 Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors
 
@@ -296,7 +296,7 @@ Platinum chemotherapy aged the liver cells of treated children, making them look
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss`
 
 Nominees for top federal health roles to face Congress, and Trump officials are betting on AI to help save rural health care.
 
@@ -304,7 +304,7 @@ Nominees for top federal health roles to face Congress, and Trump officials are 
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/?utm_campaign=rss`
 
 An ongoing shortage of cancer medications continues to force leading cancer centers around the U.S. to seek work-around strategies to treat patients and a majority also report that clinical trials&#8230;
 
@@ -312,7 +312,7 @@ An ongoing shortage of cancer medications continues to force leading cancer cent
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss`
 
 GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight.
 
@@ -320,7 +320,7 @@ GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democ
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss`
 
 A major Novartis shareholder has called for a shake-up of the drugmaker's board after its shares suffered a record fall following trial setbacks
 
@@ -328,7 +328,7 @@ A major Novartis shareholder has called for a shake-up of the drugmaker's board 
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss`
 
 The legal basis for the $500 checks, and who would get them, isn't entirely clear.
 
@@ -336,7 +336,7 @@ The legal basis for the $500 checks, and who would get them, isn't entirely clea
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss`
 
 A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story.
 
@@ -344,7 +344,7 @@ A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss`
 
 There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.
 
@@ -352,7 +352,7 @@ There has been rancorous debate over doctors accepting free gifts and speaking f
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss`
 
 Before the end of September, UniQure is expected to report four-year results from the closely tracked clinical trial of its gene therapy for Huntington’s disease.
 
@@ -360,7 +360,7 @@ Before the end of September, UniQure is expected to report four-year results fro
 
 - Source: `medtech_dive_primary` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/stryker-stock-falls-on-slower-peripheral-vascular-hip-sales/830060/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/stryker-stock-falls-on-slower-peripheral-vascular-hip-sales/830060/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/4gQBQ_4pgZA16ab4dxbwcG5FnFvNWHyE_q_FgS5JP1E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVEMzQU5NLmpwZw==.webp"/></div></figure><p>CFO Preston Wells said at a healthcare conference that the company is still working through supply issues in its peripheral vascular business and had fewer hip sales than expected so far this quarter.</p>
 
@@ -368,7 +368,7 @@ Before the end of September, UniQure is expected to report four-year results fro
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/platforms/android/switch-password-managers/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/android/switch-password-managers/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp">A new Android feature lets you securely transfer passwords and passkeys between password managers.
 
@@ -376,7 +376,7 @@ Before the end of September, UniQure is expected to report four-year results fro
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss`
 
 Rural health care providers have struggled for years. The Trump administration is pointing to a cutting-edge, if unproven way to save them: artificial intelligence.
 
@@ -384,7 +384,7 @@ Rural health care providers have struggled for years. The Trump administration i
 
 - Source: `medtech_dive_primary` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/zimmer-restructures-americas-leadership-team/830004/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/zimmer-restructures-americas-leadership-team/830004/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/tJAeuE2vkxFKXSOh1GkP2dteAIOAmqkeQgYzx4O-KmI/g:nowe:0:34/c:1500:847/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg4MzczNTQ2LmpwZw==.webp"/></div></figure><p>The company promoted three executives and eliminated a fourth position as part of changes intended to support its ongoing commercial transformation.</p>
 
@@ -392,7 +392,7 @@ Rural health care providers have struggled for years. The Trump administration i
 
 - Source: `hn_ai_health_signals` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://hugovergnes.github.io/little-lm-3-8b/`
+- Event: `seen` · identity: `url:https://hugovergnes.github.io/little-lm-3-8b/`
 
 Hacker News community signal; score 110.
 
@@ -416,7 +416,7 @@ Hacker News community signal; score 110.
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss`
 
 This week on "The Readout LOUD" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?
 
