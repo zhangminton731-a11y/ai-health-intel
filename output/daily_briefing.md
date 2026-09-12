@@ -1,18 +1,10 @@
-# Scientific Information Brief · 2026-09-11
+# Scientific Information Brief · 2026-09-12
 
-> Daily status: **complete** · sources 5/5 · items 51
+> Daily status: **complete** · sources 5/5 · items 52
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
-## Priority · 2
-
-### [The IPO Window Is Closing. Here Are 8 Startups To Watch.](https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/)
-
-- Source: `crunchbase_news_feed` · published `2026-09-02` · freshness `fresh`
-- Topic relevance: `0.57` · novelty hint: `0.75`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/`
-
-In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year’s end now in sight, a small window remains for other startups to launch 2026 IPOs, so we took a look at notable venture-backed startups that Crunchbase’s predictive intelligence suggests are potential IPO candidates within the next six months.
+## Priority · 1
 
 ### [Mistral AI Raises $3.5B At $24B Valuation In Another Record European AI Round](https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/)
 
@@ -24,14 +16,6 @@ Paris-based generative AI startup Mistral AI said Tuesday that it has nearly dou
 
 ## Scan · 9
 
-### [Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation](https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/)
-
-- Source: `crunchbase_news_feed` · published `2026-09-02` · freshness `fresh`
-- Topic relevance: `1.0` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/`
-
-Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation.
-
 ### [5 takeaways from Oura’s IPO filing](https://www.medtechdive.com/news/5-takeaways-from-ouras-ipo-filing/829858/)
 
 - Source: `medtech_dive_primary` · published `2026-09-08` · freshness `fresh`
@@ -39,14 +23,6 @@ Lyte, a physical AI startup building sensing and perception technology for robot
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/5-takeaways-from-ouras-ipo-filing/829858/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/D0gVEHO9xhuSvtbN8m8zx8VeFNPds2_0F-cLjfl_s7I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9vdXJhLU9SNENfQ2FtcGFpZ25fNS5qcGc=.webp"/></div></figure><p>The wearables firm&rsquo;s sales are growing, and it is adding more paid members, but questions loom about whether the company will need to approach future features as a medical device.</p>
-
-### [Elucid raises $55M to commercialize cardiovascular imaging platform](https://www.medtechdive.com/news/elucid-raises-55m-to-commercialize-cardiovascular-imaging-platform/829752/)
-
-- Source: `medtech_dive_primary` · published `2026-09-08` · freshness `fresh`
-- Topic relevance: `0.35` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/elucid-raises-55m-to-commercialize-cardiovascular-imaging-platform/829752/`
-
-<p>Elucid, which gained a large medtech company as an investor, plans to grow industry partnerships as it looks to expand its AI-powered imaging platform.</p>
 
 ### [3 ways to prep for your next big race with Search](https://blog.google/products-and-platforms/products/search/running-race-training-tips/)
 
@@ -64,13 +40,21 @@ Lyte, a physical AI startup building sensing and perception technology for robot
 
 <figure><div><img src="https://imgproxy.divecdn.com/3YTF0Zmsp4yESklYJZ6KuLIpF_0tNS9AbT4t5M_J-OM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjA5Ni5qcGc=.webp"/></div></figure><p>Buying MLM gives Labcorp a wholly owned laboratory network that spans North America, Europe, Asia and Africa.</p>
 
-### [Global Venture Funding Jumps 122% In August As Streak Of Billion-Dollar Deals Continues](https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/)
+### [Axogen to buy BioCircuit Technologies for $200M](https://www.medtechdive.com/news/axogen-to-buy-biocircuit-technologies-for-200m/830059/)
 
-- Source: `crunchbase_news_feed` · published `2026-09-03` · freshness `fresh`
-- Topic relevance: `0.31` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/`
+- Source: `medtech_dive_primary` · published `2026-09-10` · freshness `fresh`
+- Topic relevance: `0.33` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/axogen-to-buy-biocircuit-technologies-for-200m/830059/`
 
-Venture investors poured $42 billion into just over 1,500 startups worldwide in August, Crunchbase data shows, down 25% from July’s $56 billion but still up a significant 122% compared to last August, which is typically a slower month for startup investment.
+<figure><div><img src="https://imgproxy.divecdn.com/qV5XVc8Jb6_zKQXz9njy_mX8tlH5iF0sfzEYlUpgpss/g:nowe:0:75/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzEzMDk1NzIwLmpwZw==.webp"/></div></figure><p>Analysts called the acquisition a good fit for Axogen but said the company&rsquo;s plans to finance the deal with a public stock offering could be a point of contention for investors.</p>
+
+### [STAT+: Pharmalittle: We’re reading about anxious Novartis investors, patent expirations for biologics, and more](https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.33` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss`
+
+Novartis investors are stepping up scrutiny of the company's dealmaking after setbacks to drugs it acquired through mergers and acquisitions
 
 ### [The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul](https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/)
 
@@ -80,14 +64,6 @@ Venture investors poured $42 billion into just over 1,500 startups worldwide in 
 
 AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe led with a massive $3 billion financing, followed by Fluidstack’s $1.5 billion raise.
 
-### [STAT+: U.K. unveils recommendations for regulating AI in medicine](https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.31` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss`
-
-A U.K. commission has unveiled its recommendations for how the country should regulate artificial intelligence in medicine.
-
 ### [The Gemini app is now available for Windows](https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/)
 
 - Source: `fitbit_google_blog` · published `2026-09-10` · freshness `fresh`
@@ -96,7 +72,23 @@ A U.K. commission has unveiled its recommendations for how the country should re
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp">We’re launching the Gemini app for Windows, the new desktop app built to work alongside your favorite tools and daily applications.
 
-## Hold · 8
+### [Boycott launched against American Diabetes Association includes journal](https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.31` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss`
+
+Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks, and more health news
+
+### [The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week](https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/)
+
+- Source: `crunchbase_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.31` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/`
+
+It was a monster week for U.S. startup funding, with four companies each raising $1 billion or more. The Boring Co. led with a $3 billion Series D, followed by AI coding startup Cognition at $2 billion. Joining them near the top was fleet management software provider Motive, which landed $1.3 billion, while reusable rocket developer Stoke Space raised another $1 billion.
+
+## Hold · 7
 
 ### [Tackle your to-do list with new features in our Google AI plans.](https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/)
 
@@ -122,6 +114,14 @@ A total of 29 companies joined The Crunchbase Unicorn Board in August, adding ar
 
 Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.
 
+### [Boston Scientific fully restores operations after cyberattack](https://www.medtechdive.com/news/boston-scientific-fully-restores-operations-after-cyberattack/830182/)
+
+- Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.25` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/boston-scientific-fully-restores-operations-after-cyberattack/830182/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/c1xaQibjjybytbyrKOdFEokteOrn9zzBlI4Ys-SnoGo/g:nowe:148:0/c:1184:669/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJsYm9yb3VnaF9IZWFkcXVhcnRlcnNfZnJvbnRfZnVsbC5wbmc=.webp"/></div></figure><p>CEO Mike Mahoney gave more details at a Thursday investor conference, saying the company likely lost orders while its plants and distribution centers were shut down.</p>
+
 ### [4 questions about the FDA’s approach to generative AI](https://www.medtechdive.com/news/4-questions-about-the-fdas-approach-to-generative-ai/829871/)
 
 - Source: `medtech_dive_primary` · published `2026-09-09` · freshness `fresh`
@@ -129,30 +129,6 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/4-questions-about-the-fdas-approach-to-generative-ai/829871/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/f5a4VRDXQg-SwH2yBDKHbtLeyVHpX8cemnSbe-t-6xU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp"/></div></figure><p>The medtech industry is awaiting FDA guidance on generative AI. The agency has sought feedback in advisory meetings and a discussion paper as the technology becomes more prevalent.</p>
-
-### [STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure](https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss`
-
-ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.
-
-### [STAT+: Orexin discoverers awarded prestigious Lasker award](https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss`
-
-A new FDA CBER head, AI company Schrodinger with a new startup, and more biotech news from The Readout
-
-### [STAT+: Pharmalittle: We’re reading about an AstraZeneca COPD win, the FDA filling key jobs, and more](https://www.statnews.com/pharmalot/2026/09/09/astrazeneca-copd-win-fda-filling-key-jobs/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/09/astrazeneca-copd-win-fda-filling-key-jobs/?utm_campaign=rss`
-
-An AstraZeneca drug reduced the dangerous flare-ups that worsen COPD in a pair of late-stage trials
 
 ### [STAT+: FDA expands Bayer lung cancer drug approval](https://www.statnews.com/2026/09/10/biotech-news-fda-expands-bayer-lung-cancer-drug-approval/?utm_campaign=rss)
 
@@ -162,7 +138,15 @@ An AstraZeneca drug reduced the dangerous flare-ups that worsen COPD in a pair o
 
 UniQure readout tests durability of benefits, an AI effort to manage heart failure, and more biotech news from The Readout
 
-## Archive · 32
+### [STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss](https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss`
+
+A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year.
+
+## Archive · 35
 
 ### [A Startup General Counsel Knew What Corporate Lawyers Needed From AI. So She Built It.](https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/)
 
@@ -172,21 +156,13 @@ UniQure readout tests durability of benefits, an AI effort to manage heart failu
 
 After nearly two decades working as a lawyer at companies such as Amazon, Cruise, Replit and Anki, Cecilia Ziniti teamed up with engineer Bardia Pourvakil to combine their knowledge of law and coding to co-found GC AI.
 
-### [Boston Scientific begins to restore shipping after cyberattack](https://www.medtechdive.com/news/boston-scientific-begins-to-restore-shipping-after-cyberattack/829694/)
+### [4 ways Gemini makes administrative chores quick and easy](https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/)
 
-- Source: `medtech_dive_primary` · published `2026-09-04` · freshness `fresh`
+- Source: `fitbit_google_blog` · published `2026-09-09` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-begins-to-restore-shipping-after-cyberattack/829694/`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/`
 
-<figure><div><img src="https://imgproxy.divecdn.com/Lyg-8rmCTujgRCMvDWgxiJgD88R_1aVXbpWNzXOngKE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3N0b25fU2NpZW50aWZpY19tYW51Zl9wYWxudC5qcGVn.webp"/></div></figure><p>The company is working through a backlog after the cyberattack hampered manufacturing, order processing and shipping.</p>
-
-### [Boston Scientific recall of spinal cord stimulator leads tied to more than 1,000 injuries](https://www.medtechdive.com/news/boston-scientific-recall-of-spinal-cord-stimulator-leads-tied-to-more-than/829699/)
-
-- Source: `medtech_dive_primary` · published `2026-09-04` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-recall-of-spinal-cord-stimulator-leads-tied-to-more-than/829699/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/DJet28oWLnaMhtl1zOQ5NfWyIH57FTfYriXtiDdcxiA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExMTk5MTM4LmpwZw==.webp"/></div></figure><p>A problem with the leads could cause inadequate stimulation, Boston Scientific said. In the worst case, leads may need to be removed or replaced.</p>
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp">People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.
 
 ### [A new deep learning model maps global methane emissions from space.](https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/)
 
@@ -195,38 +171,6 @@ After nearly two decades working as a lawyer at companies such as Amazon, Cruise
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp">Google and NASA JPL developed an AI model to map and quantify global methane emissions from space using EMIT.
-
-### [Coroner releases details of infants who died amid growing Pennsylvania measles outbreak](https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss`
-
-The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.
-
-### [Google Accelerators have spent the last decade helping global startups succeed.](https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/)
-
-- Source: `fitbit_google_blog` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp">Since 2016, we’ve supported 2,115 startups, developers, research organizations, and NGOs across 92 countries.
-
-### [Recreating a 70-year love story frame by frame](https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/)
-
-- Source: `fitbit_google_blog` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp">Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film "Love, Rendered."
-
-### [STAT+: Can AI fix the emergency room?](https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-09` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss`
-
-AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis.
 
 ### [The Sales Test This Norwest Partner Gives Founders Before He’ll Invest](https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/)
 
@@ -268,22 +212,6 @@ In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm 
 
 Guest author Alberto Onetti, chairman of Mind the Bridge, shares how South Korea’s rise to the world’s eighth-largest national innovation ecosystem shows how sustained government investment, startup programs, regulatory reforms and deep-tech policies can transform an economy over time.
 
-### [Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill](https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss`
-
-“Nothing in the recent reporting about John Fetterman is medically surprising,” write Michael P.H. Stanley and Isaiah Kletenik.
-
-### [Oz says ‘AI-based avatars’ can help rural communities. Some leaders disagree](https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/?utm_campaign=rss`
-
-Feds invest in AI for heart failure, vaccines and this year's midterms, and more health news from Morning Rounds
-
 ### [Platinum-based chemotherapy in childhood causes mutations that age the liver](https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
@@ -308,14 +236,6 @@ Nominees for top federal health roles to face Congress, and Trump officials are 
 
 An ongoing shortage of cancer medications continues to force leading cancer centers around the U.S. to seek work-around strategies to treat patients and a majority also report that clinical trials&#8230;
 
-### [STAT+: Five midterm races to watch that could be crucial for vaccine policy](https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss`
-
-GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight.
-
 ### [STAT+: Pharmalittle: We’re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more](https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
@@ -332,14 +252,6 @@ A major Novartis shareholder has called for a shake-up of the drugmaker's board 
 
 The legal basis for the $500 checks, and who would get them, isn't entirely clear.
 
-### [STAT+: Roivant is one of the savviest dealmakers in biotech. It also has a secret weapon](https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss`
-
-A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story.
-
 ### [STAT+: The gifts from pharma companies that keep on giving](https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
@@ -347,14 +259,6 @@ A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s
 - Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss`
 
 There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.
-
-### [STAT+: What to expect from UniQure’s upcoming Huntington’s gene therapy readout](https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss`
-
-Before the end of September, UniQure is expected to report four-year results from the closely tracked clinical trial of its gene therapy for Huntington’s disease.
 
 ### [Stryker stock falls on slower peripheral vascular, hip sales](https://www.medtechdive.com/news/stryker-stock-falls-on-slower-peripheral-vascular-hip-sales/830060/)
 
@@ -372,14 +276,6 @@ Before the end of September, UniQure is expected to report four-year results fro
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp">A new Android feature lets you securely transfer passwords and passkeys between password managers.
 
-### [Trump officials say AI will help save rural health care. Some leaders in the field don’t believe it](https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss`
-
-Rural health care providers have struggled for years. The Trump administration is pointing to a cutting-edge, if unproven way to save them: artificial intelligence.
-
 ### [Zimmer restructures Americas leadership team](https://www.medtechdive.com/news/zimmer-restructures-americas-leadership-team/830004/)
 
 - Source: `medtech_dive_primary` · published `2026-09-10` · freshness `fresh`
@@ -388,29 +284,133 @@ Rural health care providers have struggled for years. The Trump administration i
 
 <figure><div><img src="https://imgproxy.divecdn.com/tJAeuE2vkxFKXSOh1GkP2dteAIOAmqkeQgYzx4O-KmI/g:nowe:0:34/c:1500:847/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg4MzczNTQ2LmpwZw==.webp"/></div></figure><p>The company promoted three executives and eliminated a fourth position as part of changes intended to support its ongoing commercial transformation.</p>
 
-### [Training a 3.8B LLM to 0.384 CORE for $998](https://hugovergnes.github.io/little-lm-3-8b/)
+### [ARPA-H to award $62.7M for AI in cardiovascular care](https://www.medtechdive.com/news/arpa-h-to-award-627m-for-ai-in-cardiovascular-care/830185/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-10` · freshness `fresh`
+- Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/arpa-h-to-award-627m-for-ai-in-cardiovascular-care/830185/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/QMRuFnxqha_MeEkSNlcDFPieSHe5TJZgniaU-Fvf6m4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk2MTY2MTgyLmpwZw==.webp"/></div></figure><p>Companies including Tempus AI and Updoc are tasked with building an agentic AI system for managing heart failure.</p>
+
+### [CMS expands TAVR Medicare coverage to asymptomatic patients](https://www.medtechdive.com/news/cms-expands-tavr-medicare-coverage-to-asymptomatic-patients/830186/)
+
+- Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/cms-expands-tavr-medicare-coverage-to-asymptomatic-patients/830186/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/yNFj1iOXXiGXHrvNzMITrI7Zf52PfwK1rovRc0StZW8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ3NTA1MDAwLmpwZw==.webp"/></div></figure><p>The Centers for Medicare and Medicaid Services&rsquo; policy update extends Medicare coverage to severe aortic stenosis patients without symptoms, a change that analysts said will especially benefit Edwards Lifesciences.</p>
+
+### [How This Doctor-Turned-Startup-Founder Decided To Fix The Healthcare Staffing Crunch: Make Employers Apply](https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/)
+
+- Source: `crunchbase_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/`
+
+Iman Abuzeid left clinical medicine to tackle healthcare problems at scale, co-founding Incredible Health, a hiring platform that reverses traditional recruiting by having employers apply to healthcare professionals by combining her expertise with co-founder Rome Portlock’s technical skills the company uses AI agents to cut hiring time by 30%.
+
+### [Medicaid will let states use ‘tiers’ to determine medical frailty](https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss`
+
+New Medicaid rules use allow use of tiers to determine work exemptions. Advocates fear complex guidelines could cause patients to lose insurance.
+
+### [Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun](https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss`
+
+“Somewhere along the way, we forgot how to celebrate vaccines,” writes public health communications consultant Adam Zimmerman.
+
+### [Opinion: I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over](https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss`
+
+“For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores.
+
+### [STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs](https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss`
+
+A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.
+
+### [STAT+: Cancer drug shortages keep disrupting patient care](https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss`
+
+Platinum chemotherapy's long-term effects, surprising heart failure drug failures, and more biotech news from The Readout
+
+### [STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field](https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss`
+
+The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry.
+
+### [STAT+: Pharma wins a battle over the cost of wastewater treatment in Europe](https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss`
+
+An E.U. AG recommended annulling part of a directive that requires drugmakers to finance 80% of the costs of wastewater treatment.
+
+### [STAT+: Up and down the ladder: The latest comings and goings](https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss`
+
+From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
+
+### [The Only 2 Moats That Actually Work In The AI Era](https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/)
+
+- Source: `crunchbase_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/`
+
+AI itself is no longer a durable differentiator, argues guest author SC Moatti of Mighty Capital, who says he strongest startup moats are counter-positioning and network economies.
+
+### [Three Google supported projects premiere during the 83rd Venice International Film Festival.](https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/)
+
+- Source: `fitbit_google_blog` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp">Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.
+
+### [U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown](https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss`
+
+The largest cyclospora food poisoning outbreak in U.S. history is over, U.S. health officials said, but questions remain over its origin.
+
+### [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+
+- Source: `hn_ai_health_signals` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://hugovergnes.github.io/little-lm-3-8b/`
+- Event: `new` · identity: `url:https://github.com/kennethwolters/litelm`
 
-Hacker News community signal; score 110.
+Hacker News community signal; score 90.
 
-### [Abbott wins FDA approval for dual-energy ablation catheter](https://www.medtechdive.com/news/abbott-wins-fda-approval-for-dual-energy-ablation-catheter/829810/)
+### [Show HN: Extension to filter LLM written articles](https://hnslop.nilsherzig.com/)
 
-- Source: `medtech_dive_primary` · published `2026-09-08` · freshness `fresh`
-- Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/abbott-wins-fda-approval-for-dual-energy-ablation-catheter/829810/`
+- Source: `hn_ai_health_signals` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://hnslop.nilsherzig.com/`
 
-<p>CEO Robert Ford has said the atrial fibrillation treatment, along with the company&#39;s Volt PFA device, is expected to help Abbott regain market share in electrophysiology.</p>
-
-### [Boston Scientific unlikely to meet guidance due to cyberattack](https://www.medtechdive.com/news/boston-scientific-unlikely-to-meet-guidance-due-to-cyberattack/829802/)
-
-- Source: `medtech_dive_primary` · published `2026-09-08` · freshness `fresh`
-- Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-unlikely-to-meet-guidance-due-to-cyberattack/829802/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/nByRY_TgKVJ3IPv6lAZcrQ5OYGpopfpNPShNe2J_LIM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRk5CNzJYLmpwZw==.webp"/></div></figure><p>Despite making progress restoring global operations, the device maker said in a securities filing that it is unlikely to meet third-quarter and full-year sales and earnings forecasts.</p>
+Hacker News community signal; score 14.
 
 ### [Why two promising heart drugs flopped and what’s next](https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss)
 
@@ -419,6 +419,14 @@ Hacker News community signal; score 110.
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss`
 
 This week on "The Readout LOUD" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?
+
+### [STAAR Surgical hires former CEO to lead commercial team](https://www.medtechdive.com/news/staar-surgical-hires-former-ceo-to-lead-commercial-team/830136/)
+
+- Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
+- Topic relevance: `0.0` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/staar-surgical-hires-former-ceo-to-lead-commercial-team/830136/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/pLMCtiPF7fyVFCDP0NqLMubRJ0T5sJMflzwSu7Vd8Y4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRk9zLU9uLXRoZS1Nb3ZlLVdlZWstRW5kaW5nLU9jdG9iZXItMTRfSkx4R3RIbS5qcGVn.webp"/></div></figure><p>David Bailey has rejoined STAAR after participating in the successful campaign to block Alcon&rsquo;s takeover of the company.</p> <p>&nbsp;</p>
 
 ---
 
