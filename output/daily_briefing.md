@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-09-12
+# Scientific Information Brief · 2026-09-13
 
-> Daily status: **complete** · sources 5/5 · items 52
+> Daily status: **complete** · sources 5/5 · items 53
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -44,7 +44,7 @@ Paris-based generative AI startup Mistral AI said Tuesday that it has nearly dou
 
 - Source: `medtech_dive_primary` · published `2026-09-10` · freshness `fresh`
 - Topic relevance: `0.33` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/axogen-to-buy-biocircuit-technologies-for-200m/830059/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/axogen-to-buy-biocircuit-technologies-for-200m/830059/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/qV5XVc8Jb6_zKQXz9njy_mX8tlH5iF0sfzEYlUpgpss/g:nowe:0:75/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzEzMDk1NzIwLmpwZw==.webp"/></div></figure><p>Analysts called the acquisition a good fit for Axogen but said the company&rsquo;s plans to finance the deal with a public stock offering could be a point of contention for investors.</p>
 
@@ -52,7 +52,7 @@ Paris-based generative AI startup Mistral AI said Tuesday that it has nearly dou
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.33` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/anxious-novartis-investors-biologics-facing-patent-expirations/?utm_campaign=rss`
 
 Novartis investors are stepping up scrutiny of the company's dealmaking after setbacks to drugs it acquired through mergers and acquisitions
 
@@ -76,7 +76,7 @@ AI infrastructure dominated the largest venture rounds this week, with two multi
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.31` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss`
 
 Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks, and more health news
 
@@ -84,7 +84,7 @@ Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks,
 
 - Source: `crunchbase_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.31` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/`
 
 It was a monster week for U.S. startup funding, with four companies each raising $1 billion or more. The Boring Co. led with a $3 billion Series D, followed by AI coding startup Cognition at $2 billion. Joining them near the top was fleet management software provider Motive, which landed $1.3 billion, while reusable rocket developer Stoke Space raised another $1 billion.
 
@@ -118,7 +118,7 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 
 - Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.25` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/boston-scientific-fully-restores-operations-after-cyberattack/830182/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-fully-restores-operations-after-cyberattack/830182/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/c1xaQibjjybytbyrKOdFEokteOrn9zzBlI4Ys-SnoGo/g:nowe:148:0/c:1184:669/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJsYm9yb3VnaF9IZWFkcXVhcnRlcnNfZnJvbnRfZnVsbC5wbmc=.webp"/></div></figure><p>CEO Mike Mahoney gave more details at a Thursday investor conference, saying the company likely lost orders while its plants and distribution centers were shut down.</p>
 
@@ -142,11 +142,11 @@ UniQure readout tests durability of benefits, an AI effort to manage heart failu
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss`
 
 A late-stage clinical trial found that, when combined with an SMN2-targeting drug, Isembyld caused young patients’ motor skills to improve after a year.
 
-## Archive · 35
+## Archive · 36
 
 ### [A Startup General Counsel Knew What Corporate Lawyers Needed From AI. So She Built It.](https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/)
 
@@ -160,7 +160,7 @@ After nearly two decades working as a lawyer at companies such as Amazon, Cruise
 
 - Source: `fitbit_google_blog` · published `2026-09-09` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp">People are turning to Gemini for help with complex government tasks, like filing taxes, preparing fines, and accessing social services.
 
@@ -228,14 +228,6 @@ Platinum chemotherapy aged the liver cells of treated children, making them look
 
 Nominees for top federal health roles to face Congress, and Trump officials are betting on AI to help save rural health care.
 
-### [STAT+: Cancer medicines remain in short supply across the U.S., survey finds](https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/?utm_campaign=rss`
-
-An ongoing shortage of cancer medications continues to force leading cancer centers around the U.S. to seek work-around strategies to treat patients and a majority also report that clinical trials&#8230;
-
 ### [STAT+: Pharmalittle: We’re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more](https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
@@ -288,7 +280,7 @@ There has been rancorous debate over doctors accepting free gifts and speaking f
 
 - Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/arpa-h-to-award-627m-for-ai-in-cardiovascular-care/830185/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/arpa-h-to-award-627m-for-ai-in-cardiovascular-care/830185/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/QMRuFnxqha_MeEkSNlcDFPieSHe5TJZgniaU-Fvf6m4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk2MTY2MTgyLmpwZw==.webp"/></div></figure><p>Companies including Tempus AI and Updoc are tasked with building an agentic AI system for managing heart failure.</p>
 
@@ -296,7 +288,7 @@ There has been rancorous debate over doctors accepting free gifts and speaking f
 
 - Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/cms-expands-tavr-medicare-coverage-to-asymptomatic-patients/830186/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/cms-expands-tavr-medicare-coverage-to-asymptomatic-patients/830186/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/yNFj1iOXXiGXHrvNzMITrI7Zf52PfwK1rovRc0StZW8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ3NTA1MDAwLmpwZw==.webp"/></div></figure><p>The Centers for Medicare and Medicaid Services&rsquo; policy update extends Medicare coverage to severe aortic stenosis patients without symptoms, a change that analysts said will especially benefit Edwards Lifesciences.</p>
 
@@ -304,7 +296,7 @@ There has been rancorous debate over doctors accepting free gifts and speaking f
 
 - Source: `crunchbase_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/`
 
 Iman Abuzeid left clinical medicine to tackle healthcare problems at scale, co-founding Incredible Health, a hiring platform that reverses traditional recruiting by having employers apply to healthcare professionals by combining her expertise with co-founder Rome Portlock’s technical skills the company uses AI agents to cut hiring time by 30%.
 
@@ -312,7 +304,7 @@ Iman Abuzeid left clinical medicine to tackle healthcare problems at scale, co-f
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/medicaid-work-requirements-new-tier-system-define-medical-frailty/?utm_campaign=rss`
 
 New Medicaid rules use allow use of tiers to determine work exemptions. Advocates fear complex guidelines could cause patients to lose insurance.
 
@@ -320,7 +312,7 @@ New Medicaid rules use allow use of tiers to determine work exemptions. Advocate
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss`
 
 “Somewhere along the way, we forgot how to celebrate vaccines,” writes public health communications consultant Adam Zimmerman.
 
@@ -328,7 +320,7 @@ New Medicaid rules use allow use of tiers to determine work exemptions. Advocate
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss`
 
 “For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores.
 
@@ -336,7 +328,7 @@ New Medicaid rules use allow use of tiers to determine work exemptions. Advocate
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss`
 
 A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.
 
@@ -344,7 +336,7 @@ A newly approved AI tool can scan EKGs for severe heart attacks and, the company
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/biotech-news-cancer-drug-shortages-keep-disrupting-patient-care/?utm_campaign=rss`
 
 Platinum chemotherapy's long-term effects, surprising heart failure drug failures, and more biotech news from The Readout
 
@@ -352,7 +344,7 @@ Platinum chemotherapy's long-term effects, surprising heart failure drug failure
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss`
 
 The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry.
 
@@ -360,7 +352,7 @@ The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/pharma-wins-cost-of-wastewater-treatment-fight-europe/?utm_campaign=rss`
 
 An E.U. AG recommended annulling part of a directive that requires drugmakers to finance 80% of the costs of wastewater treatment.
 
@@ -368,7 +360,7 @@ An E.U. AG recommended annulling part of a directive that requires drugmakers to
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss`
 
 From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
@@ -376,7 +368,7 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `crunchbase_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/`
 
 AI itself is no longer a durable differentiator, argues guest author SC Moatti of Mighty Capital, who says he strongest startup moats are counter-positioning and network economies.
 
@@ -384,7 +376,7 @@ AI itself is no longer a durable differentiator, argues guest author SC Moatti o
 
 - Source: `fitbit_google_blog` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp">Google shares details on three projects that use technology to push the boundaries of human creativity that premiered during the 83rd Venice Film Festival.
 
@@ -392,25 +384,41 @@ AI itself is no longer a durable differentiator, argues guest author SC Moatti o
 
 - Source: `stat_news_feed` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss`
 
 The largest cyclospora food poisoning outbreak in U.S. history is over, U.S. health officials said, but questions remain over its origin.
+
+### [STAT+: Breast cancer pill from AstraZeneca misses mark in pivotal trial](https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-12` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss`
+
+A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine.
+
+### [Designing for Dual Screen and Foldable Devices with CSS (2023)](https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/)
+
+- Source: `hn_ai_health_signals` · published `2026-09-10` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/`
+
+Hacker News community signal; score 56.
 
 ### [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
 
 - Source: `hn_ai_health_signals` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://github.com/kennethwolters/litelm`
+- Event: `updated` · identity: `url:https://github.com/kennethwolters/litelm`
 
-Hacker News community signal; score 90.
+Hacker News community signal; score 173.
 
-### [Show HN: Extension to filter LLM written articles](https://hnslop.nilsherzig.com/)
+### [Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP](https://www.tokendelivery.ai/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-11` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-12` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://hnslop.nilsherzig.com/`
+- Event: `new` · identity: `url:https://www.tokendelivery.ai/`
 
-Hacker News community signal; score 14.
+Hacker News community signal; score 5.
 
 ### [Why two promising heart drugs flopped and what’s next](https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss)
 
@@ -424,7 +432,7 @@ This week on "The Readout LOUD" podcast: Two experimental drugs were heralded as
 
 - Source: `medtech_dive_primary` · published `2026-09-11` · freshness `fresh`
 - Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/staar-surgical-hires-former-ceo-to-lead-commercial-team/830136/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/staar-surgical-hires-former-ceo-to-lead-commercial-team/830136/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/pLMCtiPF7fyVFCDP0NqLMubRJ0T5sJMflzwSu7Vd8Y4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DRk9zLU9uLXRoZS1Nb3ZlLVdlZWstRW5kaW5nLU9jdG9iZXItMTRfSkx4R3RIbS5qcGVn.webp"/></div></figure><p>David Bailey has rejoined STAAR after participating in the successful campaign to block Alcon&rsquo;s takeover of the company.</p> <p>&nbsp;</p>
 
