@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-09-13
+# Scientific Information Brief · 2026-09-14
 
-> Daily status: **complete** · sources 5/5 · items 53
+> Daily status: **complete** · sources 5/5 · items 54
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -88,7 +88,7 @@ Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks,
 
 It was a monster week for U.S. startup funding, with four companies each raising $1 billion or more. The Boring Co. led with a $3 billion Series D, followed by AI coding startup Cognition at $2 billion. Joining them near the top was fleet management software provider Motive, which landed $1.3 billion, while reusable rocket developer Stoke Space raised another $1 billion.
 
-## Hold · 7
+## Hold · 8
 
 ### [Tackle your to-do list with new features in our Google AI plans.](https://blog.google/products-and-platforms/products/google-one/fall-2026-ai-plan-updates/)
 
@@ -121,6 +121,14 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-fully-restores-operations-after-cyberattack/830182/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/c1xaQibjjybytbyrKOdFEokteOrn9zzBlI4Ys-SnoGo/g:nowe:148:0/c:1184:669/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJsYm9yb3VnaF9IZWFkcXVhcnRlcnNfZnJvbnRfZnVsbC5wbmc=.webp"/></div></figure><p>CEO Mike Mahoney gave more details at a Thursday investor conference, saying the company likely lost orders while its plants and distribution centers were shut down.</p>
+
+### [STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests](https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-13` · freshness `fresh`
+- Topic relevance: `0.25` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss`
+
+The projected savings from Trump's "most-favored nation" pricing policy might be drastically reduced by secretive deals with pharma companies, a new analysis finds.
 
 ### [4 questions about the FDA’s approach to generative AI](https://www.medtechdive.com/news/4-questions-about-the-fdas-approach-to-generative-ai/829871/)
 
@@ -227,14 +235,6 @@ Platinum chemotherapy aged the liver cells of treated children, making them look
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss`
 
 Nominees for top federal health roles to face Congress, and Trump officials are betting on AI to help save rural health care.
-
-### [STAT+: Pharmalittle: We’re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more](https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-10` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss`
-
-A major Novartis shareholder has called for a shake-up of the drugmaker's board after its shares suffered a record fall following trial setbacks
 
 ### [STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees](https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss)
 
@@ -392,33 +392,41 @@ The largest cyclospora food poisoning outbreak in U.S. history is over, U.S. hea
 
 - Source: `stat_news_feed` · published `2026-09-12` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/12/astrazeneca-breast-cancer-camizestrant-etcamah-serena-4-trail-failure/?utm_campaign=rss`
 
 A pill from AstraZeneca failed to improve outcomes in closely watched breast cancer study, a result that could limit the use of the medicine.
 
-### [Designing for Dual Screen and Foldable Devices with CSS (2023)](https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/)
+### [Ask HN: Would a startup for young creatives who reject AI be feasible?](https://news.ycombinator.com/item?id=49689696)
 
-- Source: `hn_ai_health_signals` · published `2026-09-10` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-13` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.stephaniestimac.com/posts/2023/05/design-foldable-devices/`
+- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=49689696`
 
-Hacker News community signal; score 56.
+Hacker News community signal; score 3.
 
-### [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm)
+### [Cpak – OCI application package format for Linux desktops, servers and devices](https://cpak.it/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-11` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-13` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://github.com/kennethwolters/litelm`
+- Event: `new` · identity: `url:https://cpak.it/`
 
-Hacker News community signal; score 173.
+Hacker News community signal; score 47.
 
-### [Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP](https://www.tokendelivery.ai/)
+### [Device Drivers lab exercise – COSC562](https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html)
 
-- Source: `hn_ai_health_signals` · published `2026-09-12` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-13` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.tokendelivery.ai/`
+- Event: `new` · identity: `url:https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html`
 
-Hacker News community signal; score 5.
+Hacker News community signal; score 28.
+
+### [Making Startups Powerful](https://paulgraham.com/powerful.html)
+
+- Source: `hn_ai_health_signals` · published `2026-09-13` · freshness `fresh`
+- Topic relevance: `0.03` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://paulgraham.com/powerful.html`
+
+Hacker News community signal; score 150.
 
 ### [Why two promising heart drugs flopped and what’s next](https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss)
 
