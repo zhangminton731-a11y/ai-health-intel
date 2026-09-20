@@ -1,4 +1,4 @@
-# Scientific Information Brief · 2026-09-19
+# Scientific Information Brief · 2026-09-20
 
 > Daily status: **complete** · sources 5/5 · items 55
 
@@ -22,7 +22,7 @@ Newly launched Skalar provides startups with capital to fund sales and marketing
 
 - Source: `fitbit_google_blog` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.33` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_uuiGKMu.webp">Earn college or continuing education credits by taking the Google AI Educator Series courses.
 
@@ -54,7 +54,7 @@ U.S. venture-backed technology companies have secured around $90 billion in dome
 
 - Source: `crunchbase_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.31` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/`
 
 After a week of multiple billion-dollar-plus rounds, startup investors have reduced the number of zeroes on their funding checks. This past week, the largest U.S. startup funding rounds were in the hundreds of millions, topped by a $550 million financing for AI infrastructure company Temporal Technologies and a $308 million investment in space vehicle developer Impulse Space.
 
@@ -88,7 +88,7 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 
 - Source: `crunchbase_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.25` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/`
 
 The most-fundable startups prioritize a clear go-to-market strategy and test distinctive marketing channels early, treating distribution and disciplined focus as durable competitive advantages, explains guest author Aaron Golbin, a co-founder and general partner at LvlUp Ventures, who believes that seed-stage success depends on focused execution, diversified financing, built-in distribution, rapid learning and AI designed as core infrastructure.
 
@@ -136,7 +136,7 @@ FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT
 
 - Source: `medtech_dive_primary` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/neptune-medical-wins-fda-nod-for-endoscopy-robot/830711/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/neptune-medical-wins-fda-nod-for-endoscopy-robot/830711/`
 
 <p>The robot is intended to give physicians more control of the endoscope during a colonoscopy procedure, which can help with detection and removal of lesions.</p>
 
@@ -144,7 +144,7 @@ FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT
 
 - Source: `fitbit_google_blog` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.21` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/`
+- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp">In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?
 
@@ -278,14 +278,6 @@ A psychedelic-like drug for a Parkinson's symptom, mice with half-human brains, 
 
 Researchers have identified a very rare genetic variant that is associated with higher odds of lung cancer in "never smokers."
 
-### [STAT+: Zocdoc for chatbots and what’s new with Medicare’s ACCESS](https://www.statnews.com/2026/09/17/zocdoc-for-chatbots-and-medicares-access-healh-tech/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/zocdoc-for-chatbots-and-medicares-access-healh-tech/?utm_campaign=rss`
-
-In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from chatbots and health plan websites, and more.
-
 ### [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
 
 - Source: `fitbit_google_blog` · published `2026-09-17` · freshness `fresh`
@@ -298,7 +290,7 @@ In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from 
 
 - Source: `fitbit_google_blog` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp">Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.
 
@@ -306,7 +298,7 @@ In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from 
 
 - Source: `medtech_dive_primary` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/cognita-imaging-wins-fda-contract-to-test-llms-in-evaluating-radiology-ai/830788/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/cognita-imaging-wins-fda-contract-to-test-llms-in-evaluating-radiology-ai/830788/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/7PRr40MXYPDNywDbZc8kZwn8LJ_dswMsWIOZxD-MirQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SYWRpb2xvZ2lzdC5qcGc=.webp"/></div></figure><p>Cognita&rsquo;s method will test a way of evaluating AI-generated radiology reports as the FDA considers how to regulate generative AI-enabled devices.</p>
 
@@ -314,7 +306,7 @@ In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from 
 
 - Source: `medtech_dive_primary` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/healthcares-agentic-ai-boom-is-outpacing-security-governance-report/830749/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/healthcares-agentic-ai-boom-is-outpacing-security-governance-report/830749/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/YGVrrxjkjwbnkWYOkjQAzSBdNQ6NFTXGsv_6ZOQujps/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk1NjA3NjU5X3NZRHFqaDIuanBn.webp"/></div></figure><p>Patient safety could be at risk if agentic AI tools are rolled out without proper guardrails, Imprivata&rsquo;s chief medical and growth officer warns.</p>
 
@@ -322,7 +314,7 @@ In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from 
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss`
 
 Amid a civil war in Sudan, it’s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available
 
@@ -330,7 +322,7 @@ Amid a civil war in Sudan, it’s now difficult for people with cancer and other
 
 - Source: `fitbit_google_blog` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp">We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.
 
@@ -338,7 +330,7 @@ Amid a civil war in Sudan, it’s now difficult for people with cancer and other
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss`
 
 It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important.
 
@@ -346,7 +338,7 @@ It wasn’t until he started medical school, Brian Zhang writes, that he realize
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss`
 
 “The young men in my clinic are responding rationally to a system that was designed for profit,” writes plastic surgeon Kavitha Ranganathan.
 
@@ -354,7 +346,7 @@ It wasn’t until he started medical school, Brian Zhang writes, that he realize
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss`
 
 James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls of using AI to make care decisions for older adults.
 
@@ -362,7 +354,7 @@ James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls o
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss`
 
 Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical claims, highlighting the varying standards for whether care is medically necessary.
 
@@ -370,7 +362,7 @@ Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical 
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/18/rules-for-china-licensing-deals-making-drugs-in-space/?utm_campaign=rss`
 
 The U.S. is working on rules for investing in China that would likely preserve pharma's ability to strike most licensing deals for Chinese drugs
 
@@ -378,7 +370,7 @@ The U.S. is working on rules for investing in China that would likely preserve p
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/biotech-news-roche-expands-it-boston-footprint-with-research-center/?utm_campaign=rss`
 
 A gene therapy approved for Sanfilippo syndrome, good and bad news for Xenon Pharma, and more biotech news
 
@@ -386,7 +378,7 @@ A gene therapy approved for Sanfilippo syndrome, good and bad news for Xenon Pha
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss`
 
 Every state will participate in the GENEROUS program, but many of the details are unknown.
 
@@ -394,7 +386,7 @@ Every state will participate in the GENEROUS program, but many of the details ar
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/18/up-down-ladder-latest-comings-goings-job-changes/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/18/up-down-ladder-latest-comings-goings-job-changes/?utm_campaign=rss`
 
 From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
@@ -402,9 +394,17 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss`
 
 Kennedy speaks at the Children's Health Defense, medical facilities under attack in Sudan, and more health news from Morning Rounds
+
+### [Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions](https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-19` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss`
+
+The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.
 
 ### [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 
@@ -412,39 +412,39 @@ Kennedy speaks at the Children's Health Defense, medical facilities under attack
 - Topic relevance: `0.03` · novelty hint: `0.0`
 - Event: `updated` · identity: `url:https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/`
 
-Hacker News community signal; score 371.
+Hacker News community signal; score 651.
 
 ### [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
 
 - Source: `hn_ai_health_signals` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://arxiv.org/abs/2510.03215`
+- Event: `updated` · identity: `url:https://arxiv.org/abs/2510.03215`
 
-Hacker News community signal; score 62.
+Hacker News community signal; score 102.
 
-### [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)
+### [Learning another language may be one of the best ways to keep your brain healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
 
-- Source: `hn_ai_health_signals` · published `2026-09-18` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-19` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://spectrum.ieee.org/llms-for-chip-design`
+- Event: `new` · identity: `url:https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951`
 
-Hacker News community signal; score 34.
+Hacker News community signal; score 72.
 
-### [Second Circuit allows government to search electronic devices at the border](https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion)
+### [ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking](https://github.com/xanpavle/rocmfix)
 
-- Source: `hn_ai_health_signals` · published `2026-09-18` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-19` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion`
+- Event: `new` · identity: `url:https://github.com/xanpavle/rocmfix`
 
-Hacker News community signal; score 115.
+Hacker News community signal; score 7.
 
-### [The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852)
+### [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-18` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-19` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://arxiv.org/abs/2609.02852`
+- Event: `new` · identity: `url:https://sdcc.sourceforge.net/`
 
-Hacker News community signal; score 47.
+Hacker News community signal; score 130.
 
 ### [Definium’s new psychedelics data, and a reprieve for international scientists](https://www.statnews.com/2026/09/17/psychedelics-definium-visas-international-students-court-ruling-readout-loud-podcast/?utm_campaign=rss)
 
