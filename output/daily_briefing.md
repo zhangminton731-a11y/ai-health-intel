@@ -1,4 +1,4 @@
-# Scientific Information Brief · 2026-09-20
+# Scientific Information Brief · 2026-09-21
 
 > Daily status: **complete** · sources 5/5 · items 55
 
@@ -108,14 +108,6 @@ The most-fundable startups prioritize a clear go-to-market strategy and test dis
 
 <figure><div><img src="https://imgproxy.divecdn.com/Grw67m68ySHJdni4JWRt3a4x95qowxGsS9eZJO6f6ak/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90by0xX01lZHRyb25pYy1IdWdvLVJBUy1zeXN0ZW1fTGlnYVN1cmUtUkFTLWluc3RydW1lbnRfRkRBLWNsZWFyYW5jZS1JRC1mODNfS0l1bDNnbS5qcGc=.webp"/></div></figure><p>Widely adopted in open and laparoscopic surgeries, the LigaSure instrument&nbsp;is now available for use with the Hugo robotic system.</p>
 
-### [Purer fentanyl won’t solve the U.S. overdose death crisis, study says](https://www.statnews.com/2026/09/17/health-news-fentanyl-overdoses-fda-doge-morning-rounds/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/health-news-fentanyl-overdoses-fda-doge-morning-rounds/?utm_campaign=rss`
-
-Cautious optimism in the Ebola outbreak, FDA still stymied by DOGE cuts, and other health updates from the Morning Rounds newsletter.
-
 ### [STAT+: FDA approves a new gene therapy for Sanfilippo syndrome, an ultra-rare disease](https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
@@ -139,6 +131,14 @@ FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/neptune-medical-wins-fda-nod-for-endoscopy-robot/830711/`
 
 <p>The robot is intended to give physicians more control of the endoscope during a colonoscopy procedure, which can help with detection and removal of lesions.</p>
+
+### [STAT+: Radiopharma companies merge after one receives surprise FDA rejection](https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-20` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss`
+
+ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the burgeoning radiopharmaceuticals field, are merging.
 
 ### [Build campaigns that drive high-converting, sales-ready leads.](https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/)
 
@@ -402,7 +402,7 @@ Kennedy speaks at the Children's Health Defense, medical facilities under attack
 
 - Source: `stat_news_feed` · published `2026-09-19` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss`
 
 The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.
 
@@ -412,39 +412,39 @@ The Jehovah’s Witnesses have partly eased their longstanding prohibition on th
 - Topic relevance: `0.03` · novelty hint: `0.0`
 - Event: `updated` · identity: `url:https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/`
 
-Hacker News community signal; score 651.
+Hacker News community signal; score 724.
 
-### [Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)](https://arxiv.org/abs/2510.03215)
+### [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-18` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://arxiv.org/abs/2510.03215`
+- Event: `new` · identity: `url:https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/`
 
-Hacker News community signal; score 102.
+Hacker News community signal; score 412.
 
-### [Learning another language may be one of the best ways to keep your brain healthy](https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951)
+### [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-19` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951`
+- Event: `new` · identity: `url:https://pirateface.co/`
 
-Hacker News community signal; score 72.
+Hacker News community signal; score 495.
 
-### [ROCmFix and InferBench – AMD Local-LLM Setup and Vulkan vs. Hip Benchmarking](https://github.com/xanpavle/rocmfix)
+### [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals)
 
-- Source: `hn_ai_health_signals` · published `2026-09-19` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://github.com/xanpavle/rocmfix`
+- Event: `new` · identity: `url:https://github.com/openlayer-ai/jevals`
 
-Hacker News community signal; score 7.
+Hacker News community signal; score 14.
 
-### [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
+### [The LLMentalist Effect (2023)](https://softwarecrisis.dev/letters/llmentalist/)
 
-- Source: `hn_ai_health_signals` · published `2026-09-19` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://sdcc.sourceforge.net/`
+- Event: `new` · identity: `url:https://softwarecrisis.dev/letters/llmentalist/`
 
-Hacker News community signal; score 130.
+Hacker News community signal; score 169.
 
 ### [Definium’s new psychedelics data, and a reprieve for international scientists](https://www.statnews.com/2026/09/17/psychedelics-definium-visas-international-students-court-ruling-readout-loud-podcast/?utm_campaign=rss)
 
