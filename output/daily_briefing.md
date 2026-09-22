@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-09-21
+# Scientific Information Brief · 2026-09-22
 
-> Daily status: **complete** · sources 5/5 · items 55
+> Daily status: **complete** · sources 5/5 · items 52
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,15 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 6
+## Scan · 7
+
+### [Oura seeks to raise up to $2.2B in IPO](https://www.medtechdive.com/news/oura-seeks-to-raise-up-to-22b-in-ipo/830954/)
+
+- Source: `medtech_dive_primary` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.93` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/oura-seeks-to-raise-up-to-22b-in-ipo/830954/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/vq63lZVUrTbCUdvZjEYHb5Czu-0ZxFGzyzwjflBqnb0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PdXJhX1JpbmdfNV9MaWZlc3R5bGUtNF9EZWVwX1Jvc2UucG5n.webp"/></div></figure><p>The smart ring maker is filing to go public as wearables firms work to incorporate more health features into their devices.</p>
 
 ### [Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs](https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/)
 
@@ -68,14 +76,6 @@ After a week of multiple billion-dollar-plus rounds, startup investors have redu
 
 AI startups are reaching massive valuations and liquidity events so quickly that young founders and employees often acquire life-changing wealth before they are prepared to manage it. Ron Honig of From-Honig Family Office, advises that the company's financial plans should remain flexible, balancing long-term security with future opportunities.
 
-### [Intuitive single-port robot earns CE mark for new indication](https://www.medtechdive.com/news/intuitive-single-port-robot-earns-ce-mark-for-new-indication/830373/)
-
-- Source: `medtech_dive_primary` · published `2026-09-15` · freshness `fresh`
-- Topic relevance: `0.25` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/intuitive-single-port-robot-earns-ce-mark-for-new-indication/830373/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/63Gmrrp-SR5YiFiGk6V8B3Ohjn_FMC4mSRqSOSOVYmQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NVDFDQjkuanBn.webp"/></div></figure><p>Gaining authorization for transvaginal gynecologic procedures expands the list of indications for da Vinci SP in Europe.</p>
-
 ### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
 
 - Source: `crunchbase_news_feed` · published `2026-09-16` · freshness `fresh`
@@ -91,6 +91,14 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 - Event: `seen` · identity: `url:https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/`
 
 The most-fundable startups prioritize a clear go-to-market strategy and test distinctive marketing channels early, treating distribution and disciplined focus as durable competitive advantages, explains guest author Aaron Golbin, a co-founder and general partner at LvlUp Ventures, who believes that seed-stage success depends on focused execution, diversified financing, built-in distribution, rapid learning and AI designed as core infrastructure.
+
+### [President Trump’s newest vaccine ‘demands’ repeat old misinformation](https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.25` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss`
+
+A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a “friend” in the White House, President Trump said he’ll be “demanding” that drug&#8230;
 
 ### [Recor Medical ex-CEO Lara Barghout joins Medtronic](https://www.medtechdive.com/news/recor-medical-ex-ceo-lara-barghout-joins-medtronic/830598/)
 
@@ -108,27 +116,11 @@ The most-fundable startups prioritize a clear go-to-market strategy and test dis
 
 <figure><div><img src="https://imgproxy.divecdn.com/Grw67m68ySHJdni4JWRt3a4x95qowxGsS9eZJO6f6ak/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90by0xX01lZHRyb25pYy1IdWdvLVJBUy1zeXN0ZW1fTGlnYVN1cmUtUkFTLWluc3RydW1lbnRfRkRBLWNsZWFyYW5jZS1JRC1mODNfS0l1bDNnbS5qcGc=.webp"/></div></figure><p>Widely adopted in open and laparoscopic surgeries, the LigaSure instrument&nbsp;is now available for use with the Hugo robotic system.</p>
 
-### [STAT+: FDA approves a new gene therapy for Sanfilippo syndrome, an ultra-rare disease](https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/?utm_campaign=rss`
-
-The FDA approved a new gene therapy for Sanfilippo syndrome type A, an ultra-rare disease sometimes known as childhood Alzheimer’s.
-
-### [STAT+: FDA has too few staffers to hire more staff](https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/fda-hiring-bottleneck-senate-hearings-chris-klomp-nicole-saphier/?utm_campaign=rss`
-
-FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT's D.C. Diagnosis newsletter.
-
-### [Neptune Medical wins FDA nod for endoscopy robot](https://www.medtechdive.com/news/neptune-medical-wins-fda-nod-for-endoscopy-robot/830711/)
+### [Neptune Medical secures FDA nod for endoscopy robot](https://www.medtechdive.com/news/neptune-medical-secures-fda-nod-for-endoscopy-robot/830711/)
 
 - Source: `medtech_dive_primary` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/neptune-medical-wins-fda-nod-for-endoscopy-robot/830711/`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/neptune-medical-secures-fda-nod-for-endoscopy-robot/830711/`
 
 <p>The robot is intended to give physicians more control of the endoscope during a colonoscopy procedure, which can help with detection and removal of lesions.</p>
 
@@ -136,9 +128,25 @@ FDA's hiring bottleneck, Dems plan for health care oversight, and more from STAT
 
 - Source: `stat_news_feed` · published `2026-09-20` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss`
 
 ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the burgeoning radiopharmaceuticals field, are merging.
+
+### [STAT+: Lilly’s breast cancer combo wins approval](https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/?utm_campaign=rss`
+
+The FDA just approved a new combination drug treatment for patients with an advanced form of breast cancer.
+
+### [STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators](https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss`
+
+Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting.
 
 ### [Build campaigns that drive high-converting, sales-ready leads.](https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/)
 
@@ -148,7 +156,7 @@ ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading compan
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp">In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?
 
-## Archive · 38
+## Archive · 34
 
 ### [Dead Weight On The Cap Table: The Startup Equity Problem Causing Litigation And How You Can Fix It](https://news.crunchbase.com/startups/cap-table-dead-weight-avoiding-litigation-siegel-grellas/)
 
@@ -166,22 +174,6 @@ The standard four-year founder vesting schedule can leave departed founders with
 
 We ranked August’s most active startup investors across several categories, including lead backers, prolific venture dealmakers, highest spenders and seed investors, which were once again dominated by familiar names.
 
-### [OIG urges crackdown on equipment suppliers in Medicare Advantage](https://www.medtechdive.com/news/oig-urges-crackdown-on-equipment-suppliers-in-medicare-advantage/830403/)
-
-- Source: `medtech_dive_primary` · published `2026-09-15` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/oig-urges-crackdown-on-equipment-suppliers-in-medicare-advantage/830403/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/yhHsS9BzIKI8xrlJAsu7ZnpUJEikRoAIQhFbKqbj-m8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DcnV0Y2hlcy5qcGc=.webp"/></div></figure><p>The agency says the CMS and MA organizations aren&rsquo;t doing enough to screen durable medical equipment providers, especially out-of-network companies that aren&rsquo;t enrolled in Medicare.</p>
-
-### [3 new ways we're improving Search profiles for publishers](https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/)
-
-- Source: `fitbit_google_blog` · published `2026-09-16` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp">Search profile updates help publishers better highlight their content and connect with their audiences.
-
 ### [CMS expands ACCESS pilot to boost use of digital health tech](https://www.medtechdive.com/news/cms-expands-access-pilot-to-boost-use-of-digital-health-tech/830542/)
 
 - Source: `medtech_dive_primary` · published `2026-09-16` · freshness `fresh`
@@ -190,30 +182,6 @@ We ranked August’s most active startup investors across several categories, in
 
 <figure><div><img src="https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp"/></div></figure><p>The CMS is expanding the number of covered conditions under the program to include heart failure, COPD, substance use disorders and tobacco cessation.</p>
 
-### [Dexcom gives CFO Jereme Sylvain expanded role](https://www.medtechdive.com/news/dexcom-gives-cfo-jereme-sylvain-expanded-role/830490/)
-
-- Source: `medtech_dive_primary` · published `2026-09-16` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/dexcom-gives-cfo-jereme-sylvain-expanded-role/830490/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/BmE9ItavOTNSO-kMd9Dg7VvyW5oJlTnTvFTTtUz7yks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA4MEVNLmpwZw==.webp"/></div></figure><p>Sylvain will work as chief operating officer of the diabetes technology company while continuing as its CFO.</p>
-
-### [J&J sells Laminar LAA closure assets it bought 3 years ago](https://www.medtechdive.com/news/jj-sells-laminar-laa-closure-assets-it-bought-3-years-ago/830546/)
-
-- Source: `medtech_dive_primary` · published `2026-09-16` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/jj-sells-laminar-laa-closure-assets-it-bought-3-years-ago/830546/`
-
-<p>The decision is part of J&amp;J&rsquo;s strategy to prioritize resources for the greatest impact and positions Laminar for success under dedicated ownership, a spokesperson said.</p>
-
-### [Rethink your strategy to drive sales this holiday season.](https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/)
-
-- Source: `fitbit_google_blog` · published `2026-09-16` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp">In this Ads Decoded episode, we share steps you can take now to drive sales and reach customers during the holiday season.
-
 ### [5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers](https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/)
 
 - Source: `crunchbase_news_feed` · published `2026-09-17` · freshness `fresh`
@@ -221,62 +189,6 @@ We ranked August’s most active startup investors across several categories, in
 - Event: `seen` · identity: `url:https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/`
 
 From putting nuclear reactors on barges to grading how well AI models can control robots, this month’s crop of interesting startup deals takes AI and other emerging technologies well beyond the conventional software stack.
-
-### [Drive with “Forgotten Island” on Waze.](https://blog.google/waze/waze-forgotten-island/)
-
-- Source: `fitbit_google_blog` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://blog.google/waze/waze-forgotten-island/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp">Ready to turn your daily commute into an epic island adventure? Waze is bringing your new navigation best friend to the passenger seat, just in time for the release of D…
-
-### [Helping bring the world’s first large-scale, near-zero emissions steel plant online](https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/)
-
-- Source: `fitbit_google_blog` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp">Google is partnering with Stegra to help bring their first-of-its-kind, near-zero emissions steel plant online.
-
-### [Kennedy announces new effort to speed up autism diagnoses](https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/kennedy-announces-new-research-fund-to-improve-autism-diagnoses/?utm_campaign=rss`
-
-Health secretary Kennedy announced a new effort to improve autism diagnoses, arguing that the current model is outdated
-
-### [Kennedy moves to revive preventive services panel with new members, after months of vacancies](https://www.statnews.com/2026/09/17/kennedy-names-eight-new-members-uspstf-task-force/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/kennedy-names-eight-new-members-uspstf-task-force/?utm_campaign=rss`
-
-The influential panel hasn't met in more than a year, after Kennedy canceled its meeting.
-
-### [Kennedy renews attacks on vaccines at Children’s Health Defense conference](https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/rfk-jr-anti-vaccination-activism-childrens-health-defense-conference/?utm_campaign=rss`
-
-Health secretary RFK Jr. returned to his roots in a keynote address at a conference hosted by the Children’s Health Defense, an anti-vaccine nonprofit he helped start.
-
-### [STAT+: New startup to test psychedelic-like drug against Parkinson’s symptom](https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/biotech-news-ariadne-testing-psychedelic-like-drug-parkinsons-apathy/?utm_campaign=rss`
-
-A psychedelic-like drug for a Parkinson's symptom, mice with half-human brains, and more biotech news in the Readout newsletter.
-
-### [STAT+: Why do ‘never-smokers’ get lung cancer? In some cases, rare genetic variant may be a factor](https://www.statnews.com/2026/09/17/rare-gene-variant-boosts-lung-cancer-risk-25-fold-in-non-smokers/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/rare-gene-variant-boosts-lung-cancer-risk-25-fold-in-non-smokers/?utm_campaign=rss`
-
-Researchers have identified a very rare genetic variant that is associated with higher odds of lung cancer in "never smokers."
 
 ### [The new CC, an AI agent built for families](https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/)
 
@@ -310,14 +222,6 @@ Researchers have identified a very rare genetic variant that is associated with 
 
 <figure><div><img src="https://imgproxy.divecdn.com/YGVrrxjkjwbnkWYOkjQAzSBdNQ6NFTXGsv_6ZOQujps/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk1NjA3NjU5X3NZRHFqaDIuanBn.webp"/></div></figure><p>Patient safety could be at risk if agentic AI tools are rolled out without proper guardrails, Imprivata&rsquo;s chief medical and growth officer warns.</p>
 
-### [In Sudan, attacks on hospitals force patients to make dangerous journeys](https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss`
-
-Amid a civil war in Sudan, it’s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available
-
 ### [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/)
 
 - Source: `fitbit_google_blog` · published `2026-09-18` · freshness `fresh`
@@ -325,30 +229,6 @@ Amid a civil war in Sudan, it’s now difficult for people with cancer and other
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp">We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.
-
-### [Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks](https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss`
-
-It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important.
-
-### [Opinion: More young men are coming to me for plastic surgery. The way I think about them has changed](https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss`
-
-“The young men in my clinic are responding rationally to a system that was designed for profit,” writes plastic surgeon Kavitha Ranganathan.
-
-### [STAT+: A geriatrician explains why AI for older adults deserves careful scrutiny](https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/?utm_campaign=rss`
-
-James Deardorff, a geriatrician at UCSF, talks about the benefits and pitfalls of using AI to make care decisions for older adults.
 
 ### [STAT+: In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan](https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss)
 
@@ -390,14 +270,6 @@ Every state will participate in the GENEROUS program, but many of the details ar
 
 From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
-### [Who supports policies for ‘health equity’? It depends on how you’re asking](https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-18` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/18/health-news-who-supports-health-equity-policy-in-america/?utm_campaign=rss`
-
-Kennedy speaks at the Children's Health Defense, medical facilities under attack in Sudan, and more health news from Morning Rounds
-
 ### [Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions](https://www.statnews.com/2026/09/19/jehovahs-witnesses-blood-derived-products-transfusions/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-19` · freshness `fresh`
@@ -406,53 +278,157 @@ Kennedy speaks at the Children's Health Defense, medical facilities under attack
 
 The Jehovah’s Witnesses have partly eased their longstanding prohibition on the medical use of donated blood.
 
+### [Activist investor urges Cooper Companies to replace CEO, sell some assets](https://www.medtechdive.com/news/activist-investor-urges-cooper-companies-to-replace-ceo-sell-some-assets/830910/)
+
+- Source: `medtech_dive_primary` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/activist-investor-urges-cooper-companies-to-replace-ceo-sell-some-assets/830910/`
+
+<p>Citing &ldquo;chronic underperformance,&rdquo; Jana Partners is calling for new leadership and for the company to evaluate the sale of its fertility and medical device assets.</p>
+
+### [Addiction clinics see rising cases of kratom and 7-OH withdrawal](https://www.statnews.com/2026/09/21/kratom-withdrawal-addiction-centers-report-surge/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/kratom-withdrawal-addiction-centers-report-surge/?utm_campaign=rss`
+
+Addiction clinics are seeing a surge in patients dependent on potent kratom and 7-OH products.
+
+### [Agentic AI in MedTech: Driving efficiency and care outcomes](https://www.medtechdive.com/spons/agentic-ai-in-medtech-driving-efficiency-and-care-outcomes/829246/)
+
+- Source: `medtech_dive_primary` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/spons/agentic-ai-in-medtech-driving-efficiency-and-care-outcomes/829246/`
+
+<p>Agentic AI moves healthcare beyond reactive tools to orchestrate entire clinical workflows&mdash;improving efficiency and patient outcomes.</p>
+
+### [Expanding free AI training for educators](https://blog.google/products-and-platforms/products/education/digital-promise/)
+
+- Source: `fitbit_google_blog` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/digital-promise/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp">At the United Nations General Assembly in New York City, Google.org is committing $4 million to Digital Promise to help equip teachers and faculty with free, practical A…
+
+### [Googlebook: The laptop your Android phone has been waiting for](https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/)
+
+- Source: `fitbit_google_blog` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/googlebook_thumbnail.max-600x600.format-webp.webp">Googlebook pre-orders begin September 21, and they'll be on shelves October 4.
+
+### [Googlebook’s built-in intelligence reinvents the way you use your laptop](https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/)
+
+- Source: `fitbit_google_blog` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/intelligence_hero.max-600x600.format-webp.webp">With tools like a multimodal cursor, smart dictation, and more, Googlebook anticipates your needs to simplify your day.
+
+### [Mayo Clinic, Thermo Fisher partner to create Precure](https://www.medtechdive.com/news/mayo-clinic-thermo-fisher-partner-to-create-precure/830858/)
+
+- Source: `medtech_dive_primary` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/mayo-clinic-thermo-fisher-partner-to-create-precure/830858/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/0pPNeBtSzK-wsA9L9RJgarbHUpv2u_KzBXdNzMWY5ic/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QNjJZOUEuanBn.webp"/></div></figure><p>The company will generate population-scale molecular data to inform development of diagnostics, therapies and other healthcare products.</p>
+
+### [Opinion: ClinicalTrials.gov needs a pregnancy and lactation checkbox](https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/clinical-trials-website-pregnant-lactating-patients-checkbox/?utm_campaign=rss`
+
+It’s hard to identify which clinical trials pregnant and lactating patients can join. Here’s one fix, experts write.
+
+### [Opinion: STAT+: The NIH budget should be $100 billion per year](https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/?utm_campaign=rss`
+
+“We should be strengthening our investment in the NIH, not dismantling it,” writes Reed Jobs.
+
+### [Premium materials and striking design set Googlebook apart](https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/)
+
+- Source: `fitbit_google_blog` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp">Discover a versatile collection of Googlebook devices featuring stunning displays, advanced processors, and premium design.
+
+### [Skeptical about modern medicine? I know the feeling — and want to listen](https://www.statnews.com/2026/09/21/trust-in-science-nick-florko-on-understanding-growing-scientific-mistrust/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/trust-in-science-nick-florko-on-understanding-growing-scientific-mistrust/?utm_campaign=rss`
+
+"I know what it means to be searching for an explanation to what ails you, and a way to fix it," writes STAT's new trust-in-science reporter, Nicholas Florko.
+
+### [STAT+: Alkermes’ orexin agonist shows potential to treat ADHD in early-stage trial](https://www.statnews.com/2026/09/21/alkermes-orexin-agonist-adhd-study/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.25`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/alkermes-orexin-agonist-adhd-study/?utm_campaign=rss`
+
+The drugmaker Alkermes said a therapy called an orexin agonist for the first time showed potential to treat people with ADHD in an early-stage study.
+
+### [STAT+: Can RFK Jr. help GOP win the midterms? Iowa is a test](https://www.statnews.com/2026/09/21/rfk-jr-maha-movement-gop-midterm-candidates/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/rfk-jr-maha-movement-gop-midterm-candidates/?utm_campaign=rss`
+
+How one state's governor's race is a test of whether Robert F. Kennedy Jr.'s MAHA movement has an enduring political draw.
+
+### [STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants](https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss`
+
+Several members of Congress voiced strong opposition about a reported plan to create a panel of political appointees to sign off on NIH grants
+
+### [STAT+: Pharmalittle: We’re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more](https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss`
+
+Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines
+
+### [STAT+: With new strategy, Novo outlines plans for obesity, direct-to-consumer work](https://www.statnews.com/2026/09/21/novo-nordisk-capital-markets-day-obesity-strategy/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/novo-nordisk-capital-markets-day-obesity-strategy/?utm_campaign=rss`
+
+Under investor pressure, Novo presented its strategy to both grow its obesity franchise and diversify its pipeline.
+
+### [Why is trust in science important?](https://www.statnews.com/2026/09/21/trust-in-science-reporter-nick-florko-interview-status-report-alex-hogan/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-09-21` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/09/21/trust-in-science-reporter-nick-florko-interview-status-report-alex-hogan/?utm_campaign=rss`
+
+STAT's Alex Hogan sits down for an in-depth conversation with our new trust-in-science reporter, Nicholas Florko, on the latest episode of STATus Report.
+
 ### [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
 
 - Source: `hn_ai_health_signals` · published `2026-09-17` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
 - Event: `updated` · identity: `url:https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/`
 
-Hacker News community signal; score 724.
-
-### [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/)
-
-- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/`
-
-Hacker News community signal; score 412.
-
-### [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
-
-- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://pirateface.co/`
-
-Hacker News community signal; score 495.
-
-### [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://github.com/openlayer-ai/jevals)
-
-- Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://github.com/openlayer-ai/jevals`
-
-Hacker News community signal; score 14.
+Hacker News community signal; score 744.
 
 ### [The LLMentalist Effect (2023)](https://softwarecrisis.dev/letters/llmentalist/)
 
 - Source: `hn_ai_health_signals` · published `2026-09-20` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://softwarecrisis.dev/letters/llmentalist/`
+- Event: `updated` · identity: `url:https://softwarecrisis.dev/letters/llmentalist/`
 
-Hacker News community signal; score 169.
-
-### [Definium’s new psychedelics data, and a reprieve for international scientists](https://www.statnews.com/2026/09/17/psychedelics-definium-visas-international-students-court-ruling-readout-loud-podcast/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-09-17` · freshness `fresh`
-- Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/09/17/psychedelics-definium-visas-international-students-court-ruling-readout-loud-podcast/?utm_campaign=rss`
-
-International researchers got a reprieve in the courts this week. What does that mean for U.S. medical research? Find out on this week's episode of "The Readout LOUD" podcast.
+Hacker News community signal; score 224.
 
 ---
 
