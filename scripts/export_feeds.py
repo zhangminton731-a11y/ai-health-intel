@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from pathlib import Path
+from export_access import export_access
 
 BASE_URL = 'https://zhangminton731-a11y.github.io/ai-health-intel/'
 
@@ -47,7 +48,9 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
     ET.ElementTree(rss).write(site / 'feed.xml', encoding='utf-8', xml_declaration=True)
     target = site / 'sih-intel'
     target.mkdir(exist_ok=True)
-    shutil.copyfile(skill / 'SKILL.md', target / 'SKILL.md')
     with zipfile.ZipFile(site / 'sih-intel.zip', 'w', zipfile.ZIP_DEFLATED) as bundle:
-        bundle.write(skill / 'SKILL.md', 'sih-intel/SKILL.md')
+        for name in ('SKILL.md','README.md'):
+            shutil.copyfile(skill / name, target / name)
+            bundle.write(skill / name, 'sih-intel/' + name)
+    export_access(site)
     (site / '.nojekyll').touch()

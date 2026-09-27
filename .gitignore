@@ -11,3 +11,5 @@ engine/demo/output/
 Thumbs.db
 
 node_modules/
+
+.venv-mcp/

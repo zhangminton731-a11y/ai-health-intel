@@ -13,7 +13,9 @@
 - 两个入口分别提供本期重点、搜索和按原文日期分组的信息流。全站搜索、热点榜、统一日报仍可使用。
 - 手机底部导航、完整换行标题、摘要展开、原文跳转、日报复制与网站分享。
 - June 团队介绍、个人主页、商务微信 **13028564458**，请备注公司 / 职务 / 需求。
-- 公开 JSON、RSS 和可下载 Skill，供外部 Agent 与阅读器接入。
+- “更多”提供 Agent 接入、关于、反馈，不显示更新日志。
+- Agent 接入提供 Skill、本地 MCP、RSS、静态 API 四种方式，附安装提示词、配置复制、llms.txt 和 OpenAPI。
+- 反馈支持 2000 字内容、选填邮箱和本地截图预览；复制后由访客发送到商务微信，截图另行添加，尚未接入自动收件服务。
 - 12 个启用信源，按研究机构、期刊、专业媒体、企业发布和社区线索分别标识。
 
 规则分类是初步导航，不代表期刊等级或人工逐篇审核；不生成影响因子、交易概率或政策放宽结论。国内科研政策与资助的官方原文信源仍需补齐，空栏目如实显示。
@@ -65,12 +67,17 @@
 | `feed.xml` | RSS 2.0 订阅 |
 | `sih-intel.zip` | 可供 Agent 安装的 Skill |
 | `sih-intel/SKILL.md` | 接入说明与时效要求 |
+| `sih-intel/README.md` | Skill 安装与更新说明 |
+| `sih-mcp.zip` | 可选的本地 stdio MCP 包 |
+| `sih-mcp/README.md` | MCP 安装和客户端配置说明 |
+| `llms.txt` | Agent 数据入口索引 |
+| `openapi.json` | OpenAPI 3.1 静态接口定义 |
 
 这是随采集批次更新的静态 API。搜索和多维筛选由接入方执行，不能通过 URL 查询参数调用服务端搜索。条目新增 `sections`、`categories` 和 `research_stages`，支持接入方按两个板块筛选。每次读取先检查 `generated_at`；手机端安装 Skill 取决于所使用的 Agent 客户端。本版本没有站内 AI 聊天或付费模型调用。
 
 ## 本地运行和测试
 
-Python 3.10+，运行时仅用标准库。网页无需第三方脚本或样式 CDN。Node 24.15+ 仅供 DOM 交互测试。
+采集与构建使用 Python 3.10+ 标准库。可选 MCP 接入单独安装固定版本的官方 SDK，见 [安装说明](integrations/mcp/README.md)；没有远程托管 MCP 地址。网页无需第三方脚本或样式 CDN。Node 24.15+ 仅供 DOM 交互测试。
 
 ```bash
 PYTHONPATH=engine/src python -m sih_ref.cli run \
@@ -85,6 +92,8 @@ npm test
 ```
 
 PowerShell 下设置 `$env:PYTHONPATH='engine/src'` 后运行相同的 Python 命令。翻译使用缓存与失败熔断，翻译不可用时保留原文。
+
+MCP 使用独立虚拟环境安装 `integrations/mcp/requirements.txt`，再用该环境执行 `python -m unittest discover -s tests_mcp -p 'test_*.py'`。此测试启动真实 stdio 服务，验证发现工具、调用、筛选、错误与恢复；测试数据来自本地夹具，部署后仍需验证线上端点。
 
 ## 10 天内测
 

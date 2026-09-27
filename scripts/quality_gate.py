@@ -12,7 +12,8 @@ if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 OUTPUT = Path(__file__).resolve().parents[1] / 'output'
 REQUIRED_FILES = ['daily_items.jsonl','source_health.json','daily_briefing.md','daily_briefing_cn.md','site/index.html',
-                  'site/api/v1/items.json','site/api/v1/health.json','site/api/v1/briefing.json','site/feed.xml','site/sih-intel.zip']
+                  'site/api/v1/items.json','site/api/v1/health.json','site/api/v1/briefing.json','site/feed.xml','site/sih-intel.zip',
+                  'site/sih-intel/README.md','site/sih-mcp.zip','site/sih-mcp/README.md','site/llms.txt','site/openapi.json']
 
 def validate(output: Path, now: datetime | None = None) -> list[str]:
     problems = [f'缺少必需产物: {rel}' for rel in REQUIRED_FILES if not (output/rel).is_file()]
