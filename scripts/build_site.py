@@ -24,7 +24,7 @@ from daily_digest import build_issues, issue_text
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
-SITE_NAME = "循证人初"
+SITE_NAME = "循证奇点"
 
 SOURCE_META = {
     "ema_guidance": ("EMA 监管与程序指南", "官方机构", "官方机构", 3),

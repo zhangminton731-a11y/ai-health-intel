@@ -50,4 +50,4 @@ jobs:
         env:
           FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
           FEISHU_BOT_SECRET: ${{ secrets.FEISHU_BOT_SECRET }}
-        run: python scripts/notify_feishu.py --message "循证人初 Pages 部署失败，请检查 https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: python scripts/notify_feishu.py --message "循证奇点 Pages 部署失败，请检查 https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"

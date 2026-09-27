@@ -57,8 +57,8 @@ def build_issues(items: list[dict], as_of: date) -> list[dict]:
 
 def issue_text(issue: dict | None, by_id: dict, as_of: str) -> str:
     if not issue:
-        return f'循证人初 · AI 医疗日报 · {as_of}\n\n今日暂无新条目，请稍后再来。\n'
-    lines = [f'循证人初 · AI 医疗日报 · {issue["date"]}',
+        return f'循证奇点 · AI 医疗日报 · {as_of}\n\n今日暂无新条目，请稍后再来。\n'
+    lines = [f'循证奇点 · AI 医疗日报 · {issue["date"]}',
              f'这一天的 {len(issue["item_ids"])} 件 AI 医疗大事', '']
     for number, iid in enumerate(issue['item_ids'], 1):
         row = by_id[iid]
