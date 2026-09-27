@@ -38,10 +38,10 @@
     {
       "id": "apple_newsroom",
       "kind": "rss",
-      "enabled": false,
+      "enabled": true,
       "required": false,
-      "url": "https://www.apple.com/newsroom/rss/",
-      "max_results": 10
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "max_results": 20
     },
     {
       "id": "fitbit_google_blog",
@@ -56,9 +56,69 @@
       "kind": "hacker_news",
       "enabled": true,
       "required": false,
-      "keywords": ["wearable", "health", "medical", "biotech", "fda", "sensor", "medicine", "clinic", "llm", "device", "startup"],
+      "keywords": [
+        "wearable",
+        "health",
+        "medical",
+        "biotech",
+        "fda",
+        "sensor",
+        "medicine",
+        "clinic",
+        "llm",
+        "device",
+        "startup"
+      ],
       "scan_limit": 80,
       "max_results": 8
+    },
+    {
+      "id": "medcity_news",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://medcitynews.com/feed/",
+      "max_results": 25
+    },
+    {
+      "id": "npj_digital_medicine",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.nature.com/npjdigitalmed.rss",
+      "max_results": 20
+    },
+    {
+      "id": "nature_medicine",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.nature.com/nm.rss",
+      "max_results": 20
+    },
+    {
+      "id": "mit_health",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://news.mit.edu/topic/mithealth-rss.xml",
+      "max_results": 20
+    },
+    {
+      "id": "oura_blog",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://ouraring.com/blog/feed/",
+      "max_results": 15
+    },
+    {
+      "id": "medical_device_network",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.medicaldevice-network.com/feed/",
+      "max_results": 20
     }
   ],
   "llm": {

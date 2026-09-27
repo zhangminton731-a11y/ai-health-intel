@@ -2,51 +2,54 @@ name: Daily Health Intel Aggregation
 
 on:
   schedule:
-    - cron: '30 0 * * *'   # 00:30 UTC = 北京 08:30（V1 每日一次，参数化可调）
+    # Beijing 05:17, 07:17, 09:17, 12:17, 15:17, 18:17, 21:17.
+    # Morning target: before 09:00; GitHub cron may be delayed.
+    - cron: '17 21,23,1,4,7,10,13 * * *'
   workflow_dispatch:
+
+concurrency:
+  group: aggregate-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   aggregate:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions:
       contents: write
-
+    env:
+      TZ: Asia/Shanghai
     steps:
       - uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Run SIH Engine Tests
-        run: python -m unittest discover -s engine/tests -p 'test_*.py'
-
-      - name: Aggregate (live)
+      - name: Test engine and public site
+        run: |
+          python -m unittest discover -s engine/tests -p 'test_*.py'
+          python -m unittest discover -s tests -p 'test_*.py'
+      - name: Aggregate live sources
         env:
           PYTHONPATH: ${{ github.workspace }}/engine/src
-        run: >
-          python -m sih_ref.cli run
-          --config config/sources.json
-          --profile config/profile.json
-          --output-dir output
-          --live
-
-      - name: Build Chinese Site & Briefing
+        run: python -m sih_ref.cli run --config config/sources.json --profile config/profile.json --output-dir output --live
+      - name: Build Chinese site, briefing and feeds
         run: python scripts/build_site.py
-
-      - name: Quality Gate（结构完整性校验；失败告警但不阻断——宽松兜底，吸收上游连续失败教训）
+      - name: Validate entire publication batch
         run: python scripts/quality_gate.py
-        continue-on-error: true
-
-      - name: Commit & Push
+      - name: Commit successful output
         run: |
           git config user.name "health-intel-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add output/ config/ scripts/
+          git add output/
           if git diff --staged --quiet; then
             echo "No changes"
           else
-            git commit -m "🔄 [auto] 情报更新 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
+            git commit -m "[auto] 情报更新 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
             git push
           fi
+      - name: Notify collection failure
+        if: failure() && github.ref == 'refs/heads/main'
+        env:
+          FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          FEISHU_BOT_SECRET: ${{ secrets.FEISHU_BOT_SECRET }}
+        run: python scripts/notify_feishu.py --message "健微知著采集或发布校验失败，上一版网站保留。查看 https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"

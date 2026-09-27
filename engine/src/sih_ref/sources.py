@@ -167,23 +167,28 @@ def _rss(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
         raise ValueError("RSS source requires an http(s) url")
     root = ET.fromstring(_request_text(url))
     items: list[dict[str, Any]] = []
-    rss_items = root.findall(".//item")
+    rss_ns = "{http://purl.org/rss/1.0/}"
+    rss_items = root.findall(".//item") + root.findall(f".//{rss_ns}item")
     if rss_items:
         for entry in rss_items:
+            def field(name: str) -> str | None:
+                return entry.findtext(name) or entry.findtext(f"{rss_ns}{name}")
+
             items.append(
                 {
-                    "upstream_id": entry.findtext("guid") or entry.findtext("link"),
-                    "title": entry.findtext("title"),
-                    "summary": entry.findtext("description"),
-                    "published_at": entry.findtext("pubDate"),
-                    "url": entry.findtext("link"),
+                    "upstream_id": field("guid") or field("link"),
+                    "title": field("title"),
+                    "summary": field("description"),
+                    "published_at": field("pubDate") or entry.findtext("{http://purl.org/dc/elements/1.1/}date"),
+                    "url": field("link"),
                     "tags": source.get("tags") or [],
                 }
             )
     else:
         atom = "{http://www.w3.org/2005/Atom}"
         for entry in root.findall(f".//{atom}entry"):
-            link_node = entry.find(f"{atom}link")
+            link_node = next((link for link in entry.findall(f"{atom}link")
+                              if link.get("rel", "alternate") == "alternate"), None)
             link = link_node.get("href") if link_node is not None else ""
             items.append(
                 {
