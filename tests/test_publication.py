@@ -67,6 +67,20 @@ class PublicationTests(unittest.TestCase):
         path.write_text(html,encoding='utf-8')
         self.assertIn('网页与接口日报文本不一致',self.issues())
 
+    def test_daily_edition_cannot_claim_another_publication_date(self):
+        self.payload['dailyIssues']=[{'date':'2026-09-26','item_ids':['0'],'minutes':1}]
+        self.payload['dailyIds']=['0']
+        (self.out/'site/index.html').write_text('<script id="payload" type="application/json">'+json.dumps(self.payload)+'</script>',encoding='utf-8')
+        export_feeds(self.out/'site',self.payload,self.health,'简报',ROOT/'skills/sih-intel')
+        self.assertIn('日报包含非当日或不合格条目',self.issues())
+
+    def test_daily_directory_drift_blocks(self):
+        path=self.out/'site/api/v1/briefing.json'
+        data=json.loads(path.read_text(encoding='utf-8'))
+        data['editions']=[{'date':'2026-09-27','item_ids':['0'],'minutes':1}]
+        path.write_text(json.dumps(data),encoding='utf-8')
+        self.assertIn('日报日期目录与接口不一致',self.issues())
+
     def test_section_projection_drift_blocks(self):
         path=self.out/'site/api/v1/items.json'
         data=json.loads(path.read_text(encoding='utf-8'))

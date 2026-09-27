@@ -61,3 +61,28 @@ Digital Oracle 的实际范围与参考边界见 [核验记录](digital-oracle-r
 本轮合计 81 项自动测试通过：Python 内核 27、其他 Python 38、DOM 15、真实 MCP stdio 协议 1。MCP 测试验证工具发现、调用、组合筛选、空结果、非法参数、读取失败与恢复，使用本地夹具而非线上数据。真实批次重建和质量门通过。
 
 浏览器连接不可用，新增页面尚未完成手机视觉验收；更新尚未部署，线上接入及实际客户端安装仍需部署后复验。反馈自动收件需负责人确定渠道，飞书真实送达仍待配置。
+
+
+## 2026-09-27 循证人初、阅读版日报与主题
+
+网站名称统一为“循证人初”，包括桌面/手机导航、标题、RSS、接入资料和通知。移除右上角合作入口与侧栏底部“与 June 聊聊”，保留关于页的团队介绍与联系渠道。
+
+日报改为阅读页面：桌面日期目录与正文分栏，日期选择、序号、类别、完整标题、摘要、来源和原文；每个日期最多 5 条。按原文发布日期归集近 10 天的当前内容，同一天优先覆盖不同类别，去掉重复标题；只选有摘要的条目，标题型条目仍保留在其他信息流。清理摘要中转义的 HTML 标签和转载尾注，结构化论文摘要优先呈现结论与结果。没有内容的日期不生成假日报；默认打开最新有内容的日期，日期明示。日报正文、复制文本与 JSON 不再包含事实池统计或合作广告。尚未提供更早的历史存档及周报/月报。
+
+主题提供深色、跟随系统、浅色；记住选择，系统主题变化实时生效，存储被禁用时仍能切换。桌面放在侧栏底部，手机放在更多。1100px 以下日报目录改为日期选择器；700px 以下采用单列正文、触控按钮和安全区底部导航。
+
+### 新增信源实测
+
+| 来源 | 实测条数 | 地址 |
+|---|---:|---|
+| Journal of Medical Internet Research | 10 | https://www.jmir.org/feed/rss |
+| JMIR AI | 10 | https://ai.jmir.org/feed/rss |
+| Nature Biomedical Engineering | 8 | https://www.nature.com/natbiomedeng.rss |
+| NIH 科研资助与通知 | 3 | https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml |
+| EMA 监管与程序指南 | 14 | https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml |
+
+北京时间 2026-09-27 11:37:33 实采，17/17 启用信源成功，共 202 条记录。新增信源仍经过健康场景与技术相关性筛选，不能把采集条数当作 AI 政策条数。国家卫健委规划信息政策列表返回 HTTP 412，FDA RSS 连接失败，本次没有把它们记作已接通信源。官方订阅依据：[NIH](https://www.grants.nih.gov/funding/nih-guide-for-grants-and-contracts/subscribe)、[EMA](https://www.ema.europa.eu/en/news-events/rss-feeds)。
+
+浏览器自动化重试仍返回 nodeRepl.fetch request failed。本轮只报告功能测试与响应式代码完成，不将 jsdom 当作桌面/手机截图验收；Android Chrome、微信内置浏览器和 360/390/412px 实际布局仍待核验。
+
+本轮本地 91 项测试通过（内核 27、其他 Python 45、DOM 19）。覆盖日报日期隔离、每日 5 条上限、类别覆盖、重复与空摘要排除、复制日期一致性、HTML/链接转义、主题持久化、跟随系统及存储禁用。实际推荐 28 条；日报默认 2026-09-25 的 5 条，其他 5 个有摘要的日期可切换。2026-09-26 的期刊条目没有摘要，保留在论文信息流，不用于日报凑数。

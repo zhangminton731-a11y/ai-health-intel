@@ -17,7 +17,7 @@ def export_access(site: Path) -> None:
     shapes = {
         'items':{'count':{'type':'integer'},'items':{'type':'array','items':{'type':'object','required':list(item_properties),'properties':item_properties}}},
         'health':{'daily_status':{'type':'string'},'sources':{'type':'array','items':{'type':'object'}}},
-        'briefing':{'item_ids':{'type':'array','items':{'type':'string'}},'text':{'type':'string'}},
+        'briefing':{'item_ids':{'type':'array','items':{'type':'string'}},'text':{'type':'string'},'edition_date':{'type':['string','null'],'format':'date'},'editions':{'type':'array','items':{'type':'object','required':['date','item_ids','minutes'],'properties':{'date':{'type':'string','format':'date'},'item_ids':{'type':'array','minItems':1,'maxItems':5,'items':{'type':'string'}},'minutes':{'type':'integer','minimum':1}}}}},
     }
     names={'items':'当前有效情报','health':'采集时间与来源状态','briefing':'同批日报'}
     paths={}
@@ -27,17 +27,17 @@ def export_access(site: Path) -> None:
             'responses':{'200':{'description':'最近发布批次','content':{'application/json':{'schema':{
                 'type':'object','required':list(common)+list(properties),'properties':{**common,**properties}}}}},
                          '404':{'description':'尚未部署或路径不存在'}}}}
-    spec={'openapi':'3.1.0','info':{'title':'健微知著 SIH 公共快照 API','version':'1.0.0'},
+    spec={'openapi':'3.1.0','info':{'title':'循证人初 SIH 公共快照 API','version':'1.0.0'},
           'servers':[{'url':BASE.rstrip('/')}],'security':[],'paths':paths}
     (site/'openapi.json').write_text(json.dumps(spec,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (site/'llms.txt').write_text(f'''# 健微知著
+    (site/'llms.txt').write_text(f'''# 循证人初
 
 > 面向临床研究者的 AI 科研信息与合作入口，兼顾企业 AI 升级。匿名只读，无需 API Key。
 
 ## 数据与接入
 - [来源健康]({BASE}api/v1/health.json): 先读取，检查 generated_at，超过 36 小时披露过期。
 - [情报]({BASE}api/v1/items.json): 当前快照，sections 为 research/industry，客户端筛选 categories 与 research_stages。
-- [日报]({BASE}api/v1/briefing.json): 同批摘要，不能保证每条都是今天发表。
+- [日报]({BASE}api/v1/briefing.json): 最新有内容日期的日报。edition_date 是原文日期，as_of 是构建日期；editions 提供近 10 天有内容的日期目录。
 - [OpenAPI 3.1]({BASE}openapi.json): 三个静态 GET 端点，没有服务端搜索参数。
 - [Skill 安装说明]({BASE}sih-intel/README.md)
 - [Skill 定义]({BASE}sih-intel/SKILL.md)

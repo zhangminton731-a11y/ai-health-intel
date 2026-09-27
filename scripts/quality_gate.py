@@ -73,9 +73,17 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
         if not set(payload['top']).issubset(current) or not set(i['id'] for i in payload['hot30']).issubset(current):
             problems.append('榜单包含不合格条目')
         if len(payload['top'])>10 or len(payload['hot30'])>30:problems.append('榜单超出约定上限')
-        if feeds['briefing']['item_ids']!=payload['top']:problems.append('日报与网页推荐不一致')
+        if feeds['briefing']['item_ids']!=payload.get('dailyIds', payload['top']):problems.append('日报与网页推荐不一致')
         if feeds['briefing']['text']!=(output/'daily_briefing_cn.md').read_text(encoding='utf-8'):problems.append('日报文件与接口文本不一致')
         if payload.get('briefing')!=feeds['briefing']['text']:problems.append('网页与接口日报文本不一致')
+        editions = payload.get('dailyIssues', [])
+        if feeds['briefing'].get('editions', []) != editions:problems.append('日报日期目录与接口不一致')
+        if 'dailyIssues' in payload and payload.get('dailyIds') != (editions[0]['item_ids'] if editions else []):problems.append('最新日报与目录不一致')
+        if feeds['briefing'].get('edition_date') != (editions[0]['date'] if editions else None):problems.append('日报日期与接口不一致')
+        for edition in editions:
+            ids = edition['item_ids']
+            if not 1 <= len(ids) <= 5 or len(set(ids)) != len(ids):problems.append('日报条数或去重异常')
+            if any(iid not in current or current[iid]['date'] != edition['date'] for iid in ids):problems.append('日报包含非当日或不合格条目')
         rss=ET.parse(output/'site/feed.xml')
         if {x.findtext('guid') for x in rss.findall('./channel/item')}!=set(current):problems.append('RSS 与网页推荐池不一致')
         if len(payload['items'])!=len(items):problems.append('事实池与页面总量不一致')

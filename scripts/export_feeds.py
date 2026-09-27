@@ -26,7 +26,7 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
     for name, data in {
         'items': {**common, 'count': len(items), 'items': items},
         'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', [])},
-        'briefing': {**common, 'item_ids': payload['top'], 'text': briefing},
+        'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing},
     }.items():
         (api / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     rss = ET.Element('rss', {'version': '2.0'})

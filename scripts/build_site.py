@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import hashlib
+import html
+from html.parser import HTMLParser
 import json
 import re
 import sys
@@ -18,12 +20,18 @@ sys.path.insert(0, str(ROOT / "engine" / "src"))
 from sih_ref.core import freshness_gate, normalize_date
 from export_feeds import export_feeds
 from classify_content import classify_content
+from daily_digest import build_issues, issue_text
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
-SITE_NAME = "健微知著"
+SITE_NAME = "循证人初"
 
 SOURCE_META = {
+    "ema_guidance": ("EMA 监管与程序指南", "官方机构", "官方机构", 3),
+    "jmir": ("Journal of Medical Internet Research", "期刊论文", "期刊论文", 3),
+    "jmir_ai": ("JMIR AI", "期刊论文", "期刊论文", 3),
+    "nature_biomedical_engineering": ("Nature Biomedical Engineering", "期刊论文", "期刊论文", 3),
+    "nih_funding": ("NIH 科研资助与通知", "官方机构", "官方机构", 3),
     "medtech_dive_primary": ("MedTech Dive", "专业媒体", "专业媒体", 2),
     "stat_news_feed": ("STAT News", "专业媒体", "专业媒体", 3),
     "crunchbase_news_feed": ("Crunchbase News", "专业媒体", "专业媒体", 3),
@@ -141,14 +149,46 @@ def item_topics(title: str, summary: str, category: str) -> list[str]:
     return topics
 
 
+class SummaryText(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+
+    def handle_data(self, data):
+        self.parts.append(data)
+
+
+def reader_summary(value: str) -> str:
+    parser = SummaryText()
+    parser.feed(html.unescape(html.unescape(value or '')))
+    value = ' '.join(parser.parts)
+    value = re.sub(r'\s+', ' ', value).strip()
+    value = re.sub(r'\s*The post .+? appeared first on .+?\.?$', '', value, flags=re.I)
+    # Structured abstracts often put findings well beyond the RSS opening.
+    parts = re.split(r'\b(Background|Objectives?|Methods|Results|Conclusions?)\s*:', value, flags=re.I)
+    sections = {parts[i].lower().rstrip('s'): parts[i+1].strip() for i in range(1, len(parts)-1, 2)}
+    if sections.get('result') or sections.get('conclusion'):
+        value = ' '.join(label + ': ' + sections[key] for key, label in
+                         [('conclusion', 'Conclusions'), ('result', 'Results')]
+                         if sections.get(key))
+    if len(value) > 900:
+        # Do not turn a cut-off sentence into a complete finding.
+        excerpt = value[:900]
+        boundary = max(excerpt.rfind('. '), excerpt.rfind('。'), excerpt.rfind('; '))
+        value = excerpt[:boundary+1] if boundary > 150 else excerpt.rsplit(' ', 1)[0] + '…'
+    return value
+
+
 def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
     out = []
     for it in items:
         title_en = it.get("title", "")
         title_zh = tr.zh(title_en) or ""
-        summary = re.sub(r"<[^>]+>", " ", it.get("summary", "") or "")
-        summary = re.sub(r"\s{2,}", " ", summary).strip()
-        summary_zh = tr.zh(summary[:600]) or ""
+        original_summary = it.get('summary', '') or ''
+        summary = reader_summary(original_summary)
+        summary_zh = tr.zh(summary) or ''
+        if re.search(r'\bLLMs?\b', title_en + ' ' + summary):
+            summary_zh = summary_zh.replace('法学硕士', '大语言模型')
         src_id = it.get("source_id", "")
         name, role, cat, trust = SOURCE_META.get(src_id, (src_id, "", "行业媒体", 1))
         out.append({
@@ -157,8 +197,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "s": summary_zh, "se": summary,
             "u": it.get("url", ""),
             "src": name, "role": role, "cat": cat, "trust": trust,
-            "sourceType": cat, "topics": item_topics(title_en, summary, cat),
-            **classify_content(title_en, summary, cat),
+            "sourceType": cat, "topics": item_topics(title_en, original_summary, cat),
+            **classify_content(title_en, original_summary, cat),
             "event": it.get("event_type", "seen"), "provenance": it.get("provenance") or {},
             "tier": it.get("reading_tier", "archive"),
             "freshness": it.get("freshness_gate", "undated"),
@@ -219,23 +259,14 @@ def build(*, as_of: date | None = None) -> None:
                          "n": s.get("item_count", 0),
                          "ok": s.get("status") in ("ok", "ok_no_updates")})
 
-    lines = [f"# AI+健康情报日报 · {as_of}", "",
-             f"> 信源 {n_src} · 事实池 {len(data)} · 当前有效 {len(current_items)} · 推荐产出 {len(top_ids)} · 状态 {STATUS_CN.get(status, status)}", ""]
-    if not current_items:
-        lines += ["今日暂无新条目（零产出）", ""]
-    if top_ids:
-        d = by_id[top_ids[0]]
-        lines += [f"**本期关注：{d.get('t') or d.get('te')}**", f"链接：{d.get('u')}", ""]
-    lines.append("**今日 TOP 10**")
-    for i, iid in enumerate(top_ids, 1):
-        d = by_id.get(iid, {})
-        lines.append(f"{i}. {d.get('t') or d.get('te') or ''}\n   {d.get('u', '')}")
-    lines += ["", "科研与企业 AI 合作：微信 13028564458（请备注来意）", "内容由公开信源自动整理，请以原文为准；不构成诊疗或投资建议。"]
+    daily_issues = build_issues(data, build_date)
+    daily_ids = daily_issues[0]['item_ids'] if daily_issues else []
+    briefing = issue_text(daily_issues[0] if daily_issues else None, by_id, as_of)
 
     site_data = {
         "name": SITE_NAME, "asOf": as_of,
         "generatedAt": health.get("generated_at", ""),
-        "briefing": "\n".join(lines),
+        "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
         "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),
         "freshnessCounts": freshness_counts, "top": top_ids, "hot30": hot30,
@@ -250,9 +281,9 @@ def build(*, as_of: date | None = None) -> None:
     print(f"✅ AI Hot 式浅色站点已生成: site/index.html（翻译 {tr.translated}，熔断={'开' if tr.circuit_open else '关'}）")
     save_cache(tr.cache)
 
-    (OUTPUT / "daily_briefing_cn.md").write_text("\n".join(lines), encoding="utf-8")
+    (OUTPUT / "daily_briefing_cn.md").write_text(briefing, encoding="utf-8")
     print("✅ 中文日报已生成: daily_briefing_cn.md")
-    export_feeds(OUTPUT / "site", site_data, health, "\n".join(lines), ROOT / "skills" / "sih-intel")
+    export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 
 TEMPLATE = (ROOT / "templates" / "site.html").read_text(encoding="utf-8")

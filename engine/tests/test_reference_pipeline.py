@@ -96,14 +96,14 @@ class FreshnessTests(unittest.TestCase):
         for field in ("top", "hot30", "kws"):
             self.assertEqual([], payload[field])
         self.assertIn("今日暂无新条目", briefing)
-        self.assertIn("当前有效 0", briefing)
+        self.assertIn("今日暂无新条目", briefing)
         self.assertIn("今日暂无新条目", html)
         self.assertEqual(1, len(payload["items"]))
 
     def test_empty_pool(self):
         payload, briefing, _ = self.build_fixture([])
         self.assertEqual([], payload["top"])
-        self.assertIn("当前有效 0", briefing)
+        self.assertIn("今日暂无新条目", briefing)
 
     def test_future_and_undated_only_never_backfilled(self):
         for published in ("2026-09-08", "2027-01-01", None, "invalid"):

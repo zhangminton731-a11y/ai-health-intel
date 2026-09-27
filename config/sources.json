@@ -119,6 +119,46 @@
       "required": false,
       "url": "https://www.medicaldevice-network.com/feed/",
       "max_results": 20
+    },
+    {
+      "id": "jmir",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.jmir.org/feed/rss",
+      "max_results": 25
+    },
+    {
+      "id": "jmir_ai",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://ai.jmir.org/feed/rss",
+      "max_results": 25
+    },
+    {
+      "id": "nature_biomedical_engineering",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.nature.com/natbiomedeng.rss",
+      "max_results": 25
+    },
+    {
+      "id": "nih_funding",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
+      "max_results": 25
+    },
+    {
+      "id": "ema_guidance",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
+      "max_results": 25
     }
   ],
   "llm": {
