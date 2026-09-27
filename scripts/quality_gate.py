@@ -63,6 +63,12 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if not 0<=age_days<=10:problems.append('当前推荐中存在日期越界条目')
             if item['u']!=by_id[iid]['url']:problems.append('原文溯源不一致')
         if set(i['id'] for i in feeds['items']['items'])!=set(current):problems.append('API 与网页推荐池不一致')
+        for item in feeds['items']['items']:
+            page_item=current.get(item['id'],{})
+            if (item.get('sections',[])!=page_item.get('sections',[]) or
+                item.get('categories',{})!=page_item.get('categories',{}) or
+                item.get('research_stages',[])!=page_item.get('stages',[])):
+                problems.append('API 与网页栏目分类不一致')
         if not set(payload['top']).issubset(current) or not set(i['id'] for i in payload['hot30']).issubset(current):
             problems.append('榜单包含不合格条目')
         if len(payload['top'])>10 or len(payload['hot30'])>30:problems.append('榜单超出约定上限')

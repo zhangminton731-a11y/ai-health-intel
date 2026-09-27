@@ -67,6 +67,13 @@ class PublicationTests(unittest.TestCase):
         path.write_text(html,encoding='utf-8')
         self.assertIn('网页与接口日报文本不一致',self.issues())
 
+    def test_section_projection_drift_blocks(self):
+        path=self.out/'site/api/v1/items.json'
+        data=json.loads(path.read_text(encoding='utf-8'))
+        data['items'][0]['sections']=['industry']
+        path.write_text(json.dumps(data),encoding='utf-8')
+        self.assertIn('API 与网页栏目分类不一致',self.issues())
+
     def test_old_batch_blocks(self):
         self.assertTrue(any('36 小时' in p for p in validate(self.out,self.now+timedelta(hours=37))))
 

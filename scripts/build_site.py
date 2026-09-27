@@ -17,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "engine" / "src"))
 from sih_ref.core import freshness_gate, normalize_date
 from export_feeds import export_feeds
+from classify_content import classify_content
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
@@ -157,6 +158,7 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "u": it.get("url", ""),
             "src": name, "role": role, "cat": cat, "trust": trust,
             "sourceType": cat, "topics": item_topics(title_en, summary, cat),
+            **classify_content(title_en, summary, cat),
             "event": it.get("event_type", "seen"), "provenance": it.get("provenance") or {},
             "tier": it.get("reading_tier", "archive"),
             "freshness": it.get("freshness_gate", "undated"),
@@ -228,7 +230,7 @@ def build(*, as_of: date | None = None) -> None:
     for i, iid in enumerate(top_ids, 1):
         d = by_id.get(iid, {})
         lines.append(f"{i}. {d.get('t') or d.get('te') or ''}\n   {d.get('u', '')}")
-    lines += ["", "AI 联合开发 / 模块授权：微信 13028564458（请备注来意）", "内容由公开信源自动整理，请以原文为准；不构成诊疗或投资建议。"]
+    lines += ["", "科研与企业 AI 合作：微信 13028564458（请备注来意）", "内容由公开信源自动整理，请以原文为准；不构成诊疗或投资建议。"]
 
     site_data = {
         "name": SITE_NAME, "asOf": as_of,

@@ -18,6 +18,8 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
         'summary': i['s'] or i['se'], 'url': i['u'], 'source': i['src'],
         'source_type': i['sourceType'], 'published_at': i['date'],
         'topics': i['topics'], 'event_type': i['event'], 'provenance': i['provenance'],
+        'sections': i.get('sections', []), 'categories': i.get('categories', {}),
+        'research_stages': i.get('stages', []),
     } for i in payload['items'] if i['freshness'] == 'fresh' and i['tier'] != 'archive']
     common = {'schema_version': '1.0', 'generated_at': payload['generatedAt'], 'as_of': payload['asOf']}
     for name, data in {
@@ -40,6 +42,8 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
         ET.SubElement(entry, 'pubDate').text = format_datetime(datetime.fromisoformat(i['published_at']).replace(tzinfo=timezone.utc))
         for topic in i['topics']:
             ET.SubElement(entry, 'category').text = topic
+        for section in i['sections']:
+            ET.SubElement(entry, 'category', {'domain': BASE_URL + '#sections'}).text = section
     ET.ElementTree(rss).write(site / 'feed.xml', encoding='utf-8', xml_declaration=True)
     target = site / 'sih-intel'
     target.mkdir(exist_ok=True)

@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="面向医疗科技与消费健康企业的 AI 产业情报。追踪产品、临床证据与商业变化，与孟思君博士 June 探讨 AI 联合开发和模块授权。">
+<meta name="description" content="面向临床研究者的 AI 科研信息与合作入口。精选论文、方法工具与政策动态，关注健康产业前沿。">
 <meta name="theme-color" content="#174b40">
-<title>__SITE_NAME__ · AI 医疗与消费健康情报</title>
+<title>__SITE_NAME__ · 医学科研与产业前沿</title>
 <link rel="alternate" type="application/rss+xml" title="健微知著" href="feed.xml">
 <style>
 :root{--bg:#f7f8f5;--paper:#fff;--ink:#202a28;--muted:#64706b;--line:#e2e8e2;--green:#174b40;--soft:#eaf1eb;--orange:#ab542e;--radius:18px;color-scheme:light}
@@ -16,6 +16,8 @@
 @media(max-width:1000px){.shell{grid-template-columns:195px minmax(0,1fr)}.sidebar{padding:25px 14px}.brand{font-size:20px}main{padding:30px 25px}.topbar{padding:18px 25px}.hero-layout{grid-template-columns:1fr}.founder-note{display:none}.grid-two{grid-template-columns:1fr}}
 @media(max-width:700px){.shell{display:block}.sidebar,.topbar{display:none}.mobile-head{display:flex;position:sticky;top:0;z-index:20;justify-content:space-between;align-items:center;background:var(--paper);border-bottom:1px solid var(--line);padding:10px 18px;gap:12px}.mobile-head .brand{font-size:20px}.mobile-head a:last-child{color:var(--green);font-size:12px;display:flex;align-items:center;min-height:44px}main{padding:25px 16px calc(105px + env(safe-area-inset-bottom));max-width:100%}.mobile-nav{display:grid;grid-template-columns:repeat(4,1fr);position:fixed;bottom:0;left:0;right:0;background:var(--paper);border-top:1px solid var(--line);z-index:30;padding:7px 8px calc(7px + env(safe-area-inset-bottom))}.mobile-nav a{display:flex;min-height:48px;justify-content:center;align-items:center;font-size:12px;border-radius:10px;color:var(--muted)}.mobile-nav a[aria-current=page]{background:var(--soft);color:var(--green);font-weight:750}.hero-layout{margin-top:22px}.spotlight{padding:22px}.spotlight h2{font-size:21px}.intel{padding:18px 16px}.intel h3{font-size:17px}.section-head{margin-top:26px}.section-head h2{font-size:20px}.filters{grid-template-columns:1fr 1fr}.filters input{grid-column:1/-1}.panel{padding:21px}.contact-box{padding:24px}.credentials b{width:54px}.daily-box{padding:18px}.sub{font-size:14px}.metrics{gap:15px}.eyebrow{font-size:10px}.topic-bar{gap:6px}.topic-bar a{padding:10px 12px}.footnote{margin-top:30px}#toast{bottom:calc(90px + env(safe-area-inset-bottom))}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.category-tabs{display:flex;gap:22px;overflow-x:auto;white-space:nowrap;border-bottom:1px solid var(--line);margin-top:24px;padding:0 2px}.category-tabs a{display:inline-flex;align-items:center;min-height:48px;font-size:14px;color:var(--muted);border-bottom:3px solid transparent}.category-tabs a[aria-current=page]{color:var(--green);font-weight:750;border-color:var(--green)}.section-filters{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0}.section-filters input,.section-filters select{min-height:44px;border:1px solid var(--line);border-radius:10px;padding:10px 12px;max-width:100%;background:var(--paper);color:var(--ink)}.section-filters input{flex:1;min-width:180px}.highlights{margin:16px 0 24px;padding:20px 24px}.highlights h2{font-size:18px}.highlights ol{padding-left:25px;margin:12px 0 0}.highlights li{padding:9px 0 9px 7px;font-weight:650;overflow-wrap:anywhere}.highlights li::marker{color:var(--orange)}.timeline h2{font-size:19px;margin:28px 0 15px}.timeline h2 small{font-size:12px;font-weight:400;color:var(--muted);margin-left:12px}.timeline .intel{margin-bottom:14px}.timeline .summary{margin-top:12px}.timeline .rank{display:none}
 </style>
 </head>
 <body>
@@ -23,38 +25,46 @@
 <aside class="sidebar">
 <a class="brand" href="#jingxuan">健微知著<small>AI HEALTH INTELLIGENCE</small></a>
 <nav aria-label="主导航">
-<a class="nav-link" href="#jingxuan">今日关注</a><a class="nav-link" href="#feed">全部情报</a><a class="nav-link" href="#hot">热点榜</a><a class="nav-link" href="#daily">每日简报</a>
+<a class="nav-link" href="#jingxuan">医学科研</a><a class="nav-link" href="#industry">产业前沿</a><div class="side-label">浏览与订阅</div><a class="nav-link" href="#feed">全部情报</a><a class="nav-link" href="#hot">热点榜</a><a class="nav-link" href="#daily">每日简报</a>
 <div class="side-label">连接与合作</div><a class="nav-link" href="#about">团队与合作</a><a class="nav-link" href="#connect">Agent / Skill / API</a><a class="nav-link" href="#health">信源与状态</a>
 </nav>
 <div class="sidebar-foot"><a class="button" href="#about">与 June 聊聊 →</a><div id="sideUpd"></div><p style="margin-top:8px">从微小的信号，看见产业的大势。</p></div>
 </aside>
 <div class="content">
 <header class="mobile-head"><a class="brand" href="#jingxuan">健微知著</a><a href="#connect">接入与订阅 ↗</a></header>
-<div class="topbar"><span><span class="status-dot"></span>AI 医疗 · 消费健康 · 产业情报</span><a href="#about">AI 联合开发 / 模块授权 ↗</a></div>
+<div class="topbar"><span><span class="status-dot"></span>医学科研 · 产业前沿</span><a href="#about">科研与 AI 合作 ↗</a></div>
 <main>
 <div class="notice" id="staleNotice" role="status" hidden></div>
 <section id="v-jingxuan" class="view">
-<div class="eyebrow">Signals for healthcare builders</div><h1>看见 AI 健康的<br>下一步机会。</h1>
-<p class="sub">追踪医疗 AI 与智能健康的新产品、新证据和商业变化，<br class="desktop-break">为企业的下一步判断提供线索。</p>
-<p class="update-line">最近采集 <time id="upd1"></time> · 日间滚动更新</p>
-<div class="metrics" id="metrics"></div>
-<div class="topic-bar"><a href="#feed?topic=hospital">医院端 AI</a><a href="#feed?topic=consumer">消费健康</a><a href="#feed?topic=research">研究证据</a><a href="#feed?topic=business">商业动态</a><a href="#feed?topic=regulation">监管进展</a></div>
-<div class="hero-layout"><div id="spotBox" class="spotlight"></div><div class="founder-note"><div class="person"><span class="avatar" aria-hidden="true">J</span><div><h3>孟思君 · June</h3><small>医学博士 / 前医疗 AI 公司 CTO</small></div></div><h3>从医学到算法，<br>从研究到产业。</h3><p>7 年 AI 交叉研究与产业化经验，连接健康领域的技术能力与企业需求。</p><a class="text-link" href="#about">认识团队，探讨合作 →</a></div></div>
-<div class="section-head"><h2>值得关注 <span class="muted" style="font-size:13px">TOP 10</span></h2><a class="text-link" href="#feed">浏览全部 →</a></div><div id="topRows" class="intel-list grid"></div>
+<div class="eyebrow">Medical research</div><h1>医学科研 · 精选</h1>
+<p class="sub">看懂 AI 医学研究，找到自己课题的下一步。追踪前沿论文、方法工具与政策变化。</p>
+<p class="update-line">最近采集 <time id="upd1"></time> · 日间滚动更新</p><div class="metrics" id="metrics"></div>
+<nav id="researchTabs" class="category-tabs" aria-label="医学科研栏目"></nav>
+<div class="section-filters"><input id="researchSearch" type="search" aria-label="搜索医学科研" placeholder="搜索论文、方法、疾病或关键词"><select id="researchStage" aria-label="按科研环节筛选"><option value="all">全部科研环节</option><option value="design">研究设计</option><option value="data">数据处理</option><option value="analysis">AI 分析</option><option value="validation">研究验证</option></select></div>
+<div class="panel highlights"><h2>本期重点</h2><ol id="researchHighlights"></ol></div>
+<p id="researchCount" class="result-count" aria-live="polite"></p><div id="topRows" class="timeline"></div>
+</section>
+<section id="v-industry" class="view">
+<div class="eyebrow">Industry frontiers</div><h1>产业前沿 · 精选</h1><p class="sub">关注医疗科技与智能健康的新品、技术和商业变化，为企业 AI 升级寻找线索。</p>
+<nav id="industryTabs" class="category-tabs" aria-label="产业前沿栏目"></nav>
+<div class="section-filters"><input id="industrySearch" type="search" aria-label="搜索产业前沿" placeholder="搜索企业、产品、技术或关键词"><select id="industryScope" aria-label="按应用场景筛选"><option value="all">全部应用场景</option><option value="hospital">医院端医疗</option><option value="consumer">消费健康</option></select></div>
+<div class="panel highlights"><h2>本期重点</h2><ol id="industryHighlights"></ol></div>
+<p id="industryCount" class="result-count" aria-live="polite"></p><div id="industryRows" class="timeline"></div>
+<div class="panel"><h2>方法参考 · Digital Oracle</h2><p>一个以市场数据分析宏观趋势的开源项目。本站参考其相关性、时间窗口与多源证据检查思路。融资并购条目保留报道来源与原文，交易金额和状态需回到公告核实。</p><a class="text-link" href="https://github.com/komako-workshop/digital-oracle" target="_blank" rel="noopener noreferrer">了解 Digital Oracle ↗</a></div>
 </section>
 <section id="v-feed" class="view"><div class="eyebrow">Explore intelligence</div><h1>找到与你相关的变化。</h1><p class="sub">按场景、主题和关键词查找当前情报。展开卡片可查看摘要与原文。</p><div class="filters"><input id="search" type="search" aria-label="搜索情报" placeholder="搜索企业、产品、技术或关键词"><select id="topicFilter" aria-label="按主题筛选"><option value="all">全部主题</option><option value="hospital">医院端 AI</option><option value="consumer">消费健康</option><option value="research">研究证据</option><option value="business">商业动态</option><option value="regulation">监管进展</option></select><select id="sourceFilter" aria-label="按来源类型筛选"><option value="all">全部来源</option><option>专业媒体</option><option>期刊论文</option><option>研究机构</option><option>企业发布</option><option>社区线索</option></select></div><p class="result-count" id="resultCount" aria-live="polite"></p><div id="feedRows" class="intel-list"></div></section>
 <section id="v-hot" class="view"><div class="eyebrow">Trending signals</div><h1>AI 健康热点榜</h1><p class="sub">按健康场景相关性排序，最多展示 30 条。</p><div id="kws" class="topic-bar"></div><div id="hotRows" class="intel-list" style="margin-top:20px"></div></section>
 <section id="v-daily" class="view"><div class="eyebrow">Your daily briefing</div><h1>一份简报，掌握重点。</h1><p class="sub">汇总本期值得关注的产业情报，方便保存与分享给同事。</p><div class="actions"><button id="copyBtn" class="button">复制简报</button><button id="shareBtn" class="button secondary">分享网站</button><a class="button secondary" href="feed.xml">RSS 订阅</a></div><pre id="dailyText" class="daily-box"></pre></section>
-<section id="v-about" class="view"><div class="eyebrow">Meet the team · Work with us</div><h1>让 AI 能力，<br>走进真实的健康场景。</h1><p class="sub">我们关注医院端医疗科技与 C 端智能消费健康，帮助企业把技术想法推进为可验证的产品能力。</p>
+<section id="v-about" class="view"><div class="eyebrow">Meet the team · Work with us</div><h1>让 AI 能力，<br>走进真实的健康场景。</h1><p class="sub">我们面向有临床积累和研究问题的医院团队，交流 AI 科研方法与技术合作；同时支持企业的 AI 能力升级。</p>
 <div class="grid-two"><div class="panel"><div class="person"><span class="avatar" aria-hidden="true">J</span><div><h2>孟思君 · June</h2><span class="muted">Dr / PhD · 医学博士</span></div></div><h3>懂算法、懂产业、懂商业的跨界 AI 硬核极客</h3><ul class="credentials"><li><b>医学</b>中山大学 · 医学本科</li><li><b>科研</b>北京大学 · 医学直博</li><li><b>算法</b>香港科技大学计算机系 · 博士后</li><li><b>交叉研究</b>香港理工大学诺奖实验室 · 助理研究员</li><li><b>产业</b>前 AI 医疗科技公司 CTO</li></ul><p>7 年 AI + 跨界交叉研究与产业化经验，当前聚焦 AI for Science。</p><a class="text-link" href="https://1dc1742f.pinme.dev/" target="_blank" rel="noopener noreferrer">查看 June 的完整介绍与研究经历 ↗</a></div>
-<div><div class="panel"><span class="eyebrow">01 / Joint development</span><h2>健康领域 AI 联合开发</h2><p>围绕企业的具体健康场景，讨论产品需求、算法能力、验证路径与落地方式。</p></div><div class="panel"><span class="eyebrow">02 / Module licensing</span><h2>已有功能模块授权</h2><p>根据产品需求评估可复用的功能模块、适用条件与集成方式，具体能力及合作范围沟通后确定。</p></div></div></div>
-<div class="contact-box"><h2>有具体想法，欢迎聊聊。</h2><p>我是孟思君（June）。如果你正在推进医疗 AI 或智能健康产品，欢迎添加商务微信，请备注来意。</p><div class="wechat mono" id="wechatNumber">13028564458</div><div class="actions"><button class="button" id="copyWechat">复制微信号</button></div><small>建议备注：公司 / 职务 / 想讨论的需求。复制后到微信搜索添加。</small></div>
+<div><div class="panel"><span class="eyebrow">01 / Joint development</span><h2>医院科研与 AI 技术合作</h2><p>围绕已有临床问题和数据积累，交流研究路径、数据处理、分析方法与验证需求。具体合作范围沟通后确定。</p></div><div class="panel"><span class="eyebrow">02 / Module licensing</span><h2>企业 AI 升级与模块授权</h2><p>根据产品需求评估可复用的功能模块、适用条件与集成方式，具体能力及合作范围沟通后确定。</p></div></div></div>
+<div class="contact-box"><h2>有具体想法，欢迎聊聊。</h2><p>我是孟思君（June）。如果你希望推进医院科研或企业 AI 升级，欢迎添加商务微信，请备注来意。</p><div class="wechat mono" id="wechatNumber">13028564458</div><div class="actions"><button class="button" id="copyWechat">复制微信号</button></div><small>建议备注：医院与科室 / 公司，以及研究方向或具体需求。复制后到微信搜索添加。</small></div>
 </section>
-<section id="v-connect" class="view"><div class="eyebrow">Take intelligence into your workflow</div><h1>你的工具，也能读懂情报。</h1><p class="sub">在手机浏览器阅读，或让你自己的 Agent 和阅读器持续获取本站内容。</p><div class="grid-two"><div class="panel"><h2>Agent / Skill</h2><p>下载本站 Skill，交给支持 Skill 的 Agent 安装；也可直接把数据地址发给支持联网读取的助手。手机是否支持安装取决于所用客户端。</p><div class="actions"><a class="button" href="sih-intel.zip" download>下载 Skill</a><a class="button secondary" href="sih-intel/SKILL.md">阅读使用说明</a></div><code class="code">读取健微知著的最新情报，筛选医院端 AI 与消费健康各 3 条，附来源、日期和原文；数据停更时请明确说明。</code></div><div class="panel"><h2>RSS 订阅</h2><p>用手机或电脑上的 RSS 阅读器订阅，按自己的节奏查看更新。</p><div class="actions"><a class="button" href="feed.xml">打开 RSS</a><button class="button secondary" id="copyRss">复制 RSS 地址</button></div><code class="code" id="rssUrl"></code></div></div><div class="panel"><h2>公开只读 API</h2><p>无需 API Key。JSON 快照与网页同步更新；主题与关键词筛选由接入方完成。每次读取请检查 generated_at，勿将旧批次当作实时结果。</p><code class="code">GET api/v1/items.json      当前情报<br>GET api/v1/health.json     来源与采集状态<br>GET api/v1/briefing.json   本期简报</code><div class="actions"><a class="button secondary" href="api/v1/items.json">查看情报 JSON</a><a class="button secondary" href="api/v1/health.json">查看来源状态</a></div><p>更新目标：北京时间 09:00 前提供早间内容，白天约每 3 小时采集。调度可能延迟，请以实际采集时间为准。</p></div></section>
+<section id="v-connect" class="view"><div class="eyebrow">Research and industry in your workflow</div><h1>你的工具，也能读懂情报。</h1><p class="sub">在手机浏览器阅读，或让你自己的 Agent 和阅读器持续获取本站内容。</p><div class="grid-two"><div class="panel"><h2>Agent / Skill</h2><p>下载本站 Skill，交给支持 Skill 的 Agent 安装；也可直接把数据地址发给支持联网读取的助手。手机是否支持安装取决于所用客户端。</p><div class="actions"><a class="button" href="sih-intel.zip" download>下载 Skill</a><a class="button secondary" href="sih-intel/SKILL.md">阅读使用说明</a></div><code class="code">读取健微知著的最新情报，筛选医学科研与产业前沿各 3 条，附来源、日期和原文；数据停更时请明确说明。</code></div><div class="panel"><h2>RSS 订阅</h2><p>用手机或电脑上的 RSS 阅读器订阅，按自己的节奏查看更新。</p><div class="actions"><a class="button" href="feed.xml">打开 RSS</a><button class="button secondary" id="copyRss">复制 RSS 地址</button></div><code class="code" id="rssUrl"></code></div></div><div class="panel"><h2>公开只读 API</h2><p>无需 API Key。JSON 快照与网页同步更新；主题与关键词筛选由接入方完成。每次读取请检查 generated_at，勿将旧批次当作实时结果。</p><code class="code">GET api/v1/items.json      当前情报<br>GET api/v1/health.json     来源与采集状态<br>GET api/v1/briefing.json   本期简报</code><div class="actions"><a class="button secondary" href="api/v1/items.json">查看情报 JSON</a><a class="button secondary" href="api/v1/health.json">查看来源状态</a></div><p>更新目标：北京时间 09:00 前提供早间内容，白天约每 3 小时采集。调度可能延迟，请以实际采集时间为准。</p></div></section>
 <section id="v-health" class="view"><div class="eyebrow">Sources and freshness</div><h1>信息有出处，更新看得见。</h1><p class="sub">展示各信源最近一次采集结果。采集成功不代表每次都有新内容；企业发布与独立研究分别标识。</p><p class="update-line" id="healthSummary"></p><div id="srcRows" style="margin-top:20px"></div></section>
 <footer class="footnote">内容由公开信源自动整理，译文仅供参考，请以原文为准；不构成诊疗或投资建议。<br><a href="#health">信源与状态</a> · <a href="#about">商务合作</a> · <a href="#connect">接入与订阅</a> · <a href="https://github.com/zhangminton731-a11y/ai-health-intel" target="_blank" rel="noopener noreferrer">开源项目</a></footer>
 </main></div></div>
-<nav class="mobile-nav" aria-label="手机导航"><a href="#jingxuan">今日关注</a><a href="#feed">全部情报</a><a href="#daily">每日简报</a><a href="#about">团队与合作</a></nav>
+<nav class="mobile-nav" aria-label="手机导航"><a href="#jingxuan">医学科研</a><a href="#industry">产业前沿</a><a href="#daily">每日简报</a><a href="#about">团队与合作</a></nav>
 <div id="toast" role="status" hidden></div>
 <noscript><p style="padding:20px">请启用 JavaScript 查看情报列表。也可阅读 <a href="feed.xml">RSS</a>。商务合作微信：13028564458。</p></noscript>
 <script id="payload" type="application/json">__PAYLOAD__</script>
@@ -64,6 +74,9 @@
 const D=JSON.parse(document.getElementById('payload').textContent);
 const $=s=>document.querySelector(s);
 const topicNames={hospital:'医院端 AI',consumer:'消费健康',research:'研究证据',business:'商业动态',regulation:'监管进展'};
+const sectionCategories={research:{all:'全部',papers:'论文精选',methods:'方法与工具',policy:'政策动态'},industry:{all:'全部',products:'新品与方案',technology:'技术进展',business:'融资与合作',regulation:'市场准入',overview:'综合动态'}};
+const selectedCategory={research:'all',industry:'all'};
+const stageNames={design:'研究设计',data:'数据处理',analysis:'AI 分析',validation:'研究验证'};
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=u=>{try{const x=new URL(u);return /^https?:$/.test(x.protocol)?x.href:'#';}catch{return '#';}};
 const now=new Date();
@@ -74,7 +87,7 @@ const current=D.items.filter(isCurrent),byId=Object.fromEntries(current.map(i=>[
 const top=D.top.filter(id=>byId[id]),hot=D.hot30.filter(i=>byId[i.id]);
 const displayTime=D.generatedAt?new Date(D.generatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false}):'时间未提供';
 $('#upd1').textContent=displayTime+'（北京）';$('#sideUpd').textContent='最近采集 '+displayTime;
-$('#metrics').innerHTML=`<span><b>${D.nSrc}</b>个启用信源</span><span><b>${current.length}</b>条当前情报</span><span><b>${current.filter(i=>i.event==='new').length}</b>条本批新增</span>`;
+$('#metrics').innerHTML=`<span><b>${D.nSrc}</b>个启用信源</span><span><b>${current.filter(i=>(i.sections||[]).includes('research')).length}</b>条科研情报</span><span><b>${current.filter(i=>(i.sections||[]).includes('industry')).length}</b>条产业情报</span>`;
 const collected=Date.parse(D.generatedAt),ageHours=(now-collected)/3600000;
 const cstHour=Number(new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Shanghai',hour:'2-digit',hourCycle:'h23'}).format(now));
 let warning='';
@@ -84,18 +97,38 @@ else if(D.statusRaw!=='complete')warning='本批部分信源暂不可用，覆�
 if(warning){$('#staleNotice').textContent=warning;$('#staleNotice').hidden=false;}
 function toast(message){$('#toast').textContent=message;$('#toast').hidden=false;clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').hidden=true,3200);}
 async function copy(value,message){try{await navigator.clipboard.writeText(value);toast(message);}catch{toast('复制未成功，请长按选中页面文字复制。');}}
-function card(i,n){return `<article class="intel"><div class="card-head"><h3><span class="rank">${String(n).padStart(2,'0')}</span><a href="${esc(safeUrl(i.u))}" target="_blank" rel="noopener noreferrer">${esc(i.t||i.te)}</a></h3></div><div class="meta"><span>${esc(i.src)}</span><time>${esc(i.date)}</time><span>${esc(i.sourceType)}</span>${i.topics.slice(0,2).map(t=>`<span class="pill">${esc(topicNames[t]||t)}</span>`).join('')}</div><details><summary class="text-link">查看摘要</summary><p class="summary">${esc(i.s||i.se||'来源未提供摘要，请阅读原文。')}</p>${i.t&&i.te?`<p class="original">原题：${esc(i.te)}</p>`:''}<a class="text-link" href="${esc(safeUrl(i.u))}" target="_blank" rel="noopener noreferrer">阅读原文 ↗</a></details></article>`;}
+function card(i,n){return `<article class="intel"><div class="card-head"><h3><span class="rank">${String(n).padStart(2,'0')}</span><a href="${esc(safeUrl(i.u))}" target="_blank" rel="noopener noreferrer">${esc(i.t||i.te)}</a></h3></div><div class="meta"><span>${esc(i.src)}</span><time>${esc(i.date)}</time><span>${esc(i.sourceType)}</span>${i.topics.slice(0,2).map(t=>`<span class="pill">${esc(topicNames[t]||t)}</span>`).join('')}${(i.stages||[]).map(t=>`<span class="pill">${esc(stageNames[t]||t)}</span>`).join('')}</div><p class="summary">${esc(i.s||i.se||'来源未提供摘要，请阅读原文。')}</p><details><summary class="text-link">原文与详情</summary>${i.t&&i.te?`<p class="original">原题：${esc(i.te)}</p>`:''}<a class="text-link" href="${esc(safeUrl(i.u))}" target="_blank" rel="noopener noreferrer">阅读原文 ↗</a></details></article>`;}
 function list(el,items){el.innerHTML=items.length?items.map((i,n)=>card(i,n+1)).join(''):'<p class="empty">今日暂无新条目，或没有符合条件的情报。</p>';}
-if(top.length){const s=byId[top[0]];$('#spotBox').innerHTML=`<div class="eyebrow">In focus / 本期关注</div><h2><a href="${esc(safeUrl(s.u))}" target="_blank" rel="noopener noreferrer">${esc(s.t||s.te)}</a></h2><div class="meta"><span>${esc(s.src)}</span><time>${esc(s.date)}</time><span>${esc(s.sourceType)}</span></div><p class="summary">${esc(s.s||s.se||'请阅读原文了解详情。')}</p><a class="text-link" href="${esc(safeUrl(s.u))}" target="_blank" rel="noopener noreferrer">阅读全文 ↗</a>`;}else{$('#spotBox').textContent='今日暂无新条目';}
+function renderSection(section){
+ const category=selectedCategory[section],q=$('#'+section+'Search').value.trim().toLowerCase();
+ const extra=section==='research'?$('#researchStage').value:$('#industryScope').value;
+ const rows=current.filter(i=>(i.sections||[]).includes(section)&&(category==='all'||(i.categories?.[section]||[]).includes(category))&&
+   (extra==='all'||(section==='research'?(i.stages||[]):i.topics).includes(extra))&&
+   (!q||[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase().includes(q)));
+ const routeName=section==='research'?'jingxuan':'industry';
+ $('#'+section+'Tabs').innerHTML=Object.entries(sectionCategories[section]).map(([key,label])=>`<a href="#${routeName}?category=${key}" ${key===category?'aria-current="page"':''}>${label}</a>`).join('');
+ const highlights=[...rows].sort((a,b)=>(b.rel||0)-(a.rel||0)).slice(0,5);
+ $('#'+section+'Highlights').innerHTML=highlights.length?highlights.map(i=>`<li><a href="${esc(safeUrl(i.u))}" target="_blank" rel="noopener noreferrer">${esc(i.t||i.te)}</a></li>`).join(''):'<li>当前没有符合条件的内容</li>';
+ $('#'+section+'Count').textContent=`${rows.length} 条当前内容 · 最近采集 ${displayTime}`;
+ const groups=new Map();
+ [...rows].sort((a,b)=>b.date.localeCompare(a.date)).forEach(i=>{if(!groups.has(i.date))groups.set(i.date,[]);groups.get(i.date).push(i);});
+ const target=section==='research'?$('#topRows'):$('#industryRows');
+ target.innerHTML=rows.length?[...groups].map(([day,items])=>`<section><h2><time>${esc(day)}</time><small>${items.length} 条</small></h2>${items.map((i,n)=>card(i,n+1)).join('')}</section>`).join(''):'<p class="empty">当前暂无符合条件的内容。可以切换栏目或清除筛选条件。</p>';
+}
+for(const section of ['research','industry']){
+ $('#'+section+'Search').addEventListener('input',()=>renderSection(section));
+}
+$('#researchStage').addEventListener('change',()=>renderSection('research'));
+$('#industryScope').addEventListener('change',()=>renderSection('industry'));
 function renderFeed(){const q=$('#search').value.trim().toLowerCase(),topic=$('#topicFilter').value,source=$('#sourceFilter').value;const rows=current.filter(i=>(topic==='all'||i.topics.includes(topic))&&(source==='all'||i.sourceType===source)&&(!q||[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase().includes(q)));list($('#feedRows'),rows);$('#resultCount').textContent=`找到 ${rows.length} 条情报 · 最近采集 ${displayTime}`;}
-function renderLists(){list($('#topRows'),top.map(id=>byId[id]));list($('#hotRows'),hot);renderFeed();}
+function renderLists(){list($('#hotRows'),hot);renderFeed();}
 renderLists();
 $('#search').addEventListener('input',renderFeed);$('#topicFilter').addEventListener('change',renderFeed);$('#sourceFilter').addEventListener('change',renderFeed);
 $('#kws').innerHTML=D.kws.map(k=>`<span class="pill">${esc(k.term)} · ${k.n}</span>`).join('');
 let briefing=`【健微知著 · ${D.asOf}】\n最近采集：${displayTime}（北京）\n当前有效 ${current.length} · 推荐产出 ${top.length}\n\n`;
 if(!top.length)briefing+='今日暂无新条目（零产出）\n';
 top.forEach((id,n)=>{const i=byId[id];briefing+=`${n+1}. ${i.t||i.te}\n${i.src} · ${i.date}\n${i.u}\n\n`;});
-briefing+='更多情报：https://zhangminton731-a11y.github.io/ai-health-intel/\nAI 联合开发 / 模块授权：微信 13028564458（请备注来意）\n内容自动整理，请以原文为准；不构成诊疗或投资建议。';
+briefing+='更多情报：https://zhangminton731-a11y.github.io/ai-health-intel/\n科研与企业 AI 合作：微信 13028564458（请备注来意）\n内容自动整理，请以原文为准；不构成诊疗或投资建议。';
 if(top.length===D.top.length)briefing=D.briefing;
 $('#dailyText').textContent=briefing;
 $('#copyBtn').onclick=()=>copy(briefing,'简报已复制');$('#copyWechat').onclick=()=>copy('13028564458','微信号已复制，请到微信搜索添加');
@@ -104,7 +137,7 @@ $('#shareBtn').onclick=async()=>{if(navigator.share){try{await navigator.share({
 const statusNames={ok:'采集成功',ok_no_updates:'暂无新内容',inactive:'未启用',failed:'暂不可用',warning:'有异常'};
 $('#healthSummary').textContent=`最近采集 ${displayTime}（北京） · ${D.nSrc} 个启用信源`;
 $('#srcRows').innerHTML=D.srcs.map(s=>`<div class="health-row"><strong>${esc(s.name)}</strong><small>${esc(s.role)}</small><small>${s.n} 条 ${esc(s.activity)}</small><span class="health-status ${s.ok?'':'warn'}">${esc(statusNames[s.status]||s.status)}</span></div>`).join('');
-function route(){const parts=(location.hash.slice(1)||'jingxuan').split('?');let v=parts[0];if(!document.getElementById('v-'+v))v='jingxuan';document.querySelectorAll('.view').forEach(x=>x.classList.toggle('active',x.id==='v-'+v));document.querySelectorAll('.nav-link,.mobile-nav a').forEach(a=>{if(a.getAttribute('href')==='#'+v)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});if(v==='feed'){const topic=new URLSearchParams(parts[1]||'').get('topic');if(topic&&topicNames[topic])$('#topicFilter').value=topic;renderFeed();}window.scrollTo(0,0);}
+function route(){const parts=(location.hash.slice(1)||'jingxuan').split('?');let v=parts[0];if(!document.getElementById('v-'+v))v='jingxuan';document.querySelectorAll('.view').forEach(x=>x.classList.toggle('active',x.id==='v-'+v));document.querySelectorAll('.nav-link,.mobile-nav a').forEach(a=>{if(a.getAttribute('href')==='#'+v)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});if(v==='feed'){const topic=new URLSearchParams(parts[1]||'').get('topic');if(topic&&topicNames[topic])$('#topicFilter').value=topic;renderFeed();}if(v==='jingxuan'||v==='industry'){const section=v==='jingxuan'?'research':'industry';const category=new URLSearchParams(parts[1]||'').get('category')||'all';selectedCategory[section]=Object.hasOwn(sectionCategories[section],category)?category:'all';renderSection(section);}window.scrollTo(0,0);}
 window.addEventListener('hashchange',route);route();
 })();
 </script>

@@ -1,11 +1,11 @@
 ---
 name: sih-intel
-description: 读取健微知著的 AI 医疗与消费健康情报、来源状态和日报，按医院端、消费健康、研究证据或商业动态筛选并附原文。用于用户请求本站资讯或用情报跟踪企业机会时。
+description: 读取健微知著的医学科研与产业前沿精选、来源状态和日报，筛选论文、方法工具、政策及企业动态并附原文。用于用户请求本站资讯或用情报跟踪企业机会时。
 ---
 
 # 健微知著 SIH
 
-本站为医院端医疗科技与消费健康企业提供产业情报。使用匿名 HTTPS GET，无需密钥或登录。
+本站优先服务临床研究者，同时为企业提供 AI 升级相关产业情报。使用匿名 HTTPS GET，无需密钥或登录。
 
 ## 数据入口
 
@@ -17,6 +17,14 @@ Base URL: https://zhangminton731-a11y.github.io/ai-health-intel/
 - `feed.xml`：RSS 2.0，供阅读器订阅。
 
 这些是定期生成的 JSON 快照，不是动态搜索服务；查询参数不生效。读取后在客户端按 topics 或标题/摘要筛选。topics 包括 hospital、consumer、research、business、regulation，可同时出现。
+
+## 栏目与证据
+
+- `sections`：research（医学科研）、industry（产业前沿），一个条目可同时出现。
+- `categories.research`：papers、methods、policy；`categories.industry`：products、technology、business、regulation、overview。
+- `research_stages`：design、data、analysis、validation；这是研究环节标签，不是证据等级。
+- 先按用户入口筛选，再按栏目与关键词筛选。没有匹配就说明当前为空，不能用其他栏目凑数。
+- 期刊名称不等于影响因子；政策报道不等于官方生效文件；融资报道不等于交易完成。本站尚未自动多源核验事件，不得声称多源证实或预测更准。
 
 ## 使用
 
