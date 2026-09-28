@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-09-28
 
-> Daily status: **complete_with_warning** · sources 16/17 · items 235
+> Daily status: **complete** · sources 17/17 · items 243
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -234,7 +234,7 @@ No summary supplied by the source.
 
 <p><a href="https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/"><img width="600" height="257" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-600x257.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-600x257.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-300x129.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-768x329.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013.jpg 903w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>As AI technology in healthcare becomes more deeply involved in the complex, high-stakes tasks of diagnosis and treatment planning, traditional lines of accountability will become less clear. Where does the buck stop for AI-supported medical care? </p> <p>The post <a href="https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/">When AI Gets Medicine Wrong, Who’s Liable?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-## Archive · 207
+## Archive · 215
 
 ### [AI-Based Approaches for the Identification and Quantification of Traumatic Brain Injury in Computed Tomography Imaging: Systematic Review](https://ai.jmir.org/2026/1/e87794/)
 
@@ -771,6 +771,14 @@ Senators focused on asking Overton about vaccines, abortion, and vapes.
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/09/24/chronicling-chinese-drug-development-from-shanghai-readout-loud/?utm_campaign=rss`
 
 The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.
+
+### [Does expansion of clinical trial capacity improve healthcare access?](https://www.nature.com/articles/s41591-026-04683-1)
+
+- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04683-1`
+
+No summary supplied by the source.
 
 ### [FDA clears Marani Health’s remote maternal monitoring system](https://www.medicaldevice-network.com/news/fda-clears-marani-health-maternal-remote-monitoring-system/)
 
@@ -1564,6 +1572,14 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 
 <p><a href="https://medcitynews.com/2026/09/roche-rare-kidney-disease-sefaxersen-nephropathy-igan-aso-rhhby/"><img width="600" height="335" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-600x335.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-600x335.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-768x428.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077.jpg 791w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Roche reported the drug sefaxersen achieved statistically significant and clinically meaningful results in a Phase 3 test in immunoglobulin A nephropathy, or IgAN. This antisense oligonucleotide, which came from Ionis Pharmaceuticals, could offer advantages over other drugs currently available for treating this rare chronic disease of the kidneys.</p> <p>The post <a href="https://medcitynews.com/2026/09/roche-rare-kidney-disease-sefaxersen-nephropathy-igan-aso-rhhby/">Phase 3 Data Could Make Roche Drug a Contender to Treat Rare Kidney Disease`</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [Sex and gender differences belong in treatment guidelines](https://www.nature.com/articles/s41591-026-04672-4)
+
+- Source: `nature_medicine` · published `2026-09-23` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04672-4`
+
+No summary supplied by the source.
+
 ### [Substances considered as not falling within the scope of Regulation (EC) No. 470/2009, with regard to residues of veterinary medicinal products in foodstuffs of animal origin](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/substances-considered-not-falling-within-scope-regulation-ec-no-470-2009-regard-residues-veterinary-medicinal-products-foodstuffs-animal-origin_en.pdf)
 
 - Source: `ema_guidance` · published `2026-09-23` · freshness `fresh`
@@ -1643,6 +1659,22 @@ As AI agents gain access to enterprise data, systems and tools, they are emergin
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp">Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.
+
+### [Developing cancer-control policies to address the cancer burden among young adults](https://www.nature.com/articles/s41591-026-04653-7)
+
+- Source: `nature_medicine` · published `2026-09-24` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04653-7`
+
+No summary supplied by the source.
+
+### [Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial](https://www.nature.com/articles/s41591-026-04700-3)
+
+- Source: `nature_medicine` · published `2026-09-24` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04700-3`
+
+No summary supplied by the source.
 
 ### [Helping 25,000 veterans and military families build careers in skilled trades](https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/)
 
@@ -1780,6 +1812,22 @@ The PKG Center for Social Impact expands Code.Tulsa experiential learning progra
 
 “Arguing over whether someone died ‘with’ or ‘of’ a disease gets us stuck on the last thing that happened.” write two Unbiased Science scientists.
 
+### [Polygenic scores in the NHS: the debate is not primarily about the evidence](https://www.nature.com/articles/s41591-026-04684-0)
+
+- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04684-0`
+
+No summary supplied by the source.
+
+### [Redesigning cardiovascular medicine around sex differences](https://www.nature.com/articles/s41591-026-04659-1)
+
+- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04659-1`
+
+No summary supplied by the source.
+
 ### [STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic](https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-25` · freshness `fresh`
@@ -1803,6 +1851,14 @@ Advanced Research Projects Agency for Health is planning a total-lifespan resear
 - Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/25/up-and-down-the-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss`
 
 From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
+
+### [The next phase of translational medicine must bridge the gap between innovation to impact](https://www.nature.com/articles/s41591-026-04681-3)
+
+- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04681-3`
+
+No summary supplied by the source.
 
 ### [Development and validation of a parsimonious AI-based mortality risk score for heart failure](https://www.nature.com/articles/s41746-026-03258-1)
 
@@ -1875,6 +1931,14 @@ President Trump is canceling nearly $1 billion in spending approved by Congress,
 - Event: `seen` · identity: `url:https://ampdot.mesh.host/token-space-fonts.html`
 
 Hacker News community signal; score 87.
+
+### [Embryo editing and embryo selection need joint governance](https://www.nature.com/articles/s41591-026-04669-z)
+
+- Source: `nature_medicine` · published `2026-09-23` · freshness `fresh`
+- Topic relevance: `0.0` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04669-z`
+
+No summary supplied by the source.
 
 ### [Notice of Informational Webinar on the NIGMS Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-001.html)
 
