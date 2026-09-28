@@ -20,7 +20,7 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
         'source_type': i['sourceType'], 'published_at': i['date'],
         'topics': i['topics'], 'event_type': i['event'], 'provenance': i['provenance'],
         'sections': i.get('sections', []), 'categories': i.get('categories', {}),
-        'research_stages': i.get('stages', []),
+        'research_stages': i.get('stages', []), 'recommendation_reasons': i.get('reasons', {}),
     } for i in payload['items'] if i['freshness'] == 'fresh' and i['tier'] != 'archive']
     common = {'schema_version': '1.0', 'generated_at': payload['generatedAt'], 'as_of': payload['asOf']}
     for name, data in {
@@ -29,6 +29,8 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
         'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing},
     }.items():
         (api / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    (api / 'history.json').write_text(json.dumps({**common, 'description': '近20天历史阅读，不属于当前推荐', 'items': payload.get('historyItems', []), 'editions': payload.get('historyIssues', [])}, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+    (api / 'policies.json').write_text(json.dumps(payload.get('policyTimeline', {}), ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
     rss = ET.Element('rss', {'version': '2.0'})
     channel = ET.SubElement(rss, 'channel')
     for key, value in {'title': payload['name'], 'link': BASE_URL, 'description': 'AI 医疗与消费健康产业情报', 'language': 'zh-cn'}.items():

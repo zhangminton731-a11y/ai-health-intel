@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import hashlib
+import shutil
 import html
 from html.parser import HTMLParser
 import json
@@ -21,6 +22,7 @@ from sih_ref.core import freshness_gate, normalize_date
 from export_feeds import export_feeds
 from classify_content import classify_content
 from daily_digest import build_issues, issue_text
+from reader_context import reasons, update_history
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
@@ -183,10 +185,10 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
     out = []
     for it in items:
         title_en = it.get("title", "")
-        title_zh = tr.zh(title_en) or ""
+        title_zh = (tr.zh(title_en) or "") if it.get("reading_tier") != "archive" else ""
         original_summary = it.get('summary', '') or ''
         summary = reader_summary(original_summary)
-        summary_zh = tr.zh(summary) or ''
+        summary_zh = (tr.zh(summary) or '') if it.get('reading_tier') != 'archive' else ''
         if re.search(r'\bLLMs?\b', title_en + ' ' + summary):
             summary_zh = summary_zh.replace('法学硕士', '大语言模型')
         src_id = it.get("source_id", "")
@@ -205,6 +207,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "rel": round((it.get("topic_relevance") or 0) * 100, 1),
             "when": rel_time(it.get("published_at", ""), as_of), "date": it.get("published_at", ""),
         })
+    for item in out:
+        item["reasons"] = reasons(item)
     return out
 
 
@@ -224,6 +228,7 @@ def build(*, as_of: date | None = None) -> None:
     tr = Translator()
     profile = json.loads((ROOT / "config" / "profile.json").read_text(encoding="utf-8"))
 
+    history_raw = update_history(OUTPUT / 'history_items.jsonl', items, profile, build_date)
     as_of = build_date.isoformat()
     status = health.get("daily_status", "unknown")
     n_src = health.get("source_count", len(SOURCE_META))
@@ -240,6 +245,12 @@ def build(*, as_of: date | None = None) -> None:
                      and it.get("reading_tier", "archive") != "archive"]
     ranked_current = sorted(current_items, key=lambda it: -(it.get("topic_relevance") or 0))
     data = build_data(items, tr, build_date)
+    current_ids = {it['item_id'] for it in current_items}
+    history_data = build_data([it for it in history_raw if it['item_id'] not in current_ids], tr, build_date)
+    for row in history_data:
+        row['historical'] = True
+    history_issues = build_issues(history_data, build_date, max_age=20)
+    policy = json.loads((ROOT/'config/policy_timeline.json').read_text(encoding='utf-8'))
     by_id = {d["id"]: d for d in data}
     top10 = ranked_current[:10]
     top_ids = [it.get("item_id") for it in top10]
@@ -267,6 +278,7 @@ def build(*, as_of: date | None = None) -> None:
         "name": SITE_NAME, "asOf": as_of,
         "generatedAt": health.get("generated_at", ""),
         "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
+        "historyItems": history_data, "historyIssues": history_issues, "policyTimeline": policy,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
         "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),
         "freshnessCounts": freshness_counts, "top": top_ids, "hot30": hot30,
@@ -283,6 +295,8 @@ def build(*, as_of: date | None = None) -> None:
 
     (OUTPUT / "daily_briefing_cn.md").write_text(briefing, encoding="utf-8")
     print("✅ 中文日报已生成: daily_briefing_cn.md")
+    assets = OUTPUT/'site/assets'; assets.mkdir(exist_ok=True)
+    shutil.copyfile(ROOT/'assets/community-qr.png', assets/'community-qr.png')
     export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 

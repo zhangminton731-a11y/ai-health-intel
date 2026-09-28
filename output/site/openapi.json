@@ -1,0 +1,293 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "奇点医研 SIH 公共快照 API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://zhangminton731-a11y.github.io/ai-health-intel"
+    }
+  ],
+  "security": [],
+  "paths": {
+    "/api/v1/items.json": {
+      "get": {
+        "operationId": "get_items",
+        "summary": "当前有效情报",
+        "description": "匿名只读静态快照。没有查询参数；读取后在客户端筛选。检查 generated_at，超过 36 小时明确说明时效。",
+        "responses": {
+          "200": {
+            "description": "最近发布批次",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "schema_version",
+                    "generated_at",
+                    "as_of",
+                    "count",
+                    "items"
+                  ],
+                  "properties": {
+                    "schema_version": {
+                      "type": "string"
+                    },
+                    "generated_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    },
+                    "as_of": {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "count": {
+                      "type": "integer"
+                    },
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "id",
+                          "title",
+                          "original_title",
+                          "summary",
+                          "source",
+                          "source_type",
+                          "event_type",
+                          "url",
+                          "published_at",
+                          "topics",
+                          "sections",
+                          "categories",
+                          "research_stages",
+                          "provenance",
+                          "recommendation_reasons"
+                        ],
+                        "properties": {
+                          "id": {
+                            "type": "string"
+                          },
+                          "title": {
+                            "type": "string"
+                          },
+                          "original_title": {
+                            "type": "string"
+                          },
+                          "summary": {
+                            "type": "string"
+                          },
+                          "source": {
+                            "type": "string"
+                          },
+                          "source_type": {
+                            "type": "string"
+                          },
+                          "event_type": {
+                            "type": "string"
+                          },
+                          "url": {
+                            "type": "string",
+                            "format": "uri"
+                          },
+                          "published_at": {
+                            "type": "string",
+                            "format": "date"
+                          },
+                          "topics": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "sections": {
+                            "type": "array",
+                            "items": {
+                              "enum": [
+                                "research",
+                                "industry"
+                              ]
+                            }
+                          },
+                          "categories": {
+                            "type": "object",
+                            "additionalProperties": {
+                              "type": "array",
+                              "items": {
+                                "type": "string"
+                              }
+                            }
+                          },
+                          "research_stages": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "provenance": {
+                            "type": "object"
+                          },
+                          "recommendation_reasons": {
+                            "type": "object",
+                            "additionalProperties": {
+                              "type": "string"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "尚未部署或路径不存在"
+          }
+        }
+      }
+    },
+    "/api/v1/health.json": {
+      "get": {
+        "operationId": "get_health",
+        "summary": "采集时间与来源状态",
+        "description": "匿名只读静态快照。没有查询参数；读取后在客户端筛选。检查 generated_at，超过 36 小时明确说明时效。",
+        "responses": {
+          "200": {
+            "description": "最近发布批次",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "schema_version",
+                    "generated_at",
+                    "as_of",
+                    "daily_status",
+                    "sources"
+                  ],
+                  "properties": {
+                    "schema_version": {
+                      "type": "string"
+                    },
+                    "generated_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    },
+                    "as_of": {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "daily_status": {
+                      "type": "string"
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "尚未部署或路径不存在"
+          }
+        }
+      }
+    },
+    "/api/v1/briefing.json": {
+      "get": {
+        "operationId": "get_briefing",
+        "summary": "同批日报",
+        "description": "匿名只读静态快照。没有查询参数；读取后在客户端筛选。检查 generated_at，超过 36 小时明确说明时效。",
+        "responses": {
+          "200": {
+            "description": "最近发布批次",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": [
+                    "schema_version",
+                    "generated_at",
+                    "as_of",
+                    "item_ids",
+                    "text",
+                    "edition_date",
+                    "editions"
+                  ],
+                  "properties": {
+                    "schema_version": {
+                      "type": "string"
+                    },
+                    "generated_at": {
+                      "type": "string",
+                      "format": "date-time"
+                    },
+                    "as_of": {
+                      "type": "string",
+                      "format": "date"
+                    },
+                    "item_ids": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "text": {
+                      "type": "string"
+                    },
+                    "edition_date": {
+                      "type": [
+                        "string",
+                        "null"
+                      ],
+                      "format": "date"
+                    },
+                    "editions": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "date",
+                          "item_ids",
+                          "minutes"
+                        ],
+                        "properties": {
+                          "date": {
+                            "type": "string",
+                            "format": "date"
+                          },
+                          "item_ids": {
+                            "type": "array",
+                            "minItems": 1,
+                            "maxItems": 5,
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "minutes": {
+                            "type": "integer",
+                            "minimum": 1
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "尚未部署或路径不存在"
+          }
+        }
+      }
+    }
+  }
+}

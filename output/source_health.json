@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-09-26",
+  "as_of": "2026-09-28",
   "daily_status": "complete",
   "extensions": {
     "llm_triage": {
       "status": "disabled"
     }
   },
-  "generated_at": "2026-09-26T05:13:31+00:00",
-  "loaded_source_count": 5,
+  "generated_at": "2026-09-28T02:48:06+00:00",
+  "loaded_source_count": 17,
   "schema_version": "1.0",
-  "source_count": 5,
+  "source_count": 17,
   "sources": [
     {
       "checks": [
@@ -20,7 +20,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
+      "generated_at": "2026-09-28T02:48:06+00:00",
       "item_count": 10,
       "required": true,
       "role": "primary",
@@ -37,7 +37,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
+      "generated_at": "2026-09-28T02:48:06+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -54,7 +54,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
+      "generated_at": "2026-09-28T02:48:06+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -71,7 +71,7 @@
       ],
       "enabled": false,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
+      "generated_at": "2026-09-28T02:48:06+00:00",
       "item_count": 0,
       "required": false,
       "role": "supplemental",
@@ -82,19 +82,138 @@
     {
       "checks": [
         {
-          "kind": "rss",
-          "reason": "disabled_by_config"
+          "count": 20,
+          "kind": "rss_atom"
         }
       ],
-      "enabled": false,
+      "enabled": true,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
-      "item_count": 0,
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 20,
       "required": false,
       "role": "supplemental",
       "source_id": "apple_newsroom",
       "source_kind": "rss",
-      "status": "inactive"
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 20,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 20,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "fitbit_google_blog",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 1,
+          "kind": "hn_firebase"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 1,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "hn_ai_health_signals",
+      "source_kind": "hacker_news",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 30,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 30,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "medcity_news",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 8,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "npj_digital_medicine",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 8,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "nature_medicine",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 50,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 50,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "mit_health",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 12,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 12,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "oura_blog",
+      "source_kind": "rss",
+      "status": "ok"
     },
     {
       "checks": [
@@ -105,29 +224,97 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
+      "generated_at": "2026-09-28T02:48:06+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
-      "source_id": "fitbit_google_blog",
+      "source_id": "medical_device_network",
       "source_kind": "rss",
       "status": "ok"
     },
     {
       "checks": [
         {
-          "count": 2,
-          "kind": "hn_firebase"
+          "count": 10,
+          "kind": "rss_atom"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-26T05:13:31+00:00",
-      "item_count": 2,
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 10,
       "required": false,
       "role": "supplemental",
-      "source_id": "hn_ai_health_signals",
-      "source_kind": "hacker_news",
+      "source_id": "jmir",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 10,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 10,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "jmir_ai",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 8,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "nature_biomedical_engineering",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 3,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 3,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "nih_funding",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 13,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-09-28T02:48:06+00:00",
+      "item_count": 13,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "ema_guidance",
+      "source_kind": "rss",
       "status": "ok"
     }
   ]

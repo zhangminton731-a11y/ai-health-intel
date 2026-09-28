@@ -3,8 +3,8 @@ from datetime import date
 import re
 
 LABELS = {'policy': '政策动态', 'papers': '论文研究', 'methods': '方法与工具',
-          'business': '融资与合作', 'regulation': '市场准入',
-          'products': '新品与方案', 'technology': '技术进展', 'overview': '产业动态'}
+          'business': '融资合作', 'regulation': '市场准入',
+          'products': '新品方案', 'technology': '技术进展', 'overview': '产业动态'}
 
 
 def category(item: dict) -> str:
@@ -17,14 +17,14 @@ def category(item: dict) -> str:
     return 'overview'
 
 
-def build_issues(items: list[dict], as_of: date) -> list[dict]:
+def build_issues(items: list[dict], as_of: date, max_age: int = 10) -> list[dict]:
     groups = {}
     for item in items:
         try:
             age = (as_of - date.fromisoformat(item['date'])).days
         except (KeyError, ValueError, TypeError):
             continue
-        if not 0 <= age <= 10 or item.get('freshness') != 'fresh' or item.get('tier') == 'archive':
+        if not 0 <= age <= max_age or item.get('freshness') != 'fresh' or item.get('tier') == 'archive':
             continue
         if not (item.get('s') or item.get('se') or '').strip():
             continue
@@ -57,8 +57,8 @@ def build_issues(items: list[dict], as_of: date) -> list[dict]:
 
 def issue_text(issue: dict | None, by_id: dict, as_of: str) -> str:
     if not issue:
-        return f'奇点医研 · AI 医疗日报 · {as_of}\n\n今日暂无新条目，请稍后再来。\n'
-    lines = [f'奇点医研 · AI 医疗日报 · {issue["date"]}',
+        return f'奇点日报 · {as_of}\n\n今日暂无新条目，请稍后再来。\n'
+    lines = [f'奇点日报 · {issue["date"]}',
              f'这一天的 {len(issue["item_ids"])} 件 AI 医疗大事', '']
     for number, iid in enumerate(issue['item_ids'], 1):
         row = by_id[iid]

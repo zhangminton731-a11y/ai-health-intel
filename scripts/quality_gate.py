@@ -85,6 +85,18 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if not 1 <= len(ids) <= 5 or len(set(ids)) != len(ids):problems.append('日报条数或去重异常')
             if any(iid not in current or current[iid]['date'] != edition['date'] for iid in ids):problems.append('日报包含非当日或不合格条目')
         rss=ET.parse(output/'site/feed.xml')
+        if 'historyItems' in payload:
+            historical=payload['historyItems']
+            originals={i['item_id']:i for i in map(json.loads,(output/'history_items.jsonl').read_text(encoding='utf-8').splitlines())}
+            history_feed=json.loads((output/'site/api/v1/history.json').read_text(encoding='utf-8'))
+            if history_feed['items']!=historical or history_feed['editions']!=payload['historyIssues']:problems.append('历史接口与网页不一致')
+            if len({i['id'] for i in historical})!=len(historical):problems.append('历史记录重复')
+            for item in historical:
+                if item['id'] in current:problems.append('历史与当前推荐重复')
+                original=originals.get(item['id'],{})
+                if item['u']!=original.get('url') or item['date']!=original.get('published_at'):problems.append('历史原文或日期不一致')
+                if not 0<=(as_of-date.fromisoformat(item['date'])).days<=20:problems.append('历史日期越界')
+            if json.loads((output/'site/api/v1/policies.json').read_text(encoding='utf-8'))!=payload['policyTimeline']:problems.append('政策接口与网页不一致')
         if {x.findtext('guid') for x in rss.findall('./channel/item')}!=set(current):problems.append('RSS 与网页推荐池不一致')
         if len(payload['items'])!=len(items):problems.append('事实池与页面总量不一致')
     except (ValueError,KeyError,TypeError,AttributeError,OSError,ET.ParseError) as exc:
