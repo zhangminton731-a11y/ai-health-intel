@@ -2,7 +2,7 @@
 from datetime import date
 import re
 
-LABELS = {'policy': '政策动态', 'papers': '论文研究', 'methods': '方法与工具',
+LABELS = {'policy': '政策动态', 'papers': '论文研究', 'methods': '工具方法',
           'business': '融资合作', 'regulation': '市场准入',
           'products': '新品方案', 'technology': '技术进展', 'overview': '产业动态'}
 
