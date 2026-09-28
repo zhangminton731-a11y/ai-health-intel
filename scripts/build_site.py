@@ -1,17 +1,10 @@
-"""AI+健康产业情报站 · W3 浅色桌面壳（照抄 AI Hot 版式：左侧分组侧边栏 + 表格式榜单）。
-
-版式基准（用户提供的 AI Hot 排行榜截图）：
-- 左侧固定侧边栏，分组导航（内容/数据/更多），细线图标，选中项圆角高亮
-- 主区：眉题 + 特大标题 + 一句话说明 + 更新时间 + 右上"榜单来源与计算方法"按钮
-- 表格式榜单行：大字排名 01/02（TOP3 强调色）+ 名称（中文粗 + 英文小）+ 列数据 +
-  右侧大号情报分 + "信源可信度 ●●● 高"色点
-- 主题三档：明 / 暗 / 跟随系统（侧边栏底部三档切换）
-- 单页多视图：精选 / 全部情报 / 热点榜 / AI 日报 / 来源健康 / 关于（hash 路由）
-- 数据与翻译管线不变（gtx 缓存 + 熔断）；站名 SITE_NAME 可配置
-"""
+"""Build the mobile SIH site and its public feeds from one collection batch."""
 from __future__ import annotations
 
 import hashlib
+import shutil
+import html
+from html.parser import HTMLParser
 import json
 import re
 import sys
@@ -26,17 +19,34 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "engine" / "src"))
 from sih_ref.core import freshness_gate, normalize_date
+from export_feeds import export_feeds
+from classify_content import classify_content
+from daily_digest import build_issues, issue_text
+from reader_context import reasons, update_history
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
-SITE_NAME = "健微知著"
+SITE_NAME = "奇点医研"
 
 SOURCE_META = {
-    "medtech_dive_primary": ("MedTech Dive", "主信源", "行业媒体", 2),
-    "stat_news_feed": ("STAT News", "权威媒体", "行业媒体", 3),
-    "crunchbase_news_feed": ("Crunchbase News", "权威媒体", "资本信息", 3),
-    "rock_health_feed": ("Rock Health", "VC 官方博客", "资本信息", 2),
-    "hn_ai_health_signals": ("Hacker News", "社区信号", "社区信号", 1),
+    "ema_guidance": ("EMA 监管与程序指南", "官方机构", "官方机构", 3),
+    "jmir": ("Journal of Medical Internet Research", "期刊论文", "期刊论文", 3),
+    "jmir_ai": ("JMIR AI", "期刊论文", "期刊论文", 3),
+    "nature_biomedical_engineering": ("Nature Biomedical Engineering", "期刊论文", "期刊论文", 3),
+    "nih_funding": ("NIH 科研资助与通知", "官方机构", "官方机构", 3),
+    "medtech_dive_primary": ("MedTech Dive", "专业媒体", "专业媒体", 2),
+    "stat_news_feed": ("STAT News", "专业媒体", "专业媒体", 3),
+    "crunchbase_news_feed": ("Crunchbase News", "专业媒体", "专业媒体", 3),
+    "rock_health_feed": ("Rock Health", "企业发布", "企业发布", 2),
+    "fitbit_google_blog": ("Google Blog", "企业发布", "企业发布", 2),
+    "apple_newsroom": ("Apple Newsroom", "企业发布", "企业发布", 2),
+    "medcity_news": ("MedCity News", "专业媒体", "专业媒体", 3),
+    "npj_digital_medicine": ("npj Digital Medicine", "期刊论文", "期刊论文", 3),
+    "nature_medicine": ("Nature Medicine", "期刊论文", "期刊论文", 3),
+    "mit_health": ("MIT News · Health", "研究机构", "研究机构", 3),
+    "oura_blog": ("Oura", "企业发布", "企业发布", 2),
+    "medical_device_network": ("Medical Device Network", "专业媒体", "专业媒体", 2),
+    "hn_ai_health_signals": ("Hacker News", "社区线索", "社区线索", 1),
 }
 TRUST_CN = {3: "高", 2: "中", 1: "低"}
 TIER_CN = {"must_read": "必读", "skim": "速览", "collapsed": "浏览", "archive": "归档"}
@@ -124,14 +134,63 @@ def rel_time(pub: str, as_of: date) -> str:
         return pub
 
 
+TOPIC_TERMS = {
+    "hospital": ("hospital", "clinical", "patient", "imaging", "diagnos", "surgical", "医疗", "医院", "临床", "影像"),
+    "consumer": ("wearable", "fitness", "sleep", "wellness", "smart ring", "smartwatch", "glucose", "oura", "fitbit", "消费", "可穿戴", "健康", "睡眠"),
+    "research": ("study", "research", "trial", "evidence", "validation", "研究", "试验", "证据"),
+    "business": ("funding", "raises", "partnership", "acquis", "market", "launch", "融资", "合作", "市场", "发布"),
+    "regulation": ("fda", "clearance", "cleared", "regulat", "ce mark", "监管", "审批", "获批"),
+}
+
+
+def item_topics(title: str, summary: str, category: str) -> list[str]:
+    text = (title + " " + summary).lower()
+    topics = [key for key, terms in TOPIC_TERMS.items() if any(term in text for term in terms)]
+    if category == "期刊论文" and "research" not in topics:
+        topics.append("research")
+    return topics
+
+
+class SummaryText(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+
+    def handle_data(self, data):
+        self.parts.append(data)
+
+
+def reader_summary(value: str) -> str:
+    parser = SummaryText()
+    parser.feed(html.unescape(html.unescape(value or '')))
+    value = ' '.join(parser.parts)
+    value = re.sub(r'\s+', ' ', value).strip()
+    value = re.sub(r'\s*The post .+? appeared first on .+?\.?$', '', value, flags=re.I)
+    # Structured abstracts often put findings well beyond the RSS opening.
+    parts = re.split(r'\b(Background|Objectives?|Methods|Results|Conclusions?)\s*:', value, flags=re.I)
+    sections = {parts[i].lower().rstrip('s'): parts[i+1].strip() for i in range(1, len(parts)-1, 2)}
+    if sections.get('result') or sections.get('conclusion'):
+        value = ' '.join(label + ': ' + sections[key] for key, label in
+                         [('conclusion', 'Conclusions'), ('result', 'Results')]
+                         if sections.get(key))
+    if len(value) > 900:
+        # Do not turn a cut-off sentence into a complete finding.
+        excerpt = value[:900]
+        boundary = max(excerpt.rfind('. '), excerpt.rfind('。'), excerpt.rfind('; '))
+        value = excerpt[:boundary+1] if boundary > 150 else excerpt.rsplit(' ', 1)[0] + '…'
+    return value
+
+
 def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
     out = []
     for it in items:
         title_en = it.get("title", "")
-        title_zh = tr.zh(title_en) or ""
-        summary = re.sub(r"<[^>]+>", " ", it.get("summary", "") or "")
-        summary = re.sub(r"\s{2,}", " ", summary).strip()
-        summary_zh = tr.zh(summary[:600]) or ""
+        title_zh = (tr.zh(title_en) or "") if it.get("reading_tier") != "archive" else ""
+        original_summary = it.get('summary', '') or ''
+        summary = reader_summary(original_summary)
+        summary_zh = (tr.zh(summary) or '') if it.get('reading_tier') != 'archive' else ''
+        if re.search(r'\bLLMs?\b', title_en + ' ' + summary):
+            summary_zh = summary_zh.replace('法学硕士', '大语言模型')
         src_id = it.get("source_id", "")
         name, role, cat, trust = SOURCE_META.get(src_id, (src_id, "", "行业媒体", 1))
         out.append({
@@ -140,11 +199,16 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "s": summary_zh, "se": summary,
             "u": it.get("url", ""),
             "src": name, "role": role, "cat": cat, "trust": trust,
+            "sourceType": cat, "topics": item_topics(title_en, original_summary, cat),
+            **classify_content(title_en, original_summary, cat),
+            "event": it.get("event_type", "seen"), "provenance": it.get("provenance") or {},
             "tier": it.get("reading_tier", "archive"),
             "freshness": it.get("freshness_gate", "undated"),
             "rel": round((it.get("topic_relevance") or 0) * 100, 1),
             "when": rel_time(it.get("published_at", ""), as_of), "date": it.get("published_at", ""),
         })
+    for item in out:
+        item["reasons"] = reasons(item)
     return out
 
 
@@ -164,6 +228,7 @@ def build(*, as_of: date | None = None) -> None:
     tr = Translator()
     profile = json.loads((ROOT / "config" / "profile.json").read_text(encoding="utf-8"))
 
+    history_raw = update_history(OUTPUT / 'history_items.jsonl', items, profile, build_date)
     as_of = build_date.isoformat()
     status = health.get("daily_status", "unknown")
     n_src = health.get("source_count", len(SOURCE_META))
@@ -180,6 +245,12 @@ def build(*, as_of: date | None = None) -> None:
                      and it.get("reading_tier", "archive") != "archive"]
     ranked_current = sorted(current_items, key=lambda it: -(it.get("topic_relevance") or 0))
     data = build_data(items, tr, build_date)
+    current_ids = {it['item_id'] for it in current_items}
+    history_data = build_data([it for it in history_raw if it['item_id'] not in current_ids], tr, build_date)
+    for row in history_data:
+        row['historical'] = True
+    history_issues = build_issues(history_data, build_date, max_age=20)
+    policy = json.loads((ROOT/'config/policy_timeline.json').read_text(encoding='utf-8'))
     by_id = {d["id"]: d for d in data}
     top10 = ranked_current[:10]
     top_ids = [it.get("item_id") for it in top10]
@@ -199,14 +270,22 @@ def build(*, as_of: date | None = None) -> None:
                          "n": s.get("item_count", 0),
                          "ok": s.get("status") in ("ok", "ok_no_updates")})
 
-    payload = json.dumps({
+    daily_issues = build_issues(data, build_date)
+    daily_ids = daily_issues[0]['item_ids'] if daily_issues else []
+    briefing = issue_text(daily_issues[0] if daily_issues else None, by_id, as_of)
+
+    site_data = {
         "name": SITE_NAME, "asOf": as_of,
+        "generatedAt": health.get("generated_at", ""),
+        "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
+        "historyItems": history_data, "historyIssues": history_issues, "policyTimeline": policy,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
         "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),
         "freshnessCounts": freshness_counts, "top": top_ids, "hot30": hot30,
         "items": data, "kws": kws, "srcs": src_rows,
         "updated": datetime.now(CST).strftime("%Y-%m-%d %H:%M") + " CST",
-    }, ensure_ascii=False).replace("</", "<\\/")
+    }
+    payload = json.dumps(site_data, ensure_ascii=False).replace("</", "<\\/")
 
     page = TEMPLATE.replace("__PAYLOAD__", payload).replace("__DATE__", as_of).replace("__SITE_NAME__", SITE_NAME)
     (OUTPUT / "site").mkdir(parents=True, exist_ok=True)
@@ -214,264 +293,15 @@ def build(*, as_of: date | None = None) -> None:
     print(f"✅ AI Hot 式浅色站点已生成: site/index.html（翻译 {tr.translated}，熔断={'开' if tr.circuit_open else '关'}）")
     save_cache(tr.cache)
 
-    lines = [f"# AI+健康情报日报 · {as_of}", "",
-             f"> 信源 {n_src} · 事实池 {len(data)} · 当前有效 {len(current_items)} · 推荐产出 {len(top_ids)} · 状态 {STATUS_CN.get(status, status)}", ""]
-    if not current_items:
-        lines += ["今日暂无新条目（零产出）", ""]
-    if top_ids:
-        d = by_id[top_ids[0]]
-        lines += [f"**机器首推：{d.get('t') or d.get('te')}**（算法排序第一，未经人工审核）", f"链接：{d.get('u')}", ""]
-    lines.append("**今日 TOP 10**")
-    for i, iid in enumerate(top_ids, 1):
-        d = by_id.get(iid, {})
-        lines.append(f"{i}. {d.get('t') or d.get('te') or ''}\n   {d.get('u', '')}")
-    lines += ["", "（机器翻译与评分，未经人工审核；不构成医疗/投资建议）"]
-    (OUTPUT / "daily_briefing_cn.md").write_text("\n".join(lines), encoding="utf-8")
+    (OUTPUT / "daily_briefing_cn.md").write_text(briefing, encoding="utf-8")
     print("✅ 中文日报已生成: daily_briefing_cn.md")
+    assets = OUTPUT/'site/assets'; assets.mkdir(exist_ok=True)
+    shutil.copyfile(ROOT/'assets/community-qr.png', assets/'community-qr.png')
+    export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 
-TEMPLATE = r"""<!doctype html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>__SITE_NAME__ · AI+健康产业情报 · __DATE__</title>
-<meta name="description" content="为 AI+健康赛道创业者筛选的每日产业情报：全球信源、中文速读、可溯源。">
-<script src="https://cdn.tailwindcss.com"></script>
-<script>tailwind.config={darkMode:'class',theme:{extend:{colors:{signal:'#c2410c',moss:'#0f766e',ink:'#18181b'}}}}</script>
-<style>
-html{scroll-behavior:smooth}
-.rank{font:700 1.35rem/1 Georgia,'Times New Roman',serif;color:#a1a1aa}
-.rank.top{color:#c2410c}
-.dot{width:7px;height:7px;border-radius:99px;display:inline-block;margin-right:2px}
-.view{display:none}.view.active{display:block}
-.navitem{display:flex;align-items:center;gap:.65rem;padding:.5rem .75rem;border-radius:.6rem;font-size:14px;color:#52525b}
-.navitem:hover{background:#f4f4f5}
-.dark .navitem:hover{background:#1f2937}
-.navitem.on{background:#f4f4f5;color:#18181b;font-weight:700}
-.dark .navitem.on{background:#1f2937;color:#f9fafb}
-.navitem svg{width:17px;height:17px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-.row-detail{display:none}.row.open .row-detail{display:block}
-</style>
-</head>
-<body class="bg-white dark:bg-zinc-950 text-zinc-800 dark:text-zinc-200 antialiased">
+TEMPLATE = (ROOT / "templates" / "site.html").read_text(encoding="utf-8")
 
-<div class="flex min-h-screen">
-  <aside class="hidden lg:flex flex-col w-60 shrink-0 border-r border-zinc-200 dark:border-zinc-800 px-3 py-5 sticky top-0 h-screen overflow-y-auto">
-    <div class="px-2 mb-6">
-      <div class="text-2xl font-black tracking-[.18em] text-ink dark:text-white" id="brand">__SITE_NAME__</div>
-    </div>
-    <div class="text-xs text-zinc-400 px-2 mb-1">内容</div>
-    <nav class="space-y-0.5" id="nav">
-      <a href="#jingxuan" class="navitem"><svg viewBox="0 0 24 24"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>首推</a>
-      <a href="#feed" class="navitem"><svg viewBox="0 0 24 24"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>全部情报</a>
-      <a href="#hot" class="navitem"><svg viewBox="0 0 24 24"><path d="M12 2c1 4-3 5-3 9a5 5 0 0 0 10 0c0-2-1-3.5-2-5-.5 2-2 2.5-2 2.5C16 5 14 3 12 2z"/></svg>热点榜</a>
-      <a href="#daily" class="navitem"><svg viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>AI 日报</a>
-    </nav>
-    <div class="text-xs text-zinc-400 px-2 mt-6 mb-1">数据</div>
-    <nav class="space-y-0.5">
-      <a href="#health" class="navitem"><svg viewBox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21.2l7.8-7.8 1-1a5.5 5.5 0 0 0 0-7.8z"/></svg>来源健康</a>
-    </nav>
-    <div class="text-xs text-zinc-400 px-2 mt-6 mb-1">更多</div>
-    <nav class="space-y-0.5">
-      <a href="#about" class="navitem"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>关于与方法</a>
-      <a href="https://github.com/zhangminton731-a11y/ai-health-intel/commits/main" target="_blank" rel="noopener" class="navitem"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>更新日志</a>
-      <a href="https://github.com/zhangminton731-a11y/ai-health-intel/issues" target="_blank" rel="noopener" class="navitem"><svg viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>反馈</a>
-    </nav>
-    <div class="flex-1"></div>
-    <div class="px-1 pt-4">
-      <div class="inline-flex rounded-lg border border-zinc-200 dark:border-zinc-800 overflow-hidden">
-        <button data-theme="dark" class="tbtn px-3 py-1.5 text-sm" title="暗色">🌙</button>
-        <button data-theme="system" class="tbtn px-3 py-1.5 text-sm" title="跟随系统">🖥</button>
-        <button data-theme="light" class="tbtn px-3 py-1.5 text-sm" title="亮色">☀️</button>
-      </div>
-      <div class="text-[11px] text-zinc-400 mt-3 px-1" id="sideUpd"></div>
-    </div>
-  </aside>
-
-  <div class="flex-1 min-w-0">
-    <div class="lg:hidden sticky top-0 z-40 bg-white/90 dark:bg-zinc-950/90 backdrop-blur border-b border-zinc-200 dark:border-zinc-800 px-4 h-12 flex items-center gap-3 overflow-x-auto">
-      <span class="font-black tracking-[.15em] whitespace-nowrap" id="brandM">__SITE_NAME__</span>
-      <a href="#jingxuan" class="text-xs whitespace-nowrap text-zinc-500">首推</a>
-      <a href="#feed" class="text-xs whitespace-nowrap text-zinc-500">全部</a>
-      <a href="#hot" class="text-xs whitespace-nowrap text-zinc-500">热点榜</a>
-      <a href="#daily" class="text-xs whitespace-nowrap text-zinc-500">日报</a>
-      <a href="#about" class="text-xs whitespace-nowrap text-zinc-500">关于</a>
-    </div>
-
-    <main class="max-w-5xl mx-auto px-5 md:px-10 py-8 md:py-10">
-
-      <section id="v-jingxuan" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">MACHINE TOP PICK · 机器首推（未经人工审核）</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black leading-tight text-ink dark:text-white mb-2">机器首推</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-1">算法按相关度与信源可信度排出第一名——它不是团队精选；人工精选机制规划中（见 Issue #1）。</p>
-        <p class="text-xs text-zinc-400 mb-6">更新于 <span id="upd1">—</span></p>
-        <div id="spotBox" class="mb-10"></div>
-        <div class="flex items-end justify-between mb-3">
-          <h2 class="text-xl font-black text-ink dark:text-white">今日热点 <span class="text-zinc-400 font-bold">TOP 10</span></h2>
-          <a href="#hot" class="text-sm text-moss hover:underline">查看完整热点榜 →</a>
-        </div>
-        <div id="topRows" class="border border-zinc-200 dark:border-zinc-800 rounded-xl overflow-hidden divide-y divide-zinc-100 dark:divide-zinc-800"></div>
-      </section>
-
-      <section id="v-feed" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">ALL INTEL · 全部情报</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">全部情报流</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-4">全部事实记录，包含过期、未来及无有效日期的归档条目，可按分类与层级过滤。</p>
-        <div class="flex flex-wrap gap-2 mb-3 text-sm" id="feedCats"></div>
-        <div class="flex flex-wrap gap-2 mb-4 text-sm" id="feedTiers"></div>
-        <div id="feedRows" class="border border-zinc-200 dark:border-zinc-800 rounded-xl overflow-hidden divide-y divide-zinc-100 dark:divide-zinc-800"></div>
-      </section>
-
-      <section id="v-hot" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">TRENDING · 热点榜</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">AI+健康热点榜</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-1">当前有效条目按情报相关度排序，最多 30 条；不足不回填旧闻。热词使用同一集合。</p>
-        <p class="text-xs text-zinc-400 mb-6">更新于 <span id="upd2">—</span></p>
-        <div id="kws" class="flex flex-wrap gap-1.5 text-xs mb-5 items-center"></div>
-        <div id="hotRows" class="border border-zinc-200 dark:border-zinc-800 rounded-xl overflow-hidden divide-y divide-zinc-100 dark:divide-zinc-800"></div>
-      </section>
-
-      <section id="v-daily" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">DAILY BRIEF · AI 日报</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">每日情报日报</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-1">机器首推与 TOP 10 摘编，可直接复制转发到微信群。</p>
-        <p class="text-xs text-zinc-400 mb-4">更新于 <span id="upd3">—</span></p>
-        <button id="copyBtn" class="mb-5 text-sm px-4 py-2 rounded-lg bg-signal text-white font-bold hover:opacity-90">📋 复制日报全文</button>
-        <pre id="dailyText" class="whitespace-pre-wrap text-sm bg-zinc-50 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800 rounded-xl p-5 leading-relaxed"></pre>
-      </section>
-
-      <section id="v-health" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">SOURCE HEALTH · 来源健康</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-2">来源健康</h1>
-        <p class="text-zinc-500 dark:text-zinc-400 mb-6">每个信源的启用状态与最近一次采集结果。连续失败会自动告警并降级。</p>
-        <div id="srcRows" class="space-y-2"></div>
-      </section>
-
-      <section id="v-about" class="view">
-        <div class="text-xs font-bold tracking-[.25em] text-moss mb-2">ABOUT · 关于与方法</div>
-        <h1 class="text-3xl md:text-[2.6rem] font-black text-ink dark:text-white mb-6">关于与计算方法</h1>
-        <div class="space-y-5 text-sm leading-relaxed text-zinc-600 dark:text-zinc-300 max-w-3xl">
-          <p><strong class="text-zinc-800 dark:text-zinc-100">这是什么：</strong>面向 AI+健康赛道创业者的每日产业情报站。全球公开信源 → 自动采集 → 清洗去重 → 主题相关度评分 → 中文呈现。</p>
-          <p><strong class="text-zinc-800 dark:text-zinc-100">相关度怎么算：</strong>主题词表命中（标题加权）× 信源权重 × 时效。评分体系与词表持续迭代，试运行期每周人工抽检校准。</p>
-          <p><strong class="text-zinc-800 dark:text-zinc-100">信源可信度：</strong>四级制——官方确认 / 权威媒体 / 行业信源 / 待交叉验证；"待交叉验证"内容不会出现在本站。</p>
-          <p><strong class="text-zinc-800 dark:text-zinc-100">诚实声明：</strong>内容由机器翻译与规则评分生成，<strong>未经人工审核</strong>；不构成任何医疗或投资建议，请以各信源原文为准。</p>
-          <p><strong class="text-zinc-800 dark:text-zinc-100">技术：</strong>引擎复用 <a class="text-moss hover:underline" href="https://github.com/mengsj08/June_Public" target="_blank" rel="noopener">June SIH</a>（MIT）· 版式参考 <a class="text-moss hover:underline" href="https://github.com/laolaoshiren/ai-hot" target="_blank" rel="noopener">AI Hot</a>（MIT）· UI <a class="text-moss hover:underline" href="https://github.com/tailwindlabs/tailwindcss" target="_blank" rel="noopener">Tailwind CSS</a>（MIT）· 每日 08:30（北京时间）自动更新 · <a class="text-moss hover:underline" href="https://github.com/zhangminton731-a11y/ai-health-intel" target="_blank" rel="noopener">GitHub 仓库</a></p>
-        </div>
-      </section>
-
-    </main>
-  </div>
-</div>
-
-<script id="payload" type="application/json">__PAYLOAD__</script>
-<script>
-const D = JSON.parse(document.getElementById('payload').textContent);
-const tierCN={must_read:'必读',skim:'速览',collapsed:'浏览',archive:'归档'};
-const $=s=>document.querySelector(s);
-const esc=s=>(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-document.title = D.name + ' · AI+健康产业情报 · ' + D.asOf;
-$('#brand').textContent=D.name; $('#brandM').textContent=D.name;
-$('#upd1').textContent=D.updated; $('#upd2').textContent=D.updated; $('#upd3').textContent=D.updated; $('#sideUpd').textContent='更新于 '+D.updated;
-
-const byId=Object.fromEntries(D.items.map(i=>[i.id,i]));
-function dots(t){const c=t>=3?'#0f766e':(t===2?'#d97706':'#dc2626');let h='';for(let i=0;i<3;i++)h+=`<span class="dot" style="background:${i<t?c:'#e4e4e7'}"></span>`;return h+`<span class="ml-1 text-[11px]">${{3:'高',2:'中',1:'低'}[t]||''}</span>`;}
-function row(it,rank,showSub=true){
-  const rcls=rank<=3?'rank top':'rank';
-  return `<div class="row bg-white dark:bg-zinc-950 hover:bg-zinc-50 dark:hover:bg-zinc-900 cursor-pointer" data-id="${esc(it.id)}">
-  <div class="flex items-center gap-3 md:gap-4 px-4 md:px-5 py-4">
-    <div class="${rcls} w-9 shrink-0 text-center">${String(rank).padStart(2,'0')}</div>
-    <div class="min-w-0 flex-1">
-      <div class="font-bold leading-snug truncate">${esc(it.t||it.te)}</div>
-      ${showSub&&it.t&&it.te?`<div class="text-[11px] text-zinc-400 truncate mt-0.5">${esc(it.te)}</div>`:''}
-      <div class="flex flex-wrap items-center gap-x-2.5 gap-y-0.5 text-[11px] text-zinc-400 mt-1">
-        <span class="font-semibold text-zinc-500 dark:text-zinc-400">${esc(it.src)}</span>
-        <span>${esc(it.when)}</span><span>· ${esc(it.cat)}</span>
-        <span class="px-1.5 rounded border border-zinc-200 dark:border-zinc-700">${tierCN[it.tier]||''}</span>
-      </div>
-    </div>
-    <div class="text-right shrink-0 w-24">
-      <div class="text-2xl font-black text-ink dark:text-white">${it.rel.toFixed(1)}</div>
-      <div class="text-[10px] text-zinc-400 flex items-center justify-end">${dots(it.trust)}</div>
-    </div>
-  </div>
-  <div class="row-detail px-4 md:px-5 pb-4 pl-16 text-sm text-zinc-600 dark:text-zinc-300">
-    <p class="mb-2 leading-relaxed">${esc(it.s||it.se||'（无摘要）')}</p>
-    ${it.s&&it.se?`<p class="mb-2 leading-relaxed text-xs text-zinc-400">${esc(it.se)}</p>`:''}
-    <a class="text-moss font-bold hover:underline" href="${esc(it.u)}" target="_blank" rel="noopener">阅读原文 →</a>
-  </div></div>`;
-}
-function bindRows(box){box.querySelectorAll('.row').forEach(r=>r.addEventListener('click',()=>r.classList.toggle('open')));}
-
-if(D.top.length&&byId[D.top[0]]){
-  const s=byId[D.top[0]];
-  $('#spotBox').innerHTML=`<div class="rounded-2xl border border-moss/30 bg-teal-50/50 dark:bg-teal-950/20 p-6">
-    <a href="${esc(s.u)}" target="_blank" rel="noopener" class="block text-lg md:text-xl font-bold leading-snug hover:text-moss">${esc(s.t||s.te)}</a>
-    ${s.t&&s.te?`<div class="text-xs text-zinc-400 mt-1">${esc(s.te)}</div>`:''}
-    <div class="flex flex-wrap items-center gap-2 text-xs mt-3 text-zinc-500">
-      <span class="font-bold text-moss">${esc(s.src)}</span><span class="px-1.5 rounded border border-zinc-200 dark:border-zinc-700">${tierCN[s.tier]}</span>
-      <span>相关度 ${s.rel.toFixed(1)}</span><span>${esc(s.when)}</span></div>
-    <p class="text-sm mt-3 leading-relaxed">${esc(s.s||s.se||'')}</p>
-    <a class="inline-block mt-3 text-sm font-bold text-moss hover:underline" href="${esc(s.u)}" target="_blank" rel="noopener">阅读原文 →</a></div>`;
-} else { $('#spotBox').textContent='今日暂无新条目'; }
-const emptyRows='<div class="p-8 text-center text-zinc-400">今日暂无新条目</div>';
-$('#topRows').innerHTML=D.top.map((id,ix)=>row(byId[id],ix+1)).join('')||emptyRows;
-bindRows($('#topRows'));
-
-let fCat='全部分类',fTier='全部层级';
-const cats=['全部分类',...new Set(D.items.map(i=>i.cat))],tiers=['全部层级','must_read','skim','collapsed','archive'];
-function renderFeed(){
-  const list=D.items.filter(i=>(fCat==='全部分类'||i.cat===fCat)&&(fTier==='全部层级'||i.tier===fTier));
-  $('#feedRows').innerHTML=list.length?list.map((it,ix)=>row(it,ix+1)).join(''):'<div class="p-8 text-center text-zinc-400">没有匹配的条目</div>';
-  bindRows($('#feedRows'));
-}
-$('#feedCats').innerHTML=cats.map(c=>`<button data-c="${esc(c)}" class="px-3 py-1.5 rounded-lg border text-xs font-bold ${c===fCat?'bg-ink text-white border-ink dark:bg-white dark:text-ink dark:border-white':'border-zinc-200 dark:border-zinc-800 text-zinc-500'}">${esc(c)}</button>`).join('');
-$('#feedTiers').innerHTML=tiers.map(t=>`<button data-t="${t}" class="px-3 py-1.5 rounded-lg border text-xs ${t===fTier?'bg-moss text-white border-moss':'border-zinc-200 dark:border-zinc-800 text-zinc-500'}">${t==='全部层级'?'全部层级':tierCN[t]}</button>`).join('');
-$('#feedCats').onclick=e=>{const b=e.target.closest('button');if(!b)return;fCat=b.dataset.c;$('#feedCats').querySelectorAll('button').forEach(x=>x.className=x.className.replace('bg-ink text-white border-ink dark:bg-white dark:text-ink dark:border-white','border-zinc-200 dark:border-zinc-800 text-zinc-500').replace(/border-zinc-200 dark:border-zinc-800 text-zinc-500$/,'border-zinc-200 dark:border-zinc-800 text-zinc-500'));b.className='px-3 py-1.5 rounded-lg border text-xs font-bold bg-ink text-white border-ink dark:bg-white dark:text-ink dark:border-white';renderFeed();};
-$('#feedTiers').onclick=e=>{const b=e.target.closest('button');if(!b)return;fTier=b.dataset.t;$('#feedTiers').querySelectorAll('button').forEach(x=>x.className='px-3 py-1.5 rounded-lg border text-xs border-zinc-200 dark:border-zinc-800 text-zinc-500');b.className='px-3 py-1.5 rounded-lg border text-xs bg-moss text-white border-moss';renderFeed();};
-renderFeed();
-
-$('#hotRows').innerHTML=D.hot30.map((it,ix)=>row(it,ix+1)).join('')||emptyRows;
-bindRows($('#hotRows'));
-$('#kws').innerHTML='<span class="text-zinc-400 mr-1">热词：</span>'+D.kws.map(k=>`<span class="px-2 py-0.5 rounded-full bg-zinc-100 dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-800">${esc(k.term)} <b class="text-signal">${k.n}</b></span>`).join('');
-
-$('#srcRows').innerHTML=D.srcs.map(s=>`
-  <div class="flex items-center gap-3 border border-zinc-200 dark:border-zinc-800 rounded-xl px-5 py-4">
-    <span class="w-2.5 h-2.5 rounded-full ${s.ok?'bg-teal-600':'bg-signal'}"></span>
-    <span class="font-bold">${esc(s.name)}</span>
-    <span class="text-xs text-zinc-400">${esc(s.role)}</span>
-    <span class="flex-1"></span>
-    <span class="text-xs text-zinc-500">${s.n} 条</span>
-    <span class="text-xs text-zinc-500">${esc(s.activity)}</span>
-    <span class="text-xs px-2 py-0.5 rounded-full ${s.ok?'bg-teal-50 text-teal-700 dark:bg-teal-950 dark:text-teal-400':'bg-orange-50 text-signal dark:bg-orange-950'}">${esc(s.status)}</span>
-  </div>`).join('');
-
-let text=`【AI+健康情报日报 · ${D.asOf}】\n`;
-text+=`当前有效 ${D.nCurrent} · 推荐产出 ${D.top.length}\n`;
-if(!D.top.length){text+='今日暂无新条目（零产出）\n';}
-if(D.top.length){const s=byId[D.top[0]];text+=`机器首推：${s.t||s.te}（算法排序第一，未经人工审核）\n${s.u}\n\n今日 TOP10：\n`;}
-D.top.forEach((id,ix)=>{const it=byId[id];text+=`${ix+1}. ${it.t||it.te}\n   ${it.u}\n`;});
-text+=`\n（机器翻译与评分，未经人工审核；不构成医疗/投资建议）`;
-$('#dailyText').textContent=text;
-$('#copyBtn').onclick=async()=>{try{await navigator.clipboard.writeText($('#dailyText').textContent);$('#copyBtn').textContent='✅ 已复制';setTimeout(()=>$('#copyBtn').textContent='📋 复制日报全文',2000);}catch(e){$('#copyBtn').textContent='请手动全选复制';}};
-
-function show(v){
-  document.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));
-  const el=document.getElementById('v-'+v);if(el)el.classList.add('active');
-  document.querySelectorAll('#nav .navitem').forEach(a=>a.classList.toggle('on',a.getAttribute('href')==='#'+v));
-  window.scrollTo(0,0);
-}
-function route(){show((location.hash||'#jingxuan').slice(1));}
-window.addEventListener('hashchange',route);route();
-
-const tbtns=document.querySelectorAll('.tbtn');
-function applyTheme(m){const dark=m==='dark'||(m==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.classList.toggle('dark',dark);document.body.classList.toggle('dark:bg-zinc-950',dark);tbtns.forEach(b=>b.classList.toggle('bg-zinc-200',b.dataset.theme===m));dark?b2():b3();function b2(){document.body.style.background='';}function b3(){}}
-let mode=localStorage.getItem('theme')||'light';applyTheme(mode);
-tbtns.forEach(b=>b.onclick=()=>{mode=b.dataset.theme;localStorage.setItem('theme',mode);applyTheme(mode);});
-matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{if(mode==='system')applyTheme('system')});
-</script>
-</body></html>
-"""
 
 if __name__ == "__main__":
     build()

@@ -9,7 +9,7 @@
       "required": true,
       "role": "primary",
       "url": "https://www.medtechdive.com/feeds/news/",
-      "max_results": 30
+      "max_results": 100
     },
     {
       "id": "stat_news_feed",
@@ -17,7 +17,7 @@
       "enabled": true,
       "required": false,
       "url": "https://www.statnews.com/feed/",
-      "max_results": 20
+      "max_results": 100
     },
     {
       "id": "crunchbase_news_feed",
@@ -25,7 +25,7 @@
       "enabled": true,
       "required": false,
       "url": "https://news.crunchbase.com/feed/",
-      "max_results": 20
+      "max_results": 100
     },
     {
       "id": "rock_health_feed",
@@ -38,10 +38,10 @@
     {
       "id": "apple_newsroom",
       "kind": "rss",
-      "enabled": false,
+      "enabled": true,
       "required": false,
-      "url": "https://www.apple.com/newsroom/rss/",
-      "max_results": 10
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "max_results": 100
     },
     {
       "id": "fitbit_google_blog",
@@ -49,16 +49,116 @@
       "enabled": true,
       "required": false,
       "url": "https://blog.google/rss/",
-      "max_results": 10
+      "max_results": 100
     },
     {
       "id": "hn_ai_health_signals",
       "kind": "hacker_news",
       "enabled": true,
       "required": false,
-      "keywords": ["wearable", "health", "medical", "biotech", "fda", "sensor", "medicine", "clinic", "llm", "device", "startup"],
+      "keywords": [
+        "wearable",
+        "health",
+        "medical",
+        "biotech",
+        "fda",
+        "sensor",
+        "medicine",
+        "clinic",
+        "llm",
+        "device",
+        "startup"
+      ],
       "scan_limit": 80,
       "max_results": 8
+    },
+    {
+      "id": "medcity_news",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://medcitynews.com/feed/",
+      "max_results": 100
+    },
+    {
+      "id": "npj_digital_medicine",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.nature.com/npjdigitalmed.rss",
+      "max_results": 100
+    },
+    {
+      "id": "nature_medicine",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.nature.com/nm.rss",
+      "max_results": 100
+    },
+    {
+      "id": "mit_health",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://news.mit.edu/topic/mithealth-rss.xml",
+      "max_results": 100
+    },
+    {
+      "id": "oura_blog",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://ouraring.com/blog/feed/",
+      "max_results": 100
+    },
+    {
+      "id": "medical_device_network",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.medicaldevice-network.com/feed/",
+      "max_results": 100
+    },
+    {
+      "id": "jmir",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.jmir.org/feed/rss",
+      "max_results": 100
+    },
+    {
+      "id": "jmir_ai",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://ai.jmir.org/feed/rss",
+      "max_results": 100
+    },
+    {
+      "id": "nature_biomedical_engineering",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.nature.com/natbiomedeng.rss",
+      "max_results": 100
+    },
+    {
+      "id": "nih_funding",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
+      "max_results": 100
+    },
+    {
+      "id": "ema_guidance",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
+      "max_results": 100
     }
   ],
   "llm": {

@@ -1,17 +1,17 @@
 {
   "checks": [
     {
-      "kind": "rss",
-      "reason": "disabled_by_config"
+      "count": 20,
+      "kind": "rss_atom"
     }
   ],
-  "enabled": false,
+  "enabled": true,
   "error": "",
-  "generated_at": "2026-09-27T05:29:38+00:00",
-  "item_count": 0,
+  "generated_at": "2026-09-28T02:48:06+00:00",
+  "item_count": 20,
   "required": false,
   "role": "supplemental",
   "source_id": "apple_newsroom",
   "source_kind": "rss",
-  "status": "inactive"
+  "status": "ok"
 }

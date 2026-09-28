@@ -256,7 +256,14 @@ def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date)
     must_novelty = float((thresholds.get("must_read") or {}).get("method_novelty_hint", 0.40))
     skim_relevance = float((thresholds.get("skim") or {}).get("topic_relevance", 0.30))
     collapsed_relevance = float((thresholds.get("collapsed") or {}).get("topic_relevance", 0.10))
-    if gate != "fresh":
+    in_scope = all(
+        not profile.get(key) or any(
+            re.search(r"(?<![a-z])" + re.escape(text(term).lower()) + r"(?![a-z])", haystack)
+            for term in profile[key]
+        )
+        for key in ("required_topic_terms", "required_technology_terms")
+    )
+    if gate != "fresh" or not in_scope:
         tier = "archive"
     elif topic_score >= must_relevance and novelty_hint >= must_novelty:
         tier = "must_read"

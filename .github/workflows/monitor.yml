@@ -1,0 +1,22 @@
+name: Published Site Monitor
+on:
+  schedule:
+    # Beijing 09:23 and 21:23. Shares GitHub's scheduling limitations.
+    - cron: '23 1,13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check published batch and notify June on exception
+        env:
+          FEISHU_BOT_WEBHOOK: ${{ secrets.FEISHU_BOT_WEBHOOK }}
+          FEISHU_BOT_SECRET: ${{ secrets.FEISHU_BOT_SECRET }}
+        run: python scripts/check_published.py

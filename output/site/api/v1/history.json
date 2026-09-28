@@ -1,0 +1,959 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-09-28T02:48:06+00:00",
+  "as_of": "2026-09-28",
+  "description": "近20天历史阅读，不属于当前推荐",
+  "items": [
+    {
+      "id": "url:https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
+      "t": "可穿戴设备在医疗保健中的角色转变",
+      "te": "The Shifting Role of Wearables in Healthcare",
+      "s": "INVEST 数字健康会议将重点关注消费者对医疗保健的影响，并将讨论可穿戴设备。定于 10 月 29 日在达拉斯飞马公园举行。今天就注册吧！",
+      "se": "The INVEST Digital Health conference, which will spotlight the consumer influence in healthcare, will include a discussion on wearables. It is scheduled for October 29 at Pegasus Park in Dallas. Register today!",
+      "u": "https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "consumer"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150076",
+        "retrieved_via": "rss"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 83.0,
+      "when": "10 天前",
+      "date": "2026-09-18",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ouraring.wpengine.com/cms-access-model/",
+      "t": "Oura 和 Counsel Health 通过 CMS ACCESS 模式扩大合作伙伴关系",
+      "te": "Oura and Counsel Health Expand Partnership Through CMS ACCESS Model",
+      "s": "今天，Oura 宣布通过医疗保险和医疗补助服务中心 (CMS) 创新中心的“利用有效可扩展解决方案 (ACCESS) 模型推进慢性病护理”，与 AI 原生初级保健公司 Counsel 建立新阶段的合作伙伴关系。 ACCESS 计划让 Oura 和 Counsel 有机会大规模研究这个模型，特别是连续生物识别如何[...]",
+      "se": "Today, Oura announced a new phase of its partnership with Counsel, the AI-native primary care company, through the Centers for Medicare & Medicaid Services (CMS) Innovation Center’s Advancing Chronic Care with Effective Scalable Solutions (ACCESS) Model. The ACCESS program gives Oura and Counsel the opportunity to study this model at scale, specifically how continuous biometric […]",
+      "u": "https://ouraring.wpengine.com/cms-access-model/",
+      "src": "Oura",
+      "role": "企业发布",
+      "cat": "企业发布",
+      "trust": 2,
+      "sourceType": "企业发布",
+      "topics": [
+        "consumer",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology",
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "oura_blog"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "oura_blog",
+        "upstream_id": "https://ouraring.wpengine.com/?p=1006819"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 47.0,
+      "when": "11 天前",
+      "date": "2026-09-17",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
+      "t": "癌症诊断如何塑造这位风险投资家的精准健康论文",
+      "te": "How a Cancer Diagnosis Shaped This VC’s Precision Health Thesis",
+      "s": "Ariel Ganz 险些被诊断出患有乳腺癌，之后她与他人共同创立了 Arben Ventures，这是一家精准健康和长寿基金，三年内已为 83 家早期初创企业提供了支持。",
+      "se": "After a near-miss with her own breast cancer diagnosis, Ariel Ganz co-founded Arben Ventures, a precision health and longevity fund that has backed 83 early-stage startups in three years.",
+      "u": "https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital",
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150059",
+        "retrieved_via": "rss"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73.0,
+      "when": "11 天前",
+      "date": "2026-09-17",
+      "reasons": {
+        "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕肿瘤诊疗，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/ai-isnt-a-therapist-but-many-teens-are-treating-it-like-one/",
+      "t": "人工智能不是治疗师，但许多青少年将其视为治疗师",
+      "te": "AI Isn’t a Therapist, but Many Teens Are Treating It Like One",
+      "s": "临床医生有责任了解人工智能聊天机器人带来的风险，并告知青少年患者、他们的父母和护理人员。",
+      "se": "Clinicians have a responsibility to understand the risks posed by AI chatbots and to inform teen patients, their parents and caregivers about them.",
+      "u": "https://medcitynews.com/2026/09/ai-isnt-a-therapist-but-many-teens-are-treating-it-like-one/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=148964",
+        "retrieved_via": "rss"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 25.0,
+      "when": "12 天前",
+      "date": "2026-09-16",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e93761/",
+      "t": "检索然后验证以评估大语言模型生成的医学信息中的证据支持和幻觉：实证研究",
+      "te": "Retrieve-Then-Verify for Evaluating Evidence Support and Hallucination in Large Language Model–Generated Medical Information: Empirical Study",
+      "s": "结论：人工智能生成的医疗信息可以实现较高的决策精度，但仍有相当一部分输出缺乏文档支持。衡量证据支持和幻觉揭示了仅通过协议指标无法捕捉到的重要局限性。基于检索的证据验证提供了一种可重复且透明的方法来评估人工智能生成的医疗信息的可靠性，与数字健康实践、循证医学和医学信息学直接相关。结果：人工智能生成的偏倚风险判断的二元准确性在各个领域都很高（90%-98%），而精确准确性则大幅较低（42%-71%），反映出尽管方向分类正确，但严重性分类中经常出现分歧。",
+      "se": "Conclusions: AI-generated medical information can achieve high decision-level accuracy while still lacking documentary support in a substantial proportion of outputs. Measuring evidence support and hallucination reveals important limitations that are not captured by agreement metrics alone. Retrieval-based evidence verification provides a reproducible and transparent approach for evaluating the reliability of AI-generated medical information, with direct relevance to digital health practice, evidence-based medicine, and medical informatics. Results: Binary accuracy of AI-generated risk-of-bias judgments was high across domains (90%-98%), whereas exact accuracy was substantially lower (42%-71%), reflecting frequent disagreements in severity classification despite correct directional classification.",
+      "u": "https://ai.jmir.org/2026/1/e93761/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e93761/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 57.0,
+      "when": "12 天前",
+      "date": "2026-09-16",
+      "reasons": {
+        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e94589/",
+      "t": "德国成年人对基于人工智能的智能家居医疗紧急检测的消费者偏好：基于选择的联合分析",
+      "te": "Consumer Preferences for AI-Based Smart Home Medical Emergency Detection Among German Adults: Choice-Based Conjoint Analysis",
+      "s": "结论：这些发现强调需要使智能家居开发与用户偏好保持一致，并强调成本效益。此外，在基于人工智能的智能家居技术背景下，人工智能素养在技术采用中发挥着重要作用。需要进一步研究来理解和解决不愿采用人工智能进行医疗紧急情况检测的问题。结果：成本是最重要的属性（相对重要性 [RI]=41%），其次是紧急检测率（RI=19%）、数据处理（RI=14%）和位置（RI=14%）。传感器类型是最不重要的属性（RI=9%）。首选配置包括每年 70 欧元（82 美元）的订阅费、95% 的检测率、可穿戴传感器、个性化人工智能以及在私密和共享房间中的安装。",
+      "se": "Conclusions: These findings highlight the need to align smart home development with user preferences, emphasizing cost-effectiveness. Additionally, AI literacy plays an important role in technology adoption in the context of AI-based smart home technology. Further research is needed to understand and address the reluctance to adopt AI for medical emergency detection. Results: Cost was the most important attribute (relative importance [RI]=41%), followed by emergency detection rate (RI=19%), data processing (RI=14%), and location (RI=14%). The type of sensor was the least important attribute (RI=9%). The preferred configuration combined an annual subscription of €70 (US $82), a 95% detection rate, wearable sensors, personalized AI, and installation in both intimate and shared rooms.",
+      "u": "https://ai.jmir.org/2026/1/e94589/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e94589/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 59.0,
+      "when": "13 天前",
+      "date": "2026-09-15",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/shadow-ai-is-the-fastest-growing-force-in-medicine-and-hospitals-are-the-only-ones-who-can-control-it/",
+      "t": "影子人工智能是医学领域增长最快的力量，医院是唯一可以控制它的人",
+      "te": "Shadow AI Is the Fastest Growing Force in Medicine, and Hospitals Are the Only Ones Who Can Control It",
+      "s": "如果信任、透明度和问责制仍然是医学的核心价值观，那么人工智能治理就不能任由即兴发挥。",
+      "se": "If trust, transparency, and accountability remain core values in medicine, AI governance cannot be left to improvisation.",
+      "u": "https://medcitynews.com/2026/09/shadow-ai-is-the-fastest-growing-force-in-medicine-and-hospitals-are-the-only-ones-who-can-control-it/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=148914",
+        "retrieved_via": "rss"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 66.0,
+      "when": "14 天前",
+      "date": "2026-09-14",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/",
+      "t": "医疗保健需要能够处理混乱现实的软件",
+      "te": "Healthcare Needs Software That Handles a Messy Reality",
+      "s": "问题不在于公司未能开发出易于使用的应用程序。相反，软件在现代医疗保健环境中的实际功能存在局限性。",
+      "se": "The problem is not that companies have failed to make easy-to-use applications. Rather, it’s that there have been limitations to what software can realistically do in a modern healthcare environment.",
+      "u": "https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149431",
+        "retrieved_via": "rss"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 23.0,
+      "when": "15 天前",
+      "date": "2026-09-13",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/",
+      "t": "洞察、服务：Oura 数据揭示网球对心脏健康、恢复等的影响",
+      "te": "Insights, Served: Oura Data Reveals Effects of Tennis on Heart Health, Recovery, and More",
+      "s": "作为美国网球公开赛和美国网球协会的官方可穿戴合作伙伴，Oura 很自豪能够支持各个级别的网球运动员（从全球冠军到日常击球手）的健康和福祉。网球通常被认为是一项有益心脏健康的运动——一项需要快速冲刺、强有力的发球和快速变向的高风险运动。但是一个小时如何[...]",
+      "se": "As the official wearable partner of the US Open and USTA, Oura is proud to champion the health and well-being of tennis players across all levels—from global champions to everyday hitters. Tennis is often celebrated as a heart-healthy workout—a high-stakes game of fast sprints, powerful serves, and quick directional changes. But how does an hour […]",
+      "u": "https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/",
+      "src": "Oura",
+      "role": "企业发布",
+      "cat": "企业发布",
+      "trust": 2,
+      "sourceType": "企业发布",
+      "topics": [
+        "consumer"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "oura_blog"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "oura_blog",
+        "upstream_id": "https://ouraring.wpengine.com/?p=1006727"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 35.0,
+      "when": "17 天前",
+      "date": "2026-09-11",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+      "t": "林肯实验室救生设备荣获 2026 年卓越技术转让奖",
+      "te": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "s": "由林肯实验室和马萨诸塞州总医院创建的手持式导管插入设备 AI-GUIDE 有望改善受伤军人和平民的健康状况。",
+      "se": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
+      "u": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+      "src": "MIT News · Health",
+      "role": "研究机构",
+      "cat": "研究机构",
+      "trust": 3,
+      "sourceType": "研究机构",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "mit_health"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "mit_health",
+        "upstream_id": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 23.0,
+      "when": "17 天前",
+      "date": "2026-09-11",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
+      "t": "Nutroomics 抗生素监测贴片获得 FDA 突破性认证",
+      "te": "Nutromics Nabs FDA Breakthrough Status for Antibiotic Monitoring Patch",
+      "s": "Nutroomics 因其可实时追踪万古霉素水平的可穿戴贴片而获得 FDA 突破性设备称号。该装置旨在取代目前用于注射难以管理的抗生素的定期抽血的方式。",
+      "se": "Nutromics earned FDA breakthrough device designation for its wearable patch that tracks vancomycin levels in real time. The device aims to replace the periodic blood draws currently used to dose the tricky-to-manage antibiotic.",
+      "u": "https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "consumer",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149987",
+        "retrieved_via": "rss"
+      },
+      "tier": "must_read",
+      "freshness": "fresh",
+      "rel": 53.0,
+      "when": "17 天前",
+      "date": "2026-09-11",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+      "t": "GenHealth.ai 筹集 1650 万美元用于自动化医疗管理任务",
+      "te": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
+      "s": "Flare Capital Partners 领投了 A 轮融资。 Craft、Obvious Ventures、Eniac Ventures、InHealth Ventures、Epsilon Health Investors 和 ARTIS 也参与其中。",
+      "se": "Flare Capital Partners led the Series A round. Craft, Obvious Ventures, Eniac Ventures, InHealth Ventures, Epsilon Health Investors and ARTIS also participated.",
+      "u": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology",
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149989",
+        "retrieved_via": "rss"
+      },
+      "tier": "must_read",
+      "freshness": "fresh",
+      "rel": 79.0,
+      "when": "17 天前",
+      "date": "2026-09-11",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ouraring.wpengine.com/sleep-science-at-oura/",
+      "t": "大浦的睡眠科学：我们如何赢得科学界的地位",
+      "te": "Sleep Science at Oura: How We’ve Earned Our Position in the Scientific Community",
+      "s": "科学界的席位并不是一次就可以永远保留的东西。这是你不断获得的东西——研究又研究，审查又审查，披露又披露。作为一名睡眠科学家，这就是我想在这里讨论的内容：不是 Oura 以及更广泛的可穿戴睡眠技术 [...]",
+      "se": "A seat at the table with the scientific community isn’t something you’re handed once and get to keep forever. It’s something you keep earning — study by study, review by review, disclosure by disclosure. As a sleep scientist, that’s what I want to discuss here: not what Oura and more broadly the wearable sleep technology […]",
+      "u": "https://ouraring.wpengine.com/sleep-science-at-oura/",
+      "src": "Oura",
+      "role": "企业发布",
+      "cat": "企业发布",
+      "trust": 2,
+      "sourceType": "企业发布",
+      "topics": [
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "oura_blog"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "oura_blog",
+        "upstream_id": "https://ouraring.wpengine.com/?p=1006714"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 57.0,
+      "when": "18 天前",
+      "date": "2026-09-10",
+      "reasons": {
+        "research": "围绕睡眠与呼吸监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕睡眠与呼吸监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/imprivata-ai-agents/",
+      "t": "Imprivata 首席执行官：人工智能代理需要与未经审查的合同护士同样的审查",
+      "te": "Imprivata CEO: AI Agents Need the Same Scrutiny as an Unvetted Contract Nurse",
+      "s": "Imprivata 首席执行官 Fran Rosch 表示，人工智能代理的待遇应该类似于医院对待新合同护士的方式——接受审查、监控，然后在工作完成后立即将其切断。",
+      "se": "Imprivata CEO Fran Rosch said AI agents should be treated similarly to the way hospitals treat a new contract nurse — vetted, monitored and then cut off as soon as the job is done.",
+      "u": "https://medcitynews.com/2026/09/imprivata-ai-agents/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149976",
+        "retrieved_via": "rss"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 48.0,
+      "when": "18 天前",
+      "date": "2026-09-10",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/at-invest-digital-health-health-wildcatters-will-highlight-latest-cohort-of-startups/",
+      "t": "在 INVEST Digital Health 上，Health Wildcatters 将重点关注最新一批初创企业",
+      "te": "At INVEST Digital Health, Health Wildcatters Will Highlight Latest Cohort of Startups",
+      "s": "达拉斯加速器和 INVEST 数字健康合作伙伴 Health Wildcatters 宣布了最新一批医疗保健初创企业。参加 10 月 29 日的 INVEST DIgital Health 展会，与他们面对面交流！",
+      "se": "Health Wildcatters, a Dallas accelerator and INVEST Digital Health partner, has announced the healthcare startups in its latest cohort. Join us at INVEST DIgital Health on October 29 and meet them in person!",
+      "u": "https://medcitynews.com/2026/09/at-invest-digital-health-health-wildcatters-will-highlight-latest-cohort-of-startups/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149964",
+        "retrieved_via": "rss"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 53.0,
+      "when": "18 天前",
+      "date": "2026-09-10",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e93501/",
+      "t": "通过人工智能增强患者的知情同意：系统审查",
+      "te": "Enhancing Patients’ Informed Consent Through AI: Systematic Review",
+      "s": "结论：人工智能有潜力改善知情同意流程；然而，还需要进一步研究来解决伦理问题并确保其有效、以患者为中心融入临床实践。结果：共纳入 2020 年至 2025 年间发表的 33 项研究，分为 3 个领域：人工智能生成的患者教育（n=18，54.5%）、人工智能生成的同意文件（n=10，30.3%）和人工智能辅助的同意获取（n=5，15.2%）。大型语言模型表现出很高的准确性，尽管可读性始终低于建议的八年级水平。表现最好的模型 Copilot 的 Flesch-Kincaid 等级达到 10.59 (±1.22)。",
+      "se": "Conclusions: AI has the potential to improve the informed consent process; however, further research is needed to address ethical concerns and ensure its effective, patient-centered integration into clinical practice. Results: A total of 33 studies published between 2020 and 2025 were included, categorized into 3 domains: AI-generated patient education (n=18, 54.5%), AI-generated consent documentation (n=10, 30.3%), and AI-assisted consent acquisition (n=5, 15.2%). Large language models demonstrated high accuracy, though readability consistently fell below the recommended eighth-grade level. The best-performing model, Copilot, achieved a Flesch-Kincaid Grade Level of 10.59 (±1.22).",
+      "u": "https://ai.jmir.org/2026/1/e93501/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e93501/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 51.0,
+      "when": "18 天前",
+      "date": "2026-09-10",
+      "reasons": {
+        "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e87794/",
+      "t": "基于人工智能的计算机断层扫描成像中创伤性脑损伤的识别和量化方法：系统评价",
+      "te": "AI-Based Approaches for the Identification and Quantification of Traumatic Brain Injury in Computed Tomography Imaging: Systematic Review",
+      "s": "结论：基于 CT 的 TBI 评估的 AI 方法在受控条件下的回顾性评估中表现出强大的性能，特别是在出血检测和分割方面；然而，当前的证据基础受到数据集多样性有限、报告不完整和缺乏临床验证的限制。因此，这些发现应被解释为方法学可行性的证据，而不是临床准备的证据。结果：通过筛选发现的 674 篇出版物，我们确定了 101 项研究进行评估。我们将这 101 项研究分为 4 类：二元 TBI 分类（TBI 或非 TBI）、出血检测（分类、定位、分割和量化）、中线移位测量和颅内压升高估计。",
+      "se": "Conclusions: AI methods for CT-based TBI assessment demonstrate strong performance in retrospective evaluations under controlled conditions, particularly for hemorrhage detection and segmentation; however, the current evidence base is constrained by limited dataset diversity, incomplete reporting, and lack of clinical validation. Accordingly, these findings should be interpreted as evidence of methodological feasibility rather than clinical readiness. Results: By screening the 674 publications found, we identified 101 studies for evaluation. We grouped these 101 studies into 4 categories: binary TBI classification (TBI or non-TBI), hemorrhage detection (classification, localization, segmentation, and quantization), midline shift measurement, and increased intracranial pressure estimation.",
+      "u": "https://ai.jmir.org/2026/1/e87794/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e87794/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 99.0,
+      "when": "18 天前",
+      "date": "2026-09-10",
+      "reasons": {
+        "research": "围绕医学影像，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "围绕医学影像，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "t": "隆重推出配备全新健康传感系统的 Apple Watch Series 12",
+      "te": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "s": "Apple 今天推出了 Apple Watch Series 12，旨在为可穿戴设备提供最准确的心率感应。",
+      "se": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
+      "u": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "src": "Apple Newsroom",
+      "role": "企业发布",
+      "cat": "企业发布",
+      "trust": 2,
+      "sourceType": "企业发布",
+      "topics": [
+        "consumer"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "apple_newsroom"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "apple_newsroom",
+        "upstream_id": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 35.0,
+      "when": "19 天前",
+      "date": "2026-09-09",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ouraring.wpengine.com/oura-ring-los-angeles-dodgers/",
+      "t": "Oura Ring 被选为洛杉矶道奇队官方健康可穿戴设备",
+      "te": "Oura Ring Selected as the Official Health Wearable of the Los Angeles Dodgers",
+      "s": "今天，Oura 宣布与洛杉矶道奇队建立多年合作伙伴关系，并将 Oura Ring 命名为球队的官方健康可穿戴设备。该协议标志着道奇队在健康可穿戴设备领域的首次合作，也是大浦与美国职业棒球大联盟特许经营权的首次健康可穿戴设备合作。与道奇队合作，大浦将更加关注日常投入 [...]",
+      "se": "Today, Oura announced a multi-year partnership with the Los Angeles Dodgers, naming Oura Ring the team’s Official Health Wearable. The agreement marks the Dodgers’ first partnership in the health-wearable category and Oura’s first health-wearable partnership with a Major League Baseball franchise. In partnership with the Dodgers, Oura will bring greater attention to the everyday inputs […]",
+      "u": "https://ouraring.wpengine.com/oura-ring-los-angeles-dodgers/",
+      "src": "Oura",
+      "role": "企业发布",
+      "cat": "企业发布",
+      "trust": 2,
+      "sourceType": "企业发布",
+      "topics": [
+        "consumer",
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "oura_blog"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "oura_blog",
+        "upstream_id": "https://ouraring.wpengine.com/?p=1006708"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 55.0,
+      "when": "19 天前",
+      "date": "2026-09-09",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/",
+      "t": "Lifepoint Health 如何利用人工智能让护士重新获得时间",
+      "te": "How Lifepoint Health Is Using AI to Give Nurses Their Time Back",
+      "s": "Lifepoint Health 的首席护士长米歇尔·沃森 (Michelle Watson) 认为，环境聆听和人工智能支持的患者优先顺序正在帮助护士节省时间来完成不需要临床判断的任务。目标是让护士有时间从事真正需要他们专业知识的工作。",
+      "se": "Michelle Watson, Lifepoint Health’s chief nurse executive, believes ambient listening and AI-powered patient prioritization are helping nurses reclaim time on tasks that don’t require clinical judgment. The goal is to free nurses up for the work that actually requires their expertise.",
+      "u": "https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149943",
+        "retrieved_via": "rss"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 27.0,
+      "when": "19 天前",
+      "date": "2026-09-09",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    }
+  ],
+  "editions": [
+    {
+      "date": "2026-09-18",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-17",
+      "item_ids": [
+        "url:https://ouraring.wpengine.com/cms-access-model/",
+        "url:https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-16",
+      "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e93761/",
+        "url:https://medcitynews.com/2026/09/ai-isnt-a-therapist-but-many-teens-are-treating-it-like-one/"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-15",
+      "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e94589/"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-14",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/shadow-ai-is-the-fastest-growing-force-in-medicine-and-hospitals-are-the-only-ones-who-can-control-it/"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-13",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-11",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
+        "url:https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
+        "url:https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+        "url:https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/"
+      ],
+      "minutes": 2
+    },
+    {
+      "date": "2026-09-10",
+      "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e87794/",
+        "url:https://ouraring.wpengine.com/sleep-science-at-oura/",
+        "url:https://medcitynews.com/2026/09/at-invest-digital-health-health-wildcatters-will-highlight-latest-cohort-of-startups/",
+        "url:https://ai.jmir.org/2026/1/e93501/",
+        "url:https://medcitynews.com/2026/09/imprivata-ai-agents/"
+      ],
+      "minutes": 3
+    },
+    {
+      "date": "2026-09-09",
+      "item_ids": [
+        "url:https://ouraring.wpengine.com/oura-ring-los-angeles-dodgers/",
+        "url:https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+        "url:https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/"
+      ],
+      "minutes": 2
+    }
+  ]
+}

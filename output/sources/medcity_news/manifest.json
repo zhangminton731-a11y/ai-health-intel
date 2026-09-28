@@ -1,0 +1,17 @@
+{
+  "checks": [
+    {
+      "count": 30,
+      "kind": "rss_atom"
+    }
+  ],
+  "enabled": true,
+  "error": "",
+  "generated_at": "2026-09-28T02:48:06+00:00",
+  "item_count": 30,
+  "required": false,
+  "role": "supplemental",
+  "source_id": "medcity_news",
+  "source_kind": "rss",
+  "status": "ok"
+}
