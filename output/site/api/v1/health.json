@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-28T10:55:22+00:00",
-  "as_of": "2026-09-28",
-  "daily_status": "complete_with_warning",
+  "generated_at": "2026-09-28T20:07:44+00:00",
+  "as_of": "2026-09-29",
+  "daily_status": "complete",
   "sources": [
     {
       "checks": [
@@ -13,7 +13,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 10,
       "required": true,
       "role": "primary",
@@ -30,7 +30,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -47,7 +47,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -64,7 +64,7 @@
       ],
       "enabled": false,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 0,
       "required": false,
       "role": "supplemental",
@@ -81,7 +81,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -98,7 +98,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -109,19 +109,19 @@
     {
       "checks": [
         {
-          "count": 0,
+          "count": 2,
           "kind": "hn_firebase"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
-      "item_count": 0,
+      "generated_at": "2026-09-28T20:07:44+00:00",
+      "item_count": 2,
       "required": false,
       "role": "supplemental",
       "source_id": "hn_ai_health_signals",
       "source_kind": "hacker_news",
-      "status": "ok_no_updates"
+      "status": "ok"
     },
     {
       "checks": [
@@ -132,7 +132,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 30,
       "required": false,
       "role": "supplemental",
@@ -141,28 +141,38 @@
       "status": "ok"
     },
     {
-      "checks": [],
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
       "enabled": true,
-      "error": "ParseError: not well-formed (invalid token): line 14, column 4",
-      "generated_at": "2026-09-28T10:55:22+00:00",
-      "item_count": 0,
+      "error": "",
+      "generated_at": "2026-09-28T20:07:44+00:00",
+      "item_count": 8,
       "required": false,
       "role": "supplemental",
       "source_id": "npj_digital_medicine",
       "source_kind": "rss",
-      "status": "failed"
+      "status": "ok"
     },
     {
-      "checks": [],
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
       "enabled": true,
-      "error": "ParseError: not well-formed (invalid token): line 14, column 4",
-      "generated_at": "2026-09-28T10:55:22+00:00",
-      "item_count": 0,
+      "error": "",
+      "generated_at": "2026-09-28T20:07:44+00:00",
+      "item_count": 8,
       "required": false,
       "role": "supplemental",
       "source_id": "nature_medicine",
       "source_kind": "rss",
-      "status": "failed"
+      "status": "ok"
     },
     {
       "checks": [
@@ -173,7 +183,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 50,
       "required": false,
       "role": "supplemental",
@@ -190,7 +200,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 12,
       "required": false,
       "role": "supplemental",
@@ -207,7 +217,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -224,7 +234,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -241,7 +251,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -258,7 +268,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 8,
       "required": false,
       "role": "supplemental",
@@ -269,14 +279,14 @@
     {
       "checks": [
         {
-          "count": 3,
+          "count": 1,
           "kind": "rss_atom"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
-      "item_count": 3,
+      "generated_at": "2026-09-28T20:07:44+00:00",
+      "item_count": 1,
       "required": false,
       "role": "supplemental",
       "source_id": "nih_funding",
@@ -292,7 +302,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-09-28T10:55:22+00:00",
+      "generated_at": "2026-09-28T20:07:44+00:00",
       "item_count": 13,
       "required": false,
       "role": "supplemental",

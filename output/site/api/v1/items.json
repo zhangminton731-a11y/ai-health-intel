@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-28T10:55:22+00:00",
-  "as_of": "2026-09-28",
-  "count": 25,
+  "generated_at": "2026-09-28T20:07:44+00:00",
+  "as_of": "2026-09-29",
+  "count": 28,
   "items": [
     {
       "id": "url:https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
@@ -196,26 +196,26 @@
       }
     },
     {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
-      "title": "老年中风患者对数字医疗技术的恐惧症现状及相关因素：混合方法研究",
-      "original_title": "Current Status and Associated Factors of Technophobia Toward Digital Health Technologies Among Older Patients With Stroke: Mixed Methods Study",
-      "summary": "结论：老年中风患者的技术恐惧症有所不同，并且与人均家庭月收入、数字医疗技术使用频率、电子健康素养、感知的社会支持和中风自我效能相关。这些发现表明，技术恐惧症不仅限于操作困难，还可能反映了个人资源、社会支持和技术使用环境的相互作用。针对中风的数字健康干预措施可能需要解决电子健康素养、中风自我效能、社会支持和用户体验，以促进老年中风患者的接受和使用。结果：在 343 名定量参与者中，技术恐惧症中位数得分为 25.0 (IQR 22.0‐33.0)。多变量线性回归显示，家庭人均月收入为人民币（人民币；",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e95921",
-      "source": "Journal of Medical Internet Research",
+      "id": "url:https://www.nature.com/articles/s41746-026-03312-y",
+      "title": "高血压患者远程监测的实施：电子健康记录数据的二次分析",
+      "original_title": "Implementation of remote patient monitoring for hypertension: a secondary analysis from electronic health record data",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03312-y",
+      "source": "npj Digital Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-09-25",
+      "published_at": "2026-09-26",
       "topics": [
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "jmir"
+          "npj_digital_medicine"
         ],
         "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95921"
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03312-y"
       },
       "sections": [
         "research"
@@ -225,41 +225,43 @@
           "papers"
         ]
       },
-      "research_stages": [],
+      "research_stages": [
+        "data"
+      ],
       "recommendation_reasons": {
-        "research": "围绕卒中研究，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕卒中研究，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "围绕血压与慢病管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕血压与慢病管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105068",
-      "title": "使用非对比计算机断层扫描对大型血管闭塞紧急分诊的人工智能决策支持：系统审查和贝叶斯诊断测试准确性网络荟萃分析",
-      "original_title": "AI Decision Support for Emergency Triage of Large Vessel Occlusion Using Noncontrast Computed Tomography: Systematic Review and Bayesian Diagnostic Test Accuracy Network Meta-Analysis",
-      "summary": "结论：在回顾性验证队列中，低质量的比较证据表明，基于 NCCT 的 AI（最明显的是单模态成像 AI）比人类阅读范式具有更高的敏感性，但特异性没有明显差异。这些发现支持对基于 NCCT 的人工智能进行前瞻性评估，作为专家评审、计算机断层扫描血管造影优先级、远程中风咨询或转移讨论的有界人机循环提示。证据仍然基于准确性，并且没有确定工作流程有效性、再灌注加速或功能结果益处。试用注册：PROSPERO CRD420261362111；  结果：所有 10 项纳入研究均为回顾性验证研究，包括 11 个验证数据集、28 个研究节点组和 3632 名患者。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e105068",
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
+      "title": "低收入国家药物警戒人工智能的治理：系统视角",
+      "original_title": "Governing AI for Pharmacovigilance in Low-Income Countries: Systems Perspective",
+      "summary": "尽管人工智能有望在低收入国家（LIC）提供更好的药物警戒，但随着人工智能的采用，药物治理的差距可能会扩大。虽然像澳大利亚这样的先进监管体系正在将人工智能纳入药品治理，但南苏丹等监管能力欠发达的低收入国家却落后了。这种潜在的分歧扰乱了世界卫生组织的“无害医学”议程和有效的全球药物警戒。此外，不断发展的全球治理举措，包括新成立的联合国人工智能科学小组，可能会因全球能力差异而受到阻碍。",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e96374",
       "source": "Journal of Medical Internet Research",
       "source_type": "期刊论文",
-      "published_at": "2026-09-24",
+      "published_at": "2026-09-28",
       "topics": [
         "hospital",
-        "research"
+        "research",
+        "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jmir"
         ],
         "retrieved_via": "rss",
         "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105068"
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96374"
       },
       "sections": [
         "research"
       ],
       "categories": {
         "research": [
-          "papers",
-          "methods"
+          "papers"
         ]
       },
       "research_stages": [
@@ -268,8 +270,8 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "围绕卒中研究，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "围绕卒中研究，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -311,6 +313,42 @@
       "recommendation_reasons": {
         "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "围绕血糖管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
+      "title": "GE HealthCare 探索将生成式人工智能应用于放射治疗工作流程",
+      "original_title": "GE HealthCare to explore applying generative AI to radiation therapy workflows",
+      "summary": "该公司与麻省总医院布里格姆分校的研究团队合作，帮助护理团队获取患者的特定信息。",
+      "url": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
+      "source": "MedTech Dive",
+      "source_type": "专业媒体",
+      "published_at": "2026-09-28",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "upstream_id": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -388,45 +426,41 @@
       }
     },
     {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90870",
-      "title": "使用基于轻量级大语言模型的框架进行心脏外科的自动化简短医院课程总结：重症监护医疗信息市场的开发和评估研究-IV",
-      "original_title": "Automated Brief Hospital Course Summarization in Cardiac Surgery Using a Lightweight Large Language Model–Based Framework: Development and Evaluation Study on the Medical Information Mart for Intensive Care-IV",
-      "summary": "结论：通过集成 3 个专门模块，所提出的框架为隐私和资源限制下的临床医生循环 BHC 草案生成提供了实用的、可本地部署的解决方案，并有望提高文档效率并增强护理过渡期间的信息连续性。结果：在没有任何模型训练的情况下，LiteMedDoc 在各个自动化指标上都取得了出色的性能，几乎与微调模型相匹配，并且在所有指标上都超过了 700 亿参数模型。此外，在对肺叶切除病例的数据库内跨域评估中，该框架在及时调整后保持了令人鼓舞的性能，并且优于基本模型和 CABG 微调模型。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e90870",
-      "source": "Journal of Medical Internet Research",
+      "id": "url:https://ai.jmir.org/2026/1/e93900/",
+      "title": "将现实世界的安全和实施差距转化为 NHS 医疗保健提供者部署衍生的 AI 准备实施前清单：清单开发研究",
+      "original_title": "Translating Real-World Safety and Implementation Gaps Into a Deployment-Derived AI Readiness Preimplementation Checklist for NHS Health Care Providers: Checklist Development Study",
+      "summary": "结论：SID 和 ADE 人工智能预实施清单将现实世界的人工智能部署学习转化为实用的预实施审议工具。目前的证据支持原始信任环境中的表面和内容有效性，但在提出预测有效性、普遍性或定量上线阈值之前，需要进行独立的前瞻性验证。结果：检查表包含 8 个领域：用例定义；临床安全和责任；本地验证和性能；劳动力准备情况和人为因素；运营和技术整合；信息治理和道德；采购、责任和财务风险；以及监控、评估和停止规则。",
+      "url": "https://ai.jmir.org/2026/1/e93900/",
+      "source": "JMIR AI",
       "source_type": "期刊论文",
-      "published_at": "2026-09-24",
+      "published_at": "2026-09-28",
       "topics": [
         "hospital",
-        "consumer",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "jmir"
+          "jmir_ai"
         ],
         "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90870"
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e93900/"
       },
       "sections": [
         "research"
       ],
       "categories": {
         "research": [
-          "papers",
-          "methods"
+          "papers"
         ]
       },
       "research_stages": [
-        "design",
-        "analysis",
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -500,46 +534,6 @@
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e93413",
-      "title": "可穿戴传感器在现实环境中评估帕金森病和中风的步态：系统评价和荟萃分析",
-      "original_title": "Wearable Sensors in Gait Assessment for Parkinson Disease and Stroke in Real-World Environments: Systematic Review and Meta-Analysis",
-      "summary": "结论：与之前关注单一疾病或特定硬件的综述不同，本综述对 PD 和中风进行了对比，以强调共同的方法学挑战。帕金森病的真实步态评估正在取得进展，但仍比较分散，而卒中证据基础仍然稀疏。观察到的差异因程序和算法的不一致而变得更加复杂，目前无法将其与真正的临床差异分开。 PD 中建立的方法基础为早期采用标准化术语、验证程序和核心成果奠定了基础，这对于将可穿戴传感器从探索性工具转变为可靠的临床和远程监测仪器至关重要。试用注册：PROSPERO CRD42024531665；  结果：在 2489 份记录中，纳入了 43 份报告：37 份关于 PD（2774 名参与者；",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e93413",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-25",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e93413"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕帕金森病，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "围绕帕金森病，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -686,27 +680,66 @@
       }
     },
     {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87806",
-      "title": "神经系统医疗保健中的人工智能：患者和公众认知的定性研究",
-      "original_title": "AI in Neurological Health Care: Qualitative Study of Patient and Public Perceptions",
-      "summary": "结论：神经系统疾病对患者及其家人的生活产生重大影响，对医疗保健系统产生巨大的资源影响。人工智能有潜力带来显着的效益，例如改进诊断、资源效率、新颖的见解以及改善医疗保健的提供。然而，医疗保健系统需要关注健康数据的准备情况和可用性。这项研究强调了为人工智能系统的扩展做好医疗系统准备的重要性，包括支持临床医生和患者在医疗保健中适当和安全地实施人工智能。结果：人工智能在临床决策中的主要好处包括改进神经系统医疗保健的诊断和治疗、增加患者对护理和决策的参与以及资源效率。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e87806",
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e111711",
+      "title": "客观、临床、基于声音的帕金森病表征需要明确的机制因果分析或干预试验",
+      "original_title": "Explicit Mechanistic Causal Analyses or Interventional Trials Are Required for Objective, Clinical, Voice-Based Parkinson Disease Characterization",
+      "summary": "对于大多数帕金森病患者来说，运动障碍、声音和言语都会在某种程度上受到损害，这提供了使用数字录音和复杂的机器学习来协助客观临床表征病情的机会。然而，正如 Shukla 等人在 2026 年 8 月 20 日的论文中强调的那样，临时观测数据集通常包含无法进行纯粹统计分析的虚假因果关联。该评论认为，需要因果推理以及最终的诊断临床试验来建立疾病和算法预测之间的直接机制关系。",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e111711",
       "source": "Journal of Medical Internet Research",
       "source_type": "期刊论文",
-      "published_at": "2026-09-24",
+      "published_at": "2026-09-28",
       "topics": [
         "hospital",
-        "research",
-        "regulation"
+        "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jmir"
         ],
         "retrieved_via": "rss",
         "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87806"
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e111711"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis"
+      ],
+      "recommendation_reasons": {
+        "research": "围绕帕金森病，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "围绕帕金森病，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105583",
+      "title": "替西帕肽支持的数字减肥服务中的同行推荐途径和 6 个月结果：回顾性队列研究",
+      "original_title": "Peer Referral Pathways and 6-Month Outcomes in a Tirzepatide-Supported Digital Weight Loss Service: Retrospective Cohort Study",
+      "summary": "在对澳大利亚 34,449 名使用无补贴、替西帕肽支持的数字减肥服务 (DWLS) 的成年人进行的回顾性分析中，通过同伴推荐进入的患者比倾向评分匹配的非推荐患者表现出更高的 6 个月计划依从性和更大的减肥百分比，这表明同伴推荐途径可能支持药物肥胖治疗的保留和有效性。",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e105583",
+      "source": "Journal of Medical Internet Research",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-28",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105583"
       },
       "sections": [
         "research"
@@ -717,10 +750,10 @@
         ]
       },
       "research_stages": [
-        "data"
+        "design"
       ],
       "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
@@ -837,6 +870,43 @@
       }
     },
     {
+      "id": "url:https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
+      "title": "继达芬奇 5 CE 标志后，Intuitive 重新进入欧洲心脏手术市场",
+      "original_title": "Intuitive re-enters European cardiac surgery market following da Vinci 5 CE mark",
+      "summary": "Intuitive 为达芬奇 5 在心脏手术中获得的 CE 标志标志着其近年来最明确的监管里程碑，为重新推动欧洲机器人心脏手术打开了大门。",
+      "url": "https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
+      "source": "Medical Device Network",
+      "source_type": "专业媒体",
+      "published_at": "2026-09-28",
+      "topics": [
+        "business",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "medical_device_network"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medical_device_network",
+        "upstream_id": "https://www.medicaldevice-network.com/?p=245403"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
+      }
+    },
+    {
       "id": "url:https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/",
       "title": "AI工作者需要试用期，而不仅仅是飞行员",
       "original_title": "AI Workers Need a Probation Period, Not Just a Pilot",
@@ -914,7 +984,7 @@
       "topics": [
         "hospital"
       ],
-      "event_type": "seen",
+      "event_type": "updated",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -934,6 +1004,45 @@
       "research_stages": [],
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e88257",
+      "title": "揭示医院网络攻击期间患者层面的伤害和高危临床群体：对全球案例研究和社交媒体数据的系统审查",
+      "original_title": "Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case Studies and Social Media Data",
+      "summary": "结论：我们的研究首次系统地将全球案例研究证据与大规模社交媒体数据相结合，以提供医疗网络攻击期间患者层面伤害的临床重点综合。由此产生的开源网络攻击影响、患者伤害和紧急响应 (CIPHER) 数据集将技术故障领域与整个护理环境中的下游临床风险联系起来。随着针对医疗保健组织的网络攻击的频率和严重性不断上升，网络安全和患者安全之间的界限变得越来越模糊，需要统一的框架，将数字弹性和临床准备视为对患者同样义务的不可分割的表达。结果：纳入了 59 项研究，在合并数据集中确定了 316 项患者级别的伤害。",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e88257",
+      "source": "Journal of Medical Internet Research",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-28",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e88257"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data"
+      ],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     }
