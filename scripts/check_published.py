@@ -26,7 +26,7 @@ def main() -> int:
     except Exception:issues=['无法读取或解析已发布的网站健康数据']
     if not issues:
         print('线上批次正常，无需通知。');return 0
-    message='循证奇点异常：'+'；'.join(issues)+'。\n请检查：https://github.com/zhangminton731-a11y/ai-health-intel/actions'
+    message='奇点医研异常：'+'；'.join(issues)+'。\n请检查：https://github.com/zhangminton731-a11y/ai-health-intel/actions'
     print(message)
     try:send(message)
     except Exception:print('::error::飞书通知发送失败，请检查机器人配置或网络。')

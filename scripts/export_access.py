@@ -27,10 +27,10 @@ def export_access(site: Path) -> None:
             'responses':{'200':{'description':'最近发布批次','content':{'application/json':{'schema':{
                 'type':'object','required':list(common)+list(properties),'properties':{**common,**properties}}}}},
                          '404':{'description':'尚未部署或路径不存在'}}}}
-    spec={'openapi':'3.1.0','info':{'title':'循证奇点 SIH 公共快照 API','version':'1.0.0'},
+    spec={'openapi':'3.1.0','info':{'title':'奇点医研 SIH 公共快照 API','version':'1.0.0'},
           'servers':[{'url':BASE.rstrip('/')}],'security':[],'paths':paths}
     (site/'openapi.json').write_text(json.dumps(spec,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    (site/'llms.txt').write_text(f'''# 循证奇点
+    (site/'llms.txt').write_text(f'''# 奇点医研
 
 > 面向临床研究者的 AI 科研信息与合作入口，兼顾企业 AI 升级。匿名只读，无需 API Key。
 
