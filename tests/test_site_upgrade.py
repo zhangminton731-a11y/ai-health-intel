@@ -28,6 +28,21 @@ class SourceTests(unittest.TestCase):
         result = self.collect('''<feed xmlns="http://www.w3.org/2005/Atom"><entry><id>x</id><title>Health device</title><link rel="self" href="https://example.org/api/x"/><link rel="alternate" href="https://example.org/article"/><published>2026-09-26</published></entry></feed>''')
         self.assertEqual('https://example.org/article', result.items[0]['url'])
 
+    def test_rss_retries_invalid_response_then_recovers(self):
+        xml='<rss><channel><item><title>Clinical AI</title><link>https://example.org/paper</link></item></channel></rss>'
+        with patch('sih_ref.sources._request_text',side_effect=['<rss>', '<html><body>Error</body></html>', xml]) as request, patch('sih_ref.sources.time.sleep'):
+            result=collect_source({'id':'test','kind':'rss','enabled':True,'url':'https://example.org/rss'},base_dir=ROOT,live=True,as_of=date(2026,9,28))
+        self.assertEqual('ok',result.status)
+        self.assertEqual(1,len(result.items))
+        self.assertEqual(3,request.call_count)
+
+    def test_rss_repeated_html_response_is_failed_not_empty_success(self):
+        with patch('sih_ref.sources._request_text',return_value='<html><body>Unavailable</body></html>') as request, patch('sih_ref.sources.time.sleep'):
+            result=collect_source({'id':'test','kind':'rss','enabled':True,'url':'https://example.org/rss'},base_dir=ROOT,live=True,as_of=date(2026,9,28))
+        self.assertEqual('failed',result.status)
+        self.assertIn('non-feed',result.error)
+        self.assertEqual(3,request.call_count)
+
 class RelevanceTests(unittest.TestCase):
     def score(self, title):
         profile = json.loads((ROOT/'config/profile.json').read_text(encoding='utf-8'))

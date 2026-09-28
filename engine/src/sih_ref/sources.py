@@ -165,7 +165,18 @@ def _rss(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
     url = normalize_url(source.get("url"))
     if not url:
         raise ValueError("RSS source requires an http(s) url")
-    root = ET.fromstring(_request_text(url))
+    # Some feeds intermittently return a truncated document or an HTML error page
+    # with HTTP 200. Retry parsing failures as well as transport failures.
+    for attempt in range(3):
+        try:
+            root = ET.fromstring(_request_text(url))
+            if root.tag not in ("rss", "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF", "{http://www.w3.org/2005/Atom}feed"):
+                raise ValueError("RSS endpoint returned a non-feed document")
+            break
+        except (ET.ParseError, ValueError):
+            if attempt == 2:
+                raise
+            time.sleep(0.5 * (2**attempt))
     items: list[dict[str, Any]] = []
     rss_ns = "{http://purl.org/rss/1.0/}"
     rss_items = root.findall(".//item") + root.findall(f".//{rss_ns}item")
