@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-09-28
 
-> Daily status: **complete** · sources 17/17 · items 243
+> Daily status: **complete_with_warning** · sources 16/17 · items 235
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -182,7 +182,7 @@ This week delivered a bountiful supply of big startup funding rounds, led by two
 
 - Source: `medcity_news` · published `2026-09-25` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/`
 
 <p><a href="https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029.jpg" class="attachment-large size-large wp-post-image" alt="data care" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>The question is whether these AI tools will be another fragmented layer of technology or true assistants to help them spend more time on patient care. </p> <p>The post <a href="https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/">AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -230,11 +230,11 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-09-27` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/`
 
 <p><a href="https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/"><img width="600" height="257" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-600x257.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-600x257.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-300x129.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-768x329.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013.jpg 903w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>As AI technology in healthcare becomes more deeply involved in the complex, high-stakes tasks of diagnosis and treatment planning, traditional lines of accountability will become less clear. Where does the buck stop for AI-supported medical care? </p> <p>The post <a href="https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/">When AI Gets Medicine Wrong, Who’s Liable?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-## Archive · 215
+## Archive · 207
 
 ### [AI-Based Approaches for the Identification and Quantification of Traumatic Brain Injury in Computed Tomography Imaging: Systematic Review](https://ai.jmir.org/2026/1/e87794/)
 
@@ -248,7 +248,7 @@ Background: Traumatic brain injury (TBI) is a leading cause of global disability
 
 - Source: `mit_health` · published `2026-02-03` · freshness `stale`
 - Topic relevance: `0.85` · novelty hint: `0.5`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203`
 
 WITEC is working to develop the first wearable ultrasound imaging system to monitor chronic conditions in real-time, with the goal of enabling earlier detection and timely intervention.
 
@@ -376,7 +376,7 @@ During a Senate hearing today, Heidi Overton, the nominee to lead the FDA, plans
 
 - Source: `mit_health` · published `2026-01-05` · freshness `stale`
 - Topic relevance: `0.4` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/mit-scientists-investigate-memorization-risk-clinical-ai-0105`
 
 New research demonstrates how AI models can be tested to ensure they don’t cause harm by revealing anonymized patient health data.
 
@@ -432,7 +432,7 @@ So far this year, global startups have secured at least 114 Series A rounds of $
 
 - Source: `mit_health` · published `2026-02-27` · freshness `stale`
 - Topic relevance: `0.31` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/mit-royalty-pharma-faculty-founder-initiative-supports-biotech-innovators-0227`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/mit-royalty-pharma-faculty-founder-initiative-supports-biotech-innovators-0227`
 
 Offering substantial prize funding alongside workshops, classes, and mentorship, the initiative helps translate early-stage biotech research into venture-ready innovation.
 
@@ -520,7 +520,7 @@ Kyverna Therapeutics is one step closer to launching the first cell therapy for 
 
 - Source: `medcity_news` · published `2026-09-25` · freshness `fresh`
 - Topic relevance: `0.31` · novelty hint: `0.5`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/09/adarx-ipo-small-interfering-rna-gene-silencing-sirna-hae-adrx/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/adarx-ipo-small-interfering-rna-gene-silencing-sirna-hae-adrx/`
 
 <p><a href="https://medcitynews.com/2026/09/adarx-ipo-small-interfering-rna-gene-silencing-sirna-hae-adrx/"><img width="600" height="337" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1359392488-600x337.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1359392488-600x337.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1359392488-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1359392488-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1359392488.jpg 788w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>ADARx Pharmaceuticals upsized its IPO and raised additional cash through a private placement with partner AbbVie. Lead ADARx program onvuzosiran is in Phase 3 testing for the rare disease hereditary angioedema, and the RNA therapies pipeline also spans immunological disorders, cardiovascular diseases and obesity, and neurodegeneration. </p> <p>The post <a href="https://medcitynews.com/2026/09/adarx-ipo-small-interfering-rna-gene-silencing-sirna-hae-adrx/">Gene Silencing-Biotech ADARx Makes Some Noise With $535M Stock Market Debut</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -560,7 +560,7 @@ Kyverna Therapeutics is one step closer to launching the first cell therapy for 
 
 - Source: `mit_health` · published `2025-11-14` · freshness `stale`
 - Topic relevance: `0.27` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114`
 
 Five volunteers received 40Hz stimulation for around two years after an early-stage clinical study. Those with late-onset Alzheimer’s performed better on assessments than Alzheimer’s patients outside the trial.
 
@@ -568,7 +568,7 @@ Five volunteers received 40Hz stimulation for around two years after an early-st
 
 - Source: `mit_health` · published `2025-12-03` · freshness `stale`
 - Topic relevance: `0.27` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203`
 
 MIT engineers show they can accurately measure blood glucose by shining near-infrared light on the skin.
 
@@ -680,7 +680,7 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 - Source: `medcity_news` · published `2026-09-18` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.5`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/`
 
 <p><a href="https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Ultragenyx_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Ultragenyx_headquarters.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Ultragenyx_headquarters-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Ultragenyx Pharmaceutical’s Fayuvi is now the first FDA-approved therapy for the underlying cause of Sanfilippo syndrome type A, an ultra-rare inherited neurological disorder. It’s the second approved gene therapy for Ultragenyx, which specializes in rare disease medicines. </p> <p>The post <a href="https://medcitynews.com/2026/09/ultragenyx-gene-therapy-fda-approval-sanfilippo-syndrome-type-a-fayuvi-mps-iiia-rare-disease/">Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -712,7 +712,7 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp">Healthcare organizations are using Google’s tech to build tools that address unique local healthcare needs.
 
@@ -772,14 +772,6 @@ Senators focused on asking Overton about vaccines, abortion, and vapes.
 
 The Readout LOUD is going international this week with a dispatch from Shanghai, along with notes on the FDA's Overton era.
 
-### [Does expansion of clinical trial capacity improve healthcare access?](https://www.nature.com/articles/s41591-026-04683-1)
-
-- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04683-1`
-
-No summary supplied by the source.
-
 ### [FDA clears Marani Health’s remote maternal monitoring system](https://www.medicaldevice-network.com/news/fda-clears-marani-health-maternal-remote-monitoring-system/)
 
 - Source: `medical_device_network` · published `2026-09-25` · freshness `fresh`
@@ -808,7 +800,7 @@ Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menth
 
 - Source: `medcity_news` · published `2026-09-25` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/`
 
 <p><a href="https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>When drug prices are too high for patients, physicians take on additional workload to find solutions. A newly released 2026 Physician Drug Cost Survey by RazorMetrics examined how prescription cost pressures affect physicians’ practices.</p> <p>The post <a href="https://medcitynews.com/2026/09/report-high-drug-costs-are-creating-hidden-burden-for-physicians/">Report: High Drug Costs Are Creating Hidden Burden for Physicians</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -832,7 +824,7 @@ President Trump’s nominee to lead the FDA was grilled by senators on hot butto
 
 - Source: `medcity_news` · published `2026-09-27` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.5`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/`
 
 <p><a href="https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1227710766-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1227710766-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1227710766-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1227710766-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1227710766.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Mirum Pharmaceuticals’ Atebrioz is the third FDA-approved drug for fibrodysplasia ossificans progressiva (FOP), but it brings advantages over the two other products for this rare disease that leads to bone growth in soft tissue. Mirum acquired Atebrioz from Incyte earlier this year. </p> <p>The post <a href="https://medcitynews.com/2026/09/mirum-pharmaceuticals-incyte-fda-approval-zilurgisertib-atebrioz-ultra-rare-disease-mirm-incy/">Mirum Pharma Pill Lands FDA Approval for Ultra-Rare Bone Growth Disorder</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -840,7 +832,7 @@ President Trump’s nominee to lead the FDA was grilled by senators on hot butto
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.21` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/ai-max-language-reporting-features/`
+- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/ai-max-language-reporting-features/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-600x600.format-webp.webp">We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages.
 
@@ -848,7 +840,7 @@ President Trump’s nominee to lead the FDA was grilled by senators on hot butto
 
 - Source: `mit_health` · published `2025-10-27` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027`
 
 A beloved member of the Department of Mechanical Engineering for nearly 60 years, Yannas helped save the lives of thousands of burn victims through his research and innovation.
 
@@ -856,7 +848,7 @@ A beloved member of the Department of Mechanical Engineering for nearly 60 years
 
 - Source: `mit_health` · published `2025-11-18` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118`
 
 The approach could transform large-scale biomanufacturing by enabling automated and contamination-conscious workflows for cell therapies, tissue engineering, and regenerative medicine.
 
@@ -864,7 +856,7 @@ The approach could transform large-scale biomanufacturing by enabling automated 
 
 - Source: `mit_health` · published `2025-11-25` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125`
 
 BoltzGen generates protein binders for any biological target from scratch, expanding AI’s reach from understanding biology toward engineering it.
 
@@ -872,7 +864,7 @@ BoltzGen generates protein binders for any biological target from scratch, expan
 
 - Source: `mit_health` · published `2025-12-03` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/new-bioadhesive-strategy-can-prevent-fibrous-encapsulation-around-device-implants-peripheral-1203`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/new-bioadhesive-strategy-can-prevent-fibrous-encapsulation-around-device-implants-peripheral-1203`
 
 Inspired by traditional acupuncture, the approach has potential to impact all implantable bioelectronic devices, enabling applications such as hypertension mitigation.
 
@@ -880,7 +872,7 @@ Inspired by traditional acupuncture, the approach has potential to impact all im
 
 - Source: `mit_health` · published `2025-12-04` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/alternate-proteins-same-gene-contribute-differently-health-disease-1204`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/alternate-proteins-same-gene-contribute-differently-health-disease-1204`
 
 New findings may help researchers identify genetic mutations that contribute to rare diseases, by studying when and how single genes produce multiple versions of proteins.
 
@@ -888,7 +880,7 @@ New findings may help researchers identify genetic mutations that contribute to 
 
 - Source: `mit_health` · published `2025-12-11` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/new-immunotherapeutic-targets-for-glioblastoma-1211`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/new-immunotherapeutic-targets-for-glioblastoma-1211`
 
 A study profiling antigens presented on immune and tumor cells in co-culture points to new strategies for attacking a treatment-resistant and deadly brain cancer.
 
@@ -896,7 +888,7 @@ A study profiling antigens presented on immune and tumor cells in co-culture poi
 
 - Source: `mit_health` · published `2025-12-12` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/mit-heals-leadership-charts-bold-path-convergence-health-life-sciences-1212`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/mit-heals-leadership-charts-bold-path-convergence-health-life-sciences-1212`
 
 Angela Koehler, Iain Cheeseman, and Katharina Ribbeck are shaping the collaborative as a platform for transformative research, translation, and talent development across MIT.
 
@@ -904,7 +896,7 @@ Angela Koehler, Iain Cheeseman, and Katharina Ribbeck are shaping the collaborat
 
 - Source: `mit_health` · published `2025-12-17` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/mit-hood-pediatric-innovation-hub-convenes-leaders-1217`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/mit-hood-pediatric-innovation-hub-convenes-leaders-1217`
 
 The Hood Pediatric Innovation Hub brings together clinicians, researchers, and industry to bridge the gap between discovery and care.<br>
 
@@ -912,7 +904,7 @@ The Hood Pediatric Innovation Hub brings together clinicians, researchers, and i
 
 - Source: `mit_health` · published `2025-12-22` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2025/mit-media-review-1222`
+- Event: `seen` · identity: `url:https://news.mit.edu/2025/mit-media-review-1222`
 
 MIT community members made headlines with key research advances and their efforts to tackle pressing challenges.
 
@@ -920,7 +912,7 @@ MIT community members made headlines with key research advances and their effort
 
 - Source: `mit_health` · published `2026-01-06` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/ai-generated-sensors-open-new-paths-early-cancer-detection-0106`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/ai-generated-sensors-open-new-paths-early-cancer-detection-0106`
 
 Nanoparticles coated with molecular sensors could be used to develop at-home tests for many types of cancer.
 
@@ -928,7 +920,7 @@ Nanoparticles coated with molecular sensors could be used to develop at-home tes
 
 - Source: `mit_health` · published `2026-01-07` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/celebrating-worm-science-0107`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/celebrating-worm-science-0107`
 
 Time and again, an unassuming roundworm has illuminated aspects of biology with major consequences for human health.
 
@@ -936,7 +928,7 @@ Time and again, an unassuming roundworm has illuminated aspects of biology with 
 
 - Source: `mit_health` · published `2026-01-23` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/cancers-secret-safety-net-0123`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/cancers-secret-safety-net-0123`
 
 Researchers uncover a hidden mechanism that allows cancer to develop aggressive mutations.
 
@@ -944,7 +936,7 @@ Researchers uncover a hidden mechanism that allows cancer to develop aggressive 
 
 - Source: `mit_health` · published `2026-01-23` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/richard-hynes-dies-0123`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/richard-hynes-dies-0123`
 
 Professor, mentor, and leader at MIT for more than 50 years shaped fundamental understandings of cell adhesion, the extracellular matrix, and molecular mechanisms of metastasis.
 
@@ -952,7 +944,7 @@ Professor, mentor, and leader at MIT for more than 50 years shaped fundamental u
 
 - Source: `mit_health` · published `2026-02-04` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204`
 
 Professor James Collins discusses how collaboration has been central to his research into combining computational predictions with new experimental platforms.
 
@@ -960,7 +952,7 @@ Professor James Collins discusses how collaboration has been central to his rese
 
 - Source: `mit_health` · published `2026-02-10` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/new-window-on-brainstem-ai-algorithm-enables-tracking-white-matter-pathways-0210`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/new-window-on-brainstem-ai-algorithm-enables-tracking-white-matter-pathways-0210`
 
 Opening a new window on the brainstem, a new tool reliably and finely resolves distinct nerve bundles in live diffusion MRI scans, revealing signs of injury or disease.
 
@@ -968,7 +960,7 @@ Opening a new window on the brainstem, a new tool reliably and finely resolves d
 
 - Source: `mit_health` · published `2026-02-10` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/magnetic-mixer-improves-3d-bioprinting-0210`
 
 MagMix, an onboard mixing device, enables scalable manufacturing of 3D-printed tissues.
 
@@ -976,7 +968,7 @@ MagMix, an onboard mixing device, enables scalable manufacturing of 3D-printed t
 
 - Source: `mit_health` · published `2026-02-11` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/using-synthetic-biology-ai-address-global-antimicrobial-resistance-0211`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/using-synthetic-biology-ai-address-global-antimicrobial-resistance-0211`
 
 Driven by overuse and misuse of antibiotics, drug-resistant infections are on the rise, while development of new antibacterial tools has slowed.
 
@@ -984,7 +976,7 @@ Driven by overuse and misuse of antibiotics, drug-resistant infections are on th
 
 - Source: `mit_health` · published `2026-02-18` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/bridging-science-and-society-in-emerging-bioeconomy-0218`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/bridging-science-and-society-in-emerging-bioeconomy-0218`
 
 In STS.059 (The Bioeconomy and Society), students explore the social and political factors at work in the biology, biotech, and biological engineering sectors.
 
@@ -992,7 +984,7 @@ In STS.059 (The Bioeconomy and Society), students explore the social and politic
 
 - Source: `mit_health` · published `2026-02-20` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/fragile-x-study-uncovers-brainwave-biomarker-bridging-humans-mice-0220`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/fragile-x-study-uncovers-brainwave-biomarker-bridging-humans-mice-0220`
 
 Researchers find mice modeling the autism spectrum disorder fragile X syndrome exhibit the same pattern of differences in low-frequency waves as humans — a new marker for treatment studies.
 
@@ -1000,7 +992,7 @@ Researchers find mice modeling the autism spectrum disorder fragile X syndrome e
 
 - Source: `mit_health` · published `2026-03-03` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/injectable-satellite-livers-could-offer-alternative-liver-transplantation-0303`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/injectable-satellite-livers-could-offer-alternative-liver-transplantation-0303`
 
 The engineered tissue grafts could take on the liver’s function and help thousands of people with liver failure.
 
@@ -1008,7 +1000,7 @@ The engineered tissue grafts could take on the liver’s function and help thous
 
 - Source: `mit_health` · published `2026-03-10` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310`
 
 Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.
 
@@ -1016,7 +1008,7 @@ Assistant Professor Matthew Jones is working to decode molecular processes on th
 
 - Source: `mit_health` · published `2026-03-12` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312`
 
 Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.
 
@@ -1024,7 +1016,7 @@ Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a
 
 - Source: `mit_health` · published `2026-03-16` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316`
 
 The technology could enable fast, point-of-care diagnoses for pneumonia and other lung conditions.
 
@@ -1032,7 +1024,7 @@ The technology could enable fast, point-of-care diagnoses for pneumonia and othe
 
 - Source: `mit_health` · published `2026-03-20` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/li-huei-tsai-to-sharpen-focus-on-research-teaching-0320`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/li-huei-tsai-to-sharpen-focus-on-research-teaching-0320`
 
 Tsai, who has grown the MIT neuroscience institute, will increase focus on research including Alzheimer’s disease and Down syndrome.
 
@@ -1040,7 +1032,7 @@ Tsai, who has grown the MIT neuroscience institute, will increase focus on resea
 
 - Source: `mit_health` · published `2026-03-22` · freshness `stale`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/bridging-medical-realities-tech-health-amy-moran-thomas-0322`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/bridging-medical-realities-tech-health-amy-moran-thomas-0322`
 
 Anthropologist Amy Moran-Thomas studies overlooked insights from people health care is meant to reach.
 
@@ -1464,7 +1456,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-09-22` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/`
 
 Smallholder farmers produce nearly 35% of the world’s food across more than 500 million farms, yet they often lack access to the satellite data, financial services, and …
 
@@ -1472,7 +1464,7 @@ Smallholder farmers produce nearly 35% of the world’s food across more than 50
 
 - Source: `fitbit_google_blog` · published `2026-09-22` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp">Google is providing 100,000 scholarships to the International Telecommunication Union (ITU) through the AI Skills Coalition.
 
@@ -1504,7 +1496,7 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp">Explore 6 new tools in Google Flow built by creatives, for creatives.
 
@@ -1512,7 +1504,7 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp">The latest updates from Android Enterprise are designed to help IT teams safeguard corporate data while giving workers room to innovate.
 
@@ -1520,7 +1512,7 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp">Gemini is adding new Connected Apps, including Adobe, Airtable, Linear, Peloton and more to help you easily tackle your to-do list.
 
@@ -1544,7 +1536,7 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-audio__keyword__metacard.max-600x600.format-webp.webp">Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.
 
@@ -1560,7 +1552,7 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp">YouTube introduced updates that make the platform smarter, more personal and easier to navigate.
 
@@ -1571,14 +1563,6 @@ Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 M
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/09/roche-rare-kidney-disease-sefaxersen-nephropathy-igan-aso-rhhby/`
 
 <p><a href="https://medcitynews.com/2026/09/roche-rare-kidney-disease-sefaxersen-nephropathy-igan-aso-rhhby/"><img width="600" height="335" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-600x335.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-600x335.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077-768x428.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1156991077.jpg 791w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Roche reported the drug sefaxersen achieved statistically significant and clinically meaningful results in a Phase 3 test in immunoglobulin A nephropathy, or IgAN. This antisense oligonucleotide, which came from Ionis Pharmaceuticals, could offer advantages over other drugs currently available for treating this rare chronic disease of the kidneys.</p> <p>The post <a href="https://medcitynews.com/2026/09/roche-rare-kidney-disease-sefaxersen-nephropathy-igan-aso-rhhby/">Phase 3 Data Could Make Roche Drug a Contender to Treat Rare Kidney Disease`</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Sex and gender differences belong in treatment guidelines](https://www.nature.com/articles/s41591-026-04672-4)
-
-- Source: `nature_medicine` · published `2026-09-23` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04672-4`
-
-No summary supplied by the source.
 
 ### [Substances considered as not falling within the scope of Regulation (EC) No. 470/2009, with regard to residues of veterinary medicinal products in foodstuffs of animal origin](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/substances-considered-not-falling-within-scope-regulation-ec-no-470-2009-regard-residues-veterinary-medicinal-products-foodstuffs-animal-origin_en.pdf)
 
@@ -1608,7 +1592,7 @@ As AI agents gain access to enterprise data, systems and tools, they are emergin
 
 - Source: `fitbit_google_blog` · published `2026-09-23` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif">Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.
 
@@ -1659,22 +1643,6 @@ As AI agents gain access to enterprise data, systems and tools, they are emergin
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp">Learn about Project Suncatcher, how we’re testing hardware survival for space, designing cooling systems for AI chips, and more.
-
-### [Developing cancer-control policies to address the cancer burden among young adults](https://www.nature.com/articles/s41591-026-04653-7)
-
-- Source: `nature_medicine` · published `2026-09-24` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04653-7`
-
-No summary supplied by the source.
-
-### [Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial](https://www.nature.com/articles/s41591-026-04700-3)
-
-- Source: `nature_medicine` · published `2026-09-24` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04700-3`
-
-No summary supplied by the source.
 
 ### [Helping 25,000 veterans and military families build careers in skilled trades](https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/)
 
@@ -1812,22 +1780,6 @@ The PKG Center for Social Impact expands Code.Tulsa experiential learning progra
 
 “Arguing over whether someone died ‘with’ or ‘of’ a disease gets us stuck on the last thing that happened.” write two Unbiased Science scientists.
 
-### [Polygenic scores in the NHS: the debate is not primarily about the evidence](https://www.nature.com/articles/s41591-026-04684-0)
-
-- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04684-0`
-
-No summary supplied by the source.
-
-### [Redesigning cardiovascular medicine around sex differences](https://www.nature.com/articles/s41591-026-04659-1)
-
-- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04659-1`
-
-No summary supplied by the source.
-
 ### [STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic](https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-09-25` · freshness `fresh`
@@ -1851,14 +1803,6 @@ Advanced Research Projects Agency for Health is planning a total-lifespan resear
 - Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/09/25/up-and-down-the-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss`
 
 From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
-
-### [The next phase of translational medicine must bridge the gap between innovation to impact](https://www.nature.com/articles/s41591-026-04681-3)
-
-- Source: `nature_medicine` · published `2026-09-25` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04681-3`
-
-No summary supplied by the source.
 
 ### [Development and validation of a parsimonious AI-based mortality risk score for heart failure](https://www.nature.com/articles/s41746-026-03258-1)
 
@@ -1912,7 +1856,7 @@ President Trump is canceling nearly $1 billion in spending approved by Congress,
 
 - Source: `medcity_news` · published `2026-09-27` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/09/fifty-years-of-pediatric-rheumatology-but-children-still-cant-access-the-treatments-they-need/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/fifty-years-of-pediatric-rheumatology-but-children-still-cant-access-the-treatments-they-need/`
 
 <p><a href="https://medcitynews.com/2026/09/fifty-years-of-pediatric-rheumatology-but-children-still-cant-access-the-treatments-they-need/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-600x400.jpg" class="attachment-large size-large wp-post-image" alt="pediatric kids children" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>As a country, we have developed treatments capable of improving the quality of life and preventing long-term damage for children with rheumatic conditions, yet many children cannot obtain them when they need them most. This needs to change.</p> <p>The post <a href="https://medcitynews.com/2026/09/fifty-years-of-pediatric-rheumatology-but-children-still-cant-access-the-treatments-they-need/">Fifty Years of Pediatric Rheumatology, but Children Still Can&#8217;t Access the Treatments They Need</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -1920,7 +1864,7 @@ President Trump is canceling nearly $1 billion in spending approved by Congress,
 
 - Source: `medcity_news` · published `2026-09-27` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/`
 
 <p><a href="https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2019/06/GettyImages-954688848-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2019/06/GettyImages-954688848-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2019/06/GettyImages-954688848-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2019/06/GettyImages-954688848-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2019/06/GettyImages-954688848-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2019/06/GettyImages-954688848.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>What are the common reasons that a prototype fails to make the transition? There are several, but they all boil down to early-stage programs ignoring the business problem in favor of the technology problem. </p> <p>The post <a href="https://medcitynews.com/2026/09/medtech-commercialization-gap-moving-beyond-technical-viability/">MedTech Commercialization Gap: Moving Beyond Technical Viability </a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -1928,17 +1872,9 @@ President Trump is canceling nearly $1 billion in spending approved by Congress,
 
 - Source: `hn_ai_health_signals` · published `2026-09-26` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://ampdot.mesh.host/token-space-fonts.html`
+- Event: `seen` · identity: `url:https://ampdot.mesh.host/token-space-fonts.html`
 
 Hacker News community signal; score 87.
-
-### [Embryo editing and embryo selection need joint governance](https://www.nature.com/articles/s41591-026-04669-z)
-
-- Source: `nature_medicine` · published `2026-09-23` · freshness `fresh`
-- Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04669-z`
-
-No summary supplied by the source.
 
 ### [Notice of Informational Webinar on the NIGMS Tribal Undergraduate to Graduate Research Training and Leadership Experiences (TURTLE) Program](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-001.html)
 
