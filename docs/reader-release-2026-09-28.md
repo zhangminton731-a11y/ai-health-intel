@@ -18,4 +18,22 @@
 ## 来源与复现
 政策明细及每项官方链接见 config/policy_timeline.json，页面 #policy。历史补采执行 scripts/backfill_history.py，报告 output/history-backfill-report.json。欧洲 PMC 历史接口返回 503，未使用该失败请求的数据；改用 MedCity News 公开 RSS 分页，四页各 30 条成功后按日期、健康与技术相关性筛选。
 
-部署及公网验证结果在下方续记。
+## 上线与公网复验
+
+PR #3 已合并。首轮 Pages 部署成功；随后手动触发 main 的自动采集工作流 36372433384，再由工作流触发 Pages 部署 36372458589，均成功。
+
+最新云端批次：2026-09-28 11:07:14 北京；Nature Medicine 返回不可解析内容，16/17 来源成功，状态 complete_with_warning。页面显示部分来源不可用，当前仍有 28 条推荐（科研16、产业12），另有20条历史补充，共48条。最早原文日期9月9日。
+
+公网的三项核心 API、RSS、Skill/MCP 下载包和说明、OpenAPI、llms.txt 均 HTTP 200。通过公网下载的 MCP 包原样启动真实 stdio，工具发现以及健康、论文筛选、日报、空结果调用成功。API 按 OpenAPI 校验，RSS 与 API 的28条内容一致。线上政策与历史 JSON 和页面一致，二维码字节与用户原图完全相同。
+
+线上 HTML 的 DOM 执行无错误，科研16/16、产业12/12条推荐理由可见，政策地图12节点、合作3项。这里仍不是视觉或安卓真机验收。
+
+发现并修正验证脚本对 Linux LF / Windows CRLF 的字节差异误报；比较全部文本内容，下载包仍保持原样运行。
+
+尚未实测 Skill 在具体 Agent 客户端的安装触发、第三方 RSS 阅读器和实际扫码入群。仓库没有配置飞书 secrets，异常通知未启用。
+
+- 网站：https://zhangminton731-a11y.github.io/ai-health-intel/
+- 政策：https://zhangminton731-a11y.github.io/ai-health-intel/#policy
+- 自动采集：https://github.com/zhangminton731-a11y/ai-health-intel/actions/runs/36372433384
+- 发布：https://github.com/zhangminton731-a11y/ai-health-intel/actions/runs/36372458589
+

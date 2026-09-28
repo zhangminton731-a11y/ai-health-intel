@@ -73,7 +73,8 @@ async def verify_local(base):
     assert set(package.namelist()) == {'sih-mcp/server.py', 'sih-mcp/README.md', 'sih-mcp/requirements.txt'}
     with tempfile.TemporaryDirectory() as folder:
         for name in package.namelist():
-            assert package.read(name) == (ROOT/'integrations/mcp'/Path(name).name).read_bytes()
+            # GitHub Linux builds use LF; Windows checkouts may use CRLF.
+            assert package.read(name).decode('utf-8').replace('\r\n', '\n') == (ROOT/'integrations/mcp'/Path(name).name).read_text(encoding='utf-8')
             package.extract(name, folder)
         # Exercise the downloaded server unchanged; only route its test requests
         # to this local HTTP copy of the publication, not a stub loader.
