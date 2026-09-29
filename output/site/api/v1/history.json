@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-29T06:55:27+00:00",
+  "generated_at": "2026-09-29T14:05:03+00:00",
   "as_of": "2026-09-29",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -146,6 +146,53 @@
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
         "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
+      "t": "FDA 授予 Glytec 的 Glucommander 儿科突破性认定",
+      "te": "FDA grants breakthrough designation to Glytec’s Glucommander Pediatrics",
+      "s": "美国 FDA 已授予 Glytec 提出的胰岛素剂量推荐算法 Glucommander Pediatrics 突破性设备称号，该算法适用于住院新生儿和两岁以下婴儿。",
+      "se": "The US FDA has granted breakthrough device designation to Glytec’s proposed insulin dosing recommendation algorithm, Glucommander Pediatrics, for hospitalised newborns and infants under two years old.",
+      "u": "https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
+      "src": "Medical Device Network",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "technology",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medical_device_network"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medical_device_network",
+        "upstream_id": "https://www.medicaldevice-network.com/?p=245341"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 41.0,
+      "when": "4 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
       },
       "historical": true
     },
@@ -1273,6 +1320,7 @@
       "date": "2026-09-25",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
+        "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e93413"
       ],
       "minutes": 2

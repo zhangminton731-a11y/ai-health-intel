@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-29T06:55:27+00:00",
+  "generated_at": "2026-09-29T14:05:03+00:00",
   "as_of": "2026-09-29",
   "item_ids": [
     "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
@@ -33,9 +33,9 @@
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e78718",
         "url:https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
-        "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
         "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e87047"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e87047",
+        "url:https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/"
       ],
       "minutes": 3
     },

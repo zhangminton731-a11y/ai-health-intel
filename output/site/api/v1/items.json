@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-29T06:55:27+00:00",
+  "generated_at": "2026-09-29T14:05:03+00:00",
   "as_of": "2026-09-29",
-  "count": 28,
+  "count": 27,
   "items": [
     {
       "id": "url:https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
@@ -130,7 +130,7 @@
         "consumer",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "updated",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -460,44 +460,6 @@
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-      "title": "FDA 授予 Glytec 的 Glucommander 儿科突破性认定",
-      "original_title": "FDA grants breakthrough designation to Glytec’s Glucommander Pediatrics",
-      "summary": "美国 FDA 已授予 Glytec 提出的胰岛素剂量推荐算法 Glucommander Pediatrics 突破性设备称号，该算法适用于住院新生儿和两岁以下婴儿。",
-      "url": "https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-      "source": "Medical Device Network",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-25",
-      "topics": [
-        "hospital",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245341"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "technology",
-          "regulation"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
       }
     },
     {
