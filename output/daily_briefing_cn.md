@@ -8,10 +8,10 @@ Journal of Medical Internet Research · 2026-09-28
 https://www.jmir.org/article/view/jmir_v28i1e96374
 
 02 · 市场准入
-继达芬奇 5 CE 标志后，Intuitive 重新进入欧洲心脏手术市场
-Intuitive 为达芬奇 5 在心脏手术中获得的 CE 标志标志着其近年来最明确的监管里程碑，为重新推动欧洲机器人心脏手术打开了大门。
-Medical Device Network · 2026-09-28
-https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/
+DreaMed 获得 FDA 批准，用于 CGM 驱动的胰岛素自动化工具，适用于两种 2 型注射方案
+DreaMed Diabetes 的 MODI 已获得 FDA 510(K) 许可，MODI 是一款移动应用程序，使用 CGM（连续血糖监测）数据为需要基础胰岛素和速效注射的 2 型糖尿病患者提供胰岛素剂量建议。
+MedCity News · 2026-09-28
+https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/
 
 03 · 技术进展
 GE HealthCare 探索将生成式人工智能应用于放射治疗工作流程

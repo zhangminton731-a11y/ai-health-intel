@@ -1,17 +1,12 @@
 {
-  "checks": [
-    {
-      "count": 8,
-      "kind": "rss_atom"
-    }
-  ],
+  "checks": [],
   "enabled": true,
-  "error": "",
-  "generated_at": "2026-09-28T20:07:44+00:00",
-  "item_count": 8,
+  "error": "ParseError: not well-formed (invalid token): line 14, column 4",
+  "generated_at": "2026-09-29T01:00:09+00:00",
+  "item_count": 0,
   "required": false,
   "role": "supplemental",
   "source_id": "npj_digital_medicine",
   "source_kind": "rss",
-  "status": "ok"
+  "status": "failed"
 }
