@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-30T06:44:17+00:00",
+  "generated_at": "2026-09-30T13:44:32+00:00",
   "as_of": "2026-09-30",
   "count": 26,
   "items": [
@@ -461,6 +461,44 @@
       }
     },
     {
+      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
+      "title": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
+      "original_title": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03277-y",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-29",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e94896",
       "title": "数字化对荷兰医院绩效的影响：纵向定量研究",
       "original_title": "Impact of Digitalization on Performance of Dutch Hospitals: Longitudinal Quantitative Study",
@@ -676,44 +714,6 @@
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105583",
-      "title": "替西帕肽支持的数字减肥服务中的同行推荐途径和 6 个月结果：回顾性队列研究",
-      "original_title": "Peer Referral Pathways and 6-Month Outcomes in a Tirzepatide-Supported Digital Weight Loss Service: Retrospective Cohort Study",
-      "summary": "在对澳大利亚 34,449 名使用无补贴、替西帕肽支持的数字减肥服务 (DWLS) 的成年人进行的回顾性分析中，通过同伴推荐进入的患者比倾向评分匹配的非推荐患者表现出更高的 6 个月计划依从性和更大的减肥百分比，这表明同伴推荐途径可能支持药物肥胖治疗的保留和有效性。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e105583",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-28",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105583"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {

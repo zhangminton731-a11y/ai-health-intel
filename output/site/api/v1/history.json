@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-30T06:44:17+00:00",
+  "generated_at": "2026-09-30T13:44:32+00:00",
   "as_of": "2026-09-30",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -148,6 +148,53 @@
       "reasons": {
         "research": "围绕帕金森病，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
         "industry": "围绕帕金森病，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105583",
+      "t": "替西帕肽支持的数字减肥服务中的同行推荐途径和 6 个月结果：回顾性队列研究",
+      "te": "Peer Referral Pathways and 6-Month Outcomes in a Tirzepatide-Supported Digital Weight Loss Service: Retrospective Cohort Study",
+      "s": "在对澳大利亚 34,449 名使用无补贴、替西帕肽支持的数字减肥服务 (DWLS) 的成年人进行的回顾性分析中，通过同伴推荐进入的患者比倾向评分匹配的非推荐患者表现出更高的 6 个月计划依从性和更大的减肥百分比，这表明同伴推荐途径可能支持药物肥胖治疗的保留和有效性。",
+      "se": "In a retrospective analysis of 34,449 adults using an unsubsidized, tirzepatide-supported digital weight loss service (DWLS) in Australia, patients entering via peer referral showed higher 6-month program adherence and greater percentage weight loss than propensity score–matched nonreferred patients, suggesting that peer referral pathways may support retention and effectiveness in medicated obesity care.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e105583",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105583"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 29.0,
+      "when": "2 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -1615,10 +1662,11 @@
       "date": "2026-09-28",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e105583",
         "url:https://www.jmir.org/article/view/jmir_v28i1e111711",
         "url:https://www.jmir.org/article/view/jmir_v28i1e88257"
       ],
-      "minutes": 2
+      "minutes": 3
     },
     {
       "date": "2026-09-25",
