@@ -1,9 +1,156 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-29T14:05:03+00:00",
-  "as_of": "2026-09-29",
+  "generated_at": "2026-09-30T00:28:07+00:00",
+  "as_of": "2026-09-30",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
+      "t": "低收入国家药物警戒人工智能的治理：系统视角",
+      "te": "Governing AI for Pharmacovigilance in Low-Income Countries: Systems Perspective",
+      "s": "尽管人工智能有望在低收入国家（LIC）提供更好的药物警戒，但随着人工智能的采用，药物治理的差距可能会扩大。虽然像澳大利亚这样的先进监管体系正在将人工智能纳入药品治理，但南苏丹等监管能力欠发达的低收入国家却落后了。这种潜在的分歧扰乱了世界卫生组织的“无害医学”议程和有效的全球药物警戒。此外，不断发展的全球治理举措，包括新成立的联合国人工智能科学小组，可能会因全球能力差异而受到阻碍。",
+      "se": "Gaps in pharmaceutical governance could widen with the adoption of AI, even as AI promises better pharmacovigilance in low-income countries (LICs). While advanced regulatory systems like Australia’s are integrating AI into pharmaceutical governance, LICs with underdeveloped regulatory capabilities, such as South Sudan, lag behind. The potential divergence disorients the World Health Organization’s “Medicine Without Harm” agenda and effective global pharmacovigilance. Moreover, evolving global governance initiatives, including the newly established United Nations scientific panel on AI, may be hampered by this global divergence in capabilities.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e96374",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96374"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 57.0,
+      "when": "2 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e88257",
+      "t": "揭示医院网络攻击期间患者层面的伤害和高危临床群体：对全球案例研究和社交媒体数据的系统审查",
+      "te": "Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case Studies and Social Media Data",
+      "s": "结论：我们的研究首次系统地将全球案例研究证据与大规模社交媒体数据相结合，以提供医疗网络攻击期间患者层面伤害的临床重点综合。由此产生的开源网络攻击影响、患者伤害和紧急响应 (CIPHER) 数据集将技术故障领域与整个护理环境中的下游临床风险联系起来。随着针对医疗保健组织的网络攻击的频率和严重性不断上升，网络安全和患者安全之间的界限变得越来越模糊，需要统一的框架，将数字弹性和临床准备视为对患者同样义务的不可分割的表达。结果：纳入了 59 项研究，在合并数据集中确定了 316 项患者级别的伤害。",
+      "se": "Conclusions: Our study is the first to systematically integrate global case study evidence with large-scale social media data to provide a clinically focused synthesis of patient-level harms during health care cyberattacks. The resulting open-source Cyberattack Impacts, Patient Harms & Emergency Response (CIPHER) dataset links technical failure domains to downstream clinical risks across care settings. As cyberattacks on health care organizations continue to rise in frequency and severity, the boundary between cybersecurity and patient safety has become increasingly blurred, demanding unified frameworks that treat digital resilience and clinical preparedness as inseparable expressions of the same obligation to patients. Results: Fifty-nine studies were included, from which 316 patient-level harms were identified across the combined datasets.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e88257",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e88257"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 23.0,
+      "when": "2 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e111711",
+      "t": "客观、临床、基于声音的帕金森病表征需要明确的机制因果分析或干预试验",
+      "te": "Explicit Mechanistic Causal Analyses or Interventional Trials Are Required for Objective, Clinical, Voice-Based Parkinson Disease Characterization",
+      "s": "对于大多数帕金森病患者来说，运动障碍、声音和言语都会在某种程度上受到损害，这提供了使用数字录音和复杂的机器学习来协助客观临床表征病情的机会。然而，正如 Shukla 等人在 2026 年 8 月 20 日的论文中强调的那样，临时观测数据集通常包含无法进行纯粹统计分析的虚假因果关联。该评论认为，需要因果推理以及最终的诊断临床试验来建立疾病和算法预测之间的直接机制关系。",
+      "se": "For most with Parkinson disease, a movement disorder, voice and speech are impaired at some point, which presents an opportunity to use digital recordings and sophisticated machine learning to assist objective clinical characterization of the condition. However, as highlighted by Shukla et al in their August 20, 2026 paper, ad-hoc observational datasets typically contain spurious causal associations that escape a purely statistical analysis. This commentary argues that causal inference, and ultimately, diagnostic clinical trials, are required to establish a direct mechanistic relationship between disease and algorithm predictions.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e111711",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e111711"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 29.0,
+      "when": "2 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "围绕帕金森病，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "围绕帕金森病，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03312-y",
       "t": "高血压患者远程监测的实施：电子健康记录数据的二次分析",
@@ -43,7 +190,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-26",
       "reasons": {
         "research": "围绕血压与慢病管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -92,7 +239,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -141,7 +288,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -188,11 +335,58 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 41.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e98432",
+      "t": "儿科医疗保健聊天机器人的证据和未来方向：系统回顾",
+      "te": "Evidence and Future Directions for Pediatric Health Care Chatbots: Systematic Review",
+      "s": "结论：儿科医疗保健聊天机器人正在不同的医疗保健环境中出现，但目前的证据仍然有限且异构。本次审查确定了与发展相关的考虑因素，包括护理人员的参与、适合年龄的沟通和发展差异，这些因素可能需要在未来的聊天机器人设计、评估和实施中得到明确的关注。结果：共纳入 9 项研究，其中 5 项（55.6%）仅涉及儿科受试者，4 项（44.4%）涉及护理人员。六项（66.7%）研究缺乏比较器，并且只有 3 项（33.3%）聊天机器人是基于人工智能的。健康和心理社会结果参差不齐，尽管有一些主观改善，但客观临床指标经常显示无效结果。行为和认知结果通常显示出有利的变化，但很大程度上依赖于主观评估。",
+      "se": "Conclusions: Pediatric health care chatbots are emerging across diverse health care contexts, but the current evidence remains limited and heterogeneous. This review identified developmentally relevant considerations, including caregiver involvement, age-appropriate communication, and developmental differences, that may warrant explicit attention in future chatbot design, evaluation, and implementation. Results: A total of 9 studies were included, with 5 (55.6%) involving pediatric participants only, while 4 (44.4%) involved caregivers. Six (66.7%) studies lacked a comparator, and only 3 (33.3%) chatbots were AI-based. Health and psychosocial outcomes were mixed, often showing null findings in objective clinical metrics despite some subjective improvements. Behavioral and cognitive outcomes generally showed favorable changes but relied heavily on subjective evaluations.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e98432",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e98432"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 27.0,
+      "when": "5 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "围绕精神心理健康，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "围绕精神心理健康，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -233,7 +427,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕卒中研究，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -282,11 +476,198 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕帕金森病，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "围绕帕金森病，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87047",
+      "t": "2020年以来美国放弃监护人许可用于儿科数字健康干预研究的情况：系统评价",
+      "te": "The Use of Waivers of Guardian Permission in the United States for Pediatric Digital Health Intervention Research Since 2020: Systematic Review",
+      "s": "结论：虽然存在多个框架来评估关于在研究中放弃未成年人监护人许可的道德规范，但这是第一次系统地评估 DHI 中的研究，而 DHI 的风险水平往往各不相同。尽管小样本量和可变的报告实践限制了统计能力，但使用豁免的研究和未使用豁免的研究之间样本特征或研究特征缺乏差异，这表明机构审查委员会可能对豁免监护人许可的法规和指南有不同的解释。这些发现可能表明需要更多的证据来指导风险和收益评估，或者需要对现有证据基础以及儿科 DHI 研究的风险和潜在收益进行更多教育。",
+      "se": "Conclusions: Though several frameworks exist for evaluating ethics around waiving guardian permission for minors in research, this is the first review to systematically evaluate research in DHI, which often varies in terms of its level of risk. Although small sample sizes and variable reporting practices limited statistical power, the lack of differences in sample characteristics or study features between studies that used waivers and those that did not suggests that institutional review boards may be differentially interpreting regulations and guidance on waiving guardian permission. These findings likely indicate the need for more evidence to guide risk and benefit evaluations—or more education about the existing evidence base, as well as the risks and potential benefits of pediatric DHI research.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e87047",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research",
+        "regulation"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87047"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 57.0,
+      "when": "5 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e84915",
+      "t": "使用随机试验第二版 Cochrane 偏倚风险工具评估大型语言模型在偏倚风险评估中的准确性：探索性可行性研究",
+      "te": "Evaluating the Accuracy of Large Language Models in Risk-of-Bias Assessment Using Version 2 of the Cochrane Risk-of-Bias Tool for Randomized Trials: Exploratory Feasibility Study",
+      "s": "结论：在这项探索性研究中，ChatGPT 使用 ROB 2 在随机对照试验中评估 ROB 时表现出中等准确性和高度一致性。然而，在需要解释隐含叙述或行为细微差别的复杂场景中，其可靠性会降低。这些发现表明，大语言模型可以通过充当自动筛选器来支持系统评价中的方法学评估，以减轻审稿人的负担，但目前的实施仍然需要专家监督，特别是对于涉及主观结果或非标准报告的试验。结果：大语言模型在第一次评估中表现出中等的聚合领域准确度，为 73.1% (95% CI 64.7%-81.5%)，在第二次评估中为 75.9% (95% CI 66.3%-85.4%)。",
+      "se": "Conclusions: In this exploratory study, ChatGPT demonstrated moderate accuracy and high consistency in assessing ROB in RCTs using the ROB 2. However, its reliability diminished in complex scenarios requiring interpretation of implicit narratives or behavioral nuance. These findings suggest that LLMs may support methodological evaluations in systematic reviews by acting as automated screeners to reduce reviewer burden, but current implementation still requires expert oversight, particularly for trials involving subjective outcomes or nonstandard reporting. Results: The LLM demonstrated a moderate aggregate domain accuracy of 73.1% (95% CI 64.7%-81.5%) in the first assessment and 75.9% (95% CI 66.3%-85.4%) in the second assessment.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e84915",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e84915"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 27.0,
+      "when": "5 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e78718",
+      "t": "人工智能使用光电体积描记法诊断阻塞性睡眠呼吸暂停的准确性：系统评价和荟萃分析",
+      "te": "Accuracy of Artificial Intelligence in Diagnosing Obstructive Sleep Apnea Using Photoplethysmography: Systematic Review and Meta-Analysis",
+      "s": "结论：在 PPG 上训练的 AI 模型具有合理的准确性，并且有可能作为一种低成本的筛选工具。然而，样本量小、潜在偏差来源、某些地理区域代表性不足以及潜在混杂因素的影响等限制凸显了进一步研究的必要性。未来的工作应侧重于深度学习，以提高这种方法在初级保健中的可行性和可及性。试用注册：PROSPERO CRD42024534235；  结果：我们从 12,579 条记录中纳入了 13 项研究，涉及 9983 名参与者。所有研究的偏倚风险均被评为低或不清楚。总体证据质量中等。",
+      "se": "Conclusions: AI models trained on PPG have reasonable accuracy and may potentially serve as a low-cost screening tool. However, limitations such as small sample sizes, potential sources of bias, underrepresentation of certain geographic regions, and the influence of potential confounding factors highlight the necessity for further research. Future work should focus on deep learning to improve the feasibility and accessibility of this approach in primary care. Trial Registration: PROSPERO CRD42024534235; https://www.crd.york.ac.uk/PROSPERO/view/CRD42024534235 Results: From 12,579 records, we included 13 studies, comprising 9983 participants. All studies were rated as either low or unclear for risk of bias. The overall evidence quality was moderate.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e78718",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e78718"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 98.0,
+      "when": "5 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "围绕睡眠与呼吸监测，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "围绕睡眠与呼吸监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
+      "t": "奥兹表示，人工智能会先抬高医疗成本，然后再降低医疗成本",
+      "te": "AI will inflate healthcare costs before lowering them, Oz says",
+      "s": "CMS 管理员 Mehmet Oz 博士周三警告说，人工智能将在短期内“涡轮增压”医疗账单并推高成本。但他表示，为了长期节省开支，这种痛苦是值得的。",
+      "se": "AI will “turbocharge” medical billing and drive up costs in the short term, CMS Administrator Dr. Mehmet Oz warned Wednesday. But he says the pain is worth it for long-term savings.",
+      "u": "https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
+      "src": "MedTech Dive",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "upstream_id": "https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 23.0,
+      "when": "6 天前",
+      "date": "2026-09-24",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -333,7 +714,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 45.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -381,7 +762,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -431,11 +812,55 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 51.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕卒中研究，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "围绕卒中研究，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
+      "t": "人工智能如何改变 Intermountain Health 的临床记录",
+      "te": "How AI Is Transforming Clinical Documentation at Intermountain Health",
+      "s": "自从实施 AI 临床文档改进 (CDI) 工具以来，Intermountain 在查房期间或查房之后立即完成住院患者图表的完成率提高了 22%。",
+      "se": "Since implementing AI clinical documentation improvement (CDI) tools, Intermountain has seen a 22% point increase in inpatient chart completion during or immediately after rounds.",
+      "u": "https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medcity_news"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150084"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 47.0,
+      "when": "9 天前",
+      "date": "2026-09-21",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -472,7 +897,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 83.0,
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-18",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -519,7 +944,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -561,7 +986,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 73.0,
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -602,7 +1027,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 25.0,
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -651,7 +1076,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -698,7 +1123,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 59.0,
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-15",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -739,7 +1164,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 66.0,
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-14",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -778,7 +1203,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-13",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -822,7 +1247,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -867,7 +1292,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -910,7 +1335,7 @@
       "tier": "must_read",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -952,7 +1377,7 @@
       "tier": "must_read",
       "freshness": "fresh",
       "rel": 79.0,
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -997,7 +1422,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-10",
       "reasons": {
         "research": "围绕睡眠与呼吸监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1038,7 +1463,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 48.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-10",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1077,7 +1502,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-10",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1126,7 +1551,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 51.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-10",
       "reasons": {
         "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1176,163 +1601,52 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 99.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-10",
       "reasons": {
         "research": "围绕医学影像，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "围绕医学影像，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
-    },
-    {
-      "id": "url:https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "t": "隆重推出配备全新健康传感系统的 Apple Watch Series 12",
-      "te": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
-      "s": "Apple 今天推出了 Apple Watch Series 12，旨在为可穿戴设备提供最准确的心率感应。",
-      "se": "Apple today introduced Apple Watch Series 12, engineered to deliver the most accurate heart rate sensing in a wearable.",
-      "u": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "src": "Apple Newsroom",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [
-        "consumer"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "apple_newsroom"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "apple_newsroom",
-        "upstream_id": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 35.0,
-      "when": "20 天前",
-      "date": "2026-09-09",
-      "reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://ouraring.wpengine.com/oura-ring-los-angeles-dodgers/",
-      "t": "Oura Ring 被选为洛杉矶道奇队官方健康可穿戴设备",
-      "te": "Oura Ring Selected as the Official Health Wearable of the Los Angeles Dodgers",
-      "s": "今天，Oura 宣布与洛杉矶道奇队建立多年合作伙伴关系，并将 Oura Ring 命名为球队的官方健康可穿戴设备。该协议标志着道奇队在健康可穿戴设备领域的首次合作，也是大浦与美国职业棒球大联盟特许经营权的首次健康可穿戴设备合作。与道奇队合作，大浦将更加关注日常投入 [...]",
-      "se": "Today, Oura announced a multi-year partnership with the Los Angeles Dodgers, naming Oura Ring the team’s Official Health Wearable. The agreement marks the Dodgers’ first partnership in the health-wearable category and Oura’s first health-wearable partnership with a Major League Baseball franchise. In partnership with the Dodgers, Oura will bring greater attention to the everyday inputs […]",
-      "u": "https://ouraring.wpengine.com/oura-ring-los-angeles-dodgers/",
-      "src": "Oura",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [
-        "consumer",
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "oura_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "oura_blog",
-        "upstream_id": "https://ouraring.wpengine.com/?p=1006708"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 55.0,
-      "when": "20 天前",
-      "date": "2026-09-09",
-      "reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/",
-      "t": "Lifepoint Health 如何利用人工智能让护士重新获得时间",
-      "te": "How Lifepoint Health Is Using AI to Give Nurses Their Time Back",
-      "s": "Lifepoint Health 的首席护士长米歇尔·沃森 (Michelle Watson) 认为，环境聆听和人工智能支持的患者优先顺序正在帮助护士节省时间来完成不需要临床判断的任务。目标是让护士有时间从事真正需要他们专业知识的工作。",
-      "se": "Michelle Watson, Lifepoint Health’s chief nurse executive, believes ambient listening and AI-powered patient prioritization are helping nurses reclaim time on tasks that don’t require clinical judgment. The goal is to free nurses up for the work that actually requires their expertise.",
-      "u": "https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=149943",
-        "retrieved_via": "rss"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": 27.0,
-      "when": "20 天前",
-      "date": "2026-09-09",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
     }
   ],
   "editions": [
     {
-      "date": "2026-09-25",
+      "date": "2026-09-28",
       "item_ids": [
-        "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
-        "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e93413"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e111711",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e88257"
       ],
       "minutes": 2
+    },
+    {
+      "date": "2026-09-25",
+      "item_ids": [
+        "url:https://www.jmir.org/article/view/jmir_v28i1e78718",
+        "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e87047",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e93413"
+      ],
+      "minutes": 4
     },
     {
       "date": "2026-09-24",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e105068",
+        "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e90870",
         "url:https://www.jmir.org/article/view/jmir_v28i1e87806"
       ],
       "minutes": 3
+    },
+    {
+      "date": "2026-09-21",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/"
+      ],
+      "minutes": 1
     },
     {
       "date": "2026-09-18",
@@ -1398,15 +1712,6 @@
         "url:https://medcitynews.com/2026/09/imprivata-ai-agents/"
       ],
       "minutes": 3
-    },
-    {
-      "date": "2026-09-09",
-      "item_ids": [
-        "url:https://ouraring.wpengine.com/oura-ring-los-angeles-dodgers/",
-        "url:https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-        "url:https://medcitynews.com/2026/09/lifepoint-health-ai-nurses/"
-      ],
-      "minutes": 2
     }
   ]
 }
