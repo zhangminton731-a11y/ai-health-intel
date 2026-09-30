@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-30T00:28:07+00:00",
+  "generated_at": "2026-09-30T06:44:17+00:00",
   "as_of": "2026-09-30",
   "count": 26,
   "items": [
@@ -89,7 +89,7 @@
         "consumer",
         "regulation"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -168,7 +168,7 @@
         "business",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -204,7 +204,7 @@
         "hospital",
         "consumer"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "stat_news_feed"
@@ -241,7 +241,7 @@
         "consumer",
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medtech_dive_primary"
@@ -278,7 +278,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -473,7 +473,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -726,7 +726,7 @@
       "source_type": "专业媒体",
       "published_at": "2026-09-29",
       "topics": [],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medical_device_network"
@@ -796,7 +796,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -938,7 +938,7 @@
       "source_type": "专业媒体",
       "published_at": "2026-09-29",
       "topics": [],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
