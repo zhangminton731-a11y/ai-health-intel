@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-01T07:11:37+00:00",
+  "generated_at": "2026-10-01T14:28:23+00:00",
   "as_of": "2026-10-01",
   "item_ids": [
     "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
@@ -24,10 +24,9 @@
     {
       "date": "2026-09-29",
       "item_ids": [
-        "url:https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+        "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
         "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
-        "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-        "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/"
+        "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/"
       ],
       "minutes": 1
     },
@@ -36,8 +35,7 @@
       "item_ids": [
         "url:https://ai.jmir.org/2026/1/e93900/",
         "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-        "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
-        "url:https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/"
+        "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
       ],
       "minutes": 2
     },

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-01T07:11:37+00:00",
+  "generated_at": "2026-10-01T14:28:23+00:00",
   "as_of": "2026-10-01",
   "count": 30,
   "items": [
@@ -163,43 +163,6 @@
       }
     },
     {
-      "id": "url:https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
-      "title": "STAT+：Anthropic 加入 ARPA-H 临床人工智能登月计划，将举办闭门医疗保健活动",
-      "original_title": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
-      "summary": "在本期 STAT Health Tech 中：Oura 推迟 IPO 计划、Anthropic 加入 ARPA-H 的临床人工智能工作以及 MAHA 的健康数据目标。",
-      "url": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
-      "source": "STAT News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "consumer"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "stat_news_feed"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "stat_news_feed",
-        "upstream_id": "https://www.statnews.com/?p=1525998"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology",
-          "business"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      }
-    },
-    {
       "id": "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
       "title": "大浦推迟首次公开募股",
       "original_title": "Oura delays IPO",
@@ -233,6 +196,43 @@
       "recommendation_reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "围绕可穿戴监测，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03156-6",
+      "title": "具有人工智能的视觉可穿戴设备可缩小患者表征中的感官差距",
+      "original_title": "Vision wearables with artificial intelligence to close the sensory gap in patient characterization",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03156-6",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-30",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03156-6"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -592,6 +592,44 @@
       }
     },
     {
+      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
+      "title": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
+      "original_title": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03277-y",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-29",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90592",
       "title": "实施新生儿护理远程医疗：基于多国经验的实用工具包教程",
       "original_title": "Implementing Telemedicine for Neonatal Care: Tutorial on a Practical Toolkit Based on Multinational Experience",
@@ -784,7 +822,7 @@
       "topics": [
         "business"
       ],
-      "event_type": "seen",
+      "event_type": "updated",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -952,43 +990,6 @@
       "recommendation_reasons": {
         "research": "围绕精神心理健康，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
         "industry": "围绕精神心理健康，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
-      "title": "继达芬奇 5 CE 标志后，Intuitive 重新进入欧洲心脏手术市场",
-      "original_title": "Intuitive re-enters European cardiac surgery market following da Vinci 5 CE mark",
-      "summary": "Intuitive 为达芬奇 5 在心脏手术中获得的 CE 标志标志着其近年来最明确的监管里程碑，为重新推动欧洲机器人心脏手术打开了大门。",
-      "url": "https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
-      "source": "Medical Device Network",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-28",
-      "topics": [
-        "business",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245403"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "regulation"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
       }
     },
     {
