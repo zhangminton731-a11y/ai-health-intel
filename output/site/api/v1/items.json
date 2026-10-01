@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-01T00:33:31+00:00",
+  "generated_at": "2026-10-01T07:11:37+00:00",
   "as_of": "2026-10-01",
   "count": 30,
   "items": [
@@ -94,7 +94,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -134,7 +134,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -247,7 +247,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -286,7 +286,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -327,7 +327,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -369,7 +369,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -525,7 +525,7 @@
         "hospital",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -604,7 +604,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -784,7 +784,7 @@
       "topics": [
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -888,7 +888,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir"
@@ -927,7 +927,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_ai"
@@ -1036,7 +1036,7 @@
       "source_type": "专业媒体",
       "published_at": "2026-09-30",
       "topics": [],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medtech_dive_primary"
@@ -1071,7 +1071,7 @@
       "topics": [
         "hospital"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "fitbit_google_blog"

@@ -1,17 +1,17 @@
 {
   "checks": [
     {
-      "count": 1,
+      "count": 0,
       "kind": "hn_firebase"
     }
   ],
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-01T00:33:31+00:00",
-  "item_count": 1,
+  "generated_at": "2026-10-01T07:11:37+00:00",
+  "item_count": 0,
   "required": false,
   "role": "supplemental",
   "source_id": "hn_ai_health_signals",
   "source_kind": "hacker_news",
-  "status": "ok"
+  "status": "ok_no_updates"
 }
