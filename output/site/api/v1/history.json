@@ -1,9 +1,251 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-09-30T13:44:32+00:00",
-  "as_of": "2026-09-30",
+  "generated_at": "2026-10-01T00:33:31+00:00",
+  "as_of": "2026-10-01",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
+      "t": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
+      "te": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
+      "s": "",
+      "se": "",
+      "u": "https://www.nature.com/articles/s41746-026-03277-y",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 45.0,
+      "when": "2 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e99980",
+      "t": "数据科学健康研究中伦理治理连续性的消解：生命周期监督的诊断和响应框架",
+      "te": "Dissolution of Continuity of Ethical Governance in Data Science Health Research: Diagnostic and Response Framework for Lifecycle Oversight",
+      "s": "传统的研究伦理治理是为有限的协议、可识别的研究者以及与人类参与者的短暂接触而设计的。数据科学健康研究 (DSHR) 颠覆了这种架构，因为健康数据、生物材料、计算表示和模型会随着时间的推移持续存在、传播、组合并获得新的用途。从这个角度来看，我们广泛使用 DSHR 来包括使用大型健康数据集的研究以及健康数据、模型和生物材料的相邻二次用途，包括学习卫生系统、公共卫生监测、质量改进、运营、商业产品开发以及依赖于健康数据或材料谱系的人工智能 (AI) 支持的转化用途。",
+      "se": "Traditional research ethics governance was designed for bounded protocols, identifiable investigators, and temporally limited encounters with human participants. Data science health research (DSHR) disrupts that architecture because health data, biological materials, computational representations, and models persist, travel, combine, and acquire new uses across time. In this viewpoint, we use DSHR broadly to include research using large health datasets and adjacent secondary uses of health data, models, and biological materials, including learning health systems, public health surveillance, quality improvement, operations, commercial product development, and artificial intelligence (AI)–enabled translational uses that rely on health data or material lineages.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e99980",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e99980"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 54.0,
+      "when": "2 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96587",
+      "t": "大语言模型在回答中英消费者健康问题时的双语表现：比较基准研究",
+      "te": "Bilingual Performance of Large Language Models in Answering Consumer Health Questions in English and Chinese: Comparative Benchmark Study",
+      "s": "结论：当代大语言模型在英语和中文消费者健康问题上均取得了较高的二元准确性，且没有显着的总体语言效应。唯一稳健的特定于模型的语言交互是 DeepSeek 的英语可理解性下降，由 TOPSIS 分层分析独立证实。这些发现表明，跨语言沟通质量问题是特定于模型的，而不是普遍存在的，因此需要有针对性的监控。结果：英语和中文输入在无上下文条件下显示出相当的总体准确性（1572/1650，95.27％ vs 1548/1650，93.82％），并且没有显着的语言主效应（β=0.00；P=.99）。 FDR 校正后，任何单个模型的语言主效应均不显着。",
+      "se": "Conclusions: Contemporary LLMs achieved high binary accuracy on consumer health questions in both English and Chinese, with no significant aggregate language effect. The only robust model-specific language interaction was DeepSeek’s English understandability decrement, independently confirmed by TOPSIS tier analysis. These findings suggested that cross-linguistic communication quality concerns were model-specific rather than universal and warrant targeted monitoring. Results: English and Chinese inputs showed comparable overall accuracy under no-context conditions (1572/1650, 95.27% vs 1548/1650, 93.82%), with no significant language main effect (β=0.00; P =.99). No language main effects for any individual model remained significant after FDR correction.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e96587",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96587"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 27.0,
+      "when": "2 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e94896",
+      "t": "数字化对荷兰医院绩效的影响：纵向定量研究",
+      "te": "Impact of Digitalization on Performance of Dutch Hospitals: Longitudinal Quantitative Study",
+      "s": "结论：在几乎普遍采用电子健康记录的高度数字化卫生系统中，先进的技术数字成熟度本身与医院层面总体财务、运营或员工绩效的显着改善无关。这些发现为医院数字化中的 IT 生产力悖论提供了纵向实证支持，表明技术成熟度是绩效提升的必要但不充分的条件。试验注册：结果：经过多次测试调整后，先进的数字化成熟度与财务、运营或员工绩效的改善没有显着相关。就财务成果而言，高数字化成熟度与利润率、资产回报率、人员费用率或资产周转率没有显着关联。",
+      "se": "Conclusions: In a highly digitalized health system with near-universal electronic health record adoption, advanced technical digital maturity alone was not associated with measurable improvements in aggregated hospital-level financial, operational, or workforce performance. These findings provide longitudinal empirical support for the IT productivity paradox in hospital digitalization, suggesting that technical maturity is a necessary but insufficient condition for performance gains. Trial Registration: Results: Advanced digital maturity was not significantly associated with improved financial, operational, or workforce performance after adjustment for multiple testing. For financial outcomes, high digital maturity showed no significant association with profit margin, return on assets, personnel-expense ratio, or asset-turnover ratio.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e94896",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e94896"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 41.0,
+      "when": "2 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "围绕病历数据，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕病历数据，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90335",
+      "t": "韩国搜索引擎中隐蔽宣传癌症相关内容：Naver 和 Google 的计算内容分析",
+      "te": "Covert Promotional Cancer-Related Content in Korean Search Engines: Computational Content Analysis of Naver and Google",
+      "s": "结论：隐蔽的促销癌症内容在韩国搜索结果中普遍存在，平台架构系统地塑造了促销模式、机构来源和信息质量，而不是反映了故意的营销策略。这些发现强调需要对平台敏感的监管和增强的数字健康素养，以保护弱势癌症信息搜索者免受表面中立搜索环境中嵌入的商业利用。结果：隐蔽促销内容出现在 48.6% (447/919) 的分析帖子中，其中 Google 上的流行率 (174/321, 54.2%) 显着高于 Naver 上的流行率 (273/598, 45.7%; ²=5.78; =.02)。平台差异很明显。",
+      "se": "Conclusions: Covert promotional cancer content is pervasive in Korean search results, with platform architecture systematically shaping promotional patterns, institutional sources, and information quality rather than reflecting deliberate marketing strategies. These findings underscore the need for platform-sensitive regulation and enhanced digital health literacy to protect vulnerable cancer information seekers from commercial exploitation embedded within ostensibly neutral search environments. Results: Covert promotional content appeared in 48.6% (447/919) of analyzed posts, with a significantly higher prevalence on Google (174/321, 54.2%) than on Naver (273/598, 45.7%; ²=5.78; =.02). Platform differences were pronounced.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e90335",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90335"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73.0,
+      "when": "2 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕肿瘤诊疗，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
       "t": "低收入国家药物警戒人工智能的治理：系统视角",
@@ -46,7 +288,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -94,7 +336,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -143,7 +385,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "围绕帕金森病，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -190,7 +432,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
@@ -237,7 +479,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-26",
       "reasons": {
         "research": "围绕血压与慢病管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -286,7 +528,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -335,11 +577,55 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
         "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
+      "t": "Precision Neuroscience 筹集 2.5 亿美元用于脑机接口工作",
+      "te": "Precision Neuroscience raises $250M for brain-computer interface work",
+      "s": "D 轮融资是 BCI 初创公司投资激增的一部分，使 Precision Neuroscience 的总资金达到 4.3 亿美元。",
+      "se": "The Series D round is part of a surge in investment into BCI startups and brings Precision Neuroscience’s total funding to $430 million.",
+      "u": "https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
+      "src": "MedTech Dive",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "upstream_id": "https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 89.0,
+      "when": "6 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "围绕脑机接口，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕脑机接口，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
       },
       "historical": true
     },
@@ -382,7 +668,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 41.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -429,7 +715,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕精神心理健康，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -474,7 +760,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕卒中研究，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -523,7 +809,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕帕金森病，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -570,7 +856,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -618,7 +904,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -668,7 +954,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 98.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕睡眠与呼吸监测，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -710,7 +996,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -761,7 +1047,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 45.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -809,7 +1095,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -859,11 +1145,143 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 51.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕卒中研究，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "围绕卒中研究，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
+      "t": "Pelago 推出新的行为健康平台，用于药物滥用、心理健康和行为成瘾护理",
+      "te": "Pelago Unveils New Behavioral Health Platform for Substance Use, Mental Health and Behavioral Addiction Care",
+      "s": "Pelago 推出了一个行为健康平台，整合了药物滥用、心理健康和行为成瘾护理，利用人工智能驱动的分诊为患者提供适当的治疗。",
+      "se": "Pelago launched a behavioral health platform that integrates substance use, mental health and behavioral addiction care, using AI-powered triage to connect patients with appropriate treatment.",
+      "u": "https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital",
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medcity_news"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150151"
+      },
+      "tier": "must_read",
+      "freshness": "fresh",
+      "rel": 57.0,
+      "when": "9 天前",
+      "date": "2026-09-22",
+      "reasons": {
+        "research": "围绕精神心理健康，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕精神心理健康，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/",
+      "t": "Oracle Health 的护士 AI 代理有何不同？",
+      "te": "How is Oracle Health’s Nurse AI Agent Different?",
+      "s": "Oracle Health Clinical AI Agent 的独特之处在于它直接嵌入到 Oracle Health Foundation EHR 中，使护士能够更轻松地在用于单独任务的工具之间切换。",
+      "se": "The Oracle Health Clinical AI Agent is unique in the way it’s embedded directly in the Oracle Health Foundation EHR, making it easier for nurses who don’t have to shift between tools used for separate tasks.",
+      "u": "https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medcity_news"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150092"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 40.0,
+      "when": "9 天前",
+      "date": "2026-09-22",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/",
+      "t": "AI工作者需要试用期，而不仅仅是飞行员",
+      "te": "AI Workers Need a Probation Period, Not Just a Pilot",
+      "s": "医疗保健领导者知道如何测试软件。我们还没有一个共享的剧本供入职代理预计完成端到端的工作。这就是试用期旨在填补的空白。",
+      "se": "Healthcare leaders know how to test software. We don’t yet have a shared playbook for onboarding agents expected to do a job end to end. That is the gap a probation period is meant to fill.",
+      "u": "https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medcity_news"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=149902"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 23.0,
+      "when": "9 天前",
+      "date": "2026-09-22",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -903,7 +1321,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-21",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -944,7 +1362,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 83.0,
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-18",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -991,7 +1409,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1033,7 +1451,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 73.0,
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1074,7 +1492,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 25.0,
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1123,7 +1541,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -1170,7 +1588,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 59.0,
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-15",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1211,7 +1629,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 66.0,
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-14",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1250,7 +1668,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-13",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1294,7 +1712,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1339,7 +1757,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1382,7 +1800,7 @@
       "tier": "must_read",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1424,240 +1842,26 @@
       "tier": "must_read",
       "freshness": "fresh",
       "rel": 79.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-11",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
       },
       "historical": true
-    },
-    {
-      "id": "url:https://ouraring.wpengine.com/sleep-science-at-oura/",
-      "t": "大浦的睡眠科学：我们如何赢得科学界的地位",
-      "te": "Sleep Science at Oura: How We’ve Earned Our Position in the Scientific Community",
-      "s": "科学界的席位并不是一次就可以永远保留的东西。这是你不断获得的东西——研究又研究，审查又审查，披露又披露。作为一名睡眠科学家，这就是我想在这里讨论的内容：不是 Oura 以及更广泛的可穿戴睡眠技术 [...]",
-      "se": "A seat at the table with the scientific community isn’t something you’re handed once and get to keep forever. It’s something you keep earning — study by study, review by review, disclosure by disclosure. As a sleep scientist, that’s what I want to discuss here: not what Oura and more broadly the wearable sleep technology […]",
-      "u": "https://ouraring.wpengine.com/sleep-science-at-oura/",
-      "src": "Oura",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "oura_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "oura_blog",
-        "upstream_id": "https://ouraring.wpengine.com/?p=1006714"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 57.0,
-      "when": "20 天前",
-      "date": "2026-09-10",
-      "reasons": {
-        "research": "围绕睡眠与呼吸监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕睡眠与呼吸监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/imprivata-ai-agents/",
-      "t": "Imprivata 首席执行官：人工智能代理需要与未经审查的合同护士同样的审查",
-      "te": "Imprivata CEO: AI Agents Need the Same Scrutiny as an Unvetted Contract Nurse",
-      "s": "Imprivata 首席执行官 Fran Rosch 表示，人工智能代理的待遇应该类似于医院对待新合同护士的方式——接受审查、监控，然后在工作完成后立即将其切断。",
-      "se": "Imprivata CEO Fran Rosch said AI agents should be treated similarly to the way hospitals treat a new contract nurse — vetted, monitored and then cut off as soon as the job is done.",
-      "u": "https://medcitynews.com/2026/09/imprivata-ai-agents/",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=149976",
-        "retrieved_via": "rss"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 48.0,
-      "when": "20 天前",
-      "date": "2026-09-10",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/at-invest-digital-health-health-wildcatters-will-highlight-latest-cohort-of-startups/",
-      "t": "在 INVEST Digital Health 上，Health Wildcatters 将重点关注最新一批初创企业",
-      "te": "At INVEST Digital Health, Health Wildcatters Will Highlight Latest Cohort of Startups",
-      "s": "达拉斯加速器和 INVEST 数字健康合作伙伴 Health Wildcatters 宣布了最新一批医疗保健初创企业。参加 10 月 29 日的 INVEST DIgital Health 展会，与他们面对面交流！",
-      "se": "Health Wildcatters, a Dallas accelerator and INVEST Digital Health partner, has announced the healthcare startups in its latest cohort. Join us at INVEST DIgital Health on October 29 and meet them in person!",
-      "u": "https://medcitynews.com/2026/09/at-invest-digital-health-health-wildcatters-will-highlight-latest-cohort-of-startups/",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "overview"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=149964",
-        "retrieved_via": "rss"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 53.0,
-      "when": "20 天前",
-      "date": "2026-09-10",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e93501/",
-      "t": "通过人工智能增强患者的知情同意：系统审查",
-      "te": "Enhancing Patients’ Informed Consent Through AI: Systematic Review",
-      "s": "结论：人工智能有潜力改善知情同意流程；然而，还需要进一步研究来解决伦理问题并确保其有效、以患者为中心融入临床实践。结果：共纳入 2020 年至 2025 年间发表的 33 项研究，分为 3 个领域：人工智能生成的患者教育（n=18，54.5%）、人工智能生成的同意文件（n=10，30.3%）和人工智能辅助的同意获取（n=5，15.2%）。大型语言模型表现出很高的准确性，尽管可读性始终低于建议的八年级水平。表现最好的模型 Copilot 的 Flesch-Kincaid 等级达到 10.59 (±1.22)。",
-      "se": "Conclusions: AI has the potential to improve the informed consent process; however, further research is needed to address ethical concerns and ensure its effective, patient-centered integration into clinical practice. Results: A total of 33 studies published between 2020 and 2025 were included, categorized into 3 domains: AI-generated patient education (n=18, 54.5%), AI-generated consent documentation (n=10, 30.3%), and AI-assisted consent acquisition (n=5, 15.2%). Large language models demonstrated high accuracy, though readability consistently fell below the recommended eighth-grade level. The best-performing model, Copilot, achieved a Flesch-Kincaid Grade Level of 10.59 (±1.22).",
-      "u": "https://ai.jmir.org/2026/1/e93501/",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e93501/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 51.0,
-      "when": "20 天前",
-      "date": "2026-09-10",
-      "reasons": {
-        "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e87794/",
-      "t": "基于人工智能的计算机断层扫描成像中创伤性脑损伤的识别和量化方法：系统评价",
-      "te": "AI-Based Approaches for the Identification and Quantification of Traumatic Brain Injury in Computed Tomography Imaging: Systematic Review",
-      "s": "结论：基于 CT 的 TBI 评估的 AI 方法在受控条件下的回顾性评估中表现出强大的性能，特别是在出血检测和分割方面；然而，当前的证据基础受到数据集多样性有限、报告不完整和缺乏临床验证的限制。因此，这些发现应被解释为方法学可行性的证据，而不是临床准备的证据。结果：通过筛选发现的 674 篇出版物，我们确定了 101 项研究进行评估。我们将这 101 项研究分为 4 类：二元 TBI 分类（TBI 或非 TBI）、出血检测（分类、定位、分割和量化）、中线移位测量和颅内压升高估计。",
-      "se": "Conclusions: AI methods for CT-based TBI assessment demonstrate strong performance in retrospective evaluations under controlled conditions, particularly for hemorrhage detection and segmentation; however, the current evidence base is constrained by limited dataset diversity, incomplete reporting, and lack of clinical validation. Accordingly, these findings should be interpreted as evidence of methodological feasibility rather than clinical readiness. Results: By screening the 674 publications found, we identified 101 studies for evaluation. We grouped these 101 studies into 4 categories: binary TBI classification (TBI or non-TBI), hemorrhage detection (classification, localization, segmentation, and quantization), midline shift measurement, and increased intracranial pressure estimation.",
-      "u": "https://ai.jmir.org/2026/1/e87794/",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e87794/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 99.0,
-      "when": "20 天前",
-      "date": "2026-09-10",
-      "reasons": {
-        "research": "围绕医学影像，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "围绕医学影像，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
     }
   ],
   "editions": [
+    {
+      "date": "2026-09-29",
+      "item_ids": [
+        "url:https://www.jmir.org/article/view/jmir_v28i1e90335",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e99980",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e94896",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e96587"
+      ],
+      "minutes": 3
+    },
     {
       "date": "2026-09-28",
       "item_ids": [
@@ -1672,12 +1876,12 @@
       "date": "2026-09-25",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e78718",
+        "url:https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
         "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e87047",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e93413"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e95921"
       ],
-      "minutes": 4
+      "minutes": 3
     },
     {
       "date": "2026-09-24",
@@ -1688,6 +1892,15 @@
         "url:https://www.jmir.org/article/view/jmir_v28i1e87806"
       ],
       "minutes": 3
+    },
+    {
+      "date": "2026-09-22",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
+        "url:https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/",
+        "url:https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/"
+      ],
+      "minutes": 1
     },
     {
       "date": "2026-09-21",
@@ -1749,17 +1962,6 @@
         "url:https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-10",
-      "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e87794/",
-        "url:https://ouraring.wpengine.com/sleep-science-at-oura/",
-        "url:https://medcitynews.com/2026/09/at-invest-digital-health-health-wildcatters-will-highlight-latest-cohort-of-startups/",
-        "url:https://ai.jmir.org/2026/1/e93501/",
-        "url:https://medcitynews.com/2026/09/imprivata-ai-agents/"
-      ],
-      "minutes": 3
     }
   ]
 }

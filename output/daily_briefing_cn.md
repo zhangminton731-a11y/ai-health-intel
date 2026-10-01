@@ -1,32 +1,32 @@
-奇点日报 · 2026-09-29
+奇点日报 · 2026-09-30
 这一天的 5 件 AI 医疗大事
 
-01 · 论文研究
-韩国搜索引擎中隐蔽宣传癌症相关内容：Naver 和 Google 的计算内容分析
-结论：隐蔽的促销癌症内容在韩国搜索结果中普遍存在，平台架构系统地塑造了促销模式、机构来源和信息质量，而不是反映了故意的营销策略。这些发现强调需要对平台敏感的监管和增强的数字健康素养，以保护弱势癌症信息搜索者免受表面中立搜索环境中嵌入的商业利用。结果：隐蔽促销内容出现在 48.6% (447/919) 的分析帖子中，其中 Google 上的流行率 (174/321, 54.2%) 显着高于 Naver 上的流行率 (273/598, 45.7%; ²=5.78; =.02)。平台差异很明显。
-Journal of Medical Internet Research · 2026-09-29
-https://www.jmir.org/article/view/jmir_v28i1e90335
+01 · 政策动态
+人工智能的医疗保健“世界末日”？与其说是自治，不如说是信任
+对于一名 ICU 医生和初创公司首席营销官来说，更直接的危险不是自治系统接管医学并抛弃人类决策。医疗保健组织利用人工智能主要是为了提高效率，同时使医疗保健提供者更加陷入复杂性和监管之中。
+MedCity News · 2026-09-30
+https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/
 
-02 · 融资合作
-STAT+：Anthropic 加入 ARPA-H 临床人工智能登月计划，将举办闭门医疗保健活动
-在本期 STAT Health Tech 中：Oura 推迟 IPO 计划、Anthropic 加入 ARPA-H 的临床人工智能工作以及 MAHA 的健康数据目标。
-STAT News · 2026-09-29
-https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss
+02 · 论文研究
+评估人工智能辅助技术对老年人的物有所值：经济评估的范围审查
+结论：本综述总结了遵循 ICOPE 护理途径的老年医疗保健中人工智能辅助技术的现有经济证据。它超越了之前的审查，评估了人工智能在一般或特定疾病人群中的成本效益，但没有解决老年人的独特成本结构、护理需求和公平考虑。通过对照 ICOPE 领域所包含的证据，本次审查确定了经济证据集中的地方和严重缺乏的地方，为护理路径不同组成部分的政策设计和未来研究提供结构化指导。结果：2018 年至 2026 年间发表的 40 项研究符合纳入标准。
+Journal of Medical Internet Research · 2026-09-30
+https://www.jmir.org/article/view/jmir_v28i1e104019
 
-03 · 新品方案
-Dexcom 报告描绘了 2 型糖尿病患者使用 CGM 的复杂情况
-尽管人们越来越认识到 CGM 和 GLP-1 用于 2 型糖尿病管理，但 Dexcom 的报告发现，缺乏认识和获取挑战仍然存在。
-Medical Device Network · 2026-09-29
-https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/
+03 · 融资合作
+9 月份 4 项值得注意的健康科技融资公告
+健康科技公司在 9 月份发布了几项重大融资公告。以下是一些最大融资轮的列表。
+MedCity News · 2026-09-30
+https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/
 
-04 · 产业动态
-MedCity Pivot 播客：与 AliveCor 的 Priya Abani 的对话
-在 MedCity Pivot 播客的这一集中，首席执行官 Priya Abani 谈论了 AliveCor（最早的数字医疗公司之一）的演变。
-MedCity News · 2026-09-29
-https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/
+04 · 技术进展
+谷歌的人工智能在预测流感住院方面排名第一。
+美国疾病控制中心宣布，谷歌的科学人工智能模型在预测流感相关住院情况方面表现最好。
+Google Blog · 2026-09-30
+https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/
 
-05 · 融资合作
-大浦推迟首次公开募股
-以市场不确定性为由，这家智能戒指制造商计划推迟其原本预计筹集至多 22 亿美元的公开募股。
-MedTech Dive · 2026-09-29
-https://www.medtechdive.com/news/oura-delays-ipo/831650/
+05 · 论文研究
+利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法
+结论：用最少的上下文示例提示大语言模型可以在资源匮乏的情况下通过有限的特定领域注释实现 TRE 和标准化的强大性能。因此，依靠开放权重的本地模型，所提出的方法提供了在现实世界临床工作流程中部署的实用途径，并且可以进一步扩展以提取关键临床信息，例如诊断年龄或发病年龄，特别是在罕见疾病的背景下，它可以帮助预先填写结构化报告表格，减少直接从临床叙述中检索此类信息所需的手动工作。结果：所提出的方法在两种临床事件类型中仅使用少量上下文示例就实现了稳定的提取性能，罕见疾病诊断的最高得分为 0.72，表型事件的最高得分为 0.61。
+Journal of Medical Internet Research · 2026-09-30
+https://www.jmir.org/article/view/jmir_v28i1e95198
