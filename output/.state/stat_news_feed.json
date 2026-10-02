@@ -1,13 +1,8 @@
 {
-  "url:https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss": "6356642d441d80617b5c9f2d1dcd43355e9e09d23aaa01a69d9931d38b43cdd2",
-  "url:https://www.statnews.com/2026/09/30/trump-final-globe-rule-will-save-medicare-much-less-money-on-drugs/?utm_campaign=rss": "a458ca31a0f334118c9082d678be0577b2f32315c35f70ac46ca1c6fd60be32d",
-  "url:https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss": "4824c21e7a63fa80275a1b59fdd55b49ae0d363984e34bb044c5e79674e90ebd",
   "url:https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss": "3ff9428fbf6ec6613d09ffa21395e4d9b01b52ad0f3c28ec30bcdca48952e107",
   "url:https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss": "76bd79dbd95ed340e0d197892262736cbe4867fe3e872b4defdce6880054cf7a",
   "url:https://www.statnews.com/2026/10/01/china-biotech-boom-jefferies-conference-shanghai/?utm_campaign=rss": "8c968771ab21a8af37919630b9f4df41600c1c6155d4bb01abb116a1c6765991",
-  "url:https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/?utm_campaign=rss": "ce4c4f2358b1b797755877fd57272f0a1d204e2d836ee433bca1c2df66a43daf",
   "url:https://www.statnews.com/2026/10/01/eric-cantor-phrma-populist-drug-policy/?utm_campaign=rss": "bf2413df4bcb6baffcd0f544e271ca738f60004b1cd5c305b97241688ec1fdd5",
-  "url:https://www.statnews.com/2026/10/01/glp-1-weight-loss-drugs-children-research-obesity-disease/?utm_campaign=rss": "dc8a9940d6c0b53cb86d7fe1665df166a448b46b89b1ddacafb5a9284efebd62",
   "url:https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss": "b7d429ab61660477933c11a611fa1d7ac515d3b3ac71194a56a68481d8d0761f",
   "url:https://www.statnews.com/2026/10/01/huntingtons-disease-uniqure-drug-study-results-patients/?utm_campaign=rss": "ae76bf80f8013c9e46cbcd64c01b6f55c26981c8a4d1f8604a934bfc365e7498",
   "url:https://www.statnews.com/2026/10/01/invivyds-covid-antibody-development/?utm_campaign=rss": "7b8502186181dda8a5111c9985199d7767e9564cee0e9758a947761fa2c8a59f",
@@ -16,7 +11,12 @@
   "url:https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss": "de23d4732b79440d76ec4f7e8476a46ae4c9f90bcc25ef219e20f6e0ed7ceff3",
   "url:https://www.statnews.com/2026/10/01/midterm-election-health-care-policy-impact-senate-republican-turnover/?utm_campaign=rss": "86a754d2e79ac318742e9c8dafe74a6e67eb5bd115523f42157d8140c67b3e76",
   "url:https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss": "102fd54e52838d28cb101f3fcedf483619cdb7637276e1ca05fb673ff45ec0dd",
-  "url:https://www.statnews.com/2026/10/01/sanofi-regeneron-agreement-dupixent-antibodies-immunology/?utm_campaign=rss": "50ac3766a85a5b2c716b2e2a703407eb02acb97f5af2122b3c1aabe3c5b143bc",
   "url:https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss": "91dd16502cd06386b5f66986009638bdfcaac70e51a9d8371035baeb6b0544e4",
-  "url:https://www.statnews.com/pharmalot/2026/10/01/trump-plan-to-lower-medicare-drug-prices-lilly-obesity-drug/?utm_campaign=rss": "5a123853e70ce2fb7b744bba93c563b1d01cba9b907e5d72128d9820b2729c02"
+  "url:https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss": "a647b7bf04ac57322a6a9950126130dc2667cbf47b9e4275a827d5228212ba66",
+  "url:https://www.statnews.com/2026/10/02/health-news-how-big-is-pennsylvania-measles-outbreak/?utm_campaign=rss": "3b1d5598052e6c3f373d68284b27e2920b1dfc410ba82de5b9593284dd2602b5",
+  "url:https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss": "a24ede5bf0263c7fbdf381aad90cb5acabb2556bf013e508db00426d8ef778cb",
+  "url:https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss": "e66c8214f8a275fc324cc45da7012c12a02a076a560451049229d491077c4054",
+  "url:https://www.statnews.com/pharmalot/2026/10/01/trump-plan-to-lower-medicare-drug-prices-lilly-obesity-drug/?utm_campaign=rss": "5a123853e70ce2fb7b744bba93c563b1d01cba9b907e5d72128d9820b2729c02",
+  "url:https://www.statnews.com/pharmalot/2026/10/02/340b-drug-pilot-program-boehringer-zealand-obesity-trial/?utm_campaign=rss": "771eda580b583e68335f07512218e1b160e5261b5e2373a985aef7df5867bd8e",
+  "url:https://www.statnews.com/pharmalot/2026/10/02/up-and-down-the-ladder-comings-goings-pharma-biotech-jobs/?utm_campaign=rss": "67f93fa1eec15686c1c3fac1e4fb71e7b35d5f1d7d1568dcf0566ada1109b25f"
 }

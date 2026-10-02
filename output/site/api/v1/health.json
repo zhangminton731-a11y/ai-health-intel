@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T07:01:03+00:00",
+  "generated_at": "2026-10-02T13:52:22+00:00",
   "as_of": "2026-10-02",
-  "daily_status": "complete_with_warning",
+  "daily_status": "complete",
   "sources": [
     {
       "checks": [
@@ -13,7 +13,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 10,
       "required": true,
       "role": "primary",
@@ -30,7 +30,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -47,7 +47,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -64,7 +64,7 @@
       ],
       "enabled": false,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 0,
       "required": false,
       "role": "supplemental",
@@ -81,7 +81,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -98,7 +98,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -109,19 +109,19 @@
     {
       "checks": [
         {
-          "count": 2,
+          "count": 0,
           "kind": "hn_firebase"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
-      "item_count": 2,
+      "generated_at": "2026-10-02T13:52:22+00:00",
+      "item_count": 0,
       "required": false,
       "role": "supplemental",
       "source_id": "hn_ai_health_signals",
       "source_kind": "hacker_news",
-      "status": "ok"
+      "status": "ok_no_updates"
     },
     {
       "checks": [
@@ -132,25 +132,13 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 30,
       "required": false,
       "role": "supplemental",
       "source_id": "medcity_news",
       "source_kind": "rss",
       "status": "ok"
-    },
-    {
-      "checks": [],
-      "enabled": true,
-      "error": "ParseError: not well-formed (invalid token): line 14, column 4",
-      "generated_at": "2026-10-02T07:01:03+00:00",
-      "item_count": 0,
-      "required": false,
-      "role": "supplemental",
-      "source_id": "npj_digital_medicine",
-      "source_kind": "rss",
-      "status": "failed"
     },
     {
       "checks": [
@@ -161,7 +149,24 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
+      "item_count": 8,
+      "required": false,
+      "role": "supplemental",
+      "source_id": "npj_digital_medicine",
+      "source_kind": "rss",
+      "status": "ok"
+    },
+    {
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
+      "enabled": true,
+      "error": "",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 8,
       "required": false,
       "role": "supplemental",
@@ -178,7 +183,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 50,
       "required": false,
       "role": "supplemental",
@@ -195,7 +200,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 12,
       "required": false,
       "role": "supplemental",
@@ -212,7 +217,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -229,7 +234,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -246,7 +251,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -255,16 +260,21 @@
       "status": "ok"
     },
     {
-      "checks": [],
+      "checks": [
+        {
+          "count": 8,
+          "kind": "rss_atom"
+        }
+      ],
       "enabled": true,
-      "error": "ParseError: not well-formed (invalid token): line 14, column 4",
-      "generated_at": "2026-10-02T07:01:03+00:00",
-      "item_count": 0,
+      "error": "",
+      "generated_at": "2026-10-02T13:52:22+00:00",
+      "item_count": 8,
       "required": false,
       "role": "supplemental",
       "source_id": "nature_biomedical_engineering",
       "source_kind": "rss",
-      "status": "failed"
+      "status": "ok"
     },
     {
       "checks": [
@@ -275,7 +285,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
+      "generated_at": "2026-10-02T13:52:22+00:00",
       "item_count": 2,
       "required": false,
       "role": "supplemental",
@@ -286,14 +296,14 @@
     {
       "checks": [
         {
-          "count": 10,
+          "count": 11,
           "kind": "rss_atom"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T07:01:03+00:00",
-      "item_count": 10,
+      "generated_at": "2026-10-02T13:52:22+00:00",
+      "item_count": 11,
       "required": false,
       "role": "supplemental",
       "source_id": "ema_guidance",

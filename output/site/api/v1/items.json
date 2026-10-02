@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T07:01:03+00:00",
+  "generated_at": "2026-10-02T13:52:22+00:00",
   "as_of": "2026-10-02",
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "id": "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
@@ -115,6 +115,43 @@
       "recommendation_reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "围绕可穿戴监测，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03156-6",
+      "title": "具有人工智能的视觉可穿戴设备可缩小患者表征中的感官差距",
+      "original_title": "Vision wearables with artificial intelligence to close the sensory gap in patient characterization",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03156-6",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-30",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03156-6"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -397,6 +434,44 @@
       }
     },
     {
+      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
+      "title": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
+      "original_title": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03277-y",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-29",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90592",
       "title": "实施新生儿护理远程医疗：基于多国经验的实用工具包教程",
       "original_title": "Implementing Telemedicine for Neonatal Care: Tutorial on a Practical Toolkit Based on Multinational Experience",
@@ -515,42 +590,6 @@
       }
     },
     {
-      "id": "url:https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-      "title": "本周最大的 10 轮融资：网络安全、人工智能和健康领跑",
-      "original_title": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
-      "summary": "本周，大量大型初创企业融资，其中包括为网络安全独角兽企业提供的两轮 4 亿美元融资，以及为基础人工智能、药物发现、神经技术甚至降雨等热门领域初创企业的大型融资。",
-      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-      "source": "Crunchbase News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-25",
-      "topics": [
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "crunchbase_news_feed"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "crunchbase_news_feed",
-        "upstream_id": "https://news.crunchbase.com/?p=94117"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology",
-          "business"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      }
-    },
-    {
       "id": "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
       "title": "9 月份 4 项值得注意的健康科技融资公告",
       "original_title": "4 Notable Health Tech Funding Announcements in September",
@@ -583,39 +622,6 @@
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      }
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
-      "title": "Dexcom 报告描绘了 2 型糖尿病患者使用 CGM 的复杂情况",
-      "original_title": "Dexcom report paints mixed picture of CGM use by people with type 2 diabetes",
-      "summary": "尽管人们越来越认识到 CGM 和 GLP-1 用于 2 型糖尿病管理，但 Dexcom 的报告发现，缺乏认识和获取挑战仍然存在。",
-      "url": "https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
-      "source": "Medical Device Network",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-29",
-      "topics": [],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245433"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕血糖管理，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
       }
     },
     {
@@ -873,6 +879,42 @@
       "research_stages": [],
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03338-2",
+      "title": "医疗保健专业人员对临床实践中人工智能辅助决策的看法：定性荟萃分析",
+      "original_title": "Healthcare professionals’ perceptions on AI-assisted decision-making in clinical practice: a qualitative meta-synthesis",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03338-2",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03338-2"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },

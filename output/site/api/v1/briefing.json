@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T07:01:03+00:00",
+  "generated_at": "2026-10-02T13:52:22+00:00",
   "as_of": "2026-10-02",
   "item_ids": [
     "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
@@ -30,7 +30,6 @@
       "date": "2026-09-29",
       "item_ids": [
         "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-        "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
         "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/"
       ],
       "minutes": 1
@@ -53,7 +52,6 @@
     {
       "date": "2026-09-25",
       "item_ids": [
-        "url:https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
         "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/"
       ],
       "minutes": 1

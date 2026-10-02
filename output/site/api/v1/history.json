@@ -1,100 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T07:01:03+00:00",
+  "generated_at": "2026-10-02T13:52:22+00:00",
   "as_of": "2026-10-02",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03338-2",
-      "t": "医疗保健专业人员对临床实践中人工智能辅助决策的看法：定性荟萃分析",
-      "te": "Healthcare professionals’ perceptions on AI-assisted decision-making in clinical practice: a qualitative meta-synthesis",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03338-2",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03338-2"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": 23.0,
-      "when": "昨天",
-      "date": "2026-10-01",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03156-6",
-      "t": "具有人工智能的视觉可穿戴设备可缩小患者表征中的感官差距",
-      "te": "Vision wearables with artificial intelligence to close the sensory gap in patient characterization",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03156-6",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03156-6"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 60.0,
-      "when": "2 天前",
-      "date": "2026-09-30",
-      "reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
       "t": "利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法",
@@ -192,49 +101,44 @@
       "historical": true
     },
     {
-      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
-      "t": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
-      "te": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03277-y",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
+      "id": "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
+      "t": "Dexcom 报告描绘了 2 型糖尿病患者使用 CGM 的复杂情况",
+      "te": "Dexcom report paints mixed picture of CGM use by people with type 2 diabetes",
+      "s": "尽管人们越来越认识到 CGM 和 GLP-1 用于 2 型糖尿病管理，但 Dexcom 的报告发现，缺乏认识和获取挑战仍然存在。",
+      "se": "Despite growing awareness of CGM and GLP-1 use for type 2 diabetes management, Dexcom’s report found that lack of awareness and access challenges persist.",
+      "u": "https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
+      "src": "Medical Device Network",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [],
       "sections": [
-        "research"
+        "industry"
       ],
       "categories": {
-        "research": [
-          "papers"
+        "industry": [
+          "products"
         ]
       },
-      "stages": [
-        "validation"
-      ],
+      "stages": [],
       "event": "seen",
       "provenance": {
         "observed_in_sources": [
-          "npj_digital_medicine"
+          "medical_device_network"
         ],
         "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
+        "source_id": "medical_device_network",
+        "upstream_id": "https://www.medicaldevice-network.com/?p=245433"
       },
-      "tier": "skim",
+      "tier": "collapsed",
       "freshness": "fresh",
-      "rel": 45.0,
+      "rel": 29.0,
       "when": "3 天前",
       "date": "2026-09-29",
       "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕血糖管理，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
       },
       "historical": true
     },
@@ -1241,6 +1145,51 @@
       "historical": true
     },
     {
+      "id": "url:https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
+      "t": "本周最大的 10 轮融资：网络安全、人工智能和健康领跑",
+      "te": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
+      "s": "本周，大量大型初创企业融资，其中包括为网络安全独角兽企业提供的两轮 4 亿美元融资，以及为基础人工智能、药物发现、神经技术甚至降雨等热门领域初创企业的大型融资。",
+      "se": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across hot sectors, including foundational AI, drug discovery, neurotech, and even rainmaking.",
+      "u": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
+      "src": "Crunchbase News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology",
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "crunchbase_news_feed"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "crunchbase_news_feed",
+        "upstream_id": "https://news.crunchbase.com/?p=94117"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 31.0,
+      "when": "7 天前",
+      "date": "2026-09-25",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      },
+      "historical": true
+    },
+    {
       "id": "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
       "t": "奥兹表示，人工智能会先抬高医疗成本，然后再降低医疗成本",
       "te": "AI will inflate healthcare costs before lowering them, Oz says",
@@ -2152,11 +2101,11 @@
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e90335",
         "url:https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+        "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e99980",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e94896",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e96587"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e94896"
       ],
-      "minutes": 4
+      "minutes": 3
     },
     {
       "date": "2026-09-28",
