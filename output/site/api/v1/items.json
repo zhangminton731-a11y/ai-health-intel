@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-01T14:28:23+00:00",
-  "as_of": "2026-10-01",
-  "count": 30,
+  "generated_at": "2026-10-02T00:48:04+00:00",
+  "as_of": "2026-10-02",
+  "count": 27,
   "items": [
     {
       "id": "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
@@ -39,46 +39,6 @@
       "recommendation_reasons": {
         "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "围绕血糖管理，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
-      }
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e99757/",
-      "title": "使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究",
-      "original_title": "Diagnostic Performance of a Locally Deployed Vision Language Model for Bone Tumor Diagnosis Using Smartphone-Captured Images: Exploratory Retrospective Study",
-      "summary": "结论：在这项探索性研究中，添加评估的 RAG 配置并没有提高诊断准确性，并且在智能手机捕获的退化成像条件下与文本相关的诊断错误相关。研究结果表明，角色设计可能会影响 VLM 对检索信息的响应的稳健性，但这一观察结果需要在更大规模的多模型研究中进行验证。未来的研究应该评估对代表性的真实世界退化医学图像进行有针对性的视觉微调是否可以提高这种条件下的鲁棒性。结果：在没有 RAG 的情况下，放射科医生和骨科肿瘤科医生角色之间的前 3 名准确率没有显着差异（15/42, 36% vs 14/42, 33%；P =.76）。 RAG 集成后，放射科医生角色的 top-1 准确率从 12（29%，95% CI 16%-45%）下降到 6（14%，95% CI 5%-29%；P =.03）。",
-      "url": "https://ai.jmir.org/2026/1/e99757/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-21",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e99757/"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕肿瘤诊疗，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
-        "industry": "围绕肿瘤诊疗，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -119,47 +79,6 @@
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
-      "title": "利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法",
-      "original_title": "Leveraging Generative Large Language Models for Temporal Relation Extraction From French Clinical Narratives: Prompt-Chaining Approach",
-      "summary": "结论：用最少的上下文示例提示大语言模型可以在资源匮乏的情况下通过有限的特定领域注释实现 TRE 和标准化的强大性能。因此，依靠开放权重的本地模型，所提出的方法提供了在现实世界临床工作流程中部署的实用途径，并且可以进一步扩展以提取关键临床信息，例如诊断年龄或发病年龄，特别是在罕见疾病的背景下，它可以帮助预先填写结构化报告表格，减少直接从临床叙述中检索此类信息所需的手动工作。结果：所提出的方法在两种临床事件类型中仅使用少量上下文示例就实现了稳定的提取性能，罕见疾病诊断的最高得分为 0.72，表型事件的最高得分为 0.61。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e95198",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95198"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -212,7 +131,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -397,83 +316,6 @@
       }
     },
     {
-      "id": "url:https://ai.jmir.org/2026/1/e105049/",
-      "title": "用于评估营养信息对 1 型糖尿病管理影响的可解释多水平血糖预测：模型开发和验证研究",
-      "original_title": "Interpretable Multihorizon Glucose Forecasting for Assessing Nutritional Information Impact in Type 1 Diabetes Management: Model Development and Validation Study",
-      "summary": "结论：这些发现表明，纳入更全面的膳食成分表示可能会适度改善餐后血糖预测。特定时期的归因模式表明，模型在整个预测时期使用不同的营养投入；然而，这些发现不应被解释为单个营养素的因果或生理效应。在评估这些模型的潜在临床效用之前，需要进一步的外部和前瞻性验证。结果：包含额外营养信息的模型通常优于仅碳水化合物的基线。",
-      "url": "https://ai.jmir.org/2026/1/e105049/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-21",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e105049/"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕血糖管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
-      "title": "GE HealthCare 探索将生成式人工智能应用于放射治疗工作流程",
-      "original_title": "GE HealthCare to explore applying generative AI to radiation therapy workflows",
-      "summary": "该公司与麻省总医院布里格姆分校的研究团队合作，帮助护理团队获取患者的特定信息。",
-      "url": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
-      "source": "MedTech Dive",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-28",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
       "id": "url:https://ai.jmir.org/2026/1/e93854/",
       "title": "人工智能对医生技术的影响：定性访谈和焦点小组研究",
       "original_title": "The Perceived Influence of AI on the Craftsmanship of Physicians: Qualitative Interview and Focus Group Study",
@@ -604,7 +446,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -708,70 +550,43 @@
       }
     },
     {
-      "id": "url:https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
-      "title": "Teal Health 获得 2200 万美元用于家用 HPV 宫颈癌筛查设备",
-      "original_title": "Teal Health Secures $22M for At-Home HPV Cervical Cancer Screening Device",
-      "summary": "A 轮融资由 .406 Ventures 领投，Emerson Collective（由 Yosemite 管理）、Forerunner、Serena Ventures 和日本 MPower Partners 提供支持。",
-      "url": "https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-23",
-      "topics": [],
-      "event_type": "seen",
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
+      "title": "生成式人工智能支持的虚拟现实牙科技能培训对牙科学生学习表现、视觉行为和皮质激活的影响：分层随机对照试验",
+      "original_title": "Effects of Generative AI–Supported Virtual Reality Dental Skill Training on Learning Performance, Visual Behavior, and Cortical Activation Among Dental Students: Stratified Randomized Controlled Trial",
+      "summary": "结论：随机接受 GenAI 辅助培训的学生比接受教师指导的学生具有更高的即时手术分数。次要的认知、行为和神经生理学发现是探索性的，并指出接受基于 VR 培训的牙科学生中 GenAI 暴露与技能获取指标变化之间存在联系。结果提供了有关 GenAI 与临床前牙科技能教育的潜在整合的初步见解。临床试验：中国临床试验注册中心ChiCTR2500110063；",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e90938",
+      "source": "Journal of Medical Internet Research",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "medcity_news"
+          "jmir"
         ],
         "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150171"
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90938"
       },
       "sections": [
-        "industry"
+        "research"
       ],
       "categories": {
-        "industry": [
-          "products",
-          "business"
+        "research": [
+          "papers"
         ]
       },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕肿瘤诊疗，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      }
-    },
-    {
-      "id": "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-      "title": "我们的新健康和安全工具已在 Google Health 应用中上线。",
-      "original_title": "Our new health and safety tools are live in the Google Health app.",
-      "summary": "Pixel Watch 用户可以在 Google Health 应用中探索新的健康和安全工具。",
-      "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-      "source": "Google Blog",
-      "source_type": "企业发布",
-      "published_at": "2026-09-24",
-      "topics": [],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "fitbit_google_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "fitbit_google_blog",
-        "upstream_id": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/"
-      },
-      "sections": [
-        "industry"
+      "research_stages": [
+        "validation"
       ],
-      "categories": {
-        "industry": [
-          "products"
-        ]
-      },
-      "research_stages": [],
       "recommendation_reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
+        "research": "结合这篇文章的具体场景，可关注干预、对照和终点如何设置，为自己的验证方案提供参照；研究结果能否迁移还取决于人群与场景。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -822,7 +637,7 @@
       "topics": [
         "business"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "medcity_news"
@@ -993,6 +808,47 @@
       }
     },
     {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e102359",
+      "title": "医疗人工智能的精细化排除：数据正义与患者安全治理",
+      "original_title": "Refined Exclusion in Medical AI: Data Justice and Patient Safety Governance",
+      "summary": "医疗人工智能通常使用区分度、校准和准确性的综合衡量标准进行评估。然而，这些措施可能会掩盖患者群体、机构、设备和工作流程之间临床上重要的差异。这种观点将精细排除定义为一种治理条件，在这种条件下，人工智能系统总体上看起来是成功的，而不确定性、错误或临床可靠性降低则集中在没有充分代表、测量、验证或监控的人群中。该概念不会取代算法公平性、隐藏分层、数据集移位或子组性能分析。它将这些机制与一个明显的后果联系起来：安全分配不均，但仍未得到充分检测或纠正。",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e102359",
+      "source": "Journal of Medical Internet Research",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e102359"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
       "id": "url:https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/",
       "title": "当人工智能出错时，谁该负责？",
       "original_title": "When AI Gets Medicine Wrong, Who’s Liable?",
@@ -1092,6 +948,42 @@
       "research_stages": [],
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03338-2",
+      "title": "医疗保健专业人员对临床实践中人工智能辅助决策的看法：定性荟萃分析",
+      "original_title": "Healthcare professionals’ perceptions on AI-assisted decision-making in clinical practice: a qualitative meta-synthesis",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03338-2",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03338-2"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },

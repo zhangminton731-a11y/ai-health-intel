@@ -1,12 +1,17 @@
 {
-  "checks": [],
+  "checks": [
+    {
+      "count": 8,
+      "kind": "rss_atom"
+    }
+  ],
   "enabled": true,
-  "error": "ParseError: not well-formed (invalid token): line 14, column 4",
-  "generated_at": "2026-10-01T14:28:23+00:00",
-  "item_count": 0,
+  "error": "",
+  "generated_at": "2026-10-02T00:48:04+00:00",
+  "item_count": 8,
   "required": false,
   "role": "supplemental",
   "source_id": "nature_biomedical_engineering",
   "source_kind": "rss",
-  "status": "failed"
+  "status": "ok"
 }

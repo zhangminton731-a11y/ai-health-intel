@@ -1,15 +1,20 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-01T14:28:23+00:00",
-  "as_of": "2026-10-01",
+  "generated_at": "2026-10-02T00:48:04+00:00",
+  "as_of": "2026-10-02",
   "item_ids": [
-    "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e104019",
-    "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-    "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e95198"
+    "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
+    "url:https://www.jmir.org/article/view/jmir_v28i1e102359"
   ],
   "editions": [
+    {
+      "date": "2026-10-01",
+      "item_ids": [
+        "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e102359"
+      ],
+      "minutes": 2
+    },
     {
       "date": "2026-09-30",
       "item_ids": [
@@ -17,7 +22,7 @@
         "url:https://www.jmir.org/article/view/jmir_v28i1e104019",
         "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
         "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e95198"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e105536"
       ],
       "minutes": 2
     },
@@ -34,8 +39,7 @@
       "date": "2026-09-28",
       "item_ids": [
         "url:https://ai.jmir.org/2026/1/e93900/",
-        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-        "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
+        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/"
       ],
       "minutes": 2
     },
@@ -55,30 +59,14 @@
       "minutes": 1
     },
     {
-      "date": "2026-09-24",
-      "item_ids": [
-        "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/"
-      ],
-      "minutes": 1
-    },
-    {
       "date": "2026-09-23",
       "item_ids": [
         "url:https://ai.jmir.org/2026/1/e93854/",
-        "url:https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
         "url:https://ai.jmir.org/2026/1/e93498/"
-      ],
-      "minutes": 2
-    },
-    {
-      "date": "2026-09-21",
-      "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e99757/",
-        "url:https://ai.jmir.org/2026/1/e105049/"
       ],
       "minutes": 2
     }
   ],
-  "edition_date": "2026-09-30",
-  "text": "奇点日报 · 2026-09-30\n这一天的 5 件 AI 医疗大事\n\n01 · 政策动态\n人工智能的医疗保健“世界末日”？与其说是自治，不如说是信任\n对于一名 ICU 医生和初创公司首席营销官来说，更直接的危险不是自治系统接管医学并抛弃人类决策。医疗保健组织利用人工智能主要是为了提高效率，同时使医疗保健提供者更加陷入复杂性和监管之中。\nMedCity News · 2026-09-30\nhttps://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/\n\n02 · 论文研究\n评估人工智能辅助技术对老年人的物有所值：经济评估的范围审查\n结论：本综述总结了遵循 ICOPE 护理途径的老年医疗保健中人工智能辅助技术的现有经济证据。它超越了之前的审查，评估了人工智能在一般或特定疾病人群中的成本效益，但没有解决老年人的独特成本结构、护理需求和公平考虑。通过对照 ICOPE 领域所包含的证据，本次审查确定了经济证据集中的地方和严重缺乏的地方，为护理路径不同组成部分的政策设计和未来研究提供结构化指导。结果：2018 年至 2026 年间发表的 40 项研究符合纳入标准。\nJournal of Medical Internet Research · 2026-09-30\nhttps://www.jmir.org/article/view/jmir_v28i1e104019\n\n03 · 融资合作\n9 月份 4 项值得注意的健康科技融资公告\n健康科技公司在 9 月份发布了几项重大融资公告。以下是一些最大融资轮的列表。\nMedCity News · 2026-09-30\nhttps://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/\n\n04 · 技术进展\n谷歌的人工智能在预测流感住院方面排名第一。\n美国疾病控制中心宣布，谷歌的科学人工智能模型在预测流感相关住院情况方面表现最好。\nGoogle Blog · 2026-09-30\nhttps://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/\n\n05 · 论文研究\n利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法\n结论：用最少的上下文示例提示大语言模型可以在资源匮乏的情况下通过有限的特定领域注释实现 TRE 和标准化的强大性能。因此，依靠开放权重的本地模型，所提出的方法提供了在现实世界临床工作流程中部署的实用途径，并且可以进一步扩展以提取关键临床信息，例如诊断年龄或发病年龄，特别是在罕见疾病的背景下，它可以帮助预先填写结构化报告表格，减少直接从临床叙述中检索此类信息所需的手动工作。结果：所提出的方法在两种临床事件类型中仅使用少量上下文示例就实现了稳定的提取性能，罕见疾病诊断的最高得分为 0.72，表型事件的最高得分为 0.61。\nJournal of Medical Internet Research · 2026-09-30\nhttps://www.jmir.org/article/view/jmir_v28i1e95198\n"
+  "edition_date": "2026-10-01",
+  "text": "奇点日报 · 2026-10-01\n这一天的 2 件 AI 医疗大事\n\n01 · 论文研究\n生成式人工智能支持的虚拟现实牙科技能培训对牙科学生学习表现、视觉行为和皮质激活的影响：分层随机对照试验\n结论：随机接受 GenAI 辅助培训的学生比接受教师指导的学生具有更高的即时手术分数。次要的认知、行为和神经生理学发现是探索性的，并指出接受基于 VR 培训的牙科学生中 GenAI 暴露与技能获取指标变化之间存在联系。结果提供了有关 GenAI 与临床前牙科技能教育的潜在整合的初步见解。临床试验：中国临床试验注册中心ChiCTR2500110063；\nJournal of Medical Internet Research · 2026-10-01\nhttps://www.jmir.org/article/view/jmir_v28i1e90938\n\n02 · 论文研究\n医疗人工智能的精细化排除：数据正义与患者安全治理\n医疗人工智能通常使用区分度、校准和准确性的综合衡量标准进行评估。然而，这些措施可能会掩盖患者群体、机构、设备和工作流程之间临床上重要的差异。这种观点将精细排除定义为一种治理条件，在这种条件下，人工智能系统总体上看起来是成功的，而不确定性、错误或临床可靠性降低则集中在没有充分代表、测量、验证或监控的人群中。该概念不会取代算法公平性、隐藏分层、数据集移位或子组性能分析。它将这些机制与一个明显的后果联系起来：安全分配不均，但仍未得到充分检测或纠正。\nJournal of Medical Internet Research · 2026-10-01\nhttps://www.jmir.org/article/view/jmir_v28i1e102359\n"
 }

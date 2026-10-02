@@ -1,9 +1,59 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-01T14:28:23+00:00",
-  "as_of": "2026-10-01",
+  "generated_at": "2026-10-02T00:48:04+00:00",
+  "as_of": "2026-10-02",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
+      "t": "利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法",
+      "te": "Leveraging Generative Large Language Models for Temporal Relation Extraction From French Clinical Narratives: Prompt-Chaining Approach",
+      "s": "结论：用最少的上下文示例提示大语言模型可以在资源匮乏的情况下通过有限的特定领域注释实现 TRE 和标准化的强大性能。因此，依靠开放权重的本地模型，所提出的方法提供了在现实世界临床工作流程中部署的实用途径，并且可以进一步扩展以提取关键临床信息，例如诊断年龄或发病年龄，特别是在罕见疾病的背景下，它可以帮助预先填写结构化报告表格，减少直接从临床叙述中检索此类信息所需的手动工作。结果：所提出的方法在两种临床事件类型中仅使用少量上下文示例就实现了稳定的提取性能，罕见疾病诊断的最高得分为 0.72，表型事件的最高得分为 0.61。",
+      "se": "Conclusions: Prompting LLMs with a minimal set of in-context examples can achieve strong performance for TRE and normalization in low-resource settings with limited domain-specific annotations. Relying on open-weight, on-premises models, the proposed approach therefore offers a practical path toward deployment in real-world clinical workflows and could further be extended to extract key clinical information, such as age at diagnosis or age at onset, particularly in the context of rare diseases, where it could help prefill structured reporting forms, reducing the manual effort needed to retrieve such information directly from clinical narratives. Results: The proposed approach achieves stable extraction performance with only a small number of in-context examples across both clinical event types, reaching a maximum -score of 0.72 for rare disease diagnoses and 0.61 for phenotype events.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e95198",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95198"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 81.0,
+      "when": "2 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
       "t": "STAT+：Anthropic 加入 ARPA-H 临床人工智能登月计划，将举办闭门医疗保健活动",
@@ -42,7 +92,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 66.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -93,7 +143,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 54.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -141,7 +191,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -190,7 +240,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 41.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕病历数据，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -237,11 +287,56 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 73.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "围绕肿瘤诊疗，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
+      "t": "GE HealthCare 探索将生成式人工智能应用于放射治疗工作流程",
+      "te": "GE HealthCare to explore applying generative AI to radiation therapy workflows",
+      "s": "该公司与麻省总医院布里格姆分校的研究团队合作，帮助护理团队获取患者的特定信息。",
+      "se": "The company has teamed up with a Mass General Brigham research team to help care teams access patient-specific information.",
+      "u": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
+      "src": "MedTech Dive",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "upstream_id": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 49.0,
+      "when": "4 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -283,7 +378,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 25.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -333,7 +428,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -381,7 +476,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -430,7 +525,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "围绕帕金森病，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -477,7 +572,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
@@ -524,7 +619,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-09-26",
       "reasons": {
         "research": "围绕血压与慢病管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -573,7 +668,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -622,7 +717,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -666,7 +761,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 89.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕脑机接口，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -713,7 +808,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 41.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -760,7 +855,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕精神心理健康，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -805,7 +900,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕卒中研究，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -854,7 +949,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕帕金森病，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -901,7 +996,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -949,7 +1044,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -999,7 +1094,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 98.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕睡眠与呼吸监测，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1041,7 +1136,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1092,7 +1187,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 45.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -1140,7 +1235,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1190,11 +1285,96 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 51.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕卒中研究，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
         "industry": "围绕卒中研究，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "t": "我们的新健康和安全工具已在 Google Health 应用中上线。",
+      "te": "Our new health and safety tools are live in the Google Health app.",
+      "s": "Pixel Watch 用户可以在 Google Health 应用中探索新的健康和安全工具。",
+      "se": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "u": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "src": "Google Blog",
+      "role": "企业发布",
+      "cat": "企业发布",
+      "trust": 2,
+      "sourceType": "企业发布",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "fitbit_google_blog"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fitbit_google_blog",
+        "upstream_id": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 33.0,
+      "when": "8 天前",
+      "date": "2026-09-24",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
+      "t": "Teal Health 获得 2200 万美元用于家用 HPV 宫颈癌筛查设备",
+      "te": "Teal Health Secures $22M for At-Home HPV Cervical Cancer Screening Device",
+      "s": "A 轮融资由 .406 Ventures 领投，Emerson Collective（由 Yosemite 管理）、Forerunner、Serena Ventures 和日本 MPower Partners 提供支持。",
+      "se": "The Series A round was led by .406 Ventures, with support from Emerson Collective (managed by Yosemite), Forerunner, Serena Ventures and Japan-based MPower Partners.",
+      "u": "https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/",
+      "src": "MedCity News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medcity_news"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150171"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 33.0,
+      "when": "9 天前",
+      "date": "2026-09-23",
+      "reasons": {
+        "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕肿瘤诊疗，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
       },
       "historical": true
     },
@@ -1236,7 +1416,7 @@
       "tier": "must_read",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-22",
       "reasons": {
         "research": "围绕精神心理健康，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1280,7 +1460,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 40.0,
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-22",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1322,7 +1502,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-22",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1366,11 +1546,110 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-21",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e99757/",
+      "t": "使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究",
+      "te": "Diagnostic Performance of a Locally Deployed Vision Language Model for Bone Tumor Diagnosis Using Smartphone-Captured Images: Exploratory Retrospective Study",
+      "s": "结论：在这项探索性研究中，添加评估的 RAG 配置并没有提高诊断准确性，并且在智能手机捕获的退化成像条件下与文本相关的诊断错误相关。研究结果表明，角色设计可能会影响 VLM 对检索信息的响应的稳健性，但这一观察结果需要在更大规模的多模型研究中进行验证。未来的研究应该评估对代表性的真实世界退化医学图像进行有针对性的视觉微调是否可以提高这种条件下的鲁棒性。结果：在没有 RAG 的情况下，放射科医生和骨科肿瘤科医生角色之间的前 3 名准确率没有显着差异（15/42, 36% vs 14/42, 33%；P =.76）。 RAG 集成后，放射科医生角色的 top-1 准确率从 12（29%，95% CI 16%-45%）下降到 6（14%，95% CI 5%-29%；P =.03）。",
+      "se": "Conclusions: In this exploratory study, adding the evaluated RAG configuration did not improve diagnostic accuracy and was associated with text-related diagnostic errors under smartphone-captured degraded imaging conditions. The findings suggest that persona design may influence the robustness of VLM responses to retrieved information, but this observation requires validation in larger, multimodel studies. Future studies should evaluate whether targeted visual fine-tuning on representative real-world degraded medical images can improve robustness under such conditions. Results: Without RAG, the top-3 accuracy showed no significant difference between the radiologist and orthopedic oncologist personas (15/42, 36% vs 14/42, 33%; P =.76). After RAG integration, top-1 accuracy in the radiologist persona decreased from 12 (29%, 95% CI 16%-45%) to 6 (14%, 95% CI 5%-29%; P =.03).",
+      "u": "https://ai.jmir.org/2026/1/e99757/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e99757/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 81.0,
+      "when": "11 天前",
+      "date": "2026-09-21",
+      "reasons": {
+        "research": "围绕肿瘤诊疗，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
+        "industry": "围绕肿瘤诊疗，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e105049/",
+      "t": "用于评估营养信息对 1 型糖尿病管理影响的可解释多水平血糖预测：模型开发和验证研究",
+      "te": "Interpretable Multihorizon Glucose Forecasting for Assessing Nutritional Information Impact in Type 1 Diabetes Management: Model Development and Validation Study",
+      "s": "结论：这些发现表明，纳入更全面的膳食成分表示可能会适度改善餐后血糖预测。特定时期的归因模式表明，模型在整个预测时期使用不同的营养投入；然而，这些发现不应被解释为单个营养素的因果或生理效应。在评估这些模型的潜在临床效用之前，需要进一步的外部和前瞻性验证。结果：包含额外营养信息的模型通常优于仅碳水化合物的基线。",
+      "se": "Conclusions: These findings suggest that incorporating a more comprehensive representation of meal composition may modestly improve postprandial glucose forecasting. Horizon-specific attribution patterns indicated that the models used nutritional inputs differently across the forecast horizon; however, these findings should not be interpreted as causal or physiological effects of individual nutrients. Further external and prospective validation is required before the potential clinical utility of these models can be assessed. Results: Models incorporating additional nutritional information generally outperformed the carbohydrate-only baseline.",
+      "u": "https://ai.jmir.org/2026/1/e105049/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e105049/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 49.0,
+      "when": "11 天前",
+      "date": "2026-09-21",
+      "reasons": {
+        "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕血糖管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -1407,7 +1686,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 83.0,
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-18",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1454,7 +1733,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1496,7 +1775,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 73.0,
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1537,7 +1816,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 25.0,
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1586,7 +1865,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -1633,7 +1912,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 59.0,
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-15",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1674,7 +1953,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 66.0,
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-14",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1713,190 +1992,23 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-13",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
-    },
-    {
-      "id": "url:https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/",
-      "t": "洞察、服务：Oura 数据揭示网球对心脏健康、恢复等的影响",
-      "te": "Insights, Served: Oura Data Reveals Effects of Tennis on Heart Health, Recovery, and More",
-      "s": "作为美国网球公开赛和美国网球协会的官方可穿戴合作伙伴，Oura 很自豪能够支持各个级别的网球运动员（从全球冠军到日常击球手）的健康和福祉。网球通常被认为是一项有益心脏健康的运动——一项需要快速冲刺、强有力的发球和快速变向的高风险运动。但是一个小时如何[...]",
-      "se": "As the official wearable partner of the US Open and USTA, Oura is proud to champion the health and well-being of tennis players across all levels—from global champions to everyday hitters. Tennis is often celebrated as a heart-healthy workout—a high-stakes game of fast sprints, powerful serves, and quick directional changes. But how does an hour […]",
-      "u": "https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/",
-      "src": "Oura",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [
-        "consumer"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "oura_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "oura_blog",
-        "upstream_id": "https://ouraring.wpengine.com/?p=1006727"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 35.0,
-      "when": "20 天前",
-      "date": "2026-09-11",
-      "reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-      "t": "林肯实验室救生设备荣获 2026 年卓越技术转让奖",
-      "te": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
-      "s": "由林肯实验室和马萨诸塞州总医院创建的手持式导管插入设备 AI-GUIDE 有望改善受伤军人和平民的健康状况。",
-      "se": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
-      "u": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-      "src": "MIT News · Health",
-      "role": "研究机构",
-      "cat": "研究机构",
-      "trust": 3,
-      "sourceType": "研究机构",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "mit_health"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "mit_health",
-        "upstream_id": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": 23.0,
-      "when": "20 天前",
-      "date": "2026-09-11",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
-      "t": "Nutroomics 抗生素监测贴片获得 FDA 突破性认证",
-      "te": "Nutromics Nabs FDA Breakthrough Status for Antibiotic Monitoring Patch",
-      "s": "Nutroomics 因其可实时追踪万古霉素水平的可穿戴贴片而获得 FDA 突破性设备称号。该装置旨在取代目前用于注射难以管理的抗生素的定期抽血的方式。",
-      "se": "Nutromics earned FDA breakthrough device designation for its wearable patch that tracks vancomycin levels in real time. The device aims to replace the periodic blood draws currently used to dose the tricky-to-manage antibiotic.",
-      "u": "https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "consumer",
-        "regulation"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "regulation"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=149987",
-        "retrieved_via": "rss"
-      },
-      "tier": "must_read",
-      "freshness": "fresh",
-      "rel": 53.0,
-      "when": "20 天前",
-      "date": "2026-09-11",
-      "reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
-      "t": "GenHealth.ai 筹集 1650 万美元用于自动化医疗管理任务",
-      "te": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks",
-      "s": "Flare Capital Partners 领投了 A 轮融资。 Craft、Obvious Ventures、Eniac Ventures、InHealth Ventures、Epsilon Health Investors 和 ARTIS 也参与其中。",
-      "se": "Flare Capital Partners led the Series A round. Craft, Obvious Ventures, Eniac Ventures, InHealth Ventures, Epsilon Health Investors and ARTIS also participated.",
-      "u": "https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology",
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=149989",
-        "retrieved_via": "rss"
-      },
-      "tier": "must_read",
-      "freshness": "fresh",
-      "rel": 79.0,
-      "when": "20 天前",
-      "date": "2026-09-11",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      },
-      "historical": true
     }
   ],
   "editions": [
+    {
+      "date": "2026-09-30",
+      "item_ids": [
+        "url:https://www.jmir.org/article/view/jmir_v28i1e95198"
+      ],
+      "minutes": 1
+    },
     {
       "date": "2026-09-29",
       "item_ids": [
@@ -1913,11 +2025,11 @@
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
         "url:https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
+        "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e105583",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e111711",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e88257"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e111711"
       ],
-      "minutes": 3
+      "minutes": 2
     },
     {
       "date": "2026-09-25",
@@ -1934,11 +2046,19 @@
       "date": "2026-09-24",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e105068",
+        "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
         "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e90870",
         "url:https://www.jmir.org/article/view/jmir_v28i1e87806"
       ],
       "minutes": 3
+    },
+    {
+      "date": "2026-09-23",
+      "item_ids": [
+        "url:https://medcitynews.com/2026/09/teal-health-secures-22m-for-at-home-hpv-cervical-cancer-screening-device/"
+      ],
+      "minutes": 1
     },
     {
       "date": "2026-09-22",
@@ -1952,9 +2072,11 @@
     {
       "date": "2026-09-21",
       "item_ids": [
-        "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/"
+        "url:https://ai.jmir.org/2026/1/e99757/",
+        "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
+        "url:https://ai.jmir.org/2026/1/e105049/"
       ],
-      "minutes": 1
+      "minutes": 2
     },
     {
       "date": "2026-09-18",
@@ -1999,16 +2121,6 @@
         "url:https://medcitynews.com/2026/09/healthcare-doesnt-need-simpler-software-it-needs-software-that-handles-a-messy-reality/"
       ],
       "minutes": 1
-    },
-    {
-      "date": "2026-09-11",
-      "item_ids": [
-        "url:https://medcitynews.com/2026/09/genhealth-ai-raises-16-5m-to-automate-healthcare-administrative-tasks/",
-        "url:https://medcitynews.com/2026/09/nutromics-fda-antibiotic/",
-        "url:https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-        "url:https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/"
-      ],
-      "minutes": 2
     }
   ]
 }
