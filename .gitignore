@@ -13,3 +13,7 @@ Thumbs.db
 node_modules/
 
 .venv-mcp/
+
+# Operational state restored by Actions, including failed unpublished batches.
+output/.state/source_health_history.json
+.monitor-state/
