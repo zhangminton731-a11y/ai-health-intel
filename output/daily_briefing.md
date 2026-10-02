@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-02
 
-> Daily status: **complete** · sources 17/17 · items 241
+> Daily status: **complete_with_warning** · sources 15/17 · items 224
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 17
+## Scan · 15
 
 ### [DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens](https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/)
 
@@ -33,14 +33,6 @@ Background: As populations age globally, AI-enabled digital health interventions
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/oura-delays-ipo/831650/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/dWwvl3Ls0vDbyjrmbIMaGNVoHBqj64OuWCY1TpoL6HA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMl9PdXJhX1JpbmdfNF9Qcm9kdWN0X0ltYWdlcnkuanBn.webp"/></div></figure><p>Citing market uncertainty, the smart ring maker plans to delay a public offering that it had expected to raise up to $2.2 billion.</p>
-
-### [Vision wearables with artificial intelligence to close the sensory gap in patient characterization](https://www.nature.com/articles/s41746-026-03156-6)
-
-- Source: `npj_digital_medicine` · published `2026-09-30` · freshness `fresh`
-- Topic relevance: `0.6` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03156-6`
-
-No summary supplied by the source.
 
 ### [The Nursing Implementation Complexity Tool for Digital Technology Implementation in Nursing: Design Science Research Study](https://www.jmir.org/article/view/jmir_v28i1e105536)
 
@@ -98,14 +90,6 @@ Background: Health care systems face rising demand and persistent staff shortage
 
 Background: AI systems are increasingly deployed across National Health Service (NHS) services, yet safety and implementation challenges may only become apparent after clinical go-live. Existing governance and implementation frameworks provide valuable high-level guidance, but health care provider organizations still require practical, auditable tools to support preimplementation decision-making. Objective: This study aimed to develop a deployment-derived AI readiness checklist and assess its early feasibility, face validity, and content validity within the originating NHS Trust context. Methods: We conducted a pragmatic checklist development study with retrospective structured application in a UK NHS district general hospital (George Eliot Hospital NHS Trust). The SID &amp; ADE AI Pre-Implementation Checklist was developed from empirical learning across trust AI deployment activity, primarily an AI fracture detection system and an AI-supported prostate magnetic resonance imaging pathway. Evidence sources included a clinico-AI discordance study, the Quality, Service Improvement and Redesign program using plan-do-study-act cycles, and governance artifacts from AI deployment activities. Safety, governance, operational, workforce, information governance, procurement, and monitoring gaps were translated into auditable preimplementation requirements. The checklist was retrospectively applied to the same deployments from which it was derived to assess readiness completeness and demonstrate face and content validity within the originating context. This design was not intended to establish independent construct or predictive validity. Results: The checklist comprises 8 domains: use-case definition; clinical safety and accountability; local validation and performance; workforce readiness and human factors; operational and technical integration; information governance and ethics; procurement, liability, and financial risk; and monitoring, evaluation, and stop rules. Retrospective application demonstrated variability in readiness completeness across domains, with recurrent gaps in workforce readiness, local validation, and monitoring. The process highlighted areas where structured pre–go-live deliberation may have prompted earlier remediation and clearer governance action. Conclusions: The SID &amp; ADE AI Pre-Implementation Checklist translates real-world AI deployment learning into a practical preimplementation deliberation tool. Current evidence supports face and content validity within the originating trust context, but independent prospective validation is required before claims of predictive validity, generalizability, or quantitative go-live thresholds can be made. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8e1e1149e0b28b8a2060aecefdc0de39" />
 
-### [Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias](https://www.nature.com/articles/s41746-026-03277-y)
-
-- Source: `npj_digital_medicine` · published `2026-09-29` · freshness `fresh`
-- Topic relevance: `0.45` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03277-y`
-
-No summary supplied by the source.
-
 ### [Implementing Telemedicine for Neonatal Care: Tutorial on a Practical Toolkit Based on Multinational Experience](https://www.jmir.org/article/view/jmir_v28i1e90592)
 
 - Source: `jmir` · published `2026-09-30` · freshness `fresh`
@@ -126,7 +110,7 @@ Background: Large language models (LLMs) are increasingly deployed in mental hea
 
 - Source: `jmir` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.33` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90938`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90938`
 
 Background: The rapid advancement of AI, particularly generative AI (GenAI), is reshaping educational paradigms. However, its utility in preclinical digital medical skills education remains insufficiently explored. Objective: This study aims to investigate whether GenAI‑assisted training yields superior performance relative to traditional instruction in virtual reality (VR)–supported preclinical dental skill education. Methods: A total of 123 eligible students from a top‑tier Chinese university completed the trial. Participants were stratified by baseline theoretical scores and randomly assigned within each stratum into two arms: the GenAI-assisted group (n=62) received ChatGPT guidance without human tutoring, with research assistants monitoring AI outputs solely for safety and error checking; the teacher-led control group (n=61) received on-site instructor guidance. Both groups underwent standardized VR-based dental skill training for 7 days. Assessments included dental operative skill examinations, functional near-infrared spectroscopy recording, continuous eye-tracking monitoring, visual-spatial ability tests, and questionnaires measuring self-regulated learning, learning emotions, and engagement. Results: As the primary outcome, there was a statistically significant intergroup difference in operative test scores between the control group (mean 67.39, SD 16) and the GenAI‑assisted group (mean 77.25, SD 11.86), with the GenAI‑assisted group exhibiting higher operative test scores relative to the control group (t&lt;sub&gt;110.56&lt;/sub&gt;=3.88, Cohen &lt;i&gt;d&lt;/i&gt;=0.70; &lt;i&gt;P&lt;/i&gt;&lt;.001). For secondary outcomes, the GenAI‑assisted group also demonstrated significantly lower cognitive‑load indicators (mean 0.180, SD 0.136) than the control group (mean 0.346, SD 0.150; &lt;i&gt;P&lt;/i&gt;&lt;.001), accompanied by more efficient visual attention allocation patterns and stronger activation in prefrontal cortex, motor cortex, visual association cortex, and temporoparietal junction brain regions. The GenAI‑assisted group showed better performance across low (&lt;i&gt;P&lt;/i&gt;=.003), medium (&lt;i&gt;P&lt;/i&gt;=.004), and high (&lt;i&gt;P&lt;/i&gt;=.004) level visual-spatial ability tests. Among low-achieving participants, the largest between-group difference in self-regulated learning was found in favor of the GenAI-assisted group (&lt;i&gt;P&lt;/i&gt;=.02). Better scores were also observed for the GenAI‑assisted group in learning enjoyment, as well as behavioral, emotional, and cognitive engagement. Conclusions: Students randomized to GenAI-assisted training had higher immediate operative scores than students receiving teacher-led instruction. Secondary cognitive, behavioral, and neurophysiological findings were exploratory and pointed toward a link between GenAI exposure and variations in skill‑acquisition metrics among dental students receiving VR-based training. The results offer preliminary insights regarding the potential integration of GenAI into preclinical dental skill education. Clinical Trial: Chinese Clinical Trial Registry ChiCTR2500110063; https://tinyurl.com/2hkv5wt9 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2783e59564a352bc43854bf93721c931" />
 
@@ -146,7 +130,7 @@ This week delivered a bountiful supply of big startup funding rounds, led by two
 
 <p><a href="https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity.jpg" class="attachment-large size-large wp-post-image" alt="Digital generated image of multi layered dollar sign making swirl pattern." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Health tech companies made several major funding announcements in September. Here is a list of some of the biggest funding rounds.</p> <p>The post <a href="https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/">4 Notable Health Tech Funding Announcements in September</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-## Hold · 10
+## Hold · 9
 
 ### [Dexcom report paints mixed picture of CGM use by people with type 2 diabetes](https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/)
 
@@ -184,7 +168,7 @@ AI is already in the mental health consulting room, whether clinicians invite it
 
 - Source: `jmir` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.25` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102359`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102359`
 
 Medical AI is often evaluated using aggregate measures of discrimination, calibration, and accuracy. However, these measures can obscure clinically important variation across patient groups, institutions, devices, and workflows. This viewpoint defines refined exclusion as a governance condition in which an AI system appears successful in aggregate, while uncertainty, error, or reduced clinical reliability is concentrated in populations that are insufficiently represented, measured, validated, or monitored. The concept does not replace algorithmic fairness, hidden stratification, dataset shift, or subgroup performance analysis. It connects these mechanisms to a distinct consequence: an unequal distribution of safety that remains inadequately detected or corrected. Drawing on purposively selected, illustrative evidence from population health management, chest radiography, dermatology, computational pathology, medical foundation models, and clinical measurement, we distinguish model-level disparity, patient safety signals, and documented patient harm. We then frame data justice as a complementary governance approach with distributional, procedural, and substantive dimensions. The proposed lifecycle decision gates address intended use, subgroup learnability, data provenance, validation, procurement, local deployment, monitoring, updates, and patient feedback. Each gate links minimum evidence to decision authority and 1 of 4 actions: proceed, enrich or validate, restrict use, or pause or retire. Governance intensity should be proportionate to clinical risk and evidentiary uncertainty. By linking subgroup evidence gaps to institutional decisions and corrective action, the framework shifts attention from whether a model performs well on average to whether its safety is demonstrable for the populations and settings in which it will be used. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d935ab20b0ddab565373f4ed2e2dc7b7" />
 
@@ -212,14 +196,6 @@ Medical AI is often evaluated using aggregate measures of discrimination, calibr
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp">Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.
 
-### [Healthcare professionals’ perceptions on AI-assisted decision-making in clinical practice: a qualitative meta-synthesis](https://www.nature.com/articles/s41746-026-03338-2)
-
-- Source: `npj_digital_medicine` · published `2026-10-01` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03338-2`
-
-No summary supplied by the source.
-
 ### [MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani](https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/)
 
 - Source: `medcity_news` · published `2026-09-29` · freshness `fresh`
@@ -228,7 +204,7 @@ No summary supplied by the source.
 
 <p><a href="https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode of the MedCity Pivot Podcast, CEO Priya Abani talks about the evolution of AliveCor, one of the earliest digital health companies. </p> <p>The post <a href="https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/">MedCity Pivot Podcast: A Conversation With AliveCor&#8217;s Priya Abani</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-## Archive · 214
+## Archive · 200
 
 ### [Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health](https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/)
 
@@ -346,7 +322,7 @@ Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure wa
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.51` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg">Google's prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX.
 
@@ -410,7 +386,7 @@ Background: Type 1 diabetes is characterized by absolute insulin deficiency, req
 
 - Source: `medtech_dive_primary` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.41` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/fda-selects-first-5-participants-for-readi-home-initiative/831911/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/fda-selects-first-5-participants-for-readi-home-initiative/831911/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/_1cebHGjIUJBOGLx_5Bu8Ko4KoNlfYLcd5Wq0CMhMfY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"/></div></figure><p>The innovation challenge is focused on developing home devices that could help reduce hospital readmissions.</p>
 
@@ -486,22 +462,6 @@ The visionary PhysioNet platform launched 25 years ago, based on a system develo
 
 Apple today introduced iPhone Duo, the first foldable iPhone.
 
-### [Ultra-slow release of hydrophilic drugs via multilamellar–multivesicular liposomes formed by unsaturated phospholipids](https://www.nature.com/articles/s41551-026-01793-6)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-23` · freshness `fresh`
-- Topic relevance: `0.31` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01793-6`
-
-No summary supplied by the source.
-
-### [Unsaturated phospholipids form multicompartment liposomes that extend release of hydrophilic drugs](https://www.nature.com/articles/s41551-026-01791-8)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-23` · freshness `fresh`
-- Topic relevance: `0.31` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01791-8`
-
-No summary supplied by the source.
-
 ### [UHC, Cigna and Centene Sign On to New National Shared Credentialing Program](https://medcitynews.com/2026/09/uhc-cigna-and-centene-sign-on-to-new-national-shared-credentialing-program/)
 
 - Source: `medcity_news` · published `2026-09-24` · freshness `fresh`
@@ -558,14 +518,6 @@ So far in 2026, investors have poured more than $6 billion into companies focuse
 
 The 2026 IPO market is reopening selectively, favoring large companies that spent the slowdown strengthening their financial reporting, governance and operations, writes guest author Mark Williams, chief revenue officer, enterprise, at Datasite, who explains why that readiness gives businesses options: list, raise private capital or sell.
 
-### [A scoping review and staged research agenda for artificial intelligence in viscoelastic haemostatic assays](https://www.nature.com/articles/s41746-026-03327-5)
-
-- Source: `npj_digital_medicine` · published `2026-09-30` · freshness `fresh`
-- Topic relevance: `0.3` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03327-5`
-
-No summary supplied by the source.
-
 ### [Modernizing Medicare Advantage for the Next Generation of Seniors](https://medcitynews.com/2026/09/modernizing-medicare-advantage-for-the-next-generation-of-seniors/)
 
 - Source: `medcity_news` · published `2026-09-24` · freshness `fresh`
@@ -594,7 +546,7 @@ No summary supplied by the source.
 
 - Source: `stat_news_feed` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.29` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss`
 
 Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.
 
@@ -706,7 +658,7 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 
 - Source: `medcity_news` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.25` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/sanofi-regeneron-partnership-next-generation-dupixent-immunology-inflammation-sny-regn/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/sanofi-regeneron-partnership-next-generation-dupixent-immunology-inflammation-sny-regn/`
 
 <p><a href="https://medcitynews.com/2026/10/sanofi-regeneron-partnership-next-generation-dupixent-immunology-inflammation-sny-regn/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Sanofi_sign.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Sanofi_sign.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Sanofi_sign-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Sanofi_sign-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>Sanofi and Regeneron Pharmaceuticals will collaborate on four next-generation antibody drugs that could offer advantages over Dupixent, the blockbuster immunology drug spawned by their R&amp;D alliance. The companies project these drugs will start reaching pivotal testing in 2029 — important because Dupixent faces patent expiration in 2031.</p> <p>The post <a href="https://medcitynews.com/2026/10/sanofi-regeneron-partnership-next-generation-dupixent-immunology-inflammation-sny-regn/">Sanofi Puts Up $1B to Expand Regeneron Alliance and Develop Next-Gen Dupixent</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -762,7 +714,7 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 - Source: `medcity_news` · published `2026-09-30` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/09/fda-advisory-committee-recruit-adcomm-scientific-consumer-regulation/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/fda-advisory-committee-recruit-adcomm-scientific-consumer-regulation/`
 
 <p><a href="https://medcitynews.com/2026/09/fda-advisory-committee-recruit-adcomm-scientific-consumer-regulation/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2019/01/FDAmed-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2019/01/FDAmed-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2019/01/FDAmed-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2019/01/FDAmed.jpg 640w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The FDA is recruiting to fill vacancies on its advisory committees, informally known as adcomms. While these committees have met less frequently during the Trump administration, more meetings have been scheduled since former Commissioner Marty Makary left the agency in May. </p> <p>The post <a href="https://medcitynews.com/2026/09/fda-advisory-committee-recruit-adcomm-scientific-consumer-regulation/">FDA Looks to Bring New Scientific, Consumer Voices to Advisory Committees</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -778,7 +730,7 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 - Source: `medtech_dive_primary` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/medtronic-drug-coated-balloon-gets-fda-breakthrough-status/831906/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtronic-drug-coated-balloon-gets-fda-breakthrough-status/831906/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/WbHm3CIQ9dFPMb5QtFNP78ZD6WnL4MhOrWpiG1ezCnE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZWR0cm9uaWNfSFEud2VicA==.webp"/></div></figure><p>Medtronic plans to study the device in patients with peripheral artery disease below the knee, a historically difficult condition to treat.</p>
 
@@ -794,7 +746,7 @@ The small biotech company Invivyd is developing an injectable, low-dose monoclon
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.21` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/creating-assets-youtube-ads/`
+- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/creating-assets-youtube-ads/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp">In this Ads Decoded episode, we discuss ad creative — and how it can make or break your YouTube campaigns.
 
@@ -802,7 +754,7 @@ The small biotech company Invivyd is developing an injectable, low-dose monoclon
 
 - Source: `medical_device_network` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.12` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/features/podcast-continuous-monitoring-metabolic-health-obesity-diabetes/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/features/podcast-continuous-monitoring-metabolic-health-obesity-diabetes/`
 
 <p>Continuous monitoring devices are increasingly being developed to map biomarkers other than glucose in the metabolic health space.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/podcast-continuous-monitoring-metabolic-health-obesity-diabetes/">Podcast: Continuous monitoring’s burgeoning role in metabolic health</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -1126,14 +1078,6 @@ A new study by MIT researchers shows that inhibiting caspase-1 can reduce the ri
 
 Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm and aesthetic of the hit open-world Apple Arcade game.
 
-### [IRIS guide for applicants - How to create, submit and manage IRIS applications, for industry and individual applicants](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/iris-guide-applicants-how-create-submit-scientific-applications-industry-individual-applicants_en.pdf)
-
-- Source: `ema_guidance` · published `2026-09-01` · freshness `stale`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/iris-guide-applicants-how-create-submit-scientific-applications-industry-individual-applicants_en.pdf`
-
-IRIS guide for applicants - How to create, submit and manage IRIS applications, for industry and individual applicants
-
 ### [European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/european-medicines-agency-pre-authorisation-procedural-advice-users-centralised-procedure_en.pdf)
 
 - Source: `ema_guidance` · published `2026-09-02` · freshness `stale`
@@ -1246,14 +1190,6 @@ Apple today released the next generation of Apple Intelligence.
 
 This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.
 
-### [Balancing safety and innovation in medical device regulation](https://www.nature.com/articles/s41551-026-01807-3)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-16` · freshness `stale`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01807-3`
-
-No summary supplied by the source.
-
 ### [Celebrating “What Holds Us” on iPhone 18 Pro](https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/)
 
 - Source: `apple_newsroom` · published `2026-09-16` · freshness `stale`
@@ -1261,14 +1197,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/`
 
 A new photography exhibition, curated by Kathy Ryan, celebrates the evolving language of visual storytelling and showcases the advanced pro camera system on iPhone 18 Pro.
-
-### [Source data under scrutiny](https://www.nature.com/articles/s41551-026-01808-2)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-16` · freshness `stale`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01808-2`
-
-No summary supplied by the source.
 
 ### [A new understanding of how enzymes influence bacterial protein production](https://news.mit.edu/2026/how-enzymes-influence-bacterial-protein-production-0918)
 
@@ -1302,14 +1230,6 @@ Pharmacovigilance-related regulatory recommendations for centrally authorised ve
 
 On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.
 
-### [Development of an investigational epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B](https://www.nature.com/articles/s41551-026-01802-8)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-21` · freshness `stale`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01802-8`
-
-No summary supplied by the source.
-
 ### [Apple opens Apple Music Hall, a state-of-the-art live music venue in London](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/)
 
 - Source: `apple_newsroom` · published `2026-09-22` · freshness `fresh`
@@ -1318,14 +1238,6 @@ No summary supplied by the source.
 
 Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.
 
-### [Biomimetic graphitic carbon nitride nanoparticles for multiscale photomodulation and therapeutic intervention](https://www.nature.com/articles/s41551-026-01773-w)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-22` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01773-w`
-
-No summary supplied by the source.
-
 ### [Demographics, Clinical Content, Use Patterns, and Care-Seeking Intent Across Two Generations of AI-Enabled Clinical Triage Tools (A Traditional Structured Questionnaire and a Large Language Model–Enabled Conversational Interface): Comparative Retrospective Observational Study](https://ai.jmir.org/2026/1/e84469/)
 
 - Source: `jmir_ai` · published `2026-09-22` · freshness `fresh`
@@ -1333,14 +1245,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e84469/`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Virtual clinical triage is central to digital front door strategies, yet how interaction mode—structured, closed-ended AI questionnaires vs large language model (LLM)–enabled conversational dialogue—affects information capture, engagement, and alignment with care recommendations is unclear. &lt;strong&gt;Objective:&lt;/strong&gt; This study compared demographics, clinical content, engagement, and alignment with recommended care between a traditional, structured questionnaire interface (traditional triage [TT]) and an LLM-enabled conversational interface (conversational triage [CT]) sharing the same validated Bayesian reasoning engine. &lt;strong&gt;Methods:&lt;/strong&gt; This comparative, retrospective observational study analyzed 116,890 encounters over 28 weeks (January 2025 to August 2025) completed on a virtual triage website. Users self-selected TT or CT. Primary end points included demographic and clinical characteristics, engagement patterns, and self-reported intended adherence to triage recommendations. Analyses used poststratification weighting by age and sex. Group differences were assessed with the chi-square test (with Rao-Scott correction for weighted data) and survey-weighted Wilcoxon rank-sum test; &lt;i&gt;P&lt;/i&gt; values for comparisons of proportions were adjusted for multiple comparisons using the Benjamini-Hochberg false discovery rate procedure. For CT, opening and closing sentiment (positive, neutral, or negative) was labeled using a prompt in Gemini 2.5 Flash. &lt;strong&gt;Results:&lt;/strong&gt; Of 116,890 respondents, 100,533 (86%) used TT and 16,357 (14%) used CT. Female users were the majority in both groups but less predominant in CT (10,402/16,357, 64% vs 71,039/100,533, 71%) than in TT. TT users skewed younger (aged 18-29 years &amp;gt;50%), whereas CT was more evenly distributed with higher shares at ages 12 to 17, 30 to 44, and ≥45 years. Median session duration was longer with CT than with TT (8 minutes 21 seconds, IQR 6 minutes 10 seconds to 11 minutes 51 seconds vs 4 minutes 25 seconds, IQR 3 minutes 14 seconds to 6 minutes 22 seconds, respectively). CT elicited more clinical findings (median 36, IQR 31-43 vs 32, IQR 27-38; &lt;i&gt;P&lt;/i&gt;&amp;lt;.001) and surfaced more mental health evidence (eg, depressive symptoms, 8.5% vs 6.2%; &lt;i&gt;P&lt;/i&gt;&amp;lt;.001). Posttriage intent survey completion was higher with CT (5104/16,357, 31.2% vs 5968/100,533, 5.9%). Self-reported intended adherence to the recommended level of care was higher with CT (1749/5104, 34.3% vs 1740/5968, 29.2%; &lt;i&gt;P&lt;/i&gt;&amp;lt;.001), especially at extremes of acuity: self-care (534/625, 85.4% vs 325/525, 61.9%), emergency room (171/723, 23.7% vs 100/949, 10.5%), and ambulance (39/339, 11.5% vs 27/554, 4.9%; all &lt;i&gt;P&lt;/i&gt;&amp;lt;.001). Among CT encounters, positive sentiment increased markedly, while negative sentiment rose slightly. &lt;strong&gt;Conclusions:&lt;/strong&gt; The LLM-enabled CT was used by a more demographically diverse user base and was associated with richer clinical context, deeper engagement, and higher self-reported intended adherence among survey respondents, particularly for low-acuity self-care and high-acuity emergency scenarios, where reassurance or urgent escalation is critical. This highlights the potential of hybrid LLM tools that integrate validated clinical logic to support engagement, information gathering, and care navigation in digital front door settings. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/bf644333a54b1212dad0aeac4a4b9039" />
-
-### [Microfluidics-mediated spatial control of mRNA lipid nanoparticles primes translation and enhances vaccine potency](https://www.nature.com/articles/s41551-026-01796-3)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-22` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01796-3`
-
-No summary supplied by the source.
 
 ### [Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research](https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922)
 
@@ -1419,14 +1323,6 @@ The PKG Center for Social Impact expands Code.Tulsa experiential learning progra
 - Source: `nature_medicine` · published `2026-09-28` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
 - Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00049-9`
-
-No summary supplied by the source.
-
-### [Author Correction: Intermittent hypobaric pressure induces selective senescent cell death and alleviates age-related osteoporosis](https://www.nature.com/articles/s41551-026-01815-3)
-
-- Source: `nature_biomedical_engineering` · published `2026-09-28` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01815-3`
 
 No summary supplied by the source.
 
@@ -1590,14 +1486,6 @@ No summary supplied by the source.
 
 International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb" />
 
-### [G2DBridge: A multimodal framework linking genetics to disease through imaging intermediates](https://www.nature.com/articles/s41746-026-03298-7)
-
-- Source: `npj_digital_medicine` · published `2026-09-30` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03298-7`
-
-No summary supplied by the source.
-
 ### [Gemini 4 Argon: our next era of frontier intelligence](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 
 - Source: `fitbit_google_blog` · published `2026-09-30` · freshness `fresh`
@@ -1634,7 +1522,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-09-30` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/`
 
 <p><a href="https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MF037-WIDE-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MF037-WIDE-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MF037-WIDE-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MF037-WIDE-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MF037-WIDE-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MF037-WIDE.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode, we’re joined by Claire Love, PwC’s global health industries advisory leader. We discuss PwC’s recent report showing the opportunities in the fertility and reproductive health market.</p> <p>The post <a href="https://medcitynews.com/2026/09/medcity-femfwd-opportunities-in-the-fertility-market/">MedCity FemFwd: Opportunities in the Fertility Market</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -1661,14 +1549,6 @@ Notice NOT-CA-26-020 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/survey-at-home-cardiac-rehabilitation-flexible-invovled-cardiac-care/`
 
 <p>While at-home care is piquing cardiac patient interest, they say that solutions must be affordable, convenient and easy to operate.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/survey-at-home-cardiac-rehabilitation-flexible-invovled-cardiac-care/">Patients want flexible and involved cardiac care, but cost hurdles remain </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Rapid multi-species malaria parasite detection using deep learning](https://www.nature.com/articles/s41746-026-03307-9)
-
-- Source: `npj_digital_medicine` · published `2026-09-30` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03307-9`
-
-No summary supplied by the source.
 
 ### [STAT+: HHS announces new efforts to speed up, expand clinical trials with AI](https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss)
 
@@ -1706,7 +1586,7 @@ Federal health officials want to speed up clinical research to compete with coun
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-mx6wrk7a_thumb.jpg">1,400 educators earned 4,000+ digital badges at the Google Badge-a-thon. Watch the on-demand sessions on YouTube and claim your first badge today.
 
@@ -1714,7 +1594,7 @@ Federal health officials want to speed up clinical research to compete with coun
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp">Learn how Google Search can help you improve your morning cup of coffee.
 
@@ -1722,7 +1602,7 @@ Federal health officials want to speed up clinical research to compete with coun
 
 - Source: `medcity_news` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.25`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/ama-pbm-market-concentration-is-on-the-rise/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/ama-pbm-market-concentration-is-on-the-rise/`
 
 <p><a href="https://medcitynews.com/2026/10/ama-pbm-market-concentration-is-on-the-rise/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/prescriptiondrugcosts.jpg" class="attachment-large size-large wp-post-image" alt="prescription drug costs" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/prescriptiondrugcosts.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/prescriptiondrugcosts-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>The AMA found that OptumRx, Express Scripts, CVS Caremark and Prime Therapeutics controlled 75% of the national PBM market in 2024.</p> <p>The post <a href="https://medcitynews.com/2026/10/ama-pbm-market-concentration-is-on-the-rise/">AMA: PBM Market Concentration Is On the Rise</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -1730,17 +1610,9 @@ Federal health officials want to speed up clinical research to compete with coun
 
 - Source: `stat_news_feed` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss`
 
 Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.
-
-### [Beyond the sycophantic vs. cold divide: towards flexible, emotionally intelligent agents to foster healthier human-AI interactions](https://www.nature.com/articles/s41746-026-03245-6)
-
-- Source: `npj_digital_medicine` · published `2026-10-01` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03245-6`
-
-No summary supplied by the source.
 
 ### [Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial](https://www.nature.com/articles/s41591-026-04674-2)
 
@@ -1762,17 +1634,9 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp">Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.
-
-### [Influence of physician and consumer demographics on AI-use penalties in primary care: a vignette-based study](https://www.nature.com/articles/s41746-026-03361-3)
-
-- Source: `npj_digital_medicine` · published `2026-10-01` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03361-3`
-
-No summary supplied by the source.
 
 ### [Inogen sharpens business focus with $25m oxygen rental unit divestment](https://www.medicaldevice-network.com/news/inogen-sharpens-business-focus-with-25m-oxygen-rental-unit-divestment/)
 
@@ -1786,7 +1650,7 @@ No summary supplied by the source.
 
 - Source: `medtech_dive_primary` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/medtronic-reveals-cardiac-mapping-and-ablation-software-clearances/831852/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtronic-reveals-cardiac-mapping-and-ablation-software-clearances/831852/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/oJCixz9dvLad9k78nsdzalCm9M0nSD-qrieQQ_YTJ4o/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVENQMktQLmpwZw==.webp"/></div></figure><p>The regulatory authorizations come as Medtronic looks to differentiate itself in the fast-growing pulsed field ablation market targeted by rivals Abbott, Boston Scientific and J&amp;J.</p>
 
@@ -1802,7 +1666,7 @@ In 2009, analyzing Euan Ashley’s whole genome took 30 people and almost a year
 
 - Source: `stat_news_feed` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss`
 
 Chinese-designed drugs now account for roughly half the global pipeline. STAT's Jason Mast traveled to Shanghai to get an up-close look at the competition that's making American's nervous.
 
@@ -1834,7 +1698,7 @@ A small conference with big ambitions mirrors the rapid growth of Chinese biotec
 
 - Source: `stat_news_feed` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/01/maha-goes-corporate-trump-waters-down-medicare-drug-pricing-model/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/maha-goes-corporate-trump-waters-down-medicare-drug-pricing-model/?utm_campaign=rss`
 
 Health care companies dominate the MAHA Summit, and a look at Trump's watered down effort to lower Medicare drug prices.
 
@@ -1866,7 +1730,7 @@ Questions about the durability of an experimental Huntington's disease therapy m
 
 - Source: `medcity_news` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.5`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/the-real-gap-in-all-of-us-isnt-consent-its-conversion/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-real-gap-in-all-of-us-isnt-consent-its-conversion/`
 
 <p><a href="https://medcitynews.com/2026/10/the-real-gap-in-all-of-us-isnt-consent-its-conversion/"><img width="600" height="388" src="https://medcitynews.com/wp-content/uploads/sites/7/question-art-2-e1461212164398-600x388.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/question-art-2-e1461212164398-600x388.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/question-art-2-e1461212164398-300x194.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/question-art-2-e1461212164398-768x497.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/question-art-2-e1461212164398.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Why more than 300,000 missing patient records reveal an engineering problem, not a policy one — and why that&#8217;s good news.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-real-gap-in-all-of-us-isnt-consent-its-conversion/">The Real Gap in All of Us Isn&#8217;t Consent, It&#8217;s Conversion</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -1874,7 +1738,7 @@ Questions about the durability of an experimental Huntington's disease therapy m
 
 - Source: `stat_news_feed` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss`
 
 "Highlighting a ton of open questions": Top journal's special issue on women's health examines the latest discoveries on chronic pain and menopause.
 
@@ -1890,17 +1754,17 @@ DHS has appealed a court ruling blocking it from restricting how long internatio
 
 - Source: `hn_ai_health_signals` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://github.com/LiterateDrivenDevelopment/kcc`
+- Event: `updated` · identity: `url:https://github.com/LiterateDrivenDevelopment/kcc`
 
-Hacker News community signal; score 8.
+Hacker News community signal; score 15.
 
-### [Show HN: Premortem – AI agents that red-team your startup idea](https://premortem.site/)
+### [KernelBench: Can LLMs Write GPU Kernels? – Benchmark and Toolkit, Torch –> CUDA](https://github.com/ScalingIntelligence/KernelBench)
 
-- Source: `hn_ai_health_signals` · published `2026-10-01` · freshness `fresh`
+- Source: `hn_ai_health_signals` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://premortem.site/`
+- Event: `new` · identity: `url:https://github.com/ScalingIntelligence/KernelBench`
 
-Hacker News community signal; score 5.
+Hacker News community signal; score 4.
 
 ### [Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study](https://ai.jmir.org/2026/1/e85047/)
 
@@ -1938,7 +1802,7 @@ An investor lawsuit against UnitedHealth Group will move forward after a federal
 
 - Source: `stat_news_feed` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss`
 
 Why have so many Americans lost trust in science? And what's the deal with a new gene-editing lawsuit? Find out on this week's episode of "The Readout LOUD" podcast.
 

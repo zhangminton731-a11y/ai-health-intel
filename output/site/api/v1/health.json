@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T00:48:04+00:00",
+  "generated_at": "2026-10-02T07:01:03+00:00",
   "as_of": "2026-10-02",
-  "daily_status": "complete",
+  "daily_status": "complete_with_warning",
   "sources": [
     {
       "checks": [
@@ -13,7 +13,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 10,
       "required": true,
       "role": "primary",
@@ -30,7 +30,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -47,7 +47,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -64,7 +64,7 @@
       ],
       "enabled": false,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 0,
       "required": false,
       "role": "supplemental",
@@ -81,7 +81,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -98,7 +98,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 20,
       "required": false,
       "role": "supplemental",
@@ -115,7 +115,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 2,
       "required": false,
       "role": "supplemental",
@@ -132,7 +132,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 30,
       "required": false,
       "role": "supplemental",
@@ -141,21 +141,16 @@
       "status": "ok"
     },
     {
-      "checks": [
-        {
-          "count": 8,
-          "kind": "rss_atom"
-        }
-      ],
+      "checks": [],
       "enabled": true,
-      "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
-      "item_count": 8,
+      "error": "ParseError: not well-formed (invalid token): line 14, column 4",
+      "generated_at": "2026-10-02T07:01:03+00:00",
+      "item_count": 0,
       "required": false,
       "role": "supplemental",
       "source_id": "npj_digital_medicine",
       "source_kind": "rss",
-      "status": "ok"
+      "status": "failed"
     },
     {
       "checks": [
@@ -166,7 +161,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 8,
       "required": false,
       "role": "supplemental",
@@ -183,7 +178,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 50,
       "required": false,
       "role": "supplemental",
@@ -200,7 +195,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 12,
       "required": false,
       "role": "supplemental",
@@ -217,7 +212,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -234,7 +229,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -251,7 +246,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 10,
       "required": false,
       "role": "supplemental",
@@ -260,21 +255,16 @@
       "status": "ok"
     },
     {
-      "checks": [
-        {
-          "count": 8,
-          "kind": "rss_atom"
-        }
-      ],
+      "checks": [],
       "enabled": true,
-      "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
-      "item_count": 8,
+      "error": "ParseError: not well-formed (invalid token): line 14, column 4",
+      "generated_at": "2026-10-02T07:01:03+00:00",
+      "item_count": 0,
       "required": false,
       "role": "supplemental",
       "source_id": "nature_biomedical_engineering",
       "source_kind": "rss",
-      "status": "ok"
+      "status": "failed"
     },
     {
       "checks": [
@@ -285,7 +275,7 @@
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
+      "generated_at": "2026-10-02T07:01:03+00:00",
       "item_count": 2,
       "required": false,
       "role": "supplemental",
@@ -296,14 +286,14 @@
     {
       "checks": [
         {
-          "count": 11,
+          "count": 10,
           "kind": "rss_atom"
         }
       ],
       "enabled": true,
       "error": "",
-      "generated_at": "2026-10-02T00:48:04+00:00",
-      "item_count": 11,
+      "generated_at": "2026-10-02T07:01:03+00:00",
+      "item_count": 10,
       "required": false,
       "role": "supplemental",
       "source_id": "ema_guidance",
