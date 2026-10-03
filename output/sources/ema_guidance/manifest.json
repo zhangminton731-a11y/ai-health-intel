@@ -1,14 +1,14 @@
 {
   "checks": [
     {
-      "count": 11,
+      "count": 9,
       "kind": "rss_atom"
     }
   ],
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-03T00:30:56+00:00",
-  "item_count": 11,
+  "generated_at": "2026-10-03T06:33:47+00:00",
+  "item_count": 9,
   "required": false,
   "role": "supplemental",
   "source_id": "ema_guidance",
