@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-04
 
-> Daily status: **complete_with_warning** · sources 16/17 · items 232
+> Daily status: **complete** · sources 17/17 · items 238
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -14,7 +14,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 Background: Periodontitis is one of the most prevalent yet preventable oral diseases, as indicated by multiple clinical and radiographic factors. As these factors are recorded in electronic health records (EHRs), their reuse offers opportunities for personalized risk assessment and targeted prevention. Predictive AI and traditional machine learning models support fragmented detection tasks but lack the integration of textual and imaging predictors. Emerging multimodal large language models (M-LLMs) show promise in combining these data sources for clinical assessment. Evaluating the capabilities of M-LLMs and comparing them against the current clinical standard are therefore essential to determine their potential as digital assistants. Objective: This study aimed to evaluate the ability of M-LLMs to assess periodontitis risk and suggest prevention strategies, based on EHR data and radiographic findings. Each M-LLM was individually evaluated by periodontal experts, benchmarked against other models, and compared with a periodontist as a reference. Methods: A vignette study was conducted following TRIPOD (Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis) guidelines for the evaluation of LLMs. Ten periodontal vignettes were created, each including a panoramic radiograph and textual EHR data. Three LLMs capable of reasoning and handling multimodal data were compared to a periodontist who generated outputs manually, based on the same prompts and input data. Periodontal experts rated all outputs across 6 predefined criteria on a 5-point Likert scale. Statistical analyses evaluated overall performance per model and tested whether performance varied per model, scenario complexity, or rater. Results: GPT o1 Pro and Claude Sonnet 4 showed strong performance, with 86.7% and 85.6% of ratings deemed acceptable—comparable to the periodontist’s output (87.8%). Gemini 2.5 Pro was rated significantly lower than both the periodontist and the other models (59.4% acceptable; &lt;.002). Radiographic interpretation consistently received lower scores than other abilities across all models and the periodontist, with Gemini rated below the acceptable threshold. The time required for completion ranged from approximately 10 seconds for Claude to 37 seconds for Gemini; 3 minutes, 22 seconds, for GPT; and 5 minutes, 57 seconds, for the periodontist. Conclusions: M-LLMs demonstrated strong reasoning abilities in periodontal assessment. Across all models, unacceptable elements were consistently related to errors in radiographic interpretation, though refined prompting or newer model versions may improve this. Notably, even when radiographic findings were incorrect and plaque-retentive factors were absent, outputs were still rated well, indicating that EHR data alone provide a substantial basis. For clinical applicability, M-LLMs must at least perform comparably to a periodontist and meet the quality standards set by periodontal experts—a bar that GPT and Claude appear to approach. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5" />
 
-## Scan · 12
+## Scan · 11
 
 ### [DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens](https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/)
 
@@ -44,7 +44,7 @@ Background: Surgical site infections (SSIs) remain a major cause of health care�
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.53` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
 
 No summary supplied by the source.
 
@@ -71,14 +71,6 @@ Background: AI systems are increasingly deployed across National Health Service 
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90592`
 
 Real-time audiovisual connections between health care providers (HCPs) in neonatal care, known as TeleNeonatology (TeleNeo), can improve neonatal care. For patients and families, TeleNeo was found to improve patient outcomes and facilitate family-integrated and patient-centered care by ensuring timely access to expert involvement regardless of location, which can strengthen trust and reassurance. For clinicians and health care organizations, TeleNeo enables expert decision-making, fosters continuous professional development, promotes knowledge exchange between hospitals, and increases staff confidence in managing complex medical cases. However, organizational, technical, and infrastructural requirements can hinder successful implementation and sustained adoption of technological interventions, such as TeleNeo. Implementation can be time-consuming and may fail due to the challenges encountered during the implementation process, particularly when incorporating the intervention into existing workflows across multiple hospitals. Nevertheless, there are case studies that demonstrate successful implementation of TeleNeo into routine care. Informed by international experience and theoretical underpinnings of implementation science, this tutorial presents a toolkit to provide step-by-step guidance for health care institutions considering TeleNeo implementation. The objective of the toolkit is to help health care organizations effectively and efficiently implement TeleNeo in their neonatal care pathways. The toolkit provides a structured guide that encompasses the entire implementation process, from initial ideas to stakeholder engagement, workflow design, and program evaluation. It includes checklists, planning guidelines, and tools to help teams design a customized implementation strategy for their institution. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430bacd589808af1eb42a8b7c08c0e01" />
-
-### [Validating DigiHEALTHQUAL for measuring digital health effects on service quality in outpatient care in Germany](https://www.nature.com/articles/s41746-026-03302-0)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.35` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03302-0`
-
-No summary supplied by the source.
 
 ### [Effects of Generative AI–Supported Virtual Reality Dental Skill Training on Learning Performance, Visual Behavior, and Cortical Activation Among Dental Students: Stratified Randomized Controlled Trial](https://www.jmir.org/article/view/jmir_v28i1e90938)
 
@@ -210,7 +202,7 @@ Medical AI is often evaluated using aggregate measures of discrimination, calibr
 
 <p><a href="https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode of the MedCity Pivot Podcast, CEO Priya Abani talks about the evolution of AliveCor, one of the earliest digital health companies. </p> <p>The post <a href="https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/">MedCity Pivot Podcast: A Conversation With AliveCor&#8217;s Priya Abani</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-## Archive · 207
+## Archive · 214
 
 ### [Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health](https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/)
 
@@ -368,7 +360,7 @@ Background: Health care systems face rising demand and persistent staff shortage
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.45` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
 
 No summary supplied by the source.
 
@@ -416,7 +408,7 @@ Apple today introduced Apple Watch Series 12, engineered to deliver the most acc
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.35` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
 
 No summary supplied by the source.
 
@@ -736,7 +728,7 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
 
 No summary supplied by the source.
 
@@ -1388,6 +1380,14 @@ Notice NOT-OD-26-131 from the NIH Guide for Grants and Contracts
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
 
+### [A synthetic lethal drug for microsatellite instability cancers](https://www.nature.com/articles/s41591-026-04693-z)
+
+- Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04693-z`
+
+No summary supplied by the source.
+
 ### [AstraZeneca Places a $2B Bet on a Summit Therapeutics Cancer Drug](https://medcitynews.com/2026/09/astrazeneca-summit-therapeutics-gastrointestinal-cancer-pd-1-vegf-bispecific-antibody-adc-combination-smmt-azn/)
 
 - Source: `medcity_news` · published `2026-09-29` · freshness `fresh`
@@ -1427,6 +1427,14 @@ Final Cut Camera gets a major update with a new design, support for variable ape
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/`
 
 Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.
+
+### [Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial](https://www.nature.com/articles/s41591-026-04651-9)
+
+- Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04651-9`
+
+No summary supplied by the source.
 
 ### [The Illegal Drug Marketplace in Your Patients’ Pockets](https://medcitynews.com/2026/09/the-illegal-drug-marketplace-in-your-patients-pockets/)
 
@@ -1475,6 +1483,14 @@ International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="
 - Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp">Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.
+
+### [Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial](https://www.nature.com/articles/s41591-026-04705-y)
+
+- Source: `nature_medicine` · published `2026-09-30` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04705-y`
+
+No summary supplied by the source.
 
 ### [Let skills in Gemini tackle your most repetitive tasks](https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/)
 
@@ -1571,6 +1587,22 @@ Notice NOT-CA-26-020 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss`
 
 Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.
+
+### [Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial](https://www.nature.com/articles/s41591-026-04674-2)
+
+- Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04674-2`
+
+No summary supplied by the source.
+
+### [Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)](https://www.nature.com/articles/s41591-026-04677-z)
+
+- Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04677-z`
+
+No summary supplied by the source.
 
 ### [Guided Vision in Gemini Live: built for accessibility](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/)
 
@@ -1688,7 +1720,7 @@ List of centrally authorised products with safety-related changes to the product
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
 
 No summary supplied by the source.
 
@@ -1724,6 +1756,14 @@ The law has to catch up on the 340B drug discount program, writes a pharmacist.
 
 Crunchbase News Research Lead Gené Teare moderated panels and spoke with leaders building Europe and the Middle East’s AI ecosystems at HumanX in Amsterdam. Here we share a snippet of her conversation with Axelera AI CEO Fabrizio Del Maffeo and AI71 CPTO Mehdi Ghissassi.
 
+### [Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial](https://www.nature.com/articles/s41591-026-04675-1)
+
+- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04675-1`
+
+No summary supplied by the source.
+
 ### [STAT+: Pharmalittle: We’re reading about the 340B drug pilot program, an obesity drug disappointment, and more](https://www.statnews.com/pharmalot/2026/10/02/340b-drug-pilot-program-boehringer-zealand-obesity-trial/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-02` · freshness `fresh`
@@ -1748,6 +1788,22 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp">Here are Google’s latest AI updates from September 2026
 
+### [The missing links in agentic AI autonomy](https://www.nature.com/articles/s41591-026-04658-2)
+
+- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04658-2`
+
+No summary supplied by the source.
+
+### [Urine cell-free RNA for bladder cancer detection and treatment response prediction](https://www.nature.com/articles/s41591-026-04673-3)
+
+- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04673-3`
+
+No summary supplied by the source.
+
 ### [What it’s like to wait for the call from the Nobel Prize committee](https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-02` · freshness `fresh`
@@ -1768,7 +1824,7 @@ For startup founders, the goal shouldn’t be assembling a cap table filled with
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
 
 No summary supplied by the source.
 
@@ -1776,33 +1832,25 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
 
 No summary supplied by the source.
 
-### [From the creator of Redis; run LLM locally with ds4](https://dwarfstar.sh/)
+### [Shapley value explanations for clinical prediction models: a scoping review and guide](https://www.nature.com/articles/s41746-026-03324-8)
 
-- Source: `hn_ai_health_signals` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://dwarfstar.sh/`
+- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
 
-Hacker News community signal; score 307.
+No summary supplied by the source.
 
-### [Greg Kroah-Hartman – Security in the LLM Age [video]](https://www.youtube.com/watch?v=NnV_cWeoo5Q)
-
-- Source: `hn_ai_health_signals` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.youtube.com/watch?v=NnV_cWeoo5Q`
-
-Hacker News community signal; score 294.
-
-### [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)
+### [Apple Confirms iPhone 18 Pro Max AT&T Issues, Devices Require Replacement](https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues)
 
 - Source: `hn_ai_health_signals` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://tej.as/blog/aleph-alpha-kolibri`
+- Event: `new` · identity: `url:https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues`
 
-Hacker News community signal; score 356.
+Hacker News community signal; score 7.
 
 ### [STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers](https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss)
 
