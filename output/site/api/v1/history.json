@@ -1,9 +1,144 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T06:33:47+00:00",
+  "generated_at": "2026-10-03T12:34:29+00:00",
   "as_of": "2026-10-03",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03302-0",
+      "t": "验证 DigiHEALTHQUAL 用于衡量数字健康对德国门诊护理服务质量的影响",
+      "te": "Validating DigiHEALTHQUAL for measuring digital health effects on service quality in outpatient care in Germany",
+      "s": "",
+      "se": "",
+      "u": "https://www.nature.com/articles/s41746-026-03302-0",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03302-0"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 35.0,
+      "when": "昨天",
+      "date": "2026-10-02",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03256-3",
+      "t": "低功耗无线通信技术赋能可穿戴医疗保健监控",
+      "te": "Low-power wireless communication technologies empower wearable healthcare monitoring",
+      "s": "",
+      "se": "",
+      "u": "https://www.nature.com/articles/s41746-026-03256-3",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03256-3"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 53.0,
+      "when": "昨天",
+      "date": "2026-10-02",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03338-2",
+      "t": "医疗保健专业人员对临床实践中人工智能辅助决策的看法：定性荟萃分析",
+      "te": "Healthcare professionals’ perceptions on AI-assisted decision-making in clinical practice: a qualitative meta-synthesis",
+      "s": "",
+      "se": "",
+      "u": "https://www.nature.com/articles/s41746-026-03338-2",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03338-2"
+      },
+      "tier": "collapsed",
+      "freshness": "fresh",
+      "rel": 23.0,
+      "when": "2 天前",
+      "date": "2026-10-01",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03156-6",
       "t": "具有人工智能的视觉可穿戴设备可缩小患者表征中的感官差距",
