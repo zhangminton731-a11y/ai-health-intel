@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T12:34:29+00:00",
-  "as_of": "2026-10-03",
+  "generated_at": "2026-10-03T17:17:34+00:00",
+  "as_of": "2026-10-04",
   "count": 25,
   "items": [
     {
@@ -160,26 +160,26 @@
       }
     },
     {
-      "id": "url:https://ai.jmir.org/2026/1/e93854/",
-      "title": "人工智能对医生技术的影响：定性访谈和焦点小组研究",
-      "original_title": "The Perceived Influence of AI on the Craftsmanship of Physicians: Qualitative Interview and Focus Group Study",
-      "summary": "结论：人工智能似乎会影响专业工艺的条件，从而间接影响其个人层面。在设计和实施中应该考虑这一点，同时认识到与人工智能的持续互动可能会逐渐重塑工艺本身的含义。结果：医生将技艺描述为通过人类判断、同理心和情境理解来提供尽可能最佳护理的承诺。感知的人工智能效果集中在两个领域：专业和个人维度。在专业层面，人工智能被认为支持工作流程效率、文档记录、数据集成和分析推理方面，可能为患者接触和反思腾出时间。采用的条件包括人机参与的监督、可解释性、可追溯性和人工智能素养。",
-      "url": "https://ai.jmir.org/2026/1/e93854/",
-      "source": "JMIR AI",
+      "id": "url:https://www.nature.com/articles/s41746-026-03256-3",
+      "title": "低功耗无线通信技术赋能可穿戴医疗保健监控",
+      "original_title": "Low-power wireless communication technologies empower wearable healthcare monitoring",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03256-3",
+      "source": "npj Digital Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-09-23",
+      "published_at": "2026-10-02",
       "topics": [
-        "hospital",
+        "consumer",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "jmir_ai"
+          "npj_digital_medicine"
         ],
         "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e93854/"
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03256-3"
       },
       "sections": [
         "research"
@@ -189,13 +189,10 @@
           "papers"
         ]
       },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
+      "research_stages": [],
       "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -316,43 +313,39 @@
       }
     },
     {
-      "id": "url:https://ai.jmir.org/2026/1/e93498/",
-      "title": "饮食失调的大型语言模型诊断中的隐性偏差：实验小插图研究",
-      "original_title": "Implicit Bias in Large Language Model Diagnosis of Eating Disorders: Experimental Vignette Study",
-      "summary": "结论：这些发现表明，即使临床内容保持不变，大语言模型在精神病学诊断中也表现出系统的人口统计学偏差，揭示了可测量的模式，可以为训练数据、模型架构和临床部署框架的改进提供信息。结果：对照插图产生近乎一致的 AN 诊断（平均 100%，SD 0.1%），而模糊的插图引起更大的变异性（平均 23.6%，SD 10.1%）。对于不明确的小插图，模型间一致性中等（Fleiss κ=0.410，95% CI 0.397‐0.422）。",
-      "url": "https://ai.jmir.org/2026/1/e93498/",
-      "source": "JMIR AI",
+      "id": "url:https://www.nature.com/articles/s41746-026-03302-0",
+      "title": "验证 DigiHEALTHQUAL 用于衡量数字健康对德国门诊护理服务质量的影响",
+      "original_title": "Validating DigiHEALTHQUAL for measuring digital health effects on service quality in outpatient care in Germany",
+      "summary": "",
+      "url": "https://www.nature.com/articles/s41746-026-03302-0",
+      "source": "npj Digital Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-09-23",
+      "published_at": "2026-10-02",
       "topics": [
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "jmir_ai"
+          "npj_digital_medicine"
         ],
         "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e93498/"
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03302-0"
       },
       "sections": [
         "research"
       ],
       "categories": {
         "research": [
-          "papers",
-          "methods"
+          "papers"
         ]
       },
-      "research_stages": [
-        "data",
-        "analysis"
-      ],
+      "research_stages": [],
       "recommendation_reasons": {
-        "research": "围绕精神心理健康，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕精神心理健康，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {

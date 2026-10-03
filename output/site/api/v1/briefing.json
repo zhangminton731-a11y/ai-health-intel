@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T12:34:29+00:00",
-  "as_of": "2026-10-03",
+  "generated_at": "2026-10-03T17:17:34+00:00",
+  "as_of": "2026-10-04",
   "item_ids": [
     "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
     "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
@@ -70,14 +70,6 @@
         "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/"
       ],
       "minutes": 1
-    },
-    {
-      "date": "2026-09-23",
-      "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e93854/",
-        "url:https://ai.jmir.org/2026/1/e93498/"
-      ],
-      "minutes": 2
     }
   ],
   "edition_date": "2026-10-02",
