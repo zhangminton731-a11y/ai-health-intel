@@ -1,9 +1,55 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T13:52:22+00:00",
-  "as_of": "2026-10-02",
+  "generated_at": "2026-10-03T00:30:56+00:00",
+  "as_of": "2026-10-03",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03156-6",
+      "t": "具有人工智能的视觉可穿戴设备可缩小患者表征中的感官差距",
+      "te": "Vision wearables with artificial intelligence to close the sensory gap in patient characterization",
+      "s": "",
+      "se": "",
+      "u": "https://www.nature.com/articles/s41746-026-03156-6",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03156-6"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 60.0,
+      "when": "3 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
       "t": "利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法",
@@ -46,11 +92,207 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 81.0,
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
         "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e92709",
+      "t": "主观认知下降和轻度认知障碍的脑电图：生物标志物、分类和预后证据的系统评价",
+      "te": "Electroencephalography in Subjective Cognitive Decline and Mild Cognitive Impairment: Systematic Review of Biomarkers, Classification, and Prognostic Evidence",
+      "s": "结论：现有证据表明，EEG 是一种有前景的无创方法，可用于表征与 SCD 和 MCI 相关的神经生理学改变。基于脑电图的分类和预后模型也显示出令人鼓舞的初步表现。然而，目前的证据更支持生物标志物的发现和模型开发，而不是已建立的临床筛查或诊断。转化为常规实践需要具有标准化脑电图程序、代表性临床人群、预先指定的阈值、参与者级别的数据分离和独立的外部验证的前瞻性报告。这些发现为评估脑电图作为未来临床路径中潜在的辅助或分类工具提供了基础。",
+      "se": "Conclusions: The available evidence suggests that EEG is a promising noninvasive modality for characterizing neurophysiological alterations associated with SCD and MCI. EEG-based classification and prognostic models have also shown encouraging preliminary performance. However, the current evidence is more supportive of biomarker discovery and model development than of established clinical screening or diagnosis. Translation into routine practice will require prospective reports with standardized EEG procedures, representative clinical populations, prespecified thresholds, participant-level data separation, and independent external validation. These findings provide a basis for evaluating EEG as a potential adjunctive or triage tool in future clinical pathways.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e92709",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e92709"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 51.0,
+      "when": "3 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105536",
+      "t": "护理数字技术实施的护理实施复杂性工具：设计科学研究",
+      "te": "The Nursing Implementation Complexity Tool for Digital Technology Implementation in Nursing: Design Science Research Study",
+      "s": "结论：NICT 支持护理专业人员和其他实施利益相关者通过结构化反思来认识、讨论和解决实施复杂性。它本身并没有降低复杂性，而是促进了与实施相关的反思和明智的决策。除了在护理中的应用之外，本研究还说明了如何将用于理解实施复杂性的概念框架转化为用于数字健康实施的结构化、面向实践的反思工具。结果：NICT 包含 3 个互补的组件：指南、视觉画布和围绕 4 个反射域组织的口袋卡。在形成性和总结性评估中，参与者一致认为 NICT 是有用且结构良好的实施反思工具。",
+      "se": "Conclusions: The NICT supports nursing professionals and other implementation stakeholders in recognizing, discussing, and addressing implementation complexity through structured reflection. Rather than reducing complexity itself, it facilitates implementation-related reflection and informed decision-making. Beyond its application in nursing, this study illustrates how conceptual frameworks for understanding implementation complexity can be translated into structured, practice-oriented reflection tools for digital health implementation. Results: The NICT comprises 3 complementary components: a guideline, a visual canvas, and a pocket card organized around 4 reflection domains. Across the formative and summative evaluations, participants consistently perceived the NICT as a useful and well-structured implementation reflection tool.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e105536",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105536"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 57.0,
+      "when": "3 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e104019",
+      "t": "评估人工智能辅助技术对老年人的物有所值：经济评估的范围审查",
+      "te": "Assessing the Value for Money of AI-Assisted Technologies for Older Adults: Scoping Review of Economic Evaluations",
+      "s": "结论：本综述总结了遵循 ICOPE 护理途径的老年医疗保健中人工智能辅助技术的现有经济证据。它超越了之前的审查，评估了人工智能在一般或特定疾病人群中的成本效益，但没有解决老年人的独特成本结构、护理需求和公平考虑。通过对照 ICOPE 领域所包含的证据，本次审查确定了经济证据集中的地方和严重缺乏的地方，为护理路径不同组成部分的政策设计和未来研究提供结构化指导。结果：2018 年至 2026 年间发表的 40 项研究符合纳入标准。",
+      "se": "Conclusions: This review summarizes the currently available economic evidence on AI-assisted technologies in older health care following the ICOPE care pathway. It extends beyond prior reviews that have assessed AI cost-effectiveness across general or disease-specific populations without addressing the distinct cost structures, care needs, and equity considerations of older adults. By mapping the included evidence against the ICOPE domains, this review identifies where economic evidence is concentrated and where it is critically lacking, providing structured guidance for policy design and future research across different components of the care pathway. Results: Forty studies published between 2018 and 2026 met the inclusion criteria.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e104019",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e104019"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 81.0,
+      "when": "3 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e100284",
+      "t": "用于临床结果研究、利用大型管理数据库进行人口健康管理分析以及生成疾病流行病学估计的代理人工智能：可行性和验证研究",
+      "te": "Agentic AI for Clinical Outcomes Research, Population Health Management Analyses With Large Administrative Databases, and Generating Epidemiological Estimates of Diseases: Feasibility and Validation Study",
+      "s": "结论：通过具体的设计考虑来确保负责任的使用，代理人工智能对于提高应用临床结果研究和人口健康管理分析的大型数据集的可访问性具有不可估量的价值。结果：就准确性而言，使用 Agentic AI 平台获得的流行病学估计与已发布的所有 6 种情况的估计以及通过传统编程方法获得的估计一致。关于严谨性，Agentic AI 平台通过确认已发表文献中针对所使用的数据源类型的可接受方法，进行了严谨的分析。用于分析的代码列表已根据可用的现有算法进行了确认。使用适当的统计方法来比较不同年龄和性别的患病率差异。",
+      "se": "Conclusions: With specific design considerations to ensure responsible use, agentic AI can be invaluable to increasing the accessibility of large datasets for applied clinical outcome research and population health management analyses. Results: Regarding accuracy, epidemiological estimates obtained using the agentic AI platform were consistent with published estimates for all 6 conditions, as well as with estimates obtained from traditional programming methods. Regarding rigor, the agentic AI platform conducted the analysis with rigor by confirming acceptable methods in published literature for the type of data source used. Code lists used for the analysis were confirmed against existing algorithms when available. Appropriate statistical methods were used to compare differences in prevalence rates by age and gender.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e100284",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e100284"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 55.0,
+      "when": "3 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -92,11 +334,58 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 66.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
+      "t": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
+      "te": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
+      "s": "",
+      "se": "",
+      "u": "https://www.nature.com/articles/s41746-026-03277-y",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 45.0,
+      "when": "4 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -134,7 +423,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -185,7 +474,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 54.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -233,7 +522,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -282,7 +571,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 41.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕病历数据，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -329,7 +618,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 73.0,
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -374,7 +663,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 49.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -420,7 +709,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 25.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -470,7 +759,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -518,7 +807,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -567,7 +856,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "围绕帕金森病，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -614,7 +903,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
@@ -661,7 +950,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-09-26",
       "reasons": {
         "research": "围绕血压与慢病管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -710,7 +999,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -759,7 +1048,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -803,7 +1092,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 89.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕脑机接口，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -850,7 +1139,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 41.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -897,7 +1186,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕精神心理健康，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -942,7 +1231,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 53.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕卒中研究，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -991,7 +1280,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 35.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕帕金森病，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1038,7 +1327,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1086,7 +1375,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 27.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕医疗大模型，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1136,7 +1425,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 98.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "围绕睡眠与呼吸监测，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1181,7 +1470,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 31.0,
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1223,7 +1512,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1274,7 +1563,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 45.0,
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -1322,7 +1611,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 29.0,
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1372,7 +1661,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 51.0,
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕卒中研究，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
@@ -1414,7 +1703,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 33.0,
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1457,7 +1746,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 33.0,
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-23",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1503,7 +1792,7 @@
       "tier": "must_read",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-22",
       "reasons": {
         "research": "围绕精神心理健康，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1547,7 +1836,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 40.0,
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-22",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1589,7 +1878,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-22",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1633,7 +1922,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-21",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1682,7 +1971,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 81.0,
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-21",
       "reasons": {
         "research": "围绕肿瘤诊疗，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
@@ -1732,7 +2021,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 49.0,
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-21",
       "reasons": {
         "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1773,7 +2062,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 83.0,
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-18",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1820,7 +2109,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 47.0,
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1862,7 +2151,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 73.0,
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-17",
       "reasons": {
         "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1903,7 +2192,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 25.0,
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -1952,7 +2241,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 57.0,
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-16",
       "reasons": {
         "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
@@ -1999,7 +2288,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 59.0,
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-15",
       "reasons": {
         "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -2040,7 +2329,7 @@
       "tier": "skim",
       "freshness": "fresh",
       "rel": 66.0,
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-14",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -2079,7 +2368,7 @@
       "tier": "collapsed",
       "freshness": "fresh",
       "rel": 23.0,
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-13",
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
@@ -2092,9 +2381,13 @@
     {
       "date": "2026-09-30",
       "item_ids": [
-        "url:https://www.jmir.org/article/view/jmir_v28i1e95198"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e104019",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e105536",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e100284",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e92709"
       ],
-      "minutes": 1
+      "minutes": 4
     },
     {
       "date": "2026-09-29",
