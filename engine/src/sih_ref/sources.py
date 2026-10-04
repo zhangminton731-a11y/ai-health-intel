@@ -18,7 +18,9 @@ from typing import Any, Callable, Mapping
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-from .core import normalize_url, text
+from .core import normalize_url, normalize_date, text
+from .article_metadata import enrich_summary
+from .rss_fetch import FeedFetchError, fetch_feed
 
 
 USER_AGENT = "ScientificInformationHubReference/0.1 (+https://github.com/mengsj08/June_Public)"
@@ -161,22 +163,12 @@ def _arxiv(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
     return SourceResult(text(source.get("id")), status, items, [{"kind": "arxiv_atom", "count": len(items)}])
 
 
-def _rss(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
+def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
     url = normalize_url(source.get("url"))
     if not url:
         raise ValueError("RSS source requires an http(s) url")
-    # Some feeds intermittently return a truncated document or an HTML error page
-    # with HTTP 200. Retry parsing failures as well as transport failures.
-    for attempt in range(3):
-        try:
-            root = ET.fromstring(_request_text(url))
-            if root.tag not in ("rss", "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF", "{http://www.w3.org/2005/Atom}feed"):
-                raise ValueError("RSS endpoint returned a non-feed document")
-            break
-        except (ET.ParseError, ValueError):
-            if attempt == 2:
-                raise
-            time.sleep(0.5 * (2**attempt))
+    cache_dir = source.get('_cache_dir')
+    root, checks = fetch_feed(url, USER_AGENT, cache_path=cache_dir/'feed.json' if cache_dir else None)
     items: list[dict[str, Any]] = []
     rss_ns = "{http://purl.org/rss/1.0/}"
     rss_items = root.findall(".//item") + root.findall(f".//{rss_ns}item")
@@ -213,7 +205,16 @@ def _rss(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
             )
     max_results = min(100, max(1, int(source.get("max_results") or 20)))
     items = items[:max_results]
-    return SourceResult(text(source.get("id")), "ok" if items else "ok_no_updates", items, [{"kind": "rss_atom", "count": len(items)}])
+    if source.get('article_metadata') == 'nature':
+        attempted = 0
+        for item in items:
+            published = normalize_date(item.get('published_at'))
+            if published and 0 <= (as_of-date.fromisoformat(published)).days <= 10 and not item.get('summary'):
+                check = enrich_summary(item, cache_dir, allow_fetch=attempted < 8)
+                attempted += check['status'] in ('ok', 'unavailable')
+                checks.append(check)
+    checks.append({"kind": "rss_atom", "count": len(items)})
+    return SourceResult(text(source.get("id")), "ok" if items else "ok_no_updates", items, checks)
 
 
 def _hacker_news(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
@@ -445,5 +446,7 @@ def collect_source(source: Mapping[str, Any], *, base_dir: Path, live: bool, as_
         return SourceResult(source_id, "inactive", checks=[{"kind": kind, "reason": "live_flag_required"}])
     try:
         return ADAPTERS[kind](source, base_dir, as_of)
+    except FeedFetchError as exc:
+        return SourceResult(source_id, "failed", checks=exc.checks, error=str(exc))
     except Exception as exc:
         return SourceResult(source_id, "failed", error=f"{type(exc).__name__}: {text(exc)}")

@@ -28,10 +28,39 @@ jobs:
         run: |
           python -m unittest discover -s engine/tests -p 'test_*.py'
           python -m unittest discover -s tests -p 'test_*.py'
-      - name: Aggregate live sources
+      - name: Restore source health history
+        if: github.ref == 'refs/heads/main'
+        uses: actions/cache/restore@v4
+        with:
+          path: output/.state/source_health_history.json
+          key: source-health-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: source-health-v1-${{ github.ref_name }}-
+      - name: Restore validated feed and article caches
+        uses: actions/cache@v4
+        with:
+          path: output/.cache
+          key: source-content-v1-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: source-content-v1-${{ github.ref_name }}-
+      - name: Collect live sources
+        id: collect
         env:
           PYTHONPATH: ${{ github.workspace }}/engine/src
-        run: python -m sih_ref.cli run --config config/sources.json --profile config/profile.json --output-dir output --live
+        run: |
+          rm -f output/source_health.json
+          python -m sih_ref.cli run --config config/sources.json --profile config/profile.json --output-dir output --live
+      - name: Preserve health history even when collection fails
+        if: always() && github.ref == 'refs/heads/main' && steps.collect.outcome != 'skipped' && hashFiles('output/.state/source_health_history.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: output/.state/source_health_history.json
+          key: source-health-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Keep collection diagnostics
+        if: always() && steps.collect.outcome != 'skipped'
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-health-${{ github.run_id }}-${{ github.run_attempt }}
+          path: output/source_health.json
+          retention-days: 14
       - name: Build Chinese site, briefing and feeds
         run: python scripts/build_site.py
       - name: Validate entire publication batch

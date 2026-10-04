@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import os
 import re
@@ -31,6 +32,9 @@ PUBLIC_ITEM_FIELDS = (
     "reading_tier",
     "freshness_gate",
     "llm_triage",
+    "selection_reasons",
+    "selection_audiences",
+    "content_status",
 )
 
 
@@ -140,7 +144,7 @@ def normalize_item(raw: Mapping[str, Any], source: Mapping[str, Any]) -> dict[st
     item = {
         "source_id": text(source.get("id") or raw.get("source_id")),
         "source_kind": text(source.get("kind") or raw.get("source_kind") or "unknown"),
-        "title": text(raw.get("title") or raw.get("name")),
+        "title": html.unescape(text(raw.get("title") or raw.get("name"))),
         "url": normalize_url(raw.get("canonical_url") or raw.get("url") or raw.get("link")),
         "published_at": normalize_date(raw.get("published_at") or raw.get("published") or raw.get("date")),
         "summary": text(raw.get("summary") or raw.get("abstract") or raw.get("description")),
@@ -155,6 +159,8 @@ def normalize_item(raw: Mapping[str, Any], source: Mapping[str, Any]) -> dict[st
             "retrieved_via": text(source.get("kind") or "unknown"),
         },
     }
+    if raw.get('summary_source'):
+        item['provenance']['summary_source'] = normalize_url(raw['summary_source'])
     item["item_id"] = stable_identity(item)
     item["fingerprint"] = stable_fingerprint(item)
     return item
@@ -263,16 +269,26 @@ def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date)
         )
         for key in ("required_topic_terms", "required_technology_terms")
     )
-    if gate != "fresh" or not in_scope:
+    research = profile.get('research') or {}
+    matches = lambda terms: any(re.search(r'(?<![a-z])'+re.escape(term.lower())+r'(?![a-z])', haystack) for term in terms)
+    research_scope = bool(research) and matches(research.get('medical_terms', [])) and matches(research.get('method_terms', []))
+    audiences = (['industry'] if in_scope else []) + (['research'] if research_scope else [])
+    missing_summary = item.get('source_id') in research.get('summary_required_sources', []) and not text(item.get('summary'))
+    reasons = []
+    if gate != 'fresh': reasons.append(gate)
+    if not audiences: reasons.append('out_of_scope')
+    if missing_summary: reasons.append('missing_summary')
+    if gate != "fresh" or not audiences or missing_summary:
         tier = "archive"
     elif topic_score >= must_relevance and novelty_hint >= must_novelty:
         tier = "must_read"
-    elif topic_score >= skim_relevance:
+    elif topic_score >= skim_relevance or research_scope:
         tier = "skim"
     elif topic_score >= collapsed_relevance:
         tier = "collapsed"
     else:
         tier = "archive"
+        reasons.append('below_threshold')
     enriched = dict(item)
     enriched.update(
         {
@@ -282,6 +298,9 @@ def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date)
             "freshness_gate": gate,
             "matched_profile_terms": matched,
             "matched_novelty_terms": novelty_matches,
+            "selection_reasons": reasons or ['eligible'],
+            "selection_audiences": audiences,
+            "content_status": 'needs_review' if missing_summary else 'source_summary' if text(item.get('summary')) else 'title_only',
         }
     )
     return enriched

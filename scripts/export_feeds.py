@@ -25,7 +25,7 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
     common = {'schema_version': '1.0', 'generated_at': payload['generatedAt'], 'as_of': payload['asOf']}
     for name, data in {
         'items': {**common, 'count': len(items), 'items': items},
-        'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', [])},
+        'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', []), 'coverage':payload.get('coverage', {})},
         'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing},
     }.items():
         (api / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

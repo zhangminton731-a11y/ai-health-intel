@@ -23,6 +23,8 @@ from export_feeds import export_feeds
 from classify_content import classify_content
 from daily_digest import build_issues, issue_text
 from reader_context import reasons, update_history
+from publication import current_items as select_current, coverage
+from site_assets import extract_assets
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
@@ -187,7 +189,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
         title_en = it.get("title", "")
         title_zh = (tr.zh(title_en) or "") if it.get("reading_tier") != "archive" else ""
         original_summary = it.get('summary', '') or ''
-        summary = reader_summary(original_summary)
+        # Archived raw evidence remains in JSONL; it is not rendered by any current view.
+        summary = reader_summary(original_summary) if it.get('reading_tier') != 'archive' else ''
         summary_zh = (tr.zh(summary) or '') if it.get('reading_tier') != 'archive' else ''
         if re.search(r'\bLLMs?\b', title_en + ' ' + summary):
             summary_zh = summary_zh.replace('法学硕士', '大语言模型')
@@ -208,7 +211,7 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "when": rel_time(it.get("published_at", ""), as_of), "date": it.get("published_at", ""),
         })
     for item in out:
-        item["reasons"] = reasons(item)
+        item["reasons"] = reasons(item) if item['tier'] != 'archive' else {}
     return out
 
 
@@ -241,8 +244,7 @@ def build(*, as_of: date | None = None) -> None:
         if gate != "fresh":
             it["reading_tier"] = "archive"
     # Sole current recommendation set: every current view derives from this list.
-    current_items = [it for it in items if it["freshness_gate"] == "fresh"
-                     and it.get("reading_tier", "archive") != "archive"]
+    current_items = select_current(items)
     ranked_current = sorted(current_items, key=lambda it: -(it.get("topic_relevance") or 0))
     data = build_data(items, tr, build_date)
     current_ids = {it['item_id'] for it in current_items}
@@ -277,6 +279,7 @@ def build(*, as_of: date | None = None) -> None:
     site_data = {
         "name": SITE_NAME, "asOf": as_of,
         "generatedAt": health.get("generated_at", ""),
+        "coverage": coverage(items, build_date),
         "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
         "historyItems": history_data, "historyIssues": history_issues, "policyTimeline": policy,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
@@ -285,10 +288,11 @@ def build(*, as_of: date | None = None) -> None:
         "items": data, "kws": kws, "srcs": src_rows,
         "updated": datetime.now(CST).strftime("%Y-%m-%d %H:%M") + " CST",
     }
-    payload = json.dumps(site_data, ensure_ascii=False).replace("</", "<\\/")
+    payload = json.dumps(site_data, ensure_ascii=False, separators=(',', ':')).replace("</", "<\\/")
 
     page = TEMPLATE.replace("__PAYLOAD__", payload).replace("__DATE__", as_of).replace("__SITE_NAME__", SITE_NAME)
     (OUTPUT / "site").mkdir(parents=True, exist_ok=True)
+    page = extract_assets(page, OUTPUT/'site')
     (OUTPUT / "site" / "index.html").write_text(page, encoding="utf-8")
     print(f"✅ AI Hot 式浅色站点已生成: site/index.html（翻译 {tr.translated}，熔断={'开' if tr.circuit_open else '关'}）")
     save_cache(tr.cache)

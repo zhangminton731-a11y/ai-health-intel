@@ -7,6 +7,8 @@ import tempfile
 import unittest
 from datetime import date
 from unittest.mock import patch
+from email.message import Message
+from io import BytesIO
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path[:0] = [str(ROOT / 'engine/src'), str(ROOT / 'scripts')]
@@ -14,34 +16,52 @@ from sih_ref.sources import collect_source
 from sih_ref.core import normalize_item, score_item
 import quality_gate
 
+class FeedResponse(BytesIO):
+    status = 200
+
+    def __init__(self, xml):
+        super().__init__(xml.encode())
+        self.headers = Message()
+        self.headers['Content-Type'] = 'application/rss+xml'
+
+    def geturl(self):
+        return 'https://example.org/rss'
+
+
 class SourceTests(unittest.TestCase):
-    def collect(self, xml):
-        with patch('sih_ref.sources._request_text', return_value=xml):
-            return collect_source({'id': 'test', 'kind': 'rss', 'enabled': True, 'url': 'https://example.org/rss'}, base_dir=ROOT, live=True, as_of=date(2026,9,27))
+    def collect(self, responses):
+        with patch('sih_ref.rss_fetch.urlopen', side_effect=[FeedResponse(xml) for xml in responses]) as request, \
+             patch('sih_ref.rss_fetch.time.sleep'):
+            result = collect_source(
+                {'id': 'test', 'kind': 'rss', 'enabled': True, 'url': 'https://example.org/rss'},
+                base_dir=ROOT, live=True, as_of=date(2026, 9, 28),
+            )
+        return result, request.call_count
 
     def test_rdf_nature_feed(self):
-        result = self.collect('''<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"><item><title>Clinical AI study</title><link>https://example.org/paper</link><description>Study abstract</description><dc:date>2026-09-26</dc:date></item></rdf:RDF>''')
+        result, _ = self.collect(['<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"><item><title>Clinical AI study</title><link>https://example.org/paper</link><description>Study abstract</description><dc:date>2026-09-26</dc:date></item></rdf:RDF>'])
         self.assertEqual(1, len(result.items))
         self.assertEqual('2026-09-26', result.items[0]['published_at'])
 
     def test_atom_prefers_article_over_self(self):
-        result = self.collect('''<feed xmlns="http://www.w3.org/2005/Atom"><entry><id>x</id><title>Health device</title><link rel="self" href="https://example.org/api/x"/><link rel="alternate" href="https://example.org/article"/><published>2026-09-26</published></entry></feed>''')
+        result, _ = self.collect(['<feed xmlns="http://www.w3.org/2005/Atom"><entry><id>x</id><title>Health device</title><link rel="self" href="https://example.org/api/x"/><link rel="alternate" href="https://example.org/article"/><published>2026-09-26</published></entry></feed>'])
         self.assertEqual('https://example.org/article', result.items[0]['url'])
 
     def test_rss_retries_invalid_response_then_recovers(self):
-        xml='<rss><channel><item><title>Clinical AI</title><link>https://example.org/paper</link></item></channel></rss>'
-        with patch('sih_ref.sources._request_text',side_effect=['<rss>', '<html><body>Error</body></html>', xml]) as request, patch('sih_ref.sources.time.sleep'):
-            result=collect_source({'id':'test','kind':'rss','enabled':True,'url':'https://example.org/rss'},base_dir=ROOT,live=True,as_of=date(2026,9,28))
-        self.assertEqual('ok',result.status)
-        self.assertEqual(1,len(result.items))
-        self.assertEqual(3,request.call_count)
+        xml = '<rss><channel><item><title>Clinical AI</title><link>https://example.org/paper</link></item></channel></rss>'
+        result, attempts = self.collect(['<rss>', '<html><body>Error</body></html>', xml])
+        self.assertEqual('ok', result.status)
+        self.assertEqual(1, len(result.items))
+        self.assertEqual(3, attempts)
+        self.assertEqual(['invalid_xml', 'non_feed', None], [check['error_code'] for check in result.checks[:-1]])
 
     def test_rss_repeated_html_response_is_failed_not_empty_success(self):
-        with patch('sih_ref.sources._request_text',return_value='<html><body>Unavailable</body></html>') as request, patch('sih_ref.sources.time.sleep'):
-            result=collect_source({'id':'test','kind':'rss','enabled':True,'url':'https://example.org/rss'},base_dir=ROOT,live=True,as_of=date(2026,9,28))
-        self.assertEqual('failed',result.status)
-        self.assertIn('non-feed',result.error)
-        self.assertEqual(3,request.call_count)
+        result, attempts = self.collect(['<html><body>Unavailable</body></html>'] * 3)
+        self.assertEqual('failed', result.status)
+        self.assertEqual([], result.items)
+        self.assertIn('non_feed', result.error)
+        self.assertEqual(3, attempts)
+
 
 class RelevanceTests(unittest.TestCase):
     def score(self, title):
