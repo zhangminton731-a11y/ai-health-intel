@@ -2,14 +2,14 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 1142,
-      "content_type": "text/xml",
-      "elapsed_ms": 781,
+      "bytes_read": 0,
+      "content_type": "text/plain",
+      "elapsed_ms": 76,
       "error_code": null,
       "final_url": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "not_modified"
     },
     {
       "count": 2,
@@ -17,13 +17,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 781,
+  "elapsed_ms": 77,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-04T03:55:28+00:00",
+  "generated_at": "2026-10-04T04:04:43+00:00",
   "item_count": 2,
-  "last_checked_at": "2026-10-04T03:55:28+00:00",
-  "last_success_at": "2026-10-04T03:55:28+00:00",
+  "last_checked_at": "2026-10-04T04:04:43+00:00",
+  "last_success_at": "2026-10-04T04:04:43+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",

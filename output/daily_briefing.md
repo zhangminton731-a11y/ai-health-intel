@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-04
 
-> Daily status: **complete** · sources 17/17 · items 237
+> Daily status: **complete** · sources 17/17 · items 236
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -44,7 +44,7 @@ Background: Surgical site infections (SSIs) remain a major cause of health care�
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.53` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
 
 Low-power wireless communication is critical for long-term wearable healthcare monitoring. This review presents a structured technical comparison of radio frequency identification (RFID), near field communication (NFC), backscatter communication (BackCom), and ultra-wideband (UWB) in terms of principles, energy mechanisms, architectures, and performance. We further examine their applications in body-fluid and vital-parameter monitoring, identify challenges in power, range, integration and security, and provide guidance for selecting communication technologies for next-generation wearable medical systems.
 
@@ -76,7 +76,7 @@ Real-time audiovisual connections between health care providers (HCPs) in neonat
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.45` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
 
 Although large language models (LLMs) have shown promise for discharge summary generation, their performance in longer hospitalizations remains less well studied. Prior evaluations of LLM-generated discharge summaries have largely involved shorter stays and have rarely examined receiving-clinician priorities or incidental finding reporting. We compared LLM-generated and human-authored discharge summaries for 60 Internal Medicine hospitalizations lasting 7 to 21 days, with paired assessment by hospitalists and primary care physicians (PCPs). Clinician reviewers preferred LLM-generated summaries for 95% of encounters and rated them higher for quality, readability, factuality and completeness. PCPs rated LLM-generated summaries as better for understanding and communicating hospital care to patients and providing follow-up care. LLM-generated summaries had fewer clinician-reviewer annotations of either factual inaccuracies or clinically relevant omissions, primarily due to fewer omissions, with no significant differences in estimated harm potential or likelihood compared with human-authored summaries. PCPs annotated more omissions and assigned higher likelihood of harm than hospitalists. Among 31 LLM-identified radiology incidental findings, 93.5% were rated factually correct and 87.1% appropriate for reporting. In this retrospective clinician evaluation, LLM-generated summaries for longer, complex hospitalizations were rated more favorably and had fewer annotated omissions than human-authored summaries, with no significant differences in estimated harm potential or likelihood.
 
@@ -84,7 +84,7 @@ Although large language models (LLMs) have shown promise for discharge summary g
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.35` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
 
 Breast ultrasound is central to breast cancer diagnosis but suffers from substantial inter-observer variability in Breast Imaging Reporting and Data System (BI-RADS) assessment, and existing deep learning models remain opaque. Multimodal large language models promise interpretable report-based reasoning, yet scarce paired image-report data yields weak visual-semantic alignment. We propose B-RAD, a BI-RADS-aware retrieval-augmented diagnosis framework that mirrors the radiologist workflow of retrieving exemplars, localizing lesions, and determining the BI-RADS category. Its retrieval module learns BI-RADS-aware alignment from unpaired data by jointly minimizing cross-modal mismatch and ordinal prediction error. Retrieved exemplars guide few-shot detection of the lesion together with its margin and posterior acoustic features, and the detected region prompts a segmentation model whose mask drives training-free foveal attention for classification. We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort. The full pipeline reached a biopsy triage AUROC of 0.952 on that institutional cohort without fine-tuning, outperforming existing vision-language models. In a four-reader study, B-RAD assistance improved accuracy, raised inter-reader agreement from moderate to substantial, and reduced missed malignancies across all readers. These findings show that retrieval-augmented diagnosis can narrow the expertise gap and support accessible breast cancer screening in resource-limited settings.
 
@@ -172,7 +172,7 @@ Background: Training mental health clinicians to conduct standardized clinical a
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
 
 AI-oncology evidence is expanding too quickly for static manual surveillance. We developed OncoTagger, a rule-based abstract-level evidence-surveillance pipeline, and applied it to an English-language, open-access article corpus indexed in the Web of Science Core Collection and analyzed at the title-, abstract-, keyword-, and metadata level from 2019 to 2025. From 59,994 initial records, deduplication, year restriction, automated screening, and manual adjudication yielded 20,766 records. Prediction-stratum-weighted corpus-level estimates showed metric-detection accuracy of 92.3% (95% CI 88.9–95.2%), sensitivity of 89.3% (85.4–93.3%), and specificity of 98.2% (94.5–100.0%). Ordinal metric categories showed exact agreement of 73.6% (69.0–77.8%) for the weighted-category output and 76.8% (72.3–80.8%) for the composite-metric output, with linear weighted Cohen’s kappa of 0.588 (0.513–0.659) and 0.615 (0.537–0.689), respectively. Primary-task assignment showed moderate agreement with manual consensus (68.0% exact agreement, 95% CI 63.3–72.4%; Cohen’s kappa 0.508, 0.442–0.572), and a complete task-unassigned census identified systematic dictionary-coverage gaps. The resulting resource describes abstract-reported metric patterns, pipeline-derived task mix, geography, and an exploratory candidate translational-signal subset. It should be interpreted as reproducible aggregate surveillance infrastructure, not as a full census of the AI-oncology field, a validated article-level classifier, or a comparative evaluation of algorithmic performance.
 
@@ -220,7 +220,7 @@ Medical AI is often evaluated using aggregate measures of discrimination, calibr
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
 
 Healthcare workers (HCWs) face elevated risk for burnout and stress-related disorders, yet conventional self-report assessments are limited by professional stigma and underreporting. We evaluated whether multimodal computational analysis of brief, remotely collected stress narratives could distinguish longitudinal stress profiles. In a prospective six-week cohort study, N = 750 HCWs were invited to provide weekly naturalistic narratives describing recent stressful experiences and repeated measures of anxiety, depression, burnout, and subjective distress. Among 553 participants with sufficient repeated self-report data, multivariate longitudinal clustering identified two distinct profiles: Resilient (n = 295) and Vulnerable (n = 258). Linguistic, acoustic, and facial expression embeddings were extracted from the recordings and integrated using a hierarchical multimodal transformer. In a held-out test set, the model achieved an AUROC of 0.75, outperforming unimodal (linguistic embeddings; AUROC = 0.63) and bimodal (linguistic + acoustic; AUROC = 0.70) configurations. These findings provide proof of concept that multimodal embeddings extracted from brief stress narratives are associated with occupational stress profiles, potentially complementing traditional assessment methods and informing targeted prevention strategies.
 
@@ -228,7 +228,7 @@ Healthcare workers (HCWs) face elevated risk for burnout and stress-related diso
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
 
 Shapley value explanations are increasingly used to provide added transparency for “black-box” prediction models in healthcare. In this article, we provide an introductory overview of Shapley value explanations and describe their use through a detailed scoping review of 100 randomly selected, peer-reviewed publications that used Shapley explanations as part of their clinical research. We focus on the use of Shapley value explanations to explain the predictions of clinical prediction models that use tabular input features (e.g., predictors that measure patient characteristics like blood pressure and age) to predict health outcomes in individuals. In our review of the literature, we found that the methods used to compute Shapley value explanations were often underreported; e.g., 91% of publications did not disclose the algorithm that was used to compute Shapley value explanations, and 97% did not disclose the source or size of the reference (baseline) population used in the calculations. We identify four dominant motivations for using Shapley explanations in the literature (identification of key features, clinical decision support, trustworthiness, and exploratory analyses), elaborate on commonly found (mis) interpretations, and discuss challenges associated with Shapley value explanations. Finally, we provide practical recommendations for use of Shapley values in the context of clinical prediction models.
 
@@ -252,7 +252,7 @@ International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
 
 Despite advances in brain biomarkers using neural networks, the effects of body mass on brain structure have been neglected, particularly in connection with noncommunicable diseases. Here, we isolated brain biomarkers of body mass index (BMI) and evaluated their association with disease states. We applied deep learning on T1-weighted MRI scans to predict BMI from six independent cohorts and achieved strong within-cohort and reduced external performance. In a longitudinal follow-up subset, the model successfully tracked BMI changes over 2.3 years, with stronger sensitivity to BMI increases, and for obese participants. Next, we used the learned brain biomarkers to infer lifestyle factors and diagnoses related to cardiometabolic and pulmonary conditions. Strikingly, brain-based models showed superior discriminative power compared to BMI itself for detecting disorders without a primary neurological etiology. Inspection of learned patterns revealed that predictions were driven by white matter signals in the cerebellum, corpus callosum and brainstem, which on their own detected disorders as well as the full model. The existence of dynamic brain BMI signatures, and their detection of systemic disease consistently above BMI, suggest the possibility of shared mechanisms linking metabolic state and brain structure.
 
@@ -276,7 +276,7 @@ Background: Antiseizure medications (ASMs) are the mainstay of epilepsy treatmen
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
 
 Cardiovascular-kidney-metabolic (CKM) syndrome is associated with a high risk of mortality, yet accurate individual risk prediction remains limited. We developed and validated machine learning models to predict 3-year all-cause mortality in 219,561 hospitalized patients with CKM stages 2-4 from 29 medical centers. Extreme Gradient Boosting (XGBoost) and least absolute shrinkage and selection operator (LASSO) models were developed in a derivation cohort (n = 132,404) using 101 variables and evaluated in internal (n = 56,744) and center-based (n = 30,413) validation cohorts. An 8-variable XGBoost model consistently outperformed the LASSO model, achieving receiver operating characteristic curve [ROC-AUC] of 0.831, 0.826, and 0.813 in the derivation, internal, and center-based validation cohorts, respectively. Based on the optimal model, patients were stratified into low-, moderate-, and high-risk groups. Compared with the low-risk group, high-risk patients had substantially higher risks of 3-year all-cause mortality (hazard ratio [HR], 9.62 [8.86, 10.45]) and cardiovascular mortality (HR, 12.53 [10.97, 14.31]). A web-based risk calculator was developed to facilitate clinical application. This parsimonious 8-variable XGBoost model provides accurate mortality risk stratification and may support personalized management of patients with CKM syndrome.
 
@@ -284,7 +284,7 @@ Cardiovascular-kidney-metabolic (CKM) syndrome is associated with a high risk of
 
 No items.
 
-## Archive · 203
+## Archive · 202
 
 ### [Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health](https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/)
 
@@ -610,7 +610,7 @@ This week’s list of the largest U.S. startup funding rounds was pretty much al
 
 - Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.3` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04658-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04658-2`
 
 A new study tackles issues around operational and decisional trust of agentic artificial intelligence (AI), using locally deployed, on-premise agents and consistency-based gating to refer uncertain cases — but what happens after referral remains untested.
 
@@ -698,7 +698,7 @@ Apple today announced its most advanced health and fitness experience yet, deepe
 
 - Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04651-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04651-9`
 
 Safiglipron is an oral small-molecule glucagon-like peptide-1 (GLP-1) receptor agonist administered without fasting or dietary restrictions. We evaluated its efficacy and safety in OUTSTAND-1, a phase 3, multicenter, randomized, double-blind, placebo-controlled trial at 46 sites in China. We randomized 284 adults with type 2 diabetes managed with diet and exercise alone (mean baseline HbA1c 7.95%, median diabetes duration 1.6 years, 33.1% women) to once-daily safiglipron 30 mg (n = 70), 60 mg (n = 70), 90 mg (n = 72) or placebo (n = 72) for 32 weeks, followed by a 20-week active-treatment extension. For the primary endpoint, placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14) for 30 mg, 60 mg and 90 mg, respectively (all P &lt; 0.0001; treatment policy estimand). Secondary outcomes showed HbA1c &lt; 7.0% in 71.4−77.8% versus 25.0%, HbA1c ≤ 6.5% in 58.6−68.1% versus 16.7% and placebo-adjusted fasting plasma glucose differences of −1.58, −1.68 and −2.08 mmol l−1, respectively (all P &lt; 0.0001). Body weight differences were modest (−0.65%, −2.23% and −3.56% versus placebo). Other secondary outcomes generally favored safiglipron for HbA1c &lt; 5.7% attainment, postprandial glycemia, homeostatic model assessment of β cell function (HOMA-β), homeostatic model assessment of insulin resistance (HOMA-IR), disposition index and waist circumference, with less rescue therapy use. Insulin and C-peptide responses varied by dose, and changes in treatment satisfaction were limited. Gastrointestinal adverse events were most common and mostly mild or moderate. Adverse events led to treatment discontinuation in 1.4%, 2.9%, 6.9% and 0% of participants receiving safiglipron 30 mg, 60 mg, 90 mg and placebo, respectively. These findings support once-daily oral safiglipron as an effective treatment option for type 2 diabetes. ClinicalTrials.gov identifier: NCT06672172 . The OUTSTAND-1 trial showed that once-daily oral small-molecule GLP-1 receptor agonist safiglipron reduced HbA1c by up to 1.45% versus placebo over 32 weeks in people with type 2 diabetes without glucose-lowering medication while body weight effects were modest.
 
@@ -706,7 +706,7 @@ Safiglipron is an oral small-molecule glucagon-like peptide-1 (GLP-1) receptor a
 
 - Source: `nature_medicine` · published `2026-09-30` · freshness `fresh`
 - Topic relevance: `0.27` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04705-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04705-y`
 
 Zabilugene almadenorepvec (VCN-01) is a hyaluronidase-expressing oncolytic adenovirus with a favorable safety profile and encouraging antitumor activity in patients with pancreatic ductal adenocarcinoma. This randomized phase 2b trial evaluated the efficacy and safety of two doses of intravenous VCN-01 with gemcitabine and nab-paclitaxel (GnP) versus GnP alone as first-line therapy in metastatic pancreatic ductal adenocarcinoma. The primary endpoints were overall survival (OS) in the intent-to-treat and full analysis set (FAS) populations, and safety and tolerability in the safety population. In the intent-to-treat population (VCN-01 + GnP, n = 53; GnP, n = 48), median OS in the VCN-01 + GnP versus GnP group was 10.6 versus 8.6 months (hazard ratio (HR) = 0.69 (95% confidence interval (CI) 0.42–1.12), P = 0.196) and progression-free survival was 5.6 versus 4.6 months (HR = 0.63 (95% CI 0.4–1.00), P = 0.046). In the FAS population (n = 48 per group), median OS was 10.8 months in the VCN-01 + GnP group versus 8.6 months in the GnP group (HR = 0.57 (95% CI 0.34-0.96), P = 0.055) and progression-free survival was 7.0 versus 4.6 months (HR = 0.55 (95% CI, 0.34-0.88), P = 0.011). The primary efficacy endpoint of OS was met in the FAS population. Duration of response was 11.2 versus 5.4 months (HR = 0.22 (95% CI 0.08–0.63), P = 0.004). No statistically significant differences were observed in overall response rate, disease control rate or carbohydrate antigen 19-9 levels between treatment groups. In addition, survival rates in the VCN-01 + GnP group versus the GnP group were 35.5% versus 12.8% at 15 months, and 31.1% versus 8.5% at 18 months. Patients receiving two VCN-01 doses 14 weeks apart showed greater survival benefit, with sustained circulating viral genomes indicating ongoing viral replication and preserved second-dose bioactivity despite persistent neutralizing antibodies. More frequent VCN-01-related events included pyrexia, flu-like symptoms, elevation in liver enzymes and decreases in platelet counts, with serious events occurring in 22.6% of patients. Milder toxicity was observed after the second administration. Two fatal events occurred, one in each treatment group; neither was considered related to study treatment. These results further support VCN-01 combined with GnP as a first-line therapy for metastatic pancreatic ductal adenocarcinoma and warrant evaluation in a blinded phase 3 trial. ClinicalTrials.gov identifier: NCT05673811 . In the randomized phase 2b VIRAGE trial, patients with treatment-naive metastatic pancreatic cancer received the hyaluronidase-expressing oncolytic adenovirus zabilugene almadenorepvec (VCN-01) intravenously with gemcitabine and nab-paclitaxel (GnP) or GnP alone, showing that VCN-01 plus GnP led to prolonged overall survival.
 
@@ -826,7 +826,7 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 - Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.23` · novelty hint: `0.25`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04675-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04675-1`
 
 Undernutrition and infectious diseases pose a double threat to child survival, especially in areas with a high malnutrition burden and low vaccination coverage. In this study, we evaluated whether distributing preventive small-quantity lipid-based nutrient supplements (SQ-LNS) alongside routine immunization services may increase vaccine uptake in a pediatric, pragmatic, cluster-randomized controlled trial in northern Nigeria. Twenty geographically defined clusters across two Local Government Areas were randomized 1:1 to the NutriVax strategy (intervention) or standard National Program of Immunization (NPI) services (control). NutriVax provided a monthly ration of SQ-LNS to children aged 6−23 months after routine NPI delivery at primary healthcare centers. The primary outcome was coverage of the first dose of measles-containing vaccine (MCV1) verified by vaccination card among children aged 12−23 months, assessed in an endline population-based household cross-sectional survey 12 months after conducting a similar baseline survey. The endline survey included 1,604 children (801 control, 803 NutriVax); 48% of children surveyed in intervention clusters had ever received SQ-LNS. The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004). The difference-in-differences, cluster conditional analysis indicated a 20.1 percentage-point (pp) increase in MCV1 coverage from baseline (95% CI: 13.7−26.5 pp, P &lt; 0.0001) relative to the control arm. Co-delivering SQ-LNS with routine immunization substantially improved card-verified MCV1 uptake, supporting a scalable strategy to make progress toward targets set by the World Health Organizationʼs Immunization Agenda 2030 in similar settings. ClinicalTrials.gov identifier: NCT06387511 . A pragmatic, superiority, cluster-randomized trial done in Yobe State, northern Nigeria, found that distributing small-quantity lipid-based nutrient supplements alongside routine immunization services substantially increased measles vaccination uptake in children aged 12−23 months.
 
@@ -1174,14 +1174,6 @@ Through October 7, Sneaky Sasquatch transforms Subway Surfers+ with the charm an
 
 <p>Today, Oura is proud to announce the expansion of our proprietary Menopause Impact Scale (MIS) through a growing ecosystem of ten partners across specialty menopause care, primary care, telehealth, and hormone tracking. The integrations, which will include Alloy Health, Oova, Xella, Pomelo, Wisp, Maven, Mira, Hertility, Gennev, and Tia, extend the MIS beyond the Oura [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/menopause-impact-scale-partner-network/">ŌURA Brings Menopause Impact Scale into Clinical Care through Expanding Partner Network</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
-### [EudraVigilance - European database of suspected adverse reactions related to medicines: user manual for online access via the adrreports.eu portal](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/eudravigilance-european-database-suspected-adverse-reactions-related-medicines-user-manual-online-access-adrreportseu-portal_en.pdf)
-
-- Source: `ema_guidance` · published `2026-09-03` · freshness `stale`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/eudravigilance-european-database-suspected-adverse-reactions-related-medicines-user-manual-online-access-adrreportseu-portal_en.pdf`
-
-EudraVigilance - European database of suspected adverse reactions related to medicines: user manual for online access via the adrreports.eu portal
-
 ### [Co-ordinating good manufacturing practice (GMP) inspections for centrally authorised products](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/co-ordinating-good-manufacturing-practice-gmp-inspections-centrally-authorised-products_en.pdf)
 
 - Source: `ema_guidance` · published `2026-09-07` · freshness `stale`
@@ -1474,7 +1466,7 @@ Notice NOT-OD-26-131 from the NIH Guide for Grants and Contracts
 
 - Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04693-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04693-z`
 
 In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite instability, offering a new way to target these tumors beyond immune checkpoint inhibition.
 
@@ -1658,7 +1650,7 @@ Proposed changes to the federal government’s health survey would undercount Am
 
 - Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04674-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04674-2`
 
 The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney and biopsy for histology (n = 33), alongside single-nucleus (n = 22) and spatial transcriptomics (n = 13) on paired samples with before- and after-treatment measurements. Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment. Secondary outcomes revealed that semaglutide treatment, as compared to placebo, was associated with a significantly reduced renal artery resistive index and stabilization of the apparent diffusion coefficient, indicating prevention of fibrosis progression. Moreover, secondary transcriptomic outcomes revealed pronounced effects of semaglutide on glomerular endothelial cells, consistent with the results of spatial analyses indicating reduced numbers of immune cells in the proximity of these endothelial cells. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health. ClinicalTrials.gov identifier: NCT04865770 . A randomized trial in individuals with type 2 diabetes probed the kidney-protective mechanisms of semaglutide using a range of techniques, including histology, multiparametric MRI and transcriptomics.
 
@@ -1666,7 +1658,7 @@ The GLP-1 receptor agonist semaglutide preserves kidney function in people with 
 
 - Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04677-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04677-z`
 
 Neoadjuvant immune checkpoint inhibitors (ICIs) are standard of care for resectable stage IIIB–D melanoma, but knowledge gaps remain regarding optimal treatment type, long-term survival, postsurgical management and clinical, histopathological or molecular subgroups. We analyzed 1,038 patients treated with neoadjuvant ICIs (n = 735), BRAF and MEK inhibitors (BRAF/MEKis; n = 119) or ICI plus any targeted therapy (ICI + TT; n = 184) from 26 international sites in both trial (755, 72.7%) and nontrial (283, 27.3%) settings. ICI regimens included anti-programmed cell death protein 1 (PD-1) alone (PD-1 alone; n = 242) and anti-PD-1 plus other immuno-oncology agent(s) (PD-1 + IO; n = 489). Outcomes included major pathological response (MPR), recurrence-free survival (RFS) and overall survival (OS). An MPR was achieved in 57.8% of patients with ICIs, 51.4% with BRAF/MEKis and 44.6% with ICI + TT. PD-1 + IO elicited higher MPR rates than PD-1 alone (61.4% versus 49.5%). The 5-year RFS rate was 61.0% with PD-1 alone, 73.9% with PD-1 + IO, 37.4% with BRAF/MEKis and 76.4% with ICI + TT; the 5-year OS rates were 83.3%, 87.5%, 69.8% and 83.9%, respectively. ICI-treated patients with MPR had 5-year OS rates of 98.8% with PD-1 alone and 97.9% with PD-1 + IO and gained no benefit from continuing ICIs into the adjuvant setting. Neoadjuvant ICIs were active in BRAF-mutant melanoma (MPR, 46.3%), acral melanoma (38.1%), in-transit metastases (66.7%) and oligometastases (41.2%), although subgroup sizes and relative effectiveness varied. Survival outcomes were excellent with neoadjuvant ICIs, particularly in patients achieving MPR, but poor with BRAF/MEKis and mixed with ICI + TT. Predictive biomarker-driven trials, effective adjuvant strategies and subgroup-specific research are needed for nonresponders. An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors (ICIs), BRAF and MEK inhibitors (BRAF/MEKis), or a combination of ICIs and targeted therapies shows that ICI as monotherapy or in ICI combinations are superior to BRAF/MEKis and patients with major pathological responses have better long-term survival.
 
@@ -1842,7 +1834,7 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04673-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04673-3`
 
 Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-seq), a liquid biopsy method for urine cfRNA profiling, and apply it to 683 urine samples from patients with cancer and controls. Urine cfRNA contained transcripts from genitourinary tissues and, in patients with prostate, kidney or bladder cancer, tumor-derived transcripts. uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mutations. Urine cfRNA analysis also sensitively detected minimal residual disease and distinguished complete molecular responses after surgery from those after intravesical Bacillus Calmette–Guérin (BCG). Pretreatment urine from complete responders to BCG was enriched for T cell and other immune signatures, suggesting a preexisting antitumor immune response, whereas nonresponders showed higher expression of proliferation-related genes. In pretreatment urine from 114 patients, this biological difference enabled development of a biomarker predicting likelihood of response to BCG versus chemotherapy (area under the curve 0.93) that was strongly associated with risk of recurrence. Urine cfRNA analysis is therefore a promising biomarker approach for bladder cancer and potentially other urologic malignancies, although prospective studies are needed to assess its clinical utility. Applied to samples from more than 600 patients and controls, urinary cell-free RNA profiling with uRARE-seq demonstrated high sensitivity in detecting bladder cancer, and correlated with treatment response.
 

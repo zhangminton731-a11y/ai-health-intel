@@ -2,14 +2,14 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 152592,
+      "bytes_read": 0,
       "content_type": "application/rss+xml",
-      "elapsed_ms": 2172,
+      "elapsed_ms": 940,
       "error_code": null,
       "final_url": "https://ouraring.com/blog/feed/",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "not_modified"
     },
     {
       "count": 12,
@@ -17,13 +17,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 2172,
+  "elapsed_ms": 943,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-04T03:55:28+00:00",
+  "generated_at": "2026-10-04T04:04:43+00:00",
   "item_count": 12,
-  "last_checked_at": "2026-10-04T03:55:28+00:00",
-  "last_success_at": "2026-10-04T03:55:28+00:00",
+  "last_checked_at": "2026-10-04T04:04:43+00:00",
+  "last_success_at": "2026-10-04T04:04:43+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",

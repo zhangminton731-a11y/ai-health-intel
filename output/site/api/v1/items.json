@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T03:55:28+00:00",
+  "generated_at": "2026-10-04T04:04:43+00:00",
   "as_of": "2026-10-04",
   "count": 34,
   "items": [
@@ -172,7 +172,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -326,7 +326,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -367,7 +367,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -789,7 +789,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -1014,7 +1014,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -1055,7 +1055,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -1163,7 +1163,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -1279,7 +1279,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
