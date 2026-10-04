@@ -12,6 +12,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'engine/src'))
 from sih_ref.core import score_item
+from sih_ref.editorial import VERSION, combine, material, validate_review
 from daily_digest import build_issues, issue_text
 
 
@@ -20,6 +21,17 @@ def month_bounds(month):
         raise ValueError('Expected YYYY-MM')
     year, number = map(int, month.split('-'))
     return date(year, number, 1), date(year, number, calendar.monthrange(year, number)[1])
+
+
+def verified_selection(row):
+    judgment = row.get('editorial') or {}
+    if judgment.get('policy_version') != VERSION:
+        return False
+    try:
+        checked = combine([validate_review(r, material(row)) for r in judgment['reviews']], judgment['source_tier'])
+        return checked['selected'] and checked['score'] == judgment.get('score') and checked['audiences'] == judgment.get('audiences')
+    except (KeyError, TypeError, ValueError):
+        return False
 
 
 def merge_records(rows, month):
@@ -33,7 +45,7 @@ def merge_records(rows, month):
         if not first <= published <= last or not row.get('url') or not row.get('item_id'):
             continue
         previous = unique.get(row['url'])
-        if previous is None or len(row.get('summary') or '') > len(previous.get('summary') or ''):
+        if previous is None or (verified_selection(row), len(row.get('summary') or '')) > (verified_selection(previous), len(previous.get('summary') or '')):
             unique[row['url']] = row
     return sorted(unique.values(), key=lambda row: (row['published_at'], row['item_id']), reverse=True)
 
@@ -73,11 +85,13 @@ def export_archives(output, profile, translator, build_data):
         previous = target / (month + '.json')
         previous_issues = None
         if profile.get('editorial', {}).get('enabled') and previous.exists():
-            # Freeze the already published archive membership, not its obsolete keyword scores.
+            # Preserve published history; only validated model selections may extend it.
             published = json.loads(previous.read_text(encoding='utf-8'))
             ids = {row['id'] for row in published['items']}
-            previous_issues = published['editions']
-            selected = [dict(row, reading_tier='skim', freshness_gate='fresh') for row in records if row['item_id'] in ids]
+            selected = [dict(row, reading_tier='skim', freshness_gate='fresh') for row in records
+                        if row['item_id'] in ids or verified_selection(row)]
+            if {row['item_id'] for row in selected} == ids:
+                previous_issues = published['editions']
         else:
             selected = select_records(records, profile)
         rows = build_data(selected, translator, last)

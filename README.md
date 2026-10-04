@@ -44,7 +44,7 @@
 |---|---|
 | 期刊 | npj Digital Medicine、Nature Medicine、Nature Biomedical Engineering、Journal of Medical Internet Research、JMIR AI、JMIR mHealth and uHealth、JMIR Medical Informatics |
 | 公开摘要索引 | NEJM、The Lancet、JAMA、Annals of Internal Medicine、The BMJ；通过 Europe PMC 按 ISSN 获取已索引且有摘要的文章，可能存在索引延迟 |
-| 官方机构 | NIH 科研资助与通知、EMA 监管与程序指南、FDA 官方公告 |
+| 官方机构 | NIH 科研资助与通知、EMA 监管与程序指南、FDA 官方公告、CMS 政策事实说明 |
 | 研究机构 | MIT News · Health |
 | 专业媒体 | MedTech Dive、STAT、MedCity News、Medical Device Network、Crunchbase News |
 | 企业发布 | Apple Newsroom、Google Blog、Oura |
@@ -58,14 +58,16 @@
 
 新增来源使用[最近十篇模型准入审计](docs/source-admission-2026-10-04-editorial.json)。来源准入的 70 分与单篇发布的 T1/T1_5/T2 门槛分开；网络失败、材料不足和模型分歧均保留记录，不当作零分或达标。
 
+产业扩源第二轮审计了 10 个候选栏目、取得 82 篇固定样本；CMS 政策事实说明以最近连续十篇中 4 篇达到 70 分通过准入。[纳排与逐篇回执](docs/source-admission-2026-10-04-industry.json) · [时间线及扩源验收](docs/date-timeline-industry-acceptance.md)。截至本次回填，9 月 1 日至 10 月 4 日的达标产业资料覆盖 **6 / 34 天**，每天至少一篇的目标仍未完成。
+
 ## 九月资料档案
 
-从 54 个 Git 采集快照及本次真实采集恢复 **762 条去重原始记录**，原文日期覆盖九月全部 30 天。按现有规则回溯筛选得到 **120 条可读资料、22 份日报**。其余 8 天没有符合日报条件的条目，日历保留空缺。所有回溯日报明确标注整理方式，不宣称它们在历史当天已出刊；资料范围限于本仓库可恢复记录，并非全网完整收录。
+最初从 54 个 Git 采集快照恢复 762 条去重原始记录、120 条可读资料。本次增加 5 篇经现行双次模型评审确认的九月产业资料，目前为 **767 条原始记录、125 条可读资料、22 份回溯日报**。旧版未重评记录不再混入产业时间线。日报日历仍有 8 天空缺；所有回溯日报明确标注整理方式，不宣称它们在历史当天已出刊，资料范围并非全网完整收录。
 
 - [浏览科研资料](https://zhangminton731-a11y.github.io/ai-health-intel/#jingxuan?month=2026-09) · [浏览产业资料](https://zhangminton731-a11y.github.io/ai-health-intel/#industry?month=2026-09)
 - [日报合订本](output/site/archive/2026-09/daily.md) · [原始记录及快照来源](output/archives/2026-09.json)
 
-月度正文按需加载、会话内缓存；首页只携带轻量月份目录。长期档案不受近 20 天滚动历史窗口影响，也不混入当前推荐。
+两栏以日期展开／收起；进入栏目后后台载入月度资料并缓存，当前内容先呈现。长期档案不受近 20 天滚动窗口影响，不混入当前推荐、热点与 RSS。后台加载失败可重试，已呈现的当前文章保留。
 
 [本次真实信源验收与限制](docs/sih-upgrade-acceptance.md) · [原有时效边界验收](docs/freshness-gate-acceptance.md)
 

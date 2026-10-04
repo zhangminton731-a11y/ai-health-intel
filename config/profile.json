@@ -234,7 +234,8 @@
       "jama_abstracts": "T1",
       "annals_internal_abstracts": "T1",
       "bmj_abstracts": "T1",
-      "fda_press": "T1"
+      "fda_press": "T1",
+      "cms_fact_sheets": "T1"
     }
   }
 }

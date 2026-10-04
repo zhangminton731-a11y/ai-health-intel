@@ -1,9 +1,26 @@
 {
   "months": [
     {
+      "month": "2026-10",
+      "record_count": 1,
+      "item_count": 1,
+      "record_dates": [
+        "2026-10-01"
+      ],
+      "editions": [
+        {
+          "date": "2026-10-01",
+          "headline": "FDA 批准首个旨在与儿童一起成长的心脏瓣膜",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 1
+        }
+      ]
+    },
+    {
       "month": "2026-09",
-      "record_count": 762,
-      "item_count": 120,
+      "record_count": 767,
+      "item_count": 125,
       "record_dates": [
         "2026-09-01",
         "2026-09-02",
@@ -40,21 +57,21 @@
         {
           "date": "2026-09-30",
           "headline": "人工智能的医疗保健“世界末日”？与其说是自治，不如说是信任",
-          "minutes": 3,
+          "minutes": 2,
           "kind": "retrospective",
           "count": 5
         },
         {
           "date": "2026-09-29",
-          "headline": "韩国搜索引擎中隐蔽宣传癌症相关内容：Naver 和 Google 的计算内容分析",
+          "headline": "在资源有限的非洲卫生系统中实施人工智能语音电子病历的准备情况和采用：多站点定性研究",
           "minutes": 3,
           "kind": "retrospective",
           "count": 5
         },
         {
           "date": "2026-09-28",
-          "headline": "低收入国家药物警戒人工智能的治理：系统视角",
-          "minutes": 3,
+          "headline": "将现实世界的安全和实施差距转化为 NHS 医疗保健提供者部署衍生的 AI 准备实施前清单：清单开发研究",
+          "minutes": 4,
           "kind": "retrospective",
           "count": 5
         },
@@ -67,7 +84,7 @@
         },
         {
           "date": "2026-09-25",
-          "headline": "人工智能使用光电体积描记法诊断阻塞性睡眠呼吸暂停的准确性：系统评价和荟萃分析",
+          "headline": "接受机器学习用于癫痫药物选择，为临床试验设计提供信息：联合设计调查研究",
           "minutes": 3,
           "kind": "retrospective",
           "count": 5
@@ -81,7 +98,7 @@
         },
         {
           "date": "2026-09-23",
-          "headline": "人工智能对医生技术的影响：定性访谈和焦点小组研究",
+          "headline": "饮食失调的大型语言模型诊断中的隐性偏差：实验小插图研究",
           "minutes": 2,
           "kind": "retrospective",
           "count": 4
@@ -95,7 +112,7 @@
         },
         {
           "date": "2026-09-21",
-          "headline": "使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究",
+          "headline": "用于评估营养信息对 1 型糖尿病管理影响的可解释多水平血糖预测：模型开发和验证研究",
           "minutes": 3,
           "kind": "retrospective",
           "count": 5
@@ -110,9 +127,9 @@
         {
           "date": "2026-09-17",
           "headline": "Oura 和 Counsel Health 通过 CMS ACCESS 模式扩大合作伙伴关系",
-          "minutes": 1,
+          "minutes": 2,
           "kind": "retrospective",
-          "count": 1
+          "count": 2
         },
         {
           "date": "2026-09-16",
@@ -126,7 +143,7 @@
           "headline": "STAT+：新文件揭示了医疗保险事先授权试点的问题",
           "minutes": 2,
           "kind": "retrospective",
-          "count": 3
+          "count": 4
         },
         {
           "date": "2026-09-14",
@@ -172,17 +189,17 @@
         },
         {
           "date": "2026-09-04",
-          "headline": "Vara 首次自主乳腺癌筛查获得 CE 标志",
+          "headline": "FDA 加速批准一种新的乳腺癌治疗方法",
           "minutes": 1,
           "kind": "retrospective",
-          "count": 1
+          "count": 2
         },
         {
           "date": "2026-09-03",
           "headline": "STAT+：OpenEvidence 推出新的人工智能模型系列",
-          "minutes": 1,
+          "minutes": 2,
           "kind": "retrospective",
-          "count": 4
+          "count": 5
         },
         {
           "date": "2026-09-02",

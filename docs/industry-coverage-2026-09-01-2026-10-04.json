@@ -1,0 +1,194 @@
+{
+  "as_of": "2026-10-04",
+  "target_days": 34,
+  "covered_days": 6,
+  "qualified_articles": 6,
+  "minimum_per_day": 1,
+  "complete": false,
+  "days": [
+    {
+      "date": "2026-09-01",
+      "articles": []
+    },
+    {
+      "date": "2026-09-02",
+      "articles": []
+    },
+    {
+      "date": "2026-09-03",
+      "articles": [
+        {
+          "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+          "title": "FDA Approves First Drug to Treat Alexander Disease",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+          "score": 71,
+          "source_id": "fda_press"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "articles": [
+        {
+          "id": "url:http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
+          "title": "FDA Grants Accelerated Approval to a New Breast Cancer Treatment",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
+          "score": 79,
+          "source_id": "fda_press"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "articles": []
+    },
+    {
+      "date": "2026-09-06",
+      "articles": []
+    },
+    {
+      "date": "2026-09-07",
+      "articles": []
+    },
+    {
+      "date": "2026-09-08",
+      "articles": []
+    },
+    {
+      "date": "2026-09-09",
+      "articles": []
+    },
+    {
+      "date": "2026-09-10",
+      "articles": []
+    },
+    {
+      "date": "2026-09-11",
+      "articles": []
+    },
+    {
+      "date": "2026-09-12",
+      "articles": []
+    },
+    {
+      "date": "2026-09-13",
+      "articles": []
+    },
+    {
+      "date": "2026-09-14",
+      "articles": []
+    },
+    {
+      "date": "2026-09-15",
+      "articles": [
+        {
+          "id": "url:http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications",
+          "title": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications",
+          "score": 71,
+          "source_id": "fda_press"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "articles": []
+    },
+    {
+      "date": "2026-09-17",
+      "articles": [
+        {
+          "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+          "title": "FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+          "score": 74,
+          "source_id": "fda_press"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "articles": []
+    },
+    {
+      "date": "2026-09-19",
+      "articles": []
+    },
+    {
+      "date": "2026-09-20",
+      "articles": []
+    },
+    {
+      "date": "2026-09-21",
+      "articles": [
+        {
+          "id": "url:https://www.cms.gov/newsroom/fact-sheets/preliminary-calendar-year-cy-2027-medicare-clinical-laboratory-fee-schedule-payment-rates",
+          "title": "Preliminary Calendar Year (CY) 2027 Medicare Clinical Laboratory Fee Schedule Payment Rates",
+          "url": "https://www.cms.gov/newsroom/fact-sheets/preliminary-calendar-year-cy-2027-medicare-clinical-laboratory-fee-schedule-payment-rates",
+          "score": 86,
+          "source_id": "cms_fact_sheets"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "articles": []
+    },
+    {
+      "date": "2026-09-23",
+      "articles": []
+    },
+    {
+      "date": "2026-09-24",
+      "articles": []
+    },
+    {
+      "date": "2026-09-25",
+      "articles": []
+    },
+    {
+      "date": "2026-09-26",
+      "articles": []
+    },
+    {
+      "date": "2026-09-27",
+      "articles": []
+    },
+    {
+      "date": "2026-09-28",
+      "articles": []
+    },
+    {
+      "date": "2026-09-29",
+      "articles": []
+    },
+    {
+      "date": "2026-09-30",
+      "articles": []
+    },
+    {
+      "date": "2026-10-01",
+      "articles": [
+        {
+          "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+          "title": "FDA Approves First Heart Valve Designed to Grow with Children",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+          "score": 74,
+          "source_id": "fda_press"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "articles": []
+    },
+    {
+      "date": "2026-10-03",
+      "articles": []
+    },
+    {
+      "date": "2026-10-04",
+      "articles": []
+    }
+  ]
+}

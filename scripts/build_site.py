@@ -26,12 +26,14 @@ from reader_context import reasons, update_history
 from publication import current_items as select_current, coverage
 from site_assets import extract_assets
 from monthly_archive import export_archives
+from sih_ref.editorial import VERSION
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
 SITE_NAME = "奇点医研"
 
 SOURCE_META = {
+    "cms_fact_sheets": ("CMS · 政策事实说明", "官方机构", "官方机构", 3),
     "fda_press": ("FDA · 官方公告", "官方机构", "官方机构", 3),
     "nejm_abstracts": ("NEJM · 摘要索引", "期刊论文", "期刊论文", 3),
     "lancet_abstracts": ("The Lancet · 摘要索引", "期刊论文", "期刊论文", 3),
@@ -323,6 +325,7 @@ def build(*, as_of: date | None = None) -> None:
     briefing = issue_text(daily_issues[0] if daily_issues else None, by_id, as_of)
 
     site_data = {
+        "editorialPolicyVersion": VERSION,
         "archiveMonths": export_archives(OUTPUT, profile, tr, build_data),
         "name": SITE_NAME, "asOf": as_of,
         "generatedAt": health.get("generated_at", ""),

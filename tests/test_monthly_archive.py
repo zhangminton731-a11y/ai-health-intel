@@ -8,11 +8,46 @@ import unittest
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT/'scripts'))
 sys.path.insert(0, str(ROOT/'engine/src'))
-from monthly_archive import merge_records, select_records, month_bounds, export_archives
+from monthly_archive import merge_records, select_records, month_bounds, export_archives, verified_selection
 from sih_ref.core import normalize_item
+from sih_ref.editorial import AXES, VERSION, combine, material, validate_review
 
 
 class MonthlyArchiveTests(unittest.TestCase):
+    def reviewed(self):
+        row = self.row('2026-09-12')
+        raw = {'kind': 'policy', 'axes': dict.fromkeys(AXES, 8), 'audiences': ['industry'],
+               'reason': '包含医保支付改革的具体机制与适用范围，供产业读者核对。', 'support': row['summary']}
+        review = validate_review(raw, material(row))
+        return {**row, 'editorial': combine([review, review], 'T1')}
+
+    def test_verified_archive_extension_requires_matching_receipt_and_material(self):
+        row = self.reviewed()
+        self.assertTrue(verified_selection(row))
+        self.assertFalse(verified_selection({**row, 'summary': 'Unsupported replacement'}))
+        self.assertFalse(verified_selection({**row, 'editorial': {**row['editorial'], 'score': 98}}))
+        self.assertFalse(verified_selection({**row, 'editorial': {**row['editorial'], 'policy_version': 'old'}}))
+        legacy = {**row, 'summary': row['summary'] * 3, 'editorial': None}
+        self.assertEqual([row], merge_records([legacy, row], '2026-09'))
+
+    def test_new_validated_industry_record_extends_frozen_archive(self):
+        profile = {'editorial': {'enabled': True}}
+        old = {**self.row('2026-09-01'), 'item_id': 'old', 'url': 'https://example.org/old'}
+        new = self.reviewed()
+        invalid = {**self.row('2026-09-02'), 'item_id': 'invalid', 'url': 'https://example.org/invalid'}
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp)
+            (output / 'archives').mkdir()
+            (output / 'site/api/v1/archive').mkdir(parents=True)
+            (output / 'archives/2026-09.json').write_text(json.dumps({'month': '2026-09', 'recovered_at': '2026-10-04', 'records': [old, new, invalid]}), encoding='utf-8')
+            (output / 'site/api/v1/archive/2026-09.json').write_text(json.dumps({'items': [{'id': 'old'}], 'editions': []}), encoding='utf-8')
+            def data(rows, _, as_of):
+                return [dict(id=r['item_id'], date=r['published_at'], t=r['title'], te=r['title'], s=r['summary'], se='', u=r['url'], src='CMS', rel=80, freshness='fresh', tier='skim', categories={}) for r in rows]
+            export_archives(output, profile, None, data)
+            result = json.loads((output / 'site/api/v1/archive/2026-09.json').read_text(encoding='utf-8'))
+            self.assertEqual({'old', new['item_id']}, {r['id'] for r in result['items']})
+            self.assertEqual({'2026-09-01', '2026-09-12'}, {i['date'] for i in result['editions']})
+
     def row(self, day='2026-09-01', summary='Hospital artificial intelligence clinical validation healthcare medical imaging'):
         return dict(reading_tier='skim', **normalize_item({'title': 'Clinical AI study', 'url': 'https://example.org/study',
                                'published_at': day, 'summary': summary}, {'id': 'journal', 'kind': 'rss'}))

@@ -238,6 +238,15 @@
       "max_results": 100,
       "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
       "admission_report": "docs/source-admission-2026-10-04-editorial.json"
+    },
+    {
+      "admission_report": "docs/source-admission-2026-10-04-industry.json",
+      "enabled": true,
+      "id": "cms_fact_sheets",
+      "kind": "cms_facts",
+      "max_results": 30,
+      "required": false,
+      "url": "https://www.cms.gov/newsroom/articles"
     }
   ],
   "llm": {
