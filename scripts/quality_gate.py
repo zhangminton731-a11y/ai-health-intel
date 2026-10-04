@@ -45,10 +45,13 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if generated.astimezone(timezone(timedelta(hours=8))).date().isoformat()!=health['as_of']:
                 problems.append('批次日期与北京采集日期不一致')
         html=(output/'site/index.html').read_text(encoding='utf-8')
+        for asset in re.findall(r'(?:href|src)="(assets/site\.[a-f0-9]+\.(?:css|js))"',html):
+            if not (output/'site'/asset).is_file(): problems.append('缺少页面资源: '+asset)
         match=re.search(r'<script id="payload" type="application/json">(.*?)</script>',html,re.S)
         if not match:problems.append('页面缺少情报数据');return problems
         payload=json.loads(match[1])
         feeds={name:json.loads((output/f'site/api/v1/{name}.json').read_text(encoding='utf-8')) for name in ('items','health','briefing')}
+        if feeds['health'].get('coverage',{}) != payload.get('coverage',{}): problems.append('内容覆盖诊断与页面不一致')
         if payload.get('generatedAt')!=health['generated_at'] or payload.get('asOf')!=health['as_of']:
             problems.append('页面与采集不是同一批次')
         for name,feed in feeds.items():

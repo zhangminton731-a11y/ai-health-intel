@@ -17,3 +17,5 @@ node_modules/
 # Operational state restored by Actions, including failed unpublished batches.
 output/.state/source_health_history.json
 .monitor-state/
+output/.cache/
+.validation/

@@ -18,7 +18,8 @@ from typing import Any, Callable, Mapping
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-from .core import normalize_url, text
+from .core import normalize_url, normalize_date, text
+from .article_metadata import enrich_summary
 from .rss_fetch import FeedFetchError, fetch_feed
 
 
@@ -162,11 +163,12 @@ def _arxiv(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
     return SourceResult(text(source.get("id")), status, items, [{"kind": "arxiv_atom", "count": len(items)}])
 
 
-def _rss(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
+def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
     url = normalize_url(source.get("url"))
     if not url:
         raise ValueError("RSS source requires an http(s) url")
-    root, checks = fetch_feed(url, USER_AGENT)
+    cache_dir = source.get('_cache_dir')
+    root, checks = fetch_feed(url, USER_AGENT, cache_path=cache_dir/'feed.json' if cache_dir else None)
     items: list[dict[str, Any]] = []
     rss_ns = "{http://purl.org/rss/1.0/}"
     rss_items = root.findall(".//item") + root.findall(f".//{rss_ns}item")
@@ -203,6 +205,14 @@ def _rss(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
             )
     max_results = min(100, max(1, int(source.get("max_results") or 20)))
     items = items[:max_results]
+    if source.get('article_metadata') == 'nature':
+        attempted = 0
+        for item in items:
+            published = normalize_date(item.get('published_at'))
+            if published and 0 <= (as_of-date.fromisoformat(published)).days <= 10 and not item.get('summary'):
+                check = enrich_summary(item, cache_dir, allow_fetch=attempted < 8)
+                attempted += check['status'] in ('ok', 'unavailable')
+                checks.append(check)
     checks.append({"kind": "rss_atom", "count": len(items)})
     return SourceResult(text(source.get("id")), "ok" if items else "ok_no_updates", items, checks)
 

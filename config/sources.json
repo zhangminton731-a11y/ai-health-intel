@@ -82,6 +82,7 @@
     },
     {
       "id": "npj_digital_medicine",
+      "article_metadata": "nature",
       "kind": "rss",
       "enabled": true,
       "required": false,
@@ -90,6 +91,7 @@
     },
     {
       "id": "nature_medicine",
+      "article_metadata": "nature",
       "kind": "rss",
       "enabled": true,
       "required": false,
@@ -138,6 +140,7 @@
     },
     {
       "id": "nature_biomedical_engineering",
+      "article_metadata": "nature",
       "kind": "rss",
       "enabled": true,
       "required": false,

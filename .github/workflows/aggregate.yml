@@ -35,7 +35,13 @@ jobs:
           path: output/.state/source_health_history.json
           key: source-health-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: source-health-v1-${{ github.ref_name }}-
-      - name: Aggregate live sources
+      - name: Restore validated feed and article caches
+        uses: actions/cache@v4
+        with:
+          path: output/.cache
+          key: source-content-v1-${{ github.ref_name }}-${{ github.run_id }}
+          restore-keys: source-content-v1-${{ github.ref_name }}-
+      - name: Collect live sources
         id: collect
         env:
           PYTHONPATH: ${{ github.workspace }}/engine/src

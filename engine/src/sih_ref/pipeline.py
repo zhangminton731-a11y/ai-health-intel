@@ -4,6 +4,8 @@ from __future__ import annotations
 
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor
+from time import monotonic
 from datetime import date
 from pathlib import Path
 from typing import Any, Mapping
@@ -83,18 +85,39 @@ def run_pipeline(
     history_path = output_dir / ".state" / "source_health_history.json"
     history = {} if stateless else load_history(history_path)
 
+    segments = set()
     for source in sources:
         if not isinstance(source, dict):
             raise ValueError("Each source configuration must be an object")
         source_id = text(source.get("id"))
         if not source_id:
             raise ValueError("Each source requires a non-empty id")
+        segment = _safe_segment(source_id)
+        if segment in segments:
+            raise ValueError('Source ids must have unique filesystem names')
+        segments.add(segment)
+
+    def collect(source):
+        start = monotonic()
+        source_id = text(source.get('id'))
         deferred = deferred_retry(source, history, run_at) if live else None
         if deferred:
             result = SourceResult(source_id, "failed", checks=[deferred], error="RSS retry deferred by Retry-After")
         else:
-            result = collect_source(source, base_dir=base_dir, live=live, as_of=as_of)
+            options = dict(source)
+            if not stateless:
+                options['_cache_dir'] = output_dir / '.cache' / _safe_segment(source_id)
+            result = collect_source(options, base_dir=base_dir, live=live, as_of=as_of)
+        return result, round((monotonic()-start)*1000)
+
+    workers = min(4, max(1, int(config.get('collection_workers', 4)))) if live else 1
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        results = list(executor.map(collect, sources))
+    for source, (result, elapsed_ms) in zip(sources, results):
+        source_id = text(source.get('id'))
         manifest = _source_manifest(source, result, run_at=run_at)
+        if live and not deterministic:
+            manifest['elapsed_ms'] = elapsed_ms
         update_source_health(manifest, history)
         source_health.append(manifest)
         source_dir = output_dir / "sources" / _safe_segment(source_id)

@@ -85,7 +85,7 @@
 <aside class="digest-dates" aria-label="日报日期目录"><div class="digest-index-title">奇点日报</div><p>按原文发布日期整理</p><nav id="dailyDates" aria-label="选择日报日期"></nav></aside>
 <div class="digest-reading"><div class="digest-mobile-date"><label for="dailyDateSelect">选择日期</label><select id="dailyDateSelect"></select></div>
 <header class="digest-header"><div class="digest-kicker">奇点日报 <time id="dailyDate"></time></div><h1 id="dailyTitle"></h1><p id="dailyMeta"></p></header>
-<div id="dailyStories"></div><div class="digest-end"><button id="copyBtn" class="button secondary">复制这份日报</button><button id="shareBtn" class="button secondary">分享网站</button></div>
+<p id="dailyUpdate" class="muted" style="font-size:12px;margin:12px 0"></p><div id="dailyStories"></div><div class="digest-end"><button id="copyBtn" class="button secondary">复制这份日报</button><button id="shareBtn" class="button secondary">分享网站</button></div>
 </div></div></section>
 
 <section id="v-more" class="view"><div class="eyebrow">More</div><h1>更多</h1><div class="mobile-appearance"><h2>显示主题</h2><div class="theme-switch" role="group" aria-label="显示主题"><button type="button" data-theme-choice="dark" aria-label="深色模式" title="深色模式" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 13A8.5 8.5 0 0 1 11 3.5 8.5 8.5 0 1 0 20.5 13Z"/></svg></button><button type="button" data-theme-choice="system" aria-label="跟随系统" title="跟随系统" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="13" rx="2"/><path d="M8 21h8M12 16v5"/></svg></button><button type="button" data-theme-choice="light" aria-label="浅色模式" title="浅色模式" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg></button></div><span class="theme-caption">跟随系统</span></div><div class="more-links"><a href="#connect"><strong>Agent 接入</strong><span>Skill、MCP、RSS 与 API →</span></a><a href="#about"><strong>关于</strong><span>认识 June，交流科研与产品合作 →</span></a><a href="#feedback"><strong>反馈</strong><span>告诉我们问题与建议 →</span></a></div></section>
@@ -132,6 +132,7 @@ const isCurrent=i=>{const age=(todayMs-Date.parse(i.date+'T00:00:00Z'))/86400000
 const current=D.items.filter(isCurrent),byId=Object.fromEntries(current.map(i=>[i.id,i]));
 const history=(D.historyItems||[]).filter(i=>{const age=(todayMs-Date.parse(i.date+'T00:00:00Z'))/86400000;return age>=0&&age<=20&&!byId[i.id];});
 const archiveById={...Object.fromEntries(history.map(i=>[i.id,i])),...byId};
+const searchText=new Map(Object.values(archiveById).map(i=>[i.id,[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase()]));
 const hot=D.hot30.filter(i=>byId[i.id]);
 
 const collected=Date.parse(D.generatedAt),ageHours=(now-collected)/3600000;
@@ -161,7 +162,7 @@ function renderSection(section){
  const pool=$('#'+section+'Window').value==='history'?[...current,...history]:current;
  const rows=pool.filter(i=>(i.sections||[]).includes(section)&&(category==='all'||(i.categories?.[section]||[]).includes(category))&&
    (extra==='all'||(section==='research'?(i.stages||[]):i.topics).includes(extra))&&
-   (!q||[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase().includes(q)));
+   (!q||searchText.get(i.id).includes(q)));
  const routeName=section==='research'?'jingxuan':'industry';
  $('#'+section+'Tabs').innerHTML=Object.entries(sectionCategories[section]).map(([key,label])=>`<a href="#${routeName}?category=${key}" ${key===category?'aria-current="page"':''}>${label}</a>`).join('');
  const highlights=rows.filter(i=>byId[i.id]).sort((a,b)=>(b.rel||0)-(a.rel||0)).slice(0,5);
@@ -169,7 +170,7 @@ function renderSection(section){
  $('#'+section+'Count').textContent=`${rows.length} 条匹配内容`;
  const groups=new Map();
  [...rows].sort((a,b)=>b.date.localeCompare(a.date)).forEach(i=>{if(!groups.has(i.date))groups.set(i.date,[]);groups.get(i.date).push(i);});
- if(section==='research'){const show=category==='policy';$('#researchHighlights').closest('.highlights').hidden=show;$('#researchSearch').closest('.section-filters').hidden=show;$('#researchWindow').closest('.archive-toolbar').hidden=show;$('#topRows').hidden=show;$('#policyMap').hidden=!show;}
+ if(section==='research'){const show=category==='policy';$('#researchHighlights').closest('.highlights').hidden=show;$('#researchSearch').closest('.section-filters').hidden=show;$('#researchWindow').closest('.archive-toolbar').hidden=show;$('#topRows').hidden=show;$('#policyMap').hidden=!show;if(show)renderPolicies();}
  const target=section==='research'?$('#topRows'):$('#industryRows');
  target.innerHTML=rows.length?[...groups].map(([day,items])=>`<section><h2><time>${esc(day)}</time><small>${items.length} 条</small></h2>${items.map((i,n)=>card(i,n+1,section)).join('')}</section>`).join(''):'<p class="empty">当前暂无符合条件的内容。可以切换栏目或清除筛选条件。</p>';
 }
@@ -179,9 +180,8 @@ for(const section of ['research','industry']){
 }
 $('#researchStage').addEventListener('change',()=>renderSection('research'));
 $('#industryScope').addEventListener('change',()=>renderSection('industry'));
-function renderFeed(){const q=$('#search').value.trim().toLowerCase(),topic=$('#topicFilter').value,source=$('#sourceFilter').value;const rows=current.filter(i=>(topic==='all'||i.topics.includes(topic))&&(source==='all'||i.sourceType===source)&&(!q||[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase().includes(q)));list($('#feedRows'),rows);$('#resultCount').textContent=`找到 ${rows.length} 条情报`;}
-function renderLists(){list($('#hotRows'),hot);renderFeed();}
-renderLists();
+function renderFeed(){const q=$('#search').value.trim().toLowerCase(),topic=$('#topicFilter').value,source=$('#sourceFilter').value;const rows=current.filter(i=>(topic==='all'||i.topics.includes(topic))&&(source==='all'||i.sourceType===source)&&(!q||searchText.get(i.id).includes(q)));list($('#feedRows'),rows);$('#resultCount').textContent=`找到 ${rows.length} 条情报`;}
+
 $('#search').addEventListener('input',renderFeed);$('#topicFilter').addEventListener('change',renderFeed);$('#sourceFilter').addEventListener('change',renderFeed);
 $('#kws').innerHTML=D.kws.map(k=>`<span class="pill">${esc(k.term)} · ${k.n}</span>`).join('');
 const digestLabels={policy:'政策动态',papers:'论文研究',methods:'工具方法',business:'融资合作',regulation:'市场准入',products:'新品方案',technology:'技术进展',overview:'产业动态'};
@@ -198,13 +198,13 @@ function renderDaily(requested){
  $('#dailyDateSelect').value=edition?edition.date:'';$('#dailyDateSelect').disabled=!editions.length;
  $('#dailyDate').textContent=edition?edition.date.replaceAll('-','.'):'';
  $('#dailyTitle').textContent=rows.length?`这一天的 ${rows.length} 件 AI 医疗大事`:'这一天，暂无精选';
+ $('#dailyUpdate').textContent='最近采集：'+(Number.isFinite(collected)?new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',dateStyle:'short',timeStyle:'short'}).format(new Date(collected)):'未知')+'（北京时间） · 最新有内容日报：'+(editions[0]?.date||'暂无')+(D.coverage?.dates?.[0]?' · '+D.asOf+' 原文：收录 '+D.coverage.dates[0].collected+' 条，入选 '+D.coverage.dates[0].selected+' 条':'')+'。日报按原文日期归集。';
  $('#dailyMeta').textContent=rows.length?`${rows.length} 条核心资讯 · 约 ${edition.minutes} 分钟`:'有值得关注的新进展时，会整理在这里。';
  $('#dailyStories').innerHTML=rows.map((i,n)=>`<article class="digest-story"><span class="digest-number">${String(n+1).padStart(2,'0')}</span><div><p class="digest-category">${esc(digestLabels[digestCategory(i)])}</p><h2><a href="${esc(articleHref(i))}">${esc(i.t||i.te)}</a></h2><p class="digest-summary">${esc(i.s||i.se||'来源未提供摘要，请阅读原文。')}</p><div class="digest-source"><span>${esc(i.src)}</span><a href="${esc(safeUrl(i.u))}" target="_blank" rel="noopener noreferrer">原文 ↗</a></div></div></article>`).join('');
  briefing=rows.length?`奇点医研 · 奇点日报 · ${edition.date}\n这一天的 ${rows.length} 件 AI 医疗大事\n\n`+rows.map((i,n)=>`${String(n+1).padStart(2,'0')} · ${digestLabels[digestCategory(i)]}\n${i.t||i.te}\n${i.s||i.se||'来源未提供摘要，请阅读原文。'}\n${i.src} · ${i.date}\n${safeUrl(i.u)}\n`).join('\n'):'今日暂无新条目，请稍后再来。';
  $('#copyBtn').disabled=!rows.length;
 }
 $('#dailyDateSelect').onchange=e=>{location.hash='daily?date='+e.target.value;};
-renderDaily();
 $('#copyBtn').onclick=()=>copy(briefing,'日报已复制');$('#copyWechat').onclick=()=>copy('13028564458','微信号已复制，请到微信搜索添加');
 
 function renderPolicies(){
@@ -215,7 +215,7 @@ function renderPolicies(){
   return `<section class="policy-lane" data-country="${country}"><header class="policy-lane-header"><h2 id="policy-country-${index}">${country}<small>${nodes.length} 个政策节点</small></h2><p>早期 → 近期 · 左右滑动</p></header><div class="policy-scroll" role="region" tabindex="0" aria-labelledby="policy-country-${index}"><ol class="policy-track">${nodes.map(i=>`<li class="policy-stop"><a class="policy-node" href="${esc(safeUrl(i.url))}" target="_blank" rel="noopener noreferrer" aria-label="${esc(i.date+' '+i.title+'，打开官方原文')}"><time datetime="${esc(i.date)}">${esc(i.date)}</time><div class="policy-node-body"><span class="pill">${esc(i.kind)}</span><h3>${esc(i.title)}</h3><p class="policy-change">${esc(i.change)}</p><span class="policy-open">${esc(i.source)} · 原文 ↗</span></div></a><details class="policy-detail"><summary>政策解读与适用边界</summary><p><strong>对你意味着什么 · 编辑解读：</strong>${esc(i.meaning)}</p><p>${esc(i.boundary)}</p>${i.date_note?`<p>${esc(i.date_note)}</p>`:''}</details></li>`).join('')}</ol></div></section>`;
  }).join('')||'<p class="empty">暂无相关节点</p>';
 }
-$('#policyRegion').addEventListener('change',renderPolicies);renderPolicies();
+$('#policyRegion').addEventListener('change',renderPolicies);
 if(today>='2026-10-05'){$('#groupCode').hidden=true;$('#groupDownload').hidden=true;$('#groupExpiry').textContent='本期入群二维码已过期，请添加下方微信获取新的入群方式。';}
 
 const themeQuery=window.matchMedia?window.matchMedia('(prefers-color-scheme: dark)'):null;
@@ -260,7 +260,7 @@ $('#feedbackForm').addEventListener('submit',async e=>{
 });
 window.addEventListener('pagehide',removeScreenshot);
 $('#shareBtn').onclick=async()=>{if(navigator.share){try{await navigator.share({title:'奇点医研 · AI 健康产业情报',url:base});}catch(e){if(e.name!=='AbortError')copy(base,'网站链接已复制');}}else copy(base,'网站链接已复制');};
-function route(){const parts=(location.hash.slice(1)||'jingxuan').split('?');let v=parts[0]==='policy'?'jingxuan':parts[0];if(!document.getElementById('v-'+v))v='jingxuan';document.querySelectorAll('.view').forEach(x=>x.classList.toggle('active',x.id==='v-'+v));document.querySelectorAll('.nav-link,.mobile-nav a').forEach(a=>{if(a.getAttribute('href')===(a.closest('.mobile-nav')&&['more','connect','about','feedback'].includes(v)?'#more':'#'+v))a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});if(v==='feed'){const topic=new URLSearchParams(parts[1]||'').get('topic');if(topic&&topicNames[topic])$('#topicFilter').value=topic;renderFeed();}if(v==='jingxuan'||v==='industry'){const section=v==='jingxuan'?'research':'industry';const category=parts[0]==='policy'?'policy':new URLSearchParams(parts[1]||'').get('category')||'all';selectedCategory[section]=Object.hasOwn(sectionCategories[section],category)?category:'all';renderSection(section);}if(v==='article')renderArticle(new URLSearchParams(parts[1]||''));if(v==='daily')renderDaily(new URLSearchParams(parts[1]||'').get('date'));if(v==='connect')showAccess(new URLSearchParams(parts[1]||'').get('tab')||'skill');if(new URLSearchParams(parts[1]||'').get('list')==='1'&&(v==='jingxuan'||v==='industry')){const el=v==='jingxuan'?$('#topRows'):$('#industryRows');el.scrollIntoView?.({block:'start'});}else window.scrollTo(0,0);}
+function route(){const parts=(location.hash.slice(1)||'jingxuan').split('?');let v=parts[0]==='policy'?'jingxuan':parts[0];if(!document.getElementById('v-'+v))v='jingxuan';document.querySelectorAll('.view').forEach(x=>x.classList.toggle('active',x.id==='v-'+v));document.querySelectorAll('.nav-link,.mobile-nav a').forEach(a=>{if(a.getAttribute('href')===(a.closest('.mobile-nav')&&['more','connect','about','feedback'].includes(v)?'#more':'#'+v))a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});if(v==='feed'){const topic=new URLSearchParams(parts[1]||'').get('topic');if(topic&&topicNames[topic])$('#topicFilter').value=topic;renderFeed();}if(v==='jingxuan'||v==='industry'){const section=v==='jingxuan'?'research':'industry';const category=parts[0]==='policy'?'policy':new URLSearchParams(parts[1]||'').get('category')||'all';selectedCategory[section]=Object.hasOwn(sectionCategories[section],category)?category:'all';renderSection(section);}if(v==='hot')list($('#hotRows'),hot);if(v==='article')renderArticle(new URLSearchParams(parts[1]||''));if(v==='daily')renderDaily(new URLSearchParams(parts[1]||'').get('date'));if(v==='connect')showAccess(new URLSearchParams(parts[1]||'').get('tab')||'skill');if(new URLSearchParams(parts[1]||'').get('list')==='1'&&(v==='jingxuan'||v==='industry')){const el=v==='jingxuan'?$('#topRows'):$('#industryRows');el.scrollIntoView?.({block:'start'});}else window.scrollTo(0,0);}
 window.addEventListener('hashchange',route);route();
 })();
 </script>

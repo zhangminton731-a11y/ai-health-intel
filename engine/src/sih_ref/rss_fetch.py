@@ -3,15 +3,18 @@
 from __future__ import annotations
 
 import random
+import json
 import socket
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from http.client import HTTPException
+from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlsplit, urlunsplit
 from urllib.request import Request, urlopen
+from .core import write_json_atomic
 
 
 MAX_ATTEMPTS = 3
@@ -88,8 +91,21 @@ def parse_feed(body: bytes, check: dict) -> ET.Element | None:
     return root
 
 
-def fetch_feed(url: str, user_agent: str) -> tuple[ET.Element, list[dict]]:
+def fetch_feed(url: str, user_agent: str, *, cache_path: Path | None = None) -> tuple[ET.Element, list[dict]]:
     """One retry loop covers transport AND parsing; never multiply retries."""
+    cached, cached_root = {}, None
+    if cache_path and cache_path.exists():
+        try:
+            cached = json.loads(cache_path.read_text(encoding='utf-8'))
+            if cached['url'] == url:
+                cached_root = parse_feed(cached['xml'].encode('utf-8'), {})
+        except (OSError, ValueError, KeyError, TypeError):
+            pass
+    validators = {}
+    if cached_root is not None:
+        for key, header in (('etag', 'If-None-Match'), ('last_modified', 'If-Modified-Since')):
+            if cached.get(key):
+                validators[header] = cached[key]
     checks = []
     for attempt in range(1, MAX_ATTEMPTS + 1):
         check = {"kind": "rss_fetch", "attempt": attempt}
@@ -100,27 +116,42 @@ def fetch_feed(url: str, user_agent: str) -> tuple[ET.Element, list[dict]]:
         request = Request(url, headers={
             "User-Agent": user_agent,
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            **validators,
         })
         try:
             with urlopen(request, timeout=TIMEOUT_SECONDS) as response:
                 check.update(response_metadata(response))
                 body = response.read(MAX_FEED_BYTES + 1)
                 check["bytes_read"] = len(body)
+                response_url = response.geturl()
+                etag, modified = response.headers.get('ETag'), response.headers.get('Last-Modified')
             if len(body) > MAX_FEED_BYTES:
                 check["error_code"] = "response_too_large"
                 retryable = False
             else:
                 root = parse_feed(body, check)
+                if root is not None and cache_path:
+                    write_json_atomic(cache_path, {'url':url, 'response_url':response_url,
+                        'etag':etag, 'last_modified':modified, 'xml':ET.tostring(root, encoding='unicode')})
         except HTTPError as exc:
             check.update(response_metadata(exc))
             status = exc.code
+            if status == 304:
+                if validators and cached_root is not None and exc.geturl() == cached.get('response_url'):
+                    check.update(bytes_read=0, response_kind='not_modified', error_code=None,
+                                 elapsed_ms=round((time.monotonic()-start)*1000))
+                    checks.append(check)
+                    exc.close()
+                    return cached_root, checks
+                # A redirect or an unusable cache requires an unconditional read.
+                validators = {}
             if status == 429:
                 check["error_code"] = "rate_limited"
             elif status >= 500:
                 check["error_code"] = "server_error"
             else:
                 check["error_code"] = "http_error"
-            retryable = status in (408, 429) or status >= 500
+            retryable = status in (304, 408, 429) or status >= 500
             retry_after = retry_after_seconds(exc.headers.get("Retry-After"))
             if retryable and retry_after is not None:
                 check["retry_after_seconds"] = round(retry_after, 3)
