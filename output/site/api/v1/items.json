@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T08:38:55+00:00",
+  "generated_at": "2026-10-04T08:49:51+00:00",
   "as_of": "2026-10-04",
   "count": 18,
   "items": [
@@ -1358,7 +1358,7 @@
         "business",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
