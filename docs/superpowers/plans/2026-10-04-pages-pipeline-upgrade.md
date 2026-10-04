@@ -53,4 +53,6 @@ Files: `scripts/benchmark_pipeline.py`, `docs/pages-upgrade-acceptance.md`, `REA
 - [x] Use fixed delayed source fixtures to measure serial vs four-worker work with identical output; label results synthetic.
 - [x] Compare same-batch HTML bytes and original article IDs, preserving all routes and historical reading.
 - [x] Record remaining limits: Actions scheduling, absent Feishu credentials, content assessment not human validation, no guaranteed lead generation.
-- [ ] Create a draft PR with verification evidence and attach it to this chat; no automated production merge.
+- [x] Create a draft PR with verification evidence and attach it to this chat; no automated production merge.
+
+Draft PR: https://github.com/zhangminton731-a11y/ai-health-intel/pull/10

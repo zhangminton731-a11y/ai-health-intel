@@ -46,3 +46,7 @@
 分支交付不等于上线。合并后需观察真实 Actions 重试/缓存、线上日报与新健康信息。飞书凭据仍由负责人配置，未经真实送达测试不能视为告警闭环。服务器采购与新增客户系统不在 A 范围。
 
 相关商业取舍：[服务器价值说明](server-business-case.md)。本轮不以旧 53 条初审材料宣称泛化准确率，也没有使用它们拟合具体分数。
+
+## GitHub 交付
+
+草稿 PR：[#10](https://github.com/zhangminton731-a11y/ai-health-intel/pull/10)。代码提交 `5d94ced` 的 [push CI](https://github.com/zhangminton731-a11y/ai-health-intel/actions/runs/37173472576) test、mcp 均通过。生产未合并或部署。
