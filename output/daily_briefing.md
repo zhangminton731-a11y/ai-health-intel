@@ -390,14 +390,6 @@ Eli Lilly is launching LillyDirect to deliver Mounjaro straight to Australian pa
 
 Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.
 
-### [Low-power wireless communication technologies empower wearable healthcare monitoring](https://www.nature.com/articles/s41746-026-03256-3)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.53` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
-
-No summary supplied by the source.
-
 ### [Our Project Suncatcher prototype satellite is in orbit.](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
