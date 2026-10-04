@@ -318,6 +318,13 @@ def build(*, as_of: date | None = None) -> None:
 
     page = TEMPLATE.replace("__PAYLOAD__", payload).replace("__DATE__", as_of).replace("__SITE_NAME__", SITE_NAME)
     (OUTPUT / "site").mkdir(parents=True, exist_ok=True)
+    assets = OUTPUT / 'site/assets'
+    assets.mkdir(exist_ok=True)
+    river = (ROOT / 'assets/signal-river.js').read_bytes()
+    river_name = 'signal-river.' + hashlib.sha256(river).hexdigest()[:16] + '.js'
+    (assets / river_name).write_bytes(river)
+    shutil.copyfile(ROOT / 'assets/AIHOT-LICENSE.txt', assets / 'AIHOT-LICENSE.txt')
+    page = page.replace('__RIVER_ASSET__', 'assets/' + river_name)
     page = extract_assets(page, OUTPUT/'site')
     (OUTPUT / "site" / "index.html").write_text(page, encoding="utf-8")
     print(f"✅ AI Hot 式浅色站点已生成: site/index.html（翻译 {tr.translated}，熔断={'开' if tr.circuit_open else '关'}）")
