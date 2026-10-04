@@ -1,394 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T06:49:52+00:00",
+  "generated_at": "2026-10-04T06:59:36+00:00",
   "as_of": "2026-10-04",
   "count": 5,
   "items": [
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04651-9",
-      "title": "口服小分子 GLP-1 受体激动剂 safiglipron 治疗早期 2 型糖尿病：一项随机、双盲、安慰剂对照试验",
-      "original_title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
-      "summary": "Safiglipron 是一种口服小分子胰高血糖素样肽-1 (GLP-1) 受体激动剂，无需禁食或饮食限制。我们在 OUTSTAND-1 中评估了其有效性和安全性，这是一项在中国 46 个地点进行的 3 期、多中心、随机、双盲、安慰剂对照试验。我们将 284 名仅通过饮食和运动进行管理的 2 型糖尿病成人（平均基线 HbA1c 7.95%，中位糖尿病病程 1.6 年，33.1% 为女性）随机分为每日一次的 safiglipron 30 mg (n = 70)、60 mg (n = 70)、90 mg (n = 72) 或安慰剂 (n = 72)，为期 32 周，然后进行20 周积极治疗延长。对于主要终点，30 mg、60 mg和90 mg组的HbA1c从基线到第32周的变化的安慰剂调整治疗差异分别为-1.22%（95% CI，-1.53至-0.91）、-1.20%（95% CI，-1.52至-0.89）和-1.45%（95% CI，-1.75至-1.14）。分别（所有 P < 0.0001；",
-      "url": "https://www.nature.com/articles/s41591-026-04651-9",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
-      },
-      "sections": [
-        "industry",
-        "research"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ],
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "industry": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
-        "research": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。"
-      },
-      "reading_value_score": 72,
-      "editorial": {
-        "audiences": [
-          "industry",
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T06:33:57+00:00",
-        "input_hash": "6c309d8aa32d56e94156cbbf5bb4768b330f56a1f1602aa6eb3cb0e9302cf851",
-        "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143347e6f855b18e84477b",
-              "seconds": 4.67,
-              "usage": {
-                "completion_tokens": 199,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1298,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1497
-              }
-            },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "非肽类口服GLP-1RA safiglipron的III期随机对照试验提供了完整的降糖疗效、体重效应有限和胃肠道安全性数据，对早期2型糖尿病治疗选择和口服小分子GLP-1赛道格局有直接参考价值；主要局限为纳入人群局限于中国、早期、未用药患者，且缺乏与肽类GLP-1RA的头对头比较。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143352ebfc9a33267343d6",
-              "seconds": 5.5,
-              "usage": {
-                "completion_tokens": 222,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 5
-                },
-                "prompt_tokens": 1298,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1520
-              }
-            },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
-            "total": 73
-          }
-        ],
-        "score": 72,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04675-1",
-      "title": "6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验",
-      "original_title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
-      "summary": "在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。",
-      "url": "https://www.nature.com/articles/s41591-026-04675-1",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04675-1",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04675-1"
-      },
-      "sections": [
-        "industry",
-        "research"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ],
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-        "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
-      },
-      "reading_value_score": 71,
-      "editorial": {
-        "audiences": [
-          "industry",
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T06:34:58+00:00",
-        "input_hash": "77455886ae4e21ece17b138d947337072486509f4115fc3a69d9f7967acf19ed",
-        "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100414344632c31c133044490a",
-              "seconds": 4.14,
-              "usage": {
-                "completion_tokens": 182,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 4
-                },
-                "prompt_tokens": 1086,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1268
-              }
-            },
-            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
-            "total": 69
-          },
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "整群随机试验设计合理，提供营养补充与常规免疫联合递送提升MCV1覆盖的因果证据，对低收入地区接种策略和公卫产品布局有直接参考价值；结果来自尼日利亚单一地区，外推到其他卫生系统需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143450a584272a249447f9",
-              "seconds": 7.62,
-              "usage": {
-                "completion_tokens": 331,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 161
-                },
-                "prompt_tokens": 1086,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1417
-              }
-            },
-            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
-            "total": 73
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04674-2",
-      "title": "索马鲁肽对 2 型糖尿病肾病的影响：一项随机安慰剂对照试验",
-      "original_title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
-      "summary": "GLP-1 受体激动剂索马鲁肽可保护 2 型糖尿病和慢性肾病患者的肾功能，但其潜在机制尚不清楚。该试验的结果表明，索马鲁肽的肾脏保护机制可能包括降低血管阻力、预防纤维化和改善促进内皮细胞健康的潜在分子程序。",
-      "url": "https://www.nature.com/articles/s41591-026-04674-2",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-01",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04674-2",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04674-2"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
-      },
-      "reading_value_score": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T06:37:49+00:00",
-        "input_hash": "4c18b3702bacf6116bedd0001e3c12e174f224e715d85673fc510ed0f3b736ea",
-        "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143736e6ccc6b68b064ef3",
-              "seconds": 6.83,
-              "usage": {
-                "completion_tokens": 197,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 20
-                },
-                "prompt_tokens": 991,
-                "prompt_tokens_details": {
-                  "cached_tokens": 576
-                },
-                "total_tokens": 1188
-              }
-            },
-            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
-            "total": 69
-          },
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "将多参数肾脏MRI、活检病理与单核/空间转录组整合用于机制探索的随机对照试验，在共同主要影像终点阴性的情况下提示血管阻力降低、纤维化进展受抑及肾小球内皮保护等机制，方法学设计对肾病与代谢药物机制研究有直接借鉴价值；主要限制是样本量小（106例、活检33例）且机制证据多为次要终点与相关性观察。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041437436de53027628f4998",
-              "seconds": 6.41,
-              "usage": {
-                "completion_tokens": 200,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 20
-                },
-                "prompt_tokens": 991,
-                "prompt_tokens_details": {
-                  "cached_tokens": 960
-                },
-                "total_tokens": 1191
-              }
-            },
-            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
-            "total": 73
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04677-z",
       "title": "黑色素瘤新辅助治疗的五年生存率：国际新辅助黑色素瘤联盟 (INMC) 的最新汇总分析",
@@ -402,14 +17,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
@@ -521,6 +134,385 @@
       }
     },
     {
+      "id": "url:https://www.nature.com/articles/s41591-026-04651-9",
+      "title": "口服小分子 GLP-1 受体激动剂 safiglipron 治疗早期 2 型糖尿病：一项随机、双盲、安慰剂对照试验",
+      "original_title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
+      "summary": "Safiglipron 是一种口服小分子胰高血糖素样肽-1 (GLP-1) 受体激动剂，无需禁食或饮食限制。我们在 OUTSTAND-1 中评估了其有效性和安全性，这是一项在中国 46 个地点进行的 3 期、多中心、随机、双盲、安慰剂对照试验。我们将 284 名仅通过饮食和运动进行管理的 2 型糖尿病成人（平均基线 HbA1c 7.95%，中位糖尿病病程 1.6 年，33.1% 为女性）随机分为每日一次的 safiglipron 30 mg (n = 70)、60 mg (n = 70)、90 mg (n = 72) 或安慰剂 (n = 72)，为期 32 周，然后进行20 周积极治疗延长。对于主要终点，30 mg、60 mg和90 mg组的HbA1c从基线到第32周的变化的安慰剂调整治疗差异分别为-1.22%（95% CI，-1.53至-0.91）、-1.20%（95% CI，-1.52至-0.89）和-1.45%（95% CI，-1.75至-1.14）。分别（所有 P < 0.0001；",
+      "url": "https://www.nature.com/articles/s41591-026-04651-9",
+      "source": "Nature Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-29",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
+      },
+      "sections": [
+        "industry",
+        "research"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ],
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "industry": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+        "research": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:33:57+00:00",
+        "input_hash": "6c309d8aa32d56e94156cbbf5bb4768b330f56a1f1602aa6eb3cb0e9302cf851",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143347e6f855b18e84477b",
+              "seconds": 4.67,
+              "usage": {
+                "completion_tokens": 199,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1298,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1497
+              }
+            },
+            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "非肽类口服GLP-1RA safiglipron的III期随机对照试验提供了完整的降糖疗效、体重效应有限和胃肠道安全性数据，对早期2型糖尿病治疗选择和口服小分子GLP-1赛道格局有直接参考价值；主要局限为纳入人群局限于中国、早期、未用药患者，且缺乏与肽类GLP-1RA的头对头比较。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143352ebfc9a33267343d6",
+              "seconds": 5.5,
+              "usage": {
+                "completion_tokens": 222,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 5
+                },
+                "prompt_tokens": 1298,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1520
+              }
+            },
+            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
+            "total": 73
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04674-2",
+      "title": "索马鲁肽对 2 型糖尿病肾病的影响：一项随机安慰剂对照试验",
+      "original_title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
+      "summary": "GLP-1 受体激动剂索马鲁肽可保护 2 型糖尿病和慢性肾病患者的肾功能，但其潜在机制尚不清楚。该试验的结果表明，索马鲁肽的肾脏保护机制可能包括降低血管阻力、预防纤维化和改善促进内皮细胞健康的潜在分子程序。",
+      "url": "https://www.nature.com/articles/s41591-026-04674-2",
+      "source": "Nature Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04674-2",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04674-2"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:37:49+00:00",
+        "input_hash": "4c18b3702bacf6116bedd0001e3c12e174f224e715d85673fc510ed0f3b736ea",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143736e6ccc6b68b064ef3",
+              "seconds": 6.83,
+              "usage": {
+                "completion_tokens": 197,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 576
+                },
+                "total_tokens": 1188
+              }
+            },
+            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "将多参数肾脏MRI、活检病理与单核/空间转录组整合用于机制探索的随机对照试验，在共同主要影像终点阴性的情况下提示血管阻力降低、纤维化进展受抑及肾小球内皮保护等机制，方法学设计对肾病与代谢药物机制研究有直接借鉴价值；主要限制是样本量小（106例、活检33例）且机制证据多为次要终点与相关性观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041437436de53027628f4998",
+              "seconds": 6.41,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1191
+              }
+            },
+            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04675-1",
+      "title": "6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验",
+      "original_title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
+      "summary": "在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。",
+      "url": "https://www.nature.com/articles/s41591-026-04675-1",
+      "source": "Nature Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-02",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04675-1",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04675-1"
+      },
+      "sections": [
+        "industry",
+        "research"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ],
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:34:58+00:00",
+        "input_hash": "77455886ae4e21ece17b138d947337072486509f4115fc3a69d9f7967acf19ed",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100414344632c31c133044490a",
+              "seconds": 4.14,
+              "usage": {
+                "completion_tokens": 182,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 4
+                },
+                "prompt_tokens": 1086,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1268
+              }
+            },
+            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "整群随机试验设计合理，提供营养补充与常规免疫联合递送提升MCV1覆盖的因果证据，对低收入地区接种策略和公卫产品布局有直接参考价值；结果来自尼日利亚单一地区，外推到其他卫生系统需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143450a584272a249447f9",
+              "seconds": 7.62,
+              "usage": {
+                "completion_tokens": 331,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 161
+                },
+                "prompt_tokens": 1086,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1417
+              }
+            },
+            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.nature.com/articles/s41591-026-04673-3",
       "title": "尿液游离 RNA 用于膀胱癌检测和治疗反应预测",
       "original_title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
@@ -533,14 +525,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
