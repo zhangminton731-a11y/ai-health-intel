@@ -127,6 +127,15 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
                 if row.get('rel') is not None and not 0 <= row['rel'] <= 98:
                     problems.append('月度推荐指数超出 0–98 范围')
                 original = originals.get(row['id'], {})
+                if (row.get('editorial') or {}).get('status') == 'scored':
+                    try:
+                        judgment = original['editorial']
+                        checked = combine([validate_review(r, material(original)) for r in judgment['reviews']], judgment['source_tier'])
+                        if (not checked['selected'] or judgment.get('policy_version') != VERSION or
+                                row.get('rel') != checked['score'] or row.get('sections') != checked['audiences']):
+                            problems.append('月度文章与有效编辑评审不一致')
+                    except (KeyError, ValueError, TypeError):
+                        problems.append('月度文章缺少有效编辑回执')
                 if row['u'] != original.get('url') or row['date'] != original.get('published_at') or not row['date'].startswith(key+'-') or row.get('archiveMonth') != key:
                     problems.append('月度档案原文或日期不一致')
             if len(raw['records']) != month['record_count']:

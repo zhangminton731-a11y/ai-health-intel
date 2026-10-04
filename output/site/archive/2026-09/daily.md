@@ -24,7 +24,7 @@ https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-c
 ---
 
 奇点日报 · 2026-09-03
-这一天的 4 件 AI 医疗大事
+这一天的 5 件 AI 医疗大事
 
 01 · 政策动态
 STAT+：OpenEvidence 推出新的人工智能模型系列
@@ -33,10 +33,10 @@ STAT News · 2026-09-03
 https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss
 
 02 · 市场准入
-STAT+：FDA 试点项目为生成式人工智能医疗设备在获得授权之前为患者提供了一条途径
-Cadence 和 Limbic 的人工智能产品是最近被 FDA 的 TEMPO 试点项目接受的四款设备之一，该试点项目将允许数字健康公司在没有营销授权的情况下发布产品。
-STAT News · 2026-09-03
-https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss
+FDA 批准首个治疗亚历山大病的药物
+美国食品和药物管理局已批准 Zanvastro（zilganersen）注射液用于治疗儿科和成人患者的亚历山大病。 Zanvastro 是 FDA 批准的第一个治疗亚历山大病的药物，也是第一个直接针对驱动该疾病的蛋白质积聚的疗法。 “对于亚历山大病患者及其家人来说，还没有批准的治疗方案——只有在疾病进展时进行支持性护理，”FDA 药物评价和研究中心神经病学 I 部主任 Emily Freilich 医学博士说。 “今天的批准对于这个社区来说是一个里程碑式的时刻，提供了第一种解决这种罕见而严重疾病根本原因的疗法。”亚历山大病是一种罕见的进行性神经系统疾病，由产生胶质纤维酸性蛋白 (GFAP) 的基因突变引起。
+FDA · 官方公告 · 2026-09-03
+http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease
 
 03 · 技术进展
 HHS 对残疾诉讼的态度反复无常
@@ -50,12 +50,24 @@ Ultragenyx 药物未能完成关键的 3 期试验、FDA 在监管未经证实�
 STAT News · 2026-09-03
 https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss
 
+05 · 市场准入
+STAT+：FDA 试点项目为生成式人工智能医疗设备在获得授权之前为患者提供了一条途径
+Cadence 和 Limbic 的人工智能产品是最近被 FDA 的 TEMPO 试点项目接受的四款设备之一，该试点项目将允许数字健康公司在没有营销授权的情况下发布产品。
+STAT News · 2026-09-03
+https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss
+
 ---
 
 奇点日报 · 2026-09-04
-这一天的 1 件 AI 医疗大事
+这一天的 2 件 AI 医疗大事
 
 01 · 市场准入
+FDA 加速批准一种新的乳腺癌治疗方法
+美国食品和药物管理局今天扩大了晚期乳腺癌成年患者的治疗选择，反映出 FDA 致力于推进医疗创新并为有需要的患者提供新的治疗方法。 FDA 加速批准 Etcamah（camizestrant）与 CDK4/6 抑制剂（abemaciclib、palbociclib 或 ribociclib）联合用于治疗在芳香酶抑制剂和 CDK 4/6 抑制剂治疗期间检测到雌激素受体 1（ESR1）突变的激素受体（HR）阳性、人表皮生长因子受体 2（HER2）阴性、局部晚期或转移性乳腺癌成年患者，基于FDA 授权的测试。
+FDA · 官方公告 · 2026-09-04
+http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment
+
+02 · 市场准入
 Vara 首次自主乳腺癌筛查获得 CE 标志
 支持人工智能的设备可以报告其确定正常的筛查，无需放射科医生审查。
 MedTech Dive · 2026-09-04
@@ -118,11 +130,11 @@ Apple 今天推出了 Apple Watch Series 12，旨在为可穿戴设备提供最�
 Apple Newsroom · 2026-09-09
 https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/
 
-05 · 市场准入
-STAT+：Orexin 发现者荣获著名的拉斯克奖
-FDA CBER 新任负责人、人工智能公司 Schrodinger 成立新公司，以及来自 The Readout 的更多生物技术新闻
+05 · 技术进展
+STAT+：人工智能可以解决医疗保健问题吗？在急诊室的混乱中，技术显得不足
+最大的人工智能公司的首席执行官预测该技术将“消除大多数癌症”并“改善大多数其他疾病的治疗”。但没有什么比……更能说明人工智能所面临的挑战了。
 STAT News · 2026-09-09
-https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss
+https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss
 
 ---
 
@@ -154,10 +166,10 @@ JMIR AI · 2026-09-10
 https://ai.jmir.org/2026/1/e93501/
 
 05 · 技术进展
-特朗普官员表示，人工智能将有助于拯救农村医疗保健。一些该领域的领导者不相信这一点
-农村医疗保健提供者多年来一直在苦苦挣扎。特朗普政府指出了一种尖端但未经证实的方法来拯救他们：人工智能。
+STAT+：人工智能能否拯救农村医疗？
+联邦卫生高级职位的提名人将面临国会的考验，而特朗普官员则押注人工智能将有助于拯救农村医疗保健。
 STAT News · 2026-09-10
-https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss
+https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss
 
 ---
 
@@ -196,7 +208,7 @@ https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-a
 ---
 
 奇点日报 · 2026-09-15
-这一天的 3 件 AI 医疗大事
+这一天的 4 件 AI 医疗大事
 
 01 · 政策动态
 STAT+：新文件揭示了医疗保险事先授权试点的问题
@@ -210,7 +222,13 @@ https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-proble
 JMIR AI · 2026-09-15
 https://ai.jmir.org/2026/1/e94589/
 
-03 · 技术进展
+03 · 融资合作
+FDA 启动加急 IND 试点，开始接受申请
+美国食品和药物管理局今天宣布了加速新药研究 (IND) 试点的最终设计。加快临床试验进度并消除监管障碍以保持美国在全球医疗创新领域的领导地位是特朗普政府的核心优先事项。在总统指令的推动下，该试点项目旨在通过制药公司与拥有科学专业知识的合格研究机构 (QRI) 合作，加快从识别药物到启动首次人体临床试验所需的时间，以支持 IND 申请的高效开发。 FDA 将在 2026 年 10 月 30 日之前接受参与试点的申请。目前，在美国，首次人体临床试验可能需要长达两年的时间才能完成。
+FDA · 官方公告 · 2026-09-15
+http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications
+
+04 · 技术进展
 人工智能的社会影响
 探索此系列，了解专家和当地领导者如何利用人工智能突破来确保每个人都能分享人工智能的机会。
 Google Blog · 2026-09-15
@@ -236,13 +254,19 @@ https://www.medtechdive.com/news/cms-expands-access-pilot-to-boost-use-of-digita
 ---
 
 奇点日报 · 2026-09-17
-这一天的 1 件 AI 医疗大事
+这一天的 2 件 AI 医疗大事
 
 01 · 融资合作
 Oura 和 Counsel Health 通过 CMS ACCESS 模式扩大合作伙伴关系
 今天，Oura 宣布通过医疗保险和医疗补助服务中心 (CMS) 创新中心的“利用有效可扩展解决方案 (ACCESS) 模型推进慢性病护理”，与 AI 原生初级保健公司 Counsel 建立新阶段的合作伙伴关系。 ACCESS 计划让 Oura 和 Counsel 有机会大规模研究这个模型，特别是连续生物识别如何[...]
 Oura · 2026-09-17
 https://ouraring.wpengine.com/cms-access-model/
+
+02 · 市场准入
+FDA 批准首个针对 A 型 Sanfilippo 综合征儿科患者的基因疗法
+与未经治疗的历史对照组相比，接受 Fayuvi 治疗的美国患者维持或改善了认知功能，这与这一关键发育窗口期间预期的自然疾病过程的平台期和衰退存在显着差异。 “通过单次静脉注射实现有意义的神经发育益处代表了一个重要的科学里程碑——证明系统性 AAV9 介导的基因传递可以在儿科患者中以治疗相关水平到达中枢神经系统。
+FDA · 官方公告 · 2026-09-17
+http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type
 
 ---
 
@@ -279,10 +303,10 @@ https://www.medtechdive.com/news/neptune-medical-wins-fda-nod-for-endoscopy-robo
 这一天的 5 件 AI 医疗大事
 
 01 · 论文研究
-使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究
-结论：在这项探索性研究中，添加评估的 RAG 配置并没有提高诊断准确性，并且在智能手机捕获的退化成像条件下与文本相关的诊断错误相关。研究结果表明，角色设计可能会影响 VLM 对检索信息的响应的稳健性，但这一观察结果需要在更大规模的多模型研究中进行验证。未来的研究应该评估对代表性的真实世界退化医学图像进行有针对性的视觉微调是否可以提高这种条件下的鲁棒性。结果：在没有 RAG 的情况下，放射科医生和骨科肿瘤科医生角色之间的前 3 名准确率没有显着差异（15/42, 36% vs 14/42, 33%；P =.76）。 RAG 集成后，放射科医生角色的 top-1 准确率从 12（29%，95% CI 16%-45%）下降到 6（14%，95% CI 5%-29%；P =.03）。
+用于评估营养信息对 1 型糖尿病管理影响的可解释多水平血糖预测：模型开发和验证研究
+结论：这些发现表明，纳入更全面的膳食成分表示可能会适度改善餐后血糖预测。特定时期的归因模式表明，模型在整个预测时期使用不同的营养投入；然而，这些发现不应被解释为单个营养素的因果或生理效应。在评估这些模型的潜在临床效用之前，需要进一步的外部和前瞻性验证。结果：包含额外营养信息的模型通常优于仅碳水化合物的基线。
 JMIR AI · 2026-09-21
-https://ai.jmir.org/2026/1/e99757/
+https://ai.jmir.org/2026/1/e105049/
 
 02 · 融资合作
 Oura 寻求通过 IPO 筹集至多 $2.2B
@@ -290,11 +314,11 @@ Oura 寻求通过 IPO 筹集至多 $2.2B
 MedTech Dive · 2026-09-21
 https://www.medtechdive.com/news/oura-seeks-to-raise-up-to-22b-in-ipo/830954/
 
-03 · 技术进展
-医疗技术中的代理人工智能：提高效率和护理结果
-代理人工智能使医疗保健超越反应性工具，以协调整个临床工作流程，从而提高效率和患者治疗结果。
-MedTech Dive · 2026-09-21
-https://www.medtechdive.com/spons/agentic-ai-in-medtech-driving-efficiency-and-care-outcomes/829246/
+03 · 市场准入
+2027 日历年 (CY) 初步医疗保险临床实验室费用表支付率
+初步日历年 (CY) 2027 Medicare 临床实验室费用表支付率 医疗保险和医疗补助服务中心 (CMS) 发布了某些临床诊断实验室测试代码的初步加权中位数私人付款人费率，标志着根据临床实验室费用表 (CLFS) 制定 Medicare 日历年 (CY) 2027 付款率的关键一步。此初步数据反映了 2014 年保护医疗保险法案 (PAMA) 所需的大多数测试的第二个完整数据收集和报告周期，CMS 在最终确定 CY 2027 费率之前正在征求公众意见。 2014 年保护医疗保险法案 (PAMA) PAMA 第 216(a) 条改变了 Medicare 设定临床诊断实验室测试支付费率的方式。
+CMS · 政策事实说明 · 2026-09-21
+https://www.cms.gov/newsroom/fact-sheets/preliminary-calendar-year-cy-2027-medicare-clinical-laboratory-fee-schedule-payment-rates
 
 04 · 技术进展
 人工智能如何改变 Intermountain Health 的临床记录
@@ -303,10 +327,10 @@ MedCity News · 2026-09-21
 https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/
 
 05 · 论文研究
-使用仪器鞋垫监测骨折愈合或骨不连患者的胫骨或踝骨折愈合情况的定时 Up-and-Go 测试：纵向和横断面探索性研究
-结论：这项研究表明使用功能结果来识别有骨不连风险的患者的潜力。额外的任务和功能结果需要进一步调查。试验注册：德国临床试验注册中心DRKS00025108；  结果：对 27 名骨折患者、相似数量的健康成人和 9 名骨折不愈合患者进行了评估。在整个愈合过程中，所有 TUG 参数均得到改善（全部 < .001）。最大的改善是在 6 周到 3 个月之间发现的（全部 < .001）。在经典 TUG 参数中，3 至 6 个月期间，只有总 TUG 时间、行走时间、站立到坐立时间和总步数显着改善（=.004、=.01、=.03 和 =.002）。
-JMIR mHealth and uHealth · 2026-09-21
-https://mhealth.jmir.org/2026/1/e92493
+使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究
+结论：在这项探索性研究中，添加评估的 RAG 配置并没有提高诊断准确性，并且在智能手机捕获的退化成像条件下与文本相关的诊断错误相关。研究结果表明，角色设计可能会影响 VLM 对检索信息的响应的稳健性，但这一观察结果需要在更大规模的多模型研究中进行验证。未来的研究应该评估对代表性的真实世界退化医学图像进行有针对性的视觉微调是否可以提高这种条件下的鲁棒性。结果：在没有 RAG 的情况下，放射科医生和骨科肿瘤科医生角色之间的前 3 名准确率没有显着差异（15/42, 36% vs 14/42, 33%；P =.76）。 RAG 集成后，放射科医生角色的 top-1 准确率从 12（29%，95% CI 16%-45%）下降到 6（14%，95% CI 5%-29%；P =.03）。
+JMIR AI · 2026-09-21
+https://ai.jmir.org/2026/1/e99757/
 
 ---
 
@@ -326,16 +350,16 @@ MedCity News · 2026-09-22
 https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/
 
 03 · 技术进展
-Oracle Health 的护士 AI 代理有何不同？
-Oracle Health Clinical AI Agent 的独特之处在于它直接嵌入到 Oracle Health Foundation EHR 中，使护士能够更轻松地在用于单独任务的工具之间切换。
-MedCity News · 2026-09-22
-https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/
-
-04 · 技术进展
 AI工作者需要试用期，而不仅仅是飞行员
 医疗保健领导者知道如何测试软件。我们还没有一个共享的剧本供入职代理预计完成端到端的工作。这就是试用期旨在填补的空白。
 MedCity News · 2026-09-22
 https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/
+
+04 · 技术进展
+Oracle Health 的护士 AI 代理有何不同？
+Oracle Health Clinical AI Agent 的独特之处在于它直接嵌入到 Oracle Health Foundation EHR 中，使护士能够更轻松地在用于单独任务的工具之间切换。
+MedCity News · 2026-09-22
+https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/
 
 05 · 技术进展
 STAT+：Epic 的死亡率模型和 Omada 的未来产品
@@ -349,10 +373,10 @@ https://www.statnews.com/2026/09/22/epics-mortality-model-omadas-future-products
 这一天的 4 件 AI 医疗大事
 
 01 · 论文研究
-人工智能对医生技术的影响：定性访谈和焦点小组研究
-结论：人工智能似乎会影响专业工艺的条件，从而间接影响其个人层面。在设计和实施中应该考虑这一点，同时认识到与人工智能的持续互动可能会逐渐重塑工艺本身的含义。结果：医生将技艺描述为通过人类判断、同理心和情境理解来提供尽可能最佳护理的承诺。感知的人工智能效果集中在两个领域：专业和个人维度。在专业层面，人工智能被认为支持工作流程效率、文档记录、数据集成和分析推理方面，可能为患者接触和反思腾出时间。采用的条件包括人机参与的监督、可解释性、可追溯性和人工智能素养。
+饮食失调的大型语言模型诊断中的隐性偏差：实验小插图研究
+结论：这些发现表明，即使临床内容保持不变，大语言模型在精神病学诊断中也表现出系统的人口统计学偏差，揭示了可测量的模式，可以为训练数据、模型架构和临床部署框架的改进提供信息。结果：对照插图产生近乎一致的 AN 诊断（平均 100%，SD 0.1%），而模糊的插图引起更大的变异性（平均 23.6%，SD 10.1%）。对于不明确的小插图，模型间一致性中等（Fleiss κ=0.410，95% CI 0.397‐0.422）。
 JMIR AI · 2026-09-23
-https://ai.jmir.org/2026/1/e93854/
+https://ai.jmir.org/2026/1/e93498/
 
 02 · 融资合作
 Teal Health 获得 2200 万美元用于家用 HPV 宫颈癌筛查设备
@@ -367,10 +391,10 @@ STAT News · 2026-09-23
 https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss
 
 04 · 论文研究
-饮食失调的大型语言模型诊断中的隐性偏差：实验小插图研究
-结论：这些发现表明，即使临床内容保持不变，大语言模型在精神病学诊断中也表现出系统的人口统计学偏差，揭示了可测量的模式，可以为训练数据、模型架构和临床部署框架的改进提供信息。结果：对照插图产生近乎一致的 AN 诊断（平均 100%，SD 0.1%），而模糊的插图引起更大的变异性（平均 23.6%，SD 10.1%）。对于不明确的小插图，模型间一致性中等（Fleiss κ=0.410，95% CI 0.397‐0.422）。
+人工智能对医生技术的影响：定性访谈和焦点小组研究
+结论：人工智能似乎会影响专业工艺的条件，从而间接影响其个人层面。在设计和实施中应该考虑这一点，同时认识到与人工智能的持续互动可能会逐渐重塑工艺本身的含义。结果：医生将技艺描述为通过人类判断、同理心和情境理解来提供尽可能最佳护理的承诺。感知的人工智能效果集中在两个领域：专业和个人维度。在专业层面，人工智能被认为支持工作流程效率、文档记录、数据集成和分析推理方面，可能为患者接触和反思腾出时间。采用的条件包括人机参与的监督、可解释性、可追溯性和人工智能素养。
 JMIR AI · 2026-09-23
-https://ai.jmir.org/2026/1/e93498/
+https://ai.jmir.org/2026/1/e93854/
 
 ---
 
@@ -413,16 +437,16 @@ https://www.jmir.org/article/view/jmir_v28i1e87806
 这一天的 5 件 AI 医疗大事
 
 01 · 论文研究
-人工智能使用光电体积描记法诊断阻塞性睡眠呼吸暂停的准确性：系统评价和荟萃分析
-结论：在 PPG 上训练的 AI 模型具有合理的准确性，并且有可能作为一种低成本的筛选工具。然而，样本量小、潜在偏差来源、某些地理区域代表性不足以及潜在混杂因素的影响等限制凸显了进一步研究的必要性。未来的工作应侧重于深度学习，以提高这种方法在初级保健中的可行性和可及性。试用注册：PROSPERO CRD42024534235；  结果：我们从 12,579 条记录中纳入了 13 项研究，涉及 9983 名参与者。所有研究的偏倚风险均被评为低或不清楚。总体证据质量中等。
-Journal of Medical Internet Research · 2026-09-25
-https://www.jmir.org/article/view/jmir_v28i1e78718
+接受机器学习用于癫痫药物选择，为临床试验设计提供信息：联合设计调查研究
+结论：这项研究强调了在使现有框架适应特定临床环境时协同设计的重要性。本研究中开发的用于 ASM 选择的共同设计的 ML 接受调查问卷可用于评估 ML 技术在癫痫领域的可接受性，加强未来的试验并支持正在进行的技术开发。结果：共有 32 名参与者完成了调查，其中包括 22 名（68.8%）成人癫痫患者和 10 名（31.2%）神经科医生。虽然参与者认为核心 UTAUT2 构造相关，但定性反馈确定了影响 ML 接受度的其他领域，包括情感态度、感知风险、知识增强、共同决策中的冲突以及工作场所政策和监管等背景因素。
+JMIR AI · 2026-09-25
+https://ai.jmir.org/2026/1/e85047/
 
 02 · 融资合作
-Precision Neuroscience 筹集 2.5 亿美元用于脑机接口工作
-D 轮融资是 BCI 初创公司投资激增的一部分，使 Precision Neuroscience 的总资金达到 4.3 亿美元。
-MedTech Dive · 2026-09-25
-https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/
+本周最大的 10 轮融资：网络安全、人工智能和健康领跑
+本周，大量大型初创企业融资，其中包括为网络安全独角兽企业提供的两轮 4 亿美元融资，以及为基础人工智能、药物发现、神经技术甚至降雨等热门领域初创企业的大型融资。
+Crunchbase News · 2026-09-25
+https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/
 
 03 · 市场准入
 FDA 授予 Glytec 的 Glucommander 儿科突破性认定
@@ -437,10 +461,10 @@ MedCity News · 2026-09-25
 https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/
 
 05 · 论文研究
-老年中风患者对数字医疗技术的恐惧症现状及相关因素：混合方法研究
-结论：老年中风患者的技术恐惧症有所不同，并且与人均家庭月收入、数字医疗技术使用频率、电子健康素养、感知的社会支持和中风自我效能相关。这些发现表明，技术恐惧症不仅限于操作困难，还可能反映了个人资源、社会支持和技术使用环境的相互作用。针对中风的数字健康干预措施可能需要解决电子健康素养、中风自我效能、社会支持和用户体验，以促进老年中风患者的接受和使用。结果：在 343 名定量参与者中，技术恐惧症中位数得分为 25.0 (IQR 22.0‐33.0)。多变量线性回归显示，家庭人均月收入为人民币（人民币；
-Journal of Medical Internet Research · 2026-09-25
-https://www.jmir.org/article/view/jmir_v28i1e95921
+HIMSS 电子病历采用模型 (EMRAM) 第 7 阶段医院中受控物质安全的可量化 3D 闭环框架：事前质量改进研究
+结论：3D 闭环框架的实施与数字化成熟医院中受控物质过程指标的改善暂时相关。实施参数可作为其他区或机构当地可行性测试的参考，但可转移性仍有待评估。仍需要多中心研究来确认可持续性和可转移性。结果：分析包括实施前处方配药记录3264条，实施后处方配药记录3311条。处方配药记录合规性从 94.82% (3095/3264) 提高到 98.7% (3268/3311)。批次号管理不合规率从 2.4% (24/1000) 下降到 0.6% (6/1000)。
+JMIR Medical Informatics · 2026-09-25
+https://medinform.jmir.org/2026/1/e98247
 
 ---
 
@@ -459,10 +483,10 @@ https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/
 这一天的 5 件 AI 医疗大事
 
 01 · 论文研究
-低收入国家药物警戒人工智能的治理：系统视角
-尽管人工智能有望在低收入国家（LIC）提供更好的药物警戒，但随着人工智能的采用，药物治理的差距可能会扩大。虽然像澳大利亚这样的先进监管体系正在将人工智能纳入药品治理，但南苏丹等监管能力欠发达的低收入国家却落后了。这种潜在的分歧扰乱了世界卫生组织的“无害医学”议程和有效的全球药物警戒。此外，不断发展的全球治理举措，包括新成立的联合国人工智能科学小组，可能会因全球能力差异而受到阻碍。
-Journal of Medical Internet Research · 2026-09-28
-https://www.jmir.org/article/view/jmir_v28i1e96374
+将现实世界的安全和实施差距转化为 NHS 医疗保健提供者部署衍生的 AI 准备实施前清单：清单开发研究
+结论：SID 和 ADE 人工智能预实施清单将现实世界的人工智能部署学习转化为实用的预实施审议工具。目前的证据支持原始信任环境中的表面和内容有效性，但在提出预测有效性、普遍性或定量上线阈值之前，需要进行独立的前瞻性验证。结果：检查表包含 8 个领域：用例定义；临床安全和责任；本地验证和性能；劳动力准备情况和人为因素；运营和技术整合；信息治理和道德；采购、责任和财务风险；以及监控、评估和停止规则。
+JMIR AI · 2026-09-28
+https://ai.jmir.org/2026/1/e93900/
 
 02 · 市场准入
 DreaMed 获得 FDA 批准，用于 CGM 驱动的胰岛素自动化工具，适用于两种 2 型注射方案
@@ -471,22 +495,22 @@ MedCity News · 2026-09-28
 https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/
 
 03 · 技术进展
-GE HealthCare 探索将生成式人工智能应用于放射治疗工作流程
-该公司与麻省总医院布里格姆分校的研究团队合作，帮助护理团队获取患者的特定信息。
-MedTech Dive · 2026-09-28
-https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/
+医院和付款人人工智能治理正处于十字路口
+[赞助] MedCity News 和 Cotiviti 的研究表明，付款人和提供商大力采用人工智能，但他们针对人工智能治理和人工智能武器化网络安全威胁采取了哪些措施？
+MedCity News · 2026-09-28
+https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/
 
 04 · 论文研究
-替西帕肽支持的数字减肥服务中的同行推荐途径和 6 个月结果：回顾性队列研究
-在对澳大利亚 34,449 名使用无补贴、替西帕肽支持的数字减肥服务 (DWLS) 的成年人进行的回顾性分析中，通过同伴推荐进入的患者比倾向评分匹配的非推荐患者表现出更高的 6 个月计划依从性和更大的减肥百分比，这表明同伴推荐途径可能支持药物肥胖治疗的保留和有效性。
-Journal of Medical Internet Research · 2026-09-28
-https://www.jmir.org/article/view/jmir_v28i1e105583
+东非育龄妇女的医疗保健获取障碍：使用国土安全部数据开发和验证机器学习预测模型
+结论：XGBoost 模型在评估的算法中表现出最佳的预测性能。研究结果表明，尽管本研究没有进行正式的地方“极端风险”分类，但相当大比例的育龄妇女在获得医疗保健方面遇到障碍。通过扩大医疗保险覆盖范围来加强全面的健康教育和减少财务障碍可能有助于改善医疗保健的可及性，特别是农村妇女等弱势群体。结果：在研究中纳入的 228,654 名育龄女性中，XGBoost 分类器表现出最佳的预测性能，准确度为 94.46%，精确度为 94.62%，召回率为 93.73%，得分为 94.17%，曲线下面积为 98%。总体而言，92.63% (211,794/228,654) 的女性在获得医疗保健方面遇到障碍。
+JMIR Medical Informatics · 2026-09-28
+https://medinform.jmir.org/2026/1/e85695
 
 05 · 论文研究
-客观、临床、基于声音的帕金森病表征需要明确的机制因果分析或干预试验
-对于大多数帕金森病患者来说，运动障碍、声音和言语都会在某种程度上受到损害，这提供了使用数字录音和复杂的机器学习来协助客观临床表征病情的机会。然而，正如 Shukla 等人在 2026 年 8 月 20 日的论文中强调的那样，临时观测数据集通常包含无法进行纯粹统计分析的虚假因果关联。该评论认为，需要因果推理以及最终的诊断临床试验来建立疾病和算法预测之间的直接机制关系。
-Journal of Medical Internet Research · 2026-09-28
-https://www.jmir.org/article/view/jmir_v28i1e111711
+荷兰初级保健中远程患者管理支持的心血管护理途径：成本效益、预算影响和工作量分析
+结论：CVRM-Box 多成分 RPM 干预可能在高风险亚组中具有成本效益，但在低风险组中则不然。干预进一步减少了 PN 工作量，但没有减少全科医生的工作量。结果主要适用于荷兰的情况，可能无法推广到具有不同支付/激励安排的医疗保健系统。此外，长期结果是使用预测模型而不是观察到的心血管事件来建模的。尽管如此，我们的研究结果为在高风险亚组的初级保健中实施提供了论据。结果：在总体人群中，与照常护理相比，CVRM-Box 增加了成本和 QALY，获得了 17,340 欧元/QALY 的 ICER（截至 2023 年 12 月 29 日，1 欧元=1.11 美元），并且在愿意支付门槛为 20,000 欧元/QALY 时，成本效益概率为 60%。
+JMIR mHealth and uHealth · 2026-09-28
+https://mhealth.jmir.org/2026/1/e79512
 
 ---
 
@@ -494,16 +518,16 @@ https://www.jmir.org/article/view/jmir_v28i1e111711
 这一天的 5 件 AI 医疗大事
 
 01 · 论文研究
-韩国搜索引擎中隐蔽宣传癌症相关内容：Naver 和 Google 的计算内容分析
-结论：隐蔽的促销癌症内容在韩国搜索结果中普遍存在，平台架构系统地塑造了促销模式、机构来源和信息质量，而不是反映了故意的营销策略。这些发现强调需要对平台敏感的监管和增强的数字健康素养，以保护弱势癌症信息搜索者免受表面中立搜索环境中嵌入的商业利用。结果：隐蔽促销内容出现在 48.6% (447/919) 的分析帖子中，其中 Google 上的流行率 (174/321, 54.2%) 显着高于 Naver 上的流行率 (273/598, 45.7%; ²=5.78; =.02)。平台差异很明显。
-Journal of Medical Internet Research · 2026-09-29
-https://www.jmir.org/article/view/jmir_v28i1e90335
+在资源有限的非洲卫生系统中实施人工智能语音电子病历的准备情况和采用：多站点定性研究
+结论：在埃塞俄比亚成功实施人工智能语音电子病历需要对数字基础设施、本地化语言模型、加强数据治理和迭代用户引导进行协调投资。这些发现强调了在资源匮乏的卫生系统中部署基于语音的人工智能时，迫切需要采取情境敏感且基于道德的方法。结果：确定了四个总体主题。首先，参与者预期有明显的临床益处，包括减少打字负担、提高文档连续性和增强患者互动，但对自动化错误、与口音相关的转录失败和持续的基础设施不稳定表示严重担忧。其次，可用性障碍，包括界面复杂性、培训不足和数字焦虑，影响了干部对技术的接受程度。
+JMIR Medical Informatics · 2026-09-29
+https://medinform.jmir.org/2026/1/e100805
 
 02 · 融资合作
-STAT+：Anthropic 加入 ARPA-H 临床人工智能登月计划，将举办闭门医疗保健活动
-在本期 STAT Health Tech 中：Oura 推迟 IPO 计划、Anthropic 加入 ARPA-H 的临床人工智能工作以及 MAHA 的健康数据目标。
-STAT News · 2026-09-29
-https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss
+Oura推迟首次公开募股
+以市场不确定性为由，这家智能戒指制造商计划推迟其原本预计筹集至多 22 亿美元的公开募股。
+MedTech Dive · 2026-09-29
+https://www.medtechdive.com/news/oura-delays-ipo/831650/
 
 03 · 新品方案
 Dexcom 报告描绘了 2 型糖尿病患者使用 CGM 的复杂情况
@@ -518,10 +542,10 @@ MedCity News · 2026-09-29
 https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/
 
 05 · 论文研究
-用于自动计算机断层扫描系列标记和表征的多模型、像素原生框架：概念验证研究
-结论：Orchestrate 可实现 CT 系列的基于像素的自动分类、检测和语义描述，减少对手动选择的依赖和元数据不一致的风险。通过生成标准化语义内容，该框架为改善与临床系统的互操作性提供了概念证明，并支持将人工智能驱动的成像管道可靠、可重复地集成到临床工作流程中。结果：内部框架评估数据集和外部数据集的DICOM元数据不完整，对比度增强缺失率分别为42.9%（413/963）和92.9%（105/113），内部框架评估数据集中重建内核信息缺失率为0.4%（4/963）。在模型开发过程中，各个模型获得了 0.982 至 0.989 范围内的宏观 F 1 分数。
+机器学习优先处理高严重性患者安全事件以进行机构调查：算法开发和验证研究
+结论：与两种分类方法和报告者分配的严重性基线相比，LLAMA3.1-RA 在优先考虑高严重性 PSE 方面表现出卓越的能力。将此模型集成到分类工作流程中可以提供可扩展且高效的解决方案，用于识别高严重性安全事件并确定其优先级。结果：排名模型 LLAMA3.1-RA 达到了最高的平均精度 0.94 (95% CI 0.90-0.98)，比最佳分类模型 (LLAMA3.1-CL：平均 0.77，95% CI 0.72-0.82；P < .001) 相对提高了 22.1%。 LLAMA3.1-RA 在 16 个评估指标中的 10 个指标中表现出优异的性能，在更广泛的评估截止值上具有更大的相对收益（例如，NDCG@200 中 +12.9%，Precision@200 中 +21.1%，Recall@200 中 +20.3%）。
 JMIR Medical Informatics · 2026-09-29
-https://medinform.jmir.org/2026/1/e93018
+https://medinform.jmir.org/2026/1/e101393
 
 ---
 
@@ -535,10 +559,10 @@ MedCity News · 2026-09-30
 https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/
 
 02 · 论文研究
-使用可穿戴设备和机器学习对健康个体和肥胖个体进行无创间质血糖估计：观察队列研究
-结论：这项研究表明，可以在现实条件下使用机器学习方法从多模态、非侵入性可穿戴传感器数据中预测 IG 水平。虽然需要在更大、更多样化的人群中进行进一步验证，但这种方法代表着朝着可访问、个性化的血糖监测和饮食指导作为移动健康应用程序中的预防工具迈出了有希望的一步。结果：共有 74 名参与者，其中 34 名 (46%) 健康对照者和 40 名 (54%) 代谢风险 (MR) 个体在 2 周内同时使用侵入性 CGM 设备和 2 个无创腕带。健康对照组的平均年龄为 24.53 (SD 3.68) 岁，平均 BMI 为 22.36 (SD 2.16) kg/m²。相比之下，MR 队列的平均年龄为 55.38 (SD 15.08) 岁，平均 BMI 为 35.38 (SD 4.91) kg/m²。
-JMIR mHealth and uHealth · 2026-09-30
-https://mhealth.jmir.org/2026/1/e91724
+探索人工智能在精神卫生保健和心理治疗中的应用：提出 GUIDE 框架
+无论临床医生是否邀请，人工智能已经进入心理健康咨询室。 OpenAI 报告称，ChatGPT 有超过 8 亿普通用户，每天有超过 4000 万人通过该平台寻求健康问题，但基于大型语言模型的心理健康聊天机器人的临床功效的证据仍然有限。专业指导和监管仍然分散。因此，临床医生是在不容忽视的患者现实和尚未建立的专业基础设施之间的差距中进行实践的。我们认为，在当前环境下，无论是热情采纳还是原则性弃权都不够。拒绝讨论临床重要患者人工智能使用的临床医生并不是在阻止这种使用；而是在阻止这种使用。他们可能无法了解对治疗过程产生重大影响的因素。
+JMIR AI · 2026-09-30
+https://ai.jmir.org/2026/1/e101942/
 
 03 · 融资合作
 9 月份 4 项值得注意的健康科技融资公告

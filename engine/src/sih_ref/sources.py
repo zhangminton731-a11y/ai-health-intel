@@ -23,6 +23,7 @@ from .core import normalize_url, normalize_date, text
 from .article_metadata import enrich_summary
 from .dive_metadata import enrich_dive_brief
 from .official_metadata import enrich_fda_release
+from .cms_facts import collect_fact_sheets
 from .rss_fetch import FeedFetchError, fetch_feed
 
 
@@ -485,6 +486,7 @@ def _map_record(record: Mapping[str, Any], mapping: Mapping[str, Any], *, fallba
 
 
 ADAPTERS: dict[str, Callable[[Mapping[str, Any], Path, date], SourceResult]] = {
+    "cms_facts": lambda source, _, as_of: SourceResult(text(source.get('id')), 'ok', collect_fact_sheets(source, as_of), [{'kind': 'cms_facts'}]),
     "fixture_jsonl": _fixture_jsonl,
     "europe_pmc": _europe_pmc,
     "pubmed": _pubmed_query,
@@ -502,7 +504,7 @@ ADAPTERS: dict[str, Callable[[Mapping[str, Any], Path, date], SourceResult]] = {
 }
 
 
-NETWORK_SOURCE_KINDS = {"europe_pmc", "pubmed", "pubmed_journals", "arxiv", "rss", "hacker_news", "openalex_author", "imap"}
+NETWORK_SOURCE_KINDS = {"cms_facts", "europe_pmc", "pubmed", "pubmed_journals", "arxiv", "rss", "hacker_news", "openalex_author", "imap"}
 
 
 def collect_source(source: Mapping[str, Any], *, base_dir: Path, live: bool, as_of: date) -> SourceResult:
