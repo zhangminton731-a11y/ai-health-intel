@@ -2,36 +2,52 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 0,
-      "content_type": "text/plain",
-      "elapsed_ms": 67,
-      "error_code": null,
+      "bytes_read": 3038,
+      "content_type": "text/html",
+      "elapsed_ms": 235,
+      "error_code": "non_feed",
       "final_url": "https://www.nature.com/natbiomedeng.rss",
-      "http_status": 304,
+      "http_status": 200,
       "kind": "rss_fetch",
-      "response_kind": "not_modified"
+      "response_kind": "html",
+      "retry_delay_seconds": 5.689
     },
     {
-      "kind": "article_metadata",
-      "status": "unavailable"
+      "attempt": 2,
+      "bytes_read": 3038,
+      "content_type": "text/html",
+      "elapsed_ms": 187,
+      "error_code": "non_feed",
+      "final_url": "https://www.nature.com/natbiomedeng.rss",
+      "http_status": 200,
+      "kind": "rss_fetch",
+      "response_kind": "html",
+      "retry_delay_seconds": 10.894
     },
     {
-      "count": 8,
-      "kind": "rss_atom"
+      "attempt": 3,
+      "bytes_read": 3038,
+      "content_type": "text/html",
+      "elapsed_ms": 160,
+      "error_code": "non_feed",
+      "final_url": "https://www.nature.com/natbiomedeng.rss",
+      "http_status": 200,
+      "kind": "rss_fetch",
+      "response_kind": "html"
     }
   ],
-  "consecutive_failures": 0,
-  "elapsed_ms": 797,
+  "consecutive_failures": 1,
+  "elapsed_ms": 17165,
   "enabled": true,
-  "error": "",
-  "generated_at": "2026-10-04T17:35:01+00:00",
-  "item_count": 8,
-  "last_checked_at": "2026-10-04T17:35:01+00:00",
+  "error": "RSS non_feed after 3 attempt(s)",
+  "generated_at": "2026-10-04T23:57:49+00:00",
+  "item_count": 0,
+  "last_checked_at": "2026-10-04T23:57:49+00:00",
   "last_success_at": "2026-10-04T17:35:01+00:00",
-  "recovered": true,
+  "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "nature_biomedical_engineering",
   "source_kind": "rss",
-  "status": "ok"
+  "status": "failed"
 }
