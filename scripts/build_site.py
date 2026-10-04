@@ -31,6 +31,7 @@ from sih_ref.editorial import VERSION
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
 SITE_NAME = "奇点医研"
+ARTICLE_IMAGES = json.loads((ROOT / "config/article_images.json").read_text(encoding="utf-8"))
 
 SOURCE_META = {
     "cms_fact_sheets": ("CMS · 政策事实说明", "官方机构", "官方机构", 3),
@@ -238,6 +239,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "s": summary_zh, "se": summary,
             "u": it.get("url", ""),
             "image": (it.get('provenance') or {}).get('image_url', ''),
+            **{key: value for key, value in ARTICLE_IMAGES.get(it.get('url', '').split('?')[0], {}).items()
+               if key in ('image', 'imageSource', 'imageAlt')},
             "src": name, "role": role, "cat": cat, "trust": trust,
             "sourceType": cat, "topics": item_topics(title_en, original_summary, cat),
             **classify_content(title_en, original_summary, cat),

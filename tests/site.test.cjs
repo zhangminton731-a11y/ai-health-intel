@@ -100,8 +100,8 @@ test('archive completion cannot replace a later route',async()=>{
 test('navigation exposes exactly the requested content and more groups',()=>{
  const p=page(),nav=p.doc.querySelector('.sidebar nav');
  assert.deepEqual([...nav.querySelectorAll('.side-label')].map(n=>n.textContent),['内容','更多']);
- assert.deepEqual([...nav.querySelectorAll('a')].map(n=>n.textContent),['临床科研','健康产业','实时热点','奇点日报','Agent 接入','关于','反馈']);
- assert.deepEqual([...p.doc.querySelectorAll('.mobile-nav a')].map(n=>n.getAttribute('href')),['#jingxuan','#industry','#hot','#daily','#more']);
+ assert.deepEqual([...nav.querySelectorAll('a')].map(n=>n.textContent),['实时热点','临床科研','健康产业','奇点日报','Agent 接入','关于','反馈']);
+ assert.deepEqual([...p.doc.querySelectorAll('.mobile-nav a')].map(n=>n.getAttribute('href')),['#hot','#jingxuan','#industry','#daily','#more']);
  navigate(p,'#about');assert(p.doc.querySelector('#v-about a[href="#feed"]'));navigate(p,'#feed');assert(p.doc.querySelector('#v-feed').classList.contains('active'));
  p.dom.window.close();
 });
@@ -163,16 +163,26 @@ test('hot podium has source summaries and honest recommendation labels',()=>{con
 test('today edition retains original dates and never mixes its archive route',()=>{const yesterday=new Date(Date.now()-86400000).toISOString().slice(0,10);const i={...entry('paper','Yesterday study',['research']),date:yesterday};const p=page({items:[i],hot30:[i],dailyIssues:[{date:yesterday,item_ids:[i.id],minutes:1}],publicationIssue:{date:day,item_ids:[i.id],minutes:1,text:'Real publication',date_basis:'publication'}},{hash:'#daily'});assert.equal(p.doc.querySelector('#dailyDate').textContent,day.replaceAll('-','.'));assert.match(p.doc.querySelector('.digest-source').textContent,new RegExp(yesterday));assert.match(p.doc.querySelector('#dailyTitle').textContent,/今日阅读/);navigate(p,'#daily?date='+yesterday);assert.equal(p.doc.querySelector('#dailyDate').textContent,yesterday.replaceAll('-','.'));assert.equal(p.errors.length,0);p.dom.window.close();});
 
 
-test('scores cap at 98 and source pictures fail over to clearly labeled artwork',()=>{
+test('scores cap at 98 and failed source pictures collapse to text',()=>{
  const i={...entry('pic','Wearable study',['research']),rel:100,image:'https://example.org/cover.jpg'};
  const p=page({items:[i],hot30:[i],kws:[{term:'valuation',n:20}]},{hash:'#hot'});
  assert.match(p.doc.querySelector('.hot-number').textContent,/98/);
  assert(!p.doc.querySelector('#kws'));assert(!p.doc.querySelector('#v-hot').textContent.includes('Trending signals'));
  const img=p.doc.querySelector('.hot-visual img');assert.equal(img.src,i.image);
- img.dispatchEvent(new p.dom.window.Event('error'));assert(img.hidden);assert.equal(p.doc.querySelector('.hot-visual figcaption').textContent,'主题示意');
+ assert.equal(img.closest('a').href,i.u);img.dispatchEvent(new p.dom.window.Event('error'));assert(!p.doc.querySelector('.hot-visual'));assert(!p.doc.querySelector('.hot-card.has-image'));assert(p.doc.querySelector('.hot-card h2').textContent.includes(i.t));assert(!p.doc.querySelector('#hotRows svg'));assert(!p.doc.querySelector('#hotRows').textContent.includes('主题示意'));
  navigate(p,'#jingxuan');assert([...p.doc.querySelectorAll('.score-badge b,.highlight-score')].every(n=>!n.textContent.includes('100')));
  assert.equal(p.doc.querySelectorAll('.sidebar .nav-link .nav-icon').length,7);assert.equal(p.errors.length,0);p.dom.window.close();
  const q=page({items:[{...i,image:'javascript:alert(1)'}],hot30:[{...i,image:'javascript:alert(1)'}]},{hash:'#hot'});assert(!q.doc.querySelector('.hot-visual img'));q.dom.window.close();
+});
+
+test('lower hotspot rows retain rank and link images to the original figure',()=>{
+ const rows=Array.from({length:5},(_,n)=>({...entry('rank-'+n,'Study '+n,['research']),rel:90-n}));
+ rows[3]={...rows[3],image:'https://example.org/figure.png',imageSource:'https://example.org/article/figures/2',imageAlt:'Original outcome figure'};
+ const p=page({items:rows,hot30:rows},{hash:'#hot'});
+ assert.deepEqual([...p.doc.querySelectorAll('.hot-card h2,.hot-row h3')].map(x=>x.textContent),rows.map(i=>i.t));
+ assert.equal(p.doc.querySelectorAll('.hot-visual').length,1);assert.equal(p.doc.querySelectorAll('#hotRows svg').length,0);
+ const img=p.doc.querySelector('.hot-row img');assert.equal(img.alt,rows[3].imageAlt);assert.equal(img.closest('a').href,rows[3].imageSource);
+ img.dispatchEvent(new p.dom.window.Event('error'));assert(!p.doc.querySelector('.hot-row.has-image'));assert.equal(p.doc.querySelectorAll('.hot-row').length,2);assert.equal(p.errors.length,0);p.dom.window.close();
 });
 
 test('editorial cards disclose both reviews and legacy scores stay pending',()=>{
