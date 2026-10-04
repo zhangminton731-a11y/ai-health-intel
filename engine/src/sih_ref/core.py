@@ -239,21 +239,25 @@ def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date)
     haystack = " ".join(
         [text(item.get("title")), text(item.get("summary")), " ".join(item.get("tags") or [])]
     ).lower()
+    def contains(term):
+        # Keep 'valuation' out of 'evaluation', and 'series a' out of 'series analysis'.
+        suffix = r'(?:s|es)?' if term and term[-1] in 'abcdefghijklmnopqrstuvwxyz' else ''
+        return bool(term) and re.search(r'(?<![a-z])' + re.escape(term) + suffix + r'(?![a-z])', haystack) is not None
     topic_score = 0.0
     matched: list[str] = []
     for term, weight in (profile.get("topic_terms") or {}).items():
         normalized_term = text(term).lower()
-        if normalized_term and normalized_term in haystack:
+        if contains(normalized_term):
             topic_score += float(weight)
             matched.append(normalized_term)
     for term, penalty in (profile.get("negative_terms") or {}).items():
         normalized_term = text(term).lower()
-        if normalized_term and normalized_term in haystack:
+        if contains(normalized_term):
             topic_score -= abs(float(penalty))
     source_weight = float((profile.get("source_weights") or {}).get(text(item.get("source_kind")), 0.0))
     topic_score = max(0.0, min(1.0, topic_score + source_weight))
     novelty_terms = [text(term).lower() for term in profile.get("novelty_terms") or [] if text(term)]
-    novelty_matches = [term for term in novelty_terms if term in haystack]
+    novelty_matches = [term for term in novelty_terms if contains(term)]
     novelty_hint = min(1.0, len(novelty_matches) * 0.25)
     lookback_days = int(profile.get("freshness_days") or 30)
     gate = freshness_gate(item, as_of, lookback_days)

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T04:04:43+00:00",
+  "generated_at": "2026-10-04T05:08:19+00:00",
   "as_of": "2026-10-04",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -45,7 +45,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 81.0,
+      "rel": 59.0,
       "when": "4 天前",
       "date": "2026-09-30",
       "reasons": {
@@ -95,7 +95,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 51.0,
+      "rel": 29.0,
       "when": "4 天前",
       "date": "2026-09-30",
       "reasons": {
@@ -142,7 +142,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 57.0,
+      "rel": 35.0,
       "when": "4 天前",
       "date": "2026-09-30",
       "reasons": {
@@ -191,7 +191,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 81.0,
+      "rel": 59.0,
       "when": "4 天前",
       "date": "2026-09-30",
       "reasons": {
@@ -241,7 +241,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 55.0,
+      "rel": 29.0,
       "when": "4 天前",
       "date": "2026-09-30",
       "reasons": {
@@ -428,7 +428,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 27.0,
+      "rel": 5.0,
       "when": "5 天前",
       "date": "2026-09-29",
       "reasons": {
@@ -569,7 +569,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 49.0,
+      "rel": 23.0,
       "when": "6 天前",
       "date": "2026-09-28",
       "reasons": {
@@ -665,7 +665,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 57.0,
+      "rel": 35.0,
       "when": "6 天前",
       "date": "2026-09-28",
       "reasons": {
@@ -900,7 +900,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 41.0,
+      "rel": 23.0,
       "when": "9 天前",
       "date": "2026-09-25",
       "reasons": {
@@ -947,7 +947,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 27.0,
+      "rel": 5.0,
       "when": "9 天前",
       "date": "2026-09-25",
       "reasons": {
@@ -1088,7 +1088,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 57.0,
+      "rel": 35.0,
       "when": "9 天前",
       "date": "2026-09-25",
       "reasons": {
@@ -1136,7 +1136,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 27.0,
+      "rel": 5.0,
       "when": "9 天前",
       "date": "2026-09-25",
       "reasons": {
@@ -1186,7 +1186,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 98.0,
+      "rel": 76.0,
       "when": "9 天前",
       "date": "2026-09-25",
       "reasons": {
@@ -1324,7 +1324,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 45.0,
+      "rel": 23.0,
       "when": "10 天前",
       "date": "2026-09-24",
       "reasons": {
@@ -1422,7 +1422,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 51.0,
+      "rel": 29.0,
       "when": "10 天前",
       "date": "2026-09-24",
       "reasons": {
@@ -1604,7 +1604,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 33.0,
+      "rel": 5.0,
       "when": "11 天前",
       "date": "2026-09-23",
       "reasons": {
@@ -1648,9 +1648,9 @@
         "source_id": "medcity_news",
         "upstream_id": "https://medcitynews.com/?p=150151"
       },
-      "tier": "must_read",
+      "tier": "skim",
       "freshness": "fresh",
-      "rel": 57.0,
+      "rel": 31.0,
       "when": "12 天前",
       "date": "2026-09-22",
       "reasons": {
@@ -1795,6 +1795,102 @@
       "historical": true
     },
     {
+      "id": "url:https://mhealth.jmir.org/2026/1/e92493",
+      "t": "使用仪器鞋垫监测骨折愈合或骨不连患者的胫骨或踝骨折愈合情况的定时 Up-and-Go 测试：纵向和横断面探索性研究",
+      "te": "Timed Up-and-Go Test Using Instrumented Insoles to Monitor Tibial or Malleolar Fracture Healing in Patients With Healing Fractures or Nonunion: Longitudinal and Cross-Sectional Exploratory Study",
+      "s": "结论：这项研究表明使用功能结果来识别有骨不连风险的患者的潜力。额外的任务和功能结果需要进一步调查。试验注册：德国临床试验注册中心DRKS00025108；  结果：对 27 名骨折患者、相似数量的健康成人和 9 名骨折不愈合患者进行了评估。在整个愈合过程中，所有 TUG 参数均得到改善（全部 < .001）。最大的改善是在 6 周到 3 个月之间发现的（全部 < .001）。在经典 TUG 参数中，3 至 6 个月期间，只有总 TUG 时间、行走时间、站立到坐立时间和总步数显着改善（=.004、=.01、=.03 和 =.002）。",
+      "se": "Conclusions: This study indicates the potential for using functional outcomes to identify patients at risk of nonunion. Additional tasks and functional outcomes require further investigation. Trial Registration: German Clinical Trials Registry DRKS00025108; https://drks.de/search/en/trial/DRKS00025108 Results: Twenty-seven patients with fracture, a similar number of healthy adults, and 9 patients with fracture nonunion were assessed. All TUG parameters improved throughout the healing process (all < .001). The greatest improvements were detected between 6 weeks and 3 months (all < .001). Among the classical TUG parameters, between 3 and 6 months, only the total TUG time, walking time, stand-to-sit time, and total number of steps significantly improved (=.004, =.01, =.03, and =.002).",
+      "u": "https://mhealth.jmir.org/2026/1/e92493",
+      "src": "JMIR mHealth and uHealth",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_mhealth"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_mhealth",
+        "upstream_id": "https://mhealth.jmir.org/2026/1/e92493"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 35.0,
+      "when": "13 天前",
+      "date": "2026-09-21",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://mhealth.jmir.org/2026/1/e84076",
+      "t": "成人健康习惯形成的网络应用程序的使用效果、效果调节剂和体验：准实验现实世界干预的探索性分析",
+      "te": "The Usage Effects, Effect Modifiers, and Experiences of a Web-Based App for Healthy Habit Formation in Adults: Exploratory Analysis of a Quasi-Experimental Real-World Intervention",
+      "s": "结论：对健康习惯的廉价、低强度的数字支持可以促进生活方式的微小有益改变，但效果需要用户参与，并且可能取决于个人。这些发现需要在更稳健的研究设计中得到证实，并呼吁进一步研究以确定最有可能从此类数字支持中受益的人。结果：在 6975 名受邀者中，1282 名（18.4%）接受了邀请，382 名（5.5%；平均年龄 51，SD 15 岁；女性：n=263，69%）完成了评估所需的数据收集。 90 天内，应用程序使用天数的中位数百分比为 5.9%（IQR 3.3%‐11%），报告的习惯表现总数为 22 个（IQR 3‐68.5）。",
+      "se": "Conclusions: An inexpensive, low-intensity digital support for healthy habits could foster small beneficial lifestyle changes, but effects require user engagement and may depend on the individual. The findings warrant confirmation in more robust study designs and call for further research for identifying those most likely to benefit from such digital support. Results: Of 6975 invitees, 1282 (18.4%) accepted the invitation and 382 (5.5%; mean age 51, SD 15 y; women: n=263, 69%) completed the data collection required for the assessment. Over 90 days, the median percentage of app use days was 5.9% (IQR 3.3%‐11%), and the total number of reported habit performances was 22 (IQR 3‐68.5).",
+      "u": "https://mhealth.jmir.org/2026/1/e84076",
+      "src": "JMIR mHealth and uHealth",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_mhealth"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_mhealth",
+        "upstream_id": "https://mhealth.jmir.org/2026/1/e84076"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 5.0,
+      "when": "13 天前",
+      "date": "2026-09-21",
+      "reasons": {
+        "research": "围绕精神心理健康，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "围绕精神心理健康，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
       "id": "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
       "t": "人工智能如何改变 Intermountain Health 的临床记录",
       "te": "How AI Is Transforming Clinical Documentation at Intermountain Health",
@@ -1926,14 +2022,63 @@
         "source_id": "jmir_ai",
         "upstream_id": "https://ai.jmir.org/2026/1/e105049/"
       },
-      "tier": "skim",
+      "tier": "collapsed",
       "freshness": "fresh",
-      "rel": 49.0,
+      "rel": 27.0,
       "when": "13 天前",
       "date": "2026-09-21",
       "reasons": {
         "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "围绕血糖管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://mhealth.jmir.org/2026/1/e64278",
+      "t": "采用基于放松的移动健康干预措施治疗围手术期焦虑：前瞻性纵向队列混合方法研究",
+      "te": "Engagement With a Relaxation-Based Mobile Health Intervention for Perioperative Anxiety: Prospective Longitudinal Cohort Mixed Methods Study",
+      "s": "结论：本研究探讨了用户对围手术期护理中基于放松的移动健康干预的参与度，通过整合用户对数字焦虑和疼痛管理的认知和表现来推进文献的发展。结果表明，感知到的好处可能并不总是反映在用户性能中。有意使用成为围手术期护理中有效参与移动医疗的一个有前景的指标。未来的设计应该旨在通过反射提示和自适应通知等功能来促进有意使用。未来的工作还应该开发计算模型来检测有意使用并评估更大群体中的适应性干预措施。结果：11 名参与者报告制定或改善了基于放松的自我管理策略（高效益），而 8 名参与者报告从干预中获益甚微。",
+      "se": "Conclusions: This study explored user engagement with a relaxation-based mHealth intervention for perioperative care, advancing the literature by integrating user perceptions and performance for digital anxiety and pain management. Results indicate that perceived benefit may not always be reflected in user performance. Intentional use emerges as a promising indicator of effective mHealth engagement in perioperative care. Future designs should aim to foster intentional use through features such as reflection prompts and adaptive notifications. Future work should also develop computational models to detect intentional use and evaluate adaptive interventions in larger cohorts. Results: Eleven participants reported developing or improving relaxation-based self-management strategies (high benefit), whereas 8 reported little benefit from the intervention.",
+      "u": "https://mhealth.jmir.org/2026/1/e64278",
+      "src": "JMIR mHealth and uHealth",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "data",
+        "analysis"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_mhealth"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_mhealth",
+        "upstream_id": "https://mhealth.jmir.org/2026/1/e64278"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 5.0,
+      "when": "16 天前",
+      "date": "2026-09-18",
+      "reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -2148,7 +2293,7 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 57.0,
+      "rel": 35.0,
       "when": "18 天前",
       "date": "2026-09-16",
       "reasons": {
@@ -2286,8 +2431,8 @@
         "url:https://www.jmir.org/article/view/jmir_v28i1e78718",
         "url:https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
         "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e87047",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e95921"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e87047"
       ],
       "minutes": 3
     },
@@ -2297,8 +2442,8 @@
         "url:https://www.jmir.org/article/view/jmir_v28i1e105068",
         "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
         "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e90870",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e87806"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e87806",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e90870"
       ],
       "minutes": 3
     },
@@ -2326,13 +2471,16 @@
       "item_ids": [
         "url:https://ai.jmir.org/2026/1/e99757/",
         "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
-        "url:https://ai.jmir.org/2026/1/e105049/"
+        "url:https://mhealth.jmir.org/2026/1/e92493",
+        "url:https://ai.jmir.org/2026/1/e105049/",
+        "url:https://mhealth.jmir.org/2026/1/e84076"
       ],
-      "minutes": 2
+      "minutes": 4
     },
     {
       "date": "2026-09-18",
       "item_ids": [
+        "url:https://mhealth.jmir.org/2026/1/e64278",
         "url:https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/"
       ],
       "minutes": 1

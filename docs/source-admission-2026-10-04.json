@@ -1,0 +1,48 @@
+[
+  {
+    "source_id": "jmir_mhealth",
+    "name": "JMIR mHealth and uHealth",
+    "feed": "https://mhealth.jmir.org/feed/atom",
+    "checked_at": "2026-10-04",
+    "status": "ok",
+    "records": 10,
+    "qualified_count": 1,
+    "examples": [
+      {
+        "title": "Noninvasive Interstitial Glucose Estimation Using Wearables and Machine Learning in Healthy Individuals and Individuals With Obesity: Observational Cohort Study",
+        "url": "https://mhealth.jmir.org/2026/1/e91724",
+        "published_at": "2026-09-30",
+        "topic_relevance": 1.0,
+        "matched_profile_terms": [
+          "wearable",
+          "smartwatch",
+          "health app",
+          "cgm",
+          "glucose"
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "jmir_medinform",
+    "name": "JMIR Medical Informatics",
+    "feed": "https://medinform.jmir.org/feed/atom",
+    "checked_at": "2026-10-04",
+    "status": "ok",
+    "records": 10,
+    "qualified_count": 1,
+    "examples": [
+      {
+        "title": "Technology-Enhanced Health Care in Smart Homes: Scoping Review of Sensor Technologies, Clinical Applications, Integration Challenges, and Future Directions",
+        "url": "https://medinform.jmir.org/2026/1/e89189",
+        "published_at": "2026-09-30",
+        "topic_relevance": 0.89,
+        "matched_profile_terms": [
+          "chronic condition",
+          "wearable",
+          "digital health"
+        ]
+      }
+    ]
+  }
+]

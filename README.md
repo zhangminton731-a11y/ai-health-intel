@@ -1,19 +1,23 @@
-# 奇点医研 · Singularity Med
+<img src="assets/brand-symbol.svg" width="64" height="64" alt="医学十字与证据节点标识">
 
-2026-10-04 A 路线：[处理链路升级与验收](docs/pages-upgrade-acceptance.md) · [服务器的企业价值与采购条件](docs/server-business-case.md)。保留 Pages 和现有模块，补全 Nature 摘要、区分科研筛选、加入采集并发/条件缓存与覆盖诊断；分支是否上线以合并和部署结果为准。
+# S·MED · 奇点医研
 
-循证奇点出品，面向临床研究者的 AI 科研信息与合作入口。
+从公开信源到可追溯的医学科研与健康产业信息。
 
 面向临床研究者的 AI 科研信息与合作入口，医院科研为主，企业 AI 升级为辅。展示外部论文、方法工具、政策和产业信息，不公开团队自有项目案例。
 
-[线上网站](https://zhangminton731-a11y.github.io/ai-health-intel/) · [需求讨论](https://github.com/zhangminton731-a11y/ai-health-intel/issues/1) · [版本记录](CHANGELOG.md)
+[线上网站](https://zhangminton731-a11y.github.io/ai-health-intel/) · [九月档案](https://zhangminton731-a11y.github.io/ai-health-intel/#daily?date=2026-09-30) · [自动化状态](https://github.com/zhangminton731-a11y/ai-health-intel/actions) · [需求反馈](https://github.com/zhangminton731-a11y/ai-health-intel/issues) · [版本记录](CHANGELOG.md)
 
-> 本分支是 2026-09-27 改版，是否已上线请以 PR 合并和 Pages 部署结果为准。
+**2026-10-04 更新：** 医学标识、开源入口、月份目录与点阵日历；19 个启用信源；九月恢复 762 条原始资料，筛选出 120 条可读资料和 22 份回溯日报。[品牌、信源与档案验收](docs/brand-sources-archive-20261004.md)
+
+[处理链路升级](docs/pages-upgrade-acceptance.md) · [界面与接入实测](docs/editorial-acceptance-20261004.md) · [服务器的企业价值与采购条件](docs/server-business-case.md)
 
 ## 当前功能
 
-- 默认首页“医学科研”：论文精选、方法与工具、政策动态；支持研究设计、数据处理、AI 分析、研究验证标签。
-- 第二入口“产业前沿”：新品与方案、技术进展、融资与合作、市场准入、综合动态。
+- **临床科研**：论文精选、方法与工具、政策动态；支持研究设计、数据处理、AI 分析、研究验证标签。
+- **健康产业**：新品与方案、技术进展、融资与合作、市场准入、综合动态。
+- **实时热点**：事件摘要、来源聚合与关注指数；不把单站采集量冒充全网热度。
+- **奇点日报**：今日出刊、按原文日期归档、月份折叠目录和可点击日历；实心点表示有内容，灰点表示未收录日报。
 - 两个入口分别提供本期重点、搜索和按原文日期分组的信息流。全站搜索、热点榜仍可使用。日报按原文日期归集，左侧选择日期，每天最多 5 件有摘要的大事，展示类别、摘要和原文。只显示有内容的日期；默认最新一期可能早于今天，不拿旧闻冒充当天事件。
 - 手机底部导航、完整换行标题、摘要展开、原文跳转、日报复制与网站分享。
 - June 团队介绍、个人主页、商务微信 **13028564458**，请备注公司 / 职务 / 需求。
@@ -21,7 +25,8 @@
 - Agent 接入提供 Skill、本地 MCP、RSS、静态 API 四种方式，附安装提示词、配置复制、llms.txt 和 OpenAPI。
 - 反馈支持 2000 字内容、选填邮箱和本地截图预览；复制后由访客发送到商务微信，截图另行添加，尚未接入自动收件服务。
 - 深色、跟随系统、浅色三种主题；桌面左下角和手机“更多”提供切换，记住用户选择。
-- 17 个启用信源，按研究机构、期刊、官方机构、专业媒体、企业发布和社区线索分别标识。
+- 19 个启用信源，按研究机构、期刊、官方机构、专业媒体、企业发布和社区线索分别标识。
+- 桌面左下角及手机“更多”提供 GitHub 开源入口。品牌采用医学十字与证据节点图形，保留 S·MED / 奇点医研双层文字。
 
 规则分类是初步导航，不代表期刊等级或人工逐篇审核；不生成影响因子、交易概率或政策放宽结论。国内科研政策与资助的官方原文信源仍需补齐，空栏目如实显示。
 
@@ -33,7 +38,7 @@
 
 | 类型 | 信源 |
 |---|---|
-| 期刊 | npj Digital Medicine、Nature Medicine、Nature Biomedical Engineering、Journal of Medical Internet Research、JMIR AI |
+| 期刊 | npj Digital Medicine、Nature Medicine、Nature Biomedical Engineering、Journal of Medical Internet Research、JMIR AI、JMIR mHealth and uHealth、JMIR Medical Informatics |
 | 官方机构 | NIH 科研资助与通知、EMA 监管与程序指南 |
 | 研究机构 | MIT News · Health |
 | 专业媒体 | MedTech Dive、STAT、MedCity News、Medical Device Network、Crunchbase News |
@@ -42,7 +47,18 @@
 
 研究与企业发布分别标识；来源身份不等于每项产品主张已得到临床验证。一般科技或财经来源必须同时满足健康场景和技术线索，才能进入推荐。
 
-北京时间 Day 0～10 为当前有效内容；未来、无日期、超过 10 天的记录归档。榜单、日报、API 与 RSS 均来自同一当前集合，不用旧条目补足数量。网页打开时再次检查日期，停更后过期条目不继续出现在推荐中。历史记录保存在 `output/`，当前页面聚焦有效内容。
+北京时间 Day 0～10 为当前有效内容；未来、无日期、超过 10 天的记录归档。当前榜单、今日出刊、当前 API 与 RSS 均来自同一当前集合，不用旧条目补足数量。网页打开时再次检查日期，停更后过期条目不继续出现在推荐中。
+
+新增信源按“发现文章 → 用原始标题与摘要评分 → 核对原始发布方 → 实测订阅 → 接入”准入。两家 JMIR 新源的样例分别为 **100 / 89 分**，达到 70 分门槛；[审计记录](docs/source-admission-2026-10-04.json)保存原文、日期和命中词。分数来自现有规则引擎，表示主题相关性，**不是 LLM 评审、临床证据质量或疗效评分**。信源入库后，每篇文章继续独立筛选，并非整本期刊自动进入推荐。
+
+## 九月资料档案
+
+从 54 个 Git 采集快照及本次真实采集恢复 **762 条去重原始记录**，原文日期覆盖九月全部 30 天。按现有规则回溯筛选得到 **120 条可读资料、22 份日报**。其余 8 天没有符合日报条件的条目，日历保留空缺。所有回溯日报明确标注整理方式，不宣称它们在历史当天已出刊；资料范围限于本仓库可恢复记录，并非全网完整收录。
+
+- [浏览科研资料](https://zhangminton731-a11y.github.io/ai-health-intel/#jingxuan?month=2026-09) · [浏览产业资料](https://zhangminton731-a11y.github.io/ai-health-intel/#industry?month=2026-09)
+- [日报合订本](output/site/archive/2026-09/daily.md) · [原始记录及快照来源](output/archives/2026-09.json)
+
+月度正文按需加载、会话内缓存；首页只携带轻量月份目录。长期档案不受近 20 天滚动历史窗口影响，也不混入当前推荐。
 
 [本次真实信源验收与限制](docs/sih-upgrade-acceptance.md) · [原有时效边界验收](docs/freshness-gate-acceptance.md)
 
@@ -69,7 +85,7 @@ RSS 失败现在保留不含正文或凭据的请求诊断，区分网络、限�
 
 ## Agent / Skill / API
 
-[2026-09-27 接入实测](docs/access-verification-2026-09-27.md)：本地下载与数据链路通过，公网资源仍为 404，实际客户端安装/订阅尚未验收。
+[2026-10-04 接入实测](docs/editorial-acceptance-20261004.md)：API、RSS 和 MCP 数据链路已有公网验收记录；客户端安装与稳定性结论以该记录的实际测试范围为准。早期 9 月 27 日记录仅供历史追溯。
 
 部署后可匿名读取以下地址，无需 API Key：
 
@@ -78,6 +94,10 @@ RSS 失败现在保留不含正文或凭据的请求诊断，区分网络、限�
 | `api/v1/items.json` | 当前有效条目，含原文、日期、来源、主题和溯源 |
 | `api/v1/health.json` | 批次时间与来源健康 |
 | `api/v1/briefing.json` | 最新有内容日期的日报，含 edition_date 和近 10 天日期目录 editions |
+| `api/v1/archive/index.json` | 长期月份目录、条目数及回溯日报目录 |
+| `api/v1/archive/2026-09.json` | 九月可读资料与回溯日报，保留原文日期 |
+| `archive/2026-09/records.json` | 九月原始记录及恢复来源 |
+| `archive/2026-09/daily.md` | 九月日报合订本 |
 | `feed.xml` | RSS 2.0 订阅 |
 | `sih-intel.zip` | 可供 Agent 安装的 Skill |
 | `sih-intel/SKILL.md` | 接入说明与时效要求 |
@@ -106,6 +126,8 @@ npm test
 ```
 
 PowerShell 下设置 `$env:PYTHONPATH='engine/src'` 后运行相同的 Python 命令。翻译使用缓存与失败熔断，翻译不可用时保留原文。
+
+恢复历史月度资料时，使用包含完整 Git 历史的 checkout，执行 `python scripts/monthly_archive.py --month 2026-09`，再构建并运行质量门。正常定时采集只读取已保存档案，不反复扫描 Git 历史。
 
 MCP 使用独立虚拟环境安装 `integrations/mcp/requirements.txt`，再用该环境执行 `python -m unittest discover -s tests_mcp -p 'test_*.py'`。此测试启动真实 stdio 服务，验证发现工具、调用、筛选、错误与恢复；测试数据来自本地夹具，部署后仍需验证线上端点。
 

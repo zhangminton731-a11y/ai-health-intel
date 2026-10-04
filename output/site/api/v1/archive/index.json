@@ -1,0 +1,197 @@
+{
+  "months": [
+    {
+      "month": "2026-09",
+      "record_count": 762,
+      "item_count": 120,
+      "record_dates": [
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30"
+      ],
+      "editions": [
+        {
+          "date": "2026-09-30",
+          "headline": "人工智能的医疗保健“世界末日”？与其说是自治，不如说是信任",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-29",
+          "headline": "韩国搜索引擎中隐蔽宣传癌症相关内容：Naver 和 Google 的计算内容分析",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-28",
+          "headline": "低收入国家药物警戒人工智能的治理：系统视角",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-27",
+          "headline": "当人工智能出错时，谁该负责？",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 1
+        },
+        {
+          "date": "2026-09-25",
+          "headline": "人工智能使用光电体积描记法诊断阻塞性睡眠呼吸暂停的准确性：系统评价和荟萃分析",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-24",
+          "headline": "在移动健康应用程序辅助的儿童肥胖干预中，看护者应用程序的使用和儿童行为依从性与肥胖相关结果的关系：集群随机试验的二次分析",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-23",
+          "headline": "人工智能对医生技术的影响：定性访谈和焦点小组研究",
+          "minutes": 2,
+          "kind": "retrospective",
+          "count": 4
+        },
+        {
+          "date": "2026-09-22",
+          "headline": "两代人工智能临床分诊工具（传统的结构化问卷和大型语言模型的对话界面）的人口统计、临床内容、使用模式和就诊意图：比较回顾性观察研究",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-21",
+          "headline": "使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-18",
+          "headline": "采用基于放松的移动健康干预措施治疗围手术期焦虑：前瞻性纵向队列混合方法研究",
+          "minutes": 2,
+          "kind": "retrospective",
+          "count": 4
+        },
+        {
+          "date": "2026-09-17",
+          "headline": "Oura 和 Counsel Health 通过 CMS ACCESS 模式扩大合作伙伴关系",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 1
+        },
+        {
+          "date": "2026-09-16",
+          "headline": "检索然后验证以评估大语言模型生成的医学信息中的证据支持和幻觉：实证研究",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 2
+        },
+        {
+          "date": "2026-09-15",
+          "headline": "STAT+：新文件揭示了医疗保险事先授权试点的问题",
+          "minutes": 2,
+          "kind": "retrospective",
+          "count": 3
+        },
+        {
+          "date": "2026-09-14",
+          "headline": "STAT+：500 美元如何解释共和党医疗政策和 GLP-1 Rx 浪潮",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 1
+        },
+        {
+          "date": "2026-09-11",
+          "headline": "这位由医生转型的初创公司创始人如何决定解决医疗保健人员短缺问题：让雇主申请",
+          "minutes": 2,
+          "kind": "retrospective",
+          "count": 3
+        },
+        {
+          "date": "2026-09-10",
+          "headline": "基于人工智能的计算机断层扫描成像中创伤性脑损伤的识别和量化方法：系统评价",
+          "minutes": 3,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-09",
+          "headline": "Oura Ring 被选为洛杉矶道奇队官方健康可穿戴设备",
+          "minutes": 2,
+          "kind": "retrospective",
+          "count": 5
+        },
+        {
+          "date": "2026-09-08",
+          "headline": "Oura IPO 申请的 5 个要点",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 2
+        },
+        {
+          "date": "2026-09-05",
+          "headline": "意见：STAT 读者对 M.D. 与 D.O.、医学人工智能、代孕等的看法",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 1
+        },
+        {
+          "date": "2026-09-04",
+          "headline": "Vara 首次自主乳腺癌筛查获得 CE 标志",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 1
+        },
+        {
+          "date": "2026-09-03",
+          "headline": "STAT+：OpenEvidence 推出新的人工智能模型系列",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 4
+        },
+        {
+          "date": "2026-09-02",
+          "headline": "意见：下一个 DSM 应解决算法在饮食失调中的作用",
+          "minutes": 1,
+          "kind": "retrospective",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}
