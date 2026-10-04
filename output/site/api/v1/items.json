@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T10:15:11+00:00",
+  "generated_at": "2026-10-04T13:12:06+00:00",
   "as_of": "2026-10-04",
   "count": 18,
   "items": [
@@ -750,7 +750,9 @@
         "observed_in_sources": [
           "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-10-04T10:15:11+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
@@ -996,7 +998,9 @@
         "observed_in_sources": [
           "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-10-04T10:15:11+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
@@ -2081,7 +2085,9 @@
         "observed_in_sources": [
           "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-10-04T10:15:11+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
