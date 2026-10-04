@@ -24,7 +24,7 @@ def load_profile(path: Path) -> dict[str, Any]:
 
 def _endpoint(provider: Mapping[str, Any]) -> str:
     endpoint_env = text(provider.get("endpoint_env"))
-    endpoint = os.environ.get(endpoint_env, "") if endpoint_env else text(provider.get("endpoint"))
+    endpoint = text(os.environ.get(endpoint_env, "")) if endpoint_env else text(provider.get("endpoint"))
     parsed = urlsplit(endpoint)
     if parsed.scheme not in {"http", "https"} or not parsed.netloc:
         raise ValueError("LLM endpoint must be an explicit http(s) URL or endpoint_env")
