@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T23:47:05+00:00",
+  "generated_at": "2026-10-04T03:31:00+00:00",
   "as_of": "2026-10-04",
   "item_ids": [
     "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
@@ -53,7 +53,8 @@
       "date": "2026-09-28",
       "item_ids": [
         "url:https://ai.jmir.org/2026/1/e93900/",
-        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/"
+        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
+        "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/"
       ],
       "minutes": 2
     },
@@ -67,6 +68,7 @@
     {
       "date": "2026-09-25",
       "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e85047/",
         "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/"
       ],
       "minutes": 1

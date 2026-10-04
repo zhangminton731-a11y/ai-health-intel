@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-04
 
-> Daily status: **complete** · sources 17/17 · items 238
+> Daily status: **complete_with_warning** · sources 16/17 · items 229
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -14,7 +14,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 Background: Periodontitis is one of the most prevalent yet preventable oral diseases, as indicated by multiple clinical and radiographic factors. As these factors are recorded in electronic health records (EHRs), their reuse offers opportunities for personalized risk assessment and targeted prevention. Predictive AI and traditional machine learning models support fragmented detection tasks but lack the integration of textual and imaging predictors. Emerging multimodal large language models (M-LLMs) show promise in combining these data sources for clinical assessment. Evaluating the capabilities of M-LLMs and comparing them against the current clinical standard are therefore essential to determine their potential as digital assistants. Objective: This study aimed to evaluate the ability of M-LLMs to assess periodontitis risk and suggest prevention strategies, based on EHR data and radiographic findings. Each M-LLM was individually evaluated by periodontal experts, benchmarked against other models, and compared with a periodontist as a reference. Methods: A vignette study was conducted following TRIPOD (Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis) guidelines for the evaluation of LLMs. Ten periodontal vignettes were created, each including a panoramic radiograph and textual EHR data. Three LLMs capable of reasoning and handling multimodal data were compared to a periodontist who generated outputs manually, based on the same prompts and input data. Periodontal experts rated all outputs across 6 predefined criteria on a 5-point Likert scale. Statistical analyses evaluated overall performance per model and tested whether performance varied per model, scenario complexity, or rater. Results: GPT o1 Pro and Claude Sonnet 4 showed strong performance, with 86.7% and 85.6% of ratings deemed acceptable—comparable to the periodontist’s output (87.8%). Gemini 2.5 Pro was rated significantly lower than both the periodontist and the other models (59.4% acceptable; &lt;.002). Radiographic interpretation consistently received lower scores than other abilities across all models and the periodontist, with Gemini rated below the acceptable threshold. The time required for completion ranged from approximately 10 seconds for Claude to 37 seconds for Gemini; 3 minutes, 22 seconds, for GPT; and 5 minutes, 57 seconds, for the periodontist. Conclusions: M-LLMs demonstrated strong reasoning abilities in periodontal assessment. Across all models, unacceptable elements were consistently related to errors in radiographic interpretation, though refined prompting or newer model versions may improve this. Notably, even when radiographic findings were incorrect and plaque-retentive factors were absent, outputs were still rated well, indicating that EHR data alone provide a substantial basis. For clinical applicability, M-LLMs must at least perform comparably to a periodontist and meet the quality standards set by periodontal experts—a bar that GPT and Claude appear to approach. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5" />
 
-## Scan · 11
+## Scan · 25
 
 ### [DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens](https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/)
 
@@ -39,14 +39,6 @@ Background: Periodontitis is one of the most prevalent yet preventable oral dise
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e94617`
 
 Background: Surgical site infections (SSIs) remain a major cause of health care–associated infections, and early prediction is essential for improving patient outcomes. Machine learning (ML) has shown potential for SSI prediction; however, clinical implementation requires models that are both accurate and explainable. Despite recent progress in explainable ML, its clinical application to SSI prediction remains limited. Objective: This study aimed to map explainable ML models for SSI prediction from a clinical perspective and examine their use of structured and unstructured data across the dimensions of data, methodology, and explanation output. Methods: We conducted a scoping review following PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) and Joanna Briggs Institute (JBI) guidance, and registered the protocol in PROSPERO. Six databases were searched for eligible studies published from January 2010 onward, without language restrictions. The search was conducted on August 9, 2025, and updated on July 14, 2026. We included studies that developed or validated an explainable ML model for predicting SSI in adults. Two reviewers (RS and YL) independently screened studies and extracted data. Findings were narratively synthesized and presented in evidence maps. Methodological quality was assessed using the PROBAST+AI (Prediction model Risk Of Bias Assessment Tool for prediction models using regression or artificial intelligence) methods. Results: Overall, 77 studies reporting 98 ML models were included. Most models were prognostic (72/98, 73.5%), whereas 26 focused on postoperative SSI diagnosis. A total of 81.8% (63/77) of studies addressed a single surgical specialty, most commonly gastrointestinal surgery (27/63, 42.9%). Overall, 51.9% (40/77) of studies addressed composite SSI predictions. Among all models, % (40/98) were black-box models explained by post hoc methods; SHAP combined with ensemble learning was the leading approach (18/40, 45%). Regression models accounted for half of the inherently interpretable models, interpreted using coefficients. Prognostic models commonly included health and lifestyle (60/72, 83.3%), individual characteristics, and surgical process details (both 57/72, 79.2%); health and lifestyle factors were most frequently important across SSI types. Diagnostic models commonly included surgical process details (13/26, 50%), administrative codes, and individual characteristics (both 10/26, 38.5%). Key diagnostic predictors varied by SSI types: postoperative clinical interventions predominated for composite SSI; vital signs, postoperative interventions, and administrative codes for superficial SSI; postoperative recovery status for deep SSI; and vital signs for organ-space SSI. Conclusions: Extending previous reviews focusing on model performance, this review mapped explainability methods and important features in SSI prediction, identifying recurring predictor patterns and substantial methodological heterogeneity across prognostic and diagnostic settings. Incomplete reporting of feature definitions and explanatory rationale, together with limited clinical relevance, constrained clinical interpretation and actionability. Clinician-informed reporting frameworks and validation of explanation fidelity and clinical relevance are needed to improve the trustworthiness and utility of SSI prediction models. Trial Registration: PROSPERO CRD420251124760; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251124760 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/410715e495876fbcbd4aab33069d2685" />
-
-### [Low-power wireless communication technologies empower wearable healthcare monitoring](https://www.nature.com/articles/s41746-026-03256-3)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.53` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
-
-No summary supplied by the source.
 
 ### [AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust](https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/)
 
@@ -103,8 +95,6 @@ Background: The rapid advancement of AI, particularly generative AI (GenAI), is 
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/`
 
 <p>Trial operators are increasingly incorporating imaging tools and related artificial intelligence (AI)-based tools into their study protocols.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/">Brainomix’s e-Lung shows progression and treatment response in Phase III trial </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-## Hold · 12
 
 ### [Biomedical Research Images Manipulated by Generative AI to Alter Scientific Outcomes: Diagnostic Study of Human and Automated Detection](https://www.jmir.org/article/view/jmir_v28i1e100710)
 
@@ -202,7 +192,35 @@ Medical AI is often evaluated using aggregate measures of discrimination, calibr
 
 <p><a href="https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode of the MedCity Pivot Podcast, CEO Priya Abani talks about the evolution of AliveCor, one of the earliest digital health companies. </p> <p>The post <a href="https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/">MedCity Pivot Podcast: A Conversation With AliveCor&#8217;s Priya Abani</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-## Archive · 214
+### [Do Androids Dream of Lived Experience? Navigating Risks, Uncertainty, and Best Practices Around Generative AI in Patient and Public Involvement and Engagement](https://www.jmir.org/article/view/jmir_v28i1e96621)
+
+- Source: `jmir` · published `2026-09-30` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e96621`
+
+International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb" />
+
+### [Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study](https://ai.jmir.org/2026/1/e85047/)
+
+- Source: `jmir_ai` · published `2026-09-25` · freshness `fresh`
+- Topic relevance: `0.0` · novelty hint: `0.0`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e85047/`
+
+Background: Antiseizure medications (ASMs) are the mainstay of epilepsy treatment; however, there is currently no reliable way to predict which medication will be most effective for an individual patient. Machine learning (ML) approaches are increasingly being explored to support personalized ASM selection, but successful implementation will depend on acceptance by both people with epilepsy and treating neurologists. Understanding factors influencing acceptability of ML in clinical decision-making is therefore critical to support engagement, trust, and adherence. The extended unified theory of acceptance and use of technology (UTAUT2) framework has previously been applied to evaluate acceptance of health care technologies, but its suitability for ML-supported ASM selection has not been established. Objective: The objective of this study was to co-design a UTAUT2-based questionnaire to measure ML technology acceptability that is suitable for use in a clinical trial. Methods: Adults living with epilepsy and prescribing neurologists were recruited using purposive sampling to participate in a co-design process evaluating the relevance, comprehensiveness, and clarity of the UTAUT2 framework in this clinical context. Participants completed an online survey that collected structured feedback on existing UTAUT2 constructs and identified additional factors influencing ML acceptance. Quantitative responses were analyzed descriptively, and qualitative responses were analyzed thematically to inform adaptation of the framework and development of a context-specific ML acceptability questionnaire. Results: A total of 32 participants completed the survey, including 22 (68.8%) adults living with epilepsy and 10 (31.2%) neurologists. While participants considered core UTAUT2 constructs relevant, qualitative feedback identified additional domains influencing ML acceptance, including emotional attitudes, perceived risks, knowledge enhancement, conflicts in shared decision-making, and contextual factors such as workplace policy and regulation. On the basis of this feedback, the ML acceptability questionnaire for ASM selection retained relevant UTAUT2 domains and incorporated additional constructs addressing trust and perceived risk. Other themes provided contextual insights for interpretation of ML acceptability and future implementation. Conclusions: This study highlights the importance of co-design when adapting existing frameworks to the specific clinical context. The co-designed ML acceptance questionnaire for ASM selection developed in this study can be used to evaluate the acceptability of ML technology in the field of epilepsy, strengthening future trials and supporting ongoing technology development. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a4f70baf3d166f67a039e2c13cd6431f" />
+
+### [Hospital and Payer AI Governance Is at a Crossroads](https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/)
+
+- Source: `medcity_news` · published `2026-09-28` · freshness `fresh`
+- Topic relevance: `0.0` · novelty hint: `0.25`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/`
+
+<p><a href="https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>[Sponsored] Research from MedCity News and Cotiviti shows robust AI adoption by payers and providers, but what steps are they taking for AI governance and AI weaponized cybersecurity threats? </p> <p>The post <a href="https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/">Hospital and Payer AI Governance Is at a Crossroads</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+## Hold · 0
+
+No items.
+
+## Archive · 203
 
 ### [Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health](https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/)
 
@@ -307,6 +325,14 @@ Eli Lilly is launching LillyDirect to deliver Mounjaro straight to Australian pa
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/`
 
 Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.
+
+### [Low-power wireless communication technologies empower wearable healthcare monitoring](https://www.nature.com/articles/s41746-026-03256-3)
+
+- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.53` · novelty hint: `0.0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
+
+No summary supplied by the source.
 
 ### [Our Project Suncatcher prototype satellite is in orbit.](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)
 
@@ -1380,14 +1406,6 @@ Notice NOT-OD-26-131 from the NIH Guide for Grants and Contracts
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
 
-### [A synthetic lethal drug for microsatellite instability cancers](https://www.nature.com/articles/s41591-026-04693-z)
-
-- Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04693-z`
-
-No summary supplied by the source.
-
 ### [AstraZeneca Places a $2B Bet on a Summit Therapeutics Cancer Drug](https://medcitynews.com/2026/09/astrazeneca-summit-therapeutics-gastrointestinal-cancer-pd-1-vegf-bispecific-antibody-adc-combination-smmt-azn/)
 
 - Source: `medcity_news` · published `2026-09-29` · freshness `fresh`
@@ -1428,14 +1446,6 @@ Final Cut Camera gets a major update with a new design, support for variable ape
 
 Apple today introduced updates to Apple Creator Studio, its groundbreaking collection of creative and productivity apps.
 
-### [Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial](https://www.nature.com/articles/s41591-026-04651-9)
-
-- Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04651-9`
-
-No summary supplied by the source.
-
 ### [The Illegal Drug Marketplace in Your Patients’ Pockets](https://medcitynews.com/2026/09/the-illegal-drug-marketplace-in-your-patients-pockets/)
 
 - Source: `medcity_news` · published `2026-09-29` · freshness `fresh`
@@ -1460,14 +1470,6 @@ No summary supplied by the source.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/International_Translate_Day_Blo.max-600x600.format-webp.webp">On International Translation Day, learn how members of our team bring cultural nuance to Translate to connect people globally.
 
-### [Do Androids Dream of Lived Experience? Navigating Risks, Uncertainty, and Best Practices Around Generative AI in Patient and Public Involvement and Engagement](https://www.jmir.org/article/view/jmir_v28i1e96621)
-
-- Source: `jmir` · published `2026-09-30` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e96621`
-
-International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb" />
-
 ### [Gemini 4 Argon: our next era of frontier intelligence](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
 
 - Source: `fitbit_google_blog` · published `2026-09-30` · freshness `fresh`
@@ -1483,14 +1485,6 @@ International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="
 - Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp">Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.
-
-### [Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial](https://www.nature.com/articles/s41591-026-04705-y)
-
-- Source: `nature_medicine` · published `2026-09-30` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04705-y`
-
-No summary supplied by the source.
 
 ### [Let skills in Gemini tackle your most repetitive tasks](https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/)
 
@@ -1587,22 +1581,6 @@ Notice NOT-CA-26-020 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss`
 
 Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.
-
-### [Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial](https://www.nature.com/articles/s41591-026-04674-2)
-
-- Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04674-2`
-
-No summary supplied by the source.
-
-### [Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)](https://www.nature.com/articles/s41591-026-04677-z)
-
-- Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04677-z`
-
-No summary supplied by the source.
 
 ### [Guided Vision in Gemini Live: built for accessibility](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/)
 
@@ -1756,14 +1734,6 @@ The law has to catch up on the 340B drug discount program, writes a pharmacist.
 
 Crunchbase News Research Lead Gené Teare moderated panels and spoke with leaders building Europe and the Middle East’s AI ecosystems at HumanX in Amsterdam. Here we share a snippet of her conversation with Axelera AI CEO Fabrizio Del Maffeo and AI71 CPTO Mehdi Ghissassi.
 
-### [Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial](https://www.nature.com/articles/s41591-026-04675-1)
-
-- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04675-1`
-
-No summary supplied by the source.
-
 ### [STAT+: Pharmalittle: We’re reading about the 340B drug pilot program, an obesity drug disappointment, and more](https://www.statnews.com/pharmalot/2026/10/02/340b-drug-pilot-program-boehringer-zealand-obesity-trial/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-02` · freshness `fresh`
@@ -1788,22 +1758,6 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp">Here are Google’s latest AI updates from September 2026
 
-### [The missing links in agentic AI autonomy](https://www.nature.com/articles/s41591-026-04658-2)
-
-- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04658-2`
-
-No summary supplied by the source.
-
-### [Urine cell-free RNA for bladder cancer detection and treatment response prediction](https://www.nature.com/articles/s41591-026-04673-3)
-
-- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04673-3`
-
-No summary supplied by the source.
-
 ### [What it’s like to wait for the call from the Nobel Prize committee](https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-02` · freshness `fresh`
@@ -1820,11 +1774,11 @@ Ahead of this year's Nobel Prize announcements, STAT chatted with Mary-Claire Ki
 
 For startup founders, the goal shouldn’t be assembling a cap table filled with whoever was willing to invest, but rather intentionally constructed around investors who bring different forms of value. Guest author Antonia Dean, a partner at Black Operator Ventures, shares three things founders should look for in their investors.
 
-### [Brain signatures of body mass index&#xa0;predict cardiometabolic and respiratory disease status](https://www.nature.com/articles/s41746-026-03227-8)
+### [Brain signatures of body mass index predict cardiometabolic and respiratory disease status](https://www.nature.com/articles/s41746-026-03227-8)
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
 
 No summary supplied by the source.
 
@@ -1840,17 +1794,9 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
 
 No summary supplied by the source.
-
-### [Apple Confirms iPhone 18 Pro Max AT&T Issues, Devices Require Replacement](https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues)
-
-- Source: `hn_ai_health_signals` · published `2026-10-03` · freshness `fresh`
-- Topic relevance: `0.03` · novelty hint: `0.0`
-- Event: `new` · identity: `url:https://daringfireball.net/linked/2026/10/03/iphone-18-pro-max-att-issues`
-
-Hacker News community signal; score 7.
 
 ### [STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers](https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss)
 
@@ -1859,22 +1805,6 @@ Hacker News community signal; score 7.
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss`
 
 The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 fiscal year.
-
-### [Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study](https://ai.jmir.org/2026/1/e85047/)
-
-- Source: `jmir_ai` · published `2026-09-25` · freshness `fresh`
-- Topic relevance: `0.0` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e85047/`
-
-Background: Antiseizure medications (ASMs) are the mainstay of epilepsy treatment; however, there is currently no reliable way to predict which medication will be most effective for an individual patient. Machine learning (ML) approaches are increasingly being explored to support personalized ASM selection, but successful implementation will depend on acceptance by both people with epilepsy and treating neurologists. Understanding factors influencing acceptability of ML in clinical decision-making is therefore critical to support engagement, trust, and adherence. The extended unified theory of acceptance and use of technology (UTAUT2) framework has previously been applied to evaluate acceptance of health care technologies, but its suitability for ML-supported ASM selection has not been established. Objective: The objective of this study was to co-design a UTAUT2-based questionnaire to measure ML technology acceptability that is suitable for use in a clinical trial. Methods: Adults living with epilepsy and prescribing neurologists were recruited using purposive sampling to participate in a co-design process evaluating the relevance, comprehensiveness, and clarity of the UTAUT2 framework in this clinical context. Participants completed an online survey that collected structured feedback on existing UTAUT2 constructs and identified additional factors influencing ML acceptance. Quantitative responses were analyzed descriptively, and qualitative responses were analyzed thematically to inform adaptation of the framework and development of a context-specific ML acceptability questionnaire. Results: A total of 32 participants completed the survey, including 22 (68.8%) adults living with epilepsy and 10 (31.2%) neurologists. While participants considered core UTAUT2 constructs relevant, qualitative feedback identified additional domains influencing ML acceptance, including emotional attitudes, perceived risks, knowledge enhancement, conflicts in shared decision-making, and contextual factors such as workplace policy and regulation. On the basis of this feedback, the ML acceptability questionnaire for ASM selection retained relevant UTAUT2 domains and incorporated additional constructs addressing trust and perceived risk. Other themes provided contextual insights for interpretation of ML acceptability and future implementation. Conclusions: This study highlights the importance of co-design when adapting existing frameworks to the specific clinical context. The co-designed ML acceptance questionnaire for ASM selection developed in this study can be used to evaluate the acceptability of ML technology in the field of epilepsy, strengthening future trials and supporting ongoing technology development. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a4f70baf3d166f67a039e2c13cd6431f" />
-
-### [Hospital and Payer AI Governance Is at a Crossroads](https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/)
-
-- Source: `medcity_news` · published `2026-09-28` · freshness `fresh`
-- Topic relevance: `0.0` · novelty hint: `0.25`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/`
-
-<p><a href="https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>[Sponsored] Research from MedCity News and Cotiviti shows robust AI adoption by payers and providers, but what steps are they taking for AI governance and AI weaponized cybersecurity threats? </p> <p>The post <a href="https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/">Hospital and Payer AI Governance Is at a Crossroads</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Drug delivery’s next bottleneck isn’t innovation, it’s industrial capacity](https://www.medicaldevice-network.com/sponsored/drug-deliverys-next-bottleneck-isnt-innovation-its-industrial-capacity/)
 

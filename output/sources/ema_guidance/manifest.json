@@ -1,14 +1,30 @@
 {
   "checks": [
     {
+      "attempt": 1,
+      "bytes_read": 9488,
+      "content_type": "application/rss+xml",
+      "elapsed_ms": 979,
+      "error_code": null,
+      "final_url": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
+      "http_status": 200,
+      "kind": "rss_fetch",
+      "response_kind": "feed"
+    },
+    {
       "count": 9,
       "kind": "rss_atom"
     }
   ],
+  "consecutive_failures": 0,
+  "elapsed_ms": 979,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-03T23:47:05+00:00",
+  "generated_at": "2026-10-04T03:31:00+00:00",
   "item_count": 9,
+  "last_checked_at": "2026-10-04T03:31:00+00:00",
+  "last_success_at": "2026-10-04T03:31:00+00:00",
+  "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "ema_guidance",

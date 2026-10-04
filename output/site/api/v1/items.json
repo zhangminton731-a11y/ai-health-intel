@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T23:47:05+00:00",
+  "generated_at": "2026-10-04T03:31:00+00:00",
   "as_of": "2026-10-04",
-  "count": 24,
+  "count": 26,
   "items": [
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
@@ -157,42 +157,6 @@
       "recommendation_reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03256-3",
-      "title": "低功耗无线通信技术赋能可穿戴医疗保健监控",
-      "original_title": "Low-power wireless communication technologies empower wearable healthcare monitoring",
-      "summary": "",
-      "url": "https://www.nature.com/articles/s41746-026-03256-3",
-      "source": "npj Digital Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03256-3"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       }
     },
     {
@@ -903,6 +867,118 @@
       "categories": {
         "industry": [
           "overview"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96621",
+      "title": "仿生人是否梦想着生活体验？围绕患者和公众参与和参与的生成人工智能的风险、不确定性和最佳实践",
+      "original_title": "Do Androids Dream of Lived Experience? Navigating Risks, Uncertainty, and Best Practices Around Generative AI in Patient and Public Involvement and Engagement",
+      "summary": "国际注册报告标识符 (IRRID)：RR2-10.2196/49303",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e96621",
+      "source": "Journal of Medical Internet Research",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-30",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96621"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e85047/",
+      "title": "接受机器学习用于癫痫药物选择，为临床试验设计提供信息：联合设计调查研究",
+      "original_title": "Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study",
+      "summary": "结论：这项研究强调了在使现有框架适应特定临床环境时协同设计的重要性。本研究中开发的用于 ASM 选择的共同设计的 ML 接受调查问卷可用于评估 ML 技术在癫痫领域的可接受性，加强未来的试验并支持正在进行的技术开发。结果：共有 32 名参与者完成了调查，其中包括 22 名（68.8%）成人癫痫患者和 10 名（31.2%）神经科医生。虽然参与者认为核心 UTAUT2 构造相关，但定性反馈确定了影响 ML 接受度的其他领域，包括情感态度、感知风险、知识增强、共同决策中的冲突以及工作场所政策和监管等背景因素。",
+      "url": "https://ai.jmir.org/2026/1/e85047/",
+      "source": "JMIR AI",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-25",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e85047/"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
+        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      }
+    },
+    {
+      "id": "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
+      "title": "医院和付款人人工智能治理正处于十字路口",
+      "original_title": "Hospital and Payer AI Governance Is at a Crossroads",
+      "summary": "[赞助] MedCity News 和 Cotiviti 的研究表明，付款人和提供商大力采用人工智能，但他们针对人工智能治理和人工智能武器化网络安全威胁采取了哪些措施？",
+      "url": "https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
+      "source": "MedCity News",
+      "source_type": "专业媒体",
+      "published_at": "2026-09-28",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "medcity_news"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medcity_news",
+        "upstream_id": "https://medcitynews.com/?p=150239"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
         ]
       },
       "research_stages": [],
