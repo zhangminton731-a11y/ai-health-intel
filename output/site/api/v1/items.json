@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T13:12:06+00:00",
-  "as_of": "2026-10-04",
-  "count": 18,
+  "generated_at": "2026-10-04T17:35:01+00:00",
+  "as_of": "2026-10-05",
+  "count": 17,
   "items": [
     {
       "id": "pmid:42814954",
@@ -242,127 +242,6 @@
           }
         ],
         "score": 82,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42785338",
-      "title": "粪便微生物移植治疗肠易激综合征 (REFIT2)：一项随机、双盲、安慰剂对照 3 期试验。",
-      "original_title": "Faecal microbiota transplantation in irritable bowel syndrome (REFIT2): a randomised, double-blind, placebo-controlled, phase 3 trial.",
-      "summary": "背景肠道微生物群组成可能在肠易激综合征（IBS）的发病机制中发挥作用，粪便微生物群移植已被提议作为患有这种疾病的个体恢复健康肠道微生物群的一种手段。我们的目的是研究粪便微生物群移植对 IBS 患者的有效性和安全性。方法 在挪威五家医院进行的这项平行组、随机、双盲、安慰剂对照 3 期试验中，我们招募了 18-65 岁患有中重度 IBS 的男性和女性。 IBS 诊断根据罗马 IV 标准和 IBS-Severity Scoring System (IBS-SSS) 评分为 175 分或更高来定义。",
-      "url": "https://doi.org/10.1016/s0140-6736(26)01424-8",
-      "source": "The Lancet · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-24",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42785338",
-        "upstream_id": "42785338"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
-      },
-      "reading_value_score": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:20+00:00",
-        "input_hash": "0352fe71517cd3ebd423f32d9553c03998318c48ae0b349f273f78a2269a893a",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100416220764b4c54205ca4a31",
-              "seconds": 4.33,
-              "usage": {
-                "completion_tokens": 177,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1443,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1620
-              }
-            },
-            "support": "119 (40%) participants in the donor faecal microbiota transplantation group and 57 (38%) in the placebo group showed an improvement of at least 75 points on the IBS-SSS at 90 days after treatment.",
-            "total": 73
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "Phase 3 双盲随机对照试验以高质量设计（450例、自体粪便安慰剂对照）阴性结果明确否定了单次直肠FMT对中重度IBS的临床获益，对肠道菌群研究、试验设计和临床决策均有实质参考价值；主要局限为仅单次给药方案，不能排除重复给药策略的差异性。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162216845c62bed9c2405d",
-              "seconds": 9.39,
-              "usage": {
-                "completion_tokens": 159,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1443,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1602
-              }
-            },
-            "support": "The trial did not show a clinical benefit of faecal microbiota transplantation in patients with IBS. These findings suggest that microbiota modulation alone might be insufficient for symptom improveme",
-            "total": 82
-          }
-        ],
-        "score": 77,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -745,14 +624,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T10:15:11+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
@@ -873,7 +750,9 @@
         "observed_in_sources": [
           "npj_digital_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-10-04T13:12:06+00:00",
         "source_id": "npj_digital_medicine",
         "summary_source": "https://www.nature.com/articles/s41746-026-03272-3",
         "upstream_id": "https://www.nature.com/articles/s41746-026-03272-3"
@@ -993,14 +872,12 @@
         "consumer",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T10:15:11+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
@@ -2080,14 +1957,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T10:15:11+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
