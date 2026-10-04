@@ -162,6 +162,22 @@
       "required": false,
       "url": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
       "max_results": 100
+    },
+    {
+      "id": "jmir_mhealth",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://mhealth.jmir.org/feed/atom",
+      "max_results": 100
+    },
+    {
+      "id": "jmir_medinform",
+      "kind": "rss",
+      "enabled": true,
+      "required": false,
+      "url": "https://medinform.jmir.org/feed/atom",
+      "max_results": 100
     }
   ],
   "llm": {

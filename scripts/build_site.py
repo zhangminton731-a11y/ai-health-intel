@@ -25,12 +25,15 @@ from daily_digest import build_issues, issue_text, build_publication
 from reader_context import reasons, update_history
 from publication import current_items as select_current, coverage
 from site_assets import extract_assets
+from monthly_archive import export_archives
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
 SITE_NAME = "奇点医研"
 
 SOURCE_META = {
+    "jmir_mhealth": ("JMIR mHealth and uHealth", "期刊论文", "期刊论文", 3),
+    "jmir_medinform": ("JMIR Medical Informatics", "期刊论文", "期刊论文", 3),
     "ema_guidance": ("EMA 监管与程序指南", "官方机构", "官方机构", 3),
     "jmir": ("Journal of Medical Internet Research", "期刊论文", "期刊论文", 3),
     "jmir_ai": ("JMIR AI", "期刊论文", "期刊论文", 3),
@@ -302,6 +305,7 @@ def build(*, as_of: date | None = None) -> None:
     briefing = issue_text(daily_issues[0] if daily_issues else None, by_id, as_of)
 
     site_data = {
+        "archiveMonths": export_archives(OUTPUT, profile, tr, build_data),
         "name": SITE_NAME, "asOf": as_of,
         "generatedAt": health.get("generated_at", ""),
         "coverage": coverage(items, build_date),
@@ -334,6 +338,7 @@ def build(*, as_of: date | None = None) -> None:
     print("✅ 中文日报已生成: daily_briefing_cn.md")
     assets = OUTPUT/'site/assets'; assets.mkdir(exist_ok=True)
     shutil.copyfile(ROOT/'assets/community-qr.png', assets/'community-qr.png')
+    shutil.copyfile(ROOT/'assets/brand-symbol.svg', assets/'brand-symbol.svg')
     export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 

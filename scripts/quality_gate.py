@@ -96,6 +96,27 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if not 1 <= len(ids) <= 5 or len(set(ids)) != len(ids):problems.append('日报条数或去重异常')
             if any(iid not in current or current[iid]['date'] != edition['date'] for iid in ids):problems.append('日报包含非当日或不合格条目')
         rss=ET.parse(output/'site/feed.xml')
+        for month in payload.get('archiveMonths', []):
+            key = month['month']
+            if not re.fullmatch(r'\d{4}-(0[1-9]|1[0-2])', key):
+                problems.append('月度档案名称异常')
+                continue
+            archive = json.loads((output/'site/api/v1/archive'/f'{key}.json').read_text(encoding='utf-8'))
+            raw = json.loads((output/'archives'/f'{key}.json').read_text(encoding='utf-8'))
+            originals = {row['item_id']: row for row in raw['records']}
+            archived = {row['id']: row for row in archive['items']}
+            if archive['kind'] != 'retrospective' or archive['month'] != key or len(archived) != month['item_count']:
+                problems.append('月度档案统计或类型不一致')
+            for row in archive['items']:
+                original = originals.get(row['id'], {})
+                if row['u'] != original.get('url') or row['date'] != original.get('published_at') or not row['date'].startswith(key+'-') or row.get('archiveMonth') != key:
+                    problems.append('月度档案原文或日期不一致')
+            if len(raw['records']) != month['record_count']:
+                problems.append('月度档案原始记录数不一致')
+            for issue in archive['editions']:
+                ids = issue['item_ids']
+                if issue.get('kind') != 'retrospective' or not 1 <= len(ids) <= 5 or len(set(ids)) != len(ids) or any(iid not in archived or archived[iid]['date'] != issue['date'] for iid in ids):
+                    problems.append('历史日报含非当日、重复或未知条目')
         if 'historyItems' in payload:
             historical=payload['historyItems']
             originals={i['item_id']:i for i in map(json.loads,(output/'history_items.jsonl').read_text(encoding='utf-8').splitlines())}
