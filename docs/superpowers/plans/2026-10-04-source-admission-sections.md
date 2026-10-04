@@ -12,4 +12,4 @@
 - [x] Add a reusable `scripts/audit_sources.py` for latest-ten sampling and explicit admission outcomes. Test time ordering, duplicates, insufficient sample, exactly-three pass, below threshold and failed reviews.
 - [x] Probe candidate publisher feeds, score frozen samples with production GLM/weights, publish an article-level audit and integrate only passing feeds into source config and metadata.
 - [x] Re-evaluate the current batch, render distinct section introductions/reasons, and enforce one section in publication validation. Check live article ID overlap is zero.
-- [ ] Run engine/project/DOM tests, quality gate and browser checks. Publish a reviewed GitHub change, run cloud aggregation and verify the deployed API and both sections.
+- [x] Run engine/project/DOM tests, quality gate and browser checks. Publish a reviewed GitHub change, run cloud aggregation and verify the deployed API and both sections.

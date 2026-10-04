@@ -28,7 +28,16 @@ def problems(health: dict, now: datetime) -> list[str]:
         issues.append('距上次成功采集超过 36 小时，或时间异常')
     if local.hour >= 9 and stamp.astimezone(CST).date() < local.date():
         issues.append('今天的早间更新尚未上线')
-    if health.get('daily_status') != 'complete':
+    sources = [s for s in health.get('sources', []) if s.get('enabled')]
+    sources_ok = bool(sources) and all(s.get('status') in {'ok', 'ok_no_updates'} for s in sources)
+    counts = health.get('editorial', {}).get('counts', {})
+    model_failed = counts.get('failed', 0) or counts.get('unconfigured', 0)
+    review_only = (sources_ok and counts.get('needs_review', 0) > 0 and not model_failed
+                   and set(counts) <= {'scored', 'ineligible', 'insufficient_material', 'needs_review'})
+    if model_failed:
+        issues.append('部分内容模型评分失败或未配置')
+    if health.get('daily_status') != 'complete' and not (
+            sources_ok and (model_failed or (health.get('daily_status') == 'complete_with_warning' and review_only))):
         issues.append('部分信源采集异常')
     return issues
 
@@ -137,6 +146,9 @@ def main() -> int:
         print(alert_message(issues, health))
     else:
         print('线上批次正常。')
+        pending = health.get('editorial', {}).get('counts', {}).get('needs_review', 0)
+        if pending:
+            print(f'编辑待复核：{pending} 条；存在评分或栏目分歧，已暂缓发布。')
     try:
         notify_if_needed(issues, health, now, args.state_file)
     except Exception:
