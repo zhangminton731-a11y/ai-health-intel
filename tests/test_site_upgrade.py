@@ -60,6 +60,12 @@ class SourceTests(unittest.TestCase):
         self.assertEqual(1, len(result.items))
         self.assertEqual('2026-09-26', result.items[0]['published_at'])
 
+    def test_nested_rss_title_and_month_first_date_are_readable(self):
+        result, _ = self.collect(['<rss><channel><item><title><a href="/story">Health service launches</a></title><link>https://example.org/story</link><pubDate>Oct 2, 2026 2:37pm</pubDate><description>Source summary.</description></item></channel></rss>'])
+        row = normalize_item(result.items[0], {'id': 'test', 'kind': 'rss'})
+        self.assertEqual('Health service launches', row['title'])
+        self.assertEqual('2026-10-02', row['published_at'])
+
     def test_atom_prefers_article_over_self(self):
         result, _ = self.collect(['<feed xmlns="http://www.w3.org/2005/Atom"><entry><id>x</id><title>Health device</title><link rel="self" href="https://example.org/api/x"/><link rel="alternate" href="https://example.org/article"/><published>2026-09-26</published></entry></feed>'])
         self.assertEqual('https://example.org/article', result.items[0]['url'])

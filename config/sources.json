@@ -9,7 +9,8 @@
       "required": true,
       "role": "primary",
       "url": "https://www.medtechdive.com/feeds/news/",
-      "max_results": 100
+      "max_results": 100,
+      "article_metadata": "dive_brief"
     },
     {
       "id": "stat_news_feed",
@@ -178,6 +179,65 @@
       "required": false,
       "url": "https://medinform.jmir.org/feed/atom",
       "max_results": 100
+    },
+    {
+      "enabled": true,
+      "id": "nejm_abstracts",
+      "journal_issn": "0028-4793",
+      "kind": "europe_pmc",
+      "lookback_days": 90,
+      "max_results": 30,
+      "required": false,
+      "admission_report": "docs/source-admission-2026-10-04-editorial.json"
+    },
+    {
+      "enabled": true,
+      "id": "lancet_abstracts",
+      "journal_issn": "0140-6736",
+      "kind": "europe_pmc",
+      "lookback_days": 90,
+      "max_results": 30,
+      "required": false,
+      "admission_report": "docs/source-admission-2026-10-04-editorial.json"
+    },
+    {
+      "enabled": true,
+      "id": "jama_abstracts",
+      "journal_issn": "0098-7484",
+      "kind": "europe_pmc",
+      "lookback_days": 90,
+      "max_results": 30,
+      "required": false,
+      "admission_report": "docs/source-admission-2026-10-04-editorial.json"
+    },
+    {
+      "enabled": true,
+      "id": "annals_internal_abstracts",
+      "journal_issn": "0003-4819",
+      "kind": "europe_pmc",
+      "lookback_days": 90,
+      "max_results": 30,
+      "required": false,
+      "admission_report": "docs/source-admission-2026-10-04-editorial.json"
+    },
+    {
+      "enabled": true,
+      "id": "bmj_abstracts",
+      "journal_issn": "0959-8138",
+      "kind": "europe_pmc",
+      "lookback_days": 90,
+      "max_results": 30,
+      "required": false,
+      "admission_report": "docs/source-admission-2026-10-04-editorial.json"
+    },
+    {
+      "article_metadata": "fda_release",
+      "enabled": true,
+      "id": "fda_press",
+      "kind": "rss",
+      "max_results": 100,
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+      "admission_report": "docs/source-admission-2026-10-04-editorial.json"
     }
   ],
   "llm": {

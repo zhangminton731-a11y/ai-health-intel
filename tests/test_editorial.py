@@ -47,6 +47,13 @@ class EditorialTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             validate_review({**self.raw, 'support': 'The study proved universal clinical efficacy.'}, material(self.item))
 
+    def test_typographic_quote_copy_restores_exact_original_without_allowing_paraphrase(self):
+        content = {'title': 'Approval', 'summary': 'The device adjusts to a child’s growth after surgery.'}
+        result = validate_review({**self.raw, 'support': "The device adjusts to a child's growth"}, content)
+        self.assertEqual('The device adjusts to a child’s growth', result['support'])
+        with self.assertRaises(ValueError):
+            validate_review({**self.raw, 'support': "The device guarantees a child's growth"}, content)
+
     def test_long_verbatim_support_is_trimmed_without_rejecting_valid_content(self):
         content = {'title': 'Clinical study', 'summary': 'Original clinical evidence. ' * 15}
         result = validate_review({**self.raw, 'support': content['summary']}, content)
@@ -70,6 +77,14 @@ class EditorialTests(unittest.TestCase):
         result = combine([{**self.review, 'total': 50}, self.review], 'T1')
         self.assertEqual('needs_review', result['status'])
         self.assertFalse(result['selected'])
+
+    def test_article_has_one_primary_section_and_disagreement_is_held(self):
+        with self.assertRaises(ValueError):
+            validate_review({**self.raw, 'audiences': ['research', 'industry']}, material(self.item))
+        result = combine([self.review, {**self.review, 'audiences': ['industry']}], 'T1')
+        self.assertEqual('needs_review', result['status'])
+        self.assertFalse(result['selected'])
+        self.assertEqual([], result['audiences'])
 
     def test_two_independent_requests_cache_and_content_invalidation(self):
         with tempfile.TemporaryDirectory() as tmp, patch.dict(os.environ, {'SIH_LLM_API_KEY': 'test-only'}), patch('sih_ref.editorial.request_review', return_value=self.review) as call:

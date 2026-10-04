@@ -35,12 +35,20 @@ def validate_review(raw, content):
     if not isinstance(axes, dict) or set(axes) != set(AXES) or any(type(v) is not int or not 0 <= v <= 10 for v in axes.values()):
         raise ValueError('five integer axes required')
     audience = raw.get('audiences')
-    if not isinstance(audience, list) or any(a not in ('research', 'industry') for a in audience):
+    if not isinstance(audience, list) or len(audience) > 1 or any(a not in ('research', 'industry') for a in audience):
         raise ValueError('invalid audiences')
     reason, support = text(raw.get('reason')), text(raw.get('support'))
     if not 10 <= len(reason) <= 500 or not re.search(r'[\u4e00-\u9fff]', reason):
         raise ValueError('Chinese reading reason required')
-    if len(support) < 15 or support not in text(content['title'] + ' ' + content['summary']):
+    original = text(content['title'] + ' ' + content['summary'])
+    if support not in original:
+        # Models sometimes copy typographic quotes as ASCII. Locate by a 1:1
+        # quote mapping, then store the ORIGINAL source substring, never a rewrite.
+        quotes = str.maketrans({'’': "'", '‘': "'", '“': '"', '”': '"'})
+        position = original.translate(quotes).find(support.translate(quotes))
+        if position >= 0:
+            support = original[position:position + len(support)]
+    if len(support) < 15 or support not in original:
         raise ValueError('support must be a verbatim material excerpt')
     total = sum(axes[key] * weight for key, weight in zip(AXES, WEIGHTS[raw['kind']]))
     return {'kind': raw['kind'], 'axes': axes, 'total': total,
@@ -92,7 +100,9 @@ def combine(reviews, source_tier):
         raise ValueError('two independent reviews required')
     score = min(98, sum(r['total'] for r in reviews) // 2)
     audiences = sorted(set(reviews[0]['audiences']) & set(reviews[1]['audiences']))
-    disputed = abs(reviews[0]['total'] - reviews[1]['total']) > 20 or reviews[0]['kind'] != reviews[1]['kind']
+    disputed = (abs(reviews[0]['total'] - reviews[1]['total']) > 20
+                or reviews[0]['kind'] != reviews[1]['kind']
+                or reviews[0]['audiences'] != reviews[1]['audiences'])
     threshold = THRESHOLDS.get(source_tier, THRESHOLDS['T2'])
     selected = bool(audiences) and score >= threshold and not disputed and source_tier != 'EXCLUDE_MP'
     return {'status': 'needs_review' if disputed else 'scored', 'score': score, 'selected': selected,
@@ -149,6 +159,7 @@ def evaluate(items, profile, provider, cache_dir, as_of):
                 judgment['evaluated_at'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
                 write_json_atomic(path, judgment)
             judgment['input_hash'] = digest
+            judgment['input_scope'] = (item.get('provenance') or {}).get('summary_kind', 'source_summary')
             row['editorial'] = judgment
         except Exception as exc:
             row['editorial'] = {'status': 'failed', 'selected': False, 'error_type': type(exc).__name__}

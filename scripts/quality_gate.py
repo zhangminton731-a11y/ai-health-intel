@@ -72,6 +72,8 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
                 try:
                     reviews = [validate_review(r, material(by_id[iid])) for r in judgment['reviews']]
                     checked = combine(reviews, judgment['source_tier'])
+                    if len(item.get('sections', [])) != 1 or item['sections'] != checked['audiences']:
+                        problems.append('当前文章必须只有一个经双次评审一致确认的主板块')
                     if (not checked['selected'] or judgment.get('policy_version') != VERSION or
                             item.get('rel') != checked['score'] or judgment.get('score') != checked['score']):
                         problems.append('编辑评分与分项、策略或入选结果不一致')

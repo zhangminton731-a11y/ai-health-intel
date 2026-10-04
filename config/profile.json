@@ -228,7 +228,13 @@
       "nature_biomedical_engineering": "T1",
       "nih_funding": "T1",
       "ema_guidance": "T1",
-      "arxiv": "T1"
+      "arxiv": "T1",
+      "nejm_abstracts": "T1",
+      "lancet_abstracts": "T1",
+      "jama_abstracts": "T1",
+      "annals_internal_abstracts": "T1",
+      "bmj_abstracts": "T1",
+      "fda_press": "T1"
     }
   }
 }

@@ -8,6 +8,8 @@
 
 [线上网站](https://zhangminton731-a11y.github.io/ai-health-intel/) · [九月档案](https://zhangminton731-a11y.github.io/ai-health-intel/#daily?date=2026-09-30) · [自动化状态](https://github.com/zhangminton731-a11y/ai-health-intel/actions) · [需求反馈](https://github.com/zhangminton731-a11y/ai-health-intel/issues) · [版本记录](CHANGELOG.md)
 
+**2026-10-04 信源与栏目更新：** 按最近连续 10 篇中至少 3 篇达到 70 分审核新增源，接入 NEJM、The Lancet、JAMA、Annals of Internal Medicine、The BMJ 的公开摘要索引频道及 FDA 官方公告，启用源 19 → 25。当前文章只进入一个主板块，研究证据与产业事件分别呈现。[纳排标准、逐篇审计与栏目规则](docs/source-admission-and-sections.md)
+
 **2026-10-04 编辑评分升级：** 生产筛选改为智谱 `glm-5.3-flash` 两次独立阅读价值评估，五维分项由代码验算、总分封顶 98；取消关键词累加入选。Logo 区域同步压缩。[评分机制与验收](docs/editorial-reading-value.md)
 
 **2026-10-04 档案更新：** 医学标识、开源入口、月份目录与点阵日历；19 个启用信源；九月恢复 762 条原始资料，筛选出 120 条可读资料和 22 份回溯日报。[品牌、信源与档案验收](docs/brand-sources-archive-20261004.md)
@@ -27,10 +29,10 @@
 - Agent 接入提供 Skill、本地 MCP、RSS、静态 API 四种方式，附安装提示词、配置复制、llms.txt 和 OpenAPI。
 - 反馈支持 2000 字内容、选填邮箱和本地截图预览；复制后由访客发送到商务微信，截图另行添加，尚未接入自动收件服务。
 - 深色、跟随系统、浅色三种主题；桌面左下角和手机“更多”提供切换，记住用户选择。
-- 19 个启用信源，按研究机构、期刊、官方机构、专业媒体、企业发布和社区线索分别标识。
+- 25 个启用信源，按研究机构、期刊、官方机构、专业媒体、企业发布和社区线索分别标识；本轮 6 个新增频道有真实 3/10 准入回执，原有 19 个源不冒称已全部通过新标准。
 - 桌面左下角及手机“更多”提供 GitHub 开源入口。品牌使用团队提供的循证奇点公司 Logo，站点名称仍为奇点医研；七个导航入口增加统一线稿图标。
 
-规则分类是初步导航，不代表期刊等级或人工逐篇审核；不生成影响因子、交易概率或政策放宽结论。国内科研政策与资助的官方原文信源仍需补齐，空栏目如实显示。
+当前文章的主板块由两次模型判断一致后确定：论文证据和方法属于临床科研；上市、采购、融资与准入等具体事件属于健康产业。关键词只用于辅助主题标签，不决定分数或主板块。分类不代表期刊等级或人工逐篇审核；国内科研政策与资助的官方原文信源仍需补齐，空栏目如实显示。
 
 产业前沿的方法参考：[Digital Oracle 核验与适用边界](docs/digital-oracle-reference.md)。已查看其市场信号、申报搜索、失败隔离与快照结构；本项目未安装运行其预测能力，未实现自动多源事件核验。
 
@@ -41,17 +43,20 @@
 | 类型 | 信源 |
 |---|---|
 | 期刊 | npj Digital Medicine、Nature Medicine、Nature Biomedical Engineering、Journal of Medical Internet Research、JMIR AI、JMIR mHealth and uHealth、JMIR Medical Informatics |
-| 官方机构 | NIH 科研资助与通知、EMA 监管与程序指南 |
+| 公开摘要索引 | NEJM、The Lancet、JAMA、Annals of Internal Medicine、The BMJ；通过 Europe PMC 按 ISSN 获取已索引且有摘要的文章，可能存在索引延迟 |
+| 官方机构 | NIH 科研资助与通知、EMA 监管与程序指南、FDA 官方公告 |
 | 研究机构 | MIT News · Health |
 | 专业媒体 | MedTech Dive、STAT、MedCity News、Medical Device Network、Crunchbase News |
 | 企业发布 | Apple Newsroom、Google Blog、Oura |
 | 社区线索 | Hacker News |
 
-研究与企业发布分别标识；来源身份不等于每项产品主张已得到临床验证。一般科技或财经来源必须同时满足健康场景和技术线索，才能进入推荐。
+研究与企业发布分别标识；来源身份不等于每项产品主张已得到临床验证。一般科技或财经报道须有明确的医疗健康阅读价值，不能因出现 AI 或健康关键词进入推荐。
 
 北京时间 Day 0～10 为当前有效内容；未来、无日期、超过 10 天的记录归档。当前榜单、今日出刊、当前 API 与 RSS 均来自同一当前集合，不用旧条目补足数量。网页打开时再次检查日期，停更后过期条目不继续出现在推荐中。
 
 既有[信源准入审计](docs/source-admission-2026-10-04.json)保留当时的关键词规则与原始分数，仅作为历史记录，已不用于当前入选决策。生产环境每篇文章独立接受模型双评；来源等级只调整门槛，不直接增加分数，也不让整本期刊自动入选。阅读价值不是临床证据等级或疗效评分。
+
+新增来源使用[最近十篇模型准入审计](docs/source-admission-2026-10-04-editorial.json)。来源准入的 70 分与单篇发布的 T1/T1_5/T2 门槛分开；网络失败、材料不足和模型分歧均保留记录，不当作零分或达标。
 
 ## 九月资料档案
 
