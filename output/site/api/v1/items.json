@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T05:08:19+00:00",
+  "generated_at": "2026-10-04T06:00:35+00:00",
   "as_of": "2026-10-04",
   "count": 46,
   "items": [
@@ -18,7 +18,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_mhealth"
@@ -61,6 +61,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2020/01/GettyImages-869846050-600x400.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -98,7 +99,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -139,7 +140,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -183,6 +184,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://imgproxy.divecdn.com/dWwvl3Ls0vDbyjrmbIMaGNVoHBqj64OuWCY1TpoL6HA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMl9PdXJhX1JpbmdfNF9Qcm9kdWN0X0ltYWdlcnkuanBn.webp",
         "observed_in_sources": [
           "medtech_dive_primary"
         ],
@@ -218,7 +220,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_mhealth"
@@ -259,6 +261,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/410715e495876fbcbd4aab33069d2685",
         "observed_in_sources": [
           "jmir"
         ],
@@ -337,6 +340,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2025/10/patients-with-AI.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -376,7 +380,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -461,6 +465,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2783e59564a352bc43854bf93721c931",
         "observed_in_sources": [
           "jmir"
         ],
@@ -498,6 +503,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -533,6 +539,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://imgproxy.divecdn.com/BVx_y6Z9iQTJJXWVXUMxvDtiHxYobGMqAPkXVXhOFkw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
         "observed_in_sources": [
           "medtech_dive_primary"
         ],
@@ -569,6 +576,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2026/10/shutterstock_1720751053.jpg",
         "observed_in_sources": [
           "medical_device_network"
         ],
@@ -604,7 +612,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -647,6 +655,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/637b749ee3a96c6fcf5c68e5443d279a",
         "observed_in_sources": [
           "jmir"
         ],
@@ -684,6 +693,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -720,6 +730,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/656643488cb3df1e74a935f6c0ab12d0",
         "observed_in_sources": [
           "jmir"
         ],
@@ -756,7 +767,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -797,6 +808,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d935ab20b0ddab565373f4ed2e2dc7b7",
         "observed_in_sources": [
           "jmir"
         ],
@@ -839,6 +851,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/c1217cf586fd8a07e918c3353d9c8eca",
         "observed_in_sources": [
           "jmir_ai"
         ],
@@ -879,6 +892,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-600x257.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -915,6 +929,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8e1e1149e0b28b8a2060aecefdc0de39",
         "observed_in_sources": [
           "jmir_ai"
         ],
@@ -950,6 +965,7 @@
       "topics": [],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://imgproxy.divecdn.com/YluCGW2tJnVe7ms42s6iuKV0pKdWDNc01eWC5RskGgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRV9IZWFsdGhjYXJlX0hRLmpwZw==.webp",
         "observed_in_sources": [
           "medtech_dive_primary"
         ],
@@ -985,6 +1001,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp",
         "observed_in_sources": [
           "fitbit_google_blog"
         ],
@@ -1138,6 +1155,7 @@
       "topics": [],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -1175,6 +1193,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a4f70baf3d166f67a039e2c13cd6431f",
         "observed_in_sources": [
           "jmir_ai"
         ],
@@ -1212,7 +1231,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_mhealth"
@@ -1252,7 +1271,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -1293,7 +1312,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -1334,7 +1353,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_medinform"
@@ -1375,6 +1394,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb",
         "observed_in_sources": [
           "jmir"
         ],
@@ -1412,6 +1432,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/3447ca8cdcde6a46a4179bfe3c391445",
         "observed_in_sources": [
           "jmir_ai"
         ],
@@ -1451,7 +1472,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jmir_mhealth"
@@ -1490,6 +1511,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1e8102e1cbec47d5ea259344ba4e0ebc",
         "observed_in_sources": [
           "jmir"
         ],
@@ -1572,6 +1594,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5",
         "observed_in_sources": [
           "jmir"
         ],
@@ -1613,6 +1636,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/253af14d7e8fd2ed2f67b170a4703d39",
         "observed_in_sources": [
           "jmir"
         ],
@@ -1733,6 +1757,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg",
         "observed_in_sources": [
           "medcity_news"
         ],
@@ -1769,6 +1794,7 @@
       ],
       "event_type": "seen",
       "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430bacd589808af1eb42a8b7c08c0e01",
         "observed_in_sources": [
           "jmir"
         ],

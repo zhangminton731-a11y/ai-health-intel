@@ -7,6 +7,12 @@ from sih_ref.core import score_item
 
 
 class ScoreBoundaryTests(unittest.TestCase):
+    def test_score_has_hard_ceiling_without_changing_lower_scores(self):
+        item = {'title': 'Wearable smartwatch health app cgm glucose', 'published_at': '2026-10-04', 'source_kind': 'rss'}
+        profile = {'topic_terms': {'wearable': .3, 'smartwatch': .26, 'health app': .28, 'cgm': .24, 'glucose': .22}, 'source_weights': {'rss': .05}}
+        self.assertEqual(.98, score_item(item, profile, date(2026, 10, 4))['topic_relevance'])
+        self.assertEqual(.35, score_item({**item, 'title': 'Wearable'}, profile, date(2026, 10, 4))['topic_relevance'])
+
     def test_embedded_english_terms_do_not_inflate_score(self):
         profile = {'topic_terms': {'valuation': .22, 'series a': .28}, 'freshness_days': 10}
         item = {'title': 'Evaluation of CT series analysis', 'published_at': '2026-10-04'}

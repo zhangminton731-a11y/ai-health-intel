@@ -229,13 +229,14 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "t": title_zh, "te": title_en,
             "s": summary_zh, "se": summary,
             "u": it.get("url", ""),
+            "image": (it.get('provenance') or {}).get('image_url', ''),
             "src": name, "role": role, "cat": cat, "trust": trust,
             "sourceType": cat, "topics": item_topics(title_en, original_summary, cat),
             **classify_content(title_en, original_summary, cat),
             "event": it.get("event_type", "seen"), "provenance": it.get("provenance") or {},
             "tier": it.get("reading_tier", "archive"),
             "freshness": it.get("freshness_gate", "undated"),
-            "rel": round((it.get("topic_relevance") or 0) * 100, 1),
+            "rel": round(min(0.98, max(0, it.get("topic_relevance") or 0)) * 100, 1),
             "when": rel_time(it.get("published_at", ""), as_of), "date": it.get("published_at", ""),
         })
     for item in out:
@@ -339,6 +340,7 @@ def build(*, as_of: date | None = None) -> None:
     assets = OUTPUT/'site/assets'; assets.mkdir(exist_ok=True)
     shutil.copyfile(ROOT/'assets/community-qr.png', assets/'community-qr.png')
     shutil.copyfile(ROOT/'assets/brand-symbol.svg', assets/'brand-symbol.svg')
+    shutil.copyfile(ROOT/'assets/company-logo.png', assets/'company-logo.png')
     export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 

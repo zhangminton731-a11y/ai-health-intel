@@ -58,6 +58,8 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if feed.get('generated_at')!=health['generated_at'] or feed.get('as_of')!=health['as_of']:
                 problems.append(f'{name} 接口不是同一批次')
         current={i['id']:i for i in payload['items'] if i['freshness']=='fresh' and i['tier']!='archive'}
+        if any(not 0 <= row.get('rel', 0) <= 98 for row in payload['items'] + payload.get('historyItems', [])):
+            problems.append('推荐指数超出 0–98 范围')
         by_id={i['item_id']:i for i in items}
         expected={i['item_id'] for i in items if i.get('freshness_gate')=='fresh' and i.get('reading_tier')!='archive'}
         if set(current)!=expected:problems.append('网页推荐池与采集筛选结果不一致')
@@ -108,6 +110,8 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if archive['kind'] != 'retrospective' or archive['month'] != key or len(archived) != month['item_count']:
                 problems.append('月度档案统计或类型不一致')
             for row in archive['items']:
+                if not 0 <= row.get('rel', 0) <= 98:
+                    problems.append('月度推荐指数超出 0–98 范围')
                 original = originals.get(row['id'], {})
                 if row['u'] != original.get('url') or row['date'] != original.get('published_at') or not row['date'].startswith(key+'-') or row.get('archiveMonth') != key:
                     problems.append('月度档案原文或日期不一致')
