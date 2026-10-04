@@ -1,9 +1,737 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T06:59:36+00:00",
+  "generated_at": "2026-10-04T08:38:55+00:00",
   "as_of": "2026-10-04",
-  "count": 5,
+  "count": 18,
   "items": [
+    {
+      "id": "pmid:42814954",
+      "title": "Retatrutide，一种三重激素受体激动剂，用于治疗肥胖。",
+      "original_title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+      "summary": "背景 Retatrutide 是葡萄糖依赖性促胰岛素多肽、胰高血糖素样肽-1 和胰高血糖素受体的三重受体激动剂。方法 在这项 3 期随机双盲试验中，我们让没有糖尿病的肥胖成人接受每周一次皮下注射瑞他鲁肽（剂量为 4 毫克、9 毫克或 12 毫克）或安慰剂，持续 80 周。主要结果（分别在 9 毫克和 12 毫克组与安慰剂组中进行评估）是 574 名患有膝骨关节炎的参与者亚组中体重的百分比变化和 WOMAC 疼痛评分的变化（范围从 1 到 10，分数越高表明疼痛越严重）以及 243 名患有阻塞性睡眠呼吸暂停的参与者的呼吸暂停低通气指数的变化。对于与体重相关的终点，并发事件由治疗方案估计值（意向治疗[ITT]）处理。",
+      "url": "https://doi.org/10.1056/nejmoa2604169",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-29",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42814954",
+        "upstream_id": "42814954"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
+      },
+      "reading_value_score": 87,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:21:24+00:00",
+        "input_hash": "f7900f6a4a3d06e22939eb363146a089cbcd1666ad071f9544e9ceb1d3f0df8a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162111380c607239a24e84",
+              "seconds": 4.7,
+              "usage": {
+                "completion_tokens": 210,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 11
+                },
+                "prompt_tokens": 1241,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1451
+              }
+            },
+            "support": "A total of 2339 participants underwent randomization. The mean percent change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% (9-mg dose), and -25.0% (12-mg dose) versus -3.9%",
+            "total": 87
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "TRIUMPH-1三期RCT报告retatrutide三受体激动剂在肥胖及膝骨关节炎、睡眠呼吸暂停共病中的关键疗效数据（12mg组减重25%），设计严谨、样本量大，对临床研究和减重治疗策略有直接参考价值。限制为摘要级信息，长期安全性及具体亚组细节需读全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162116ebb500e37bb84175",
+              "seconds": 8.42,
+              "usage": {
+                "completion_tokens": 307,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 146
+                },
+                "prompt_tokens": 1241,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1548
+              }
+            },
+            "support": "In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide",
+            "total": 87
+          }
+        ],
+        "score": 87,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42810372",
+      "title": "瑞他鲁肽治疗成人肥胖和 2 型糖尿病 (TRIUMPH-2)：一项双盲、平行组、随机、安慰剂对照 3 期试验。",
+      "original_title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+      "summary": "背景 Retatrutide 是 GIP、GLP-1 和胰高血糖素受体的激动剂，目前正在研究治疗肥胖、2 型糖尿病和其他合并症，包括膝骨关节炎和阻塞性睡眠呼吸暂停。我们的目的是评估瑞他鲁肽对成人肥胖和 2 型糖尿病患者的疗效和安全性。方法 TRIUMPH-2 是一项双盲、平行组、随机、安慰剂对照 3 期试验，在 8 个国家的 92 个医疗和研究中心及医院进行。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01861-1",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-29",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research",
+        "business"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42810372",
+        "upstream_id": "42810372"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
+      },
+      "reading_value_score": 82,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:05+00:00",
+        "input_hash": "fe9f17bcff94cfc4af9e82d3f117d66d77127748548ee9f74444221e7d934eba",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162155971089df841f4907",
+              "seconds": 4.36,
+              "usage": {
+                "completion_tokens": 205,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1751,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1956
+              }
+            },
+            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "三期RCT首次在肥胖合并2型糖尿病人群中给出retatrutide 80周减重及血糖结局，样本量1152、多剂量对照设计完整，可为药物选择与后续研究设计提供关键证据；摘要未含完整安全细节及次要终点，临床应用判断仍需全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162159fecd606994bc4480",
+              "seconds": 5.91,
+              "usage": {
+                "completion_tokens": 199,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1751,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1950
+              }
+            },
+            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
+            "total": 86
+          }
+        ],
+        "score": 82,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42785338",
+      "title": "粪便微生物移植治疗肠易激综合征 (REFIT2)：一项随机、双盲、安慰剂对照 3 期试验。",
+      "original_title": "Faecal microbiota transplantation in irritable bowel syndrome (REFIT2): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+      "summary": "背景肠道微生物群组成可能在肠易激综合征（IBS）的发病机制中发挥作用，粪便微生物群移植已被提议作为患有这种疾病的个体恢复健康肠道微生物群的一种手段。我们的目的是研究粪便微生物群移植对 IBS 患者的有效性和安全性。方法 在挪威五家医院进行的这项平行组、随机、双盲、安慰剂对照 3 期试验中，我们招募了 18-65 岁患有中重度 IBS 的男性和女性。 IBS 诊断根据罗马 IV 标准和 IBS-Severity Scoring System (IBS-SSS) 评分为 175 分或更高来定义。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01424-8",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-24",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42785338",
+        "upstream_id": "42785338"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:20+00:00",
+        "input_hash": "0352fe71517cd3ebd423f32d9553c03998318c48ae0b349f273f78a2269a893a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100416220764b4c54205ca4a31",
+              "seconds": 4.33,
+              "usage": {
+                "completion_tokens": 177,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1443,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1620
+              }
+            },
+            "support": "119 (40%) participants in the donor faecal microbiota transplantation group and 57 (38%) in the placebo group showed an improvement of at least 75 points on the IBS-SSS at 90 days after treatment.",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "Phase 3 双盲随机对照试验以高质量设计（450例、自体粪便安慰剂对照）阴性结果明确否定了单次直肠FMT对中重度IBS的临床获益，对肠道菌群研究、试验设计和临床决策均有实质参考价值；主要局限为仅单次给药方案，不能排除重复给药策略的差异性。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162216845c62bed9c2405d",
+              "seconds": 9.39,
+              "usage": {
+                "completion_tokens": 159,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1443,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1602
+              }
+            },
+            "support": "The trial did not show a clinical benefit of faecal microbiota transplantation in patients with IBS. These findings suggest that microbiota modulation alone might be insufficient for symptom improveme",
+            "total": 82
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42790456",
+      "title": "WHO 2 级非典型脑膜瘤手术切除后的放疗与观察 (ROAM/EORTC-1308)：一项国际、多中心、开放标签、3 期随机对照试验。",
+      "original_title": "Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial.",
+      "summary": "背景 WHO 2 级非典型脑膜瘤是一种原发性脑肿瘤，即使完全手术切除后复发风险也很高。辅助放疗的作用仍不确定。与观察组相比，放疗组的无病生存率有所改善（风险比 0·51 [95% CI 0·27-0·97]；p=0·0396）。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01804-0",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-25",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42790456",
+        "upstream_id": "42790456"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:16+00:00",
+        "input_hash": "57c517363468aa9d9e4f9a00317aa777409a75c24b1db6ae659f54fdddb7ebf0",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162205edda75dcd82c440a",
+              "seconds": 3.91,
+              "usage": {
+                "completion_tokens": 160,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1576,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1736
+              }
+            },
+            "support": "ROAM/EORTC-1308 was an international, multicentre, open-label, phase 3, randomised controlled trial, conducted at 58 hospitals and academic centres in 11 countries.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是首个针对WHO 2级非典型脑膜瘤术后辅助放疗的多中心III期RCT，5年无病生存改善15.6个百分点（HR 0.51），可直接改变该类肿瘤术后辅助治疗的临床决策。限制为样本量较小（157例）、开放标签设计，且仅支持摘要级结论，长期放疗迟发毒性仍需随访。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162211c82e3c8aec884f15",
+              "seconds": 7.62,
+              "usage": {
+                "completion_tokens": 220,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 21
+                },
+                "prompt_tokens": 1576,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1796
+              }
+            },
+            "support": "5-year disease-free survival was 79·9% (95% CI 67·6-87·9) in the radiotherapy group and 64·3% (51·9-74·2) in the observation group (absolute difference 15·6% percentage points [95% CI 0·6-30·5]).",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42805227",
+      "title": "Garetosmab（一种激活素 A 阻断抗体）在进行性骨化性纤维发育不良 (OPTIMA) 中的疗效和安全性：一项随机、双盲、安慰剂对照 3 期试验。",
+      "original_title": "Efficacy and safety of garetosmab, an activin A-blocking antibody, in fibrodysplasia ossificans progressiva (OPTIMA): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+      "summary": "背景 进行性骨化性纤维发育不良 (FOP) 是一种极其罕见的遗传性疾病，会导致韧带、肌腱和肌肉进行性异位骨化，从而导致残疾和早期死亡。 FOP 是由 1A 型激活素受体的杂合功能获得性突变引起的，该突变使该受体被激活素 A (ActA) 异常激活，而激活素 A (ActA) 通常会抑制该受体，从而驱动异位骨形成。在 FOP 的临床前模型和早期 2 期试验 (LUMINA-1) 中，阻断 ActA 的抗体 (garetosmab) 可防止异位骨化。我们的目的是评估 garetosmab 对 FOP 成人的疗效和安全性。方法 OPTIMA 是一项随机、双盲、安慰剂对照的 3 期试验，在 16 个国家和地区的 18 个研究中心进行。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01599-0",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-28",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42805227",
+        "upstream_id": "42805227"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:13+00:00",
+        "input_hash": "9b3dfe014b5318661c166fe50b6b8185754b15a725685873fdd948dc52050a79",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162203a6d21676076a4ba6",
+              "seconds": 6.22,
+              "usage": {
+                "completion_tokens": 203,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 16
+                },
+                "prompt_tokens": 1544,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1747
+              }
+            },
+            "support": "there were 19 lesions with placebo versus one lesion with garetosmab 3 mg/kg (rate ratio vs placebo: 0·06 [95% CI 0·00-0·73]; p=0·027)",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "超罕见病FOP的III期随机对照试验，报告garetosmab显著减少新发异位骨病变（19 vs 1-2处），是潜在首个疾病修饰疗法的核心临床证据。限制：样本仅63人、次要关注事件高剂量组较多且为研究者判定，仍需长期安全性与审审批准确认。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162209d08213ee3da149d3",
+              "seconds": 4.91,
+              "usage": {
+                "completion_tokens": 203,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 8
+                },
+                "prompt_tokens": 1544,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1536
+                },
+                "total_tokens": 1747
+              }
+            },
+            "support": "The total number of new heterotopic bone lesions was significantly lower with garetosmab: there were 19 lesions with placebo versus one lesion with garetosmab 3 mg/kg (rate ratio vs placebo: 0·06 [95%",
+            "total": 82
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42814929",
+      "title": "吉瑞德群联合依维莫司治疗晚期乳腺癌。",
+      "original_title": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
+      "summary": "背景 Giredestrant 和依维莫司分别靶向雌激素受体 (ER) 途径和磷脂酰肌醇 3-激酶 (PI3K)-蛋白激酶 B (AKT)-哺乳动物雷帕霉素靶点 (mTOR) 途径，这与内分泌治疗耐药有关。在 207 名 ESR1 突变肿瘤患者中，吉立群-依维莫司组的中位无进展生存期为 10.0 个月，而标准治疗-依维莫司组的中位无进展生存期为 5.5 个月（疾病进展或死亡的风险比，0.38；95% 置信区间 [CI]，0.27 至 0.54；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2602457",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42814929",
+        "upstream_id": "42814929"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:21:23+00:00",
+        "input_hash": "1e2f4376ba8c6e3d4f6649647e61b04f9bb1a2e919ec083b433d6b054500e7c3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162111d7ca7465fc784a94",
+              "seconds": 4.42,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1263,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1463
+              }
+            },
+            "support": "Among 207 patients with ESR1 -mutated tumors, the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for diseas",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "III期随机对照试验（evERA）显示全口服giredestrant联合everolimus在CDK4/6抑制剂经治的ER阳性/HER2阴性晚期乳腺癌中显著延长PFS，ESR1突变人群尤甚（HR 0.38），可直接改变内分泌耐药后的二线方案选择与后续试验设计；局限为开放标签、研究者评估PFS、总生存数据未成熟。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162115e993b6ee65644301",
+              "seconds": 7.66,
+              "usage": {
+                "completion_tokens": 212,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1263,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1475
+              }
+            },
+            "support": "the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for disease progression or death, 0.38; 95% confidence i",
+            "total": 78
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04677-z",
       "title": "黑色素瘤新辅助治疗的五年生存率：国际新辅助黑色素瘤联盟 (INMC) 的最新汇总分析",
@@ -17,7 +745,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -28,13 +756,9 @@
         "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
       },
       "sections": [
-        "industry",
         "research"
       ],
       "categories": {
-        "industry": [
-          "technology"
-        ],
         "research": [
           "papers"
         ]
@@ -44,24 +768,53 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "industry": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。",
-        "research": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。"
+        "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
       },
-      "reading_value_score": 75,
+      "reading_value_score": 76,
       "editorial": {
         "audiences": [
-          "industry",
           "research"
         ],
-        "evaluated_at": "2026-10-04T06:37:53+00:00",
-        "input_hash": "6c9c127173c4c86eb5d9c1c83746812f2661f9c8a02e49feca514ad389651aed",
+        "evaluated_at": "2026-10-04T08:36:34+00:00",
+        "input_hash": "d9282f475810e34cdbc0170bc3448c0cb437fcd80042df8d41194016165f80e3",
         "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。",
         "reviews": [
           {
             "audiences": [
-              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "1038例、26中心的汇总分析提供了新辅助免疫治疗黑色素瘤迄今最长期的5年RFS/OS数据，且显示MPR患者术后继续辅助ICI无额外获益，直接影响术后管理决策。局限是汇总分析而非随机对照，亚组样本小，选择偏倚需谨慎解读。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041636249da10d6a2110494d",
+              "seconds": 4.88,
+              "usage": {
+                "completion_tokens": 146,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1480,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1626
+              }
+            },
+            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
+            "total": 78
+          },
+          {
+            "audiences": [
               "research"
             ],
             "axes": {
@@ -72,58 +825,149 @@
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。",
+            "reason": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610041437421ed1aa6cf739470e",
-              "seconds": 5.41,
+              "request_id": "20261004163630fb948ceebb63474f",
+              "seconds": 6.09,
               "usage": {
-                "completion_tokens": 216,
+                "completion_tokens": 175,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 10
                 },
-                "prompt_tokens": 1278,
+                "prompt_tokens": 1480,
                 "prompt_tokens_details": {
-                  "cached_tokens": 576
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1494
+                "total_tokens": 1655
               }
             },
-            "support": "We analyzed 1,038 patients treated with neoadjuvant ICIs (n = 735), BRAF and MEK inhibitors (BRAF/MEKis; n = 119) or ICI plus any targeted therapy (ICI + TT; n = 184) from 26 international sites",
+            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
             "total": 74
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03272-3",
+      "title": "通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断",
+      "original_title": "Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with multinational clinical validation and reader study",
+      "summary": "我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。",
+      "url": "https://www.nature.com/articles/s41746-026-03272-3",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-03",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03272-3",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03272-3"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
+      },
+      "reading_value_score": 75,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:35:59+00:00",
+        "input_hash": "9b43e32e175b93dbe164ee3de71c654f592b2d7102a11be27907b800c238ca51",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100416355055834c2293894db9",
+              "seconds": 4.55,
+              "usage": {
+                "completion_tokens": 174,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 4
+                },
+                "prompt_tokens": 1107,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1281
+              }
+            },
+            "support": "We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort.",
+            "total": 70
           },
           {
             "audiences": [
-              "industry",
               "research"
             ],
             "axes": {
               "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
+              "novelty": 8,
+              "relevance": 9,
               "significance": 8,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "26个国际中心、1038例的更新汇总分析提供了新辅助治疗黑色素瘤5年RFS/OS及MPR与生存的关键长期数据，对临床方案选择与后续试验设计有实质参考价值；但属汇总分析，存在异质性与选择偏倚，MPR后辅助治疗无益的结论需前瞻验证。",
+            "reason": "检索增强+BI-RADS感知的多模态诊断框架在7国11个队列8311张图像及四读者研究中验证，外部验证和读者研究设计较完整，对乳腺超声AI落地和缩小读片差距有实质参考价值；局限是未提供假阳性率、临床工作流整合细节及全文中更细的失败分析。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610041437481815577058f7423f",
-              "seconds": 5.42,
+              "request_id": "20261004163555e4cc41c23a3243ec",
+              "seconds": 4.81,
               "usage": {
-                "completion_tokens": 172,
+                "completion_tokens": 168,
                 "completion_tokens_details": {
                   "reasoning_tokens": 12
                 },
-                "prompt_tokens": 1278,
+                "prompt_tokens": 1107,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1216
+                  "cached_tokens": 64
                 },
-                "total_tokens": 1450
+                "total_tokens": 1275
               }
             },
-            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
-            "total": 77
+            "support": "We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort.",
+            "total": 80
           }
         ],
         "score": 75,
@@ -147,7 +991,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -158,13 +1002,9 @@
         "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
       },
       "sections": [
-        "industry",
         "research"
       ],
       "categories": {
-        "industry": [
-          "technology"
-        ],
         "research": [
           "papers"
         ]
@@ -174,89 +1014,85 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "industry": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
-        "research": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。"
+        "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
       },
-      "reading_value_score": 72,
+      "reading_value_score": 74,
       "editorial": {
         "audiences": [
-          "industry",
           "research"
         ],
-        "evaluated_at": "2026-10-04T06:33:57+00:00",
-        "input_hash": "6c309d8aa32d56e94156cbbf5bb4768b330f56a1f1602aa6eb3cb0e9302cf851",
+        "evaluated_at": "2026-10-04T08:36:45+00:00",
+        "input_hash": "caabdbd8a032638e36f873aee55ad2173c1aa8e1de0c0109493fcfcb327767c3",
         "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。",
         "reviews": [
           {
             "audiences": [
-              "industry",
               "research"
             ],
             "axes": {
-              "evidence": 8,
-              "novelty": 6,
+              "evidence": 7,
+              "novelty": 7,
               "relevance": 8,
               "significance": 7,
-              "usefulness": 6
+              "usefulness": 7
             },
             "kind": "research",
-            "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+            "reason": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261004143347e6f855b18e84477b",
-              "seconds": 4.67,
+              "request_id": "20261004163632b8230fb103ff4726",
+              "seconds": 5.91,
               "usage": {
-                "completion_tokens": 199,
+                "completion_tokens": 272,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 31
                 },
-                "prompt_tokens": 1298,
+                "prompt_tokens": 1500,
                 "prompt_tokens_details": {
-                  "cached_tokens": 64
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1497
+                "total_tokens": 1772
               }
             },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
+            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14) for 30 mg, 60",
             "total": 71
           },
           {
             "audiences": [
-              "industry",
               "research"
             ],
             "axes": {
               "evidence": 8,
-              "novelty": 7,
+              "novelty": 8,
               "relevance": 8,
-              "significance": 7,
+              "significance": 8,
               "usefulness": 6
             },
             "kind": "research",
-            "reason": "非肽类口服GLP-1RA safiglipron的III期随机对照试验提供了完整的降糖疗效、体重效应有限和胃肠道安全性数据，对早期2型糖尿病治疗选择和口服小分子GLP-1赛道格局有直接参考价值；主要局限为纳入人群局限于中国、早期、未用药患者，且缺乏与肽类GLP-1RA的头对头比较。",
+            "reason": "III期RCT证实口服小分子GLP-1RA safiglipron在早期2型糖尿病患者中显著降HbA1c达1.45%，为非注射GLP-1治疗提供关键临床证据，对内分泌研究与新药评估有直接参考价值；限制在于人群限于未用药患者、减重效果温和、长期安全性待验证。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261004143352ebfc9a33267343d6",
-              "seconds": 5.5,
+              "request_id": "20261004163638e870174dab764fc0",
+              "seconds": 7.16,
               "usage": {
-                "completion_tokens": 222,
+                "completion_tokens": 402,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 5
+                  "reasoning_tokens": 195
                 },
-                "prompt_tokens": 1298,
+                "prompt_tokens": 1500,
                 "prompt_tokens_details": {
-                  "cached_tokens": 64
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1520
+                "total_tokens": 1902
               }
             },
             "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
-            "total": 73
+            "total": 78
           }
         ],
-        "score": 72,
+        "score": 74,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -264,27 +1100,29 @@
       }
     },
     {
-      "id": "url:https://www.nature.com/articles/s41591-026-04674-2",
-      "title": "索马鲁肽对 2 型糖尿病肾病的影响：一项随机安慰剂对照试验",
-      "original_title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
-      "summary": "GLP-1 受体激动剂索马鲁肽可保护 2 型糖尿病和慢性肾病患者的肾功能，但其潜在机制尚不清楚。该试验的结果表明，索马鲁肽的肾脏保护机制可能包括降低血管阻力、预防纤维化和改善促进内皮细胞健康的潜在分子程序。",
-      "url": "https://www.nature.com/articles/s41591-026-04674-2",
-      "source": "Nature Medicine",
+      "id": "pmid:42815506",
+      "title": "Orforglipron 与甘精胰岛素治疗心血管风险增加的 2 型糖尿病成人的心血管安全性 (ACHIEVE-4)：一项 3 期、事件驱动、随机、开放标签、非劣效性主动比较试验。",
+      "original_title": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
+      "summary": "背景 Orforglipron 是一种口服非肽 GLP-1 受体激动剂。虽然一些肽类 GLP-1 受体激动剂已证实对心血管有益，但非肽类 GLP-1 受体激动剂的心血管安全性尚未得到研究。本研究旨在比较 orforglipron 与甘精胰岛素对 2 型糖尿病、肥胖或超重且心血管事件风险增加的个体主要不良心血管事件发生率的影响。方法 这项事件驱动、第 3 期、多中心、随机、开放标签、主动比较、平行组研究在 16 个国家和地区的 317 个地点进行。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01865-9",
+      "source": "The Lancet · 摘要索引",
       "source_type": "期刊论文",
-      "published_at": "2026-10-01",
+      "published_at": "2026-09-30",
       "topics": [
         "hospital",
-        "research"
+        "consumer",
+        "research",
+        "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
-          "nature_medicine"
+          "lancet_abstracts"
         ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04674-2",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04674-2"
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42815506",
+        "upstream_id": "42815506"
       },
       "sections": [
         "research"
@@ -298,18 +1136,621 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
+        "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
+      },
+      "reading_value_score": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:07+00:00",
+        "input_hash": "b242b4911ecd04a063068fecf97652d4004a1d2f65e086e0a35915bb6267dc83",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100416215540ad14cd8ad24958",
+              "seconds": 7.44,
+              "usage": {
+                "completion_tokens": 340,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 150
+                },
+                "prompt_tokens": 1663,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2003
+              }
+            },
+            "support": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferior",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "首个报告口服非肽类GLP-1受体激动剂orforglipron心血管安全性的3期事件驱动非劣效试验，样本量与随访充分，为该药在高心血管风险2型糖尿病人群中的临床定位提供关键证据。局限为开放标签设计、对照为胰岛素而非安慰剂，且HR 0.84提示仅为安全性确认而非心血管获益证明。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162203173b16418c564b1e",
+              "seconds": 5.47,
+              "usage": {
+                "completion_tokens": 160,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1663,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1823
+              }
+            },
+            "support": "the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied",
+            "total": 77
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42815970",
+      "title": "使用国家联合登记数据对机器人与传统髋关节置换术治疗关节炎进行早期全国比较：目标试验模拟研究。",
+      "original_title": "Early national comparison of robotic versus conventional hip replacements for arthritis using National Joint Registry data: target trial emulation study.",
+      "summary": "目的 评估英国机器人与传统全髋关节置换术 (THR) 的早期效果比较。结果 匹配的传统 THR 组和机器人 THR 组的五年种植体存活率分别为 98.8%（95% 置信区间 (CI) 98.6% 至 99.0%）和 98.8%（CI 98.3% 至 99.1%），组间翻修风险无差异（风险比 0.96，95% CI 0.75 至 1.22；P=0.73）。",
+      "url": "https://doi.org/10.1136/bmj-2026-100709",
+      "source": "The BMJ · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-30",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42815970",
+        "upstream_id": "42815970"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
+      },
+      "reading_value_score": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:23:53+00:00",
+        "input_hash": "fc293c313b1b3b521c53c90b3205d117ff585134fd3bb21e4214f5b64a6fb2c3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "基于66万例英国国家关节登记数据的靶标试验仿真研究，为机器人与传统髋关节置换的早期疗效提供了迄今最大规模的比较证据：总体翻修与生存无差异，但假体位置相关翻修风险减半。局限为观察性设计存在残留混杂、随访均值仅2.5年，且机器人组样本仅约1万例；对公立医疗系统高昂设备成本的成本效果评估提醒具有重要决策参考价值。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041623439aeedb1bc6d74872",
+              "seconds": 5.06,
+              "usage": {
+                "completion_tokens": 182,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1363,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1545
+              }
+            },
+            "support": "Participants 666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041623485bb9e28a26074a0e",
+              "seconds": 4.77,
+              "usage": {
+                "completion_tokens": 181,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1363,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1544
+              }
+            },
+            "support": "666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.",
+            "total": 71
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "title": "FDA 批准首个旨在与儿童一起成长的心脏瓣膜",
+      "original_title": "FDA Approves First Heart Valve Designed to Grow with Children",
+      "summary": "美国食品和药物管理局今天批准了 Autus 尺寸可调瓣膜，这是一种通过手术植入肺心瓣膜，用于患有先天性肺动脉瓣疾病的儿科患者。这种创新设备可能会减少患有心脏缺陷的儿童重复进行心脏直视手术的需要，这反映了特朗普政府致力于将突破性医疗技术尽快、安全地推向市场的承诺。 Autus 尺寸可调瓣膜是第一个设计为在手术后扩张以跟上儿童生长的心脏瓣膜，也是美国批准的第一个在其内瓣（称为小叶）使用聚合材料而不是动物源性组织的瓣膜。",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "source": "FDA · 官方公告",
+      "source_type": "官方机构",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
+      },
+      "reading_value_score": 74,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-04T08:37:08+00:00",
+        "input_hash": "6b726b0dd85b1d26255b442fe6d7b37a4fac73ae7807c484ddbcb67493f24821",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA首次批准可随儿童生长扩张、且采用聚合物瓣叶的人工肺动脉瓣，属于已落地的监管审批与产品上市事实，器械与儿科心脏产业读者可据此判断同类创新器械的审评路径与市场机会。限制是临床证据仅来自62例、随访一年以内的单臂研究，长期扩张效果与耐久性仍待后续研究验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004163658470ddf0d87b9400d",
+              "seconds": 10.2,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 22
+                },
+                "prompt_tokens": 2030,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2230
+              }
+            },
+            "support": "The Autus Size-Adjustable Valve is the first heart valve designed to be expanded after surgery to keep pace with a child’s growth, and the first valve approved in the U.S. to use polymeric material ra",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004163705d24ec1117c8d48fd",
+              "seconds": 5.19,
+              "usage": {
+                "completion_tokens": 164,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 27
+                },
+                "prompt_tokens": 2030,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2194
+              }
+            },
+            "support": "approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease",
+            "total": 73
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42820639",
+      "title": "Survodutide 每周一次用于肥胖和 2 型糖尿病成人。",
+      "original_title": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.",
+      "summary": "背景 对于同时患有 2 型糖尿病和肥胖症的人来说，体重管理可能是治疗 2 型糖尿病最有效的疗法。根据治疗方案估计值（无论试验方案是否停止或中断，或者是否使用其他抗肥胖疗法，均评估效果），第 76 周时的平均体重变化在 3.6 mg 组中为 -8.2%（95% 置信区间 [CI]，-9.2 至 -7.2），在 6.0 mg 组中为 -9.8%（95% CI，-10.8 至 -8.8），安慰剂组为-3.9%（95% CI，-4.9至-2.9）；分别有 57.6%、64.5% 和 35.1% 的参与者体重减轻至少 5%（与安慰剂相比，P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2607219",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42820639",
+        "upstream_id": "42820639"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
+      },
+      "reading_value_score": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:21:23+00:00",
+        "input_hash": "457ee52fca702bf4768ddb7509f9148a4a980b2fd3095b58eb6cb60c9d49665a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041621110c8843219ac74c4a",
+              "seconds": 4.72,
+              "usage": {
+                "completion_tokens": 176,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1336,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1512
+              }
+            },
+            "support": "In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "SYNCHRONIZE-2三期双盲RCT（n=752）报告GLP-1/胰高血糖素双激动剂survodutide在肥胖合并2型糖尿病人群中76周减重显著优于安慰剂，为该新机制药物提供了直接临床证据。局限为材料为摘要级，仅有减重终点，长期心血管结局、安全性细节及与已上市GLP-1药物的头对头比较未呈现。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041621167de5db6dd6284dc6",
+              "seconds": 7.2,
+              "usage": {
+                "completion_tokens": 183,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1336,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1519
+              }
+            },
+            "support": "In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo.",
+            "total": 76
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42804178",
+      "title": "1990-2019 年美国食品和药物管理局批准的小分子药物专利。",
+      "original_title": "Patents on Small-Molecule Drugs Approved by the US Food and Drug Administration, 1990-2019.",
+      "summary": "重要性 专利保护允许制药公司在市场独占期间对处方药收取高价，而其到期通常决定仿制药竞争对手何时可以进入美国市场。药物活性成分的专利被归类为主要专利，而制剂、使用方法和递送装置的专利则属于非主要专利。目的 评估美国食品和药物管理局 (FDA) 批准的药物的药品专利组合随时间的变化情况。证据审查对 1990 年至 2019 年 FDA 批准的小分子药物专利进行了检查和评估，以了解每种产品的专利数量和类型的变化。",
+      "url": "https://doi.org/10.1001/jama.2026.16139",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-28",
+      "topics": [
+        "research",
+        "business",
+        "regulation"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42804178",
+        "upstream_id": "42804178"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:39+00:00",
+        "input_hash": "a7ddf6635f8d75590430e06890829a8821b7c8658db46844991e19eda0a8f3fc",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041622291454b9fea0514119",
+              "seconds": 4.49,
+              "usage": {
+                "completion_tokens": 205,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 46
+                },
+                "prompt_tokens": 1240,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1445
+              }
+            },
+            "support": "The mean number of patents per drug increased from 2.1 in 1990 to 6.9 in 2019, driven primarily by nonprimary patents.",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "对FDA 1990-2019年批准的1981个小分子药及10940项专利的系统量化分析，提供了非核心专利延长市场独占期（中位4.7年）和诉讼频率的新实证数据，对药价、专利策略与仿制药竞争研究有参考价值；局限在于属回顾性专利数据研究，不涉及临床疗效，因果推断有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041622340f89271acf7e4a55",
+              "seconds": 5.97,
+              "usage": {
+                "completion_tokens": 299,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 139
+                },
+                "prompt_tokens": 1240,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1539
+              }
+            },
+            "support": "The FDA approved 1981 small-molecule drugs during the study period, and manufacturers listed 10 940 patents on these drugs.",
+            "total": 72
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42806496",
+      "title": "儿科重症监护中允许的血压目标：压力随机临床试验。",
+      "original_title": "Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.",
+      "summary": "重要性 危重儿童通常会服用血管活性药物来治疗低血压。然而，最佳平均动脉压 (MAP) 目标尚不清楚。目的 评估采用允许的 MAP 目标，从而潜在地减少血管活性药物的暴露，是否可以改善低血压危重儿童的预后。设计、设置和参与者 这项多中心、非盲法、实用性随机临床试验在 3 个国家的 23 个儿科重症监护病房 (PICU) 中进行。 2021 年 11 月至 2026 年 5 月期间入组接受有创通气和血管活性药物治疗低血压的危重儿童。30 天结果的随访于 2026 年 6 月完成。 干预措施 随机接受干预的患者 (n = 957) 被分配一个大于年龄第五百分位数的允许 MAP 目标。",
+      "url": "https://doi.org/10.1001/jama.2026.19747",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-28",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42806496",
+        "upstream_id": "42806496"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
       },
       "reading_value_score": 71,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-04T06:37:49+00:00",
-        "input_hash": "4c18b3702bacf6116bedd0001e3c12e174f224e715d85673fc510ed0f3b736ea",
+        "evaluated_at": "2026-10-04T08:22:40+00:00",
+        "input_hash": "72a565d4acc0532ced16fa51eb9588ee8c6d5cbadf948d016d492a13bc103e2a",
         "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。",
         "reviews": [
           {
             "audiences": [
@@ -318,62 +1759,61 @@
             "axes": {
               "evidence": 7,
               "novelty": 7,
-              "relevance": 7,
+              "relevance": 8,
               "significance": 7,
               "usefulness": 6
             },
             "kind": "research",
-            "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+            "reason": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261004143736e6ccc6b68b064ef3",
-              "seconds": 6.83,
+              "request_id": "20261004162229f12ba1d9cab54f5e",
+              "seconds": 5.92,
               "usage": {
-                "completion_tokens": 197,
+                "completion_tokens": 230,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 20
+                  "reasoning_tokens": 39
                 },
-                "prompt_tokens": 991,
+                "prompt_tokens": 1427,
                 "prompt_tokens_details": {
-                  "cached_tokens": 576
+                  "cached_tokens": 64
                 },
-                "total_tokens": 1188
+                "total_tokens": 1657
               }
             },
-            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
-            "total": 69
+            "support": "A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primar",
+            "total": 70
           },
           {
             "audiences": [
-              "industry",
               "research"
             ],
             "axes": {
-              "evidence": 7,
-              "novelty": 8,
+              "evidence": 8,
+              "novelty": 7,
               "relevance": 8,
               "significance": 7,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "将多参数肾脏MRI、活检病理与单核/空间转录组整合用于机制探索的随机对照试验，在共同主要影像终点阴性的情况下提示血管阻力降低、纤维化进展受抑及肾小球内皮保护等机制，方法学设计对肾病与代谢药物机制研究有直接借鉴价值；主要限制是样本量小（106例、活检33例）且机制证据多为次要终点与相关性观察。",
+            "reason": "大型多中心随机对照试验（1900例、23个PICU）提供了儿科危重症升压治疗MAP目标的首个高质量证据：宽松目标大幅减少血管活性药暴露但未改善主要复合结局，直接冲击现行临床目标设定。限制为非盲实用设计、主要结局为阴性的概率指数分析，临床转化需结合具体人群判断。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610041437436de53027628f4998",
-              "seconds": 6.41,
+              "request_id": "20261004162235d3206e4cafa74dad",
+              "seconds": 4.78,
               "usage": {
-                "completion_tokens": 200,
+                "completion_tokens": 170,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 20
+                  "reasoning_tokens": 0
                 },
-                "prompt_tokens": 991,
+                "prompt_tokens": 1427,
                 "prompt_tokens_details": {
-                  "cached_tokens": 960
+                  "cached_tokens": 64
                 },
-                "total_tokens": 1191
+                "total_tokens": 1597
               }
             },
-            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "support": "A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primar",
             "total": 73
           }
         ],
@@ -385,124 +1825,235 @@
       }
     },
     {
-      "id": "url:https://www.nature.com/articles/s41591-026-04675-1",
-      "title": "6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验",
-      "original_title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
-      "summary": "在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。",
-      "url": "https://www.nature.com/articles/s41591-026-04675-1",
-      "source": "Nature Medicine",
+      "id": "pmid:42815981",
+      "title": "使用国家联合登记数据对机器人与传统膝关节置换术治疗关节炎进行早期全国比较：目标试验模拟研究。",
+      "original_title": "Early national comparison of robotic versus conventional knee replacements for arthritis using National Joint Registry data: target trial emulation study.",
+      "summary": "目的 评估英国机器人与传统全膝关节置换术 (TKR) 和单间室膝关节置换术 (UKR) 的早期效果比较。结果 匹配的传统 TKR 组和机器人 TKR 组的五年种植体存活率分别为 98.5%（95% 置信区间 (CI) 98.3% 至 98.7%）和 98.6%（98.2% 至 99.0%），组间翻修风险无差异（风险比 1.03，95% CI 0.86 至 1.26；P=0.71）。",
+      "url": "https://doi.org/10.1136/bmj-2026-100691",
+      "source": "The BMJ · 摘要索引",
       "source_type": "期刊论文",
-      "published_at": "2026-10-02",
+      "published_at": "2026-09-30",
       "topics": [
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
-          "nature_medicine"
+          "bmj_abstracts"
         ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04675-1",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04675-1"
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42815981",
+        "upstream_id": "42815981"
       },
       "sections": [
-        "industry",
         "research"
       ],
       "categories": {
-        "industry": [
-          "technology"
-        ],
         "research": [
           "papers"
         ]
       },
       "research_stages": [
+        "data",
         "validation"
       ],
       "recommendation_reasons": {
-        "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-        "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
+        "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
       },
       "reading_value_score": 71,
       "editorial": {
         "audiences": [
-          "industry",
           "research"
         ],
-        "evaluated_at": "2026-10-04T06:34:58+00:00",
-        "input_hash": "77455886ae4e21ece17b138d947337072486509f4115fc3a69d9f7967acf19ed",
+        "evaluated_at": "2026-10-04T08:23:57+00:00",
+        "input_hash": "aae7a79b7b99d66cfa65dd0508eccc5a8a606fe73fe4cfa448153b4b2d34b6f0",
         "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。",
         "reviews": [
           {
             "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100414344632c31c133044490a",
-              "seconds": 4.14,
-              "usage": {
-                "completion_tokens": 182,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 4
-                },
-                "prompt_tokens": 1086,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1268
-              }
-            },
-            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
-            "total": 69
-          },
-          {
-            "audiences": [
-              "industry",
               "research"
             ],
             "axes": {
               "evidence": 8,
               "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人与常规膝置换的早期翻修与并发症风险提供了迄今最大样本的真实世界比较证据（未见差异），对医院设备采购决策与后续研究设计均有直接参考价值；局限为观察性设计、机器人组样本较小且随访仅平均2.5年，五年生存率外推有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162343b979f9a0ca95413d",
+              "seconds": 4.72,
+              "usage": {
+                "completion_tokens": 167,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1329,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1496
+              }
+            },
+            "support": "697 145 knee replacement surgeries between 2018 and 2024: 675 034 were conventional (TKRs and UKRs) and 22 111 were robotic",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041623484a89ad849ec84900",
+              "seconds": 9.06,
+              "usage": {
+                "completion_tokens": 409,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 185
+                },
+                "prompt_tokens": 1329,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1738
+              }
+            },
+            "support": "The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between grou",
+            "total": 64
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42814439",
+      "title": "瘦代谢障碍相关脂肪肝病的组织学特征和临床结果。",
+      "original_title": "Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+      "summary": "重要性 尽管代谢功能障碍相关的脂肪肝病 (MASLD) 传统上与肥胖相关，但人们越来越认识到它在体重正常的个体（即瘦 MASLD）中存在。 FIB-4 在预测瘦 vs 超重/肥胖 MASLD 中的晚期纤维化 (F3-F4) 方面的准确性较低（曲线下面积，0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]；差异，-0.03 [95% CI, -0.06 至 0.00]），而 LSM 则准确度更高（曲线下面积，0.87 [95% CI，0.84-0.90] vs 0.83 [95% CI，0.82-0.84]；差异，0.04 [95% CI，0.01-0.07]）。",
+      "url": "https://doi.org/10.1001/jama.2026.18491",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-09-30",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42814439",
+        "upstream_id": "42814439"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:42+00:00",
+        "input_hash": "cca47a69253c41e041116a417332d6ef3f85009f9b33c34f214d3882d050ebf3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
               "relevance": 7,
               "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "整群随机试验设计合理，提供营养补充与常规免疫联合递送提升MCV1覆盖的因果证据，对低收入地区接种策略和公卫产品布局有直接参考价值；结果来自尼日利亚单一地区，外推到其他卫生系统需谨慎。",
+            "reason": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261004143450a584272a249447f9",
-              "seconds": 7.62,
+              "request_id": "20261004162229b2b1a844591a4838",
+              "seconds": 7.72,
               "usage": {
-                "completion_tokens": 331,
+                "completion_tokens": 351,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 161
+                  "reasoning_tokens": 196
                 },
-                "prompt_tokens": 1086,
+                "prompt_tokens": 1676,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1417
+                "total_tokens": 2027
               }
             },
-            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
-            "total": 73
+            "support": "Multinational, retrospective observational study of adults with biopsy-confirmed MASLD from 41 countries from the Global MASLD project.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于41国18326例肝活检确认MASLD的大型回顾性队列，量化了瘦型MASLD的组织学特征、预后及无创纤维化检测性能，发现纤维化程度而非体型决定预后、LSM在瘦型患者中更可靠，对临床筛查分层有直接参考价值。局限为回顾性设计、瘦型定义依赖BMI/腰围且两者一致性一般（κ=0.41），不能建立因果结论。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162237d472dc2b4bf44f83",
+              "seconds": 5.59,
+              "usage": {
+                "completion_tokens": 192,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 10
+                },
+                "prompt_tokens": 1676,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1868
+              }
+            },
+            "support": "Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was assoc",
+            "total": 72
           }
         ],
         "score": 71,
@@ -525,7 +2076,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -536,13 +2087,9 @@
         "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
       },
       "sections": [
-        "industry",
         "research"
       ],
       "categories": {
-        "industry": [
-          "technology"
-        ],
         "research": [
           "papers"
         ]
@@ -551,57 +2098,21 @@
         "analysis"
       ],
       "recommendation_reasons": {
-        "industry": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。",
-        "research": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。"
+        "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
       },
-      "reading_value_score": 71,
+      "reading_value_score": 70,
       "editorial": {
         "audiences": [
-          "industry",
           "research"
         ],
-        "evaluated_at": "2026-10-04T06:39:30+00:00",
-        "input_hash": "cc887746e1c8ffdacfc8ee5e1a40919bd3af3dc77afc9342c8becf7807636b9e",
+        "evaluated_at": "2026-10-04T08:36:26+00:00",
+        "input_hash": "3897a4b3c38006583e5b11344c83b7d67840aa74a1cd2789711a0518c30ae707",
         "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
         "reviews": [
           {
             "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "uRARE-seq在683例尿样中实现95%敏感度/90%特异度检测局限性膀胱癌，优于尿肿瘤DNA，并可预测BCG应答（AUC 0.93），对无创诊断与MRD监测有明确研究转化价值。但证据基于回顾性样本分析，作者自述需前瞻性研究验证临床效用，且摘要级信息无法评估队列构成细节。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143919732ae428e9f04089",
-              "seconds": 9.75,
-              "usage": {
-                "completion_tokens": 207,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 35
-                },
-                "prompt_tokens": 956,
-                "prompt_tokens_details": {
-                  "cached_tokens": 896
-                },
-                "total_tokens": 1163
-              }
-            },
-            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "industry",
               "research"
             ],
             "axes": {
@@ -609,31 +2120,63 @@
               "novelty": 7,
               "relevance": 7,
               "significance": 7,
-              "usefulness": 5
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。",
+            "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261004143924883437ce97524a52",
-              "seconds": 6.16,
+              "request_id": "20261004163618dc29cd585453431a",
+              "seconds": 4.39,
               "usage": {
-                "completion_tokens": 299,
+                "completion_tokens": 162,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 143
+                  "reasoning_tokens": 3
                 },
-                "prompt_tokens": 956,
+                "prompt_tokens": 1158,
                 "prompt_tokens_details": {
-                  "cached_tokens": 896
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1255
+                "total_tokens": 1320
               }
             },
             "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
-            "total": 65
+            "total": 66
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "uRARE-seq在683例尿样中实现膀胱癌检测95%敏感/90%特异并优于尿肿瘤DNA，且基于114例开发出AUC 0.93的BCG反应预测标志物，为泌尿肿瘤液体活检与治疗分层提供了可复用的方法和较扎实的数据；主要限制为回顾性设计，作者自述需前瞻性研究验证临床效用。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041636232f2f848024834169",
+              "seconds": 3.3,
+              "usage": {
+                "completion_tokens": 333,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 157
+                },
+                "prompt_tokens": 1158,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1491
+              }
+            },
+            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mu",
+            "total": 74
           }
         ],
-        "score": 71,
+        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
