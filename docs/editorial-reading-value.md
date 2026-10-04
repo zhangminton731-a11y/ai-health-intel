@@ -47,3 +47,5 @@ GitHub Secrets：`SIH_LLM_ENDPOINT`、`SIH_LLM_MODEL`、`SIH_LLM_API_KEY`。聚�
 用户指出的 e91724 血糖论文两次实际加权分为 60、61，最终 60，低于 T1 门槛 70，不再入选。首个连通性单次测试曾为 53，它不作为发布分数。模型有波动，缓存用来固定已验收的内容版本，不能代替人工质量校准。
 
 [完整回执摘要](editorial-live-validation-20261004.json)包含该样本两次分项、请求 ID、原文摘录和入选列表。原始采集时间不改写为评分时间，评分另有 evaluated_at。
+
+发布前合并 14:50 自动采集批次：Nature 两个订阅源返回 HTML，导致 16 条此前验证记录暂时缺失。仅保留原文仍在 10 天内、最近成功快照不超过 36 小时的记录；provenance 标记 snapshot_observed_at 和 retained_during_source_outage。反复失败不推进快照时间，来源失败状态如实保留；不以陈旧记录填充榜单。

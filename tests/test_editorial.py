@@ -1,5 +1,5 @@
 import copy
-from datetime import date
+from datetime import date, datetime, timezone
 import json
 import os
 from pathlib import Path
@@ -11,7 +11,7 @@ from unittest.mock import patch
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'engine/src'))
 from sih_ref.core import score_item
-from sih_ref.editorial import AXES, VERSION, combine, evaluate, material, validate_review, restore_receipts
+from sih_ref.editorial import AXES, VERSION, combine, evaluate, material, validate_review, restore_receipts, retain_recent_sources
 
 
 class EditorialTests(unittest.TestCase):
@@ -123,6 +123,20 @@ class EditorialTests(unittest.TestCase):
             rows = update_history(path, [rejected], self.profile, date(2026,10,4))
             self.assertEqual([old['url']], [r['url'] for r in rows])
             self.assertNotIn('editorial', rows[0])
+
+    def test_feed_outage_retains_only_recent_verified_records_without_refreshing_age(self):
+        now = datetime(2026,10,4,8,tzinfo=timezone.utc)
+        health = [{'source_id':'journal','enabled':True,'status':'failed'}]
+        rows, count = retain_recent_sources([], [self.item], health, '2026-10-04T06:00:00+00:00', now.date(), now)
+        self.assertEqual(1, count)
+        self.assertEqual(self.item['published_at'], rows[0]['published_at'])
+        later = datetime(2026,10,6,8,tzinfo=timezone.utc)
+        _, count = retain_recent_sources([], rows, health, later.isoformat(), later.date(), later)
+        self.assertEqual(0, count)  # Repeated failures cannot reset the observed timestamp.
+        for changed in [dict(self.item,published_at='2026-09-01'),dict(self.item,published_at='2026-11-01')]:
+            self.assertEqual(0,retain_recent_sources([], [changed],health,now.isoformat(),now.date(),now)[1])
+        health[0]['enabled'] = False
+        self.assertEqual(0,retain_recent_sources([], [self.item],health,now.isoformat(),now.date(),now)[1])
 
 
 if __name__ == '__main__': unittest.main()

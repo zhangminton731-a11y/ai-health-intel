@@ -177,3 +177,22 @@ def restore_receipts(items_path, cache_dir):
             path = cache_dir / (digest + '.json')
             if not path.exists():
                 write_json_atomic(path, judgment)
+
+
+def retain_recent_sources(items, previous, health, previous_generated_at, as_of, now):
+    """Keep recent verified snapshots through a feed outage, without advancing their observed date."""
+    failed = {s['source_id'] for s in health if s.get('enabled') and s.get('status') in ('failed', 'missing')}
+    ids = {r['item_id'] for r in items}
+    retained = []
+    for row in previous:
+        if row['item_id'] in ids or row.get('source_id') not in failed or freshness_gate(row, as_of, 10) != 'fresh':
+            continue
+        observed = (row.get('provenance') or {}).get('snapshot_observed_at', previous_generated_at)
+        try:
+            age = (now - datetime.fromisoformat(observed)).total_seconds()
+        except (ValueError, TypeError):
+            continue
+        if not 0 <= age <= 36 * 3600:
+            continue
+        retained.append({**row, 'provenance': {**row.get('provenance', {}), 'snapshot_observed_at': observed, 'retained_during_source_outage': True}})
+    return list(items) + retained, len(retained)
