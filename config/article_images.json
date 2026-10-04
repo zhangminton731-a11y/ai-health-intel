@@ -1,0 +1,14 @@
+{
+  "https://www.nature.com/articles/s41591-026-04677-z": {
+    "image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04677-z/MediaObjects/41591_2026_4677_Fig1_HTML.png",
+    "imageSource": "https://www.nature.com/articles/s41591-026-04677-z/figures/1",
+    "imageAlt": "原文图 1：不同新辅助治疗方案的生存结局",
+    "verifiedOn": "2026-10-04"
+  },
+  "https://www.nature.com/articles/s41591-026-04651-9": {
+    "image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04651-9/MediaObjects/41591_2026_4651_Fig2_HTML.png",
+    "imageSource": "https://www.nature.com/articles/s41591-026-04651-9/figures/2",
+    "imageAlt": "原文图 2：血糖和体重结局",
+    "verifiedOn": "2026-10-04"
+  }
+}
