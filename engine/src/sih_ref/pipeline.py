@@ -6,7 +6,7 @@ import json
 import re
 from concurrent.futures import ThreadPoolExecutor
 from time import monotonic
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 from typing import Any, Mapping
 
@@ -138,7 +138,22 @@ def run_pipeline(
     assembled = [score_item(item, profile, as_of) for item in deduplicate(normalized)]
     provider = config.get("llm") or {}
     llm_status: dict[str, Any] = {"status": "disabled"}
-    if llm_enabled and not provider.get("enabled", False):
+    if (profile.get('editorial') or {}).get('enabled'):
+        from .editorial import evaluate, restore_receipts, retain_recent_sources
+        editorial_cache = output_dir / '.cache/editorial'
+        restore_receipts(output_dir / 'daily_items.jsonl', editorial_cache)
+        previous_path = output_dir / 'daily_items.jsonl'
+        health_path = output_dir / 'source_health.json'
+        if not health_path.exists():
+            health_path = output_dir / '.cache/previous_source_health.json'
+        retained = 0
+        if previous_path.exists() and health_path.exists():
+            previous = [json.loads(line) for line in previous_path.read_text(encoding='utf-8').splitlines() if line.strip()]
+            previous_health = load_json(health_path)
+            assembled, retained = retain_recent_sources(assembled, previous, source_health, previous_health.get('generated_at'), as_of, datetime.fromisoformat(run_at))
+        assembled, llm_status = evaluate(assembled, profile, provider, editorial_cache, as_of)
+        llm_status['retained_during_source_outage'] = retained
+    elif llm_enabled and not provider.get("enabled", False):
         llm_status = {"status": "inactive", "reason": "disabled_by_config"}
     elif llm_enabled:
         try:
@@ -162,6 +177,10 @@ def run_pipeline(
     )
     active_health = [entry for entry in source_health if entry["enabled"]]
     daily_status = classify_daily_health(active_health)
+    if (profile.get('editorial') or {}).get('enabled') and not llm_status.get('selected') and any(
+        llm_status.get('counts', {}).get(k) for k in ('failed', 'unconfigured')
+    ):
+        daily_status = 'degraded'  # Keep the last published batch during a total model outage.
     if llm_status["status"] == "warning" and daily_status == "complete":
         daily_status = "complete_with_warning"
     health = {

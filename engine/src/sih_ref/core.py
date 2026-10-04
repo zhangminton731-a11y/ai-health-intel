@@ -32,6 +32,7 @@ PUBLIC_ITEM_FIELDS = (
     "reading_tier",
     "freshness_gate",
     "llm_triage",
+    "editorial",
     "selection_reasons",
     "selection_audiences",
     "content_status",
@@ -238,6 +239,9 @@ def freshness_gate(item: Mapping[str, Any], as_of: date, lookback_days: int) -> 
 
 def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date) -> dict[str, Any]:
     """Apply a transparent profile match and reading-tier policy."""
+    if (profile.get('editorial') or {}).get('enabled'):
+        from .editorial import project
+        return project(item, profile, as_of)
     haystack = " ".join(
         [text(item.get("title")), text(item.get("summary")), " ".join(item.get("tags") or [])]
     ).lower()

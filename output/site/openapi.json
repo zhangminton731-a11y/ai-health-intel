@@ -64,7 +64,9 @@
                           "categories",
                           "research_stages",
                           "provenance",
-                          "recommendation_reasons"
+                          "recommendation_reasons",
+                          "reading_value_score",
+                          "editorial"
                         ],
                         "properties": {
                           "id": {
@@ -134,6 +136,17 @@
                             "additionalProperties": {
                               "type": "string"
                             }
+                          },
+                          "reading_value_score": {
+                            "type": [
+                              "number",
+                              "null"
+                            ],
+                            "minimum": 0,
+                            "maximum": 98
+                          },
+                          "editorial": {
+                            "type": "object"
                           }
                         }
                       }

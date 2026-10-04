@@ -3,107 +3,47 @@
   "generated_at": "2026-10-04T06:49:52+00:00",
   "as_of": "2026-10-04",
   "item_ids": [
-    "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-    "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-    "url:https://ai.jmir.org/2026/1/e94109/",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e89066"
+    "url:https://www.nature.com/articles/s41591-026-04673-3",
+    "url:https://www.nature.com/articles/s41591-026-04675-1"
   ],
   "editions": [
     {
       "date": "2026-10-02",
       "item_ids": [
-        "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-        "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-        "url:https://ai.jmir.org/2026/1/e94109/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e89066"
+        "url:https://www.nature.com/articles/s41591-026-04673-3",
+        "url:https://www.nature.com/articles/s41591-026-04675-1"
       ],
-      "minutes": 4
+      "minutes": 1
     },
     {
       "date": "2026-10-01",
       "item_ids": [
-        "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
-        "url:https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e102359",
-        "url:https://mhealth.jmir.org/2026/1/e95863"
+        "url:https://www.nature.com/articles/s41591-026-04677-z",
+        "url:https://www.nature.com/articles/s41591-026-04674-2"
       ],
-      "minutes": 2
-    },
-    {
-      "date": "2026-09-30",
-      "item_ids": [
-        "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-        "url:https://mhealth.jmir.org/2026/1/e91724",
-        "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-        "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-        "url:https://medinform.jmir.org/2026/1/e89189"
-      ],
-      "minutes": 3
+      "minutes": 1
     },
     {
       "date": "2026-09-29",
       "item_ids": [
-        "url:https://medinform.jmir.org/2026/1/e93018",
-        "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-        "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-        "url:https://medinform.jmir.org/2026/1/e100805",
-        "url:https://medinform.jmir.org/2026/1/e101393"
-      ],
-      "minutes": 3
-    },
-    {
-      "date": "2026-09-28",
-      "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e93900/",
-        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-        "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-        "url:https://medinform.jmir.org/2026/1/e85695",
-        "url:https://mhealth.jmir.org/2026/1/e79512"
-      ],
-      "minutes": 4
-    },
-    {
-      "date": "2026-09-27",
-      "item_ids": [
-        "url:https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/"
-      ],
-      "minutes": 1
-    },
-    {
-      "date": "2026-09-25",
-      "item_ids": [
-        "url:https://medinform.jmir.org/2026/1/e98247",
-        "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-        "url:https://ai.jmir.org/2026/1/e85047/"
+        "url:https://www.nature.com/articles/s41591-026-04651-9"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-24",
-      "item_ids": [
-        "url:https://mhealth.jmir.org/2026/1/e89548"
-      ],
-      "minutes": 1
     }
   ],
   "edition_date": "2026-10-02",
-  "text": "奇点日报 · 2026-10-02\n这一天的 5 件 AI 医疗大事\n\n01 · 论文研究\n生成式人工智能操纵生物医学研究图像来改变科学结果：人类诊断研究和自动检测\n在对 104 个蛋白质印迹和皮下异种移植肿瘤图像进行的诊断研究中，高保真生成模型产生了可能改变研究结论的伪造品； 24 名博士级专家评审员无法可靠地区分伪造数据和真实数据（平均准确度 50.5%，SD 6.9%），而性能最好的商业 AI 检测器仅实现中等辨别（曲线下面积 0.790，95% CI 0.695-0.885），揭示了当前研究诚信保障措施中的严重漏洞。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e100710\n\n02 · 新品方案\nBrainomix 的 e-Lung 在 III 期试验中显示进展和治疗反应\n试验操作员越来越多地将成像工具和相关的基于人工智能 (AI) 的工具纳入他们的研究方案中。\nMedical Device Network · 2026-10-02\nhttps://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/\n\n03 · 论文研究\n手术技能评估中人类自主团队的机器学习：范围综述\n结论：当前的人工智能技术为客观技能评估提供了坚实的基础，但尚未为自主团队做好准备。未来的发展必须优先考虑模型的稳健性、可解释性以及与临床环境的无缝集成，以从独立的评估工具过渡到有效的手术队友。试用注册：OSF 注册中心 10.17605/OSF.IO/PQWS5；  结果：我们对 92 项纳入研究的分析揭示了向多模态数据集成和深度学习架构的主导转变。虽然基准数据集经常报告高性能，但 HAT 集成仍然存在重大障碍。 TRL 分析显示，77.2% (71/92) 的研究仍处于 TRL 3（概念验证），只有 2.2% (2/92) 达到 TRL 5 或更高。\nJMIR AI · 2026-10-02\nhttps://ai.jmir.org/2026/1/e94109/\n\n04 · 论文研究\n牙周炎风险评估和预防规划：多模态大语言模型和牙周病医生评估的比较研究\n结论：M-LLM 在牙周评估中表现出很强的推理能力。在所有模型中，不可接受的元素始终与射线照相解释错误相关，尽管改进的提示或更新的模型版本可能会改善这一点。值得注意的是，即使放射照相结果不正确并且不存在斑块保留因素，输出仍然评价良好，表明 EHR 数据本身就提供了坚实的基础。就临床适用性而言，M-LLM 的表现至少必须与牙周病医生相当，并满足牙周病专家制定的质量标准——GPT 和 Claude 似乎正在接近这一标准。结果：GPT o1 Pro 和 Claude Sonnet 4 显示出强劲的性能，86.7% 和 85.6% 的评级被认为可以接受，与牙周病医生的输出 (87.8%) 相当。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e87781\n\n05 · 论文研究\n用于标准化临床评估交互式培训的语音虚拟患者：混合方法试点研究\n结论：大语言模型支持的虚拟患者模拟为培训临床医生进行标准化临床评估提供了一种有前途的、可扩展的工具。该试点研究为系统以合理的保真度生成临床相关实践场景的能力提供了初步证据。结果：在 20 次访谈中，虚拟患者表现出对其配置的临床资料的合理遵守，人类评分者的分数接近其预定义的分数配置。 MADRS 评分者评分与配置评分之间的平均项目差异为 0.52 (SD 0.75)；总分的评估者间信度为 0.90 (95% CI 0.68‐0.99)。当被要求评估虚拟患者的定性真实性和凝聚力时，专家评分者始终给出“同意”到“强烈同意”的平均评级。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e89066\n",
+  "text": "奇点日报 · 2026-10-02\n这一天的 2 件 AI 医疗大事\n\n01 · 论文研究\n尿液游离 RNA 用于膀胱癌检测和治疗反应预测\n尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04673-3\n\n02 · 论文研究\n6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验\n在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04675-1\n",
   "publication": {
     "date": "2026-10-04",
     "item_ids": [
-      "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-      "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-      "url:https://ai.jmir.org/2026/1/e94109/",
-      "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-      "url:https://www.jmir.org/article/view/jmir_v28i1e89066"
+      "url:https://www.nature.com/articles/s41591-026-04673-3",
+      "url:https://www.nature.com/articles/s41591-026-04675-1"
     ],
-    "minutes": 3,
+    "minutes": 1,
     "date_basis": "publication",
     "source_dates": [
       "2026-10-02"
     ],
-    "text": "奇点日报 · 2026-10-04\n近三日精选 · 5 件 AI 医疗大事\n\n01 · 论文研究\n生成式人工智能操纵生物医学研究图像来改变科学结果：人类诊断研究和自动检测\n在对 104 个蛋白质印迹和皮下异种移植肿瘤图像进行的诊断研究中，高保真生成模型产生了可能改变研究结论的伪造品； 24 名博士级专家评审员无法可靠地区分伪造数据和真实数据（平均准确度 50.5%，SD 6.9%），而性能最好的商业 AI 检测器仅实现中等辨别（曲线下面积 0.790，95% CI 0.695-0.885），揭示了当前研究诚信保障措施中的严重漏洞。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e100710\n\n02 · 新品方案\nBrainomix 的 e-Lung 在 III 期试验中显示进展和治疗反应\n试验操作员越来越多地将成像工具和相关的基于人工智能 (AI) 的工具纳入他们的研究方案中。\nMedical Device Network · 2026-10-02\nhttps://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/\n\n03 · 论文研究\n手术技能评估中人类自主团队的机器学习：范围综述\n结论：当前的人工智能技术为客观技能评估提供了坚实的基础，但尚未为自主团队做好准备。未来的发展必须优先考虑模型的稳健性、可解释性以及与临床环境的无缝集成，以从独立的评估工具过渡到有效的手术队友。试用注册：OSF 注册中心 10.17605/OSF.IO/PQWS5；  结果：我们对 92 项纳入研究的分析揭示了向多模态数据集成和深度学习架构的主导转变。虽然基准数据集经常报告高性能，但 HAT 集成仍然存在重大障碍。 TRL 分析显示，77.2% (71/92) 的研究仍处于 TRL 3（概念验证），只有 2.2% (2/92) 达到 TRL 5 或更高。\nJMIR AI · 2026-10-02\nhttps://ai.jmir.org/2026/1/e94109/\n\n04 · 论文研究\n牙周炎风险评估和预防规划：多模态大语言模型和牙周病医生评估的比较研究\n结论：M-LLM 在牙周评估中表现出很强的推理能力。在所有模型中，不可接受的元素始终与射线照相解释错误相关，尽管改进的提示或更新的模型版本可能会改善这一点。值得注意的是，即使放射照相结果不正确并且不存在斑块保留因素，输出仍然评价良好，表明 EHR 数据本身就提供了坚实的基础。就临床适用性而言，M-LLM 的表现至少必须与牙周病医生相当，并满足牙周病专家制定的质量标准——GPT 和 Claude 似乎正在接近这一标准。结果：GPT o1 Pro 和 Claude Sonnet 4 显示出强劲的性能，86.7% 和 85.6% 的评级被认为可以接受，与牙周病医生的输出 (87.8%) 相当。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e87781\n\n05 · 论文研究\n用于标准化临床评估交互式培训的语音虚拟患者：混合方法试点研究\n结论：大语言模型支持的虚拟患者模拟为培训临床医生进行标准化临床评估提供了一种有前途的、可扩展的工具。该试点研究为系统以合理的保真度生成临床相关实践场景的能力提供了初步证据。结果：在 20 次访谈中，虚拟患者表现出对其配置的临床资料的合理遵守，人类评分者的分数接近其预定义的分数配置。 MADRS 评分者评分与配置评分之间的平均项目差异为 0.52 (SD 0.75)；总分的评估者间信度为 0.90 (95% CI 0.68‐0.99)。当被要求评估虚拟患者的定性真实性和凝聚力时，专家评分者始终给出“同意”到“强烈同意”的平均评级。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e89066\n"
+    "text": "奇点日报 · 2026-10-04\n近三日精选 · 2 件 AI 医疗大事\n\n01 · 论文研究\n尿液游离 RNA 用于膀胱癌检测和治疗反应预测\n尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04673-3\n\n02 · 论文研究\n6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验\n在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04675-1\n"
   }
 }

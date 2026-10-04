@@ -92,17 +92,17 @@ class RelevanceTests(unittest.TestCase):
     def test_financial_identity_does_not_qualify(self):
         self.assertEqual('archive',self.score('Baselayer raises funding for financial fraud identity technology')['reading_tier'])
 
-    def test_hospital_imaging_is_in_scope(self):
-        self.assertNotEqual('archive',self.score('Hospital launches artificial intelligence for medical imaging workflow')['reading_tier'])
+    def test_hospital_title_requires_editorial_review(self):
+        self.assertEqual('archive',self.score('Hospital launches artificial intelligence for medical imaging workflow')['reading_tier'])
 
-    def test_consumer_wearable_is_in_scope(self):
-        self.assertNotEqual('archive',self.score('Wearable smart ring launches sleep monitoring feature')['reading_tier'])
+    def test_wearable_title_requires_editorial_review(self):
+        self.assertEqual('archive',self.score('Wearable smart ring launches sleep monitoring feature')['reading_tier'])
 
     def test_drug_funding_without_technology_does_not_qualify(self):
         self.assertEqual('archive',self.score('New clinical immunology drugs raise funding in IPO')['reading_tier'])
 
-    def test_ai_drug_discovery_is_in_scope(self):
-        self.assertNotEqual('archive',self.score('Biotech raises funding for artificial intelligence drug discovery')['reading_tier'])
+    def test_drug_discovery_title_requires_editorial_review(self):
+        self.assertEqual('archive',self.score('Biotech raises funding for artificial intelligence drug discovery')['reading_tier'])
 
 class GateTests(unittest.TestCase):
     def test_sixth_invalid_line_and_missing_health_fail(self):

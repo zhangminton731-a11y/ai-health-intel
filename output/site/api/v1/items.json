@@ -2,232 +2,294 @@
   "schema_version": "1.0",
   "generated_at": "2026-10-04T06:49:52+00:00",
   "as_of": "2026-10-04",
-  "count": 38,
+  "count": 5,
   "items": [
     {
-      "id": "url:https://mhealth.jmir.org/2026/1/e91724",
-      "title": "使用可穿戴设备和机器学习对健康个体和肥胖个体进行无创间质血糖估计：观察队列研究",
-      "original_title": "Noninvasive Interstitial Glucose Estimation Using Wearables and Machine Learning in Healthy Individuals and Individuals With Obesity: Observational Cohort Study",
-      "summary": "结论：这项研究表明，可以在现实条件下使用机器学习方法从多模态、非侵入性可穿戴传感器数据中预测 IG 水平。虽然需要在更大、更多样化的人群中进行进一步验证，但这种方法代表着朝着可访问、个性化的血糖监测和饮食指导作为移动健康应用程序中的预防工具迈出了有希望的一步。结果：共有 74 名参与者，其中 34 名 (46%) 健康对照者和 40 名 (54%) 代谢风险 (MR) 个体在 2 周内同时使用侵入性 CGM 设备和 2 个无创腕带。健康对照组的平均年龄为 24.53 (SD 3.68) 岁，平均 BMI 为 22.36 (SD 2.16) kg/m²。相比之下，MR 队列的平均年龄为 55.38 (SD 15.08) 岁，平均 BMI 为 35.38 (SD 4.91) kg/m²。",
-      "url": "https://mhealth.jmir.org/2026/1/e91724",
-      "source": "JMIR mHealth and uHealth",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e91724"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕血糖管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-      "title": "DreaMed 获得 FDA 批准，用于 CGM 驱动的胰岛素自动化工具，适用于两种 2 型注射方案",
-      "original_title": "DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens",
-      "summary": "DreaMed Diabetes 的 MODI 已获得 FDA 510(K) 许可，MODI 是一款移动应用程序，使用 CGM（连续血糖监测）数据为需要基础胰岛素和速效注射的 2 型糖尿病患者提供胰岛素剂量建议。",
-      "url": "https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-28",
-      "topics": [
-        "consumer",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2020/01/GettyImages-869846050-600x400.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150271"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "regulation"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "围绕血糖管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕血糖管理，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e89189",
-      "title": "智能家居中技术增强的医疗保健：传感器技术、临床应用、集成挑战和未来方向的范围审查",
-      "original_title": "Technology-Enhanced Health Care in Smart Homes: Scoping Review of Sensor Technologies, Clinical Applications, Integration Challenges, and Future Directions",
-      "summary": "结论：与之前的工作不同，本次审查强调了实际采用障碍、互操作性挑战以及传感器性能和系统集成的公平考虑。本次范围审查的关键意义在于，它如何突出技术趋势和实施模式，同时通过涵盖可穿戴和环境系统来绘制 TEH 智能家居的全球部署。它展示了现实的整合场景，以及如何增强独立生活、预防性护理和个性化健康管理，同时减少住院和医疗保健费用。它展示了广泛的实施如何需要标准化的评估框架、强大的互操作性、适应性设计、公平的访问和临床友好的集成。",
-      "url": "https://medinform.jmir.org/2026/1/e89189",
-      "source": "JMIR Medical Informatics",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e89189"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕精神心理健康，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕精神心理健康，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e93018",
-      "title": "用于自动计算机断层扫描系列标记和表征的多模型、像素原生框架：概念验证研究",
-      "original_title": "A Multi-Model, Pixel-Native Framework for Automated Computed Tomography Series Labeling and Characterization: Proof-of-Concept Study",
-      "summary": "结论：Orchestrate 可实现 CT 系列的基于像素的自动分类、检测和语义描述，减少对手动选择的依赖和元数据不一致的风险。通过生成标准化语义内容，该框架为改善与临床系统的互操作性提供了概念证明，并支持将人工智能驱动的成像管道可靠、可重复地集成到临床工作流程中。结果：内部框架评估数据集和外部数据集的DICOM元数据不完整，对比度增强缺失率分别为42.9%（413/963）和92.9%（105/113），内部框架评估数据集中重建内核信息缺失率为0.4%（4/963）。在模型开发过程中，各个模型获得了 0.982 至 0.989 范围内的宏观 F 1 分数。",
-      "url": "https://medinform.jmir.org/2026/1/e93018",
-      "source": "JMIR Medical Informatics",
+      "id": "url:https://www.nature.com/articles/s41591-026-04651-9",
+      "title": "口服小分子 GLP-1 受体激动剂 safiglipron 治疗早期 2 型糖尿病：一项随机、双盲、安慰剂对照试验",
+      "original_title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
+      "summary": "Safiglipron 是一种口服小分子胰高血糖素样肽-1 (GLP-1) 受体激动剂，无需禁食或饮食限制。我们在 OUTSTAND-1 中评估了其有效性和安全性，这是一项在中国 46 个地点进行的 3 期、多中心、随机、双盲、安慰剂对照试验。我们将 284 名仅通过饮食和运动进行管理的 2 型糖尿病成人（平均基线 HbA1c 7.95%，中位糖尿病病程 1.6 年，33.1% 为女性）随机分为每日一次的 safiglipron 30 mg (n = 70)、60 mg (n = 70)、90 mg (n = 72) 或安慰剂 (n = 72)，为期 32 周，然后进行20 周积极治疗延长。对于主要终点，30 mg、60 mg和90 mg组的HbA1c从基线到第32周的变化的安慰剂调整治疗差异分别为-1.22%（95% CI，-1.53至-0.91）、-1.20%（95% CI，-1.52至-0.89）和-1.45%（95% CI，-1.75至-1.14）。分别（所有 P < 0.0001；",
+      "url": "https://www.nature.com/articles/s41591-026-04651-9",
+      "source": "Nature Medicine",
       "source_type": "期刊论文",
       "published_at": "2026-09-29",
       "topics": [
         "hospital",
-        "research",
-        "regulation"
+        "consumer",
+        "research"
       ],
       "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
-          "jmir_medinform"
+          "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e93018"
+        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
       },
       "sections": [
+        "industry",
         "research"
       ],
       "categories": {
+        "industry": [
+          "technology"
+        ],
         "research": [
-          "papers",
-          "methods"
+          "papers"
         ]
       },
       "research_stages": [
-        "design",
-        "data",
         "analysis",
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "围绕医学影像，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医学影像，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-      "title": "Oura推迟首次公开募股",
-      "original_title": "Oura delays IPO",
-      "summary": "以市场不确定性为由，这家智能戒指制造商计划推迟其原本预计筹集至多 22 亿美元的公开募股。",
-      "url": "https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-      "source": "MedTech Dive",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-29",
-      "topics": [
-        "consumer",
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/dWwvl3Ls0vDbyjrmbIMaGNVoHBqj64OuWCY1TpoL6HA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMl9PdXJhX1JpbmdfNF9Qcm9kdWN0X0ltYWdlcnkuanBn.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
+        "industry": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+        "research": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
         ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/oura-delays-ipo/831650/"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "business"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
+        "evaluated_at": "2026-10-04T06:33:57+00:00",
+        "input_hash": "6c309d8aa32d56e94156cbbf5bb4768b330f56a1f1602aa6eb3cb0e9302cf851",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "口服小分子GLP-1RA的III期RCT，设计规范、剂量-反应数据完整，对中国早期2型糖尿病用药选择和口服GLP-1赛道竞争格局均有参考价值；局限为无降糖药人群、32周疗程且减重作用温和，尚不能支持长期心血管获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143347e6f855b18e84477b",
+              "seconds": 4.67,
+              "usage": {
+                "completion_tokens": 199,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1298,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1497
+              }
+            },
+            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "非肽类口服GLP-1RA safiglipron的III期随机对照试验提供了完整的降糖疗效、体重效应有限和胃肠道安全性数据，对早期2型糖尿病治疗选择和口服小分子GLP-1赛道格局有直接参考价值；主要局限为纳入人群局限于中国、早期、未用药患者，且缺乏与肽类GLP-1RA的头对头比较。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143352ebfc9a33267343d6",
+              "seconds": 5.5,
+              "usage": {
+                "completion_tokens": 222,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 5
+                },
+                "prompt_tokens": 1298,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1520
+              }
+            },
+            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
+            "total": 73
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
       }
     },
     {
-      "id": "url:https://mhealth.jmir.org/2026/1/e89548",
-      "title": "在移动健康应用程序辅助的儿童肥胖干预中，看护者应用程序的使用和儿童行为依从性与肥胖相关结果的关系：集群随机试验的二次分析",
-      "original_title": "Caregiver App Use and Child Behavioral Adherence in Relation to Obesity-Related Outcomes in an mHealth App-Assisted Childhood Obesity Intervention: Secondary Analysis of a Cluster Randomized Trial",
-      "summary": "结论：在对 mHealth 应用程序辅助儿童肥胖干预的二次分析中，较高的护理人员应用程序使用依从性和儿童行为依从性与体重状况和身体健康的更有利变化相关。这些发现强调了数字健康计划中共同参与的重要性，并强调了应用程序支持、家庭参与的儿童肥胖预防策略的潜力。试验注册：ClinicalTrials.gov。 NCT03665857；  国际注册报告标识符 (IRRID)：RR2-10.1136/bmjopen-2018-027902 结果：较高的护理人员应用程序使用频率和持续时间均与儿童肥胖相关指标的降低显着相关，例如 BMI (β=−0.19; =.005)、BMI 评分 (β=−0.08; =.006) 和体脂百分比(BFP) (β=−0.70; =.005) 为频率。",
-      "url": "https://mhealth.jmir.org/2026/1/e89548",
-      "source": "JMIR mHealth and uHealth",
+      "id": "url:https://www.nature.com/articles/s41591-026-04675-1",
+      "title": "6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验",
+      "original_title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
+      "summary": "在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。",
+      "url": "https://www.nature.com/articles/s41591-026-04675-1",
+      "source": "Nature Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-09-24",
+      "published_at": "2026-10-02",
       "topics": [
         "hospital",
-        "consumer",
         "research"
       ],
       "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
-          "jmir_mhealth"
+          "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e89548"
+        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04675-1",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04675-1"
+      },
+      "sections": [
+        "industry",
+        "research"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ],
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:34:58+00:00",
+        "input_hash": "77455886ae4e21ece17b138d947337072486509f4115fc3a69d9f7967acf19ed",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100414344632c31c133044490a",
+              "seconds": 4.14,
+              "usage": {
+                "completion_tokens": 182,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 4
+                },
+                "prompt_tokens": 1086,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1268
+              }
+            },
+            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "整群随机试验设计合理，提供营养补充与常规免疫联合递送提升MCV1覆盖的因果证据，对低收入地区接种策略和公卫产品布局有直接参考价值；结果来自尼日利亚单一地区，外推到其他卫生系统需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143450a584272a249447f9",
+              "seconds": 7.62,
+              "usage": {
+                "completion_tokens": 331,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 161
+                },
+                "prompt_tokens": 1086,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1417
+              }
+            },
+            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04674-2",
+      "title": "索马鲁肽对 2 型糖尿病肾病的影响：一项随机安慰剂对照试验",
+      "original_title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
+      "summary": "GLP-1 受体激动剂索马鲁肽可保护 2 型糖尿病和慢性肾病患者的肾功能，但其潜在机制尚不清楚。该试验的结果表明，索马鲁肽的肾脏保护机制可能包括降低血管阻力、预防纤维化和改善促进内皮细胞健康的潜在分子程序。",
+      "url": "https://www.nature.com/articles/s41591-026-04674-2",
+      "source": "Nature Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-01",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04674-2",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04674-2"
       },
       "sections": [
         "research"
@@ -238,107 +300,235 @@
         ]
       },
       "research_stages": [
-        "analysis",
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可关注干预、对照和终点如何设置，为自己的验证方案提供参照；研究结果能否迁移还取决于人群与场景。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:37:49+00:00",
+        "input_hash": "4c18b3702bacf6116bedd0001e3c12e174f224e715d85673fc510ed0f3b736ea",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143736e6ccc6b68b064ef3",
+              "seconds": 6.83,
+              "usage": {
+                "completion_tokens": 197,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 576
+                },
+                "total_tokens": 1188
+              }
+            },
+            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "将多参数肾脏MRI、活检病理与单核/空间转录组整合用于机制探索的随机对照试验，在共同主要影像终点阴性的情况下提示血管阻力降低、纤维化进展受抑及肾小球内皮保护等机制，方法学设计对肾病与代谢药物机制研究有直接借鉴价值；主要限制是样本量小（106例、活检33例）且机制证据多为次要终点与相关性观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041437436de53027628f4998",
+              "seconds": 6.41,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1191
+              }
+            },
+            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
       }
     },
     {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e94617",
-      "title": "手术部位感染的可解释机器学习预测模型：范围综述",
-      "original_title": "Explainable Machine Learning Predictive Models for Surgical Site Infections: Scoping Review",
-      "summary": "结论：本次综述扩展了之前关注模型性能的综述，绘制了 SSI 预测中的可解释性方法和重要特征，识别了预测和诊断设置中反复出现的预测模式和显着的方法异质性。特征定义和解释原理的报告不完整，临床相关性有限，临床解释和可操作性受到限制。需要临床医生知情的报告框架以及对解释保真度和临床相关性的验证，以提高 SSI 预测模型的可信度和实用性。试用注册：PROSPERO CRD420251124760；  结果：总体而言，纳入了 77 项研究，报告了 98 个 ML 模型。大多数模型都是预后性的（72/98，73.5%），而 26 个模型则侧重于术后 SSI 诊断。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e94617",
-      "source": "Journal of Medical Internet Research",
+      "id": "url:https://www.nature.com/articles/s41591-026-04677-z",
+      "title": "黑色素瘤新辅助治疗的五年生存率：国际新辅助黑色素瘤联盟 (INMC) 的最新汇总分析",
+      "original_title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
+      "summary": "新辅助免疫检查点抑制剂（ICIs）是可切除的 IIIB-D 期黑色素瘤的标准治疗方法，但在最佳治疗类型、长期生存、术后管理以及临床、组织病理学或分子亚组方面仍然存在知识差距。 57.8% 的 ICI 患者、51.4% 的 BRAF/MEK 患者和 44.6% 的 ICI + TT 患者实现了 MPR。",
+      "url": "https://www.nature.com/articles/s41591-026-04677-z",
+      "source": "Nature Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-09-30",
+      "published_at": "2026-10-01",
       "topics": [
         "hospital",
         "research"
       ],
       "event_type": "seen",
       "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/410715e495876fbcbd4aab33069d2685",
         "observed_in_sources": [
-          "jmir"
+          "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e94617"
+        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
       },
       "sections": [
+        "industry",
         "research"
       ],
       "categories": {
+        "industry": [
+          "technology"
+        ],
         "research": [
           "papers"
         ]
       },
       "research_stages": [
-        "design",
         "data",
-        "analysis",
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "industry": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。",
+        "research": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。"
+      },
+      "reading_value_score": 75,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:37:53+00:00",
+        "input_hash": "6c9c127173c4c86eb5d9c1c83746812f2661f9c8a02e49feca514ad389651aed",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "26个国际中心、1038例新辅助治疗黑色素瘤患者的汇总分析，提供了PD-1单药/联合、BRAF/MEKi及ICI+TT各方案的3–5年RFS与OS长期数据，并显示MPR患者术后辅助ICI无额外获益，对围手术期治疗策略和研究设计有直接指导意义。主要限制为汇总分析存在异质性与选择偏倚，亚组样本小，非随机比较不能确立因果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041437421ed1aa6cf739470e",
+              "seconds": 5.41,
+              "usage": {
+                "completion_tokens": 216,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1278,
+                "prompt_tokens_details": {
+                  "cached_tokens": 576
+                },
+                "total_tokens": 1494
+              }
+            },
+            "support": "We analyzed 1,038 patients treated with neoadjuvant ICIs (n = 735), BRAF and MEK inhibitors (BRAF/MEKis; n = 119) or ICI plus any targeted therapy (ICI + TT; n = 184) from 26 international sites",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "26个国际中心、1038例的更新汇总分析提供了新辅助治疗黑色素瘤5年RFS/OS及MPR与生存的关键长期数据，对临床方案选择与后续试验设计有实质参考价值；但属汇总分析，存在异质性与选择偏倚，MPR后辅助治疗无益的结论需前瞻验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041437481815577058f7423f",
+              "seconds": 5.42,
+              "usage": {
+                "completion_tokens": 172,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1278,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1450
+              }
+            },
+            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
+            "total": 77
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
       }
     },
     {
-      "id": "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-      "title": "人工智能的医疗保健“世界末日”？与其说是自治，不如说是信任",
-      "original_title": "AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust",
-      "summary": "对于一名 ICU 医生和初创公司首席营销官来说，更直接的危险不是自治系统接管医学并抛弃人类决策。医疗保健组织利用人工智能主要是为了提高效率，同时使医疗保健提供者更加陷入复杂性和监管之中。",
-      "url": "https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2025/10/patients-with-AI.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150302"
-      },
-      "sections": [
-        "research",
-        "industry"
-      ],
-      "categories": {
-        "research": [
-          "policy"
-        ],
-        "industry": [
-          "technology",
-          "regulation"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可先核对适用机构、实施时间与数据使用条件，判断是否影响你的课题方案和合作路径。",
-        "industry": "结合这篇文章的具体场景，可核对准入对象、预期用途和适用地区，帮助判断产品验证与申报路线；不宜把单项获批外推到同类产品。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e98247",
-      "title": "HIMSS 电子病历采用模型 (EMRAM) 第 7 阶段医院中受控物质安全的可量化 3D 闭环框架：事前质量改进研究",
-      "original_title": "A Quantifiable 3D Closed-Loop Framework for Controlled Substance Safety in a HIMSS Electronic Medical Record Adoption Model (EMRAM) Stage 7 Hospital: Pre-Post Quality Improvement Study",
-      "summary": "结论：3D 闭环框架的实施与数字化成熟医院中受控物质过程指标的改善暂时相关。实施参数可作为其他区或机构当地可行性测试的参考，但可转移性仍有待评估。仍需要多中心研究来确认可持续性和可转移性。结果：分析包括实施前处方配药记录3264条，实施后处方配药记录3311条。处方配药记录合规性从 94.82% (3095/3264) 提高到 98.7% (3268/3311)。批次号管理不合规率从 2.4% (24/1000) 下降到 0.6% (6/1000)。",
-      "url": "https://medinform.jmir.org/2026/1/e98247",
-      "source": "JMIR Medical Informatics",
+      "id": "url:https://www.nature.com/articles/s41591-026-04673-3",
+      "title": "尿液游离 RNA 用于膀胱癌检测和治疗反应预测",
+      "original_title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
+      "summary": "尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。",
+      "url": "https://www.nature.com/articles/s41591-026-04673-3",
+      "source": "Nature Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-09-25",
+      "published_at": "2026-10-02",
       "topics": [
         "hospital",
         "research"
@@ -346,16 +536,23 @@
       "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
-          "jmir_medinform"
+          "nature_medicine"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e98247"
+        "snapshot_observed_at": "2026-10-04T06:00:35+00:00",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
       },
       "sections": [
+        "industry",
         "research"
       ],
       "categories": {
+        "industry": [
+          "technology"
+        ],
         "research": [
           "papers"
         ]
@@ -364,1138 +561,93 @@
         "analysis"
       ],
       "recommendation_reasons": {
-        "research": "围绕病历数据，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕病历数据，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
-      "title": "生成式人工智能支持的虚拟现实牙科技能培训对牙科学生学习表现、视觉行为和皮质激活的影响：分层随机对照试验",
-      "original_title": "Effects of Generative AI–Supported Virtual Reality Dental Skill Training on Learning Performance, Visual Behavior, and Cortical Activation Among Dental Students: Stratified Randomized Controlled Trial",
-      "summary": "结论：随机接受 GenAI 辅助培训的学生比接受教师指导的学生具有更高的即时手术分数。次要的认知、行为和神经生理学发现是探索性的，并指出接受基于 VR 培训的牙科学生中 GenAI 暴露与技能获取指标变化之间存在联系。结果提供了有关 GenAI 与临床前牙科技能教育的潜在整合的初步见解。临床试验：中国临床试验注册中心ChiCTR2500110063；",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e90938",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-01",
-      "topics": [
-        "hospital",
-        "research",
-        "business",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2783e59564a352bc43854bf93721c931",
-        "observed_in_sources": [
-          "jmir"
+        "industry": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。",
+        "research": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
         ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90938"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可关注干预、对照和终点如何设置，为自己的验证方案提供参照；研究结果能否迁移还取决于人群与场景。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-      "title": "9 月份 4 项值得注意的健康科技融资公告",
-      "original_title": "4 Notable Health Tech Funding Announcements in September",
-      "summary": "健康科技公司在 9 月份发布了几项重大融资公告。以下是一些最大融资轮的列表。",
-      "url": "https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-30",
-      "topics": [
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity.jpg",
-        "observed_in_sources": [
-          "medcity_news"
+        "evaluated_at": "2026-10-04T06:39:30+00:00",
+        "input_hash": "cc887746e1c8ffdacfc8ee5e1a40919bd3af3dc77afc9342c8becf7807636b9e",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "uRARE-seq在683例尿样中实现95%敏感度/90%特异度检测局限性膀胱癌，优于尿肿瘤DNA，并可预测BCG应答（AUC 0.93），对无创诊断与MRD监测有明确研究转化价值。但证据基于回顾性样本分析，作者自述需前瞻性研究验证临床效用，且摘要级信息无法评估队列构成细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143919732ae428e9f04089",
+              "seconds": 9.75,
+              "usage": {
+                "completion_tokens": 207,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 35
+                },
+                "prompt_tokens": 956,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1163
+              }
+            },
+            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "research",
+            "reason": "uRARE-seq在683例样本上实现95%灵敏度/90%特异度的局限性膀胱癌检测，并建立BCG应答预测标志物（AUC 0.93），对液体活检方法学与治疗决策均有实质参考价值。主要限制为需前瞻性研究验证临床效用，且数据似为回顾性队列。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143924883437ce97524a52",
+              "seconds": 6.16,
+              "usage": {
+                "completion_tokens": 299,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 143
+                },
+                "prompt_tokens": 956,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1255
+              }
+            },
+            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
+            "total": 65
+          }
         ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150329"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "business"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可观察资金或合作方投向什么场景，再对照自身产品寻找合作切口；交易进展仍以公告为准。"
-      }
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-      "title": "数据隐私问题可能会阻碍患者使用人工智能",
-      "original_title": "Data privacy concerns could hold patients back from using AI",
-      "summary": "尽管人工智能已迅速融入我们的日常生活，但美国人表示他们越来越关心自己的健康数据。",
-      "url": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-      "source": "MedTech Dive",
-      "source_type": "专业媒体",
-      "published_at": "2026-10-01",
-      "topics": [
-        "hospital"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/BVx_y6Z9iQTJJXWVXUMxvDtiHxYobGMqAPkXVXhOFkw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-      "title": "Brainomix 的 e-Lung 在 III 期试验中显示进展和治疗反应",
-      "original_title": "Brainomix’s e-Lung shows progression and treatment response in Phase III trial",
-      "summary": "试验操作员越来越多地将成像工具和相关的基于人工智能 (AI) 的工具纳入他们的研究方案中。",
-      "url": "https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-      "source": "Medical Device Network",
-      "source_type": "专业媒体",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2026/10/shutterstock_1720751053.jpg",
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245571"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "围绕医学影像，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕医学影像，可对照新方案解决的用户问题与使用流程，判断你的现有产品适合补什么 AI 能力；商业披露需结合实际验证。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e89422",
-      "title": "在基于人群的筛查计划中开发用于结直肠息肉风险分层的可解释分诊工具：机器学习方法",
-      "original_title": "Development of an Interpretable Triage Tool for Colorectal Polyp Risk Stratification Within a Population-Based Screening Program: Machine Learning Approach",
-      "summary": "结论：本研究提供了一种可扩展、可解释的分类工具，以补充现有的两步 CRC 筛查方案。通过仅利用非侵入性变量，LightGBM 模型可以优先转诊结肠镜检查，提供资源高效的策略，在资源有限的环境中优化 CRC 预防。结果：在评估的 9 种 ML 算法中，XGBoost（极端梯度提升）在接收者操作特征曲线下获得了最高面积，为 0.672，而 LightGBM（光梯度提升机）由于其卓越的召回率 (0.6503) 被确定为临床分诊的最佳模型，召回率是社区筛查中最大限度减少漏诊病灶的关键指标。 SHAP 分析确定当前吸烟状况、性别和结直肠息肉家族史是最有影响的因素。",
-      "url": "https://medinform.jmir.org/2026/1/e89422",
-      "source": "JMIR Medical Informatics",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e89422"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-      "title": "生成式人工智能操纵生物医学研究图像来改变科学结果：人类诊断研究和自动检测",
-      "original_title": "Biomedical Research Images Manipulated by Generative AI to Alter Scientific Outcomes: Diagnostic Study of Human and Automated Detection",
-      "summary": "在对 104 个蛋白质印迹和皮下异种移植肿瘤图像进行的诊断研究中，高保真生成模型产生了可能改变研究结论的伪造品； 24 名博士级专家评审员无法可靠地区分伪造数据和真实数据（平均准确度 50.5%，SD 6.9%），而性能最好的商业 AI 检测器仅实现中等辨别（曲线下面积 0.790，95% CI 0.695-0.885），揭示了当前研究诚信保障措施中的严重漏洞。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e100710",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/637b749ee3a96c6fcf5c68e5443d279a",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e100710"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕肿瘤诊疗，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕肿瘤诊疗，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-      "title": "人工智能全力支持护理团队：环境图表只是开始",
-      "original_title": "AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start",
-      "summary": "问题是，这些人工智能工具是否会成为另一层碎片化的技术，或者是真正的助手，帮助他们将更多时间花在病人护理上。",
-      "url": "https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-25",
-      "topics": [
-        "hospital"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=148903"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90115",
-      "title": "新型基于网络的健康行为工具集成到认证运动从业者服务中的行为改变和合规结果：十二周、双臂、随机前后试验",
-      "original_title": "Behavior Change and Compliance Outcomes of a Novel Web-Based Health Behavior Tool Integrated Into Certified Exercise Practitioner Services: Twelve-Week, Two-Arm, Randomized Pre-Post Trial",
-      "summary": "结论：FESS 调查问卷证明了可行性，并且在纳入 CEP 服务时与观察到的健康行为变化相关，特别是饮食、压力和睡眠方面。虽然日常使用与观察到的较大变化相关，但合规性的降低凸显了灵活参与策略的重要性。这些初步研究结果表明，CEP 服务可能会受益于将结构化数字工具嵌入到传统的面对面互动中，因为此类工具可以支持教育，促进会议之间的反思和问责，并促进在常规 CEP 护理中关注更广泛的生活方式因素。需要进一步的对照研究来证实这些发现。结果：大多数行为都观察到积极的变化或没有变化，蔬菜摄入量、水摄入量、压力和睡眠都有显着改善。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e90115",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/656643488cb3df1e74a935f6c0ab12d0",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90115"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕睡眠与呼吸监测，可关注干预、对照和终点如何设置，为自己的验证方案提供参照；研究结果能否迁移还取决于人群与场景。",
-        "industry": "围绕睡眠与呼吸监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e100805",
-      "title": "在资源有限的非洲卫生系统中实施人工智能语音电子病历的准备情况和采用：多站点定性研究",
-      "original_title": "Implementation Readiness and Adoption of AI-Enabled Voice Electronic Medical Records in Resource-Constrained African Health Systems: Multisite Qualitative Study",
-      "summary": "结论：在埃塞俄比亚成功实施人工智能语音电子病历需要对数字基础设施、本地化语言模型、加强数据治理和迭代用户引导进行协调投资。这些发现强调了在资源匮乏的卫生系统中部署基于语音的人工智能时，迫切需要采取情境敏感且基于道德的方法。结果：确定了四个总体主题。首先，参与者预期有明显的临床益处，包括减少打字负担、提高文档连续性和增强患者互动，但对自动化错误、与口音相关的转录失败和持续的基础设施不稳定表示严重担忧。其次，可用性障碍，包括界面复杂性、培训不足和数字焦虑，影响了干部对技术的接受程度。",
-      "url": "https://medinform.jmir.org/2026/1/e100805",
-      "source": "JMIR Medical Informatics",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e100805"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕病历数据，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕病历数据，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e102359",
-      "title": "医疗人工智能的精细化排除：数据正义与患者安全治理",
-      "original_title": "Refined Exclusion in Medical AI: Data Justice and Patient Safety Governance",
-      "summary": "医疗人工智能通常使用区分度、校准和准确性的综合衡量标准进行评估。这种观点将精细排除定义为一种治理条件，在这种条件下，人工智能系统总体上看起来是成功的，而不确定性、错误或临床可靠性降低则集中在没有充分代表、测量、验证或监控的人群中。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e102359",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-01",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d935ab20b0ddab565373f4ed2e2dc7b7",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e102359"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e94109/",
-      "title": "手术技能评估中人类自主团队的机器学习：范围综述",
-      "original_title": "Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review",
-      "summary": "结论：当前的人工智能技术为客观技能评估提供了坚实的基础，但尚未为自主团队做好准备。未来的发展必须优先考虑模型的稳健性、可解释性以及与临床环境的无缝集成，以从独立的评估工具过渡到有效的手术队友。试用注册：OSF 注册中心 10.17605/OSF.IO/PQWS5；  结果：我们对 92 项纳入研究的分析揭示了向多模态数据集成和深度学习架构的主导转变。虽然基准数据集经常报告高性能，但 HAT 集成仍然存在重大障碍。 TRL 分析显示，77.2% (71/92) 的研究仍处于 TRL 3（概念验证），只有 2.2% (2/92) 达到 TRL 5 或更高。",
-      "url": "https://ai.jmir.org/2026/1/e94109/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/c1217cf586fd8a07e918c3353d9c8eca",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e94109/"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/",
-      "title": "当人工智能出错时，谁该负责？",
-      "original_title": "When AI Gets Medicine Wrong, Who’s Liable?",
-      "summary": "随着医疗保健领域的人工智能技术越来越深入地参与复杂、高风险的诊断和治疗计划任务，传统的责任界限将变得不那么清晰。人工智能支持的医疗保健的责任在哪里？",
-      "url": "https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-27",
-      "topics": [
-        "hospital"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1206961013-600x257.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150214"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e93900/",
-      "title": "将现实世界的安全和实施差距转化为 NHS 医疗保健提供者部署衍生的 AI 准备实施前清单：清单开发研究",
-      "original_title": "Translating Real-World Safety and Implementation Gaps Into a Deployment-Derived AI Readiness Preimplementation Checklist for NHS Health Care Providers: Checklist Development Study",
-      "summary": "结论：SID 和 ADE 人工智能预实施清单将现实世界的人工智能部署学习转化为实用的预实施审议工具。目前的证据支持原始信任环境中的表面和内容有效性，但在提出预测有效性、普遍性或定量上线阈值之前，需要进行独立的前瞻性验证。结果：检查表包含 8 个领域：用例定义；临床安全和责任；本地验证和性能；劳动力准备情况和人为因素；运营和技术整合；信息治理和道德；采购、责任和财务风险；以及监控、评估和停止规则。",
-      "url": "https://ai.jmir.org/2026/1/e93900/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-28",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8e1e1149e0b28b8a2060aecefdc0de39",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e93900/"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
-      "title": "GE医疗保健聘请新的全球首席人工智能官",
-      "original_title": "GE HealthCare hires new global chief AI officer",
-      "summary": "Rodolphe Katra 从美敦力 (Medtronic) 加盟，领导 GE HealthCare 连接设备、软件和数据的工作。",
-      "url": "https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
-      "source": "MedTech Dive",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-30",
-      "topics": [],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/YluCGW2tJnVe7ms42s6iuKV0pKdWDNc01eWC5RskGgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRV9IZWFsdGhjYXJlX0hRLmpwZw==.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-      "title": "谷歌的人工智能在预测流感住院方面排名第一。",
-      "original_title": "Google's AI ranks #1 for predicting flu hospitalizations.",
-      "summary": "美国疾病控制中心宣布，谷歌的科学人工智能模型在预测流感相关住院情况方面表现最好。",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-      "source": "Google Blog",
-      "source_type": "企业发布",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp",
-        "observed_in_sources": [
-          "fitbit_google_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "fitbit_google_blog",
-        "upstream_id": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-      "title": "MedCity Pivot 播客：与 AliveCor 的 Priya Abani 的对话",
-      "original_title": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani",
-      "summary": "在 MedCity Pivot 播客的这一集中，首席执行官 Priya Abani 谈论了 AliveCor（最早的数字医疗公司之一）的演变。",
-      "url": "https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-29",
-      "topics": [],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150289"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "overview"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e85047/",
-      "title": "接受机器学习用于癫痫药物选择，为临床试验设计提供信息：联合设计调查研究",
-      "original_title": "Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study",
-      "summary": "结论：这项研究强调了在使现有框架适应特定临床环境时协同设计的重要性。本研究中开发的用于 ASM 选择的共同设计的 ML 接受调查问卷可用于评估 ML 技术在癫痫领域的可接受性，加强未来的试验并支持正在进行的技术开发。结果：共有 32 名参与者完成了调查，其中包括 22 名（68.8%）成人癫痫患者和 10 名（31.2%）神经科医生。虽然参与者认为核心 UTAUT2 构造相关，但定性反馈确定了影响 ML 接受度的其他领域，包括情感态度、感知风险、知识增强、共同决策中的冲突以及工作场所政策和监管等背景因素。",
-      "url": "https://ai.jmir.org/2026/1/e85047/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-25",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a4f70baf3d166f67a039e2c13cd6431f",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e85047/"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e79512",
-      "title": "荷兰初级保健中远程患者管理支持的心血管护理途径：成本效益、预算影响和工作量分析",
-      "original_title": "A Cardiovascular Care Pathway Supported by Remote Patient Management in Dutch Primary Care: Cost-Effectiveness, Budget Impact, and Workload Analysis",
-      "summary": "结论：CVRM-Box 多成分 RPM 干预可能在高风险亚组中具有成本效益，但在低风险组中则不然。干预进一步减少了 PN 工作量，但没有减少全科医生的工作量。结果主要适用于荷兰的情况，可能无法推广到具有不同支付/激励安排的医疗保健系统。此外，长期结果是使用预测模型而不是观察到的心血管事件来建模的。尽管如此，我们的研究结果为在高风险亚组的初级保健中实施提供了论据。结果：在总体人群中，与照常护理相比，CVRM-Box 增加了成本和 QALY，获得了 17,340 欧元/QALY 的 ICER（截至 2023 年 12 月 29 日，1 欧元=1.11 美元），并且在愿意支付门槛为 20,000 欧元/QALY 时，成本效益概率为 60%。",
-      "url": "https://mhealth.jmir.org/2026/1/e79512",
-      "source": "JMIR mHealth and uHealth",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-28",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e79512"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e85695",
-      "title": "东非育龄妇女的医疗保健获取障碍：使用国土安全部数据开发和验证机器学习预测模型",
-      "original_title": "Health Care Access Barriers Among Reproductive-Age Women in East Africa: Development and Validation of Machine Learning Prediction Models Using DHS Data",
-      "summary": "结论：XGBoost 模型在评估的算法中表现出最佳的预测性能。研究结果表明，尽管本研究没有进行正式的地方“极端风险”分类，但相当大比例的育龄妇女在获得医疗保健方面遇到障碍。通过扩大医疗保险覆盖范围来加强全面的健康教育和减少财务障碍可能有助于改善医疗保健的可及性，特别是农村妇女等弱势群体。结果：在研究中纳入的 228,654 名育龄女性中，XGBoost 分类器表现出最佳的预测性能，准确度为 94.46%，精确度为 94.62%，召回率为 93.73%，得分为 94.17%，曲线下面积为 98%。总体而言，92.63% (211,794/228,654) 的女性在获得医疗保健方面遇到障碍。",
-      "url": "https://medinform.jmir.org/2026/1/e85695",
-      "source": "JMIR Medical Informatics",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-28",
-      "topics": [
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e85695"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e91151",
-      "title": "使用基于 Transformer 的语言模型检测拼写错误的药物名称：模型开发和外部验证",
-      "original_title": "Detecting Misspelled Drug Names Using Transformer-Based Language Models: Model Development and External Validation",
-      "summary": "结论：特定领域的语言模型改进了词汇表外药物名称拼写错误的检测，并且在内部和外部评估中均优于基线模型。与生成式大语言模型的比较表明，领域转移可能会大大降低特定领域培训所带来的优势。通过对捕获真实临床环境中遇到的术语、格式约定和拼写模式的各种数据进行进一步微调，这些模型可以适用于其他临床数据库和 EHR 系统，以提高研究的药物数据质量并支持未来以安全为重点的应用。结果：在 RxNorm 测试集上，BERTDrug 和 CharBERTDrug 在大多数指标上都优于基线模型。 BERTDrug 取得了最佳的整体性能（F 1 -score=0.859；",
-      "url": "https://medinform.jmir.org/2026/1/e91151",
-      "source": "JMIR Medical Informatics",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e91151"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e101393",
-      "title": "机器学习优先处理高严重性患者安全事件以进行机构调查：算法开发和验证研究",
-      "original_title": "Machine Learning to Prioritize High-Severity Patient Safety Events for Institutional Investigation: Algorithm Development and Validation Study",
-      "summary": "结论：与两种分类方法和报告者分配的严重性基线相比，LLAMA3.1-RA 在优先考虑高严重性 PSE 方面表现出卓越的能力。将此模型集成到分类工作流程中可以提供可扩展且高效的解决方案，用于识别高严重性安全事件并确定其优先级。结果：排名模型 LLAMA3.1-RA 达到了最高的平均精度 0.94 (95% CI 0.90-0.98)，比最佳分类模型 (LLAMA3.1-CL：平均 0.77，95% CI 0.72-0.82；P < .001) 相对提高了 22.1%。 LLAMA3.1-RA 在 16 个评估指标中的 10 个指标中表现出优异的性能，在更广泛的评估截止值上具有更大的相对收益（例如，NDCG@200 中 +12.9%，Precision@200 中 +21.1%，Recall@200 中 +20.3%）。",
-      "url": "https://medinform.jmir.org/2026/1/e101393",
-      "source": "JMIR Medical Informatics",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e101393"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96621",
-      "title": "仿生人是否梦想着生活体验？围绕患者和公众参与和参与的生成人工智能的风险、不确定性和最佳实践",
-      "original_title": "Do Androids Dream of Lived Experience? Navigating Risks, Uncertainty, and Best Practices Around Generative AI in Patient and Public Involvement and Engagement",
-      "summary": "国际注册报告标识符 (IRRID)：RR2-10.2196/49303",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e96621",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96621"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e101942/",
-      "title": "探索人工智能在精神卫生保健和心理治疗中的应用：提出 GUIDE 框架",
-      "original_title": "Navigating AI in Mental Health Care and Psychotherapy: Proposing the GUIDE Framework",
-      "summary": "无论临床医生是否邀请，人工智能已经进入心理健康咨询室。 OpenAI 报告称，ChatGPT 有超过 8 亿普通用户，每天有超过 4000 万人通过该平台寻求健康问题，但基于大型语言模型的心理健康聊天机器人的临床功效的证据仍然有限。专业指导和监管仍然分散。因此，临床医生是在不容忽视的患者现实和尚未建立的专业基础设施之间的差距中进行实践的。我们认为，在当前环境下，无论是热情采纳还是原则性弃权都不够。拒绝讨论临床重要患者人工智能使用的临床医生并不是在阻止这种使用；而是在阻止这种使用。他们可能无法了解对治疗过程产生重大影响的因素。",
-      "url": "https://ai.jmir.org/2026/1/e101942/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/3447ca8cdcde6a46a4179bfe3c391445",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e101942/"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕精神心理健康，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕精神心理健康，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e95863",
-      "title": "成人糖尿病患者移动健康干预研究的报告差距：系统评价",
-      "original_title": "Reporting Gaps in mHealth Intervention Studies for Adults With Diabetes: Systematic Review",
-      "summary": "结论：针对成人糖尿病的移动健康干预措施的实证研究在报告中表现出系统性结构缺陷，特别是在系统集成、数据安全和监管合规性方面。这些遗漏极大地破坏了数字糖尿病护理解决方案的透明度、可重复性和现实世界的可扩展性。未来的试验必须严格采用标准化报告框架，例如 mERA 检查表，以弥合临床疗效与大规模公共卫生政策转化之间的差距。结果：最终分析纳入了在 49 个国家进行的 144 项随机对照试验。 mERA 报告总体平均得分为 6.74（满分 16 分）（SD 2.71）。虽然干预措施（n=128，88.9%）和技术平台（n=117，81.3%）等基本特征得到了充分报道，但关键的系统级领域在很大程度上被忽略了。",
-      "url": "https://mhealth.jmir.org/2026/1/e95863",
-      "source": "JMIR mHealth and uHealth",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-01",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e95863"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕血糖管理，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "围绕血糖管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95273",
-      "title": "探索 YouTube 上科学和伪科学健康社区的对话动态：流程挖掘和网络分析研究",
-      "original_title": "Exploring Conversational Dynamics in Scientific and Pseudoscientific Health Communities on YouTube: Process Mining and Network Analysis Study",
-      "summary": "结论：网络分析和流程挖掘技术的应用揭示了与健康相关的 YouTube 讨论的对话动态中的不同模式。在采样的语料库中，科学讨论似乎与混合价评估和治疗相关的交流更兼容，而伪科学讨论则显示出与人际肯定和社会情感联系更一致的模式。这些初步研究结果表明，网络分析和过程挖掘是研究在线健康传播和错误信息生态系统的有前途的方法。他们还建议，公共卫生战略可能会受益于在信息提供的同时考虑参与错误信息社区的情感和社区联系维度。结果：网络分析揭示了不同的对话核心。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e95273",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1e8102e1cbec47d5ea259344ba4e0ebc",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95273"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-      "title": "牙周炎风险评估和预防规划：多模态大语言模型和牙周病医生评估的比较研究",
-      "original_title": "Periodontitis Risk Assessment and Prevention Planning: Comparative Study of Multimodal Large Language Models and Periodontist Evaluations",
-      "summary": "结论：M-LLM 在牙周评估中表现出很强的推理能力。在所有模型中，不可接受的元素始终与射线照相解释错误相关，尽管改进的提示或更新的模型版本可能会改善这一点。值得注意的是，即使放射照相结果不正确并且不存在斑块保留因素，输出仍然评价良好，表明 EHR 数据本身就提供了坚实的基础。就临床适用性而言，M-LLM 的表现至少必须与牙周病医生相当，并满足牙周病专家制定的质量标准——GPT 和 Claude 似乎正在接近这一标准。结果：GPT o1 Pro 和 Claude Sonnet 4 显示出强劲的性能，86.7% 和 85.6% 的评级被认为可以接受，与牙周病医生的输出 (87.8%) 相当。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e87781",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87781"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e89066",
-      "title": "用于标准化临床评估交互式培训的语音虚拟患者：混合方法试点研究",
-      "original_title": "Voice-Enabled Virtual Patients for Interactive Training in Standardized Clinical Assessment: Mixed Methods Pilot Study",
-      "summary": "结论：大语言模型支持的虚拟患者模拟为培训临床医生进行标准化临床评估提供了一种有前途的、可扩展的工具。该试点研究为系统以合理的保真度生成临床相关实践场景的能力提供了初步证据。结果：在 20 次访谈中，虚拟患者表现出对其配置的临床资料的合理遵守，人类评分者的分数接近其预定义的分数配置。 MADRS 评分者评分与配置评分之间的平均项目差异为 0.52 (SD 0.75)；总分的评估者间信度为 0.90 (95% CI 0.68‐0.99)。当被要求评估虚拟患者的定性真实性和凝聚力时，专家评分者始终给出“同意”到“强烈同意”的平均评级。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e89066",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/253af14d7e8fd2ed2f67b170a4703d39",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e89066"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-      "title": "医院和付款人人工智能治理正处于十字路口",
-      "original_title": "Hospital and Payer AI Governance Is at a Crossroads",
-      "summary": "[赞助] MedCity News 和 Cotiviti 的研究表明，付款人和提供商大力采用人工智能，但他们针对人工智能治理和人工智能武器化网络安全威胁采取了哪些措施？",
-      "url": "https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-      "source": "MedCity News",
-      "source_type": "专业媒体",
-      "published_at": "2026-09-28",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150239"
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      }
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90592",
-      "title": "实施新生儿护理远程医疗：基于多国经验的实用工具包教程",
-      "original_title": "Implementing Telemedicine for Neonatal Care: Tutorial on a Practical Toolkit Based on Multinational Experience",
-      "summary": "新生儿护理中医疗保健提供者 (HCP) 之间的实时视听连接称为远程新生儿学 (TeleNeo)，可以改善新生儿护理。对于患者和家庭而言，TeleNeo 可以确保无论身在何处都能及时获得专家的参与，从而改善患者的治疗效果并促进家庭一体化和以患者为中心的护理，从而增强信任和安心。对于临床医生和医疗保健组织而言，TeleNeo 能够帮助专家做出决策，促进持续的专业发展，促进医院之间的知识交流，并增强员工管理复杂医疗案例的信心。然而，组织、技术和基础设施要求可能会阻碍技术干预措施（例如 TeleNeo）的成功实施和持续采用。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e90592",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-30",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430bacd589808af1eb42a8b7c08c0e01",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90592"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
       }
     }
   ]

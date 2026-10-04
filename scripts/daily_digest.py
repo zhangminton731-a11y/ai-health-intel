@@ -32,7 +32,7 @@ def build_issues(items: list[dict], as_of: date, max_age: int = 10) -> list[dict
     issues = []
     for day, rows in sorted(groups.items(), reverse=True):
         # Keep multiple subjects visible; never invent a missing policy story.
-        rows.sort(key=lambda i: (-i.get('rel', 0), i['id']))
+        rows.sort(key=lambda i: (-(i.get('rel') or 0), i['id']))
         unique, seen = [], set()
         for row in rows:
             key = re.sub(r'\W+', '', (row.get('te') or row.get('t', '')).casefold())

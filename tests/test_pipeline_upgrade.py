@@ -125,20 +125,20 @@ class ResearchTests(unittest.TestCase):
         item = normalize_item({'title':title,'summary':summary,'url':'https://example.org/article','published_at':day}, {'id':'npj_digital_medicine','kind':'rss'})
         return score_item(item, profile, date(2026,10,4))
 
-    def test_technical_research_is_not_dependent_on_launch_keywords(self):
+    def test_research_titles_do_not_bypass_model_review(self):
         for title in ('Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with clinical validation',
                       'OncoTagger: a reproducible landscape of AI-oncology articles',
                       'Shapley value explanations for clinical prediction models: a scoping review'):
             with self.subTest(title=title):
                 result = self.score(title, 'A study of methods and validation with clinical data.')
-                self.assertNotEqual('archive',result['reading_tier'])
-                self.assertIn('research',result['selection_audiences'])
+                self.assertEqual('archive',result['reading_tier'])
+                self.assertEqual('pending',result['editorial']['status'])
 
     def test_missing_abstract_is_pending_not_recommended(self):
         result = self.score('Clinical AI validation study')
-        self.assertEqual('needs_review', result['content_status'])
+        self.assertEqual('title_only', result['content_status'])
         self.assertEqual('archive', result['reading_tier'])
-        self.assertIn('missing_summary',result['selection_reasons'])
+        self.assertEqual('pending',result['editorial']['status'])
 
     def test_research_does_not_admit_unrelated_or_future_items(self):
         for title in ('Shapley explanations for financial prediction models', 'Clinical drug raises funding', 'AI hotel booking software'):

@@ -45,7 +45,12 @@ jobs:
         id: collect
         env:
           PYTHONPATH: ${{ github.workspace }}/engine/src
+          SIH_LLM_ENDPOINT: ${{ secrets.SIH_LLM_ENDPOINT }}
+          SIH_LLM_MODEL: ${{ secrets.SIH_LLM_MODEL }}
+          SIH_LLM_API_KEY: ${{ secrets.SIH_LLM_API_KEY }}
         run: |
+          mkdir -p output/.cache
+          if [ -f output/source_health.json ]; then cp output/source_health.json output/.cache/previous_source_health.json; fi
           rm -f output/source_health.json
           python -m sih_ref.cli run --config config/sources.json --profile config/profile.json --output-dir output --live
       - name: Preserve health history even when collection fails

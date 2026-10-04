@@ -21,6 +21,7 @@ class ReaderContextTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             path=Path(tmp)/'history.jsonl'
             rows=[row('valid','2026-09-09'),row('stale','2026-09-01'),row('future','2026-09-29')]
+            rows=[dict(r, reading_tier='skim') for r in rows]
             found=update_history(path,rows,profile,date(2026,9,28))
             self.assertEqual(['2026-09-09'],[r['published_at'] for r in found])
             self.assertEqual(found,update_history(path,rows[:1],profile,date(2026,9,28)))

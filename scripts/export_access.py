@@ -14,7 +14,8 @@ def export_access(site: Path) -> None:
         topics={'type':'array','items':{'type':'string'}},sections={'type':'array','items':{'enum':['research','industry']}},
         categories={'type':'object','additionalProperties':{'type':'array','items':{'type':'string'}}},
         research_stages={'type':'array','items':{'type':'string'}},provenance={'type':'object'},
-        recommendation_reasons={'type':'object','additionalProperties':{'type':'string'}})
+        recommendation_reasons={'type':'object','additionalProperties':{'type':'string'}},
+        reading_value_score={'type':['number','null'],'minimum':0,'maximum':98}, editorial={'type':'object'})
     shapes = {
         'items':{'count':{'type':'integer'},'items':{'type':'array','items':{'type':'object','required':list(item_properties),'properties':item_properties}}},
         'health':{'daily_status':{'type':'string'},'sources':{'type':'array','items':{'type':'object'}}},

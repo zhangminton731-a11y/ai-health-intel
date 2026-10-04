@@ -117,7 +117,7 @@ class FreshnessTests(unittest.TestCase):
 
     def test_ranking_limits_and_day_ten_inclusion(self):
         items = [{**self.item("2026-08-28", f"item-{i}"), "reading_tier": "skim",
-                  "topic_relevance": i / 100} for i in range(35)]
+                  "topic_relevance": i / 100, "editorial": {"status":"scored", "score":i, "reason":"Fixture reason", "audiences":[]}} for i in range(35)]
         payload, briefing, _ = self.build_fixture(items)
         expected = [it["item_id"] for it in reversed(items)]
         self.assertEqual(expected[:10], payload["top"])

@@ -21,11 +21,12 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
         'topics': i['topics'], 'event_type': i['event'], 'provenance': i['provenance'],
         'sections': i.get('sections', []), 'categories': i.get('categories', {}),
         'research_stages': i.get('stages', []), 'recommendation_reasons': i.get('reasons', {}),
+        'reading_value_score': i.get('rel'), 'editorial': i.get('editorial', {}),
     } for i in payload['items'] if i['freshness'] == 'fresh' and i['tier'] != 'archive']
     common = {'schema_version': '1.0', 'generated_at': payload['generatedAt'], 'as_of': payload['asOf']}
     for name, data in {
         'items': {**common, 'count': len(items), 'items': items},
-        'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', []), 'coverage':payload.get('coverage', {})},
+        'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', []), 'coverage':payload.get('coverage', {}), 'editorial': health.get('extensions', {}).get('llm_triage', {})},
         'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing, 'publication': payload.get('publicationIssue')},
     }.items():
         (api / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
