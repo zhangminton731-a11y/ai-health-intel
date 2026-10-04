@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "generated_at": "2026-10-04T03:55:28+00:00",
   "as_of": "2026-10-04",
-  "daily_status": "complete",
+  "daily_status": "complete_with_warning",
   "sources": [
     {
       "checks": [
@@ -373,7 +373,7 @@
       "role": "supplemental",
       "source_id": "nature_medicine",
       "source_kind": "rss",
-      "status": "ok"
+      "status": "failed"
     },
     {
       "checks": [

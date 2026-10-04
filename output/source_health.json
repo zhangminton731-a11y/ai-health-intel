@@ -1,6 +1,6 @@
 {
   "as_of": "2026-10-04",
-  "daily_status": "complete",
+  "daily_status": "complete_with_warning",
   "extensions": {
     "llm_triage": {
       "status": "disabled"
@@ -380,7 +380,7 @@
       "role": "supplemental",
       "source_id": "nature_medicine",
       "source_kind": "rss",
-      "status": "ok"
+      "status": "failed"
     },
     {
       "checks": [
