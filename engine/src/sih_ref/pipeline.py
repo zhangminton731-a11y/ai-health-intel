@@ -107,6 +107,7 @@ def run_pipeline(
             options = dict(source)
             if not stateless:
                 options['_cache_dir'] = output_dir / '.cache' / _safe_segment(source_id)
+                options['_metadata_cache_dir'] = output_dir / '.state' / 'article_metadata' / _safe_segment(source_id)
             result = collect_source(options, base_dir=base_dir, live=live, as_of=as_of)
         return result, round((monotonic()-start)*1000)
 

@@ -1,23 +1,32 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T23:47:05+00:00",
+  "generated_at": "2026-10-04T03:55:28+00:00",
   "as_of": "2026-10-04",
   "item_ids": [
-    "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-    "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e89066",
-    "url:https://www.jmir.org/article/view/jmir_v28i1e95273"
+    "url:https://www.nature.com/articles/s41746-026-03272-3",
+    "url:https://www.nature.com/articles/s41746-026-03252-7",
+    "url:https://www.nature.com/articles/s41746-026-03324-8",
+    "url:https://www.nature.com/articles/s41746-026-03227-8"
   ],
   "editions": [
+    {
+      "date": "2026-10-03",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41746-026-03272-3",
+        "url:https://www.nature.com/articles/s41746-026-03252-7",
+        "url:https://www.nature.com/articles/s41746-026-03324-8",
+        "url:https://www.nature.com/articles/s41746-026-03227-8"
+      ],
+      "minutes": 3
+    },
     {
       "date": "2026-10-02",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
         "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e89066",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e95273"
+        "url:https://www.nature.com/articles/s41746-026-03256-3",
+        "url:https://www.nature.com/articles/s41746-026-03320-y",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e100710"
       ],
       "minutes": 3
     },
@@ -53,7 +62,8 @@
       "date": "2026-09-28",
       "item_ids": [
         "url:https://ai.jmir.org/2026/1/e93900/",
-        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/"
+        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
+        "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/"
       ],
       "minutes": 2
     },
@@ -67,11 +77,29 @@
     {
       "date": "2026-09-25",
       "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e85047/",
         "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/"
       ],
       "minutes": 1
     }
   ],
-  "edition_date": "2026-10-02",
-  "text": "奇点日报 · 2026-10-02\n这一天的 5 件 AI 医疗大事\n\n01 · 论文研究\n牙周炎风险评估和预防规划：多模态大语言模型和牙周病医生评估的比较研究\n结论：M-LLM 在牙周评估中表现出很强的推理能力。在所有模型中，不可接受的元素始终与射线照相解释错误相关，尽管改进的提示或更新的模型版本可能会改善这一点。值得注意的是，即使放射照相结果不正确并且不存在斑块保留因素，输出仍然评价良好，表明 EHR 数据本身就提供了坚实的基础。就临床适用性而言，M-LLM 的表现至少必须与牙周病医生相当，并满足牙周病专家制定的质量标准——GPT 和 Claude 似乎正在接近这一标准。结果：GPT o1 Pro 和 Claude Sonnet 4 显示出强劲的性能，86.7% 和 85.6% 的评级被认为可以接受，与牙周病医生的输出 (87.8%) 相当。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e87781\n\n02 · 新品方案\nBrainomix 的 e-Lung 在 III 期试验中显示进展和治疗反应\n试验操作员越来越多地将成像工具和相关的基于人工智能 (AI) 的工具纳入他们的研究方案中。\nMedical Device Network · 2026-10-02\nhttps://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/\n\n03 · 论文研究\n生成式人工智能操纵生物医学研究图像来改变科学结果：人类诊断研究和自动检测\n在对 104 个蛋白质印迹和皮下异种移植肿瘤图像进行的诊断研究中，高保真生成模型产生了可能改变研究结论的伪造品； 24 名博士级专家评审员无法可靠地区分伪造数据和真实数据（平均准确度 50.5%，SD 6.9%），而性能最好的商业 AI 检测器仅实现中等辨别（曲线下面积 0.790，95% CI 0.695-0.885），揭示了当前研究诚信保障措施中的严重漏洞。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e100710\n\n04 · 论文研究\n用于标准化临床评估交互式培训的语音虚拟患者：混合方法试点研究\n结论：大语言模型支持的虚拟患者模拟为培训临床医生进行标准化临床评估提供了一种有前途的、可扩展的工具。该试点研究为系统以合理的保真度生成临床相关实践场景的能力提供了初步证据。结果：在 20 次访谈中，虚拟患者表现出对其配置的临床资料的合理遵守，人类评分者的分数接近其预定义的分数配置。 MADRS 评分者评分与配置评分之间的平均项目差异为 0.52 (SD 0.75)；总分的评估者间信度为 0.90 (95% CI 0.68‐0.99)。当被要求评估虚拟患者的定性真实性和凝聚力时，专家评分者始终给出“同意”到“强烈同意”的平均评级。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e89066\n\n05 · 论文研究\n探索 YouTube 上科学和伪科学健康社区的对话动态：流程挖掘和网络分析研究\n结论：网络分析和流程挖掘技术的应用揭示了与健康相关的 YouTube 讨论的对话动态中的不同模式。在采样的语料库中，科学讨论似乎与混合价评估和治疗相关的交流更兼容，而伪科学讨论则显示出与人际肯定和社会情感联系更一致的模式。这些初步研究结果表明，网络分析和过程挖掘是研究在线健康传播和错误信息生态系统的有前途的方法。他们还建议，公共卫生战略可能会受益于在信息提供的同时考虑参与错误信息社区的情感和社区联系维度。结果：网络分析揭示了不同的对话核心。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e95273\n"
+  "edition_date": "2026-10-03",
+  "text": "奇点日报 · 2026-10-03\n这一天的 4 件 AI 医疗大事\n\n01 · 论文研究\n通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断\n我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03272-3\n\n02 · 论文研究\nOncoTagger：Web of Science 中开放获取的 AI 肿瘤学文章的可重复摘要级研究图谱\n我们开发了 OncoTagger，这是一种基于规则的抽象级证据监控管道，并将其应用于 Web of Science 核心合集中索引的英语开放获取文章语料库，并在 2019 年至 2025 年的标题、摘要、关键词和元数据级别进行分析。预测层加权语料库级别估计显示指标检测准确度为 92.3%（95% CI） 88.9–95.2%），敏感性为 89.3%（85.4–93.3%），特异性为 98.2%（94.5–100.0%）。它应该被解释为可重复的总体监测基础设施，而不是人工智能肿瘤学领域的全面普查、经过验证的文章级分类器或算法性能的比较评估。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03252-7\n\n03 · 论文研究\n临床预测模型的沙普利值解释：范围综述和指南\n沙普利值解释越来越多地用于为医疗保健领域的“黑盒”预测模型提供更高的透明度。在本文中，我们对 Shapley 值解释进行了介绍性概述，并通过对 100 篇随机选择的同行评审出版物（这些出版物使用 Shapley 解释作为其临床研究的一部分）进行详细的范围综述来描述其用途。我们重点关注使用 Shapley 值解释来解释临床预测模型的预测，该模型使用表格输入特征（例如，测量血压和年龄等患者特征的预测变量）来预测个体的健康结果。在我们对文献的回顾中，我们发现用于计算沙普利值解释的方法经常被低估。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03324-8\n\n04 · 论文研究\n身体质量指数的大脑特征可预测心脏代谢和呼吸系统疾病状态\n尽管使用神经网络的大脑生物标志物取得了进展，但体重对大脑结构的影响却被忽视了，特别是与非传染性疾病有关的影响。我们在 T1 加权 MRI 扫描上应用深度学习来预测六个独立队列的 BMI，并实现了强大的队列内表现和较低的外部表现。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03227-8\n",
+  "publication": {
+    "date": "2026-10-04",
+    "item_ids": [
+      "url:https://www.nature.com/articles/s41746-026-03272-3",
+      "url:https://www.nature.com/articles/s41746-026-03252-7",
+      "url:https://www.nature.com/articles/s41746-026-03324-8",
+      "url:https://www.nature.com/articles/s41746-026-03227-8",
+      "url:https://www.jmir.org/article/view/jmir_v28i1e87781"
+    ],
+    "minutes": 3,
+    "date_basis": "publication",
+    "source_dates": [
+      "2026-10-02",
+      "2026-10-03"
+    ],
+    "text": "奇点日报 · 2026-10-04\n近三日精选 · 5 件 AI 医疗大事\n\n01 · 论文研究\n通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断\n我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03272-3\n\n02 · 论文研究\nOncoTagger：Web of Science 中开放获取的 AI 肿瘤学文章的可重复摘要级研究图谱\n我们开发了 OncoTagger，这是一种基于规则的抽象级证据监控管道，并将其应用于 Web of Science 核心合集中索引的英语开放获取文章语料库，并在 2019 年至 2025 年的标题、摘要、关键词和元数据级别进行分析。预测层加权语料库级别估计显示指标检测准确度为 92.3%（95% CI） 88.9–95.2%），敏感性为 89.3%（85.4–93.3%），特异性为 98.2%（94.5–100.0%）。它应该被解释为可重复的总体监测基础设施，而不是人工智能肿瘤学领域的全面普查、经过验证的文章级分类器或算法性能的比较评估。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03252-7\n\n03 · 论文研究\n临床预测模型的沙普利值解释：范围综述和指南\n沙普利值解释越来越多地用于为医疗保健领域的“黑盒”预测模型提供更高的透明度。在本文中，我们对 Shapley 值解释进行了介绍性概述，并通过对 100 篇随机选择的同行评审出版物（这些出版物使用 Shapley 解释作为其临床研究的一部分）进行详细的范围综述来描述其用途。我们重点关注使用 Shapley 值解释来解释临床预测模型的预测，该模型使用表格输入特征（例如，测量血压和年龄等患者特征的预测变量）来预测个体的健康结果。在我们对文献的回顾中，我们发现用于计算沙普利值解释的方法经常被低估。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03324-8\n\n04 · 论文研究\n身体质量指数的大脑特征可预测心脏代谢和呼吸系统疾病状态\n尽管使用神经网络的大脑生物标志物取得了进展，但体重对大脑结构的影响却被忽视了，特别是与非传染性疾病有关的影响。我们在 T1 加权 MRI 扫描上应用深度学习来预测六个独立队列的 BMI，并实现了强大的队列内表现和较低的外部表现。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03227-8\n\n05 · 论文研究\n牙周炎风险评估和预防规划：多模态大语言模型和牙周病医生评估的比较研究\n结论：M-LLM 在牙周评估中表现出很强的推理能力。在所有模型中，不可接受的元素始终与射线照相解释错误相关，尽管改进的提示或更新的模型版本可能会改善这一点。值得注意的是，即使放射照相结果不正确并且不存在斑块保留因素，输出仍然评价良好，表明 EHR 数据本身就提供了坚实的基础。就临床适用性而言，M-LLM 的表现至少必须与牙周病医生相当，并满足牙周病专家制定的质量标准——GPT 和 Claude 似乎正在接近这一标准。结果：GPT o1 Pro 和 Claude Sonnet 4 显示出强劲的性能，86.7% 和 85.6% 的评级被认为可以接受，与牙周病医生的输出 (87.8%) 相当。\nJournal of Medical Internet Research · 2026-10-02\nhttps://www.jmir.org/article/view/jmir_v28i1e87781\n"
+  }
 }

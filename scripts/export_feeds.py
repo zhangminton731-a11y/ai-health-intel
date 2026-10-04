@@ -26,7 +26,7 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
     for name, data in {
         'items': {**common, 'count': len(items), 'items': items},
         'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', []), 'coverage':payload.get('coverage', {})},
-        'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing},
+        'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing, 'publication': payload.get('publicationIssue')},
     }.items():
         (api / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     (api / 'history.json').write_text(json.dumps({**common, 'description': '近20天历史阅读，不属于当前推荐', 'items': payload.get('historyItems', []), 'editions': payload.get('historyIssues', [])}, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')

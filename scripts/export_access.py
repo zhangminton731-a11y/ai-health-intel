@@ -38,7 +38,7 @@ def export_access(site: Path) -> None:
 ## 数据与接入
 - [来源健康]({BASE}api/v1/health.json): 先读取，检查 generated_at，超过 36 小时披露过期。
 - [情报]({BASE}api/v1/items.json): 当前快照，sections 为 research/industry，客户端筛选 categories 与 research_stages。
-- [日报]({BASE}api/v1/briefing.json): 最新有内容日期的日报。edition_date 是原文日期，as_of 是构建日期；editions 提供近 10 天有内容的日期目录。
+- [日报]({BASE}api/v1/briefing.json): publication 字段提供今日出刊（date 是出刊日，source_dates 是原文日期，text 是本期正文）；原有字段提供按原文日期归档的日报。edition_date 是原文日期，as_of 是构建日期；editions 提供近 10 天有内容的日期目录。
 - [历史回顾]({BASE}api/v1/history.json): 补充近 20 天的历史阅读，独立于当前推荐。items 使用页面字段 id/t/te/s/se/u/date；与当前情报按 id 合并后阅读。
 - [政策旅程]({BASE}api/v1/policies.json): 2021—2026 中美官方政策代表性节点。区分文件性质与编辑解读，保留原文链接。
 - [OpenAPI 3.1]({BASE}openapi.json): 三个静态 GET 端点，没有服务端搜索参数。

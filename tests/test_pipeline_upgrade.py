@@ -64,6 +64,20 @@ class CacheTests(unittest.TestCase):
 
 
 class MetadataTests(unittest.TestCase):
+    def test_index_fallback_matches_exact_doi_and_retains_abstract_origin(self):
+        url = 'https://www.nature.com/articles/s41746-026-03272-3'
+        abstract = 'Published abstract about clinical validation. ' * 5
+        for doi, expected in [('10.1038/s41746-026-03272-3', 'ok'), ('10.1038/other', 'unavailable')]:
+            body = json.dumps({'resultList': {'result': [{'doi': doi, 'abstractText': abstract}]}}).encode()
+            with patch('sih_ref.article_metadata.urlopen', side_effect=[OSError('transport'), Response(body)]):
+                item = {'url': url, 'title': 'Clinical validation'}
+                self.assertEqual(expected, enrich_summary(item, None)['status'])
+                if expected == 'ok':
+                    self.assertIn('europepmc', item['summary_source'])
+                    self.assertEqual(abstract, item['summary'])
+                else:
+                    self.assertNotIn('summary', item)
+
     def test_success_is_cached_and_source_url_retained(self):
         url='https://www.nature.com/articles/test'
         summary='Source-authored clinical abstract. '*5

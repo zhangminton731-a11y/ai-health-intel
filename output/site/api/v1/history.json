@@ -1,145 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-03T23:47:05+00:00",
+  "generated_at": "2026-10-04T03:55:28+00:00",
   "as_of": "2026-10-04",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03302-0",
-      "t": "验证 DigiHEALTHQUAL 用于衡量数字健康对德国门诊护理服务质量的影响",
-      "te": "Validating DigiHEALTHQUAL for measuring digital health effects on service quality in outpatient care in Germany",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03302-0",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03302-0"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 35.0,
-      "when": "2 天前",
-      "date": "2026-10-02",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03338-2",
-      "t": "医疗保健专业人员对临床实践中人工智能辅助决策的看法：定性荟萃分析",
-      "te": "Healthcare professionals’ perceptions on AI-assisted decision-making in clinical practice: a qualitative meta-synthesis",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03338-2",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03338-2"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": 23.0,
-      "when": "3 天前",
-      "date": "2026-10-01",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，这类证据汇总适合用来查研究空白；重点看纳入人群、偏倚与结论一致性，再确定自己的临床问题。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03156-6",
-      "t": "具有人工智能的视觉可穿戴设备可缩小患者表征中的感官差距",
-      "te": "Vision wearables with artificial intelligence to close the sensory gap in patient characterization",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03156-6",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03156-6"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 60.0,
-      "when": "4 天前",
-      "date": "2026-09-30",
-      "reasons": {
-        "research": "围绕可穿戴监测，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕可穿戴监测，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
       "t": "利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法",
@@ -433,53 +297,6 @@
       "historical": true
     },
     {
-      "id": "url:https://www.nature.com/articles/s41746-026-03277-y",
-      "t": "人工智能辅助医疗保健证据搜索的盲点：临床检索差距和偏倚风险的多平台评估",
-      "te": "Blind spots in AI-assisted healthcare evidence search: multiplatform evaluation of clinical retrieval gaps and risk-of-bias",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03277-y",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03277-y"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 45.0,
-      "when": "5 天前",
-      "date": "2026-09-29",
-      "reasons": {
-        "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
       "id": "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
       "t": "Dexcom 报告描绘了 2 型糖尿病患者使用 CGM 的复杂情况",
       "te": "Dexcom report paints mixed picture of CGM use by people with type 2 diabetes",
@@ -525,8 +342,8 @@
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e99980",
       "t": "数据科学健康研究中伦理治理连续性的消解：生命周期监督的诊断和响应框架",
       "te": "Dissolution of Continuity of Ethical Governance in Data Science Health Research: Diagnostic and Response Framework for Lifecycle Oversight",
-      "s": "传统的研究伦理治理是为有限的协议、可识别的研究者以及与人类参与者的短暂接触而设计的。数据科学健康研究 (DSHR) 颠覆了这种架构，因为健康数据、生物材料、计算表示和模型会随着时间的推移持续存在、传播、组合并获得新的用途。从这个角度来看，我们广泛使用 DSHR 来包括使用大型健康数据集的研究以及健康数据、模型和生物材料的相邻二次用途，包括学习卫生系统、公共卫生监测、质量改进、运营、商业产品开发以及依赖于健康数据或材料谱系的人工智能 (AI) 支持的转化用途。",
-      "se": "Traditional research ethics governance was designed for bounded protocols, identifiable investigators, and temporally limited encounters with human participants. Data science health research (DSHR) disrupts that architecture because health data, biological materials, computational representations, and models persist, travel, combine, and acquire new uses across time. In this viewpoint, we use DSHR broadly to include research using large health datasets and adjacent secondary uses of health data, models, and biological materials, including learning health systems, public health surveillance, quality improvement, operations, commercial product development, and artificial intelligence (AI)–enabled translational uses that rely on health data or material lineages.",
+      "s": "基于我们之前关于代表性准确性和连续性陷阱的工作，我们提出了一种诊断架构，该架构评估六个治理权威领域，应用三个诊断标准，在连续性权威矩阵（CAM）中对每个领域进行从 0 到 3 的评分，并将严重性从 0 到 4 进行分级。分数和分期阈值是概念性分类辅助工具，而不是经过验证的指标或道德许可性的自动确定，它们需要经验验证和参与者间可靠性测试。",
+      "se": "Building on our prior work on representational veracity and the continuity trap, we propose a diagnostic architecture that assesses six governance authority domains, applies three diagnostic criteria, scores each domain from 0 to 3 within a Continuity Authority Matrix (CAM), and stages severity from 0 to 4. The score and staging thresholds are conceptual triage aids, not validated metrics or automated determinations of ethical permissibility, and they require empirical validation and interrater reliability testing.",
       "u": "https://www.jmir.org/article/view/jmir_v28i1e99980",
       "src": "Journal of Medical Internet Research",
       "role": "期刊论文",
@@ -609,7 +426,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96587"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 27.0,
       "when": "5 天前",
@@ -894,7 +711,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e88257"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 23.0,
       "when": "6 天前",
@@ -943,7 +760,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e111711"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 29.0,
       "when": "6 天前",
@@ -990,7 +807,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105583"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 29.0,
       "when": "6 天前",
@@ -998,151 +815,6 @@
       "reasons": {
         "research": "结合这篇文章的具体场景，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03312-y",
-      "t": "高血压患者远程监测的实施：电子健康记录数据的二次分析",
-      "te": "Implementation of remote patient monitoring for hypertension: a secondary analysis from electronic health record data",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03312-y",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data"
-      ],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03312-y"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 57.0,
-      "when": "8 天前",
-      "date": "2026-09-26",
-      "reasons": {
-        "research": "围绕血压与慢病管理，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
-        "industry": "围绕血压与慢病管理，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03248-3",
-      "t": "大语言模型作为临床生成人工智能评估的评判者",
-      "te": "Large language models as judges for clinical generative AI evaluation",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03248-3",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03248-3"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": 27.0,
-      "when": "9 天前",
-      "date": "2026-09-25",
-      "reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03104-4",
-      "t": "LEME：具有高级推理和临床验证的开放式眼科大型语言模型",
-      "te": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
-      "s": "",
-      "se": "",
-      "u": "https://www.nature.com/articles/s41746-026-03104-4",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03104-4"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 35.0,
-      "when": "9 天前",
-      "date": "2026-09-25",
-      "reasons": {
-        "research": "围绕医疗大模型，可评估这套方法的数据条件、复现资源和验证步骤，判断能否用于现有课题的分析环节。",
-        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -1273,7 +945,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e98432"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 27.0,
       "when": "9 天前",
@@ -1462,7 +1134,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e84915"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 27.0,
       "when": "9 天前",
@@ -1599,7 +1271,7 @@
         "source_id": "medtech_dive_primary",
         "upstream_id": "https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 23.0,
       "when": "10 天前",
@@ -1698,7 +1370,7 @@
         "source_id": "jmir",
         "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87806"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 29.0,
       "when": "10 天前",
@@ -2062,7 +1734,7 @@
         "source_id": "medcity_news",
         "upstream_id": "https://medcitynews.com/?p=149902"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 23.0,
       "when": "12 天前",
@@ -2070,6 +1742,55 @@
       "reasons": {
         "research": "结合这篇文章的具体场景，可对照研究问题、样本来源和评价指标，寻找现有临床积累能够切入的课题；先核对原文的局限性。",
         "industry": "结合这篇文章的具体场景，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e84469/",
+      "t": "两代人工智能临床分诊工具（传统的结构化问卷和大型语言模型的对话界面）的人口统计、临床内容、使用模式和就诊意图：比较回顾性观察研究",
+      "te": "Demographics, Clinical Content, Use Patterns, and Care-Seeking Intent Across Two Generations of AI-Enabled Clinical Triage Tools (A Traditional Structured Questionnaire and a Large Language Model–Enabled Conversational Interface): Comparative Retrospective Observational Study",
+      "s": "结论：支持 LLM 的 CT 被人口统计更加多样化的用户群所使用，并且与调查受访者中更丰富的临床背景、更深入的参与度和更高的自我报告预期依从性相关，特别是对于低敏锐度自我护理和高敏锐度紧急情况，在这些情况下，保证或紧急升级至关重要。这凸显了混合大语言模型工具的潜力，该工具集成了经过验证的临床逻辑，以支持数字前门设置中的参与、信息收集和护理导航。结果：在 116,890 名受访者中，100,533 名 (86%) 使用 TT，16,357 名 (14%) 使用 CT。两组中女性用户均占多数，但 CT 中的女性用户比例较低（10,402/16,357，64% vs 71,039/100,533，71%），而 TT 则较少。 TT 用户偏年轻（18-29 岁>50%），而 CT 分布更均匀，12 至 17 岁、30 至 44 岁和 ≥45 岁的比例较高。",
+      "se": "Conclusions: The LLM-enabled CT was used by a more demographically diverse user base and was associated with richer clinical context, deeper engagement, and higher self-reported intended adherence among survey respondents, particularly for low-acuity self-care and high-acuity emergency scenarios, where reassurance or urgent escalation is critical. This highlights the potential of hybrid LLM tools that integrate validated clinical logic to support engagement, information gathering, and care navigation in digital front door settings. Results: Of 116,890 respondents, 100,533 (86%) used TT and 16,357 (14%) used CT. Female users were the majority in both groups but less predominant in CT (10,402/16,357, 64% vs 71,039/100,533, 71%) than in TT. TT users skewed younger (aged 18-29 years >50%), whereas CT was more evenly distributed with higher shares at ages 12 to 17, 30 to 44, and ≥45 years.",
+      "u": "https://ai.jmir.org/2026/1/e84469/",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e84469/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 5.0,
+      "when": "12 天前",
+      "date": "2026-09-22",
+      "reasons": {
+        "research": "围绕医疗大模型，可参考回顾性研究的入组和数据处理思路，评估手头病例是否适合开展类似课题；需核对混杂控制和外部验证。",
+        "industry": "围绕医疗大模型，可跟踪技术如何进入实际服务，比较数据条件、集成成本和验证需求，为产品升级排优先级。"
       },
       "historical": true
     },
@@ -2376,7 +2097,7 @@
         "upstream_id": "https://medcitynews.com/?p=148964",
         "retrieved_via": "rss"
       },
-      "tier": "collapsed",
+      "tier": "skim",
       "freshness": "fresh",
       "rel": 25.0,
       "when": "18 天前",
@@ -2593,11 +2314,12 @@
     {
       "date": "2026-09-22",
       "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e84469/",
         "url:https://medcitynews.com/2026/09/pelago-unveils-new-behavioral-health-platform-for-substance-use-mental-health-and-behavioral-addiction-care/",
         "url:https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/",
         "url:https://medcitynews.com/2026/09/ai-workers-need-a-probation-period-not-just-a-pilot/"
       ],
-      "minutes": 1
+      "minutes": 2
     },
     {
       "date": "2026-09-21",
