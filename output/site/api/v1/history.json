@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T06:59:36+00:00",
+  "generated_at": "2026-10-04T08:38:55+00:00",
   "as_of": "2026-10-04",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -41,59 +41,6 @@
         "source_id": "npj_digital_medicine",
         "summary_source": "https://www.nature.com/articles/s41746-026-03324-8",
         "upstream_id": "https://www.nature.com/articles/s41746-026-03324-8"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "昨天",
-      "date": "2026-10-03",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03272-3",
-      "t": "通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断",
-      "te": "Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with multinational clinical validation and reader study",
-      "s": "我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。",
-      "se": "We propose B-RAD, a BI-RADS-aware retrieval-augmented diagnosis framework that mirrors the radiologist workflow of retrieving exemplars, localizing lesions, and determining the BI-RADS category. We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort. The full pipeline reached a biopsy triage AUROC of 0.952 on that institutional cohort without fine-tuning, outperforming existing vision-language models. In a four-reader study, B-RAD assistance improved accuracy, raised inter-reader agreement from moderate to substantial, and reduced missed malignancies across all readers.",
-      "u": "https://www.nature.com/articles/s41746-026-03272-3",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03272-3",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03272-3"
       },
       "tier": "skim",
       "freshness": "fresh",
@@ -405,6 +352,143 @@
       "historical": true
     },
     {
+      "id": "url:https://www.nature.com/articles/s41591-026-04675-1",
+      "t": "6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验",
+      "te": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
+      "s": "在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。",
+      "se": "In this study, we evaluated whether distributing preventive small-quantity lipid-based nutrient supplements (SQ-LNS) alongside routine immunization services may increase vaccine uptake in a pediatric, pragmatic, cluster-randomized controlled trial in northern Nigeria. The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004). Co-delivering SQ-LNS with routine immunization substantially improved card-verified MCV1 uptake, supporting a scalable strategy to make progress toward targets set by the World Health Organizationʼs Immunization Agenda 2030 in similar settings.",
+      "u": "https://www.nature.com/articles/s41591-026-04675-1",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "industry",
+        "research"
+      ],
+      "categories": {
+        "industry": [
+          "technology"
+        ],
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04675-1",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04675-1"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "industry",
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:34:58+00:00",
+        "input_hash": "77455886ae4e21ece17b138d947337072486509f4115fc3a69d9f7967acf19ed",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100414344632c31c133044490a",
+              "seconds": 4.14,
+              "usage": {
+                "completion_tokens": 182,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 4
+                },
+                "prompt_tokens": 1086,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1268
+              }
+            },
+            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "整群随机试验设计合理，提供营养补充与常规免疫联合递送提升MCV1覆盖的因果证据，对低收入地区接种策略和公卫产品布局有直接参考价值；结果来自尼日利亚单一地区，外推到其他卫生系统需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143450a584272a249447f9",
+              "seconds": 7.62,
+              "usage": {
+                "completion_tokens": 331,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 161
+                },
+                "prompt_tokens": 1086,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1417
+              }
+            },
+            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-10-02",
+      "reasons": {
+        "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
+        "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
+      },
+      "historical": true
+    },
+    {
       "id": "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
       "t": "Brainomix 的 e-Lung 在 III 期试验中显示进展和治疗反应",
       "te": "Brainomix’s e-Lung shows progression and treatment response in Phase III trial",
@@ -707,6 +791,136 @@
       "when": "2 天前",
       "date": "2026-10-02",
       "reasons": {},
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04674-2",
+      "t": "索马鲁肽对 2 型糖尿病肾病的影响：一项随机安慰剂对照试验",
+      "te": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
+      "s": "GLP-1 受体激动剂索马鲁肽可保护 2 型糖尿病和慢性肾病患者的肾功能，但其潜在机制尚不清楚。该试验的结果表明，索马鲁肽的肾脏保护机制可能包括降低血管阻力、预防纤维化和改善促进内皮细胞健康的潜在分子程序。",
+      "se": "The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health.",
+      "u": "https://www.nature.com/articles/s41591-026-04674-2",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04674-2",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04674-2"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T06:37:49+00:00",
+        "input_hash": "4c18b3702bacf6116bedd0001e3c12e174f224e715d85673fc510ed0f3b736ea",
+        "input_scope": "source_summary",
+        "policy_version": "e1f0238b706e1966",
+        "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004143736e6ccc6b68b064ef3",
+              "seconds": 6.83,
+              "usage": {
+                "completion_tokens": 197,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 576
+                },
+                "total_tokens": 1188
+              }
+            },
+            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry",
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "将多参数肾脏MRI、活检病理与单核/空间转录组整合用于机制探索的随机对照试验，在共同主要影像终点阴性的情况下提示血管阻力降低、纤维化进展受抑及肾小球内皮保护等机制，方法学设计对肾病与代谢药物机制研究有直接借鉴价值；主要限制是样本量小（106例、活检33例）且机制证据多为次要终点与相关性观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041437436de53027628f4998",
+              "seconds": 6.41,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1191
+              }
+            },
+            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "3 天前",
+      "date": "2026-10-01",
+      "reasons": {
+        "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
+      },
       "historical": true
     },
     {
@@ -4728,31 +4942,31 @@
       "item_ids": [
         "url:https://www.nature.com/articles/s41746-026-03227-8",
         "url:https://www.nature.com/articles/s41746-026-03252-7",
-        "url:https://www.nature.com/articles/s41746-026-03272-3",
         "url:https://www.nature.com/articles/s41746-026-03324-8"
       ],
-      "minutes": 3
+      "minutes": 2
     },
     {
       "date": "2026-10-02",
       "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e94109/",
+        "url:https://www.nature.com/articles/s41591-026-04675-1",
         "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
+        "url:https://ai.jmir.org/2026/1/e94109/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e89066"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e87781"
       ],
       "minutes": 4
     },
     {
       "date": "2026-10-01",
       "item_ids": [
-        "url:https://mhealth.jmir.org/2026/1/e95863",
+        "url:https://www.nature.com/articles/s41591-026-04674-2",
         "url:https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
+        "url:https://mhealth.jmir.org/2026/1/e95863",
         "url:https://www.jmir.org/article/view/jmir_v28i1e102359",
         "url:https://www.jmir.org/article/view/jmir_v28i1e90938"
       ],
-      "minutes": 2
+      "minutes": 3
     },
     {
       "date": "2026-09-30",

@@ -32,6 +32,12 @@ CACHE_PATH = OUTPUT / ".state" / "translations.json"
 SITE_NAME = "奇点医研"
 
 SOURCE_META = {
+    "fda_press": ("FDA · 官方公告", "官方机构", "官方机构", 3),
+    "nejm_abstracts": ("NEJM · 摘要索引", "期刊论文", "期刊论文", 3),
+    "lancet_abstracts": ("The Lancet · 摘要索引", "期刊论文", "期刊论文", 3),
+    "jama_abstracts": ("JAMA · 摘要索引", "期刊论文", "期刊论文", 3),
+    "annals_internal_abstracts": ("Annals of Internal Medicine · 摘要索引", "期刊论文", "期刊论文", 3),
+    "bmj_abstracts": ("The BMJ · 摘要索引", "期刊论文", "期刊论文", 3),
     "jmir_mhealth": ("JMIR mHealth and uHealth", "期刊论文", "期刊论文", 3),
     "jmir_medinform": ("JMIR Medical Informatics", "期刊论文", "期刊论文", 3),
     "ema_guidance": ("EMA 监管与程序指南", "官方机构", "官方机构", 3),
@@ -248,6 +254,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             defaults = {'research': 'policy' if kind == 'policy' else 'methods' if kind == 'method' else 'papers',
                         'industry': {'product': 'products', 'industry': 'business', 'policy': 'regulation'}.get(kind, 'technology')}
             item['categories'] = {audience: item['categories'].get(audience) or [defaults[audience]] for audience in item['sections']}
+            if item['sections'] == ['industry']:
+                item['stages'] = []
         item["reasons"] = ({audience: judgment['reason'] for audience in judgment.get('audiences', [])}
                            if judgment.get('status') == 'scored' else {})
     return out

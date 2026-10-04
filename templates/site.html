@@ -92,6 +92,7 @@
 <div class="notice" id="staleNotice" role="status" hidden></div>
 <section id="v-jingxuan" class="view selection-page">
 <h1>临床科研</h1>
+<p class="sub">读证据、学方法：临床研究、分析工具与研究规范。</p>
 <div class="selection-toolbar"><nav id="researchTabs" class="category-tabs" aria-label="医学科研栏目"></nav>
 <div class="section-filters"><input id="researchSearch" type="search" aria-label="搜索医学科研" placeholder="搜索标题、摘要…"><select id="researchStage" aria-label="按科研环节筛选"><option value="all">全部科研环节</option><option value="design">研究设计</option><option value="data">数据处理</option><option value="analysis">AI 分析</option><option value="validation">研究验证</option></select></div>
 </div><div class="panel highlights"><div class="highlights-header"><h2>重点速览</h2><a href="#jingxuan?list=1" class="text-link">全部内容 ↓</a></div><ol id="researchHighlights"></ol></div>
@@ -99,6 +100,7 @@
 </section>
 <section id="v-industry" class="view selection-page">
 <h1>健康产业</h1>
+<p class="sub">看产品、看市场：商业落地、融资合作与支付准入。</p>
 <div class="selection-toolbar">
 <nav id="industryTabs" class="category-tabs" aria-label="产业前沿栏目"></nav>
 <div class="section-filters"><input id="industrySearch" type="search" aria-label="搜索产业前沿" placeholder="搜索标题、摘要…"><select id="industryScope" aria-label="按应用场景筛选"><option value="all">全部应用场景</option><option value="hospital">医院端医疗</option><option value="consumer">消费健康</option></select></div>
@@ -231,8 +233,8 @@ function renderHot(){
  $('#hotRows').querySelectorAll('.hot-visual img').forEach(img=>img.addEventListener('error',()=>{img.hidden=true;img.parentElement.querySelector('figcaption').textContent='主题示意';},{once:true}));
 }
 
-function editorialDetails(i){const e=i.editorial;if(!e?.reviews?.length)return '';const names={significance:'实质份量',novelty:'信息增量',evidence:'证据支持',relevance:'读者相关',usefulness:'可用性'};return `<details class="editorial-details"><summary>评分依据 · 两次评估</summary>${e.reviews.map((r,n)=>`<p>第 ${n+1} 次：${esc(r.total)} 分 · ${Object.entries(r.axes||{}).map(([k,v])=>`${esc(names[k]||k)} ${esc(v)}`).join(' / ')}</p>`).join('')}<p>基于来源提供的摘要；入选门槛 ${esc(e.threshold)} 分。模型：${esc(e.reviews[0].receipt?.model||'')}。</p></details>`;}
-function card(i,n,section){const audience=articleAudience(i,section);const reason=i.reasons?.[audience];return `<article class="intel"><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time><span class="score-badge" title="两次模型评估的阅读价值；不是临床证据评级">阅读价值 <b>${score(i)}</b></span></div><div class="card-head"><h3><a href="${esc(articleHref(i,audience))}">${esc(i.t||i.te)}</a></h3></div><p class="summary">${esc(excerpt(i))}</p><div class="card-tags">${i.topics.slice(0,2).map(t=>`<span class="pill">${esc(topicNames[t]||t)}</span>`).join('')}${(i.stages||[]).map(t=>`<span class="pill">${esc(stageNames[t]||t)}</span>`).join('')}</div>${reason?`<p class="recommendation"><strong>推荐理由：</strong>${esc(reason)}</p>`:''}${editorialDetails(i)}</article>`;}
+function editorialDetails(i){const e=i.editorial;if(!e?.reviews?.length)return '';const names={significance:'实质份量',novelty:'信息增量',evidence:'证据支持',relevance:'读者相关',usefulness:'可用性'};return `<details class="editorial-details"><summary>评分依据 · 两次评估</summary>${e.reviews.map((r,n)=>`<p>第 ${n+1} 次：${esc(r.total)} 分 · ${Object.entries(r.axes||{}).map(([k,v])=>`${esc(names[k]||k)} ${esc(v)}`).join(' / ')}</p>`).join('')}<p>基于来源摘要或官方原文摘录；入选门槛 ${esc(e.threshold)} 分。模型：${esc(e.reviews[0].receipt?.model||'')}。</p></details>`;}
+function card(i,n,section){const audience=articleAudience(i,section);const reason=i.reasons?.[audience];return `<article class="intel"><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time><span class="score-badge" title="两次模型评估的阅读价值；不是临床证据评级">阅读价值 <b>${score(i)}</b></span></div><div class="card-head"><h3><a href="${esc(articleHref(i,audience))}">${esc(i.t||i.te)}</a></h3></div><p class="summary">${esc(excerpt(i))}</p><div class="card-tags">${i.topics.slice(0,2).map(t=>`<span class="pill">${esc(topicNames[t]||t)}</span>`).join('')}${(audience==='research'?(i.stages||[]):[]).map(t=>`<span class="pill">${esc(stageNames[t]||t)}</span>`).join('')}</div>${reason?`<p class="recommendation"><strong>${audience==='research'?'研究价值':'产业价值'}：</strong>${esc(reason)}</p>`:''}${editorialDetails(i)}</article>`;}
 
 function list(el,items){el.innerHTML=items.length?items.map((i,n)=>card(i,n+1)).join(''):'<p class="empty">今日暂无新条目，或没有符合条件的情报。</p>';}
 function renderSection(section){

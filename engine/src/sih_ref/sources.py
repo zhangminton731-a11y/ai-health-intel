@@ -21,6 +21,8 @@ from urllib.request import Request, urlopen
 
 from .core import normalize_url, normalize_date, text
 from .article_metadata import enrich_summary
+from .dive_metadata import enrich_dive_brief
+from .official_metadata import enrich_fda_release
 from .rss_fetch import FeedFetchError, fetch_feed
 
 
@@ -133,6 +135,32 @@ def _pubmed_query(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResu
     return SourceResult(text(source.get("id")), "ok", items, [{"kind": "pubmed_esearch", "count": len(items)}])
 
 
+def _europe_pmc(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
+    """A declared journal's indexed abstract channel, never a keyword-curated sample."""
+    issn = text(source.get('journal_issn'))
+    if not re.fullmatch(r'\d{4}-\d{3}[\dX]', issn):
+        raise ValueError('Journal ISSN required')
+    start = as_of - timedelta(days=int(source.get('lookback_days', 90)))
+    query = f'ISSN:{issn} AND HAS_ABSTRACT:Y AND FIRST_PDATE:[{start.isoformat()} TO {as_of.isoformat()}] sort_date:y'
+    url = 'https://www.ebi.ac.uk/europepmc/webservices/rest/search?' + urlencode({
+        'query': query, 'format': 'json', 'resultType': 'core',
+        'pageSize': min(100, max(10, int(source.get('max_results', 30))))})
+    data = _request_json(url)
+    rows = []
+    for entry in data.get('resultList', {}).get('result', []):
+        journal = entry.get('journalInfo', {}).get('journal', {})
+        if issn not in (journal.get('issn'), journal.get('essn')):
+            raise ValueError('Unexpected journal in indexed channel')
+        doi, pmid = text(entry.get('doi')), text(entry.get('pmid'))
+        rows.append({'title': entry.get('title'), 'summary': entry.get('abstractText', ''),
+                     'published_at': entry.get('firstPublicationDate'), 'doi': doi, 'pmid': pmid,
+                     'upstream_id': entry.get('id'), 'authors': entry.get('authorString', ''),
+                     'url': 'https://doi.org/' + doi if doi else 'https://europepmc.org/article/MED/' + pmid,
+                     'summary_source': 'https://europepmc.org/article/' + text(entry.get('source')) + '/' + text(entry.get('id'))})
+    return SourceResult(text(source.get('id')), 'ok' if rows else 'ok_no_updates', rows,
+                        [{'kind': 'europe_pmc', 'query': query, 'count': len(rows), 'hit_count': data.get('hitCount')}])
+
+
 def _arxiv(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
     query = text(source.get("query") or "all:artificial intelligence")
     max_results = min(100, max(1, int(source.get("max_results") or 20)))
@@ -202,13 +230,16 @@ def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
     if rss_items:
         for entry in rss_items:
             def field(name: str) -> str | None:
-                return entry.findtext(name) or entry.findtext(f"{rss_ns}{name}")
+                node = entry.find(name)
+                if node is None: node = entry.find(f"{rss_ns}{name}")
+                return ''.join(node.itertext()).strip() if node is not None else None
 
             items.append(
                 {
                     "upstream_id": field("guid") or field("link"),
                     "title": field("title"),
-                    "summary": field("description"),
+                    "summary": (entry.findtext('{http://purl.org/rss/1.0/modules/content/}encoded')
+                                if source.get('use_feed_content') else None) or field("description"),
                     "image_url": feed_image(entry, field('link') or url),
                     "published_at": field("pubDate") or entry.findtext("{http://purl.org/dc/elements/1.1/}date"),
                     "url": field("link"),
@@ -234,6 +265,16 @@ def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
             )
     max_results = min(100, max(1, int(source.get("max_results") or 20)))
     items = items[:max_results]
+    if source.get('article_metadata') == 'dive_brief':
+        for item in items:
+            published = normalize_date(item.get('published_at'))
+            if published and 0 <= (as_of-date.fromisoformat(published)).days <= 90:
+                checks.append(enrich_dive_brief(item, source.get('_metadata_cache_dir', cache_dir)))
+    if source.get('article_metadata') == 'fda_release':
+        for item in items:
+            published = normalize_date(item.get('published_at'))
+            if published and 0 <= (as_of-date.fromisoformat(published)).days <= 90:
+                checks.append(enrich_fda_release(item, source.get('_metadata_cache_dir', cache_dir)))
     if source.get('article_metadata') == 'nature':
         attempted = 0
         for item in items:
@@ -445,6 +486,7 @@ def _map_record(record: Mapping[str, Any], mapping: Mapping[str, Any], *, fallba
 
 ADAPTERS: dict[str, Callable[[Mapping[str, Any], Path, date], SourceResult]] = {
     "fixture_jsonl": _fixture_jsonl,
+    "europe_pmc": _europe_pmc,
     "pubmed": _pubmed_query,
     "pubmed_journals": _pubmed_query,
     "arxiv": _arxiv,
@@ -460,7 +502,7 @@ ADAPTERS: dict[str, Callable[[Mapping[str, Any], Path, date], SourceResult]] = {
 }
 
 
-NETWORK_SOURCE_KINDS = {"pubmed", "pubmed_journals", "arxiv", "rss", "hacker_news", "openalex_author", "imap"}
+NETWORK_SOURCE_KINDS = {"europe_pmc", "pubmed", "pubmed_journals", "arxiv", "rss", "hacker_news", "openalex_author", "imap"}
 
 
 def collect_source(source: Mapping[str, Any], *, base_dir: Path, live: bool, as_of: date) -> SourceResult:

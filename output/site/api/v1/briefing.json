@@ -1,49 +1,92 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T06:59:36+00:00",
+  "generated_at": "2026-10-04T08:38:55+00:00",
   "as_of": "2026-10-04",
   "item_ids": [
-    "url:https://www.nature.com/articles/s41591-026-04673-3",
-    "url:https://www.nature.com/articles/s41591-026-04675-1"
+    "url:https://www.nature.com/articles/s41746-026-03272-3"
   ],
   "editions": [
     {
+      "date": "2026-10-03",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41746-026-03272-3"
+      ],
+      "minutes": 1
+    },
+    {
       "date": "2026-10-02",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41591-026-04673-3",
-        "url:https://www.nature.com/articles/s41591-026-04675-1"
+        "url:https://www.nature.com/articles/s41591-026-04673-3"
       ],
       "minutes": 1
     },
     {
       "date": "2026-10-01",
       "item_ids": [
+        "pmid:42814929",
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
         "url:https://www.nature.com/articles/s41591-026-04677-z",
-        "url:https://www.nature.com/articles/s41591-026-04674-2"
+        "pmid:42820639"
       ],
-      "minutes": 1
+      "minutes": 3
+    },
+    {
+      "date": "2026-09-30",
+      "item_ids": [
+        "pmid:42815506",
+        "pmid:42815970",
+        "pmid:42814439",
+        "pmid:42815981"
+      ],
+      "minutes": 3
     },
     {
       "date": "2026-09-29",
       "item_ids": [
+        "pmid:42814954",
+        "pmid:42810372",
         "url:https://www.nature.com/articles/s41591-026-04651-9"
       ],
-      "minutes": 2
+      "minutes": 3
+    },
+    {
+      "date": "2026-09-28",
+      "item_ids": [
+        "pmid:42805227",
+        "pmid:42804178",
+        "pmid:42806496"
+      ],
+      "minutes": 3
+    },
+    {
+      "date": "2026-09-25",
+      "item_ids": [
+        "pmid:42790456"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-09-24",
+      "item_ids": [
+        "pmid:42785338"
+      ],
+      "minutes": 1
     }
   ],
-  "edition_date": "2026-10-02",
-  "text": "奇点日报 · 2026-10-02\n这一天的 2 件 AI 医疗大事\n\n01 · 论文研究\n尿液游离 RNA 用于膀胱癌检测和治疗反应预测\n尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04673-3\n\n02 · 论文研究\n6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验\n在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04675-1\n",
+  "edition_date": "2026-10-03",
+  "text": "奇点日报 · 2026-10-03\n这一天的 1 件 AI 医疗大事\n\n01 · 论文研究\n通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断\n我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03272-3\n",
   "publication": {
     "date": "2026-10-04",
     "item_ids": [
-      "url:https://www.nature.com/articles/s41591-026-04673-3",
-      "url:https://www.nature.com/articles/s41591-026-04675-1"
+      "url:https://www.nature.com/articles/s41746-026-03272-3",
+      "url:https://www.nature.com/articles/s41591-026-04673-3"
     ],
     "minutes": 1,
     "date_basis": "publication",
     "source_dates": [
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-03"
     ],
-    "text": "奇点日报 · 2026-10-04\n近三日精选 · 2 件 AI 医疗大事\n\n01 · 论文研究\n尿液游离 RNA 用于膀胱癌检测和治疗反应预测\n尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04673-3\n\n02 · 论文研究\n6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验\n在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04675-1\n"
+    "text": "奇点日报 · 2026-10-04\n近三日精选 · 2 件 AI 医疗大事\n\n01 · 论文研究\n通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断\n我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。\nnpj Digital Medicine · 2026-10-03\nhttps://www.nature.com/articles/s41746-026-03272-3\n\n02 · 论文研究\n尿液游离 RNA 用于膀胱癌检测和治疗反应预测\n尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。\nNature Medicine · 2026-10-02\nhttps://www.nature.com/articles/s41591-026-04673-3\n"
   }
 }

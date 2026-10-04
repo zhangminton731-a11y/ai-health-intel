@@ -102,6 +102,11 @@ def normalize_date(value: Any) -> str:
     raw = text(value)
     if not raw:
         return ""
+    # Some publisher RSS feeds use a human-readable month-first timestamp.
+    try:
+        return datetime.strptime(raw, '%b %d, %Y %I:%M%p').date().isoformat()
+    except ValueError:
+        pass
     match = re.search(r"\b(20\d{2})[-/](\d{1,2})[-/](\d{1,2})\b", raw)
     if match:
         year, month, day_value = map(int, match.groups())
@@ -162,6 +167,8 @@ def normalize_item(raw: Mapping[str, Any], source: Mapping[str, Any]) -> dict[st
     }
     if raw.get('summary_source'):
         item['provenance']['summary_source'] = normalize_url(raw['summary_source'])
+    if raw.get('summary_kind') == 'source_excerpt':
+        item['provenance']['summary_kind'] = 'source_excerpt'
     if normalize_url(raw.get('image_url')):
         item['provenance']['image_url'] = normalize_url(raw['image_url'])
     item["item_id"] = stable_identity(item)
