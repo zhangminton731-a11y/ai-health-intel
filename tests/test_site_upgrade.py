@@ -29,6 +29,23 @@ class FeedResponse(BytesIO):
 
 
 class SourceTests(unittest.TestCase):
+    def test_source_images_are_preserved_and_unsafe_urls_rejected(self):
+        from sih_ref.sources import feed_image
+        import xml.etree.ElementTree as ET
+        for xml, expected in (
+            ('<item><enclosure type="image/jpeg" url="/cover.jpg"/></item>', 'https://example.org/cover.jpg'),
+            ('<item><description>&lt;img src="https://example.org/pic.png"&gt;</description></item>', 'https://example.org/pic.png'),
+            ('<item xmlns:m="http://search.yahoo.com/mrss/"><m:thumbnail url="https://example.org/t.jpg"/></item>', 'https://example.org/t.jpg'),
+            ('<item><description>&lt;img src="javascript:alert(1)"&gt;</description></item>', ''),
+            ('<item><enclosure type="image/jpeg"/></item>', ''),
+            ('<item xmlns:m="http://search.yahoo.com/mrss/"><m:content type="video/mp4" url="https://example.org/movie.mp4"/></item>', ''),
+        ):
+            with self.subTest(xml=xml):
+                image = feed_image(ET.fromstring(xml), 'https://example.org/article')
+                self.assertEqual(expected, image)
+                item = normalize_item({'title':'Article', 'url':'https://example.org/article', 'image_url':image}, {'id':'test','kind':'rss'})
+                self.assertEqual(expected, item['provenance'].get('image_url', ''))
+
     def collect(self, responses):
         with patch('sih_ref.rss_fetch.urlopen', side_effect=[FeedResponse(xml) for xml in responses]) as request, \
              patch('sih_ref.rss_fetch.time.sleep'):

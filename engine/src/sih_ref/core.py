@@ -161,6 +161,8 @@ def normalize_item(raw: Mapping[str, Any], source: Mapping[str, Any]) -> dict[st
     }
     if raw.get('summary_source'):
         item['provenance']['summary_source'] = normalize_url(raw['summary_source'])
+    if normalize_url(raw.get('image_url')):
+        item['provenance']['image_url'] = normalize_url(raw['image_url'])
     item["item_id"] = stable_identity(item)
     item["fingerprint"] = stable_fingerprint(item)
     return item
@@ -255,7 +257,7 @@ def score_item(item: Mapping[str, Any], profile: Mapping[str, Any], as_of: date)
         if contains(normalized_term):
             topic_score -= abs(float(penalty))
     source_weight = float((profile.get("source_weights") or {}).get(text(item.get("source_kind")), 0.0))
-    topic_score = max(0.0, min(1.0, topic_score + source_weight))
+    topic_score = max(0.0, min(0.98, topic_score + source_weight))
     novelty_terms = [text(term).lower() for term in profile.get("novelty_terms") or [] if text(term)]
     novelty_matches = [term for term in novelty_terms if contains(term)]
     novelty_hint = min(1.0, len(novelty_matches) * 0.25)

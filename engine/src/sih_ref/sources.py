@@ -12,10 +12,11 @@ import re
 import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
+from html.parser import HTMLParser
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Callable, Mapping
-from urllib.parse import urlencode
+from urllib.parse import urlencode, urljoin
 from urllib.request import Request, urlopen
 
 from .core import normalize_url, normalize_date, text
@@ -163,6 +164,32 @@ def _arxiv(source: Mapping[str, Any], _: Path, __: date) -> SourceResult:
     return SourceResult(text(source.get("id")), status, items, [{"kind": "arxiv_atom", "count": len(items)}])
 
 
+class FeedImage(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.url = ''
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'img' and not self.url:
+            self.url = dict(attrs).get('src', '')
+
+
+def feed_image(entry, base):
+    for node in entry.iter():
+        tag = node.tag.rsplit('}', 1)[-1]
+        media = node.tag.startswith('{http://search.yahoo.com/mrss/}')
+        media_image = media and (tag == 'thumbnail' or (tag == 'content' and node.get('medium', 'image') == 'image' and node.get('type', 'image/').startswith('image/')))
+        if media_image or (tag in ('enclosure', 'link') and node.get('type', '').startswith('image/')):
+            candidate = node.get('url') or node.get('href')
+            url = normalize_url(urljoin(base, candidate)) if candidate else ''
+            if url: return url
+    parser = FeedImage()
+    for node in entry.iter():
+        if node.tag.rsplit('}', 1)[-1] in ('description', 'summary', 'content', 'encoded'):
+            parser.feed(node.text or '')
+    return normalize_url(urljoin(base, parser.url)) if parser.url else ''
+
+
 def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
     url = normalize_url(source.get("url"))
     if not url:
@@ -182,6 +209,7 @@ def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
                     "upstream_id": field("guid") or field("link"),
                     "title": field("title"),
                     "summary": field("description"),
+                    "image_url": feed_image(entry, field('link') or url),
                     "published_at": field("pubDate") or entry.findtext("{http://purl.org/dc/elements/1.1/}date"),
                     "url": field("link"),
                     "tags": source.get("tags") or [],
@@ -198,6 +226,7 @@ def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
                     "upstream_id": entry.findtext(f"{atom}id") or link,
                     "title": entry.findtext(f"{atom}title"),
                     "summary": entry.findtext(f"{atom}summary") or entry.findtext(f"{atom}content"),
+                    "image_url": feed_image(entry, link or url),
                     "published_at": entry.findtext(f"{atom}published") or entry.findtext(f"{atom}updated"),
                     "url": link,
                     "tags": source.get("tags") or [],
