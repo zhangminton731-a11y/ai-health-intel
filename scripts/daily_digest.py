@@ -66,3 +66,17 @@ def issue_text(issue: dict | None, by_id: dict, as_of: str) -> str:
                   row.get('s') or row.get('se') or '来源未提供摘要，请阅读原文。',
                   f'{row["src"]} · {row["date"]}', row['u'], '']
     return '\n'.join(lines)
+
+
+def build_publication(items: list[dict], as_of: date) -> dict:
+    """Today's reading edition; retain source dates and the original-date archive."""
+    issues = build_issues(items, as_of, max_age=2)
+    ids = [iid for issue in issues for iid in issue['item_ids']][:5]
+    by_id = {row['id']: row for row in items}
+    chars = sum(len(by_id[iid].get('s') or by_id[iid].get('se', '')) for iid in ids)
+    issue = {'date': as_of.isoformat(), 'item_ids': ids,
+             'minutes': max(1, (chars + 399) // 400), 'date_basis': 'publication',
+             'source_dates': sorted({by_id[iid]['date'] for iid in ids})}
+    body = issue_text(issue if ids else None, by_id, as_of.isoformat())
+    issue['text'] = body.replace('这一天的 ', '近三日精选 · ')
+    return issue

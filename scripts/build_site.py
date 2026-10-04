@@ -21,7 +21,7 @@ sys.path.insert(0, str(ROOT / "engine" / "src"))
 from sih_ref.core import freshness_gate, normalize_date
 from export_feeds import export_feeds
 from classify_content import classify_content
-from daily_digest import build_issues, issue_text
+from daily_digest import build_issues, issue_text, build_publication
 from reader_context import reasons, update_history
 from publication import current_items as select_current, coverage
 from site_assets import extract_assets
@@ -175,6 +175,19 @@ def reader_summary(value: str) -> str:
         value = ' '.join(label + ': ' + sections[key] for key, label in
                          [('conclusion', 'Conclusions'), ('result', 'Results')]
                          if sections.get(key))
+    elif len(value) > 900:
+        # Extract whole source sentences so long introductions do not hide results.
+        sentences = re.split(r'(?<=[.!?])\s+(?=[A-Z])', value)
+        method = next((n for n, sentence in enumerate(sentences)
+                       if re.search(r'\bwe (propose|developed|evaluated|assessed|present)\b', sentence, re.I)), 0)
+        results = [n for n, sentence in enumerate(sentences) if re.search(
+            r'\b(validated|achieved|reached|outperformed|improved|accuracy|AUROC|confidence interval)\b', sentence, re.I)]
+        limitation = next((n for n, sentence in enumerate(sentences) if re.search(
+            r'\b(limitations?|further validation|caution|uncertain)\b', sentence, re.I)), None)
+        selected = {method, *results[:3]}
+        if limitation is not None: selected.add(limitation)
+        if results:
+            value = ' '.join(sentences[n] for n in sorted(selected))
     if len(value) > 900:
         # Do not turn a cut-off sentence into a complete finding.
         excerpt = value[:900]
@@ -192,6 +205,18 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
         # Archived raw evidence remains in JSONL; it is not rendered by any current view.
         summary = reader_summary(original_summary) if it.get('reading_tier') != 'archive' else ''
         summary_zh = (tr.zh(summary) or '') if it.get('reading_tier') != 'archive' else ''
+        # Correct known literal mistranslations only when the source has the term.
+        for original, wrong, preferred in (
+            ('Oura', '大浦', 'Oura'),
+            ('multimodal', '多模式', '多模态'),
+            ('scoping review', '范围界定审查', '范围综述'),
+            ('abstract-level landscape', '抽象级景观', '摘要级研究图谱'),
+        ):
+            if original.lower() in (title_en+' '+summary).lower():
+                title_zh = title_zh.replace(wrong, preferred)
+                summary_zh = summary_zh.replace(wrong, preferred)
+        if 'reader study' in title_en.lower() and 'ultrasound' in title_en.lower():
+            title_zh = title_zh.replace('读者研究', '阅片者研究')
         if re.search(r'\bLLMs?\b', title_en + ' ' + summary):
             summary_zh = summary_zh.replace('法学硕士', '大语言模型')
         src_id = it.get("source_id", "")
@@ -281,6 +306,7 @@ def build(*, as_of: date | None = None) -> None:
         "generatedAt": health.get("generated_at", ""),
         "coverage": coverage(items, build_date),
         "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
+        "publicationIssue": build_publication(data, build_date),
         "historyItems": history_data, "historyIssues": history_issues, "policyTimeline": policy,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
         "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),

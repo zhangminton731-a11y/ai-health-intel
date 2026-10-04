@@ -4,12 +4,21 @@ import sys
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from daily_digest import build_issues, issue_text
+from daily_digest import build_issues, issue_text, build_publication
 from build_site import reader_summary
 
 
 class DailyDigestTests(unittest.TestCase):
     today = date(2026, 9, 27)
+
+    def test_publication_date_does_not_relabel_source_dates(self):
+        rows = [self.row('yesterday', '2026-09-26'), self.row('old', '2026-09-20')]
+        publication = build_publication(rows, self.today)
+        self.assertEqual('2026-09-27', publication['date'])
+        self.assertEqual(['yesterday'], publication['item_ids'])
+        self.assertEqual(['2026-09-26'], publication['source_dates'])
+        self.assertIn('2026-09-26', publication['text'])
+        self.assertEqual([], build_publication([], self.today)['item_ids'])
 
     def row(self, id, day='2026-09-27', category='papers', score=50):
         return {'id':id,'date':day,'t':'医学研究 '+id,'te':'Medical research '+id,
@@ -42,6 +51,15 @@ class DailyDigestTests(unittest.TestCase):
 
     def test_title_only_items_do_not_become_empty_daily_stories(self):
         self.assertEqual([],build_issues([{**self.row('title-only'),'s':'','se':''}],self.today))
+
+    def test_unstructured_abstract_keeps_late_results_as_whole_source_sentences(self):
+        result = 'The full pipeline reached an AUROC of 0.952 in the external cohort.'
+        limitation = 'Further validation is required before deployment.'
+        source = 'Background information. '*60 + 'We propose a clinical framework. '+result+' '+limitation
+        summary = reader_summary(source)
+        self.assertIn(result, summary)
+        self.assertIn(limitation, summary)
+        self.assertIn('We propose a clinical framework.', summary)
 
     def test_abstract_preserves_findings_and_removes_encoded_markup(self):
         raw='&lt;strong&gt;Background:&lt;/strong&gt; Long background. Objective: Test AI. Methods: Cohort. Results: Accuracy was 80%. Conclusions: External validation is still needed.'

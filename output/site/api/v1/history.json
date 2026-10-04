@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T03:31:00+00:00",
+  "generated_at": "2026-10-04T03:55:28+00:00",
   "as_of": "2026-10-04",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -342,8 +342,8 @@
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e99980",
       "t": "数据科学健康研究中伦理治理连续性的消解：生命周期监督的诊断和响应框架",
       "te": "Dissolution of Continuity of Ethical Governance in Data Science Health Research: Diagnostic and Response Framework for Lifecycle Oversight",
-      "s": "传统的研究伦理治理是为有限的协议、可识别的研究者以及与人类参与者的短暂接触而设计的。数据科学健康研究 (DSHR) 颠覆了这种架构，因为健康数据、生物材料、计算表示和模型会随着时间的推移持续存在、传播、组合并获得新的用途。从这个角度来看，我们广泛使用 DSHR 来包括使用大型健康数据集的研究以及健康数据、模型和生物材料的相邻二次用途，包括学习卫生系统、公共卫生监测、质量改进、运营、商业产品开发以及依赖于健康数据或材料谱系的人工智能 (AI) 支持的转化用途。",
-      "se": "Traditional research ethics governance was designed for bounded protocols, identifiable investigators, and temporally limited encounters with human participants. Data science health research (DSHR) disrupts that architecture because health data, biological materials, computational representations, and models persist, travel, combine, and acquire new uses across time. In this viewpoint, we use DSHR broadly to include research using large health datasets and adjacent secondary uses of health data, models, and biological materials, including learning health systems, public health surveillance, quality improvement, operations, commercial product development, and artificial intelligence (AI)–enabled translational uses that rely on health data or material lineages.",
+      "s": "基于我们之前关于代表性准确性和连续性陷阱的工作，我们提出了一种诊断架构，该架构评估六个治理权威领域，应用三个诊断标准，在连续性权威矩阵（CAM）中对每个领域进行从 0 到 3 的评分，并将严重性从 0 到 4 进行分级。分数和分期阈值是概念性分类辅助工具，而不是经过验证的指标或道德许可性的自动确定，它们需要经验验证和参与者间可靠性测试。",
+      "se": "Building on our prior work on representational veracity and the continuity trap, we propose a diagnostic architecture that assesses six governance authority domains, applies three diagnostic criteria, scores each domain from 0 to 3 within a Continuity Authority Matrix (CAM), and stages severity from 0 to 4. The score and staging thresholds are conceptual triage aids, not validated metrics or automated determinations of ethical permissibility, and they require empirical validation and interrater reliability testing.",
       "u": "https://www.jmir.org/article/view/jmir_v28i1e99980",
       "src": "Journal of Medical Internet Research",
       "role": "期刊论文",

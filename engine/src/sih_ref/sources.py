@@ -210,7 +210,7 @@ def _rss(source: Mapping[str, Any], _: Path, as_of: date) -> SourceResult:
         for item in items:
             published = normalize_date(item.get('published_at'))
             if published and 0 <= (as_of-date.fromisoformat(published)).days <= 10 and not item.get('summary'):
-                check = enrich_summary(item, cache_dir, allow_fetch=attempted < 8)
+                check = enrich_summary(item, source.get('_metadata_cache_dir', cache_dir), allow_fetch=attempted < 8)
                 attempted += check['status'] in ('ok', 'unavailable')
                 checks.append(check)
     checks.append({"kind": "rss_atom", "count": len(items)})

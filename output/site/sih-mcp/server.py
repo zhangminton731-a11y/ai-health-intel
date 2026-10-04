@@ -1,5 +1,7 @@
 """Read-only stdio MCP bridge for SIH's public snapshots."""
 import json
+import time
+from urllib.error import HTTPError, URLError
 from datetime import datetime, timedelta, timezone
 from typing import Literal, Any
 from urllib.request import Request, urlopen
@@ -12,8 +14,19 @@ def load_snapshot(name: str) -> dict[str, Any]:
         raise ValueError('Unknown snapshot')
     request = Request(BASE + f'api/v1/{name}.json', headers={'User-Agent':'SIH-MCP/1.0'})
     try:
-        with urlopen(request, timeout=20) as response:
-            value = json.load(response)
+        for attempt in range(2):
+            try:
+                with urlopen(request, timeout=20) as response:
+                    value = json.load(response)
+                break
+            except HTTPError as exc:
+                if attempt or exc.code not in (500, 502, 503, 504):
+                    raise
+                time.sleep(1)
+            except (URLError, TimeoutError, ConnectionError):
+                if attempt:
+                    raise
+                time.sleep(1)
         if not isinstance(value, dict):
             raise ValueError('Invalid snapshot')
         return value

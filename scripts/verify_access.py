@@ -13,8 +13,10 @@ import json
 from pathlib import Path
 import sys
 import tempfile
+import time
+import argparse
 from threading import Thread
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.request import urlopen
 import xml.etree.ElementTree as ET
 import zipfile
@@ -28,6 +30,7 @@ PUBLIC = 'https://zhangminton731-a11y.github.io/ai-health-intel/'
 PATHS = ['api/v1/health.json', 'api/v1/items.json', 'api/v1/briefing.json',
          'feed.xml', 'sih-intel.zip', 'sih-intel/README.md', 'sih-mcp.zip',
          'sih-mcp/README.md', 'openapi.json', 'llms.txt']
+RECOVERIES = []
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -43,8 +46,17 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def read(base, path):
-    with urlopen(base + path, timeout=15) as response:
-        return response.read()
+    for attempt in range(2):
+        try:
+            with urlopen(base + path, timeout=15) as response:
+                result = response.read()
+            if attempt: RECOVERIES.append(base + path)
+            return result
+        except HTTPError:
+            raise
+        except (URLError, TimeoutError, ConnectionError):
+            if attempt: raise
+            time.sleep(1)
 
 
 async def verify_local(base):
@@ -100,7 +112,7 @@ async def verify_local(base):
     return {'api': 'PASS: three HTTP GETs and OpenAPI schemas',
             'rss': f'PASS: RSS 2.0 dates, links and {len(entries)} matching items',
             'skill': 'PASS: ZIP download, exact files, metadata, instructions and data reads; client installation/trigger NOT tested',
-            'mcp': 'PASS: downloaded package, real stdio discovery and all three tools over local HTTP; public URL NOT substituted in production',
+            'mcp': f'PASS: downloaded package, real stdio discovery and all three tools reading {base}',
             'research_papers_returned': len(result.structured_content['items'])}
 
 
@@ -122,6 +134,24 @@ async def verify_public():
 
 
 async def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--public-only', action='store_true')
+    parser.add_argument('--rounds', type=int, default=3)
+    parser.add_argument('--output', default='output/access-verification.json')
+    args = parser.parse_args()
+    if args.public_only:
+        rounds = []
+        for attempt in range(max(1, min(args.rounds, 5))):
+            try:
+                result = await verify_local(PUBLIC)
+                rounds.append({'round': attempt+1, 'passed': True, **result})
+            except Exception as exc:
+                rounds.append({'round': attempt+1, 'passed': False, 'error': f'{type(exc).__name__}: {exc}'})
+        report = {'tested_at': datetime.now(timezone.utc).isoformat(), 'rounds': rounds,
+                  'recovered_http_requests': RECOVERIES, 'skill_client_installation_tested': False}
+        (ROOT/args.output).write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
+        print(json.dumps(report, ensure_ascii=False, indent=2))
+        return int(not all(row['passed'] for row in rounds))
     server = ThreadingHTTPServer(('127.0.0.1', 0), partial(Handler, directory=str(SITE)))
     thread = Thread(target=server.serve_forever, daemon=True)
     thread.start()
@@ -141,4 +171,4 @@ async def main():
 
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    sys.exit(asyncio.run(main()) or 0)

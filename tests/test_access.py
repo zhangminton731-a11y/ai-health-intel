@@ -7,6 +7,8 @@ import unittest
 import zipfile
 from datetime import datetime, timezone
 from unittest.mock import patch
+from io import BytesIO
+from urllib.error import URLError, HTTPError
 
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
@@ -15,6 +17,13 @@ spec=importlib.util.spec_from_file_location('sih_mcp_server',ROOT/'integrations/
 bridge=importlib.util.module_from_spec(spec);spec.loader.exec_module(bridge)
 
 class AccessTests(unittest.TestCase):
+    def test_mcp_retries_transient_transport_failure_once(self):
+        with patch.object(bridge, 'urlopen', side_effect=[URLError('EOF'), BytesIO(b'{"as_of":"2026-10-04"}')]) as request, patch.object(bridge.time, 'sleep'):
+            self.assertEqual('2026-10-04', bridge.load_snapshot('health')['as_of'])
+            self.assertEqual(2, request.call_count)
+        with patch.object(bridge, 'urlopen', side_effect=HTTPError('https://example.org', 404, '', {}, None)) as request:
+            with self.assertRaises(RuntimeError): bridge.load_snapshot('health')
+            self.assertEqual(1, request.call_count)
     def test_access_artifacts_have_real_paths_and_package(self):
         with tempfile.TemporaryDirectory() as folder:
             site=Path(folder);export_access(site)

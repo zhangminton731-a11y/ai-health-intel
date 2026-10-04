@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-04
 
-> Daily status: **complete_with_warning** · sources 16/17 · items 229
+> Daily status: **complete** · sources 17/17 · items 237
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -14,7 +14,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 Background: Periodontitis is one of the most prevalent yet preventable oral diseases, as indicated by multiple clinical and radiographic factors. As these factors are recorded in electronic health records (EHRs), their reuse offers opportunities for personalized risk assessment and targeted prevention. Predictive AI and traditional machine learning models support fragmented detection tasks but lack the integration of textual and imaging predictors. Emerging multimodal large language models (M-LLMs) show promise in combining these data sources for clinical assessment. Evaluating the capabilities of M-LLMs and comparing them against the current clinical standard are therefore essential to determine their potential as digital assistants. Objective: This study aimed to evaluate the ability of M-LLMs to assess periodontitis risk and suggest prevention strategies, based on EHR data and radiographic findings. Each M-LLM was individually evaluated by periodontal experts, benchmarked against other models, and compared with a periodontist as a reference. Methods: A vignette study was conducted following TRIPOD (Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis) guidelines for the evaluation of LLMs. Ten periodontal vignettes were created, each including a panoramic radiograph and textual EHR data. Three LLMs capable of reasoning and handling multimodal data were compared to a periodontist who generated outputs manually, based on the same prompts and input data. Periodontal experts rated all outputs across 6 predefined criteria on a 5-point Likert scale. Statistical analyses evaluated overall performance per model and tested whether performance varied per model, scenario complexity, or rater. Results: GPT o1 Pro and Claude Sonnet 4 showed strong performance, with 86.7% and 85.6% of ratings deemed acceptable—comparable to the periodontist’s output (87.8%). Gemini 2.5 Pro was rated significantly lower than both the periodontist and the other models (59.4% acceptable; &lt;.002). Radiographic interpretation consistently received lower scores than other abilities across all models and the periodontist, with Gemini rated below the acceptable threshold. The time required for completion ranged from approximately 10 seconds for Claude to 37 seconds for Gemini; 3 minutes, 22 seconds, for GPT; and 5 minutes, 57 seconds, for the periodontist. Conclusions: M-LLMs demonstrated strong reasoning abilities in periodontal assessment. Across all models, unacceptable elements were consistently related to errors in radiographic interpretation, though refined prompting or newer model versions may improve this. Notably, even when radiographic findings were incorrect and plaque-retentive factors were absent, outputs were still rated well, indicating that EHR data alone provide a substantial basis. For clinical applicability, M-LLMs must at least perform comparably to a periodontist and meet the quality standards set by periodontal experts—a bar that GPT and Claude appear to approach. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5" />
 
-## Scan · 25
+## Scan · 33
 
 ### [DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens](https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/)
 
@@ -40,6 +40,14 @@ Background: Periodontitis is one of the most prevalent yet preventable oral dise
 
 Background: Surgical site infections (SSIs) remain a major cause of health care–associated infections, and early prediction is essential for improving patient outcomes. Machine learning (ML) has shown potential for SSI prediction; however, clinical implementation requires models that are both accurate and explainable. Despite recent progress in explainable ML, its clinical application to SSI prediction remains limited. Objective: This study aimed to map explainable ML models for SSI prediction from a clinical perspective and examine their use of structured and unstructured data across the dimensions of data, methodology, and explanation output. Methods: We conducted a scoping review following PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) and Joanna Briggs Institute (JBI) guidance, and registered the protocol in PROSPERO. Six databases were searched for eligible studies published from January 2010 onward, without language restrictions. The search was conducted on August 9, 2025, and updated on July 14, 2026. We included studies that developed or validated an explainable ML model for predicting SSI in adults. Two reviewers (RS and YL) independently screened studies and extracted data. Findings were narratively synthesized and presented in evidence maps. Methodological quality was assessed using the PROBAST+AI (Prediction model Risk Of Bias Assessment Tool for prediction models using regression or artificial intelligence) methods. Results: Overall, 77 studies reporting 98 ML models were included. Most models were prognostic (72/98, 73.5%), whereas 26 focused on postoperative SSI diagnosis. A total of 81.8% (63/77) of studies addressed a single surgical specialty, most commonly gastrointestinal surgery (27/63, 42.9%). Overall, 51.9% (40/77) of studies addressed composite SSI predictions. Among all models, % (40/98) were black-box models explained by post hoc methods; SHAP combined with ensemble learning was the leading approach (18/40, 45%). Regression models accounted for half of the inherently interpretable models, interpreted using coefficients. Prognostic models commonly included health and lifestyle (60/72, 83.3%), individual characteristics, and surgical process details (both 57/72, 79.2%); health and lifestyle factors were most frequently important across SSI types. Diagnostic models commonly included surgical process details (13/26, 50%), administrative codes, and individual characteristics (both 10/26, 38.5%). Key diagnostic predictors varied by SSI types: postoperative clinical interventions predominated for composite SSI; vital signs, postoperative interventions, and administrative codes for superficial SSI; postoperative recovery status for deep SSI; and vital signs for organ-space SSI. Conclusions: Extending previous reviews focusing on model performance, this review mapped explainability methods and important features in SSI prediction, identifying recurring predictor patterns and substantial methodological heterogeneity across prognostic and diagnostic settings. Incomplete reporting of feature definitions and explanatory rationale, together with limited clinical relevance, constrained clinical interpretation and actionability. Clinician-informed reporting frameworks and validation of explanation fidelity and clinical relevance are needed to improve the trustworthiness and utility of SSI prediction models. Trial Registration: PROSPERO CRD420251124760; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251124760 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/410715e495876fbcbd4aab33069d2685" />
 
+### [Low-power wireless communication technologies empower wearable healthcare monitoring](https://www.nature.com/articles/s41746-026-03256-3)
+
+- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.53` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
+
+Low-power wireless communication is critical for long-term wearable healthcare monitoring. This review presents a structured technical comparison of radio frequency identification (RFID), near field communication (NFC), backscatter communication (BackCom), and ultra-wideband (UWB) in terms of principles, energy mechanisms, architectures, and performance. We further examine their applications in body-fluid and vital-parameter monitoring, identify challenges in power, range, integration and security, and provide guidance for selecting communication technologies for next-generation wearable medical systems.
+
 ### [AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust](https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/)
 
 - Source: `medcity_news` · published `2026-09-30` · freshness `fresh`
@@ -63,6 +71,22 @@ Background: AI systems are increasingly deployed across National Health Service 
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90592`
 
 Real-time audiovisual connections between health care providers (HCPs) in neonatal care, known as TeleNeonatology (TeleNeo), can improve neonatal care. For patients and families, TeleNeo was found to improve patient outcomes and facilitate family-integrated and patient-centered care by ensuring timely access to expert involvement regardless of location, which can strengthen trust and reassurance. For clinicians and health care organizations, TeleNeo enables expert decision-making, fosters continuous professional development, promotes knowledge exchange between hospitals, and increases staff confidence in managing complex medical cases. However, organizational, technical, and infrastructural requirements can hinder successful implementation and sustained adoption of technological interventions, such as TeleNeo. Implementation can be time-consuming and may fail due to the challenges encountered during the implementation process, particularly when incorporating the intervention into existing workflows across multiple hospitals. Nevertheless, there are case studies that demonstrate successful implementation of TeleNeo into routine care. Informed by international experience and theoretical underpinnings of implementation science, this tutorial presents a toolkit to provide step-by-step guidance for health care institutions considering TeleNeo implementation. The objective of the toolkit is to help health care organizations effectively and efficiently implement TeleNeo in their neonatal care pathways. The toolkit provides a structured guide that encompasses the entire implementation process, from initial ideas to stakeholder engagement, workflow design, and program evaluation. It includes checklists, planning guidelines, and tools to help teams design a customized implementation strategy for their institution. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430bacd589808af1eb42a8b7c08c0e01" />
+
+### [Clinician-centered evaluation of large language model-generated discharge summaries for longer hospitalizations](https://www.nature.com/articles/s41746-026-03320-y)
+
+- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.45` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
+
+Although large language models (LLMs) have shown promise for discharge summary generation, their performance in longer hospitalizations remains less well studied. Prior evaluations of LLM-generated discharge summaries have largely involved shorter stays and have rarely examined receiving-clinician priorities or incidental finding reporting. We compared LLM-generated and human-authored discharge summaries for 60 Internal Medicine hospitalizations lasting 7 to 21 days, with paired assessment by hospitalists and primary care physicians (PCPs). Clinician reviewers preferred LLM-generated summaries for 95% of encounters and rated them higher for quality, readability, factuality and completeness. PCPs rated LLM-generated summaries as better for understanding and communicating hospital care to patients and providing follow-up care. LLM-generated summaries had fewer clinician-reviewer annotations of either factual inaccuracies or clinically relevant omissions, primarily due to fewer omissions, with no significant differences in estimated harm potential or likelihood compared with human-authored summaries. PCPs annotated more omissions and assigned higher likelihood of harm than hospitalists. Among 31 LLM-identified radiology incidental findings, 93.5% were rated factually correct and 87.1% appropriate for reporting. In this retrospective clinician evaluation, LLM-generated summaries for longer, complex hospitalizations were rated more favorably and had fewer annotated omissions than human-authored summaries, with no significant differences in estimated harm potential or likelihood.
+
+### [Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with multinational clinical validation and reader study](https://www.nature.com/articles/s41746-026-03272-3)
+
+- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
+- Topic relevance: `0.35` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
+
+Breast ultrasound is central to breast cancer diagnosis but suffers from substantial inter-observer variability in Breast Imaging Reporting and Data System (BI-RADS) assessment, and existing deep learning models remain opaque. Multimodal large language models promise interpretable report-based reasoning, yet scarce paired image-report data yields weak visual-semantic alignment. We propose B-RAD, a BI-RADS-aware retrieval-augmented diagnosis framework that mirrors the radiologist workflow of retrieving exemplars, localizing lesions, and determining the BI-RADS category. Its retrieval module learns BI-RADS-aware alignment from unpaired data by jointly minimizing cross-modal mismatch and ordinal prediction error. Retrieved exemplars guide few-shot detection of the lesion together with its margin and posterior acoustic features, and the detected region prompts a segmentation model whose mask drives training-free foveal attention for classification. We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort. The full pipeline reached a biopsy triage AUROC of 0.952 on that institutional cohort without fine-tuning, outperforming existing vision-language models. In a four-reader study, B-RAD assistance improved accuracy, raised inter-reader agreement from moderate to substantial, and reduced missed malignancies across all readers. These findings show that retrieval-augmented diagnosis can narrow the expertise gap and support accessible breast cancer screening in resource-limited settings.
 
 ### [Effects of Generative AI–Supported Virtual Reality Dental Skill Training on Learning Performance, Visual Behavior, and Cortical Activation Among Dental Students: Stratified Randomized Controlled Trial](https://www.jmir.org/article/view/jmir_v28i1e90938)
 
@@ -144,6 +168,14 @@ Background: Social media platforms, particularly YouTube (Google LLC), are impor
 
 Background: Training mental health clinicians to conduct standardized clinical assessments is challenging due to a lack of scalable, realistic practice opportunities. Traditional methods often fail to prepare trainees for the variability and complexity of real-world patient interactions, potentially impacting data quality in clinical trials. This paper introduces a novel approach to address this training gap using large language model (LLM)–based interview simulations. Objective: This study aimed to develop and validate a voice-enabled virtual patient simulation system as a proof of concept. We described the development of the system and evaluated whether it could generate virtual patients that (1) accurately adhered to predefined clinical profiles, (2) maintained a coherent and consistent narrative, and (3) produced dialogue that is perceived as realistic. Methods: We implemented a system that used an LLM to simulate patients with specified symptom profiles, demographic backgrounds, and distinct communication styles. The system’s performance was analyzed through a mixed methods evaluation, which included a formal assessment by 5 experienced clinical raters who conducted simulated structured Montgomery-Åsberg Depression Rating Scale (MADRS) interviews with 4 virtual patient personae, scored them on the scale, and provided qualitative feedback on the system’s clinical plausibility, narrative cohesion, and dialogue realism. Results: Across 20 interviews, the virtual patients demonstrated reasonable adherence to their configured clinical profiles, with human rater scores falling near their predefined score configurations. The mean item difference between MADRS rater scores and configured scores was 0.52 (SD 0.75); interrater reliability for the total score was 0.90 (95% CI 0.68‐0.99). Expert raters consistently gave average ratings of “agree” to “strongly agree” when asked to evaluate the qualitative realism and cohesion of the virtual patients. Conclusions: LLM-powered virtual patient simulations offered a promising, scalable tool for training clinicians in standardized clinical assessment. This pilot study provides initial evidence for the system’s ability to produce clinically relevant practice scenarios with reasonable fidelity. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/253af14d7e8fd2ed2f67b170a4703d39" />
 
+### [OncoTagger: a reproducible abstract-level landscape of open-access AI-oncology articles in Web of Science](https://www.nature.com/articles/s41746-026-03252-7)
+
+- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
+- Topic relevance: `0.27` · novelty hint: `0.25`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
+
+AI-oncology evidence is expanding too quickly for static manual surveillance. We developed OncoTagger, a rule-based abstract-level evidence-surveillance pipeline, and applied it to an English-language, open-access article corpus indexed in the Web of Science Core Collection and analyzed at the title-, abstract-, keyword-, and metadata level from 2019 to 2025. From 59,994 initial records, deduplication, year restriction, automated screening, and manual adjudication yielded 20,766 records. Prediction-stratum-weighted corpus-level estimates showed metric-detection accuracy of 92.3% (95% CI 88.9–95.2%), sensitivity of 89.3% (85.4–93.3%), and specificity of 98.2% (94.5–100.0%). Ordinal metric categories showed exact agreement of 73.6% (69.0–77.8%) for the weighted-category output and 76.8% (72.3–80.8%) for the composite-metric output, with linear weighted Cohen’s kappa of 0.588 (0.513–0.659) and 0.615 (0.537–0.689), respectively. Primary-task assignment showed moderate agreement with manual consensus (68.0% exact agreement, 95% CI 63.3–72.4%; Cohen’s kappa 0.508, 0.442–0.572), and a complete task-unassigned census identified systematic dictionary-coverage gaps. The resulting resource describes abstract-reported metric patterns, pipeline-derived task mix, geography, and an exploratory candidate translational-signal subset. It should be interpreted as reproducible aggregate surveillance infrastructure, not as a full census of the AI-oncology field, a validated article-level classifier, or a comparative evaluation of algorithmic performance.
+
 ### [Refined Exclusion in Medical AI: Data Justice and Patient Safety Governance](https://www.jmir.org/article/view/jmir_v28i1e102359)
 
 - Source: `jmir` · published `2026-10-01` · freshness `fresh`
@@ -184,6 +216,22 @@ Medical AI is often evaluated using aggregate measures of discrimination, calibr
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp">Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.
 
+### [Multimodal computational analysis of longitudinal stress profiles in healthcare workers](https://www.nature.com/articles/s41746-026-03328-4)
+
+- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.25`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
+
+Healthcare workers (HCWs) face elevated risk for burnout and stress-related disorders, yet conventional self-report assessments are limited by professional stigma and underreporting. We evaluated whether multimodal computational analysis of brief, remotely collected stress narratives could distinguish longitudinal stress profiles. In a prospective six-week cohort study, N = 750 HCWs were invited to provide weekly naturalistic narratives describing recent stressful experiences and repeated measures of anxiety, depression, burnout, and subjective distress. Among 553 participants with sufficient repeated self-report data, multivariate longitudinal clustering identified two distinct profiles: Resilient (n = 295) and Vulnerable (n = 258). Linguistic, acoustic, and facial expression embeddings were extracted from the recordings and integrated using a hierarchical multimodal transformer. In a held-out test set, the model achieved an AUROC of 0.75, outperforming unimodal (linguistic embeddings; AUROC = 0.63) and bimodal (linguistic + acoustic; AUROC = 0.70) configurations. These findings provide proof of concept that multimodal embeddings extracted from brief stress narratives are associated with occupational stress profiles, potentially complementing traditional assessment methods and informing targeted prevention strategies.
+
+### [Shapley value explanations for clinical prediction models: a scoping review and guide](https://www.nature.com/articles/s41746-026-03324-8)
+
+- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
+
+Shapley value explanations are increasingly used to provide added transparency for “black-box” prediction models in healthcare. In this article, we provide an introductory overview of Shapley value explanations and describe their use through a detailed scoping review of 100 randomly selected, peer-reviewed publications that used Shapley explanations as part of their clinical research. We focus on the use of Shapley value explanations to explain the predictions of clinical prediction models that use tabular input features (e.g., predictors that measure patient characteristics like blood pressure and age) to predict health outcomes in individuals. In our review of the literature, we found that the methods used to compute Shapley value explanations were often underreported; e.g., 91% of publications did not disclose the algorithm that was used to compute Shapley value explanations, and 97% did not disclose the source or size of the reference (baseline) population used in the calculations. We identify four dominant motivations for using Shapley explanations in the literature (identification of key features, clinical decision support, trustworthiness, and exploratory analyses), elaborate on commonly found (mis) interpretations, and discuss challenges associated with Shapley value explanations. Finally, we provide practical recommendations for use of Shapley values in the context of clinical prediction models.
+
 ### [MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani](https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/)
 
 - Source: `medcity_news` · published `2026-09-29` · freshness `fresh`
@@ -200,6 +248,14 @@ Medical AI is often evaluated using aggregate measures of discrimination, calibr
 
 International Registered Report Identifier (IRRID): RR2-10.2196/49303 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb" />
 
+### [Brain signatures of body mass index predict cardiometabolic and respiratory disease status](https://www.nature.com/articles/s41746-026-03227-8)
+
+- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
+
+Despite advances in brain biomarkers using neural networks, the effects of body mass on brain structure have been neglected, particularly in connection with noncommunicable diseases. Here, we isolated brain biomarkers of body mass index (BMI) and evaluated their association with disease states. We applied deep learning on T1-weighted MRI scans to predict BMI from six independent cohorts and achieved strong within-cohort and reduced external performance. In a longitudinal follow-up subset, the model successfully tracked BMI changes over 2.3 years, with stronger sensitivity to BMI increases, and for obese participants. Next, we used the learned brain biomarkers to infer lifestyle factors and diagnoses related to cardiometabolic and pulmonary conditions. Strikingly, brain-based models showed superior discriminative power compared to BMI itself for detecting disorders without a primary neurological etiology. Inspection of learned patterns revealed that predictions were driven by white matter signals in the cerebellum, corpus callosum and brainstem, which on their own detected disorders as well as the full model. The existence of dynamic brain BMI signatures, and their detection of systemic disease consistently above BMI, suggest the possibility of shared mechanisms linking metabolic state and brain structure.
+
 ### [Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study](https://ai.jmir.org/2026/1/e85047/)
 
 - Source: `jmir_ai` · published `2026-09-25` · freshness `fresh`
@@ -215,6 +271,14 @@ Background: Antiseizure medications (ASMs) are the mainstay of epilepsy treatmen
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/`
 
 <p><a href="https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>[Sponsored] Research from MedCity News and Cotiviti shows robust AI adoption by payers and providers, but what steps are they taking for AI governance and AI weaponized cybersecurity threats? </p> <p>The post <a href="https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/">Hospital and Payer AI Governance Is at a Crossroads</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Machine Learning Model Predicts Three Year Mortality in Cardiovascular Kidney Metabolic Syndrome](https://www.nature.com/articles/s41746-026-03261-6)
+
+- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.0` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
+
+Cardiovascular-kidney-metabolic (CKM) syndrome is associated with a high risk of mortality, yet accurate individual risk prediction remains limited. We developed and validated machine learning models to predict 3-year all-cause mortality in 219,561 hospitalized patients with CKM stages 2-4 from 29 medical centers. Extreme Gradient Boosting (XGBoost) and least absolute shrinkage and selection operator (LASSO) models were developed in a derivation cohort (n = 132,404) using 101 variables and evaluated in internal (n = 56,744) and center-based (n = 30,413) validation cohorts. An 8-variable XGBoost model consistently outperformed the LASSO model, achieving receiver operating characteristic curve [ROC-AUC] of 0.831, 0.826, and 0.813 in the derivation, internal, and center-based validation cohorts, respectively. Based on the optimal model, patients were stratified into low-, moderate-, and high-risk groups. Compared with the low-risk group, high-risk patients had substantially higher risks of 3-year all-cause mortality (hazard ratio [HR], 9.62 [8.86, 10.45]) and cardiovascular mortality (HR, 12.53 [10.97, 14.31]). A web-based risk calculator was developed to facilitate clinical application. This parsimonious 8-variable XGBoost model provides accurate mortality risk stratification and may support personalized management of patients with CKM syndrome.
 
 ## Hold · 0
 
@@ -326,14 +390,6 @@ Eli Lilly is launching LillyDirect to deliver Mounjaro straight to Australian pa
 
 Apple today introduced Apple Watch Ultra 4, the ultimate sports and adventure watch, now with new health, fitness, and audio intelligence capabilities.
 
-### [Low-power wireless communication technologies empower wearable healthcare monitoring](https://www.nature.com/articles/s41746-026-03256-3)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.53` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
-
-No summary supplied by the source.
-
 ### [Our Project Suncatcher prototype satellite is in orbit.](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/)
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
@@ -382,14 +438,6 @@ Background: Health care systems face rising demand and persistent staff shortage
 
 <p>Today, Oura announced a new phase of its partnership with Counsel, the AI-native primary care company, through the Centers for Medicare &#38; Medicaid Services (CMS) Innovation Center’s Advancing Chronic Care with Effective Scalable Solutions (ACCESS) Model. The ACCESS program gives Oura and Counsel the opportunity to study this model at scale, specifically how continuous biometric [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/cms-access-model/">Oura and Counsel Health Expand Partnership Through CMS ACCESS Model</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
-### [Clinician-centered evaluation of large language model-generated discharge summaries for longer hospitalizations](https://www.nature.com/articles/s41746-026-03320-y)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.45` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
-
-No summary supplied by the source.
-
 ### [Waze rolls out new features to support Breast Cancer Awareness Month.](https://blog.google/waze/breast-cancer-awareness-month/)
 
 - Source: `fitbit_google_blog` · published `2026-09-30` · freshness `fresh`
@@ -429,14 +477,6 @@ Apple today introduced Apple Watch Series 12, engineered to deliver the most acc
 - Event: `seen` · identity: `url:https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/`
 
 <p>As the official wearable partner of the US Open and USTA, Oura is proud to champion the health and well-being of tennis players across all levels—from global champions to everyday hitters. Tennis is often celebrated as a heart-healthy workout—a high-stakes game of fast sprints, powerful serves, and quick directional changes. But how does an hour [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/what-oura-data-reveals-about-tennis-heart-rate-and-recovery/">Insights, Served: Oura Data Reveals Effects of Tennis on Heart Health, Recovery, and More</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
-
-### [Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with multinational clinical validation and reader study](https://www.nature.com/articles/s41746-026-03272-3)
-
-- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
-- Topic relevance: `0.35` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
-
-No summary supplied by the source.
 
 ### [Implicit Bias in Large Language Model Diagnosis of Eating Disorders: Experimental Vignette Study](https://ai.jmir.org/2026/1/e93498/)
 
@@ -566,6 +606,14 @@ Over the past year, venture backers have poured close to $3 billion into good-si
 
 This week’s list of the largest U.S. startup funding rounds was pretty much all about AI. That includes the biggest financing — a $1 billion round for Instinct, a developer of AI assistants for everyday tasks — as well as most of the rest of the Top 10.
 
+### [The missing links in agentic AI autonomy](https://www.nature.com/articles/s41591-026-04658-2)
+
+- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.3` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04658-2`
+
+A new study tackles issues around operational and decisional trust of agentic artificial intelligence (AI), using locally deployed, on-premise agents and consistency-based gating to refer uncertain cases — but what happens after referral remains untested.
+
 ### [Roche’s TIB MOLBIOL introduces in vitro newborn screening test kit](https://www.medicaldevice-network.com/news/roches-tib-molbiol-in-vitro-newborn-test-kit/)
 
 - Source: `medical_device_network` · published `2026-10-01` · freshness `fresh`
@@ -645,6 +693,22 @@ Delivered at just the right time, this type of auditory stimulus can strengthen 
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/`
 
 Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.
+
+### [Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial](https://www.nature.com/articles/s41591-026-04651-9)
+
+- Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
+- Topic relevance: `0.27` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04651-9`
+
+Safiglipron is an oral small-molecule glucagon-like peptide-1 (GLP-1) receptor agonist administered without fasting or dietary restrictions. We evaluated its efficacy and safety in OUTSTAND-1, a phase 3, multicenter, randomized, double-blind, placebo-controlled trial at 46 sites in China. We randomized 284 adults with type 2 diabetes managed with diet and exercise alone (mean baseline HbA1c 7.95%, median diabetes duration 1.6 years, 33.1% women) to once-daily safiglipron 30 mg (n = 70), 60 mg (n = 70), 90 mg (n = 72) or placebo (n = 72) for 32 weeks, followed by a 20-week active-treatment extension. For the primary endpoint, placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14) for 30 mg, 60 mg and 90 mg, respectively (all P &lt; 0.0001; treatment policy estimand). Secondary outcomes showed HbA1c &lt; 7.0% in 71.4−77.8% versus 25.0%, HbA1c ≤ 6.5% in 58.6−68.1% versus 16.7% and placebo-adjusted fasting plasma glucose differences of −1.58, −1.68 and −2.08 mmol l−1, respectively (all P &lt; 0.0001). Body weight differences were modest (−0.65%, −2.23% and −3.56% versus placebo). Other secondary outcomes generally favored safiglipron for HbA1c &lt; 5.7% attainment, postprandial glycemia, homeostatic model assessment of β cell function (HOMA-β), homeostatic model assessment of insulin resistance (HOMA-IR), disposition index and waist circumference, with less rescue therapy use. Insulin and C-peptide responses varied by dose, and changes in treatment satisfaction were limited. Gastrointestinal adverse events were most common and mostly mild or moderate. Adverse events led to treatment discontinuation in 1.4%, 2.9%, 6.9% and 0% of participants receiving safiglipron 30 mg, 60 mg, 90 mg and placebo, respectively. These findings support once-daily oral safiglipron as an effective treatment option for type 2 diabetes. ClinicalTrials.gov identifier: NCT06672172 . The OUTSTAND-1 trial showed that once-daily oral small-molecule GLP-1 receptor agonist safiglipron reduced HbA1c by up to 1.45% versus placebo over 32 weeks in people with type 2 diabetes without glucose-lowering medication while body weight effects were modest.
+
+### [Intravenous hyaluronidase-expressing oncolytic adenovirus with chemotherapy in metastatic pancreatic cancer: a randomized phase 2b trial](https://www.nature.com/articles/s41591-026-04705-y)
+
+- Source: `nature_medicine` · published `2026-09-30` · freshness `fresh`
+- Topic relevance: `0.27` · novelty hint: `0.25`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04705-y`
+
+Zabilugene almadenorepvec (VCN-01) is a hyaluronidase-expressing oncolytic adenovirus with a favorable safety profile and encouraging antitumor activity in patients with pancreatic ductal adenocarcinoma. This randomized phase 2b trial evaluated the efficacy and safety of two doses of intravenous VCN-01 with gemcitabine and nab-paclitaxel (GnP) versus GnP alone as first-line therapy in metastatic pancreatic ductal adenocarcinoma. The primary endpoints were overall survival (OS) in the intent-to-treat and full analysis set (FAS) populations, and safety and tolerability in the safety population. In the intent-to-treat population (VCN-01 + GnP, n = 53; GnP, n = 48), median OS in the VCN-01 + GnP versus GnP group was 10.6 versus 8.6 months (hazard ratio (HR) = 0.69 (95% confidence interval (CI) 0.42–1.12), P = 0.196) and progression-free survival was 5.6 versus 4.6 months (HR = 0.63 (95% CI 0.4–1.00), P = 0.046). In the FAS population (n = 48 per group), median OS was 10.8 months in the VCN-01 + GnP group versus 8.6 months in the GnP group (HR = 0.57 (95% CI 0.34-0.96), P = 0.055) and progression-free survival was 7.0 versus 4.6 months (HR = 0.55 (95% CI, 0.34-0.88), P = 0.011). The primary efficacy endpoint of OS was met in the FAS population. Duration of response was 11.2 versus 5.4 months (HR = 0.22 (95% CI 0.08–0.63), P = 0.004). No statistically significant differences were observed in overall response rate, disease control rate or carbohydrate antigen 19-9 levels between treatment groups. In addition, survival rates in the VCN-01 + GnP group versus the GnP group were 35.5% versus 12.8% at 15 months, and 31.1% versus 8.5% at 18 months. Patients receiving two VCN-01 doses 14 weeks apart showed greater survival benefit, with sustained circulating viral genomes indicating ongoing viral replication and preserved second-dose bioactivity despite persistent neutralizing antibodies. More frequent VCN-01-related events included pyrexia, flu-like symptoms, elevation in liver enzymes and decreases in platelet counts, with serious events occurring in 22.6% of patients. Milder toxicity was observed after the second administration. Two fatal events occurred, one in each treatment group; neither was considered related to study treatment. These results further support VCN-01 combined with GnP as a first-line therapy for metastatic pancreatic ductal adenocarcinoma and warrant evaluation in a blinded phase 3 trial. ClinicalTrials.gov identifier: NCT05673811 . In the randomized phase 2b VIRAGE trial, patients with treatment-naive metastatic pancreatic cancer received the hyaluronidase-expressing oncolytic adenovirus zabilugene almadenorepvec (VCN-01) intravenously with gemcitabine and nab-paclitaxel (GnP) or GnP alone, showing that VCN-01 plus GnP led to prolonged overall survival.
 
 ### [Apple’s new child safety features now available](https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/)
 
@@ -750,14 +814,6 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 
 <p><a href="https://medcitynews.com/2026/10/its-time-we-reframe-healthcare-organizational-culture-using-behavioral-science/"><img width="600" height="386" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/03/GettyImages-536659322-600x386.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/03/GettyImages-536659322-600x386.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/03/GettyImages-536659322-300x193.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/03/GettyImages-536659322.jpg 737w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Data, behavioral insights, and experimentation can be used to understand how stress, motivation, and trust shape company culture. Positively changing company culture leads to direct improvements in patient health outcomes, clinician wellbeing, and company performance.</p> <p>The post <a href="https://medcitynews.com/2026/10/its-time-we-reframe-healthcare-organizational-culture-using-behavioral-science/">It’s Time We Reframe Healthcare Organizational Culture Using Behavioral Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Multimodal computational analysis of longitudinal stress profiles in healthcare workers](https://www.nature.com/articles/s41746-026-03328-4)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.23` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
-
-No summary supplied by the source.
-
 ### [Pfizer Pill’s Phase 3 Data in Vitiligo Pave Way for FDA, EMA Submissions](https://medcitynews.com/2026/10/pfizer-vitiligo-litfulo-ritlecitinib-jak-tec-inhibitor-autoimmune-disease-immunology-pfe/)
 
 - Source: `medcity_news` · published `2026-10-02` · freshness `fresh`
@@ -765,6 +821,14 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/pfizer-vitiligo-litfulo-ritlecitinib-jak-tec-inhibitor-autoimmune-disease-immunology-pfe/`
 
 <p><a href="https://medcitynews.com/2026/10/pfizer-vitiligo-litfulo-ritlecitinib-jak-tec-inhibitor-autoimmune-disease-immunology-pfe/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/vitiligo_hands.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/vitiligo_hands.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/vitiligo_hands-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Pfizer’s Litfulo significantly improved skin pigment measures in two pivotal studies in vitiligo, results that were presented during the European Academy of Dermatology and Venereology annual meeting. If Pfizer’s daily pill is approved, it would compete against an Incyte topical cream that is currently the only FDA-approved therapy for this autoimmune skin disorder.</p> <p>The post <a href="https://medcitynews.com/2026/10/pfizer-vitiligo-litfulo-ritlecitinib-jak-tec-inhibitor-autoimmune-disease-immunology-pfe/">Pfizer Pill’s Phase 3 Data in Vitiligo Pave Way for FDA, EMA Submissions</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial](https://www.nature.com/articles/s41591-026-04675-1)
+
+- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.23` · novelty hint: `0.25`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04675-1`
+
+Undernutrition and infectious diseases pose a double threat to child survival, especially in areas with a high malnutrition burden and low vaccination coverage. In this study, we evaluated whether distributing preventive small-quantity lipid-based nutrient supplements (SQ-LNS) alongside routine immunization services may increase vaccine uptake in a pediatric, pragmatic, cluster-randomized controlled trial in northern Nigeria. Twenty geographically defined clusters across two Local Government Areas were randomized 1:1 to the NutriVax strategy (intervention) or standard National Program of Immunization (NPI) services (control). NutriVax provided a monthly ration of SQ-LNS to children aged 6−23 months after routine NPI delivery at primary healthcare centers. The primary outcome was coverage of the first dose of measles-containing vaccine (MCV1) verified by vaccination card among children aged 12−23 months, assessed in an endline population-based household cross-sectional survey 12 months after conducting a similar baseline survey. The endline survey included 1,604 children (801 control, 803 NutriVax); 48% of children surveyed in intervention clusters had ever received SQ-LNS. The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004). The difference-in-differences, cluster conditional analysis indicated a 20.1 percentage-point (pp) increase in MCV1 coverage from baseline (95% CI: 13.7−26.5 pp, P &lt; 0.0001) relative to the control arm. Co-delivering SQ-LNS with routine immunization substantially improved card-verified MCV1 uptake, supporting a scalable strategy to make progress toward targets set by the World Health Organizationʼs Immunization Agenda 2030 in similar settings. ClinicalTrials.gov identifier: NCT06387511 . A pragmatic, superiority, cluster-randomized trial done in Yobe State, northern Nigeria, found that distributing small-quantity lipid-based nutrient supplements alongside routine immunization services substantially increased measles vaccination uptake in children aged 12−23 months.
 
 ### [Turn your existing social assets into high-impact YouTube ads.](https://blog.google/products/ads-commerce/creating-assets-youtube-ads/)
 
@@ -1406,6 +1470,14 @@ Notice NOT-OD-26-131 from the NIH Guide for Grants and Contracts
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp">Watch the winning trailer from the Future Vision XPRIZE, The Gifted.
 
+### [A synthetic lethal drug for microsatellite instability cancers](https://www.nature.com/articles/s41591-026-04693-z)
+
+- Source: `nature_medicine` · published `2026-09-29` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04693-z`
+
+In a phase 1 trial, inhibition of the Werner syndrome helicase (WRN) enzyme exploits a new synthetic lethal vulnerability in cancers with microsatellite instability, offering a new way to target these tumors beyond immune checkpoint inhibition.
+
 ### [AstraZeneca Places a $2B Bet on a Summit Therapeutics Cancer Drug](https://medcitynews.com/2026/09/astrazeneca-summit-therapeutics-gastrointestinal-cancer-pd-1-vegf-bispecific-antibody-adc-combination-smmt-azn/)
 
 - Source: `medcity_news` · published `2026-09-29` · freshness `fresh`
@@ -1582,6 +1654,22 @@ Notice NOT-CA-26-020 from the NIH Guide for Grants and Contracts
 
 Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say.
 
+### [Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial](https://www.nature.com/articles/s41591-026-04674-2)
+
+- Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04674-2`
+
+The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney and biopsy for histology (n = 33), alongside single-nucleus (n = 22) and spatial transcriptomics (n = 13) on paired samples with before- and after-treatment measurements. Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment. Secondary outcomes revealed that semaglutide treatment, as compared to placebo, was associated with a significantly reduced renal artery resistive index and stabilization of the apparent diffusion coefficient, indicating prevention of fibrosis progression. Moreover, secondary transcriptomic outcomes revealed pronounced effects of semaglutide on glomerular endothelial cells, consistent with the results of spatial analyses indicating reduced numbers of immune cells in the proximity of these endothelial cells. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health. ClinicalTrials.gov identifier: NCT04865770 . A randomized trial in individuals with type 2 diabetes probed the kidney-protective mechanisms of semaglutide using a range of techniques, including histology, multiparametric MRI and transcriptomics.
+
+### [Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)](https://www.nature.com/articles/s41591-026-04677-z)
+
+- Source: `nature_medicine` · published `2026-10-01` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04677-z`
+
+Neoadjuvant immune checkpoint inhibitors (ICIs) are standard of care for resectable stage IIIB–D melanoma, but knowledge gaps remain regarding optimal treatment type, long-term survival, postsurgical management and clinical, histopathological or molecular subgroups. We analyzed 1,038 patients treated with neoadjuvant ICIs (n = 735), BRAF and MEK inhibitors (BRAF/MEKis; n = 119) or ICI plus any targeted therapy (ICI + TT; n = 184) from 26 international sites in both trial (755, 72.7%) and nontrial (283, 27.3%) settings. ICI regimens included anti-programmed cell death protein 1 (PD-1) alone (PD-1 alone; n = 242) and anti-PD-1 plus other immuno-oncology agent(s) (PD-1 + IO; n = 489). Outcomes included major pathological response (MPR), recurrence-free survival (RFS) and overall survival (OS). An MPR was achieved in 57.8% of patients with ICIs, 51.4% with BRAF/MEKis and 44.6% with ICI + TT. PD-1 + IO elicited higher MPR rates than PD-1 alone (61.4% versus 49.5%). The 5-year RFS rate was 61.0% with PD-1 alone, 73.9% with PD-1 + IO, 37.4% with BRAF/MEKis and 76.4% with ICI + TT; the 5-year OS rates were 83.3%, 87.5%, 69.8% and 83.9%, respectively. ICI-treated patients with MPR had 5-year OS rates of 98.8% with PD-1 alone and 97.9% with PD-1 + IO and gained no benefit from continuing ICIs into the adjuvant setting. Neoadjuvant ICIs were active in BRAF-mutant melanoma (MPR, 46.3%), acral melanoma (38.1%), in-transit metastases (66.7%) and oligometastases (41.2%), although subgroup sizes and relative effectiveness varied. Survival outcomes were excellent with neoadjuvant ICIs, particularly in patients achieving MPR, but poor with BRAF/MEKis and mixed with ICI + TT. Predictive biomarker-driven trials, effective adjuvant strategies and subgroup-specific research are needed for nonresponders. An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors (ICIs), BRAF and MEK inhibitors (BRAF/MEKis), or a combination of ICIs and targeted therapies shows that ICI as monotherapy or in ICI combinations are superior to BRAF/MEKis and patients with major pathological responses have better long-term survival.
+
 ### [Guided Vision in Gemini Live: built for accessibility](https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/)
 
 - Source: `fitbit_google_blog` · published `2026-10-01` · freshness `fresh`
@@ -1694,14 +1782,6 @@ News of a fifth measles death in Pennsylvania underscores a longstanding issue a
 
 List of centrally authorised products with safety-related changes to the product information
 
-### [Machine Learning Model Predicts Three Year Mortality in Cardiovascular Kidney Metabolic Syndrome](https://www.nature.com/articles/s41746-026-03261-6)
-
-- Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
-
-No summary supplied by the source.
-
 ### [NIH rolling out streamlined website to help public find information more easily](https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-02` · freshness `fresh`
@@ -1758,6 +1838,14 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp">Here are Google’s latest AI updates from September 2026
 
+### [Urine cell-free RNA for bladder cancer detection and treatment response prediction](https://www.nature.com/articles/s41591-026-04673-3)
+
+- Source: `nature_medicine` · published `2026-10-02` · freshness `fresh`
+- Topic relevance: `0.05` · novelty hint: `0.0`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41591-026-04673-3`
+
+Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. Here we describe urine random priming and affinity capture of cell-free RNA (cfRNA) fragments for enrichment analysis by sequencing (uRARE-seq), a liquid biopsy method for urine cfRNA profiling, and apply it to 683 urine samples from patients with cancer and controls. Urine cfRNA contained transcripts from genitourinary tissues and, in patients with prostate, kidney or bladder cancer, tumor-derived transcripts. uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mutations. Urine cfRNA analysis also sensitively detected minimal residual disease and distinguished complete molecular responses after surgery from those after intravesical Bacillus Calmette–Guérin (BCG). Pretreatment urine from complete responders to BCG was enriched for T cell and other immune signatures, suggesting a preexisting antitumor immune response, whereas nonresponders showed higher expression of proliferation-related genes. In pretreatment urine from 114 patients, this biological difference enabled development of a biomarker predicting likelihood of response to BCG versus chemotherapy (area under the curve 0.93) that was strongly associated with risk of recurrence. Urine cfRNA analysis is therefore a promising biomarker approach for bladder cancer and potentially other urologic malignancies, although prospective studies are needed to assess its clinical utility. Applied to samples from more than 600 patients and controls, urinary cell-free RNA profiling with uRARE-seq demonstrated high sensitivity in detecting bladder cancer, and correlated with treatment response.
+
 ### [What it’s like to wait for the call from the Nobel Prize committee](https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-02` · freshness `fresh`
@@ -1773,30 +1861,6 @@ Ahead of this year's Nobel Prize announcements, STAT chatted with Mary-Claire Ki
 - Event: `seen` · identity: `url:https://news.crunchbase.com/venture/startups-choosing-right-investors-dean-black-operator/`
 
 For startup founders, the goal shouldn’t be assembling a cap table filled with whoever was willing to invest, but rather intentionally constructed around investors who bring different forms of value. Guest author Antonia Dean, a partner at Black Operator Ventures, shares three things founders should look for in their investors.
-
-### [Brain signatures of body mass index predict cardiometabolic and respiratory disease status](https://www.nature.com/articles/s41746-026-03227-8)
-
-- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
-
-No summary supplied by the source.
-
-### [OncoTagger: a reproducible abstract-level landscape of open-access AI-oncology articles in Web of Science](https://www.nature.com/articles/s41746-026-03252-7)
-
-- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
-
-No summary supplied by the source.
-
-### [Shapley value explanations for clinical prediction models: a scoping review and guide](https://www.nature.com/articles/s41746-026-03324-8)
-
-- Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
-- Topic relevance: `0.05` · novelty hint: `0.0`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
-
-No summary supplied by the source.
 
 ### [STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers](https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss)
 
