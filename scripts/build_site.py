@@ -236,11 +236,20 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             "event": it.get("event_type", "seen"), "provenance": it.get("provenance") or {},
             "tier": it.get("reading_tier", "archive"),
             "freshness": it.get("freshness_gate", "undated"),
-            "rel": round(min(0.98, max(0, it.get("topic_relevance") or 0)) * 100, 1),
+            "rel": (it['editorial']['score'] if (it.get('editorial') or {}).get('status') == 'scored' else None),
+            "editorial": it.get('editorial') or {'status': 'legacy_unscored'},
             "when": rel_time(it.get("published_at", ""), as_of), "date": it.get("published_at", ""),
         })
     for item in out:
-        item["reasons"] = reasons(item) if item['tier'] != 'archive' else {}
+        judgment = item['editorial']
+        if judgment.get('status') == 'scored':
+            item['sections'] = judgment.get('audiences', [])
+            kind = judgment['reviews'][0]['kind'] if judgment.get('reviews') else 'research'
+            defaults = {'research': 'policy' if kind == 'policy' else 'methods' if kind == 'method' else 'papers',
+                        'industry': {'product': 'products', 'industry': 'business', 'policy': 'regulation'}.get(kind, 'technology')}
+            item['categories'] = {audience: item['categories'].get(audience) or [defaults[audience]] for audience in item['sections']}
+        item["reasons"] = ({audience: judgment['reason'] for audience in judgment.get('audiences', [])}
+                           if judgment.get('status') == 'scored' else {})
     return out
 
 

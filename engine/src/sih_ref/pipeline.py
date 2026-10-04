@@ -138,7 +138,12 @@ def run_pipeline(
     assembled = [score_item(item, profile, as_of) for item in deduplicate(normalized)]
     provider = config.get("llm") or {}
     llm_status: dict[str, Any] = {"status": "disabled"}
-    if llm_enabled and not provider.get("enabled", False):
+    if (profile.get('editorial') or {}).get('enabled'):
+        from .editorial import evaluate, restore_receipts
+        editorial_cache = output_dir / '.cache/editorial'
+        restore_receipts(output_dir / 'daily_items.jsonl', editorial_cache)
+        assembled, llm_status = evaluate(assembled, profile, provider, editorial_cache, as_of)
+    elif llm_enabled and not provider.get("enabled", False):
         llm_status = {"status": "inactive", "reason": "disabled_by_config"}
     elif llm_enabled:
         try:
@@ -162,6 +167,10 @@ def run_pipeline(
     )
     active_health = [entry for entry in source_health if entry["enabled"]]
     daily_status = classify_daily_health(active_health)
+    if (profile.get('editorial') or {}).get('enabled') and not llm_status.get('selected') and any(
+        llm_status.get('counts', {}).get(k) for k in ('failed', 'unconfigured')
+    ):
+        daily_status = 'degraded'  # Keep the last published batch during a total model outage.
     if llm_status["status"] == "warning" and daily_status == "complete":
         daily_status = "complete_with_warning"
     health = {

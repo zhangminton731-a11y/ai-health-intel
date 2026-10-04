@@ -40,8 +40,8 @@ def merge_records(rows, month):
 
 def select_records(records, profile):
     # Evaluate historical eligibility on the ORIGINAL date, without rewriting that date.
-    scored = [score_item(row, profile, date.fromisoformat(row['published_at'])) for row in records]
-    return [row for row in scored if row['reading_tier'] != 'archive' and (row.get('summary') or '').strip()]
+    scored = records if profile.get('editorial', {}).get('enabled') else [score_item(row, profile, date.fromisoformat(row['published_at'])) for row in records]
+    return [row for row in scored if row.get('reading_tier', 'archive') != 'archive' and (row.get('summary') or '').strip()]
 
 
 def recover_month(repo, month):
@@ -70,11 +70,21 @@ def export_archives(output, profile, translator, build_data):
         month = archive['month']
         _, last = month_bounds(month)
         records = merge_records(archive['records'], month)
-        rows = build_data(select_records(records, profile), translator, last)
+        previous = target / (month + '.json')
+        previous_issues = None
+        if profile.get('editorial', {}).get('enabled') and previous.exists():
+            # Freeze the already published archive membership, not its obsolete keyword scores.
+            published = json.loads(previous.read_text(encoding='utf-8'))
+            ids = {row['id'] for row in published['items']}
+            previous_issues = published['editions']
+            selected = [dict(row, reading_tier='skim', freshness_gate='fresh') for row in records if row['item_id'] in ids]
+        else:
+            selected = select_records(records, profile)
+        rows = build_data(selected, translator, last)
         for row in rows:
             row.update(historical=True, archiveMonth=month)
         by_id = {row['id']: row for row in rows}
-        issues = build_issues(rows, last, max_age=31)
+        issues = previous_issues if previous_issues is not None else build_issues(rows, last, max_age=31)
         for issue in issues:
             issue.update(date_basis='original_publication', kind='retrospective',
                          headline=by_id[issue['item_ids'][0]]['t'] or by_id[issue['item_ids'][0]]['te'])

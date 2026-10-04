@@ -1,0 +1,129 @@
+{
+  "status": {
+    "counts": {
+      "failed": 1,
+      "ineligible": 100,
+      "insufficient_material": 8,
+      "needs_review": 17,
+      "scored": 130
+    },
+    "model": "glm-5.3-flash",
+    "policy_version": "e1f0238b706e1966",
+    "selected": 5,
+    "status": "warning"
+  },
+  "current": [
+    {
+      "title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
+      "url": "https://www.nature.com/articles/s41591-026-04651-9",
+      "score": 72
+    },
+    {
+      "title": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
+      "url": "https://www.nature.com/articles/s41591-026-04675-1",
+      "score": 71
+    },
+    {
+      "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
+      "url": "https://www.nature.com/articles/s41591-026-04674-2",
+      "score": 71
+    },
+    {
+      "title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
+      "url": "https://www.nature.com/articles/s41591-026-04677-z",
+      "score": 75
+    },
+    {
+      "title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
+      "url": "https://www.nature.com/articles/s41591-026-04673-3",
+      "score": 71
+    }
+  ],
+  "example": {
+    "url": "https://mhealth.jmir.org/2026/1/e91724",
+    "editorial": {
+      "audiences": [
+        "industry",
+        "research"
+      ],
+      "evaluated_at": "2026-10-04T06:45:05+00:00",
+      "input_hash": "96953e35abdb935cabe5e230064b2852f8af5b84fb45033b60a2a9e729c60de6",
+      "input_scope": "source_summary",
+      "policy_version": "e1f0238b706e1966",
+      "reason": "在74人真实世界队列中以CGM为参照验证了无创可穿戴+LSTM估计组织葡萄糖（RMSE约21-23 mg/dL，Clarke A+B达98.3%），对无创血糖监测的技术路线和产品化可行性有具体参考价值；但样本量偏小、随访仅2周、缺乏独立外部验证，仍属观察性估计而非临床级证据。",
+      "reviews": [
+        {
+          "audiences": [
+            "industry",
+            "research"
+          ],
+          "axes": {
+            "evidence": 6,
+            "novelty": 6,
+            "relevance": 7,
+            "significance": 6,
+            "usefulness": 5
+          },
+          "kind": "research",
+          "reason": "在74人真实世界队列中以CGM为参照验证了无创可穿戴+LSTM估计组织葡萄糖（RMSE约21-23 mg/dL，Clarke A+B达98.3%），对无创血糖监测的技术路线和产品化可行性有具体参考价值；但样本量偏小、随访仅2周、缺乏独立外部验证，仍属观察性估计而非临床级证据。",
+          "receipt": {
+            "model": "glm-5.3-flash",
+            "request_id": "202610041444484babb94cf5c34846",
+            "seconds": 6.88,
+            "usage": {
+              "completion_tokens": 354,
+              "completion_tokens_details": {
+                "reasoning_tokens": 171
+              },
+              "prompt_tokens": 1307,
+              "prompt_tokens_details": {
+                "cached_tokens": 64
+              },
+              "total_tokens": 1661
+            }
+          },
+          "support": "74 participants, 34 (46%) healthy controls and 40 (54%) metabolically at-risk (MR) individuals, simultaneously used an invasive CGM device together with 2 noninvasive wristbands over 2 weeks",
+          "total": 60
+        },
+        {
+          "audiences": [
+            "industry",
+            "research"
+          ],
+          "axes": {
+            "evidence": 6,
+            "novelty": 6,
+            "relevance": 7,
+            "significance": 6,
+            "usefulness": 6
+          },
+          "kind": "research",
+          "reason": "该研究将此前概念验证的无创血糖估计算法推进到真实环境验证，使用商业可得智能手表达到RMSE约23 mg/dL、Clarke A+B区98.3%，对无创血糖监测产品研发和验证设计有具体参考价值。主要限制是样本量74、单一环境、2周观察性设计，且仅以CGM为参照，误差幅度对个体化临床决策仍偏高，作者亦承认需更大规模多样化队列验证。",
+          "receipt": {
+            "model": "glm-5.3-flash",
+            "request_id": "20261004144455f9652449b926476a",
+            "seconds": 10.08,
+            "usage": {
+              "completion_tokens": 359,
+              "completion_tokens_details": {
+                "reasoning_tokens": 174
+              },
+              "prompt_tokens": 1307,
+              "prompt_tokens_details": {
+                "cached_tokens": 0
+              },
+              "total_tokens": 1666
+            }
+          },
+          "support": "based on data from a smartwatch, we achieved a comparable average root-mean-squared error of 23.49 (SD 11.46) mg/dL for the overall cohort",
+          "total": 61
+        }
+      ],
+      "score": 60,
+      "selected": false,
+      "source_tier": "T1",
+      "status": "scored",
+      "threshold": 70
+    }
+  }
+}

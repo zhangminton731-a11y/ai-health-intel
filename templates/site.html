@@ -69,6 +69,9 @@
 @media(max-width:1200px){.hot-heading{align-items:start;flex-direction:column;gap:12px}.hot-podium{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.hot-place-1{grid-column:1/-1;grid-row:auto}.hot-feature-body{grid-template-columns:1fr}.hot-card:not(.hot-place-1) .hot-visual{max-height:110px;aspect-ratio:3/1}}
 @media(max-width:700px){.selection-page>h1{font-size:24px;margin-bottom:18px}.selection-toolbar{gap:14px}.selection-toolbar .category-tabs{max-width:100%;width:max-content}.selection-toolbar .category-tabs a{font-size:13px;padding:6px 13px;min-height:34px}.selection-toolbar .section-filters{margin:0;flex-basis:100%;justify-content:flex-start}.hot-podium{grid-template-columns:1fr}.hot-place-1{grid-column:auto;padding:22px}.hot-place-1 .hot-feature-body{grid-template-columns:1fr}.hot-place-1 h2{font-size:23px}.hot-feature-body{grid-template-columns:minmax(0,1fr) 100px}.hot-card:not(.hot-place-1) .hot-visual{aspect-ratio:1;max-height:none}.hot-card h2{font-size:18px}.hot-place-1 .hot-visual{max-height:210px}.hot-updated{white-space:normal}.hot-row{padding:18px 14px}.hot-heading h1{font-size:26px}.mobile-nav a{font-size:10px}.mobile-nav{min-height:64px}}
 @media(prefers-reduced-motion:reduce){.nav-icon{transition:none}.nav-link:hover .nav-icon{transform:none}}
+
+/* Compact company brand: preserve the supplied logo, reduce its reserved space. */
+.sidebar{padding-top:18px;gap:18px}.sidebar .brand{flex-shrink:0;min-height:0;height:56px;padding:0;border:0;display:flex;align-items:center}.sidebar .company-logo{width:146px;height:auto;max-height:63px;object-fit:contain}.mobile-head .company-logo{width:116px;height:auto}.editorial-details{font-size:12px;color:var(--muted);margin-top:10px}.editorial-details p{margin:8px 0}.editorial-details summary{cursor:pointer}
 </style>
 </head>
 <body>
@@ -104,7 +107,7 @@
 <div class="panel"><h2>方法参考 · Digital Oracle</h2><p>一个以市场数据分析宏观趋势的开源项目。本站参考其相关性、时间窗口与多源证据检查思路。融资并购条目保留报道来源与原文，交易金额和状态需回到公告核实。</p><a class="text-link" href="https://github.com/komako-workshop/digital-oracle" target="_blank" rel="noopener noreferrer">了解 Digital Oracle ↗</a></div>
 </section>
 <section id="v-feed" class="view"><div class="eyebrow">Explore intelligence</div><h1>找到与你相关的变化。</h1><p class="sub">按场景、主题和关键词查找当前情报。点击标题查看推荐理由与内容摘要。</p><div class="filters"><input id="search" type="search" aria-label="搜索情报" placeholder="搜索标题、摘要…"><select id="topicFilter" aria-label="按主题筛选"><option value="all">全部主题</option><option value="hospital">医院端 AI</option><option value="consumer">消费健康</option><option value="research">研究证据</option><option value="business">商业动态</option><option value="regulation">监管进展</option></select><select id="sourceFilter" aria-label="按来源类型筛选"><option value="all">全部来源</option><option>专业媒体</option><option>期刊论文</option><option>研究机构</option><option>官方机构</option><option>企业发布</option><option>社区线索</option></select></div><p class="result-count" id="resultCount" aria-live="polite"></p><div id="feedRows" class="intel-list"></div></section>
-<section id="v-hot" class="view"><div class="hot-heading"><div><div class="hot-eyebrow">医学与健康</div><h1>实时热点</h1><p class="sub">近期值得关注的研究与产业进展</p></div><div class="hot-updated" id="hotUpdated"></div></div><div id="hotRows" class="intel-list"></div><details class="ranking-note"><summary>榜单说明</summary><p>按主题相关性推荐指数排序，上限 98 分；不代表全网讨论量或临床证据等级。</p></details></section>
+<section id="v-hot" class="view"><div class="hot-heading"><div><div class="hot-eyebrow">医学与健康</div><h1>实时热点</h1><p class="sub">近期值得关注的研究与产业进展</p></div><div class="hot-updated" id="hotUpdated"></div></div><div id="hotRows" class="intel-list"></div><details class="ranking-note"><summary>榜单说明</summary><p>按两次独立模型评估的阅读价值排序，上限 98 分。五维分项由代码验算；不是全网讨论热度或临床证据评级。</p></details></section>
 <section id="v-daily" class="view">
 <div class="digest-layout">
 <aside class="digest-dates" aria-label="日报日期目录"><div class="digest-index-title">奇点日报</div><p>今日出刊 · 原文日期归档</p><nav id="dailyDates" aria-label="选择日报日期"></nav></aside>
@@ -158,7 +161,7 @@
 'use strict';
 const D=JSON.parse(document.getElementById('payload').textContent);
 const $=s=>document.querySelector(s);
-const topicNames={hospital:'医院端 AI',consumer:'消费健康',research:'研究证据',business:'商业动态',regulation:'监管进展'};
+const topicNames={hospital:'临床医疗',consumer:'消费健康',research:'研究证据',business:'商业动态',regulation:'监管进展'};
 const sectionCategories={research:{all:'全部',papers:'论文精选',methods:'工具方法',policy:'政策动态'},industry:{all:'全部',products:'新品方案',technology:'技术进展',business:'融资合作',regulation:'市场准入'}};
 const selectedCategory={research:'all',industry:'all'};
 const stageNames={design:'研究设计',data:'数据处理',analysis:'AI 分析',validation:'研究验证'};
@@ -210,7 +213,7 @@ function renderArticle(params){
  $('#articleReader').innerHTML=`<a class="text-link" href="#${home}${month?'?month='+encodeURIComponent(month):''}">← 返回${audience==='research'?'医学科研':'产业前沿'}</a><h1>${esc(i.t||i.te)}</h1><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time></div>${reason?`<section class="reader-reason"><h2>推荐理由</h2><p>${esc(reason)}</p></section>`:''}<section class="reader-summary"><h2>内容摘要</h2><p>${esc(i.s||i.se||'来源未提供摘要，请前往来源阅读。')}</p></section><div class="reader-source">${url!=='#'?`<a class="button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">前往来源阅读全文 ↗</a>`:'<p class="muted">原文链接暂不可用。</p>'}</div>`;
  document.querySelectorAll(`.nav-link[href="#${home}"],.mobile-nav a[href="#${home}"]`).forEach(a=>a.setAttribute('aria-current','page'));
 }
-function score(i){return Number.isFinite(i.rel)?Math.round(Math.max(0,Math.min(98,i.rel))):'—';}
+function score(i){return Number.isFinite(i.rel)?Math.round(Math.max(0,Math.min(98,i.rel))):'待评';}
 function excerpt(i,limit=210){const text=(i.s||i.se||'来源未提供摘要，请阅读原文。').trim();if(text.length<=limit)return text;const head=text.slice(0,limit);const stop=Math.max(head.lastIndexOf('。'),head.lastIndexOf('. '),head.lastIndexOf('；'));return stop>limit/2?head.slice(0,stop+1):head+'…';}
 function hotArtwork(i){
  const text=[i.te,...(i.topics||[])].join(' ').toLowerCase();
@@ -223,12 +226,13 @@ function hotVisual(i){
 }
 function renderHot(){
  const rows=hot.slice(0,10);
- $('#hotUpdated').textContent=(Number.isFinite(collected)?new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(collected))+' 更新 · ':'')+'按推荐指数排序';
- $('#hotRows').innerHTML=rows.length?'<div class="hot-podium">'+rows.slice(0,3).map((i,n)=>`<article class="hot-card hot-place-${n+1}"><div class="hot-kicker">${String(n+1).padStart(2,'0')} <span>${esc(i.sourceType)}</span></div><div class="hot-feature-body"><div><h2><a href="${esc(articleHref(i))}">${esc(i.t||i.te)}</a></h2><p class="hot-summary">${esc(excerpt(i,n===0?220:110))}</p></div>${hotVisual(i)}</div><div class="hot-bottom"><div><span>${esc(i.src)}</span><time>原文 ${esc(i.date)}</time></div><div class="hot-number">${score(i)}<small>推荐指数</small></div></div></article>`).join('')+'</div>'+(rows.length>3?'<div class="hot-list-heading">继续看 <span>04—'+String(rows.length).padStart(2,'0')+'</span></div>':'')+'<div class="hot-list">'+rows.slice(3).map((i,n)=>`<article class="hot-row"><span class="hot-order">${String(n+4).padStart(2,'0')}</span><div><h3><a href="${esc(articleHref(i))}">${esc(i.t||i.te)}</a></h3><p>${esc(excerpt(i,120))}</p><span class="meta">${esc(i.src)} · ${esc(i.date)}</span></div><div class="hot-number">${score(i)}<small>推荐指数</small></div></article>`).join('')+'</div>':'<p class="empty">当前暂无符合条件的热点。</p>';
+ $('#hotUpdated').textContent=(Number.isFinite(collected)?new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(collected))+' 更新 · ':'')+'按阅读价值排序';
+ $('#hotRows').innerHTML=rows.length?'<div class="hot-podium">'+rows.slice(0,3).map((i,n)=>`<article class="hot-card hot-place-${n+1}"><div class="hot-kicker">${String(n+1).padStart(2,'0')} <span>${esc(i.sourceType)}</span></div><div class="hot-feature-body"><div><h2><a href="${esc(articleHref(i))}">${esc(i.t||i.te)}</a></h2><p class="hot-summary">${esc(excerpt(i,n===0?220:110))}</p></div>${hotVisual(i)}</div><div class="hot-bottom"><div><span>${esc(i.src)}</span><time>原文 ${esc(i.date)}</time></div><div class="hot-number">${score(i)}<small>阅读价值</small></div></div></article>`).join('')+'</div>'+(rows.length>3?'<div class="hot-list-heading">继续看 <span>04—'+String(rows.length).padStart(2,'0')+'</span></div>':'')+'<div class="hot-list">'+rows.slice(3).map((i,n)=>`<article class="hot-row"><span class="hot-order">${String(n+4).padStart(2,'0')}</span><div><h3><a href="${esc(articleHref(i))}">${esc(i.t||i.te)}</a></h3><p>${esc(excerpt(i,120))}</p><span class="meta">${esc(i.src)} · ${esc(i.date)}</span></div><div class="hot-number">${score(i)}<small>阅读价值</small></div></article>`).join('')+'</div>':'<p class="empty">当前暂无符合条件的热点。</p>';
  $('#hotRows').querySelectorAll('.hot-visual img').forEach(img=>img.addEventListener('error',()=>{img.hidden=true;img.parentElement.querySelector('figcaption').textContent='主题示意';},{once:true}));
 }
 
-function card(i,n,section){const audience=articleAudience(i,section);const reason=i.reasons?.[audience];return `<article class="intel"><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time><span class="score-badge" title="主题相关性规则评分；不是临床证据评级">推荐指数 <b>${score(i)}</b></span></div><div class="card-head"><h3><a href="${esc(articleHref(i,audience))}">${esc(i.t||i.te)}</a></h3></div><p class="summary">${esc(excerpt(i))}</p><div class="card-tags">${i.topics.slice(0,2).map(t=>`<span class="pill">${esc(topicNames[t]||t)}</span>`).join('')}${(i.stages||[]).map(t=>`<span class="pill">${esc(stageNames[t]||t)}</span>`).join('')}</div>${reason?`<p class="recommendation"><strong>推荐理由：</strong>${esc(reason)}</p>`:''}</article>`;}
+function editorialDetails(i){const e=i.editorial;if(!e?.reviews?.length)return '';const names={significance:'实质份量',novelty:'信息增量',evidence:'证据支持',relevance:'读者相关',usefulness:'可用性'};return `<details class="editorial-details"><summary>评分依据 · 两次评估</summary>${e.reviews.map((r,n)=>`<p>第 ${n+1} 次：${esc(r.total)} 分 · ${Object.entries(r.axes||{}).map(([k,v])=>`${esc(names[k]||k)} ${esc(v)}`).join(' / ')}</p>`).join('')}<p>基于来源提供的摘要；入选门槛 ${esc(e.threshold)} 分。模型：${esc(e.reviews[0].receipt?.model||'')}。</p></details>`;}
+function card(i,n,section){const audience=articleAudience(i,section);const reason=i.reasons?.[audience];return `<article class="intel"><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time><span class="score-badge" title="两次模型评估的阅读价值；不是临床证据评级">阅读价值 <b>${score(i)}</b></span></div><div class="card-head"><h3><a href="${esc(articleHref(i,audience))}">${esc(i.t||i.te)}</a></h3></div><p class="summary">${esc(excerpt(i))}</p><div class="card-tags">${i.topics.slice(0,2).map(t=>`<span class="pill">${esc(topicNames[t]||t)}</span>`).join('')}${(i.stages||[]).map(t=>`<span class="pill">${esc(stageNames[t]||t)}</span>`).join('')}</div>${reason?`<p class="recommendation"><strong>推荐理由：</strong>${esc(reason)}</p>`:''}${editorialDetails(i)}</article>`;}
 
 function list(el,items){el.innerHTML=items.length?items.map((i,n)=>card(i,n+1)).join(''):'<p class="empty">今日暂无新条目，或没有符合条件的情报。</p>';}
 function renderSection(section){
@@ -242,8 +246,8 @@ function renderSection(section){
    (!q||(searchText.get(i.id)||[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase()).includes(q)));
  const routeName=section==='research'?'jingxuan':'industry';
  $('#'+section+'Tabs').innerHTML=Object.entries(sectionCategories[section]).map(([key,label])=>`<a href="#${routeName}?category=${key}" ${key===category?'aria-current="page"':''}>${label}</a>`).join('');
- const highlights=rows.filter(i=>byId[i.id]).sort((a,b)=>(b.rel||0)-(a.rel||0)).slice(0,5);
- $('#'+section+'Highlights').innerHTML=highlights.length?highlights.map(i=>`<li><a href="${esc(articleHref(i,section))}"><strong>${esc(i.t||i.te)}</strong><span class="highlight-summary">${esc(excerpt(i,100))}</span></a><span class="highlight-score">${score(i)}<small>推荐指数</small></span></li>`).join(''):'<li>当前没有符合条件的内容</li>';
+ const highlights=rows.filter(i=>byId[i.id]&&Number.isFinite(i.rel)).sort((a,b)=>(b.rel||0)-(a.rel||0)).slice(0,5);
+ $('#'+section+'Highlights').innerHTML=highlights.length?highlights.map(i=>`<li><a href="${esc(articleHref(i,section))}"><strong>${esc(i.t||i.te)}</strong><span class="highlight-summary">${esc(excerpt(i,100))}</span></a><span class="highlight-score">${score(i)}<small>阅读价值</small></span></li>`).join(''):'<li>当前没有符合条件的内容</li>';
  $('#'+section+'Count').textContent=`${rows.length} 条匹配内容`;
  const groups=new Map();
  [...rows].sort((a,b)=>b.date.localeCompare(a.date)).forEach(i=>{if(!groups.has(i.date))groups.set(i.date,[]);groups.get(i.date).push(i);});
@@ -366,7 +370,7 @@ function renderAbout(){
  $('#aboutSourceCount').textContent=sources.length;
  const publication=D.publicationIssue;
  const dailyCount=publication&&publication.date===today?(publication.item_ids||[]).filter(id=>current.some(i=>i.id===id)).length:0;
- const metrics=[['采集',sources.length,'个启用信源','持续关注论文、机构与产业发布，从源头找到值得阅读的进展。'],['收录',D.nItems??D.items.length,'条本批记录','记录来源与原文日期，规范内容、去重后进入资料池。'],['精选',current.length,'条当前推荐','用主题相关性与时效规则筛选，保留摘要、推荐理由和原文。'],['成刊',dailyCount,'条今日要闻','从当前推荐生成奇点日报，也可通过 RSS、API、MCP 和 Skill 读取。']];
+ const metrics=[['采集',sources.length,'个启用信源','持续关注论文、机构与产业发布，从源头找到值得阅读的进展。'],['收录',D.nItems??D.items.length,'条本批记录','记录来源与原文日期，规范内容、去重后进入资料池。'],['精选',current.length,'条当前推荐','模型独立评估两次，按实质份量、信息增量、证据支持、读者相关性和可用性筛选。'],['成刊',dailyCount,'条今日要闻','从当前推荐生成奇点日报，也可通过 RSS、API、MCP 和 Skill 读取。']];
  $('#aboutMetrics').innerHTML=metrics.map(([label,value,unit,note],i)=>`<article><div class="metric-stage"><span>0${i+1}</span>${label}</div><div class="metric-value"><strong>${value.toLocaleString('zh-CN')}</strong><small>${unit}</small></div><p>${note}</p></article>`).join('');
  $('#aboutSnapshot').textContent=`数据快照 · ${D.generatedAt?new Date(D.generatedAt).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false}):D.asOf}（北京时间）；收录为本批记录，非历史累计。`;
  $('#aboutSources').innerHTML=sources.map(s=>`<article class="source-card"><h3>${esc(s.name)}</h3><p>${esc(s.role||'公开信息来源')}</p><small>${Number(s.n)||0} 条本批记录</small></article>`).join('')||'<p class="muted">暂无信源目录</p>';

@@ -8,7 +8,7 @@
 
 [线上网站](https://zhangminton731-a11y.github.io/ai-health-intel/) · [九月档案](https://zhangminton731-a11y.github.io/ai-health-intel/#daily?date=2026-09-30) · [自动化状态](https://github.com/zhangminton731-a11y/ai-health-intel/actions) · [需求反馈](https://github.com/zhangminton731-a11y/ai-health-intel/issues) · [版本记录](CHANGELOG.md)
 
-**2026-10-04 最新界面调整：** 分类胶囊按内容收紧、公司原版 Logo、导航线稿图标、热点图文卡片，推荐指数统一封顶 98。[说明与验收](docs/compact-ui-20261004.md)
+**2026-10-04 编辑评分升级：** 生产筛选改为智谱 `glm-5.3-flash` 两次独立阅读价值评估，五维分项由代码验算、总分封顶 98；取消关键词累加入选。Logo 区域同步压缩。[评分机制与验收](docs/editorial-reading-value.md)
 
 **2026-10-04 档案更新：** 医学标识、开源入口、月份目录与点阵日历；19 个启用信源；九月恢复 762 条原始资料，筛选出 120 条可读资料和 22 份回溯日报。[品牌、信源与档案验收](docs/brand-sources-archive-20261004.md)
 
@@ -51,7 +51,7 @@
 
 北京时间 Day 0～10 为当前有效内容；未来、无日期、超过 10 天的记录归档。当前榜单、今日出刊、当前 API 与 RSS 均来自同一当前集合，不用旧条目补足数量。网页打开时再次检查日期，停更后过期条目不继续出现在推荐中。
 
-新增信源按“发现文章 → 用原始标题与摘要评分 → 核对原始发布方 → 实测订阅 → 接入”准入。两家 JMIR 新源的样例当前分别为 **98 / 89 分**（准入时旧上限记录为 100 / 89），达到 70 分门槛；[审计记录](docs/source-admission-2026-10-04.json)保存原文、日期和命中词。分数来自现有规则引擎，表示主题相关性，**不是 LLM 评审、临床证据质量或疗效评分**。信源入库后，每篇文章继续独立筛选，并非整本期刊自动进入推荐。
+既有[信源准入审计](docs/source-admission-2026-10-04.json)保留当时的关键词规则与原始分数，仅作为历史记录，已不用于当前入选决策。生产环境每篇文章独立接受模型双评；来源等级只调整门槛，不直接增加分数，也不让整本期刊自动入选。阅读价值不是临床证据等级或疗效评分。
 
 ## 九月资料档案
 
@@ -109,7 +109,7 @@ RSS 失败现在保留不含正文或凭据的请求诊断，区分网络、限�
 | `llms.txt` | Agent 数据入口索引 |
 | `openapi.json` | OpenAPI 3.1 静态接口定义 |
 
-这是随采集批次更新的静态 API。搜索和多维筛选由接入方执行，不能通过 URL 查询参数调用服务端搜索。条目新增 `sections`、`categories` 和 `research_stages`，支持接入方按两个板块筛选。每次读取先检查 `generated_at`；手机端安装 Skill 取决于所使用的 Agent 客户端。本版本没有站内 AI 聊天或付费模型调用。
+这是随采集批次更新的静态 API。搜索和多维筛选由接入方执行，不能通过 URL 查询参数调用服务端搜索。条目提供 `sections`、`categories`、`research_stages`、`reading_value_score` 和 `editorial`，支持读取栏目及双次评分回执。每次读取先检查 `generated_at`；手机端安装 Skill 取决于所使用的 Agent 客户端。模型调用发生在采集后台，浏览器不持有密钥；本版本没有站内 AI 聊天。
 
 ## 本地运行和测试
 

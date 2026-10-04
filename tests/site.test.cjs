@@ -138,7 +138,7 @@ test('river pauses offscreen and for reduced motion, and cleans up when unmounte
  motion.matches=true;w.SihSignalRiver.mount(wrap,[{name:'Test journal'}]);assert.equal(frames.size,0);w.SihSignalRiver.stop();w.close();
 });
 test('article cards remove details and headlines open an audience-specific reader',()=>{
- const a=entry('both','Shared study',['research']);a.sections=['research','industry'];a.categories={research:['papers'],industry:['products']};a.reasons={research:'帮助临床课题设计',industry:'评估产品升级'};
+ const a=entry('both','Shared study',['research']);a.rel=80;a.sections=['research','industry'];a.categories={research:['papers'],industry:['products']};a.reasons={research:'帮助临床课题设计',industry:'评估产品升级'};
  const p=page({items:[a],hot30:[a],dailyIssues:[{date:day,item_ids:[a.id],minutes:1}]});
  assert.equal(p.doc.querySelectorAll('.intel details').length,0);assert(!p.doc.body.textContent.includes('原文与详情'));
  navigate(p,'#feed');navigate(p,'#daily');for(const selector of ['#topRows h3 a','#researchHighlights a','#feedRows h3 a','#dailyStories h2 a'])assert.equal(p.doc.querySelector(selector).getAttribute('href'),'#article?id=both&section=research');
@@ -173,4 +173,10 @@ test('scores cap at 98 and source pictures fail over to clearly labeled artwork'
  navigate(p,'#jingxuan');assert([...p.doc.querySelectorAll('.score-badge b,.highlight-score')].every(n=>!n.textContent.includes('100')));
  assert.equal(p.doc.querySelectorAll('.sidebar .nav-link .nav-icon').length,7);assert.equal(p.errors.length,0);p.dom.window.close();
  const q=page({items:[{...i,image:'javascript:alert(1)'}],hot30:[{...i,image:'javascript:alert(1)'}]},{hash:'#hot'});assert(!q.doc.querySelector('.hot-visual img'));q.dom.window.close();
+});
+
+test('editorial cards disclose both reviews and legacy scores stay pending',()=>{
+ const a=entry('reviewed','Reviewed clinical study',['research']);a.rel=78;a.editorial={status:'scored',threshold:70,reviews:[{total:76,axes:{significance:7,novelty:8,evidence:8,relevance:7,usefulness:8},receipt:{model:'glm-5.3-flash'}},{total:80,axes:{significance:8,novelty:8,evidence:8,relevance:8,usefulness:8}}]};
+ const p=page({items:[a]});const detail=p.doc.querySelector('.editorial-details');assert(detail);assert(detail.textContent.includes('第 1 次：76'));assert(detail.textContent.includes('第 2 次：80'));assert(detail.textContent.includes('glm-5.3-flash'));assert(!detail.textContent.includes('undefined'));assert.equal(p.errors.length,0);p.dom.window.close();
+ const b={...entry('legacy','Old record',['research']),rel:null};const old=page({items:[b]});assert(old.doc.querySelector('.score-badge').textContent.includes('待评'));assert.equal(old.doc.querySelectorAll('#researchHighlights a').length,0);old.dom.window.close();
 });

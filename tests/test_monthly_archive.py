@@ -14,8 +14,8 @@ from sih_ref.core import normalize_item
 
 class MonthlyArchiveTests(unittest.TestCase):
     def row(self, day='2026-09-01', summary='Hospital artificial intelligence clinical validation healthcare medical imaging'):
-        return normalize_item({'title': 'Clinical AI study', 'url': 'https://example.org/study',
-                               'published_at': day, 'summary': summary}, {'id': 'journal', 'kind': 'rss'})
+        return dict(reading_tier='skim', **normalize_item({'title': 'Clinical AI study', 'url': 'https://example.org/study',
+                               'published_at': day, 'summary': summary}, {'id': 'journal', 'kind': 'rss'}))
 
     def test_bounds_and_richest_original_record(self):
         rows = [self.row(), self.row(summary='short'), self.row('2026-08-31'), self.row('2026-10-01')]
@@ -27,16 +27,16 @@ class MonthlyArchiveTests(unittest.TestCase):
 
     def test_historical_eligibility_does_not_relabel_original_date(self):
         profile = json.loads((ROOT/'config/profile.json').read_text(encoding='utf-8'))
-        rows = select_records([self.row(), {**self.row(), 'title': 'Election', 'summary': 'political news'}], profile)
+        rows = select_records([self.row(), {**self.row(), 'title': 'Election', 'summary': 'political news', 'reading_tier': 'archive'}], profile)
         self.assertEqual(1, len(rows))
         self.assertEqual('2026-09-01', rows[0]['published_at'])
-        self.assertGreaterEqual(rows[0]['topic_relevance'], .7)
+        self.assertNotIn('topic_relevance', rows[0])  # No new keyword scoring of historical records.
 
     def test_export_preserves_all_records_but_only_selects_eligible_content(self):
         profile = json.loads((ROOT/'config/profile.json').read_text(encoding='utf-8'))
         with tempfile.TemporaryDirectory() as tmp:
             output = Path(tmp); (output/'archives').mkdir()
-            archive = {'month': '2026-09', 'recovered_at': '2026-10-04', 'records': [self.row(), {**self.row('2026-09-02'), 'url': 'https://example.org/other', 'item_id': 'other', 'title': 'Election', 'summary': 'political news'}]}
+            archive = {'month': '2026-09', 'recovered_at': '2026-10-04', 'records': [self.row(), {**self.row('2026-09-02'), 'url': 'https://example.org/other', 'item_id': 'other', 'title': 'Election', 'summary': 'political news', 'reading_tier': 'archive'}]}
             (output/'archives/2026-09.json').write_text(json.dumps(archive), encoding='utf-8')
             def data(rows, _, as_of):
                 return [dict(id=r['item_id'], date=r['published_at'], t=r['title'], te=r['title'], s=r['summary'], se='', u=r['url'], src='Journal', rel=100, freshness='fresh', tier='skim', categories={}) for r in rows]

@@ -6,7 +6,7 @@
     "method_terms": ["ai", "artificial intelligence", "machine learning", "deep learning", "large language model", "large language models", "multimodal", "retrieval augmented", "retrieval-augmented", "prediction model", "prediction models", "shapley", "algorithm", "algorithms", "digital", "大模型", "机器学习", "算法"],
     "summary_required_sources": ["npj_digital_medicine", "nature_medicine", "nature_biomedical_engineering"]
   },
-  "_design_note": "2026-09-27 用户明确面向医院端医疗科技和消费健康企业 CEO。健康场景为必要条件；规则为召回与排序，不代表临床证据评级。 推荐同时需要 AI、数字化或智能健康技术线索，排除纯药物融资等泛医疗内容。",
+  "_design_note": "生产评分使用两次模型阅读价值评估；topic_terms 等旧字段仅供分类/历史示例兼容，不参与生产评分或入选。",
   "topic_terms": {
     "runners": 0.3,
     "athlete": 0.3,
@@ -215,5 +215,20 @@
     "可穿戴",
     "脑机",
     "远程监测"
-  ]
+  ],
+  "editorial": {
+    "enabled": true,
+    "source_tiers": {
+      "jmir_mhealth": "T1",
+      "jmir_medinform": "T1",
+      "jmir": "T1",
+      "jmir_ai": "T1",
+      "nature_medicine": "T1",
+      "npj_digital_medicine": "T1",
+      "nature_biomedical_engineering": "T1",
+      "nih_funding": "T1",
+      "ema_guidance": "T1",
+      "arxiv": "T1"
+    }
+  }
 }

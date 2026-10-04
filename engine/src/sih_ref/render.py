@@ -52,7 +52,8 @@ def render_markdown(
                     f"### {heading}",
                     "",
                     f"- Source: `{source}` · published `{published}` · freshness `{item.get('freshness_gate')}`",
-                    f"- Topic relevance: `{item.get('topic_relevance')}` · novelty hint: `{item.get('method_novelty_hint')}`",
+                    (f"- Reading value: `{item['editorial'].get('score', 'pending')}` · status: `{item['editorial'].get('status')}`"
+                     if item.get('editorial') else f"- Legacy topic match: `{item.get('topic_relevance')}` · novelty hint: `{item.get('method_novelty_hint')}`"),
                     f"- Event: `{item.get('event_type')}` · identity: `{item.get('item_id')}`",
                     "",
                     summary,

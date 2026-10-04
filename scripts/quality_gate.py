@@ -11,6 +11,8 @@ from urllib.parse import urlsplit
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 OUTPUT = Path(__file__).resolve().parents[1] / 'output'
+sys.path.insert(0, str(OUTPUT.parent / 'engine/src'))
+from sih_ref.editorial import VERSION, combine, material, validate_review
 REQUIRED_FILES = ['daily_items.jsonl','source_health.json','daily_briefing.md','daily_briefing_cn.md','site/index.html',
                   'site/api/v1/items.json','site/api/v1/health.json','site/api/v1/briefing.json','site/feed.xml','site/sih-intel.zip',
                   'site/sih-intel/README.md','site/sih-mcp.zip','site/sih-mcp/README.md','site/llms.txt','site/openapi.json']
@@ -58,13 +60,23 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if feed.get('generated_at')!=health['generated_at'] or feed.get('as_of')!=health['as_of']:
                 problems.append(f'{name} 接口不是同一批次')
         current={i['id']:i for i in payload['items'] if i['freshness']=='fresh' and i['tier']!='archive'}
-        if any(not 0 <= row.get('rel', 0) <= 98 for row in payload['items'] + payload.get('historyItems', [])):
+        if any(row.get('rel') is not None and not 0 <= row['rel'] <= 98 for row in payload['items'] + payload.get('historyItems', [])):
             problems.append('推荐指数超出 0–98 范围')
         by_id={i['item_id']:i for i in items}
         expected={i['item_id'] for i in items if i.get('freshness_gate')=='fresh' and i.get('reading_tier')!='archive'}
         if set(current)!=expected:problems.append('网页推荐池与采集筛选结果不一致')
         as_of=date.fromisoformat(health['as_of'])
         for iid,item in current.items():
+            judgment = by_id[iid].get('editorial')
+            if judgment is not None:
+                try:
+                    reviews = [validate_review(r, material(by_id[iid])) for r in judgment['reviews']]
+                    checked = combine(reviews, judgment['source_tier'])
+                    if (not checked['selected'] or judgment.get('policy_version') != VERSION or
+                            item.get('rel') != checked['score'] or judgment.get('score') != checked['score']):
+                        problems.append('编辑评分与分项、策略或入选结果不一致')
+                except (KeyError, ValueError, TypeError):
+                    problems.append('缺少有效双次编辑评分回执')
             age_days=(as_of-date.fromisoformat(item['date'])).days
             if not 0<=age_days<=10:problems.append('当前推荐中存在日期越界条目')
             if item['u']!=by_id[iid]['url']:problems.append('原文溯源不一致')
@@ -110,7 +122,7 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if archive['kind'] != 'retrospective' or archive['month'] != key or len(archived) != month['item_count']:
                 problems.append('月度档案统计或类型不一致')
             for row in archive['items']:
-                if not 0 <= row.get('rel', 0) <= 98:
+                if row.get('rel') is not None and not 0 <= row['rel'] <= 98:
                     problems.append('月度推荐指数超出 0–98 范围')
                 original = originals.get(row['id'], {})
                 if row['u'] != original.get('url') or row['date'] != original.get('published_at') or not row['date'].startswith(key+'-') or row.get('archiveMonth') != key:

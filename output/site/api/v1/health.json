@@ -721,58 +721,65 @@
       {
         "date": "2026-10-03",
         "collected": 4,
-        "selected": 4,
-        "excluded_reasons": {}
+        "selected": 0,
+        "excluded_reasons": {
+          "scored": 4
+        }
       },
       {
         "date": "2026-10-02",
         "collected": 40,
-        "selected": 10,
+        "selected": 2,
         "excluded_reasons": {
-          "out_of_scope": 30
+          "scored": 31,
+          "needs_review": 5,
+          "pending": 2
         }
       },
       {
         "date": "2026-10-01",
         "collected": 35,
-        "selected": 4,
+        "selected": 2,
         "excluded_reasons": {
-          "out_of_scope": 31
+          "scored": 27,
+          "needs_review": 5,
+          "pending": 1
         }
       },
       {
         "date": "2026-09-30",
         "collected": 29,
-        "selected": 12,
+        "selected": 0,
         "excluded_reasons": {
-          "out_of_scope": 17
+          "scored": 24,
+          "pending": 2,
+          "needs_review": 3
         }
       },
       {
         "date": "2026-09-29",
         "collected": 20,
-        "selected": 6,
+        "selected": 1,
         "excluded_reasons": {
-          "out_of_scope": 13,
-          "below_threshold": 1
+          "needs_review": 3,
+          "scored": 16
         }
       },
       {
         "date": "2026-09-28",
         "collected": 14,
-        "selected": 5,
+        "selected": 0,
         "excluded_reasons": {
-          "out_of_scope": 8,
-          "missing_summary": 1,
-          "below_threshold": 1
+          "scored": 11,
+          "pending": 3
         }
       },
       {
         "date": "2026-09-27",
         "collected": 4,
-        "selected": 1,
+        "selected": 0,
         "excluded_reasons": {
-          "out_of_scope": 3
+          "scored": 4
         }
       },
       {
@@ -784,21 +791,36 @@
       {
         "date": "2026-09-25",
         "collected": 7,
-        "selected": 3,
+        "selected": 0,
         "excluded_reasons": {
-          "out_of_scope": 4
+          "scored": 5,
+          "needs_review": 1,
+          "failed": 1
         }
       },
       {
         "date": "2026-09-24",
         "collected": 3,
-        "selected": 1,
+        "selected": 0,
         "excluded_reasons": {
-          "out_of_scope": 2
+          "scored": 3
         }
       }
     ],
-    "selected": 46,
+    "selected": 5,
     "collected": 256
+  },
+  "editorial": {
+    "counts": {
+      "failed": 1,
+      "ineligible": 100,
+      "insufficient_material": 8,
+      "needs_review": 17,
+      "scored": 130
+    },
+    "model": "glm-5.3-flash",
+    "policy_version": "e1f0238b706e1966",
+    "selected": 5,
+    "status": "warning"
   }
 }

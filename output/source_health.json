@@ -3,7 +3,17 @@
   "daily_status": "complete",
   "extensions": {
     "llm_triage": {
-      "status": "disabled"
+      "counts": {
+        "failed": 1,
+        "ineligible": 100,
+        "insufficient_material": 8,
+        "needs_review": 17,
+        "scored": 130
+      },
+      "model": "glm-5.3-flash",
+      "policy_version": "e1f0238b706e1966",
+      "selected": 5,
+      "status": "warning"
     }
   },
   "generated_at": "2026-10-04T06:00:35+00:00",

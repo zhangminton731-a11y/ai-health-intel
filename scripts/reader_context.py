@@ -1,7 +1,7 @@
 """Reader reasons and a separate, dated 20-day reading archive."""
 import json
 from pathlib import Path
-from sih_ref.core import score_item
+from sih_ref.core import score_item, freshness_gate
 
 SUBJECTS = [
     (('parkinson', '帕金森'), '帕金森病'), (('sleep', 'apnea', '睡眠'), '睡眠与呼吸监测'),
@@ -45,9 +45,15 @@ def reasons(item):
 def update_history(path, items, profile, as_of):
     previous = [json.loads(x) for x in path.read_text(encoding='utf-8').splitlines() if x.strip()] if path.exists() else []
     merged = {row['item_id']: row for row in previous+items}
+    if profile.get('editorial', {}).get('enabled'):
+        for old in previous:
+            if merged[old['item_id']].get('reading_tier') == 'archive' and old.get('reading_tier') != 'archive':
+                merged[old['item_id']] = old  # Keep previously archived reading material, outside current selections.
     history_profile = {**profile, 'freshness_days': 20}
-    rows = [score_item(row, history_profile, as_of) for row in merged.values()]
-    rows = [r for r in rows if r['freshness_gate']=='fresh' and r['reading_tier']!='archive']
+    # Preserve past membership; a historical record is not a newly model-scored recommendation.
+    rows = [dict(row, freshness_gate=freshness_gate(row, as_of, 20)) if profile.get('editorial', {}).get('enabled')
+            else score_item(row, history_profile, as_of) for row in merged.values()]
+    rows = [r for r in rows if r['freshness_gate']=='fresh' and r.get('reading_tier', 'archive')!='archive']
     # A stable original URL wins over duplicate collector identities.
     unique = {r['url']: r for r in rows}
     rows = sorted(unique.values(), key=lambda r:(r['published_at'],r['item_id']), reverse=True)

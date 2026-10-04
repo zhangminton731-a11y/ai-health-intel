@@ -181,12 +181,22 @@
     }
   ],
   "llm": {
-    "enabled": false,
+    "enabled": true,
     "endpoint_env": "SIH_LLM_ENDPOINT",
     "api_key_env": "SIH_LLM_API_KEY",
     "model_env": "SIH_LLM_MODEL",
     "requires_api_key": true,
-    "timeout_seconds": 60
+    "timeout_seconds": 90,
+    "max_workers": 2,
+    "request_options": {
+      "thinking": {
+        "type": "enabled"
+      },
+      "reasoning_effort": "low",
+      "response_format": {
+        "type": "json_object"
+      }
+    }
   },
   "delivery": {
     "enabled": false,
