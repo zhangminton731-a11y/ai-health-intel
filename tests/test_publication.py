@@ -138,3 +138,21 @@ class AlertTests(unittest.TestCase):
     def test_partial_sources_alert(self):
         health={'generated_at':'2026-09-27T01:00:00+00:00','daily_status':'complete_with_warning'}
         self.assertIn('部分信源采集异常',problems(health,datetime(2026,9,27,2,tzinfo=timezone.utc)))
+
+    def test_editorial_review_queue_is_not_a_source_outage(self):
+        now=datetime(2026,9,27,2,tzinfo=timezone.utc)
+        health={'generated_at':now.isoformat(),'daily_status':'complete_with_warning',
+                'sources':[{'enabled':True,'status':'ok'}],
+                'editorial':{'counts':{'scored':138,'needs_review':32}}}
+        self.assertEqual([],problems(health,now))
+        health['sources'][0]['status']='failed'
+        self.assertIn('部分信源采集异常',problems(health,now))
+
+    def test_model_failure_still_alerts_with_healthy_sources(self):
+        now=datetime(2026,9,27,2,tzinfo=timezone.utc)
+        health={'generated_at':now.isoformat(),'daily_status':'complete_with_warning',
+                'sources':[{'enabled':True,'status':'ok_no_updates'}],
+                'editorial':{'counts':{'failed':1,'needs_review':32}}}
+        self.assertEqual(['部分内容模型评分失败或未配置'],problems(health,now))
+        health['editorial']['counts']={'unconfigured':10}
+        self.assertEqual(['部分内容模型评分失败或未配置'],problems(health,now))
