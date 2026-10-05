@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-05
 
-> Daily status: **complete_with_warning** · sources 24/26 · items 433
+> Daily status: **complete_with_warning** · sources 25/26 · items 440
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -60,7 +60,7 @@ Neoadjuvant immune checkpoint inhibitors (ICIs) are standard of care for resecta
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Reading value: `75` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03272-3`
 
 Breast ultrasound is central to breast cancer diagnosis but suffers from substantial inter-observer variability in Breast Imaging Reporting and Data System (BI-RADS) assessment, and existing deep learning models remain opaque. Multimodal large language models promise interpretable report-based reasoning, yet scarce paired image-report data yields weak visual-semantic alignment. We propose B-RAD, a BI-RADS-aware retrieval-augmented diagnosis framework that mirrors the radiologist workflow of retrieving exemplars, localizing lesions, and determining the BI-RADS category. Its retrieval module learns BI-RADS-aware alignment from unpaired data by jointly minimizing cross-modal mismatch and ordinal prediction error. Retrieved exemplars guide few-shot detection of the lesion together with its margin and posterior acoustic features, and the detected region prompts a segmentation model whose mask drives training-free foveal attention for classification. We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort. The full pipeline reached a biopsy triage AUROC of 0.952 on that institutional cohort without fine-tuning, outperforming existing vision-language models. In a four-reader study, B-RAD assistance improved accuracy, raised inter-reader agreement from moderate to substantial, and reduced missed malignancies across all readers. These findings show that retrieval-augmented diagnosis can narrow the expertise gap and support accessible breast cancer screening in resource-limited settings.
 
@@ -148,7 +148,7 @@ Urine biomarkers promise to improve noninvasive detection and molecular characte
 
 No items.
 
-## Archive · 416
+## Archive · 423
 
 ### [Professor Ioannis Yannas, pioneer of regenerative medicine who invented artificial skin for the treatment of severe burns, dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
@@ -1830,6 +1830,14 @@ The U.S. Food and Drug Administration today announced the final design of the Ex
 
 This evening at the 78th Primetime Emmy Awards, Apple TV shatters records to become the most-awarded network of the year, landing 29 wins overall.
 
+### [Balancing safety and innovation in medical device regulation](https://www.nature.com/articles/s41551-026-01807-3)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-16` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01807-3`
+
+No summary supplied by the source.
+
 ### [Celebrating “What Holds Us” on iPhone 18 Pro](https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/)
 
 - Source: `apple_newsroom` · published `2026-09-16` · freshness `stale`
@@ -1877,6 +1885,14 @@ A new photography exhibition, curated by Kathy Ryan, celebrates the evolving lan
 - Event: `seen` · identity: `pmid:42748421`
 
 <h4>Background</h4>Orthopedic infection is usually managed with surgery and prolonged systemic antibiotic therapy. Whether local antibiotics delivered by a product implanted at the infection site during surgery can reduce the duration of systemic antibiotic therapy is unclear.<h4>Methods</h4>In a multicenter, open-label, noninferiority trial, we randomly assigned, in a 1:1 ratio, adults who had undergone surgery for orthopedic infection and implantation of a local-antibiotic carrier to receive postoperative systemic antibiotic therapy for a long (≥4 weeks) or short (≤7 days) duration. The primary outcome was definite treatment failure by 12 months, assessed according to protocol-defined criteria by a clinical end-point committee whose members were unaware of the trial-group assignments. The noninferiority margin was 10 percentage points.<h4>Results</h4>A total of 500 patients underwent randomization, of whom 475 were assessed in the primary analysis. Definite treatment failure occurred in 34 of 241 patients (14.1%) in the long-duration group and in 26 of 234 patients (11.1%) in the short-duration group (risk difference [negative values favor the short duration], -3.0 percentage points; 95% confidence interval [CI], -9.0 to 3.0), which met the prespecified noninferiority margin. In sensitivity analyses in the included population (497 patients) and the per-protocol population (457 patients), results were consistent with those of the primary analysis (risk difference, -2.4 percentage points [95% CI, -8.2 to 3.5] and -2.7 percentage points [95% CI, -8.8 to 3.4], respectively). By week 6 after surgery, symptoms potentially related to treatment had occurred in 45.2% of the patients in the long-duration group and in 17.2% of those in the short-duration group (risk difference, -28.0 percentage points; 95% CI, -36.4 to -19.6).<h4>Conclusions</h4>Among patients who had undergone orthopedic surgery and received local antibiotics, a short course of systemic antibiotics was noninferior to a long course with respect to definite treatment failure by 12 months. (Funded by the European Bone and Joint Infection Society and others; SOLARIO ClinicalTrials.gov number, NCT03806166.).
+
+### [Source data under scrutiny](https://www.nature.com/articles/s41551-026-01808-2)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-16` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01808-2`
+
+No summary supplied by the source.
 
 ### [FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A](http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type)
 
@@ -1974,6 +1990,14 @@ On Friday, September 18, Apple Store locations around the world introduced custo
 
 Despite arts engagement being a ubiquitous human behaviour across human history, research and awareness on the health benefits of engagement are still emerging, accelerating over the past decade. Building on the evidence and research challenges outlined in the first paper of this Lancet collection, this Review puts forward a series of roadmaps for advancing research, policy, and practice to enable appropriate and effective integration of the arts into health and wellbeing systems globally. First and foremost, we advocate for the fundamental principle that all individuals, regardless of their characteristics and location, should have regular opportunities to engage in the arts, proposing policy and research steps to monitor and achieve this goal. Second, we emphasise the importance of implementing population-level strategies that use the arts as part of broader portfolios of approaches to help address the fundamental determinants of health inequities. Third, we underscore the necessity of developing and embedding across society diverse public-health pathways that connect individuals living with or at risk of health challenges to the arts within communities. Fourth, we argue for more clinical innovation in integrating bespoke evidence-based arts and creative arts therapies programmes into clinical care across the care pathway. Finally, we stress the crucial need for enhanced cross-sectoral stakeholder engagement and more strategic investment and research to facilitate the development and dissemination of the necessary tools, training, and evidence to achieve these objectives.
 
+### [Development of an investigational epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B](https://www.nature.com/articles/s41551-026-01802-8)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-21` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01802-8`
+
+No summary supplied by the source.
+
 ### [Diagnostic Performance of a Locally Deployed Vision Language Model for Bone Tumor Diagnosis Using Smartphone-Captured Images: Exploratory Retrospective Study](https://ai.jmir.org/2026/1/e99757/)
 
 - Source: `jmir_ai` · published `2026-09-21` · freshness `stale`
@@ -2046,6 +2070,14 @@ Background: The timed up-and-go (TUG) test is a mobility-related functional task
 
 Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.
 
+### [Biomimetic graphitic carbon nitride nanoparticles for multiscale photomodulation and therapeutic intervention](https://www.nature.com/articles/s41551-026-01773-w)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-22` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01773-w`
+
+No summary supplied by the source.
+
 ### [Current advancements in the care of peripheral arterial disease: modern approaches to medical, endovascular, and surgical treatment.](https://doi.org/10.1016/s0140-6736(26)00845-7)
 
 - Source: `lancet_abstracts` · published `2026-09-22` · freshness `stale`
@@ -2077,6 +2109,14 @@ People with peripheral arterial disease (PAD) of the lower limbs are at very hig
 - Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/federal-marketplace-ffe-sbe-fp-anti-fraud-actions`
 
 Federal Marketplace (FFE and SBE-FP) Anti-Fraud Actions Introduction Fraud and improper enrollments in the Health Insurance Marketplace ® harm consumers, burden taxpayers, and undermine the integrity of the Federal Marketplace. CMS has identified a pattern of unauthorized enrollments and suspicious agent and broker activity in the Federal Marketplace. In response, the agency has moved aggressively to address these issues through a three-pronged strategy: preventing fraudulent and improper enrollments upfront; removing existing unauthorized enrollments; and enforcing CMS regulations governing agents and brokers. CMS has launched coordinated efforts with health insurance companies to identify enrollees associated with suspected unauthorized enrollments and cancel confirmed unauthorized enrollments. At the same time, the agency has focused on strengthening policies and enforcing existing regulations governing agents and brokers who assist consumers with enrollment. Cancellation of Unauthorized Enrollments On August 31, 2026, CMS canceled approximately 315,000 enrollments covering over 760,000 individuals after confirmation that these enrollments were unauthorized. This conclusion was the outcome of CMS and health insurance companies review and investigation in accordance with CMS’s existing process for unauthorized enrollments. CMS expects this will result in a return of approximately $2.2 billion in advance payments of the premium tax credit (APTC) for these canceled enrollments. CMS will continue working with health insurance companies to identify and investigate potentially unauthorized enrollments, cancel those confirmed as unauthorized to prevent improper subsidy payments in the future, and recoup the associated past APTC payments. Termination of Non-Compliant Agents and Brokers Since January 2026, CMS has sent termination notices to over 200 non-compliant agents and brokers. This summer, CMS issued 569 notices of intent to terminate Exchange Agreements to agents and brokers that submitted 2026 applications without identifying applicant information, such as a Social Security Number (SSN). The timeline for non-compliant agents and brokers to respond for the first 100 of the 569 notices of intent to terminate has concluded, and 66 have already received termination notices. CMS expects to send additional termination notices once the timeline for non-compliant agents and brokers to respond to the remaining 469 notices of intent to terminate concludes. CMS will continue to investigate and issue notices of intent to terminate Exchange Agreements to agents and brokers who we identify are noncompliant with Marketplace standards. CMS will also support state Departments of Insurance and health insurance companies in their own efforts to identify and take action on non-compliant agents and brokers. Moratorium on New Agent/Broker Registration CMS data show that agents and brokers who first registered for the 2026 plan year represent a small fraction of all agent/broker-assisted enrollments, yet they account for a disproportionate share of unauthorized enrollments and other high-risk activity in the Marketplace. Compared to agents and brokers who registered before 2026, this group of newly registered agents and brokers is responsible for agent/broker-assisted enrollments that are: 2.8 times more likely to have unresolved income verification issues; 2.7 times more likely to be missing Social Security Numbers; 2.6 times more likely to have unresolved citizenship or immigration status verification issues; 1.6 times more likely to use Special Enrollment Periods not subject to verification; 1.4 times more likely to include Medicaid denial attestations; and 1.4 times more likely to be found dually enrolled in Medicaid/CHIP and Marketplace coverage To respond to the heightened risk presented by newly registered agents and brokers, CMS is announcing a temporary moratorium on the registration of agents and brokers for 2027 who do not have an active Exchange Agreement for 2026. Additional Program Integrity Protections In addition to the above actions, CMS has implemented several new protections against agent and broker fraud. First, all existing agents and brokers are now required to re-identity proof through either Login.gov or ID.me. Second, all applications involving an agent or broker must include Social Security Numbers or immigration document numbers that CMS can verify for all non-newborn applicants. Third, CMS now prohibits agents and brokers from being added to applications that consumers should be completing on their own through HealthCare.gov. Fourth, in advance of Open Enrollment, CMS will implement a requirement for electronic consumer authorization before an agent or broker can take any action on an application or enrollment. Strengthening State and Industry Partnerships State departments of insurance play an important role in anti-fraud efforts, and CMS maintains a longstanding relationship with them both directly and through the National Association of Insurance Commissioners (NAIC). CMS is strategically working with NAIC and states on anti-fraud work, including increased data sharing, enforcement, and best practices for protecting consumers. Looking ahead, CMS will continue to ramp up anti-fraud efforts. In preparation for Open Enrollment, CMS will provide training and communications to agents and brokers concerning new requirements. Consumers will also receive communications for tips on preventing fraud and protecting themselves. ### CMS News and Media Group Catherine Howden, Director Media Inquiries Form 202-690-6145
+
+### [Microfluidics-mediated spatial control of mRNA lipid nanoparticles primes translation and enhances vaccine potency](https://www.nature.com/articles/s41551-026-01796-3)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-22` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01796-3`
+
+No summary supplied by the source.
 
 ### [Peripheral arterial disease: adverse impacts, disparities in outcomes, and the path ahead.](https://doi.org/10.1016/s0140-6736(26)00847-0)
 
@@ -2181,6 +2221,22 @@ Substances considered as not falling within the scope of Regulation (EC) No. 470
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e93854/`
 
 Background: Health care systems face rising demand and persistent staff shortages, intensifying pressure on the quality and sustainability of care. Artificial intelligence (AI) is increasingly being introduced to improve efficiency and decision support across clinical domains. While these tools promise operational gains, they can also reconfigure how physicians work, make judgments, and interact with patients, all elements of physicians’ craftsmanship. However, most research emphasizes technical performance rather than AI’s broader implications for physicians’ craftsmanship. Objective: This study aims to explore how physicians define craftsmanship in medicine and how they perceive AI to influence its professional and personal dimensions, with the goal of deriving practical principles for responsible AI design and implementation in hospital care. Methods: We conducted a qualitative, exploratory study in two phases (December 2024 to September 2025). Phase 1 involved semistructured interviews with 20 physicians from different hospital types and diverse specialties within the Netherlands. Phase 2 comprised two focus groups with physicians, physicians in training, hospital staff, policymakers, and AI developers during a national symposium, using an interactive, persona-based design to cocreate practical design principles. Results: Physicians described craftsmanship as their commitment to deliver the best possible care through human judgment, empathy, and contextual understanding. Perceived AI effects clustered in two areas: professional and personal dimensions. In professional dimensions, AI was seen to support workflow efficiency, documentation, data integration, and aspects of analytical reasoning, potentially freeing time for patient contact and reflection. Conditions for adoption included human-in-the-loop oversight, explainability, traceability, and AI literacy. In personal dimensions, empathy, contextual interpretation, and ethical judgment were viewed as inherently human and resistant to substitution. Concerns centered on de-skilling, less room for independent judgment, and threats to professional autonomy. Some variation was observed across specialties in how tasks and AI’s role were framed, reflecting their specific clinical contexts, but all shared the same core aim of delivering high-quality care. Based on the focus group discussions, the following design principles were identified that articulate how AI can be implemented in alignment with medical craftsmanship: consider a business case and strategic rationale; start from real clinical needs; let professional groups take the lead; design for contextual diversity; use user research for validation; design AI as supportive, not intrusive; safeguard autonomy and trust; cocreate with end users; learn across contexts; and use AI as a mirror for craftsmanship. Conclusions: AI seems to affect the conditions of professional craftsmanship and, thereby, indirectly the personal dimensions of it. This should be considered in design and implementation, while recognizing that continued interaction with AI may gradually reshape what craftsmanship itself comes to mean. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/b4d6f19c215019ca7465107b3b2c6f12" />
+
+### [Ultra-slow release of hydrophilic drugs via multilamellar–multivesicular liposomes formed by unsaturated phospholipids](https://www.nature.com/articles/s41551-026-01793-6)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-23` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01793-6`
+
+No summary supplied by the source.
+
+### [Unsaturated phospholipids form multicompartment liposomes that extend release of hydrophilic drugs](https://www.nature.com/articles/s41551-026-01791-8)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-23` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01791-8`
+
+No summary supplied by the source.
 
 ### [Caregiver App Use and Child Behavioral Adherence in Relation to Obesity-Related Outcomes in an mHealth App-Assisted Childhood Obesity Intervention: Secondary Analysis of a Cluster Randomized Trial](https://mhealth.jmir.org/2026/1/e89548)
 
@@ -2333,14 +2389,6 @@ The U.S. Food and Drug Administration today approved Emcitate (tiratricol) table
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework`
 
 FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S. District Court for the Northern District of Texas challenging the current regulatory framework. Based on FDA’s learned experience implementing the 2021 rule, the widespread development of an illicit and unregulated market, and the pace of new product introductions, FDA intends to evaluate changes to the PMTA regulatory framework, including through initiation of new rulemaking to replace the current framework. FDA believes a modern framework that reflects current market realities and provides greater clarity and predictability is critical to maximizing the protection of public health. In the meantime, FDA will continue to process PMTA submissions, conduct premarket reviews, and issue regulatory decisions on new tobacco products in accordance with the statutory requirements established by Congress. FDA remains committed to carrying out its responsibilities under the Tobacco Control Act, including applying the statutorily appropriate standard for the protection of public health (APPH) when reviewing PMTAs. Any future changes to the regulatory framework will be undertaken consistent with applicable law and with opportunities for public input. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
-
-### [Google Arts & Culture turns 15 — and gives its app a makeover](https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/)
-
-- Source: `fitbit_google_blog` · published `2026-09-28` · freshness `fresh`
-- Reading value: `10` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp">Explore art and culture with visual-first conversation search, a redesigned home feed, AI experiments and 27 new city guides in the Google Arts & Culture app.
 
 ### [Health Care Access Barriers Among Reproductive-Age Women in East Africa: Development and Validation of Machine Learning Prediction Models Using DHS Data](https://medinform.jmir.org/2026/1/e85695)
 
@@ -3130,7 +3178,7 @@ In a diagnostic study of 104 western blot and subcutaneous xenograft tumor image
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Reading value: `58` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03320-y`
 
 Although large language models (LLMs) have shown promise for discharge summary generation, their performance in longer hospitalizations remains less well studied. Prior evaluations of LLM-generated discharge summaries have largely involved shorter stays and have rarely examined receiving-clinician priorities or incidental finding reporting. We compared LLM-generated and human-authored discharge summaries for 60 Internal Medicine hospitalizations lasting 7 to 21 days, with paired assessment by hospitalists and primary care physicians (PCPs). Clinician reviewers preferred LLM-generated summaries for 95% of encounters and rated them higher for quality, readability, factuality and completeness. PCPs rated LLM-generated summaries as better for understanding and communicating hospital care to patients and providing follow-up care. LLM-generated summaries had fewer clinician-reviewer annotations of either factual inaccuracies or clinically relevant omissions, primarily due to fewer omissions, with no significant differences in estimated harm potential or likelihood compared with human-authored summaries. PCPs annotated more omissions and assigned higher likelihood of harm than hospitalists. Among 31 LLM-identified radiology incidental findings, 93.5% were rated factually correct and 87.1% appropriate for reporting. In this retrospective clinician evaluation, LLM-generated summaries for longer, complex hospitalizations were rated more favorably and had fewer annotated omissions than human-authored summaries, with no significant differences in estimated harm potential or likelihood.
 
@@ -3138,7 +3186,7 @@ Although large language models (LLMs) have shown promise for discharge summary g
 
 - Source: `medcity_news` · published `2026-10-02` · freshness `fresh`
 - Reading value: `29` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/debunked-episode-30-access-tries-to-succeed-where-vbc-fails-ai-and-unitedhealth-gets-the-last-week-tonight-treatment/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/debunked-episode-30-access-tries-to-succeed-where-vbc-fails-ai-and-unitedhealth-gets-the-last-week-tonight-treatment/`
 
 <p><a href="https://medcitynews.com/2026/10/debunked-episode-30-access-tries-to-succeed-where-vbc-fails-ai-and-unitedhealth-gets-the-last-week-tonight-treatment/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Comedian-Delves-Into-UnitedHealth-1-1024x576.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Comedian-Delves-Into-UnitedHealth-1-1024x576.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Comedian-Delves-Into-UnitedHealth-1-300x169.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Comedian-Delves-Into-UnitedHealth-1-768x432.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Comedian-Delves-Into-UnitedHealth-1-1536x864.png 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Comedian-Delves-Into-UnitedHealth-1.png 1672w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>Debunked Podcast co-hosts Arundhati Parmar and Samir Batra discussed the merits of the CMS ACCESS Model (Advancing Chronic Care with Effective, Scalable Solutions) and how it can offer a path to advance value-based care goals.</p> <p>The post <a href="https://medcitynews.com/2026/10/debunked-episode-30-access-tries-to-succeed-where-vbc-fails-ai-and-unitedhealth-gets-the-last-week-tonight-treatment/">Debunked Episode 30: ACCESS Tries to Succeed Where VBC Fails, AI, and UnitedHealth Gets the Last Week Tonight Treatment</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3210,7 +3258,7 @@ List of centrally authorised products with safety-related changes to the product
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Reading value: `42` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03256-3`
 
 Low-power wireless communication is critical for long-term wearable healthcare monitoring. This review presents a structured technical comparison of radio frequency identification (RFID), near field communication (NFC), backscatter communication (BackCom), and ultra-wideband (UWB) in terms of principles, energy mechanisms, architectures, and performance. We further examine their applications in body-fluid and vital-parameter monitoring, identify challenges in power, range, integration and security, and provide guidance for selecting communication technologies for next-generation wearable medical systems.
 
@@ -3226,7 +3274,7 @@ Low-power wireless communication is critical for long-term wearable healthcare m
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03261-6`
 
 Cardiovascular-kidney-metabolic (CKM) syndrome is associated with a high risk of mortality, yet accurate individual risk prediction remains limited. We developed and validated machine learning models to predict 3-year all-cause mortality in 219,561 hospitalized patients with CKM stages 2-4 from 29 medical centers. Extreme Gradient Boosting (XGBoost) and least absolute shrinkage and selection operator (LASSO) models were developed in a derivation cohort (n = 132,404) using 101 variables and evaluated in internal (n = 56,744) and center-based (n = 30,413) validation cohorts. An 8-variable XGBoost model consistently outperformed the LASSO model, achieving receiver operating characteristic curve [ROC-AUC] of 0.831, 0.826, and 0.813 in the derivation, internal, and center-based validation cohorts, respectively. Based on the optimal model, patients were stratified into low-, moderate-, and high-risk groups. Compared with the low-risk group, high-risk patients had substantially higher risks of 3-year all-cause mortality (hazard ratio [HR], 9.62 [8.86, 10.45]) and cardiovascular mortality (HR, 12.53 [10.97, 14.31]). A web-based risk calculator was developed to facilitate clinical application. This parsimonious 8-variable XGBoost model provides accurate mortality risk stratification and may support personalized management of patients with CKM syndrome.
 
@@ -3234,7 +3282,7 @@ Cardiovascular-kidney-metabolic (CKM) syndrome is associated with a high risk of
 
 - Source: `npj_digital_medicine` · published `2026-10-02` · freshness `fresh`
 - Reading value: `56` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03328-4`
 
 Healthcare workers (HCWs) face elevated risk for burnout and stress-related disorders, yet conventional self-report assessments are limited by professional stigma and underreporting. We evaluated whether multimodal computational analysis of brief, remotely collected stress narratives could distinguish longitudinal stress profiles. In a prospective six-week cohort study, N = 750 HCWs were invited to provide weekly naturalistic narratives describing recent stressful experiences and repeated measures of anxiety, depression, burnout, and subjective distress. Among 553 participants with sufficient repeated self-report data, multivariate longitudinal clustering identified two distinct profiles: Resilient (n = 295) and Vulnerable (n = 258). Linguistic, acoustic, and facial expression embeddings were extracted from the recordings and integrated using a hierarchical multimodal transformer. In a held-out test set, the model achieved an AUROC of 0.75, outperforming unimodal (linguistic embeddings; AUROC = 0.63) and bimodal (linguistic + acoustic; AUROC = 0.70) configurations. These findings provide proof of concept that multimodal embeddings extracted from brief stress narratives are associated with occupational stress profiles, potentially complementing traditional assessment methods and informing targeted prevention strategies.
 
@@ -3410,7 +3458,7 @@ For startup founders, the goal shouldn’t be assembling a cap table filled with
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03227-8`
 
 Despite advances in brain biomarkers using neural networks, the effects of body mass on brain structure have been neglected, particularly in connection with noncommunicable diseases. Here, we isolated brain biomarkers of body mass index (BMI) and evaluated their association with disease states. We applied deep learning on T1-weighted MRI scans to predict BMI from six independent cohorts and achieved strong within-cohort and reduced external performance. In a longitudinal follow-up subset, the model successfully tracked BMI changes over 2.3 years, with stronger sensitivity to BMI increases, and for obese participants. Next, we used the learned brain biomarkers to infer lifestyle factors and diagnoses related to cardiometabolic and pulmonary conditions. Strikingly, brain-based models showed superior discriminative power compared to BMI itself for detecting disorders without a primary neurological etiology. Inspection of learned patterns revealed that predictions were driven by white matter signals in the cerebellum, corpus callosum and brainstem, which on their own detected disorders as well as the full model. The existence of dynamic brain BMI signatures, and their detection of systemic disease consistently above BMI, suggest the possibility of shared mechanisms linking metabolic state and brain structure.
 
@@ -3426,7 +3474,7 @@ Medicare Improvement Fund Premium Rebate Frequently Asked Questions Q: What will
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03252-7`
 
 AI-oncology evidence is expanding too quickly for static manual surveillance. We developed OncoTagger, a rule-based abstract-level evidence-surveillance pipeline, and applied it to an English-language, open-access article corpus indexed in the Web of Science Core Collection and analyzed at the title-, abstract-, keyword-, and metadata level from 2019 to 2025. From 59,994 initial records, deduplication, year restriction, automated screening, and manual adjudication yielded 20,766 records. Prediction-stratum-weighted corpus-level estimates showed metric-detection accuracy of 92.3% (95% CI 88.9–95.2%), sensitivity of 89.3% (85.4–93.3%), and specificity of 98.2% (94.5–100.0%). Ordinal metric categories showed exact agreement of 73.6% (69.0–77.8%) for the weighted-category output and 76.8% (72.3–80.8%) for the composite-metric output, with linear weighted Cohen’s kappa of 0.588 (0.513–0.659) and 0.615 (0.537–0.689), respectively. Primary-task assignment showed moderate agreement with manual consensus (68.0% exact agreement, 95% CI 63.3–72.4%; Cohen’s kappa 0.508, 0.442–0.572), and a complete task-unassigned census identified systematic dictionary-coverage gaps. The resulting resource describes abstract-reported metric patterns, pipeline-derived task mix, geography, and an exploratory candidate translational-signal subset. It should be interpreted as reproducible aggregate surveillance infrastructure, not as a full census of the AI-oncology field, a validated article-level classifier, or a comparative evaluation of algorithmic performance.
 
@@ -3434,7 +3482,7 @@ AI-oncology evidence is expanding too quickly for static manual surveillance. We
 
 - Source: `npj_digital_medicine` · published `2026-10-03` · freshness `fresh`
 - Reading value: `69` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03324-8`
 
 Shapley value explanations are increasingly used to provide added transparency for “black-box” prediction models in healthcare. In this article, we provide an introductory overview of Shapley value explanations and describe their use through a detailed scoping review of 100 randomly selected, peer-reviewed publications that used Shapley explanations as part of their clinical research. We focus on the use of Shapley value explanations to explain the predictions of clinical prediction models that use tabular input features (e.g., predictors that measure patient characteristics like blood pressure and age) to predict health outcomes in individuals. In our review of the literature, we found that the methods used to compute Shapley value explanations were often underreported; e.g., 91% of publications did not disclose the algorithm that was used to compute Shapley value explanations, and 97% did not disclose the source or size of the reference (baseline) population used in the calculations. We identify four dominant motivations for using Shapley explanations in the literature (identification of key features, clinical decision support, trustworthiness, and exploratory analyses), elaborate on commonly found (mis) interpretations, and discuss challenges associated with Shapley value explanations. Finally, we provide practical recommendations for use of Shapley values in the context of clinical prediction models.
 
@@ -3442,7 +3490,7 @@ Shapley value explanations are increasingly used to provide added transparency f
 
 - Source: `medcity_news` · published `2026-10-04` · freshness `fresh`
 - Reading value: `25` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/`
 
 <p><a href="https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/Allergies-sneeze-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/Allergies-sneeze-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/Allergies-sneeze-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/Allergies-sneeze.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Rural patients, Medicaid enrollees, and patients from underrepresented racial and ethnic groups are more likely to go undiagnosed, more likely to be misdiagnosed, and more likely to end up in an emergency department rather than an allergist&#8217;s office.</p> <p>The post <a href="https://medcitynews.com/2026/10/closing-the-diagnostic-gap-why-access-to-allergy-care-isnt-equal/">Closing the Diagnostic Gap: Why Access to Allergy Care Isn&#8217;t Equal</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3450,7 +3498,7 @@ Shapley value explanations are increasingly used to provide added transparency f
 
 - Source: `medcity_news` · published `2026-10-04` · freshness `fresh`
 - Reading value: `27` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/`
 
 <p><a href="https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/"><img width="600" height="338" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1179590017-600x338.jpg" class="attachment-large size-large wp-post-image" alt="security cybersecurity" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1179590017-600x338.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1179590017-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1179590017-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1179590017-1536x865.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1179590017-2048x1153.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>At a recent symposium on privacy, experts discussed how AI supports a faster and oftentimes more insightful approach to data security, while identifying which privacy risks healthcare organizations must monitor.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthcare-privacy-leaders-look-to-ai-to-improve-monitoring-and-data-breach-investigations/">Healthcare Privacy Leaders Look to AI to Improve Monitoring and Data Breach Investigations</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3458,7 +3506,7 @@ Shapley value explanations are increasingly used to provide added transparency f
 
 - Source: `medcity_news` · published `2026-10-04` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/`
 
 <p><a href="https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/05/Tcell_cropped-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/05/Tcell_cropped-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/05/Tcell_cropped-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/05/Tcell_cropped-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/05/Tcell_cropped.jpg 800w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>While the immune reset field is mainly focused on depleting pathogenic B cells, ai3Bio is applying its novel approach to inflammatory T cells. The startup’s initial disease targets are autoimmune disorders of the liver that have few treatment options if any at all. </p> <p>The post <a href="https://medcitynews.com/2026/10/immune-reset-startup-ai3bio-immunology-inflammation-autoimmune-liver-disease-t-cell-th17-il-17-cgas-sting/">Immunology Startup ai3Bio Aims to Redefine What It Means to Reset the Immune System</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3474,9 +3522,17 @@ President Trump is promising more payments to voters just ahead of the Nov. 3 mi
 
 - Source: `medcity_news` · published `2026-10-04` · freshness `fresh`
 - Reading value: `46` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/`
 
 <p><a href="https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/"><img width="591" height="591" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg 591w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-300x300.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-150x150.jpg 150w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-550x550.jpg 550w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-470x470.jpg 470w" sizes="(max-width: 591px) 100vw, 591px" /></a></p><p>The Trump administration’s ACA fraud crackdown will remove 760,000 people from Marketplace coverage, drawing criticism from healthcare experts and advocates.</p> <p>The post <a href="https://medcitynews.com/2026/10/trumps-aca-fraud-crackdown-experts-urge-going-after-bad-actors-not-patients/">Trump’s ACA Fraud Crackdown: Experts Urge Going After Bad Actors, Not Patients</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Making AI training available to UK and Ireland educators](https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/)
+
+- Source: `fitbit_google_blog` · published `2026-10-05` · freshness `fresh`
+- Reading value: `7` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp_CkzTCJX.webp">Google's AI tools aim to help educators achieve their teaching goals and provide students with personalized learning experiences.
 
 ---
 

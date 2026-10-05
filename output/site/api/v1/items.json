@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-04T23:57:49+00:00",
+  "generated_at": "2026-10-05T07:03:21+00:00",
   "as_of": "2026-10-05",
   "count": 17,
   "items": [
@@ -747,7 +747,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
