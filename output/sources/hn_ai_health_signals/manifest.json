@@ -1,22 +1,22 @@
 {
   "checks": [
     {
-      "count": 0,
+      "count": 3,
       "kind": "hn_firebase"
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 10884,
+  "elapsed_ms": 12633,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-05T07:03:21+00:00",
-  "item_count": 0,
-  "last_checked_at": "2026-10-05T07:03:21+00:00",
-  "last_success_at": "2026-10-05T07:03:21+00:00",
+  "generated_at": "2026-10-05T16:01:16+00:00",
+  "item_count": 3,
+  "last_checked_at": "2026-10-05T16:01:16+00:00",
+  "last_success_at": "2026-10-05T16:01:16+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "hn_ai_health_signals",
   "source_kind": "hacker_news",
-  "status": "ok_no_updates"
+  "status": "ok"
 }

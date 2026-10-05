@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-05T07:03:21+00:00",
-  "as_of": "2026-10-05",
-  "count": 17,
+  "generated_at": "2026-10-05T16:01:16+00:00",
+  "as_of": "2026-10-06",
+  "count": 16,
   "items": [
     {
       "id": "pmid:42814954",
@@ -242,127 +242,6 @@
           }
         ],
         "score": 82,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42790456",
-      "title": "WHO 2 级非典型脑膜瘤手术切除后的放疗与观察 (ROAM/EORTC-1308)：一项国际、多中心、开放标签、3 期随机对照试验。",
-      "original_title": "Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial.",
-      "summary": "背景 WHO 2 级非典型脑膜瘤是一种原发性脑肿瘤，即使完全手术切除后复发风险也很高。辅助放疗的作用仍不确定。与观察组相比，放疗组的无病生存率有所改善（风险比 0·51 [95% CI 0·27-0·97]；p=0·0396）。",
-      "url": "https://doi.org/10.1016/s0140-6736(26)01804-0",
-      "source": "The Lancet · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-25",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42790456",
-        "upstream_id": "42790456"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
-      },
-      "reading_value_score": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:16+00:00",
-        "input_hash": "57c517363468aa9d9e4f9a00317aa777409a75c24b1db6ae659f54fdddb7ebf0",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162205edda75dcd82c440a",
-              "seconds": 3.91,
-              "usage": {
-                "completion_tokens": 160,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1576,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1736
-              }
-            },
-            "support": "ROAM/EORTC-1308 was an international, multicentre, open-label, phase 3, randomised controlled trial, conducted at 58 hospitals and academic centres in 11 countries.",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是首个针对WHO 2级非典型脑膜瘤术后辅助放疗的多中心III期RCT，5年无病生存改善15.6个百分点（HR 0.51），可直接改变该类肿瘤术后辅助治疗的临床决策。限制为样本量较小（157例）、开放标签设计，且仅支持摘要级结论，长期放疗迟发毒性仍需随访。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162211c82e3c8aec884f15",
-              "seconds": 7.62,
-              "usage": {
-                "completion_tokens": 220,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 21
-                },
-                "prompt_tokens": 1576,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1796
-              }
-            },
-            "support": "5-year disease-free survival was 79·9% (95% CI 67·6-87·9) in the radiotherapy group and 64·3% (51·9-74·2) in the observation group (absolute difference 15·6% percentage points [95% CI 0·6-30·5]).",
-            "total": 77
-          }
-        ],
-        "score": 77,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -612,6 +491,129 @@
       }
     },
     {
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
+      "title": "覆盖范围透明度最终规则 (CMS 9882-F)",
+      "original_title": "Transparency in Coverage Final Rules (CMS 9882-F)",
+      "summary": "承保透明度最终规则 (CMS 9882-F) 简介 与 2026 年 10 月 5 日发布的第 14221 号总统行政命令“通过为患者提供清晰、准确和可操作的医疗保健定价信息，让美国再次健康”一致，卫生与公共服务部（通过医疗保险和医疗补助服务中心）与劳工部和财政部（统称为财政部）合作，各部门）联合最终确定了对保险范围透明度规定的修改，以提高参与者、受益人和参保者定价披露的可及性，以及非祖父团体健康计划和提供非祖父团体或个人健康保险承保的健康保险发行人公开定价披露的标准化和可靠性。",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
+      "source": "CMS · 政策事实说明",
+      "source_type": "官方机构",
+      "published_at": "2026-10-05",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "cms_fact_sheets"
+        ],
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
+        "upstream_id": ""
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "business",
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-05T16:04:25+00:00",
+        "input_hash": "e0daede257084be7ccb677d727b46d6272b1ee49cc126e6d38aeffd08b1ca3e8",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "policy",
+            "reason": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261006000411b519a8378f4a43b4",
+              "seconds": 7.61,
+              "usage": {
+                "completion_tokens": 282,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 80
+                },
+                "prompt_tokens": 3012,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 3294
+              }
+            },
+            "support": "Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that providers would be unlikely to be reimbursed ",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "policy",
+            "reason": "这是已正式落地的美国医保支付透明度监管修订，具体改变了机器可读价格文件的报告层级、频率、格式与准确性声明要求，医院技术负责人与支付方/数据分析企业可据此调整合规和数据架构。限制：材料为官方事实清单，仅为规则条文层面的说明，实际实施效果和各机构落地成本仍待观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261006000419e502c051130e471c",
+              "seconds": 6.8,
+              "usage": {
+                "completion_tokens": 328,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 158
+                },
+                "prompt_tokens": 3012,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 3340
+              }
+            },
+            "support": "the final rules include amendments to: Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that provid",
+            "total": 79
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.nature.com/articles/s41591-026-04677-z",
       "title": "黑色素瘤新辅助治疗的五年生存率：国际新辅助黑色素瘤联盟 (INMC) 的最新汇总分析",
       "original_title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
@@ -629,9 +631,7 @@
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T17:35:01+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
@@ -852,130 +852,6 @@
           }
         ],
         "score": 75,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04651-9",
-      "title": "口服小分子 GLP-1 受体激动剂 safiglipron 治疗早期 2 型糖尿病：一项随机、双盲、安慰剂对照试验",
-      "original_title": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
-      "summary": "Safiglipron 是一种口服小分子胰高血糖素样肽-1 (GLP-1) 受体激动剂，无需禁食或饮食限制。我们在 OUTSTAND-1 中评估了其有效性和安全性，这是一项在中国 46 个地点进行的 3 期、多中心、随机、双盲、安慰剂对照试验。我们将 284 名仅通过饮食和运动进行管理的 2 型糖尿病成人（平均基线 HbA1c 7.95%，中位糖尿病病程 1.6 年，33.1% 为女性）随机分为每日一次的 safiglipron 30 mg (n = 70)、60 mg (n = 70)、90 mg (n = 72) 或安慰剂 (n = 72)，为期 32 周，然后进行20 周积极治疗延长。对于主要终点，30 mg、60 mg和90 mg组的HbA1c从基线到第32周的变化的安慰剂调整治疗差异分别为-1.22%（95% CI，-1.53至-0.91）、-1.20%（95% CI，-1.52至-0.89）和-1.45%（95% CI，-1.75至-1.14）。分别（所有 P < 0.0001；",
-      "url": "https://www.nature.com/articles/s41591-026-04651-9",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T17:35:01+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:36:45+00:00",
-        "input_hash": "caabdbd8a032638e36f873aee55ad2173c1aa8e1de0c0109493fcfcb327767c3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163632b8230fb103ff4726",
-              "seconds": 5.91,
-              "usage": {
-                "completion_tokens": 272,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 31
-                },
-                "prompt_tokens": 1500,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1772
-              }
-            },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14) for 30 mg, 60",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "III期RCT证实口服小分子GLP-1RA safiglipron在早期2型糖尿病患者中显著降HbA1c达1.45%，为非注射GLP-1治疗提供关键临床证据，对内分泌研究与新药评估有直接参考价值；限制在于人群限于未用药患者、减重效果温和、长期安全性待验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163638e870174dab764fc0",
-              "seconds": 7.16,
-              "usage": {
-                "completion_tokens": 402,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 195
-                },
-                "prompt_tokens": 1500,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1902
-              }
-            },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
-            "total": 78
-          }
-        ],
-        "score": 74,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -1964,9 +1840,7 @@
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T17:35:01+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
