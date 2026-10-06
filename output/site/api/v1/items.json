@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T01:45:54+00:00",
+  "generated_at": "2026-10-06T11:17:02+00:00",
   "as_of": "2026-10-06",
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "id": "pmid:42814954",
@@ -607,127 +607,6 @@
           }
         ],
         "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04677-z",
-      "title": "黑色素瘤新辅助治疗的五年生存率：国际新辅助黑色素瘤联盟 (INMC) 的最新汇总分析",
-      "original_title": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
-      "summary": "新辅助免疫检查点抑制剂（ICIs）是可切除的 IIIB-D 期黑色素瘤的标准治疗方法，但在最佳治疗类型、长期生存、术后管理以及临床、组织病理学或分子亚组方面仍然存在知识差距。 57.8% 的 ICI 患者、51.4% 的 BRAF/MEK 患者和 44.6% 的 ICI + TT 患者实现了 MPR。",
-      "url": "https://www.nature.com/articles/s41591-026-04677-z",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-01",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
-      },
-      "reading_value_score": 76,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:36:34+00:00",
-        "input_hash": "d9282f475810e34cdbc0170bc3448c0cb437fcd80042df8d41194016165f80e3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "1038例、26中心的汇总分析提供了新辅助免疫治疗黑色素瘤迄今最长期的5年RFS/OS数据，且显示MPR患者术后继续辅助ICI无额外获益，直接影响术后管理决策。局限是汇总分析而非随机对照，亚组样本小，选择偏倚需谨慎解读。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041636249da10d6a2110494d",
-              "seconds": 4.88,
-              "usage": {
-                "completion_tokens": 146,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1480,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1626
-              }
-            },
-            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163630fb948ceebb63474f",
-              "seconds": 6.09,
-              "usage": {
-                "completion_tokens": 175,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 10
-                },
-                "prompt_tokens": 1480,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1655
-              }
-            },
-            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
-            "total": 74
-          }
-        ],
-        "score": 76,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -1835,7 +1714,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a24d160597a38ff480212270bfd20f95",
         "observed_in_sources": [
@@ -1934,7 +1813,7 @@
                 "total_tokens": 1527
               }
             },
-            "support": "The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient. Rank-1 concept retrieval increased from 47.6% for limited health literacy to 81.9% for ",
+            "support": "The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient. Rank-1 concept retrieval increased from 47.6% for limited health literacy to 81.9% for",
             "total": 71
           }
         ],

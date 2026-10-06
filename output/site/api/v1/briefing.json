@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T01:45:54+00:00",
+  "generated_at": "2026-10-06T11:17:02+00:00",
   "as_of": "2026-10-06",
   "item_ids": [
     "url:https://ai.jmir.org/2026/1/e100772/",
@@ -34,10 +34,9 @@
       "item_ids": [
         "pmid:42814929",
         "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
-        "url:https://www.nature.com/articles/s41591-026-04677-z",
         "pmid:42820639"
       ],
-      "minutes": 3
+      "minutes": 2
     },
     {
       "date": "2026-09-30",
