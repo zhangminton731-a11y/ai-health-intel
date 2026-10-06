@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T11:17:02+00:00",
-  "as_of": "2026-10-06",
-  "count": 16,
+  "generated_at": "2026-10-06T18:54:46+00:00",
+  "as_of": "2026-10-07",
+  "count": 15,
   "items": [
     {
       "id": "pmid:42814954",
@@ -607,130 +607,6 @@
           }
         ],
         "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03272-3",
-      "title": "通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断",
-      "original_title": "Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with multinational clinical validation and reader study",
-      "summary": "我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。",
-      "url": "https://www.nature.com/articles/s41746-026-03272-3",
-      "source": "npj Digital Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-03",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03272-3",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03272-3"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
-      },
-      "reading_value_score": 75,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:35:59+00:00",
-        "input_hash": "9b43e32e175b93dbe164ee3de71c654f592b2d7102a11be27907b800c238ca51",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100416355055834c2293894db9",
-              "seconds": 4.55,
-              "usage": {
-                "completion_tokens": 174,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 4
-                },
-                "prompt_tokens": 1107,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1281
-              }
-            },
-            "support": "We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort.",
-            "total": 70
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "检索增强+BI-RADS感知的多模态诊断框架在7国11个队列8311张图像及四读者研究中验证，外部验证和读者研究设计较完整，对乳腺超声AI落地和缩小读片差距有实质参考价值；局限是未提供假阳性率、临床工作流整合细节及全文中更细的失败分析。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163555e4cc41c23a3243ec",
-              "seconds": 4.81,
-              "usage": {
-                "completion_tokens": 168,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 12
-                },
-                "prompt_tokens": 1107,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1275
-              }
-            },
-            "support": "We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort.",
-            "total": 80
-          }
-        ],
-        "score": 75,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
