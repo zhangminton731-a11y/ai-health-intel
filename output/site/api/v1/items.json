@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-05T16:01:16+00:00",
+  "generated_at": "2026-10-06T01:45:54+00:00",
   "as_of": "2026-10-06",
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": "pmid:42814954",
@@ -505,7 +505,7 @@
         "business",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "cms_fact_sheets"
@@ -570,7 +570,7 @@
                 "total_tokens": 3294
               }
             },
-            "support": "Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that providers would be unlikely to be reimbursed ",
+            "support": "Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that providers would be unlikely to be reimbursed",
             "total": 76
           },
           {
@@ -626,7 +626,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -1823,6 +1823,129 @@
       }
     },
     {
+      "id": "url:https://ai.jmir.org/2026/1/e100772/",
+      "title": "用于对话式医疗保健人工智能风险评估的患者模拟框架：开发和评估研究",
+      "original_title": "A Patient Simulation Framework for Risk Assessment of Conversational Health Care AI: Development and Evaluation Study",
+      "summary": "结论：基于 NIST AI RMF 的患者模拟暴露了静态基准忽略的对话式医疗保健 AI 中可测量的性能风险，并具有直接的公平影响。健康素养是一个结构性风险因素，表现下降主要集中在精神疾病负担最重的患者身上。该框架支持部署前有针对性的风险缓解干预措施。虽然我们仅评估了抗抑郁药物选择的框架，但将其扩展到其他临床决策辅助任务仍然是未来工作的任务。结果：患者模拟器以高保真度表达了医学概念（8210 个概念的准确度为 96.6%），与人类注释者之间具有显着的一致性（κ = 0.73），并且大语言模型法官与人类注释者之间的一致性（κ = 0.78）。行为特征得到可靠区分（κ=0.93；",
+      "url": "https://ai.jmir.org/2026/1/e100772/",
+      "source": "JMIR AI",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-05",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a24d160597a38ff480212270bfd20f95",
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e100772/"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-06T01:47:43+00:00",
+        "input_hash": "363500ba3359463ef504e51edc50e401738682e6d894c07cb9fcf67299a06dcf",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610060947323244b5ec534b4a3c",
+              "seconds": 6.4,
+              "usage": {
+                "completion_tokens": 149,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1354,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1503
+              }
+            },
+            "support": "The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "提供了一个对齐NIST AI RMF的患者模拟评估框架，可复用于会话式临床AI的多轮风险评测，且揭示了健康素养梯度下的单调性能退化这一具体、可量化的公平性风险；主要限制是仅在外有情结的仿真环境和单一抗抑郁决策任务上验证，框架尚需外部真实场景扩展。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261006094739b548374cdd324e6d",
+              "seconds": 4.92,
+              "usage": {
+                "completion_tokens": 173,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1354,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1527
+              }
+            },
+            "support": "The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient. Rank-1 concept retrieval increased from 47.6% for limited health literacy to 81.9% for ",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.nature.com/articles/s41591-026-04673-3",
       "title": "尿液游离 RNA 用于膀胱癌检测和治疗反应预测",
       "original_title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
@@ -1835,7 +1958,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
