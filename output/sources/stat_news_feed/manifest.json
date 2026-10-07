@@ -2,14 +2,14 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 59350,
-      "content_type": "application/rss+xml",
-      "elapsed_ms": 137,
+      "bytes_read": 0,
+      "content_type": "text/plain",
+      "elapsed_ms": 144,
       "error_code": null,
       "final_url": "https://www.statnews.com/feed/",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "not_modified"
     },
     {
       "count": 20,
@@ -17,13 +17,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 141,
+  "elapsed_ms": 149,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-07T00:43:11+00:00",
+  "generated_at": "2026-10-07T07:15:09+00:00",
   "item_count": 20,
-  "last_checked_at": "2026-10-07T00:43:11+00:00",
-  "last_success_at": "2026-10-07T00:43:11+00:00",
+  "last_checked_at": "2026-10-07T07:15:09+00:00",
+  "last_success_at": "2026-10-07T07:15:09+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
