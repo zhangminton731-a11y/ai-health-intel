@@ -1,18 +1,18 @@
 {
   "checks": [
     {
-      "count": 2,
+      "count": 3,
       "kind": "hn_firebase"
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 5339,
+  "elapsed_ms": 7734,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-06T18:54:46+00:00",
-  "item_count": 2,
-  "last_checked_at": "2026-10-06T18:54:46+00:00",
-  "last_success_at": "2026-10-06T18:54:46+00:00",
+  "generated_at": "2026-10-07T00:43:11+00:00",
+  "item_count": 3,
+  "last_checked_at": "2026-10-07T00:43:11+00:00",
+  "last_success_at": "2026-10-07T00:43:11+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
