@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T07:25:57+00:00",
-  "as_of": "2026-10-08",
+  "generated_at": "2026-10-08T17:24:27+00:00",
+  "as_of": "2026-10-09",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -48,7 +48,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -179,7 +179,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -230,7 +230,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -280,7 +280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -330,7 +330,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -381,7 +381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -432,7 +432,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -479,7 +479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -613,7 +613,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -664,7 +664,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -715,7 +715,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -767,7 +767,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -819,7 +819,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -868,7 +868,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -921,7 +921,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1051,7 +1051,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1181,7 +1181,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1229,7 +1229,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1280,7 +1280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1332,7 +1332,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1381,7 +1381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1425,7 +1425,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1472,7 +1472,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1523,7 +1523,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1575,7 +1575,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1626,7 +1626,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1675,7 +1675,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1724,7 +1724,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1772,7 +1772,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1822,7 +1822,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1873,7 +1873,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1925,7 +1925,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1976,7 +1976,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2028,7 +2028,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2080,7 +2080,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2126,7 +2126,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2172,7 +2172,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2224,7 +2224,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2271,7 +2271,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2404,7 +2404,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -2453,7 +2453,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2496,7 +2496,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2548,7 +2548,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2597,7 +2597,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2647,7 +2647,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2695,7 +2695,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2748,7 +2748,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2799,7 +2799,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2848,7 +2848,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2897,7 +2897,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2941,7 +2941,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2987,7 +2987,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3034,7 +3034,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3085,7 +3085,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3134,7 +3134,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3184,7 +3184,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3232,7 +3232,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3283,7 +3283,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3333,7 +3333,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3380,7 +3380,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3428,7 +3428,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3477,9 +3477,397 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-28",
       "reasons": {},
+      "historical": true
+    },
+    {
+      "id": "pmid:42806496",
+      "t": "儿科重症监护中允许的血压目标：压力随机临床试验。",
+      "te": "Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.",
+      "s": "重要性 危重儿童通常会服用血管活性药物来治疗低血压。然而，最佳平均动脉压 (MAP) 目标尚不清楚。目的 评估采用允许的 MAP 目标，从而潜在地减少血管活性药物的暴露，是否可以改善低血压危重儿童的预后。设计、设置和参与者 这项多中心、非盲法、实用性随机临床试验在 3 个国家的 23 个儿科重症监护病房 (PICU) 中进行。 2021 年 11 月至 2026 年 5 月期间入组接受有创通气和血管活性药物治疗低血压的危重儿童。30 天结果的随访于 2026 年 6 月完成。 干预措施 随机接受干预的患者 (n = 957) 被分配一个大于年龄第五百分位数的允许 MAP 目标。",
+      "se": "Importance Vasoactive drugs are often given to critically ill children to treat hypotension. However, optimal mean arterial pressure (MAP) targets are unknown. Objective To evaluate whether adopting a permissive MAP target, and thereby potentially reducing exposure to vasoactive drugs, improves outcomes in hypotensive critically ill children. Design, setting, and participants This multicenter, unblinded, pragmatic randomized clinical trial was conducted in 23 pediatric intensive care units (PICUs) in 3 countries. Critically ill children receiving invasive ventilation and vasoactive drugs for hypotension were enrolled between November 2021 and May 2026. Follow-up to the 30-day outcome was completed in June 2026. Interventions Patients randomized to the intervention (n = 957) were assigned a permissive MAP target greater than the fifth percentile for age.",
+      "u": "https://doi.org/10.1001/jama.2026.19747",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42806496",
+        "upstream_id": "42806496"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:40+00:00",
+        "input_hash": "72a565d4acc0532ced16fa51eb9588ee8c6d5cbadf948d016d492a13bc103e2a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162229f12ba1d9cab54f5e",
+              "seconds": 5.92,
+              "usage": {
+                "completion_tokens": 230,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 39
+                },
+                "prompt_tokens": 1427,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1657
+              }
+            },
+            "support": "A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primar",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型多中心随机对照试验（1900例、23个PICU）提供了儿科危重症升压治疗MAP目标的首个高质量证据：宽松目标大幅减少血管活性药暴露但未改善主要复合结局，直接冲击现行临床目标设定。限制为非盲实用设计、主要结局为阴性的概率指数分析，临床转化需结合具体人群判断。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162235d3206e4cafa74dad",
+              "seconds": 4.78,
+              "usage": {
+                "completion_tokens": 170,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1427,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1597
+              }
+            },
+            "support": "A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primar",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42805227",
+      "t": "Garetosmab（一种激活素 A 阻断抗体）在进行性骨化性纤维发育不良 (OPTIMA) 中的疗效和安全性：一项随机、双盲、安慰剂对照 3 期试验。",
+      "te": "Efficacy and safety of garetosmab, an activin A-blocking antibody, in fibrodysplasia ossificans progressiva (OPTIMA): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+      "s": "背景 进行性骨化性纤维发育不良 (FOP) 是一种极其罕见的遗传性疾病，会导致韧带、肌腱和肌肉进行性异位骨化，从而导致残疾和早期死亡。 FOP 是由 1A 型激活素受体的杂合功能获得性突变引起的，该突变使该受体被激活素 A (ActA) 异常激活，而激活素 A (ActA) 通常会抑制该受体，从而驱动异位骨形成。在 FOP 的临床前模型和早期 2 期试验 (LUMINA-1) 中，阻断 ActA 的抗体 (garetosmab) 可防止异位骨化。我们的目的是评估 garetosmab 对 FOP 成人的疗效和安全性。方法 OPTIMA 是一项随机、双盲、安慰剂对照的 3 期试验，在 16 个国家和地区的 18 个研究中心进行。",
+      "se": "Background Fibrodysplasia ossificans progressiva (FOP) is an ultrarare genetic disorder resulting in progressive heterotopic ossification of ligaments, tendons, and muscles, leading to disability and early mortality. FOP is caused by heterozygous gain-of-function mutations in the activin receptor type 1A, allowing this receptor to be aberrantly activated by activin A (ActA), which normally inhibits this receptor, thus driving heterotopic bone formation. In preclinical models and an earlier phase 2 trial (LUMINA-1) in FOP, an antibody blocking ActA (garetosmab) prevented heterotopic ossification. We aimed to evaluate the efficacy and safety of garetosmab in adults living with FOP. Methods OPTIMA is a randomised, double-blind, placebo-controlled, phase 3 trial conducted at 18 study sites across 16 countries and regions.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01599-0",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42805227",
+        "upstream_id": "42805227"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:13+00:00",
+        "input_hash": "9b3dfe014b5318661c166fe50b6b8185754b15a725685873fdd948dc52050a79",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162203a6d21676076a4ba6",
+              "seconds": 6.22,
+              "usage": {
+                "completion_tokens": 203,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 16
+                },
+                "prompt_tokens": 1544,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1747
+              }
+            },
+            "support": "there were 19 lesions with placebo versus one lesion with garetosmab 3 mg/kg (rate ratio vs placebo: 0·06 [95% CI 0·00-0·73]; p=0·027)",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "超罕见病FOP的III期随机对照试验，报告garetosmab显著减少新发异位骨病变（19 vs 1-2处），是潜在首个疾病修饰疗法的核心临床证据。限制：样本仅63人、次要关注事件高剂量组较多且为研究者判定，仍需长期安全性与审审批准确认。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162209d08213ee3da149d3",
+              "seconds": 4.91,
+              "usage": {
+                "completion_tokens": 203,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 8
+                },
+                "prompt_tokens": 1544,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1536
+                },
+                "total_tokens": 1747
+              }
+            },
+            "support": "The total number of new heterotopic bone lesions was significantly lower with garetosmab: there were 19 lesions with placebo versus one lesion with garetosmab 3 mg/kg (rate ratio vs placebo: 0·06 [95%",
+            "total": 82
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42804178",
+      "t": "1990-2019 年美国食品和药物管理局批准的小分子药物专利。",
+      "te": "Patents on Small-Molecule Drugs Approved by the US Food and Drug Administration, 1990-2019.",
+      "s": "重要性 专利保护允许制药公司在市场独占期间对处方药收取高价，而其到期通常决定仿制药竞争对手何时可以进入美国市场。药物活性成分的专利被归类为主要专利，而制剂、使用方法和递送装置的专利则属于非主要专利。目的 评估美国食品和药物管理局 (FDA) 批准的药物的药品专利组合随时间的变化情况。证据审查对 1990 年至 2019 年 FDA 批准的小分子药物专利进行了检查和评估，以了解每种产品的专利数量和类型的变化。",
+      "se": "Importance Patent protection allows pharmaceutical companies to charge high prices for prescription drugs during periods of market exclusivity, and their expiration usually defines when generic competitors can enter the US market. Patents on drug active ingredients are classified as primary patents, while patents on formulations, methods of use, and delivery devices are nonprimary. Objective To evaluate how pharmaceutical patent portfolios for US Food and Drug Administration (FDA)-approved drugs have evolved over time. Evidence review Patents on small-molecule drugs approved by the FDA from 1990 to 2019 were examined and assessed for changes in the number and types of patents per product.",
+      "u": "https://doi.org/10.1001/jama.2026.16139",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research",
+        "business",
+        "regulation"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42804178",
+        "upstream_id": "42804178"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:39+00:00",
+        "input_hash": "a7ddf6635f8d75590430e06890829a8821b7c8658db46844991e19eda0a8f3fc",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041622291454b9fea0514119",
+              "seconds": 4.49,
+              "usage": {
+                "completion_tokens": 205,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 46
+                },
+                "prompt_tokens": 1240,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1445
+              }
+            },
+            "support": "The mean number of patents per drug increased from 2.1 in 1990 to 6.9 in 2019, driven primarily by nonprimary patents.",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "对FDA 1990-2019年批准的1981个小分子药及10940项专利的系统量化分析，提供了非核心专利延长市场独占期（中位4.7年）和诉讼频率的新实证数据，对药价、专利策略与仿制药竞争研究有参考价值；局限在于属回顾性专利数据研究，不涉及临床疗效，因果推断有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041622340f89271acf7e4a55",
+              "seconds": 5.97,
+              "usage": {
+                "completion_tokens": 299,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 139
+                },
+                "prompt_tokens": 1240,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1539
+              }
+            },
+            "support": "The FDA approved 1981 small-molecule drugs during the study period, and manufacturers listed 10 940 patents on these drugs.",
+            "total": 72
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-28",
+      "reasons": {
+        "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
+      },
       "historical": true
     },
     {
@@ -3523,7 +3911,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
@@ -3568,7 +3956,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3616,7 +4004,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3664,7 +4052,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3710,7 +4098,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3760,7 +4148,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3808,7 +4196,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3857,7 +4245,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3908,7 +4296,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3954,7 +4342,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4002,7 +4390,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4048,7 +4436,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4099,7 +4487,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4227,7 +4615,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
@@ -4272,7 +4660,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4324,7 +4712,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4373,7 +4761,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4424,7 +4812,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4474,7 +4862,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4517,7 +4905,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4645,7 +5033,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
@@ -4691,7 +5079,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -4741,7 +5129,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -4792,7 +5180,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -4839,7 +5227,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -4884,7 +5272,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -4927,7 +5315,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -4978,7 +5366,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5028,7 +5416,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5076,7 +5464,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5121,7 +5509,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5172,7 +5560,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5224,100 +5612,8 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-21",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e64278",
-      "t": "采用基于放松的移动健康干预措施治疗围手术期焦虑：前瞻性纵向队列混合方法研究",
-      "te": "Engagement With a Relaxation-Based Mobile Health Intervention for Perioperative Anxiety: Prospective Longitudinal Cohort Mixed Methods Study",
-      "s": "结论：本研究探讨了用户对围手术期护理中基于放松的移动健康干预的参与度，通过整合用户对数字焦虑和疼痛管理的认知和表现来推进文献的发展。结果表明，感知到的好处可能并不总是反映在用户性能中。有意使用成为围手术期护理中有效参与移动医疗的一个有前景的指标。未来的设计应该旨在通过反射提示和自适应通知等功能来促进有意使用。未来的工作还应该开发计算模型来检测有意使用并评估更大群体中的适应性干预措施。结果：11 名参与者报告制定或改善了基于放松的自我管理策略（高效益），而 8 名参与者报告从干预中获益甚微。",
-      "se": "Conclusions: This study explored user engagement with a relaxation-based mHealth intervention for perioperative care, advancing the literature by integrating user perceptions and performance for digital anxiety and pain management. Results indicate that perceived benefit may not always be reflected in user performance. Intentional use emerges as a promising indicator of effective mHealth engagement in perioperative care. Future designs should aim to foster intentional use through features such as reflection prompts and adaptive notifications. Future work should also develop computational models to detect intentional use and evaluate adaptive interventions in larger cohorts. Results: Eleven participants reported developing or improving relaxation-based self-management strategies (high benefit), whereas 8 reported little benefit from the intervention.",
-      "u": "https://mhealth.jmir.org/2026/1/e64278",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e64278"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-18",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
-      "t": "可穿戴设备在医疗保健中的角色转变",
-      "te": "The Shifting Role of Wearables in Healthcare",
-      "s": "INVEST 数字健康会议将重点关注消费者对医疗保健的影响，并将讨论可穿戴设备。定于 10 月 29 日在达拉斯飞马公园举行。今天就注册吧！",
-      "se": "The INVEST Digital Health conference, which will spotlight the consumer influence in healthcare, will include a discussion on wearables. It is scheduled for October 29 at Pegasus Park in Dallas. Register today!",
-      "u": "https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/",
-      "image": "",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "consumer"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "overview"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150076",
-        "retrieved_via": "rss"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-18",
       "reasons": {},
       "historical": true
     }
@@ -5380,11 +5676,11 @@
     {
       "date": "2026-09-28",
       "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e93900/",
+        "pmid:42805227",
         "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
         "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-        "url:https://medinform.jmir.org/2026/1/e85695",
-        "url:https://mhealth.jmir.org/2026/1/e79512"
+        "pmid:42804178",
+        "pmid:42806496"
       ],
       "minutes": 4
     },
@@ -5446,14 +5742,6 @@
         "url:https://mhealth.jmir.org/2026/1/e92493"
       ],
       "minutes": 4
-    },
-    {
-      "date": "2026-09-18",
-      "item_ids": [
-        "url:https://mhealth.jmir.org/2026/1/e64278",
-        "url:https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/"
-      ],
-      "minutes": 1
     }
   ]
 }

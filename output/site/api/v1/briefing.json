@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T07:25:57+00:00",
-  "as_of": "2026-10-08",
+  "generated_at": "2026-10-08T17:24:27+00:00",
+  "as_of": "2026-10-09",
   "item_ids": [
     "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
   ],
@@ -54,21 +54,12 @@
         "pmid:42810372"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-28",
-      "item_ids": [
-        "pmid:42805227",
-        "pmid:42804178",
-        "pmid:42806496"
-      ],
-      "minutes": 3
     }
   ],
   "edition_date": "2026-10-07",
   "text": "奇点日报 · 2026-10-07\n这一天的 1 件 AI 医疗大事\n\n01 · 新品方案\n苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息\n美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。\nMedTech Dive · 2026-10-07\nhttps://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/\n",
   "publication": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "item_ids": [
       "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
     ],
@@ -77,6 +68,6 @@
     "source_dates": [
       "2026-10-07"
     ],
-    "text": "奇点日报 · 2026-10-08\n近三日精选 · 1 件 AI 医疗大事\n\n01 · 新品方案\n苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息\n美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。\nMedTech Dive · 2026-10-07\nhttps://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/\n"
+    "text": "奇点日报 · 2026-10-09\n近三日精选 · 1 件 AI 医疗大事\n\n01 · 新品方案\n苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息\n美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。\nMedTech Dive · 2026-10-07\nhttps://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/\n"
   }
 }
