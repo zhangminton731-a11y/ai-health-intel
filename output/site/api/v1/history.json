@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-07T14:34:16+00:00",
-  "as_of": "2026-10-07",
+  "generated_at": "2026-10-08T01:01:10+00:00",
+  "as_of": "2026-10-08",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -48,7 +48,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -179,7 +179,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -230,7 +230,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -280,7 +280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -330,7 +330,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -381,7 +381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -432,7 +432,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -479,7 +479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -613,7 +613,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -664,7 +664,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -715,7 +715,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -767,7 +767,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -819,7 +819,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -868,7 +868,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -921,7 +921,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1051,7 +1051,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1181,7 +1181,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1229,7 +1229,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1280,7 +1280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1332,7 +1332,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1381,7 +1381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1425,7 +1425,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1472,7 +1472,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1523,7 +1523,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1575,7 +1575,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1626,7 +1626,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1675,7 +1675,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1724,7 +1724,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1772,7 +1772,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1822,7 +1822,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1873,7 +1873,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1925,7 +1925,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1976,7 +1976,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2028,7 +2028,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2080,7 +2080,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2126,7 +2126,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2172,7 +2172,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2224,7 +2224,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2271,7 +2271,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2404,7 +2404,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -2453,7 +2453,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2496,7 +2496,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2548,7 +2548,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2597,7 +2597,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2647,7 +2647,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2695,7 +2695,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2748,7 +2748,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2799,7 +2799,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2848,7 +2848,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2897,7 +2897,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2941,7 +2941,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2987,7 +2987,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3034,7 +3034,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3085,7 +3085,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3134,7 +3134,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3184,7 +3184,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3232,7 +3232,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3283,7 +3283,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3333,7 +3333,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3380,7 +3380,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3428,7 +3428,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3477,7 +3477,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3523,7 +3523,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
@@ -3568,7 +3568,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3616,7 +3616,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3664,7 +3664,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3710,7 +3710,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3760,7 +3760,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3808,7 +3808,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3857,7 +3857,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3908,7 +3908,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -3954,7 +3954,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4002,7 +4002,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4048,7 +4048,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4099,7 +4099,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4227,7 +4227,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
@@ -4272,7 +4272,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4324,7 +4324,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4373,7 +4373,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4424,7 +4424,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4474,7 +4474,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4517,7 +4517,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4645,7 +4645,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
@@ -4691,7 +4691,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -4741,7 +4741,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -4792,7 +4792,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -4839,7 +4839,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -4884,7 +4884,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -4927,7 +4927,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -4978,7 +4978,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5028,7 +5028,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5076,7 +5076,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5121,7 +5121,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5172,7 +5172,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5224,7 +5224,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5274,7 +5274,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-18",
       "reasons": {},
       "historical": true
@@ -5316,99 +5316,8 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-18",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ouraring.wpengine.com/cms-access-model/",
-      "t": "Oura 和 Counsel Health 通过 CMS ACCESS 模式扩大合作伙伴关系",
-      "te": "Oura and Counsel Health Expand Partnership Through CMS ACCESS Model",
-      "s": "今天，Oura 宣布通过医疗保险和医疗补助服务中心 (CMS) 创新中心的“利用有效可扩展解决方案 (ACCESS) 模型推进慢性病护理”，与 AI 原生初级保健公司 Counsel 建立新阶段的合作伙伴关系。 ACCESS 计划让 Oura 和 Counsel 有机会大规模研究这个模型，特别是连续生物识别如何[...]",
-      "se": "Today, Oura announced a new phase of its partnership with Counsel, the AI-native primary care company, through the Centers for Medicare & Medicaid Services (CMS) Innovation Center’s Advancing Chronic Care with Effective Scalable Solutions (ACCESS) Model. The ACCESS program gives Oura and Counsel the opportunity to study this model at scale, specifically how continuous biometric […]",
-      "u": "https://ouraring.wpengine.com/cms-access-model/",
-      "image": "",
-      "src": "Oura",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [
-        "consumer",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology",
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "oura_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "oura_blog",
-        "upstream_id": "https://ouraring.wpengine.com/?p=1006819"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-17",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
-      "t": "癌症诊断如何塑造这位风险投资家的精准健康论文",
-      "te": "How a Cancer Diagnosis Shaped This VC’s Precision Health Thesis",
-      "s": "Ariel Ganz 险些被诊断出患有乳腺癌，之后她与他人共同创立了 Arben Ventures，这是一家精准健康和长寿基金，三年内已为 83 家早期初创企业提供了支持。",
-      "se": "After a near-miss with her own breast cancer diagnosis, Ariel Ganz co-founded Arben Ventures, a precision health and longevity fund that has backed 83 early-stage startups in three years.",
-      "u": "https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/",
-      "image": "",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "overview"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150059",
-        "retrieved_via": "rss"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-17",
       "reasons": {},
       "historical": true
     }
@@ -5543,14 +5452,6 @@
       "item_ids": [
         "url:https://mhealth.jmir.org/2026/1/e64278",
         "url:https://medcitynews.com/2026/09/the-shifting-role-of-wearables-in-healthcare/"
-      ],
-      "minutes": 1
-    },
-    {
-      "date": "2026-09-17",
-      "item_ids": [
-        "url:https://ouraring.wpengine.com/cms-access-model/",
-        "url:https://medcitynews.com/2026/09/precision-medicine-healthcare-investment/"
       ],
       "minutes": 1
     }

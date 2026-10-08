@@ -2,60 +2,52 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 17635,
-      "content_type": "application/rss+xml",
-      "elapsed_ms": 62,
-      "error_code": null,
+      "bytes_read": 3038,
+      "content_type": "text/html",
+      "elapsed_ms": 73,
+      "error_code": "non_feed",
       "final_url": "https://www.nature.com/natbiomedeng.rss",
       "http_status": 200,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "html",
+      "retry_delay_seconds": 5.853
     },
     {
-      "kind": "article_metadata",
-      "status": "unavailable"
+      "attempt": 2,
+      "bytes_read": 3038,
+      "content_type": "text/html",
+      "elapsed_ms": 83,
+      "error_code": "non_feed",
+      "final_url": "https://www.nature.com/natbiomedeng.rss",
+      "http_status": 200,
+      "kind": "rss_fetch",
+      "response_kind": "html",
+      "retry_delay_seconds": 10.319
     },
     {
-      "kind": "article_metadata",
-      "status": "unavailable"
-    },
-    {
-      "kind": "article_metadata",
-      "status": "unavailable"
-    },
-    {
-      "kind": "article_metadata",
-      "status": "unavailable"
-    },
-    {
-      "kind": "article_metadata",
-      "status": "unavailable"
-    },
-    {
-      "kind": "article_metadata",
-      "status": "unavailable"
-    },
-    {
-      "kind": "article_metadata",
-      "status": "unavailable"
-    },
-    {
-      "count": 8,
-      "kind": "rss_atom"
+      "attempt": 3,
+      "bytes_read": 3038,
+      "content_type": "text/html",
+      "elapsed_ms": 59,
+      "error_code": "non_feed",
+      "final_url": "https://www.nature.com/natbiomedeng.rss",
+      "http_status": 200,
+      "kind": "rss_fetch",
+      "response_kind": "html"
     }
   ],
-  "consecutive_failures": 0,
-  "elapsed_ms": 5626,
+  "consecutive_failures": 1,
+  "elapsed_ms": 16388,
   "enabled": true,
-  "error": "",
-  "generated_at": "2026-10-07T14:34:16+00:00",
-  "item_count": 8,
-  "last_checked_at": "2026-10-07T14:34:16+00:00",
+  "error": "RSS non_feed after 3 attempt(s)",
+  "generated_at": "2026-10-08T01:01:10+00:00",
+  "item_count": 0,
+  "last_checked_at": "2026-10-08T01:01:10+00:00",
   "last_success_at": "2026-10-07T14:34:16+00:00",
-  "recovered": true,
+  "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "nature_biomedical_engineering",
   "source_kind": "rss",
-  "status": "ok"
+  "status": "failed"
 }

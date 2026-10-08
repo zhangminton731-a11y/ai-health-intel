@@ -2,52 +2,64 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 3038,
-      "content_type": "text/html",
-      "elapsed_ms": 285,
-      "error_code": "non_feed",
+      "bytes_read": 0,
+      "content_type": "text/plain",
+      "elapsed_ms": 24,
+      "error_code": null,
       "final_url": "https://www.nature.com/nm.rss",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "html",
-      "retry_delay_seconds": 5.793
+      "response_kind": "not_modified"
     },
     {
-      "attempt": 2,
-      "bytes_read": 3038,
-      "content_type": "text/html",
-      "elapsed_ms": 112,
-      "error_code": "non_feed",
-      "final_url": "https://www.nature.com/nm.rss",
-      "http_status": 200,
-      "kind": "rss_fetch",
-      "response_kind": "html",
-      "retry_delay_seconds": 10.155
+      "kind": "article_metadata",
+      "status": "unavailable"
     },
     {
-      "attempt": 3,
-      "bytes_read": 3038,
-      "content_type": "text/html",
-      "elapsed_ms": 124,
-      "error_code": "non_feed",
-      "final_url": "https://www.nature.com/nm.rss",
-      "http_status": 200,
-      "kind": "rss_fetch",
-      "response_kind": "html"
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "cached"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "cached"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "cached"
+    },
+    {
+      "count": 8,
+      "kind": "rss_atom"
     }
   ],
-  "consecutive_failures": 1,
-  "elapsed_ms": 16470,
+  "consecutive_failures": 0,
+  "elapsed_ms": 4236,
   "enabled": true,
-  "error": "RSS non_feed after 3 attempt(s)",
-  "generated_at": "2026-10-07T14:34:16+00:00",
-  "item_count": 0,
-  "last_checked_at": "2026-10-07T14:34:16+00:00",
-  "last_success_at": "2026-10-07T07:15:09+00:00",
-  "recovered": false,
+  "error": "",
+  "generated_at": "2026-10-08T01:01:10+00:00",
+  "item_count": 8,
+  "last_checked_at": "2026-10-08T01:01:10+00:00",
+  "last_success_at": "2026-10-08T01:01:10+00:00",
+  "recovered": true,
   "required": false,
   "role": "supplemental",
   "source_id": "nature_medicine",
   "source_kind": "rss",
-  "status": "failed"
+  "status": "ok"
 }

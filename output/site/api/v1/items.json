@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-07T14:34:16+00:00",
-  "as_of": "2026-10-07",
-  "count": 15,
+  "generated_at": "2026-10-08T01:01:10+00:00",
+  "as_of": "2026-10-08",
+  "count": 16,
   "items": [
     {
       "id": "pmid:42814954",
@@ -611,6 +611,122 @@
         "source_tier": "T1",
         "status": "scored",
         "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
+      "title": "苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息",
+      "original_title": "Apple ordered to pay Masimo $184M in interest on patent damages",
+      "summary": "美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。",
+      "url": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
+      "source": "MedTech Dive",
+      "source_type": "专业媒体",
+      "published_at": "2026-10-07",
+      "topics": [],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://imgproxy.divecdn.com/DEgf2z3E8dtHSbz8ET23QBxDk3r3j-es0pZ2MzUVHR0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1MjgxNjY3LmpwZw==.webp",
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "summary_source": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
+        "upstream_id": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
+      },
+      "reading_value_score": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-08T01:01:46+00:00",
+        "input_hash": "4f3ab2044fa3a137042256cd75496a6f3fb79ddeaca288c8778dbe763355b34e",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "这是已发生的法院裁决事实：Apple Watch因侵犯Masimo血氧专利被判6.34亿美元赔偿，加上1.842亿美元利息合计超8.18亿美元，对可穿戴健康传感器的专利布局与合规风险评估有直接参考价值；但材料为简短报道，未披露裁决细节及后续禁售或和解影响。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100809013804821c8723ae4618",
+              "seconds": 4.23,
+              "usage": {
+                "completion_tokens": 169,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 6
+                },
+                "prompt_tokens": 940,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1109
+              }
+            },
+            "support": "A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million.",
+            "total": 80
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261008090143555d6e726b7e4b02",
+              "seconds": 3.91,
+              "usage": {
+                "completion_tokens": 132,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 940,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1072
+              }
+            },
+            "support": "A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million.",
+            "total": 72
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
       }
     },
     {
@@ -1713,14 +1829,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-07T07:15:09+00:00",
         "source_id": "nature_medicine",
         "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
         "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
