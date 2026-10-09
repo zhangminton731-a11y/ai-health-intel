@@ -1,24 +1,17 @@
 {
-  "checks": [
-    {
-      "count": 30,
-      "hit_count": 33,
-      "kind": "europe_pmc",
-      "query": "ISSN:0959-8138 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-07-11 TO 2026-10-09] sort_date:y"
-    }
-  ],
-  "consecutive_failures": 0,
-  "elapsed_ms": 1611,
+  "checks": [],
+  "consecutive_failures": 1,
+  "elapsed_ms": 2520,
   "enabled": true,
-  "error": "",
-  "generated_at": "2026-10-09T01:13:45+00:00",
-  "item_count": 30,
-  "last_checked_at": "2026-10-09T01:13:45+00:00",
+  "error": "RuntimeError: request failed after 3 attempts: HTTPError",
+  "generated_at": "2026-10-09T07:25:23+00:00",
+  "item_count": 0,
+  "last_checked_at": "2026-10-09T07:25:23+00:00",
   "last_success_at": "2026-10-09T01:13:45+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "bmj_abstracts",
   "source_kind": "europe_pmc",
-  "status": "ok"
+  "status": "failed"
 }

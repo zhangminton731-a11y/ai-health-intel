@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T01:13:45+00:00",
+  "generated_at": "2026-10-09T07:25:23+00:00",
   "as_of": "2026-10-09",
   "count": 13,
   "items": [
@@ -23,7 +23,9 @@
         "observed_in_sources": [
           "nejm_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "nejm_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42814954",
         "upstream_id": "42814954"
@@ -145,7 +147,9 @@
         "observed_in_sources": [
           "lancet_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "lancet_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42810372",
         "upstream_id": "42810372"
@@ -261,7 +265,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "cms_fact_sheets"
@@ -385,7 +389,9 @@
         "observed_in_sources": [
           "nejm_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "nejm_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42814929",
         "upstream_id": "42814929"
@@ -746,7 +752,9 @@
         "observed_in_sources": [
           "lancet_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "lancet_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42815506",
         "upstream_id": "42815506"
@@ -866,7 +874,9 @@
         "observed_in_sources": [
           "bmj_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "bmj_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42815970",
         "upstream_id": "42815970"
@@ -1110,7 +1120,9 @@
         "observed_in_sources": [
           "nejm_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "nejm_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42820639",
         "upstream_id": "42820639"
@@ -1230,7 +1242,9 @@
         "observed_in_sources": [
           "bmj_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "bmj_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42815981",
         "upstream_id": "42815981"
@@ -1351,7 +1365,9 @@
         "observed_in_sources": [
           "jama_abstracts"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42814439",
         "upstream_id": "42814439"
