@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T07:25:23+00:00",
-  "as_of": "2026-10-09",
+  "generated_at": "2026-10-09T17:00:05+00:00",
+  "as_of": "2026-10-10",
   "item_ids": [
     "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings"
   ],
@@ -46,30 +46,20 @@
         "pmid:42815981"
       ],
       "minutes": 3
-    },
-    {
-      "date": "2026-09-29",
-      "item_ids": [
-        "pmid:42814954",
-        "pmid:42810372"
-      ],
-      "minutes": 2
     }
   ],
   "edition_date": "2026-10-08",
   "text": "奇点日报 · 2026-10-08\n这一天的 1 件 AI 医疗大事\n\n01 · 产业动态\n2027 年 Medicare Advantage 和 D 部分星级评级\n2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。\nCMS · 政策事实说明 · 2026-10-08\nhttps://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings\n",
   "publication": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "item_ids": [
-      "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
-      "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
+      "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings"
     ],
-    "minutes": 2,
+    "minutes": 1,
     "date_basis": "publication",
     "source_dates": [
-      "2026-10-07",
       "2026-10-08"
     ],
-    "text": "奇点日报 · 2026-10-09\n近三日精选 · 2 件 AI 医疗大事\n\n01 · 产业动态\n2027 年 Medicare Advantage 和 D 部分星级评级\n2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。\nCMS · 政策事实说明 · 2026-10-08\nhttps://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings\n\n02 · 新品方案\n苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息\n美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。\nMedTech Dive · 2026-10-07\nhttps://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/\n"
+    "text": "奇点日报 · 2026-10-10\n近三日精选 · 1 件 AI 医疗大事\n\n01 · 产业动态\n2027 年 Medicare Advantage 和 D 部分星级评级\n2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。\nCMS · 政策事实说明 · 2026-10-08\nhttps://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings\n"
   }
 }

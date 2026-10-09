@@ -1,257 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T07:25:23+00:00",
-  "as_of": "2026-10-09",
-  "count": 13,
+  "generated_at": "2026-10-09T17:00:05+00:00",
+  "as_of": "2026-10-10",
+  "count": 11,
   "items": [
-    {
-      "id": "pmid:42814954",
-      "title": "Retatrutide，一种三重激素受体激动剂，用于治疗肥胖。",
-      "original_title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
-      "summary": "背景 Retatrutide 是葡萄糖依赖性促胰岛素多肽、胰高血糖素样肽-1 和胰高血糖素受体的三重受体激动剂。方法 在这项 3 期随机双盲试验中，我们让没有糖尿病的肥胖成人接受每周一次皮下注射瑞他鲁肽（剂量为 4 毫克、9 毫克或 12 毫克）或安慰剂，持续 80 周。主要结果（分别在 9 毫克和 12 毫克组与安慰剂组中进行评估）是 574 名患有膝骨关节炎的参与者亚组中体重的百分比变化和 WOMAC 疼痛评分的变化（范围从 1 到 10，分数越高表明疼痛越严重）以及 243 名患有阻塞性睡眠呼吸暂停的参与者的呼吸暂停低通气指数的变化。对于与体重相关的终点，并发事件由治疗方案估计值（意向治疗[ITT]）处理。",
-      "url": "https://doi.org/10.1056/nejmoa2604169",
-      "source": "NEJM · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42814954",
-        "upstream_id": "42814954"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
-      },
-      "reading_value_score": 87,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:21:24+00:00",
-        "input_hash": "f7900f6a4a3d06e22939eb363146a089cbcd1666ad071f9544e9ceb1d3f0df8a",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162111380c607239a24e84",
-              "seconds": 4.7,
-              "usage": {
-                "completion_tokens": 210,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 11
-                },
-                "prompt_tokens": 1241,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1451
-              }
-            },
-            "support": "A total of 2339 participants underwent randomization. The mean percent change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% (9-mg dose), and -25.0% (12-mg dose) versus -3.9%",
-            "total": 87
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "TRIUMPH-1三期RCT报告retatrutide三受体激动剂在肥胖及膝骨关节炎、睡眠呼吸暂停共病中的关键疗效数据（12mg组减重25%），设计严谨、样本量大，对临床研究和减重治疗策略有直接参考价值。限制为摘要级信息，长期安全性及具体亚组细节需读全文。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162116ebb500e37bb84175",
-              "seconds": 8.42,
-              "usage": {
-                "completion_tokens": 307,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 146
-                },
-                "prompt_tokens": 1241,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1548
-              }
-            },
-            "support": "In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide",
-            "total": 87
-          }
-        ],
-        "score": 87,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42810372",
-      "title": "瑞他鲁肽治疗成人肥胖和 2 型糖尿病 (TRIUMPH-2)：一项双盲、平行组、随机、安慰剂对照 3 期试验。",
-      "original_title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
-      "summary": "背景 Retatrutide 是 GIP、GLP-1 和胰高血糖素受体的激动剂，目前正在研究治疗肥胖、2 型糖尿病和其他合并症，包括膝骨关节炎和阻塞性睡眠呼吸暂停。我们的目的是评估瑞他鲁肽对成人肥胖和 2 型糖尿病患者的疗效和安全性。方法 TRIUMPH-2 是一项双盲、平行组、随机、安慰剂对照 3 期试验，在 8 个国家的 92 个医疗和研究中心及医院进行。",
-      "url": "https://doi.org/10.1016/s0140-6736(26)01861-1",
-      "source": "The Lancet · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-09-29",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research",
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42810372",
-        "upstream_id": "42810372"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
-      },
-      "reading_value_score": 82,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:05+00:00",
-        "input_hash": "fe9f17bcff94cfc4af9e82d3f117d66d77127748548ee9f74444221e7d934eba",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162155971089df841f4907",
-              "seconds": 4.36,
-              "usage": {
-                "completion_tokens": 205,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1751,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1956
-              }
-            },
-            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "三期RCT首次在肥胖合并2型糖尿病人群中给出retatrutide 80周减重及血糖结局，样本量1152、多剂量对照设计完整，可为药物选择与后续研究设计提供关键证据；摘要未含完整安全细节及次要终点，临床应用判断仍需全文。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162159fecd606994bc4480",
-              "seconds": 5.91,
-              "usage": {
-                "completion_tokens": 199,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1751,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1950
-              }
-            },
-            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
-            "total": 86
-          }
-        ],
-        "score": 82,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
     {
       "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
       "title": "2027 年 Medicare Advantage 和 D 部分星级评级",
@@ -384,14 +136,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "nejm_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42814929",
         "upstream_id": "42814929"
@@ -747,14 +497,12 @@
         "research",
         "business"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "lancet_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42815506",
         "upstream_id": "42815506"
@@ -869,14 +617,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "bmj_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "bmj_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42815970",
         "upstream_id": "42815970"
@@ -1115,14 +861,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "nejm_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42820639",
         "upstream_id": "42820639"
@@ -1237,14 +981,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "bmj_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "bmj_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42815981",
         "upstream_id": "42815981"
@@ -1360,14 +1102,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42814439",
         "upstream_id": "42814439"

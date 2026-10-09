@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T07:25:23+00:00",
-  "as_of": "2026-10-09",
+  "generated_at": "2026-10-09T17:00:05+00:00",
+  "as_of": "2026-10-10",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -48,7 +48,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -179,7 +179,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -230,7 +230,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -280,7 +280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -330,7 +330,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -381,7 +381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -432,7 +432,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -479,7 +479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -613,7 +613,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -745,7 +745,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -795,7 +795,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -846,7 +846,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -898,7 +898,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -950,7 +950,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -999,7 +999,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1052,7 +1052,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1182,7 +1182,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1312,7 +1312,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1360,7 +1360,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1411,7 +1411,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1463,7 +1463,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1512,7 +1512,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1556,7 +1556,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1603,7 +1603,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1654,7 +1654,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1706,7 +1706,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1757,7 +1757,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1806,7 +1806,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1855,7 +1855,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1903,7 +1903,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1953,7 +1953,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2004,7 +2004,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2056,7 +2056,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2107,7 +2107,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2159,7 +2159,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2211,7 +2211,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2257,7 +2257,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2303,7 +2303,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2355,7 +2355,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2402,7 +2402,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2535,7 +2535,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -2584,7 +2584,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2627,7 +2627,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2679,7 +2679,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2728,7 +2728,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2778,7 +2778,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2826,7 +2826,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2879,7 +2879,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2930,7 +2930,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2979,7 +2979,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3028,7 +3028,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3072,9 +3072,275 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-29",
       "reasons": {},
+      "historical": true
+    },
+    {
+      "id": "pmid:42814954",
+      "t": "Retatrutide，一种三重激素受体激动剂，用于治疗肥胖。",
+      "te": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+      "s": "背景 Retatrutide 是葡萄糖依赖性促胰岛素多肽、胰高血糖素样肽-1 和胰高血糖素受体的三重受体激动剂。方法 在这项 3 期随机双盲试验中，我们让没有糖尿病的肥胖成人接受每周一次皮下注射瑞他鲁肽（剂量为 4 毫克、9 毫克或 12 毫克）或安慰剂，持续 80 周。主要结果（分别在 9 毫克和 12 毫克组与安慰剂组中进行评估）是 574 名患有膝骨关节炎的参与者亚组中体重的百分比变化和 WOMAC 疼痛评分的变化（范围从 1 到 10，分数越高表明疼痛越严重）以及 243 名患有阻塞性睡眠呼吸暂停的参与者的呼吸暂停低通气指数的变化。对于与体重相关的终点，并发事件由治疗方案估计值（意向治疗[ITT]）处理。",
+      "se": "Background Retatrutide is a triple-receptor agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1, and glucagon receptors. Methods In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide (at a dose of 4 mg, 9 mg, or 12 mg) or placebo for 80 weeks. Primary outcomes (evaluated in the 9-mg and 12-mg groups each vs. placebo) were the percent change in body weight and the change in the WOMAC pain score (ranging from 1 to 10, with higher scores indicating worse pain) in the subgroup of 574 participants with knee osteoarthritis and the change in the apnea-hypopnea index in the 243 participants with obstructive sleep apnea. For weight-related end points, intercurrent events were handled by a treatment-regimen estimand (intention-to-treat [ITT]).",
+      "u": "https://doi.org/10.1056/nejmoa2604169",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42814954",
+        "upstream_id": "42814954"
+      },
+      "tier": "must_read",
+      "freshness": "fresh",
+      "rel": 87,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:21:24+00:00",
+        "input_hash": "f7900f6a4a3d06e22939eb363146a089cbcd1666ad071f9544e9ceb1d3f0df8a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162111380c607239a24e84",
+              "seconds": 4.7,
+              "usage": {
+                "completion_tokens": 210,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 11
+                },
+                "prompt_tokens": 1241,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1451
+              }
+            },
+            "support": "A total of 2339 participants underwent randomization. The mean percent change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% (9-mg dose), and -25.0% (12-mg dose) versus -3.9%",
+            "total": 87
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "TRIUMPH-1三期RCT报告retatrutide三受体激动剂在肥胖及膝骨关节炎、睡眠呼吸暂停共病中的关键疗效数据（12mg组减重25%），设计严谨、样本量大，对临床研究和减重治疗策略有直接参考价值。限制为摘要级信息，长期安全性及具体亚组细节需读全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162116ebb500e37bb84175",
+              "seconds": 8.42,
+              "usage": {
+                "completion_tokens": 307,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 146
+                },
+                "prompt_tokens": 1241,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1548
+              }
+            },
+            "support": "In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide",
+            "total": 87
+          }
+        ],
+        "score": 87,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42810372",
+      "t": "瑞他鲁肽治疗成人肥胖和 2 型糖尿病 (TRIUMPH-2)：一项双盲、平行组、随机、安慰剂对照 3 期试验。",
+      "te": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+      "s": "背景 Retatrutide 是 GIP、GLP-1 和胰高血糖素受体的激动剂，目前正在研究治疗肥胖、2 型糖尿病和其他合并症，包括膝骨关节炎和阻塞性睡眠呼吸暂停。我们的目的是评估瑞他鲁肽对成人肥胖和 2 型糖尿病患者的疗效和安全性。方法 TRIUMPH-2 是一项双盲、平行组、随机、安慰剂对照 3 期试验，在 8 个国家的 92 个医疗和研究中心及医院进行。",
+      "se": "Background Retatrutide is an agonist of GIP, GLP-1, and glucagon receptors, and is currently under investigation for the treatment of obesity, type 2 diabetes, and other comorbidities, including knee osteoarthritis and obstructive sleep apnoea. We aimed to assess the efficacy and safety of retatrutide in adults with obesity and type 2 diabetes. Methods TRIUMPH-2 was a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial conducted at 92 medical and research centres and hospitals across eight countries.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01861-1",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42810372",
+        "upstream_id": "42810372"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 82,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:05+00:00",
+        "input_hash": "fe9f17bcff94cfc4af9e82d3f117d66d77127748548ee9f74444221e7d934eba",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162155971089df841f4907",
+              "seconds": 4.36,
+              "usage": {
+                "completion_tokens": 205,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1751,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1956
+              }
+            },
+            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "三期RCT首次在肥胖合并2型糖尿病人群中给出retatrutide 80周减重及血糖结局，样本量1152、多剂量对照设计完整，可为药物选择与后续研究设计提供关键证据；摘要未含完整安全细节及次要终点，临床应用判断仍需全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162159fecd606994bc4480",
+              "seconds": 5.91,
+              "usage": {
+                "completion_tokens": 199,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1751,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1950
+              }
+            },
+            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
+            "total": 86
+          }
+        ],
+        "score": 82,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-29",
+      "reasons": {
+        "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
+      },
       "historical": true
     },
     {
@@ -3118,7 +3384,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3165,7 +3431,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3216,7 +3482,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3265,7 +3531,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3315,7 +3581,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3363,7 +3629,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3414,7 +3680,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3464,7 +3730,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3511,7 +3777,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3559,7 +3825,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3608,7 +3874,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3735,7 +4001,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
@@ -3866,7 +4132,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
@@ -3994,7 +4260,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
@@ -4042,7 +4308,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
@@ -4087,7 +4353,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4135,7 +4401,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4183,7 +4449,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4229,7 +4495,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4279,7 +4545,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4327,7 +4593,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4376,7 +4642,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4427,7 +4693,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4473,7 +4739,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4521,7 +4787,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4567,7 +4833,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4618,7 +4884,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4746,7 +5012,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
@@ -4791,7 +5057,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4843,7 +5109,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4892,7 +5158,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4943,7 +5209,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -4993,7 +5259,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5036,7 +5302,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5164,7 +5430,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
@@ -5210,7 +5476,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -5260,7 +5526,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -5311,7 +5577,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -5358,7 +5624,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5403,7 +5669,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5446,7 +5712,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5497,7 +5763,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5547,7 +5813,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5595,7 +5861,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5640,7 +5906,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5691,7 +5957,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5743,7 +6009,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5796,11 +6062,11 @@
     {
       "date": "2026-09-29",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41591-026-04651-9",
+        "pmid:42814954",
         "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
         "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
         "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-        "url:https://medinform.jmir.org/2026/1/e100805"
+        "pmid:42810372"
       ],
       "minutes": 3
     },
