@@ -1,8 +1,8 @@
-奇点日报 · 2026-10-07
+奇点日报 · 2026-10-08
 这一天的 1 件 AI 医疗大事
 
-01 · 新品方案
-苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息
-美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。
-MedTech Dive · 2026-10-07
-https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/
+01 · 产业动态
+2027 年 Medicare Advantage 和 D 部分星级评级
+2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。
+CMS · 政策事实说明 · 2026-10-08
+https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings

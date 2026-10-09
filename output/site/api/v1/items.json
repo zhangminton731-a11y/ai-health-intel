@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T17:24:27+00:00",
+  "generated_at": "2026-10-09T01:13:45+00:00",
   "as_of": "2026-10-09",
   "count": 13,
   "items": [
@@ -242,6 +242,125 @@
           }
         ],
         "score": 82,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+      "title": "2027 年 Medicare Advantage 和 D 部分星级评级",
+      "original_title": "2027 Medicare Advantage and Part D Star Ratings",
+      "summary": "2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+      "source": "CMS · 政策事实说明",
+      "source_type": "官方机构",
+      "published_at": "2026-10-08",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "cms_fact_sheets"
+        ],
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+        "upstream_id": ""
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
+      },
+      "reading_value_score": 78,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-09T01:15:19+00:00",
+        "input_hash": "96bc56a8c75115299b5fac5c565ac47b06adcc0a1e2205bc42cb3851a17c85c6",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610090915100de11a77cb3c40c9",
+              "seconds": 4.13,
+              "usage": {
+                "completion_tokens": 160,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 29
+                },
+                "prompt_tokens": 4323,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 4483
+              }
+            },
+            "support": "will impact 2028 MA quality bonus payments",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "CMS官方发布2027年MA与Part D星级评分结果及方法论变更（新增COB、Poly-ACH等指标、权重调整），直接影响2028年质量奖金支付与2027年开放注册，是美国医保计划准入与质量战略的关键决策依据。限制在于这是例行年度发布，具体措施级得分与合同明细需查阅技术说明，且评分不直接证明临床获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610090915156a127df138d94248",
+              "seconds": 5.19,
+              "usage": {
+                "completion_tokens": 214,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 30
+                },
+                "prompt_tokens": 4323,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 4537
+              }
+            },
+            "support": "The 2027 Star Ratings announced today appear on Medicare Plan Finder for 2027 Open Enrollment, which begins on October 15, 2026 and runs through December 7, 2026, and will impact 2028 MA quality bonus",
+            "total": 83
+          }
+        ],
+        "score": 78,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -1449,128 +1568,6 @@
           }
         ],
         "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04673-3",
-      "title": "尿液游离 RNA 用于膀胱癌检测和治疗反应预测",
-      "original_title": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
-      "summary": "尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。",
-      "url": "https://www.nature.com/articles/s41591-026-04673-3",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-02",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-08T07:25:57+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis"
-      ],
-      "recommendation_reasons": {
-        "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
-      },
-      "reading_value_score": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:36:26+00:00",
-        "input_hash": "3897a4b3c38006583e5b11344c83b7d67840aa74a1cd2789711a0518c30ae707",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 6,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163618dc29cd585453431a",
-              "seconds": 4.39,
-              "usage": {
-                "completion_tokens": 162,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 3
-                },
-                "prompt_tokens": 1158,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1320
-              }
-            },
-            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
-            "total": 66
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "uRARE-seq在683例尿样中实现膀胱癌检测95%敏感/90%特异并优于尿肿瘤DNA，且基于114例开发出AUC 0.93的BCG反应预测标志物，为泌尿肿瘤液体活检与治疗分层提供了可复用的方法和较扎实的数据；主要限制为回顾性设计，作者自述需前瞻性研究验证临床效用。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041636232f2f848024834169",
-              "seconds": 3.3,
-              "usage": {
-                "completion_tokens": 333,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 157
-                },
-                "prompt_tokens": 1158,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1491
-              }
-            },
-            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mu",
-            "total": 74
-          }
-        ],
-        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",

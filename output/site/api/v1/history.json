@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T17:24:27+00:00",
+  "generated_at": "2026-10-09T01:13:45+00:00",
   "as_of": "2026-10-09",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -618,6 +618,137 @@
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
         "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04673-3",
+      "t": "尿液游离 RNA 用于膀胱癌检测和治疗反应预测",
+      "te": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
+      "s": "尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。",
+      "se": "Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mutations.",
+      "u": "https://www.nature.com/articles/s41591-026-04673-3",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-10-08T07:25:57+00:00",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:36:26+00:00",
+        "input_hash": "3897a4b3c38006583e5b11344c83b7d67840aa74a1cd2789711a0518c30ae707",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004163618dc29cd585453431a",
+              "seconds": 4.39,
+              "usage": {
+                "completion_tokens": 162,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 3
+                },
+                "prompt_tokens": 1158,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1320
+              }
+            },
+            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
+            "total": 66
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "uRARE-seq在683例尿样中实现膀胱癌检测95%敏感/90%特异并优于尿肿瘤DNA，且基于114例开发出AUC 0.93的BCG反应预测标志物，为泌尿肿瘤液体活检与治疗分层提供了可复用的方法和较扎实的数据；主要限制为回顾性设计，作者自述需前瞻性研究验证临床效用。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041636232f2f848024834169",
+              "seconds": 3.3,
+              "usage": {
+                "completion_tokens": 333,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 157
+                },
+                "prompt_tokens": 1158,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1491
+              }
+            },
+            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mu",
+            "total": 74
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "7 天前",
+      "date": "2026-10-02",
+      "reasons": {
+        "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
       },
       "historical": true
     },
@@ -5634,11 +5765,11 @@
       "item_ids": [
         "url:https://www.nature.com/articles/s41591-026-04675-1",
         "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
+        "url:https://www.nature.com/articles/s41591-026-04673-3",
         "url:https://ai.jmir.org/2026/1/e94109/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e87781"
+        "url:https://www.jmir.org/article/view/jmir_v28i1e100710"
       ],
-      "minutes": 4
+      "minutes": 3
     },
     {
       "date": "2026-10-01",
