@@ -2,14 +2,14 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 15441,
+      "bytes_read": 0,
       "content_type": "application/rss+xml",
-      "elapsed_ms": 51,
+      "elapsed_ms": 113,
       "error_code": null,
       "final_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "not_modified"
     },
     {
       "kind": "fda_release",
@@ -97,13 +97,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 163,
+  "elapsed_ms": 197,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-10T00:52:00+00:00",
+  "generated_at": "2026-10-10T07:08:28+00:00",
   "item_count": 20,
-  "last_checked_at": "2026-10-10T00:52:00+00:00",
-  "last_success_at": "2026-10-10T00:52:00+00:00",
+  "last_checked_at": "2026-10-10T07:08:28+00:00",
+  "last_success_at": "2026-10-10T07:08:28+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
