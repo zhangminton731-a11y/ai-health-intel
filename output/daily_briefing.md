@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-10
 
-> Daily status: **complete_with_warning** · sources 24/26 · items 452
+> Daily status: **complete_with_warning** · sources 25/26 · items 452
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -2040,6 +2040,14 @@ In 1788, the Birmingham physician William Withering was consulted by an apotheca
 
 Background: Remote patient management (RPM) that supports patient self-monitoring of vital parameters and lifestyle factors may improve cardiovascular risk management (CVRM) in primary care. However, large-scale implementation remains limited, partly due to insufficient evidence on long-term value for money, budget impact, and implications for health care professionals' workload. Objective: This study aimed to estimate the long-term cost-effectiveness, 5-year health care budget impact, and expected changes in general practitioner (GP) and practice nurse (PN) workload associated with the CVRM-Box intervention in the Netherlands. Methods: We conducted a model-based economic evaluation comparing CVRM-Box with care as usual in Dutch primary care integrated CVRM programs. CVRM-Box is a multicomponent RPM intervention comprising a digital blood pressure (BP) monitor, digital weight scale, step counter/activity tracker, and a mobile app, with measurements transferred to the GP practice for periodic review. A time-inhomogeneous cohort Markov model simulated lifetime transitions among health states, including at-risk, post–myocardial infarction (MI), poststroke, recurrent events, cardiovascular death, and noncardiovascular death. Cardiovascular risks were modeled using prediction equations (SCORE2, SCORE2-OP, and SMART2) populated with subgroup-specific risk factor profiles. Intervention effects were modeled as changes in systolic BP derived from a matched cohort study of CVRM-Box. Other key parameters (costs and utilities) were similarly obtained from the matched cohort study, or routine primary care data, and published sources. Outcomes included incremental cost-effectiveness ratios (ICERs, indicating cost per quality-adjusted life year [QALY] gained), cost-effectiveness probabilities, 5-year health care budget impact, and an exploratory workload analysis estimating annual changes in visit time and remote consultation frequency for GPs and PNs. Probabilistic and scenario uncertainty analyses were performed. Results: In the overall population, CVRM-Box increased costs and QALYs versus care as usual, yielding an ICER of €17,340/QALY gained (EUR €1=US $1.11 as of 29 December 2023) and a 60% probability of cost-effectiveness at a willingness-to-pay threshold of €20,000/QALY. Cost-effectiveness was more favorable in higher-risk subgroups (uncontrolled BP and/or prior MI/stroke), with ≥70% probability of cost-effectiveness at €20,000/QALY, whereas in the lower-risk subgroup with controlled BP and no prior MI/stroke, the intervention is unlikely to be cost-effective (ICER: €42,384/QALY). The 5-year health care budget impact was €2.9 million and €662.2 million for regional and national rollout, respectively. In a typical Dutch primary care practice, the CVRM-Box reduced PN workload by 25.9 h and 44.7 remote consultations annually, while the change in GP workload was negligible (0.5 h; 3.3 remote consultations). Conclusions: The CVRM-Box multicomponent RPM intervention is likely to be cost-effective among high-risk subgroups but not in lower-risk groups. The intervention further reduces PN workload but not GP workload. Results primarily apply to the Dutch context and may not generalize to health care systems with different payment/incentive arrangements. Additionally, long-term outcomes were modeled using prediction models rather than observed cardiovascular events. Nonetheless, our findings provide an argument for implementation in primary care for higher-risk subgroups.
 
+### [Author Correction: Intermittent hypobaric pressure induces selective senescent cell death and alleviates age-related osteoporosis](https://www.nature.com/articles/s41551-026-01815-3)
+
+- Source: `nature_biomedical_engineering` · published `2026-09-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01815-3`
+
+No summary supplied by the source.
+
 ### [Efficacy and safety of garetosmab, an activin A-blocking antibody, in fibrodysplasia ossificans progressiva (OPTIMA): a randomised, double-blind, placebo-controlled, phase 3 trial.](https://doi.org/10.1016/s0140-6736(26)01599-0)
 
 - Source: `lancet_abstracts` · published `2026-09-28` · freshness `stale`
@@ -2348,7 +2356,7 @@ Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 start
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01806-4`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01806-4`
 
 No summary supplied by the source.
 
@@ -2420,7 +2428,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
 
 No summary supplied by the source.
 
@@ -2460,7 +2468,7 @@ Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01798-1`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01798-1`
 
 No summary supplied by the source.
 
@@ -2660,7 +2668,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
 
 No summary supplied by the source.
 
@@ -2692,7 +2700,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
 
 No summary supplied by the source.
 
@@ -2732,7 +2740,7 @@ Zenflow said Monday it has raised $52 million and partnered with Cook Medical to
 
 - Source: `nature_biomedical_engineering` · published `2026-10-07` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
 
 No summary supplied by the source.
 
@@ -3188,7 +3196,7 @@ This story has been updated. The Trump administration announced Thursday that it
 
 - Source: `nature_biomedical_engineering` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
 
 No summary supplied by the source.
 
@@ -3204,7 +3212,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03308-8`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03308-8`
 
 No summary supplied by the source.
 
@@ -3268,7 +3276,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03333-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03333-7`
 
 No summary supplied by the source.
 
@@ -3284,15 +3292,15 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants`
+- Event: `updated` · identity: `url:https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants`
 
-Hacker News community signal; score 42.
+Hacker News community signal; score 98.
 
 ### [Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model](https://www.nature.com/articles/s41746-026-03387-7)
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03387-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03387-7`
 
 No summary supplied by the source.
 
@@ -3316,7 +3324,7 @@ Background: Attention-deficit/hyperactivity disorder (ADHD) is a common neurodev
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03141-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03141-z`
 
 No summary supplied by the source.
 
@@ -3360,19 +3368,11 @@ The Trump administration wants to make three big changes to the U.S. Census, inc
 
 No summary supplied by the source.
 
-### [Implementing and Scaling Artificial Intelligence in Low-Resourced Radiation Oncology: A Systematic Review of Deployments](https://www.nature.com/articles/s41746-026-03391-x)
-
-- Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03391-x`
-
-No summary supplied by the source.
-
 ### [Integrating generative artificial intelligence facilitates faculty interaction network and role transition in a biostatistics curriculum](https://www.nature.com/articles/s41746-026-03376-w)
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03376-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03376-w`
 
 No summary supplied by the source.
 
@@ -3624,13 +3624,13 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 
 AI companies can build durable moats by embedding their products in essential customer workflows, explains tech adviser Itay Sagie, who shares why founders should prioritize measurable customer dependence, while investors and acquirers should assess how integrations, trusted relationships and workflow access can strengthen retention and drive growth.
 
-### [Ethernet switch device driver model (switchdev)](https://docs.kernel.org/networking/switchdev.html)
+### [VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models](https://www.nature.com/articles/s41746-026-03373-z)
 
-- Source: `hn_ai_health_signals` · published `2026-10-10` · freshness `fresh`
+- Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://docs.kernel.org/networking/switchdev.html`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03373-z`
 
-Hacker News community signal; score 5.
+No summary supplied by the source.
 
 ---
 
