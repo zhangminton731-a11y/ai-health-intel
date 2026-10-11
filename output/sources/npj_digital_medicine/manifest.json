@@ -2,14 +2,14 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 16795,
-      "content_type": "application/rss+xml",
-      "elapsed_ms": 121,
+      "bytes_read": 0,
+      "content_type": "text/plain",
+      "elapsed_ms": 81,
       "error_code": null,
       "final_url": "https://www.nature.com/npjdigitalmed.rss",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "not_modified"
     },
     {
       "kind": "article_metadata",
@@ -49,14 +49,14 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 5080,
+  "elapsed_ms": 5871,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-10T13:43:05+00:00",
+  "generated_at": "2026-10-11T00:14:36+00:00",
   "item_count": 8,
-  "last_checked_at": "2026-10-10T13:43:05+00:00",
-  "last_success_at": "2026-10-10T13:43:05+00:00",
-  "recovered": true,
+  "last_checked_at": "2026-10-11T00:14:36+00:00",
+  "last_success_at": "2026-10-11T00:14:36+00:00",
+  "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "npj_digital_medicine",

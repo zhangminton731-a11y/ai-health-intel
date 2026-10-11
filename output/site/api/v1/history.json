@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T13:43:05+00:00",
-  "as_of": "2026-10-10",
+  "generated_at": "2026-10-11T00:14:36+00:00",
+  "as_of": "2026-10-11",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -48,7 +48,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -179,7 +179,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -230,7 +230,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -280,7 +280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -330,7 +330,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -381,7 +381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -432,7 +432,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -479,7 +479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -613,7 +613,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -745,7 +745,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -795,7 +795,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -846,7 +846,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -898,7 +898,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -950,7 +950,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -999,7 +999,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1052,7 +1052,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1182,7 +1182,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1312,7 +1312,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1360,7 +1360,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1411,7 +1411,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1463,7 +1463,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1512,7 +1512,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1556,7 +1556,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1603,7 +1603,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1654,7 +1654,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1706,7 +1706,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1757,7 +1757,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1806,7 +1806,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1855,7 +1855,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1903,7 +1903,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1953,7 +1953,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2004,7 +2004,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2056,7 +2056,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2107,7 +2107,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2159,7 +2159,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2211,7 +2211,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2257,7 +2257,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2303,7 +2303,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2355,9 +2355,528 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-09-30",
       "reasons": {},
+      "historical": true
+    },
+    {
+      "id": "pmid:42815981",
+      "t": "使用国家联合登记数据对机器人与传统膝关节置换术治疗关节炎进行早期全国比较：目标试验模拟研究。",
+      "te": "Early national comparison of robotic versus conventional knee replacements for arthritis using National Joint Registry data: target trial emulation study.",
+      "s": "目的 评估英国机器人与传统全膝关节置换术 (TKR) 和单间室膝关节置换术 (UKR) 的早期效果比较。结果 匹配的传统 TKR 组和机器人 TKR 组的五年种植体存活率分别为 98.5%（95% 置信区间 (CI) 98.3% 至 98.7%）和 98.6%（98.2% 至 99.0%），组间翻修风险无差异（风险比 1.03，95% CI 0.86 至 1.26；P=0.71）。",
+      "se": "Objective To evaluate the early comparative effectiveness of robotic versus conventional total knee replacement (TKR) and unicompartmental knee replacement (UKR) in the UK. Results The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between group difference in revision risk (hazard ratio 1.03, 95% CI 0.86 to 1.26; P=0.71).",
+      "u": "https://doi.org/10.1136/bmj-2026-100691",
+      "image": "",
+      "src": "The BMJ · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42815981",
+        "upstream_id": "42815981"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:23:57+00:00",
+        "input_hash": "aae7a79b7b99d66cfa65dd0508eccc5a8a606fe73fe4cfa448153b4b2d34b6f0",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人与常规膝置换的早期翻修与并发症风险提供了迄今最大样本的真实世界比较证据（未见差异），对医院设备采购决策与后续研究设计均有直接参考价值；局限为观察性设计、机器人组样本较小且随访仅平均2.5年，五年生存率外推有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162343b979f9a0ca95413d",
+              "seconds": 4.72,
+              "usage": {
+                "completion_tokens": 167,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1329,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1496
+              }
+            },
+            "support": "697 145 knee replacement surgeries between 2018 and 2024: 675 034 were conventional (TKRs and UKRs) and 22 111 were robotic",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041623484a89ad849ec84900",
+              "seconds": 9.06,
+              "usage": {
+                "completion_tokens": 409,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 185
+                },
+                "prompt_tokens": 1329,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1738
+              }
+            },
+            "support": "The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between grou",
+            "total": 64
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42815970",
+      "t": "使用国家联合登记数据对机器人与传统髋关节置换术治疗关节炎进行早期全国比较：目标试验模拟研究。",
+      "te": "Early national comparison of robotic versus conventional hip replacements for arthritis using National Joint Registry data: target trial emulation study.",
+      "s": "目的 评估英国机器人与传统全髋关节置换术 (THR) 的早期效果比较。结果 匹配的传统 THR 组和机器人 THR 组的五年种植体存活率分别为 98.8%（95% 置信区间 (CI) 98.6% 至 99.0%）和 98.8%（CI 98.3% 至 99.1%），组间翻修风险无差异（风险比 0.96，95% CI 0.75 至 1.22；P=0.73）。",
+      "se": "Objectives To evaluate the early comparative effectiveness of robotic versus conventional total hip replacement (THR) in the UK. Results The five year implant survival of the matched conventional and robotic THR groups was 98.8% (95% confidence interval (CI) 98.6% to 99.0%) and 98.8% (CI 98.3% to 99.1%), respectively, with no difference in revision risk between groups (hazard ratio 0.96, 95% CI 0.75 to 1.22; P=0.73).",
+      "u": "https://doi.org/10.1136/bmj-2026-100709",
+      "image": "",
+      "src": "The BMJ · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42815970",
+        "upstream_id": "42815970"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:23:53+00:00",
+        "input_hash": "fc293c313b1b3b521c53c90b3205d117ff585134fd3bb21e4214f5b64a6fb2c3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "基于66万例英国国家关节登记数据的靶标试验仿真研究，为机器人与传统髋关节置换的早期疗效提供了迄今最大规模的比较证据：总体翻修与生存无差异，但假体位置相关翻修风险减半。局限为观察性设计存在残留混杂、随访均值仅2.5年，且机器人组样本仅约1万例；对公立医疗系统高昂设备成本的成本效果评估提醒具有重要决策参考价值。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041623439aeedb1bc6d74872",
+              "seconds": 5.06,
+              "usage": {
+                "completion_tokens": 182,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1363,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1545
+              }
+            },
+            "support": "Participants 666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041623485bb9e28a26074a0e",
+              "seconds": 4.77,
+              "usage": {
+                "completion_tokens": 181,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1363,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1544
+              }
+            },
+            "support": "666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.",
+            "total": 71
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42815506",
+      "t": "Orforglipron 与甘精胰岛素治疗心血管风险增加的 2 型糖尿病成人的心血管安全性 (ACHIEVE-4)：一项 3 期、事件驱动、随机、开放标签、非劣效性主动比较试验。",
+      "te": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
+      "s": "背景 Orforglipron 是一种口服非肽 GLP-1 受体激动剂。虽然一些肽类 GLP-1 受体激动剂已证实对心血管有益，但非肽类 GLP-1 受体激动剂的心血管安全性尚未得到研究。本研究旨在比较 orforglipron 与甘精胰岛素对 2 型糖尿病、肥胖或超重且心血管事件风险增加的个体主要不良心血管事件发生率的影响。方法 这项事件驱动、第 3 期、多中心、随机、开放标签、主动比较、平行组研究在 16 个国家和地区的 317 个地点进行。",
+      "se": "Background Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events. Methods This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01865-9",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42815506",
+        "upstream_id": "42815506"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:07+00:00",
+        "input_hash": "b242b4911ecd04a063068fecf97652d4004a1d2f65e086e0a35915bb6267dc83",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026100416215540ad14cd8ad24958",
+              "seconds": 7.44,
+              "usage": {
+                "completion_tokens": 340,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 150
+                },
+                "prompt_tokens": 1663,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2003
+              }
+            },
+            "support": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferior",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "首个报告口服非肽类GLP-1受体激动剂orforglipron心血管安全性的3期事件驱动非劣效试验，样本量与随访充分，为该药在高心血管风险2型糖尿病人群中的临床定位提供关键证据。局限为开放标签设计、对照为胰岛素而非安慰剂，且HR 0.84提示仅为安全性确认而非心血管获益证明。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162203173b16418c564b1e",
+              "seconds": 5.47,
+              "usage": {
+                "completion_tokens": 160,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1663,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1823
+              }
+            },
+            "support": "the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied",
+            "total": 77
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42814439",
+      "t": "瘦代谢障碍相关脂肪肝病的组织学特征和临床结果。",
+      "te": "Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+      "s": "重要性 尽管代谢功能障碍相关的脂肪肝病 (MASLD) 传统上与肥胖相关，但人们越来越认识到它在体重正常的个体（即瘦 MASLD）中存在。 FIB-4 在预测瘦 vs 超重/肥胖 MASLD 中的晚期纤维化 (F3-F4) 方面的准确性较低（曲线下面积，0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]；差异，-0.03 [95% CI, -0.06 至 0.00]），而 LSM 则准确度更高（曲线下面积，0.87 [95% CI，0.84-0.90] vs 0.83 [95% CI，0.82-0.84]；差异，0.04 [95% CI，0.01-0.07]）。",
+      "se": "Importance Although metabolic dysfunction-associated steatotic liver disease (MASLD) is traditionally associated with obesity, it is increasingly recognized in individuals with normal weight (ie, lean MASLD). The FIB-4 demonstrated lower accuracy for predicting advanced fibrosis (F3-F4) in lean vs overweight/obese MASLD (area under the curve, 0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]; difference, -0.03 [95% CI, -0.06 to 0.00]), while LSM had higher accuracy (area under the curve, 0.87 [95% CI, 0.84-0.90] vs 0.83 [95% CI, 0.82-0.84]; difference, 0.04 [95% CI, 0.01-0.07]).",
+      "u": "https://doi.org/10.1001/jama.2026.18491",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42814439",
+        "upstream_id": "42814439"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:22:42+00:00",
+        "input_hash": "cca47a69253c41e041116a417332d6ef3f85009f9b33c34f214d3882d050ebf3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162229b2b1a844591a4838",
+              "seconds": 7.72,
+              "usage": {
+                "completion_tokens": 351,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 196
+                },
+                "prompt_tokens": 1676,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2027
+              }
+            },
+            "support": "Multinational, retrospective observational study of adults with biopsy-confirmed MASLD from 41 countries from the Global MASLD project.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于41国18326例肝活检确认MASLD的大型回顾性队列，量化了瘦型MASLD的组织学特征、预后及无创纤维化检测性能，发现纤维化程度而非体型决定预后、LSM在瘦型患者中更可靠，对临床筛查分层有直接参考价值。局限为回顾性设计、瘦型定义依赖BMI/腰围且两者一致性一般（κ=0.41），不能建立因果结论。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162237d472dc2b4bf44f83",
+              "seconds": 5.59,
+              "usage": {
+                "completion_tokens": 192,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 10
+                },
+                "prompt_tokens": 1676,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1868
+              }
+            },
+            "support": "Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was assoc",
+            "total": 72
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-09-30",
+      "reasons": {
+        "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
+      },
       "historical": true
     },
     {
@@ -2402,7 +2921,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2535,7 +3054,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -2584,7 +3103,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2627,7 +3146,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2679,7 +3198,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2728,7 +3247,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2778,7 +3297,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2826,7 +3345,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2879,7 +3398,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2930,7 +3449,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -2979,7 +3498,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3028,7 +3547,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3072,7 +3591,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3202,7 +3721,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
@@ -3336,7 +3855,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
@@ -3384,7 +3903,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3431,7 +3950,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3482,7 +4001,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3531,7 +4050,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3581,7 +4100,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3629,7 +4148,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3680,7 +4199,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3730,7 +4249,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3777,7 +4296,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3825,7 +4344,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3874,7 +4393,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4001,7 +4520,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
@@ -4132,7 +4651,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
@@ -4260,7 +4779,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
@@ -4308,7 +4827,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
@@ -4353,7 +4872,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4401,7 +4920,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4449,7 +4968,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4495,7 +5014,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4545,7 +5064,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4593,7 +5112,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4642,7 +5161,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4693,7 +5212,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4739,7 +5258,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4787,7 +5306,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4833,7 +5352,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4884,7 +5403,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5012,7 +5531,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
@@ -5057,7 +5576,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5109,7 +5628,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5158,7 +5677,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5209,7 +5728,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5259,7 +5778,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5302,7 +5821,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5430,7 +5949,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
@@ -5476,7 +5995,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -5526,7 +6045,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -5577,7 +6096,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -5624,7 +6143,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5669,7 +6188,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5712,7 +6231,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5763,7 +6282,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -5813,7 +6332,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5861,7 +6380,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5906,7 +6425,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -5957,7 +6476,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -6009,7 +6528,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-21",
       "reasons": {},
       "historical": true
@@ -6052,10 +6571,10 @@
       "date": "2026-09-30",
       "item_ids": [
         "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-        "url:https://ai.jmir.org/2026/1/e101942/",
+        "pmid:42815506",
         "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
         "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-        "url:https://medinform.jmir.org/2026/1/e89189"
+        "pmid:42815970"
       ],
       "minutes": 2
     },

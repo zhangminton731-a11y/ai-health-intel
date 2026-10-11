@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T13:43:05+00:00",
-  "as_of": "2026-10-10",
+  "generated_at": "2026-10-11T00:14:36+00:00",
+  "as_of": "2026-10-11",
   "item_ids": [
     "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings"
   ],
@@ -36,30 +36,16 @@
         "pmid:42820639"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-30",
-      "item_ids": [
-        "pmid:42815506",
-        "pmid:42815970",
-        "pmid:42814439",
-        "pmid:42815981"
-      ],
-      "minutes": 3
     }
   ],
   "edition_date": "2026-10-08",
   "text": "奇点日报 · 2026-10-08\n这一天的 1 件 AI 医疗大事\n\n01 · 产业动态\n2027 年 Medicare Advantage 和 D 部分星级评级\n2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。\nCMS · 政策事实说明 · 2026-10-08\nhttps://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings\n",
   "publication": {
-    "date": "2026-10-10",
-    "item_ids": [
-      "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings"
-    ],
+    "date": "2026-10-11",
+    "item_ids": [],
     "minutes": 1,
     "date_basis": "publication",
-    "source_dates": [
-      "2026-10-08"
-    ],
-    "text": "奇点日报 · 2026-10-10\n近三日精选 · 1 件 AI 医疗大事\n\n01 · 产业动态\n2027 年 Medicare Advantage 和 D 部分星级评级\n2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。\nCMS · 政策事实说明 · 2026-10-08\nhttps://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings\n"
+    "source_dates": [],
+    "text": "奇点日报 · 2026-10-11\n\n今日暂无新条目，请稍后再来。\n"
   }
 }

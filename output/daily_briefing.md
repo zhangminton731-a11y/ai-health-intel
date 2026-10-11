@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-10-10
+# Scientific Information Brief · 2026-10-11
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 452
+> Daily status: **complete_with_warning** · sources 25/26 · items 456
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 11
+## Scan · 7
 
 ### [2027 Medicare Advantage and Part D Star Ratings](https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings)
 
@@ -42,22 +42,6 @@ Transparency in Coverage Final Rules (CMS 9882-F) Introduction Consistent with t
 
 A U.S. district court has ordered Apple to pay Masimo $184.2 million in interest on the damages a jury awarded last year. The interest covers the $634 million in damages that a jury ordered Apple to pay Masimo one year ago. Apple received the order because its Apple Watch product infringed a pulse oximetry patent. A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million. Danaher bought Masimo for $9.9 billion in June.
 
-### [Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.](https://doi.org/10.1016/s0140-6736(26)01865-9)
-
-- Source: `lancet_abstracts` · published `2026-09-30` · freshness `fresh`
-- Reading value: `74` · status: `scored`
-- Event: `seen` · identity: `pmid:42815506`
-
-<h4>Background</h4>Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events.<h4>Methods</h4>This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories. Adults with type 2 diabetes at increased cardiovascular risk with glycated haemoglobin (HbA<sub>1c</sub>) concentrations between 7·0% and 10·5% (53-91 mmol/mol) and a BMI of 25 kg/m<sup>2</sup> or more, treated with up to three glucose-lowering medications (metformin, a sulfonylurea, and/or an SGLT2 inhibitor), were randomly assigned (1:1) to oral orforglipron maximum tolerated dose (up to 36 mg capsule [equivalent to 17·2 mg tablet]) or injectable titrated insulin glargine, each administered once daily. All participants had established cardiovascular or chronic kidney disease. The primary outcome was time to occurrence of four-component major adverse cardiovascular events (MACE-4), including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. Non-inferiority of orforglipron to insulin glargine was declared if the upper limit of the two-sided 95% CI for the hazard ratio (HR; orforglipron vs insulin glargine) was less than 1·8. The primary endpoint and other safety endpoints were assessed in all participants who took at least one dose of assigned treatment using all datapoints from baseline until withdrawal or study completion, regardless of treatment adherence. This trial was registered on ClinicalTrials.gov (NCT05803421) and is completed.<h4>Findings</h4>Between May 1, 2023, and Sept 5, 2024, 2749 participants were randomly assigned (1371 to orforglipron and 1378 to insulin glargine). 1032 (38%) participants were female and 1717 (62·5%) male. 2362 (85·9%) participants had established cardiovascular disease and 1033 (37·6%) had chronic kidney disease. Mean baseline age, HbA<sub>1c</sub>, and BMI were 63·1 years (SD 9·9), 8·2% (1·0), and 33 kg/m<sup>2</sup> (6·2), respectively. Over a median follow-up of 2 years, the primary outcome occurred in 57 (4·2%) of 1358 orforglipron participants and 67 (5·0%) of 1343 insulin glargine participants, showing non-inferiority to insulin glargine for MACE-4 (HR 0·84; 95% CI 0·59-1·20; p<0·0001 for non-inferiority). Gastrointestinal adverse events were reported in 851 (62·1%) of 1371 orforglipron participants and 193 (14·2%) of 1355 insulin glargine participants; clinically significant or severe hypoglycaemia (glucose <3 mmol/L [54 mg/dL]) occurred in 93 (6·8%) of 1371 orforglipron participants and 260 (19·2%) of 1355 insulin glargine participants. 62 deaths were reported during the study: 19 (1·4%) of 1371 participants receiving orforglipron and 43 (3·2%) of 1355 participants receiving insulin glargine; all deaths except one (in the insulin glargine group) were deemed unrelated to treatment.<h4>Interpretation</h4>In people with type 2 diabetes at increased cardiovascular risk, the cardiovascular safety of orforglipron was confirmed by demonstrating non-inferiority to insulin glargine for MACE-4. Gastrointestinal adverse events were the most frequent adverse event and most common reason for orforglipron treatment discontinuation with orforglipron, while clinically significant hypoglycaemia occurred less frequently with orforglipron than with insulin glargine. These findings support orforglipron as a potential once-daily, oral treatment option with established cardiovascular safety in people with type 2 diabetes and increased cardiovascular risk.<h4>Funding</h4>Eli Lilly and Company.
-
-### [Early national comparison of robotic versus conventional hip replacements for arthritis using National Joint Registry data: target trial emulation study.](https://doi.org/10.1136/bmj-2026-100709)
-
-- Source: `bmj_abstracts` · published `2026-09-30` · freshness `fresh`
-- Reading value: `74` · status: `scored`
-- Event: `seen` · identity: `pmid:42815970`
-
-<h4>Objectives</h4>To evaluate the early comparative effectiveness of robotic versus conventional total hip replacement (THR) in the UK.<h4>Design</h4>Target trial emulation study.<h4>Setting</h4>Public and private hospitals using data from the National Joint Registry of England, Wales, Northern Ireland, the Isle of Man, Guernsey, and Jersey.<h4>Participants</h4>666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.<h4>Main outcome measures</h4>Five year THR implant survival (mean 2.5 year follow-up), all cause revision risk, cause specific revision risk, malpositioning revision risk, intraoperative complications, and patient survival up to five years. Kaplan-Meier survival analysis, Cox proportional hazards regression, and Fine and Gray models were used. Propensity score matching created comparable treatment groups to estimate the average treatment effect in the treated population.<h4>Results</h4>The five year implant survival of the matched conventional and robotic THR groups was 98.8% (95% confidence interval (CI) 98.6% to 99.0%) and 98.8% (CI 98.3% to 99.1%), respectively, with no difference in revision risk between groups (hazard ratio 0.96, 95% CI 0.75 to 1.22; P=0.73). Cause specific revision risk and intraoperative complication risks did not differ between groups. However, a significantly lower risk of revisions related to implant malposition (dislocation, leg length discrepancy, and malalignment) was observed in the robotic group (hazard ratio 0.53, 95% CI 0.30 to 0.93; P=0.03). The five year patient survival of the matched conventional and robotic THR groups was 96.3% (95% CI 95.8% to 96.8%) and 96.2% (95.2% to 97.0%), respectively, with no difference in all cause mortality risk (hazard ratio 1.12, 95% CI 0.95 to 1.34; P=0.17).<h4>Conclusions</h4>No significant differences were found in overall THR or patient survival, cause specific revision, or intraoperative complication risks between robotic and conventional groups. Robotic THR was associated with a lower revision risk from causes related to implant malpositioning. However, the possibility of unmeasured and residual confounding cannot be ruled out owing to the observational design. These results highlight the importance of careful evaluation of robotic technology in publicly funded healthcare systems because of the substantially higher capital and procedural costs.
-
 ### [FDA Approves First Heart Valve Designed to Grow with Children](http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children)
 
 - Source: `fda_press` · published `2026-10-01` · freshness `fresh`
@@ -74,22 +58,6 @@ The U.S. Food and Drug Administration today approved the Autus Size-Adjustable V
 
 <h4>Background</h4>For persons living with both type 2 diabetes and obesity, weight management may be the most effective therapy for type 2 diabetes. Glucagon-like peptide-1 (GLP-1) receptor agonists have potent weight-reducing effects, and other mechanisms may confer additional benefits. Survodutide is an investigational glucagon receptor-GLP-1 receptor dual agonist with potential weight-reducing and metabolic benefits.<h4>Methods</h4>In this multinational, double-blind, phase 3 trial involving adults with type 2 diabetes and a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of 27 or more, we randomly assigned participants in a 1:1:1 ratio to receive once-weekly subcutaneous survodutide (3.6 mg or 6.0 mg) or placebo. The two primary end points were the percent change in body weight and a reduction in body weight of at least 5% from baseline to week 76.<h4>Results</h4>Among 752 participants (250 in the 3.6-mg survodutide group, 251 in the 6.0-mg survodutide group, and 251 in the placebo group), the mean age at baseline was 55.7 years, and the mean BMI was 36.5; 49.3% were men. The mean weight change at week 76 according to the treatment-regimen estimand (which assessed effects regardless of whether the trial regimen was discontinued or interrupted or whether other antiobesity therapies were used) was -8.2% (95% confidence interval [CI], -9.2 to -7.2) in the 3.6-mg group, -9.8% (95% CI, -10.8 to -8.8) in the 6.0-mg group, and -3.9% (95% CI, -4.9 to -2.9) in the placebo group; weight reduction of at least 5% occurred in 57.6%, 64.5%, and 35.1% of the participants, respectively (P<0.001 for all comparisons with placebo). The mean change in the glycated hemoglobin level (from a baseline level of 7.4%) was -0.9 percentage points in the 3.6-mg group, -0.8 percentage points in the 6.0-mg group, and -0.2 percentage points in the placebo group. The most common adverse events were gastrointestinal (generally mild to moderate and transient), which occurred in 182 participants (72.8%) in the 3.6-mg group, 195 (77.7%) in the 6.0-mg group, and 97 (38.6%) in the placebo group.<h4>Conclusions</h4>In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo. (Funded by Boehringer Ingelheim; SYNCHRONIZE-2 ClinicalTrials.gov number, NCT06066528.).
 
-### [Early national comparison of robotic versus conventional knee replacements for arthritis using National Joint Registry data: target trial emulation study.](https://doi.org/10.1136/bmj-2026-100691)
-
-- Source: `bmj_abstracts` · published `2026-09-30` · freshness `fresh`
-- Reading value: `71` · status: `scored`
-- Event: `seen` · identity: `pmid:42815981`
-
-<h4>Objective</h4>To evaluate the early comparative effectiveness of robotic versus conventional total knee replacement (TKR) and unicompartmental knee replacement (UKR) in the UK.<h4>Design</h4>Target trial emulation study.<h4>Setting</h4>Public and private hospitals using data from the National Joint Registry of England, Wales, Northern Ireland, the Isle of Man, Guernsey, and Jersey.<h4>Participants</h4>697 145 knee replacement surgeries between 2018 and 2024: 675 034 were conventional (TKRs and UKRs) and 22 111 were robotic.<h4>Main outcome measures</h4>The main outcome was five year knee replacement survival (mean 2.5 years follow-up); all cause revision risk; cause specific revision risk; intraoperative complications; and revision complexity of robotic versus conventional (TKR and UKR) knee replacement. Kaplan-Meier and Cox regression analyses were used to compare implant survival and indications for revision surgery. Propensity score matching using target trial emulation framework was used to estimate the average treatment effect in the treated population.<h4>Results</h4>The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between group difference in revision risk (hazard ratio 1.03, 95% CI 0.86 to 1.26; P=0.71). The five year implant survival of the matched conventional and robotic UKR groups was 97.8% (95% CI 97.2% to 98.3%) and 96.4% (92.4% to 98.3%), respectively, with no between group difference in revision risk (hazard ratio 1.03, 95% CI 0.75 to 1.42; P=0.86). Cause specific revision risk and intraoperative complication risks did not differ between groups for either TKR or UKR.<h4>Conclusions</h4>No statistically significant differences were detected in revision risk, cause specific risk, or intraoperative complication risk between the robotic and conventional groups. This was consistent for both TKR and UKR. The possibility of unmeasured and residual confounding cannot be ruled out, however, owing to the observational design of the study. These results highlight the importance of careful evaluation of robotic technology in publicly funded healthcare systems, given the substantially higher capital and procedural costs involved.
-
-### [Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.](https://doi.org/10.1001/jama.2026.18491)
-
-- Source: `jama_abstracts` · published `2026-09-30` · freshness `fresh`
-- Reading value: `71` · status: `scored`
-- Event: `seen` · identity: `pmid:42814439`
-
-<h4>Importance</h4>Although metabolic dysfunction-associated steatotic liver disease (MASLD) is traditionally associated with obesity, it is increasingly recognized in individuals with normal weight (ie, lean MASLD).<h4>Objective</h4>To characterize the clinical, histologic, and prognostic features of lean MASLD, and evaluate the performance of noninvasive tests for advanced fibrosis.<h4>Design, setting, and participants</h4>Multinational, retrospective observational study of adults with biopsy-confirmed MASLD from 41 countries from the Global MASLD project.<h4>Exposures</h4>Lean vs overweight/obese MASLD, defined by body mass index (BMI) and waist circumference.<h4>Main outcomes and measures</h4>Primary outcomes were all-cause mortality and clinical events (hepatocellular carcinoma, hepatic decompensation, liver transplant, death), intermediate outcomes included histologic fibrosis severity, and tests included the Fibrosis-4 (FIB-4) score and liver stiffness measurement (LSM) by transient elastography.<h4>Results</h4>Among 18 326 patients (mean [SD] age, 50.9 [13.1] years; 8714 [47.6%] male), 6.7% were lean by BMI. Among 12 202 patients with waist circumference available, 6.0% were lean by waist circumference (κ = 0.41). Lean MASLD was most prevalent in Asia (11.3% by BMI, 11.7% by waist circumference). Compared with overweight/obese MASLD, lean MASLD had lower prevalence of type 2 diabetes (38.2% vs 48.3%; difference, -10.2% [95% CI, -13.0% to -7.4%]), advanced fibrosis (29.3% vs 37.2%; difference, -7.8% [95% CI, -10.5% to -5.2%]), and Non-Alcoholic Fatty Liver Disease Activity Scores (mean [SD], 3.96 [1.81] vs 4.41 [1.68]; difference, -0.44 [95% CI, -0.56 to -0.33]). The FIB-4 demonstrated lower accuracy for predicting advanced fibrosis (F3-F4) in lean vs overweight/obese MASLD (area under the curve, 0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]; difference, -0.03 [95% CI, -0.06 to 0.00]), while LSM had higher accuracy (area under the curve, 0.87 [95% CI, 0.84-0.90] vs 0.83 [95% CI, 0.82-0.84]; difference, 0.04 [95% CI, 0.01-0.07]). Unadjusted rates per 100 person-years in lean vs overweight/obese MASLD were 1.08 vs 0.91 for all-cause mortality and 1.51 vs 1.43 for clinical events, respectively; lean status was not independently associated with all-cause mortality (adjusted hazard ratio [aHR], 0.90 [95% CI, 0.69-1.16]) or clinical events (aHR, 0.94 [95% CI, 0.76-1.17]). Advanced fibrosis (F3-F4) was associated with all-cause mortality (1.46 vs 0.77 per 100 person-years; aHR, 2.10 [95% CI, 1.71-2.57]) and clinical events (3.21 vs 0.89 per 100 person-years; aHR, 3.41 [95% CI, 2.90-4.03]).<h4>Conclusions and relevance</h4>Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was associated with prognosis and LSM was reliable in lean individuals.
-
 ### [A Patient Simulation Framework for Risk Assessment of Conversational Health Care AI: Development and Evaluation Study](https://ai.jmir.org/2026/1/e100772/)
 
 - Source: `jmir_ai` · published `2026-10-05` · freshness `fresh`
@@ -102,7 +70,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 441
+## Archive · 449
 
 ### [Professor Ioannis Yannas, pioneer of regenerative medicine who invented artificial skin for the treatment of severe burns, dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
@@ -2044,7 +2012,7 @@ Background: Remote patient management (RPM) that supports patient self-monitorin
 
 - Source: `nature_biomedical_engineering` · published `2026-09-28` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01815-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01815-3`
 
 No summary supplied by the source.
 
@@ -2170,40 +2138,72 @@ Apple today introduced updates to Apple Creator Studio, its groundbreaking colle
 
 ### [8 weeks versus 12 weeks of sofosbuvir-velpatasvir for treatment-naive, non-cirrhotic, chronic hepatitis C (RESOLVE): a multicentre, open-label, non-inferiority, randomised controlled trial in India.](https://doi.org/10.1016/s0140-6736(26)01380-2)
 
-- Source: `lancet_abstracts` · published `2026-09-30` · freshness `fresh`
-- Reading value: `63` · status: `scored`
+- Source: `lancet_abstracts` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42815507`
 
 <h4>Background</h4>Chronic hepatitis C virus (HCV) infection without cirrhosis can be treated with 12 weeks of sofosbuvir-velpatasvir combination therapy. We aimed to assess whether a shorter 8-week treatment regimen of this combination was non-inferior to the standard 12-week regimen in successfully clearing HCV infection in HCV-infected patients without evidence of cirrhosis.<h4>Methods</h4>RESOLVE was a multicentre, open-label, non-inferiority, randomised controlled trial, conducted in five publicly funded hospitals in India. We randomly assigned (1:1) treatment-naive adults (aged ≥18 years) with non-cirrhotic HCV mono-infection to receive sofosbuvir 400 mg and velpatasvir 100 mg (orally, daily) for either 8 weeks or 12 weeks. The primary outcome was the proportion of participants with sustained virological response-ie, absence of quantifiable HCV RNA at 12 weeks after treatment completion (SVR12), with 95% assumed proportion with 12-week treatment, 5% non-inferiority margin, 2·5% one-sided alpha error, and 90% study power in the per-protocol population. The trial was registered with the Clinical Trial Registry of India, CTRI/2022/03/041368, and is complete.<h4>Findings</h4>Between May 15, 2022, and Sept 10, 2024, we screened 1620 participants, of whom 880 (54·3%) were enrolled in the study and randomly assigned to the 12-week (n=437 [50%]) or 8-week (n=443 [50%]) groups. 455 (52%) participants were women, 425 (48%) were men, and the median age was 35 years (IQR 28 to 47). 816 (93%) participants completed the intended 12-week (401 [92%] of 437) or 8-week (415 [94%] of 443) treatment and SVR12 testing. On per-protocol analysis, the proportion reaching SVR12 with 8-week treatment (410/415; 98·8% [95% CI 97·2 to 99·6]) was non-inferior to 12-week treatment (397/401; 99·0% [97·5 to 99·7]), with a risk difference of 0·2% (-1·5 to 1·9). Further, on intention-to-treat analysis, the proportion of participants reaching SVR12 with 8-week treatment (414/443; 93·5% [90·9 to 95·5]) was non-inferior to 12-week treatment (401/437; 91·8% [88·8 to 94·2]) with a risk difference of -1·7% (-5·2 to 1·9). No participant had any drug-related serious adverse event or drug discontinuation due to an adverse event.<h4>Interpretation</h4>An 8-week regimen of sofosbuvir-velpatasvir was similar in efficacy to the standard 12-week treatment in individuals with chronic HCV infection without cirrhosis. This finding supports shortening the duration of treatment in such patients.<h4>Funding</h4>Indian Council of Medical Research, Department of Health Research, Government of India.
 
+### [Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.](https://doi.org/10.1016/s0140-6736(26)01865-9)
+
+- Source: `lancet_abstracts` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `pmid:42815506`
+
+<h4>Background</h4>Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events.<h4>Methods</h4>This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories. Adults with type 2 diabetes at increased cardiovascular risk with glycated haemoglobin (HbA<sub>1c</sub>) concentrations between 7·0% and 10·5% (53-91 mmol/mol) and a BMI of 25 kg/m<sup>2</sup> or more, treated with up to three glucose-lowering medications (metformin, a sulfonylurea, and/or an SGLT2 inhibitor), were randomly assigned (1:1) to oral orforglipron maximum tolerated dose (up to 36 mg capsule [equivalent to 17·2 mg tablet]) or injectable titrated insulin glargine, each administered once daily. All participants had established cardiovascular or chronic kidney disease. The primary outcome was time to occurrence of four-component major adverse cardiovascular events (MACE-4), including cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalisation for unstable angina. Non-inferiority of orforglipron to insulin glargine was declared if the upper limit of the two-sided 95% CI for the hazard ratio (HR; orforglipron vs insulin glargine) was less than 1·8. The primary endpoint and other safety endpoints were assessed in all participants who took at least one dose of assigned treatment using all datapoints from baseline until withdrawal or study completion, regardless of treatment adherence. This trial was registered on ClinicalTrials.gov (NCT05803421) and is completed.<h4>Findings</h4>Between May 1, 2023, and Sept 5, 2024, 2749 participants were randomly assigned (1371 to orforglipron and 1378 to insulin glargine). 1032 (38%) participants were female and 1717 (62·5%) male. 2362 (85·9%) participants had established cardiovascular disease and 1033 (37·6%) had chronic kidney disease. Mean baseline age, HbA<sub>1c</sub>, and BMI were 63·1 years (SD 9·9), 8·2% (1·0), and 33 kg/m<sup>2</sup> (6·2), respectively. Over a median follow-up of 2 years, the primary outcome occurred in 57 (4·2%) of 1358 orforglipron participants and 67 (5·0%) of 1343 insulin glargine participants, showing non-inferiority to insulin glargine for MACE-4 (HR 0·84; 95% CI 0·59-1·20; p<0·0001 for non-inferiority). Gastrointestinal adverse events were reported in 851 (62·1%) of 1371 orforglipron participants and 193 (14·2%) of 1355 insulin glargine participants; clinically significant or severe hypoglycaemia (glucose <3 mmol/L [54 mg/dL]) occurred in 93 (6·8%) of 1371 orforglipron participants and 260 (19·2%) of 1355 insulin glargine participants. 62 deaths were reported during the study: 19 (1·4%) of 1371 participants receiving orforglipron and 43 (3·2%) of 1355 participants receiving insulin glargine; all deaths except one (in the insulin glargine group) were deemed unrelated to treatment.<h4>Interpretation</h4>In people with type 2 diabetes at increased cardiovascular risk, the cardiovascular safety of orforglipron was confirmed by demonstrating non-inferiority to insulin glargine for MACE-4. Gastrointestinal adverse events were the most frequent adverse event and most common reason for orforglipron treatment discontinuation with orforglipron, while clinically significant hypoglycaemia occurred less frequently with orforglipron than with insulin glargine. These findings support orforglipron as a potential once-daily, oral treatment option with established cardiovascular safety in people with type 2 diabetes and increased cardiovascular risk.<h4>Funding</h4>Eli Lilly and Company.
+
 ### [Development of an Interpretable Triage Tool for Colorectal Polyp Risk Stratification Within a Population-Based Screening Program: Machine Learning Approach](https://medinform.jmir.org/2026/1/e89422)
 
-- Source: `jmir_medinform` · published `2026-09-30` · freshness `fresh`
-- Reading value: `47` · status: `scored`
+- Source: `jmir_medinform` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e89422`
 
 Background: Colorectal polyps are a major source of precancerous lesions in colorectal cancer (CRC). In many population-based screening programs, a major challenge is the efficient triage of high-risk individuals for diagnostic colonoscopy amid limited endoscopic resources. Objective: To enrich current screening frameworks, we aimed to develop an accessible, noninvasive risk stratification tool to serve as a digital triage mechanism for colorectal polyps using machine learning (ML) and routinely collected data in China. Methods: We conducted a cross-sectional study in Wenzhou, China. A total of 4108 individuals (aged 50‐74 y) who were referred for and accepted colonoscopy following an initial population-based risk assessment (questionnaire and fecal test) between May and November 2021 were included. The dataset was split into training and validation sets, and the synthetic minority oversampling technique (SMOTE) was applied only to the training dataset to address class imbalance. Twenty-one noninvasive predictors (lifestyle, dietary, clinical symptoms, and family history) were selected using the Boruta algorithm and least absolute shrinkage and selection operator (LASSO) regression. Nine ML models were evaluated, with the Shapley Additive Explanations (SHAP) method and local interpretable model–agnostic explanations (LIME) used for model interpretability and feature ranking. Results: Among the 9 ML algorithms evaluated, XGBoost (Extreme Gradient Boosting) achieved the highest area under the receiver operating characteristic curve of 0.672, while LightGBM (Light Gradient Boosting Machine) was identified as the optimal model for clinical triage due to its superior recall (0.6503), a key metric for minimizing missed lesions in community screenings. SHAP analysis identified current smoking status, sex, and family history of colorectal polyps as the most influential factors. Notably, the model captured significant nonlinear risk thresholds, such as an age of 50 years and a BMI of 25 kg/m, providing a more granular risk profile than traditional linear models. Conclusions: This study provides a scalable, interpretable triage tool to complement existing 2-step CRC screening protocols. By leveraging only noninvasive variables, the LightGBM model enables prioritized referral for colonoscopy, offering a resource-efficient strategy to optimize CRC prevention in resource-limited settings.
 
+### [Early national comparison of robotic versus conventional hip replacements for arthritis using National Joint Registry data: target trial emulation study.](https://doi.org/10.1136/bmj-2026-100709)
+
+- Source: `bmj_abstracts` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `pmid:42815970`
+
+<h4>Objectives</h4>To evaluate the early comparative effectiveness of robotic versus conventional total hip replacement (THR) in the UK.<h4>Design</h4>Target trial emulation study.<h4>Setting</h4>Public and private hospitals using data from the National Joint Registry of England, Wales, Northern Ireland, the Isle of Man, Guernsey, and Jersey.<h4>Participants</h4>666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.<h4>Main outcome measures</h4>Five year THR implant survival (mean 2.5 year follow-up), all cause revision risk, cause specific revision risk, malpositioning revision risk, intraoperative complications, and patient survival up to five years. Kaplan-Meier survival analysis, Cox proportional hazards regression, and Fine and Gray models were used. Propensity score matching created comparable treatment groups to estimate the average treatment effect in the treated population.<h4>Results</h4>The five year implant survival of the matched conventional and robotic THR groups was 98.8% (95% confidence interval (CI) 98.6% to 99.0%) and 98.8% (CI 98.3% to 99.1%), respectively, with no difference in revision risk between groups (hazard ratio 0.96, 95% CI 0.75 to 1.22; P=0.73). Cause specific revision risk and intraoperative complication risks did not differ between groups. However, a significantly lower risk of revisions related to implant malposition (dislocation, leg length discrepancy, and malalignment) was observed in the robotic group (hazard ratio 0.53, 95% CI 0.30 to 0.93; P=0.03). The five year patient survival of the matched conventional and robotic THR groups was 96.3% (95% CI 95.8% to 96.8%) and 96.2% (95.2% to 97.0%), respectively, with no difference in all cause mortality risk (hazard ratio 1.12, 95% CI 0.95 to 1.34; P=0.17).<h4>Conclusions</h4>No significant differences were found in overall THR or patient survival, cause specific revision, or intraoperative complication risks between robotic and conventional groups. Robotic THR was associated with a lower revision risk from causes related to implant malpositioning. However, the possibility of unmeasured and residual confounding cannot be ruled out owing to the observational design. These results highlight the importance of careful evaluation of robotic technology in publicly funded healthcare systems because of the substantially higher capital and procedural costs.
+
+### [Early national comparison of robotic versus conventional knee replacements for arthritis using National Joint Registry data: target trial emulation study.](https://doi.org/10.1136/bmj-2026-100691)
+
+- Source: `bmj_abstracts` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `pmid:42815981`
+
+<h4>Objective</h4>To evaluate the early comparative effectiveness of robotic versus conventional total knee replacement (TKR) and unicompartmental knee replacement (UKR) in the UK.<h4>Design</h4>Target trial emulation study.<h4>Setting</h4>Public and private hospitals using data from the National Joint Registry of England, Wales, Northern Ireland, the Isle of Man, Guernsey, and Jersey.<h4>Participants</h4>697 145 knee replacement surgeries between 2018 and 2024: 675 034 were conventional (TKRs and UKRs) and 22 111 were robotic.<h4>Main outcome measures</h4>The main outcome was five year knee replacement survival (mean 2.5 years follow-up); all cause revision risk; cause specific revision risk; intraoperative complications; and revision complexity of robotic versus conventional (TKR and UKR) knee replacement. Kaplan-Meier and Cox regression analyses were used to compare implant survival and indications for revision surgery. Propensity score matching using target trial emulation framework was used to estimate the average treatment effect in the treated population.<h4>Results</h4>The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between group difference in revision risk (hazard ratio 1.03, 95% CI 0.86 to 1.26; P=0.71). The five year implant survival of the matched conventional and robotic UKR groups was 97.8% (95% CI 97.2% to 98.3%) and 96.4% (92.4% to 98.3%), respectively, with no between group difference in revision risk (hazard ratio 1.03, 95% CI 0.75 to 1.42; P=0.86). Cause specific revision risk and intraoperative complication risks did not differ between groups for either TKR or UKR.<h4>Conclusions</h4>No statistically significant differences were detected in revision risk, cause specific risk, or intraoperative complication risk between the robotic and conventional groups. This was consistent for both TKR and UKR. The possibility of unmeasured and residual confounding cannot be ruled out, however, owing to the observational design of the study. These results highlight the importance of careful evaluation of robotic technology in publicly funded healthcare systems, given the substantially higher capital and procedural costs involved.
+
 ### [FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees](http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees)
 
-- Source: `fda_press` · published `2026-09-30` · freshness `fresh`
-- Reading value: `52` · status: `needs_review`
+- Source: `fda_press` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees`
 
 The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent bodies that inform some of the most consequential decisions in American public health. As part of an effort to broaden and strengthen participation on its advisory committees, the FDA is publishing two Federal Register notices: one seeking qualified scientific, technical, and professional voting members across all committees with current or anticipated vacancies, and a companion notice seeking consumer representatives to ensure the public’s voice is at the table. “FDA advisory committees bring together leading scientific minds to engage with the most difficult questions in public health. We are actively inviting people from across the country who are on the forefront of their fields — clinicians, researchers, and community voices who can bring the latest science, real-world experience, and fresh perspectives to the FDA’s deliberations,” said Acting FDA Commissioner of Food and Drugs, Kyle Diamantas, J.D. “These panels provide independent expertise and rigorous scrutiny as the FDA navigates complex and rapidly evolving areas of science. The Trump Administration is deeply committed to strengthening the partnership between the FDA and the nation’s brightest minds. Advisory committees are a cornerstone of the FDA’s science-based, transparent regulatory process. These committees and panels bring together scientific experts such as physicians, researchers, biostatisticians, along with patient advocates and consumer representatives to evaluate the evidence on drugs, vaccines, biologics, medical devices, and other FDA-regulated products — providing independent recommendations that help the FDA make well-informed decisions on behalf of the American public. The FDA is recruiting qualified candidates for vacancies spanning multiple scientific domains — from oncology and cardiovascular medicine to neurology, genetics, and medical devices. Interested candidates — whether applying as scientific experts or as consumer representatives — are encouraged to begin the process through the centralized FDA Advisory Committee Membership Nomination application portal. Nominees for scientific and technical voting member positions must demonstrate subject-matter expertise relevant to one or more FDA advisory committees, the ability to interpret complex scientific and technical information, an understanding of the public health significance of issues before the committee, and the capacity to provide objective, independent advice. Nominees for consumer representative positions should have demonstrated affiliation with or active participation in consumer or community-based organizations, and the ability to analyze technical data, discuss benefits and risks, and evaluate product safety and efficacy from a public perspective. The FDA will consider nominations for current and anticipated near-term vacancies and will accept nominations on a continuing basis. To receive first consideration for current and near-term vacancies, nominations for consumer representative positions should be submitted no later than November 15, 2026, and nominations for scientific, technical, professional, and other voting-member positions should be submitted no later than November 30, 2026. Nominations received after these dates will be considered as later vacancies arise. Self-nominations are accepted. Members are invited to serve for terms of up to four years. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
 
+### [Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.](https://doi.org/10.1001/jama.2026.18491)
+
+- Source: `jama_abstracts` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `pmid:42814439`
+
+<h4>Importance</h4>Although metabolic dysfunction-associated steatotic liver disease (MASLD) is traditionally associated with obesity, it is increasingly recognized in individuals with normal weight (ie, lean MASLD).<h4>Objective</h4>To characterize the clinical, histologic, and prognostic features of lean MASLD, and evaluate the performance of noninvasive tests for advanced fibrosis.<h4>Design, setting, and participants</h4>Multinational, retrospective observational study of adults with biopsy-confirmed MASLD from 41 countries from the Global MASLD project.<h4>Exposures</h4>Lean vs overweight/obese MASLD, defined by body mass index (BMI) and waist circumference.<h4>Main outcomes and measures</h4>Primary outcomes were all-cause mortality and clinical events (hepatocellular carcinoma, hepatic decompensation, liver transplant, death), intermediate outcomes included histologic fibrosis severity, and tests included the Fibrosis-4 (FIB-4) score and liver stiffness measurement (LSM) by transient elastography.<h4>Results</h4>Among 18 326 patients (mean [SD] age, 50.9 [13.1] years; 8714 [47.6%] male), 6.7% were lean by BMI. Among 12 202 patients with waist circumference available, 6.0% were lean by waist circumference (κ = 0.41). Lean MASLD was most prevalent in Asia (11.3% by BMI, 11.7% by waist circumference). Compared with overweight/obese MASLD, lean MASLD had lower prevalence of type 2 diabetes (38.2% vs 48.3%; difference, -10.2% [95% CI, -13.0% to -7.4%]), advanced fibrosis (29.3% vs 37.2%; difference, -7.8% [95% CI, -10.5% to -5.2%]), and Non-Alcoholic Fatty Liver Disease Activity Scores (mean [SD], 3.96 [1.81] vs 4.41 [1.68]; difference, -0.44 [95% CI, -0.56 to -0.33]). The FIB-4 demonstrated lower accuracy for predicting advanced fibrosis (F3-F4) in lean vs overweight/obese MASLD (area under the curve, 0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]; difference, -0.03 [95% CI, -0.06 to 0.00]), while LSM had higher accuracy (area under the curve, 0.87 [95% CI, 0.84-0.90] vs 0.83 [95% CI, 0.82-0.84]; difference, 0.04 [95% CI, 0.01-0.07]). Unadjusted rates per 100 person-years in lean vs overweight/obese MASLD were 1.08 vs 0.91 for all-cause mortality and 1.51 vs 1.43 for clinical events, respectively; lean status was not independently associated with all-cause mortality (adjusted hazard ratio [aHR], 0.90 [95% CI, 0.69-1.16]) or clinical events (aHR, 0.94 [95% CI, 0.76-1.17]). Advanced fibrosis (F3-F4) was associated with all-cause mortality (1.46 vs 0.77 per 100 person-years; aHR, 2.10 [95% CI, 1.71-2.57]) and clinical events (3.21 vs 0.89 per 100 person-years; aHR, 3.41 [95% CI, 2.90-4.03]).<h4>Conclusions and relevance</h4>Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was associated with prognosis and LSM was reliable in lean individuals.
+
 ### [Noninvasive Interstitial Glucose Estimation Using Wearables and Machine Learning in Healthy Individuals and Individuals With Obesity: Observational Cohort Study](https://mhealth.jmir.org/2026/1/e91724)
 
-- Source: `jmir_mhealth` · published `2026-09-30` · freshness `fresh`
-- Reading value: `58` · status: `scored`
+- Source: `jmir_mhealth` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e91724`
 
 Background: Continuous glucose monitoring (CGM) can facilitate weight management and lower the risk of metabolic diseases by providing real-time feedback on glycemic responses, thereby enabling more informed lifestyle decisions. However, current CGM systems remain constrained by invasiveness, cost, and short sensor lifespan, limiting their practicality for guiding individualized postprandial low-glycemic diets. Objective: Extending earlier proof-of-concept findings, this study aimed to validate an interstitial glucose (IG) machine learning algorithm in real-world environments using multimodal, continuous data collected from wearable sensors and smartwatches. In the long term, we aim to embed a noninvasive, sensor-based algorithm for estimating tissue glucose within mobile health apps and postprandial low-glycemic diet frameworks to enable scalable, personalized prevention strategies. Methods: We conducted a 2-week study phase during which participants continuously wore 2 noninvasive sensor devices: a scientific sensor wristband (Empatica EmbracePlus) and a commercially available smartwatch (Fitbit Sense 2). As a reference measurement, an invasive CGM sensor (Abbott FreeStyle Libre 3) measured IG levels. For metabolic characterization, 1-point fasting blood and urine samples were collected, and deep phenotyping using state-of-the-art nuclear magnetic resonance spectroscopy and bioelectrical impedance analysis was performed. For participants with overweight and obesity, clinical standard parameters focusing on glucose metabolism were analyzed. Results: A total of 74 participants, 34 (46%) healthy controls and 40 (54%) metabolically at-risk (MR) individuals, simultaneously used an invasive CGM device together with 2 noninvasive wristbands over 2 weeks. Healthy controls were characterized by a mean age of 24.53 (SD 3.68) years and a mean BMI of 22.36 (SD 2.16) kg/m². In contrast, the MR cohort had a mean age of 55.38 (SD 15.08) years and a mean BMI of 35.38 (SD 4.91) kg/m². Furthermore, the MR cohort showed elevated fasting glucose levels (mean 107.56, SD 19.26 mg/dL), hemoglobin A levels (mean 5.67%, SD 0.63%), and an increased homeostatic model assessment of insulin resistance index (mean 4.34, SD 3.49), indicating a disturbed glucose metabolism. The proposed long short-term memory network based on feature vectors obtained the best IG prediction performance, with an average root-mean-squared error of 21.04 (SD 8.32) mg/dL and 98.3% of predictions in zones A and B of the Clarke error grid analysis, representing a high level of predictive accuracy. In addition, based on data from a smartwatch, we achieved a comparable average root-mean-squared error of 23.49 (SD 11.46) mg/dL for the overall cohort. Conclusions: This study demonstrates that IG levels can be predicted from multimodal, noninvasive wearable sensor data using a machine learning approach under real-world conditions. While further validation in larger and more diverse cohorts is warranted, this approach represents a promising step toward accessible, personalized glycemic monitoring and dietary guidance as a preventive tool in mobile health apps.
 
 ### [Technology-Enhanced Health Care in Smart Homes: Scoping Review of Sensor Technologies, Clinical Applications, Integration Challenges, and Future Directions](https://medinform.jmir.org/2026/1/e89189)
 
-- Source: `jmir_medinform` · published `2026-09-30` · freshness `fresh`
-- Reading value: `48` · status: `scored`
+- Source: `jmir_medinform` · published `2026-09-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e89189`
 
 Background: Smart home technologies integrated with technology-enhanced health care (TEH) systems are transforming residential care by supporting independent living, continuous health monitoring, and remote clinical interventions. The Internet of Medical Things, wearable biosensors, and AI-driven analytics enable proactive health care delivery and personalized interventions, particularly for older adults and individuals with chronic conditions. Objective: This review synthesizes literature on TEH integration within smart homes, examining global deployment patterns, technological maturity, biomedical sensor integration, machine learning applications, and health outcomes. It also identifies implementation challenges and disparities to improve digital health care strategies. Methods: A scoping review was conducted across PubMed, Scopus, Web of Science, ScienceDirect, and IEEE Xplore for peer-reviewed studies published between January 2005 and February 2025. Following screening of 6276 records, 169 studies were included, covering experimental, qualitative, and system design methodologies. Data were extracted on geographic deployment, sensor types, TEH architectures, machine learning algorithms, clinical outcomes, and adoption barriers. Results: TEH adoption is concentrated in Europe, East and Southeast Asia, and higher-income countries, with potential emerging initiatives in West Asia in lower-income regions. Smart home maturity ranges from foundational systems with basic automation to connected ecosystems with centralized Internet of Things coordination, and intelligent systems with data-driven adaptive monitoring. The literature was synthesized across thematic domains, including sensor technologies, smart home infrastructure, predictive analytics, telehealth integration, and ethical and regulatory considerations, and interpreted through a 3-level maturity taxonomy of foundational, connected, and intelligent smart home systems. Integration of biomedical sensors can enable continuous monitoring of cardiovascular, respiratory, neurological, metabolic, and mobility parameters, while machine learning algorithms can support early disease detection, predictive health analytics, activity recognition, and personalized interventions. Evidence from current literature indicates remote monitoring improves early detection of health issues, chronic disease management, medication adherence, and psychological well-being. Several studies reported that remote monitoring systems improved early detection of health deterioration, chronic disease management, medication adherence, and patient well-being. Adoption barriers include interoperability challenges, data privacy, digital literacy gaps, social and economic disparities, and long-term sustainability concerns. Conclusions: Unlike previous work, this review emphasizes practical adoption barriers, interoperability challenges, and equity considerations alongside sensor performance and system integration. The key significance in this scoping review is how it highlights technological trends and implementation patterns while mapping global deployments of TEH smart homes through encompassing wearable and environmental systems. It demonstrates realistic integration scenarios and how it enhances independent living, preventive care, and personalized health management while reducing hospitalizations and health care costs. It demonstrates how widespread implementation requires standardized evaluation frameworks, robust interoperability, adaptable design, equitable access, and clinically friendly integration. By addressing technical, social, and regulatory challenges, smart home systems can achieve scalable, sustainable, and effective digital health care delivery.
@@ -2356,7 +2356,7 @@ Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 start
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01806-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01806-4`
 
 No summary supplied by the source.
 
@@ -2428,7 +2428,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
 
 No summary supplied by the source.
 
@@ -2468,7 +2468,7 @@ Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01798-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01798-1`
 
 No summary supplied by the source.
 
@@ -2668,7 +2668,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
 
 No summary supplied by the source.
 
@@ -2700,7 +2700,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
 
 No summary supplied by the source.
 
@@ -2740,7 +2740,7 @@ Zenflow said Monday it has raised $52 million and partnered with Cook Medical to
 
 - Source: `nature_biomedical_engineering` · published `2026-10-07` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
 
 No summary supplied by the source.
 
@@ -3112,14 +3112,6 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.
 
-### [STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease](https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `64` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss`
-
-Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder.
-
 ### [STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process](https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
@@ -3196,7 +3188,7 @@ This story has been updated. The Trump administration announced Thursday that it
 
 - Source: `nature_biomedical_engineering` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
 
 No summary supplied by the source.
 
@@ -3212,7 +3204,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03308-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03308-8`
 
 No summary supplied by the source.
 
@@ -3276,7 +3268,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03333-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03333-7`
 
 No summary supplied by the source.
 
@@ -3294,13 +3286,13 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants`
 
-Hacker News community signal; score 98.
+Hacker News community signal; score 155.
 
 ### [Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model](https://www.nature.com/articles/s41746-026-03387-7)
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03387-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03387-7`
 
 No summary supplied by the source.
 
@@ -3324,7 +3316,7 @@ Background: Attention-deficit/hyperactivity disorder (ADHD) is a common neurodev
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03141-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03141-z`
 
 No summary supplied by the source.
 
@@ -3335,6 +3327,14 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e81713`
 
 <strong>Background:</strong> Ecological momentary assessment (EMA) methods can provide assessment of alcohol-related beliefs and behaviors when people are in their natural environments. An increasingly common EMA approach involves the use of passive sensors (eg, continuous sharing of Bluetooth and GPS cell phone data) to collect rich data and trigger alcohol assessment in specific contexts. While collecting real-time assessments allows researchers to explore contextual factors impacting alcohol use, there is a lack of research examining compliance rates to alcohol-related EMAs that use daily questions for study periods over 2 weeks. EMAs over longer periods allow researchers to assess meaningful changes over time and sample low-base-rate events. Further, there is limited research exploring how EMA compliance is influenced by individual-level factors (eg, privacy concerns and alcohol use). Identifying factors associated with compliance can help inform EMA protocol design. <strong>Objective:</strong> This study had 2 primary goals. First, we add to the literature by examining the feasibility and acceptability of a 60-day college student alcohol-EMA that uses phone-based, passive sensors. Second, we examined whether compliance was associated with event-level alcohol use, privacy concerns, and types of questions asked (ie, questions triggered by time or GPS location). <strong>Methods:</strong> College students (N=68) who reported regular alcohol use completed the 60-day EMA study. At baseline, participants completed an online survey that included an assessment of privacy concerns. During the study period, participants completed up to 15 questions a day, including evening and morning self-reports of alcohol use. Feasibility was assessed based on enrollment, retention, and compliance rates. Acceptability was examined at the end of the study period using open- and close-answered questions on perceptions of the EMA experience. <strong>Results:</strong> The findings supported the feasibility of the 60-day EMA with enrollment exceeding benchmarks and high compliance across the study period (average compliance=90%). Overall, students found the protocol acceptable with 88% (58/66) indicating that they would be willing to complete another EMA study. Participants’ compliance was not associated with alcohol use at the event-level (odds ratio [OR] 0.94, 95% CI 0.80-1.10) or at the trait level (OR 0.92, 95% CI 0.73-1.17). Participants’ compliance was greater for time-trigger assessment than GPS-triggered questions (<i>P</i>&lt;.001). Privacy concerns were not associated with reduced responding. <strong>Conclusions:</strong> This study has implications for those designing alcohol EMAs for college populations that involve the use of passive sensors, including recommendations for balancing predictable timing of questions and variability in question content.
+
+### [Five months treating bugs like patients and coding agents like a medical team](https://www.cockroachlabs.com/blog/experiment-running-hospital-code/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-09` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.cockroachlabs.com/blog/experiment-running-hospital-code/`
+
+Hacker News community signal; score 36.
 
 ### [Healthcare organizations are underprepared for quantum computing threats](https://www.medtechdive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832528/)
 
@@ -3364,7 +3364,7 @@ The Trump administration wants to make three big changes to the U.S. Census, inc
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03350-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03350-6`
 
 No summary supplied by the source.
 
@@ -3372,7 +3372,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03376-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03376-w`
 
 No summary supplied by the source.
 
@@ -3463,6 +3463,14 @@ Background: The pharmaceutical industry faces unprecedented challenges, includin
 - Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-pip-compliance-verification-procedure-ema-paediatric-rewards_en.pdf`
 
 Questions and answers on the PIP compliance verification procedure at EMA, and on paediatric rewards
+
+### [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart)
+
+- Source: `hn_ai_health_signals` · published `2026-10-09` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://ndstudio.gov/posts/say-hello-to-rampart`
+
+Hacker News community signal; score 67.
 
 ### [Spatial Heterogeneity of Digital HIV/AIDS Stigma in China: Cross-Sectional Ecological Study](https://www.jmir.org/article/view/jmir_v28i1e93007)
 
@@ -3564,7 +3572,7 @@ As the midterm elections draw near, the MAHA movement is nearly invisible on the
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03325-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03325-7`
 
 No summary supplied by the source.
 
@@ -3624,11 +3632,35 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 
 AI companies can build durable moats by embedding their products in essential customer workflows, explains tech adviser Itay Sagie, who shares why founders should prioritize measurable customer dependence, while investors and acquirers should assess how integrations, trusted relationships and workflow access can strengthen retention and drive growth.
 
+### [Americans trust science more than peers around the world, survey shows](https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-10` · freshness `fresh`
+- Reading value: `35` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss`
+
+Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.
+
+### [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
+
+- Source: `hn_ai_health_signals` · published `2026-10-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis`
+
+Hacker News community signal; score 167.
+
+### [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
+
+- Source: `hn_ai_health_signals` · published `2026-10-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a`
+
+Hacker News community signal; score 105.
+
 ### [VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models](https://www.nature.com/articles/s41746-026-03373-z)
 
 - Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03373-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03373-z`
 
 No summary supplied by the source.
 
