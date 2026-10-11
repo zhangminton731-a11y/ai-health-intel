@@ -2396,7 +2396,7 @@ Oral disease and malnutrition are common and closely linked problems in long-ter
 
 - Source: `nature_medicine` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04696-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04696-w`
 
 No summary supplied by the source.
 
@@ -2444,7 +2444,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04713-y`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04713-y`
 
 No summary supplied by the source.
 
@@ -2524,7 +2524,7 @@ Background: Personalizing physical activity recommendations for older adults req
 
 - Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04626-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04626-w`
 
 No summary supplied by the source.
 
@@ -2604,7 +2604,7 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 - Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04704-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04704-z`
 
 No summary supplied by the source.
 
@@ -2636,7 +2636,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04706-x`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04706-x`
 
 No summary supplied by the source.
 
@@ -2908,7 +2908,7 @@ The U.K.’s medical products regulator on Tuesday backed recommendations relate
 
 - Source: `nature_medicine` · published `2026-10-08` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04709-8`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04709-8`
 
 No summary supplied by the source.
 
@@ -3236,7 +3236,7 @@ Active startup investors largely kept up or increased their dealmaking pace in t
 
 - Source: `nature_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04736-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04736-5`
 
 No summary supplied by the source.
 
@@ -3252,7 +3252,7 @@ Background: AI technologies are currently experiencing significant growth in dev
 
 - Source: `nature_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04691-1`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04691-1`
 
 No summary supplied by the source.
 
@@ -3286,7 +3286,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants`
 
-Hacker News community signal; score 155.
+Hacker News community signal; score 162.
 
 ### [Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model](https://www.nature.com/articles/s41746-026-03387-7)
 
@@ -3332,9 +3332,9 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.cockroachlabs.com/blog/experiment-running-hospital-code/`
+- Event: `updated` · identity: `url:https://www.cockroachlabs.com/blog/experiment-running-hospital-code/`
 
-Hacker News community signal; score 36.
+Hacker News community signal; score 111.
 
 ### [Healthcare organizations are underprepared for quantum computing threats](https://www.medtechdive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832528/)
 
@@ -3468,9 +3468,9 @@ Questions and answers on the PIP compliance verification procedure at EMA, and o
 
 - Source: `hn_ai_health_signals` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://ndstudio.gov/posts/say-hello-to-rampart`
+- Event: `updated` · identity: `url:https://ndstudio.gov/posts/say-hello-to-rampart`
 
-Hacker News community signal; score 67.
+Hacker News community signal; score 83.
 
 ### [Spatial Heterogeneity of Digital HIV/AIDS Stigma in China: Cross-Sectional Ecological Study](https://www.jmir.org/article/view/jmir_v28i1e93007)
 
@@ -3636,7 +3636,7 @@ AI companies can build durable moats by embedding their products in essential cu
 
 - Source: `stat_news_feed` · published `2026-10-10` · freshness `fresh`
 - Reading value: `35` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss`
 
 Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.
 
@@ -3644,17 +3644,17 @@ Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and 
 
 - Source: `hn_ai_health_signals` · published `2026-10-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis`
+- Event: `updated` · identity: `url:https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis`
 
-Hacker News community signal; score 167.
+Hacker News community signal; score 184.
 
 ### [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
 - Source: `hn_ai_health_signals` · published `2026-10-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a`
+- Event: `updated` · identity: `url:https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a`
 
-Hacker News community signal; score 105.
+Hacker News community signal; score 156.
 
 ### [VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models](https://www.nature.com/articles/s41746-026-03373-z)
 
