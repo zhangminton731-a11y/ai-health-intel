@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-11
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 456
+> Daily status: **complete_with_warning** · sources 26/26 · items 455
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -70,7 +70,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 449
+## Archive · 448
 
 ### [Professor Ioannis Yannas, pioneer of regenerative medicine who invented artificial skin for the treatment of severe burns, dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
@@ -2396,7 +2396,7 @@ Oral disease and malnutrition are common and closely linked problems in long-ter
 
 - Source: `nature_medicine` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04696-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04696-w`
 
 No summary supplied by the source.
 
@@ -2444,7 +2444,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04713-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04713-y`
 
 No summary supplied by the source.
 
@@ -2524,7 +2524,7 @@ Background: Personalizing physical activity recommendations for older adults req
 
 - Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04626-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04626-w`
 
 No summary supplied by the source.
 
@@ -2604,7 +2604,7 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 - Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04704-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04704-z`
 
 No summary supplied by the source.
 
@@ -2636,7 +2636,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04706-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04706-x`
 
 No summary supplied by the source.
 
@@ -2908,7 +2908,7 @@ The U.K.’s medical products regulator on Tuesday backed recommendations relate
 
 - Source: `nature_medicine` · published `2026-10-08` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04709-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04709-8`
 
 No summary supplied by the source.
 
@@ -3204,7 +3204,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03308-8`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03308-8`
 
 No summary supplied by the source.
 
@@ -3236,7 +3236,7 @@ Active startup investors largely kept up or increased their dealmaking pace in t
 
 - Source: `nature_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04736-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04736-5`
 
 No summary supplied by the source.
 
@@ -3252,7 +3252,7 @@ Background: AI technologies are currently experiencing significant growth in dev
 
 - Source: `nature_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04691-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04691-1`
 
 No summary supplied by the source.
 
@@ -3263,14 +3263,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ai-use-on-existing-radiology-reports-sees-360-rise-in-steatotic-liver-patient-identification/`
 
 <p>Using its AIRE platform, Briya identified an additional 4,036 patients with a steatotic liver, expanding the relevant study population from 1,122 to 5,158 patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ai-use-on-existing-radiology-reports-sees-360-rise-in-steatotic-liver-patient-identification/">AI’s use on existing radiology reports sees 360% rise in steatotic liver patient identification</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Artificial intelligence for opportunistic osteoporosis screening on chest radiographs](https://www.nature.com/articles/s41746-026-03333-7)
-
-- Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03333-7`
-
-No summary supplied by the source.
 
 ### [Boston sues J&J subsidiary over alleged patent infringement for cardiology device](https://www.medicaldevice-network.com/news/boston-sues-jj-subsidiary-over-alleged-patent-infringement-for-cardiology-device/)
 
@@ -3286,13 +3278,13 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants`
 
-Hacker News community signal; score 162.
+Hacker News community signal; score 170.
 
 ### [Early prediction of prolonged ICU stay in sepsis patients using an explainable hybrid deep learning model](https://www.nature.com/articles/s41746-026-03387-7)
 
 - Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03387-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03387-7`
 
 No summary supplied by the source.
 
@@ -3312,14 +3304,6 @@ Background: Attention-deficit/hyperactivity disorder (ADHD) is a common neurodev
 
 &lt;strong&gt;Background:&lt;/strong&gt; Limited recent literature has evaluated the use of large language models (LLMs) in the qualitative analysis of health data; more research is needed to expand the generalizability of LLM use and to evaluate potential ethical considerations. &lt;strong&gt;Objective:&lt;/strong&gt; Our research sought to (1) describe the process of using AI to analyze qualitative in-depth interview data, (2) identify similarities and differences between the human and AI-generated analyses to compare the quality and rigor of the two techniques and describe the strengths and weaknesses of each approach, and (3) make recommendations regarding the bounds of ethics and the role of researcher bias in AI-assisted qualitative research. &lt;strong&gt;Methods:&lt;/strong&gt; Nested within a larger mixed methods study, 17 Ugandan women recovering from female genital fistula surgery participated in hour-long semistructured interviews exploring their mental, physical, and overall health trajectories. Each interview lasted about an hour and was audio-recorded. Following translation and transcription, the data underwent thematic analysis by humans and by Versa, a University of California, San Francisco (UCSF) developed LLM powered by ChatGPT-4o. The AI analysis was conducted using 2 strategies: inductively and deductively. Finally, the analytic outputs were compared by MP and reviewed by AME and MG to evaluate the code frequency and alignment (most frequently used codes and equivalent concepts vs unique concepts between human and AI codes), thematic robustness (differentiation of distinct concepts and labels that convey substantive findings), analysis quality (narrative depth and excerpt accuracy), and efficiency of each method (total person-hours spent on comparable analytic tasks). &lt;strong&gt;Results:&lt;/strong&gt; A comparative analysis revealed significant thematic overlap between the human-synthesized and AI-generated outputs, though notable differences in granularity and efficiency emerged. When inductively coding, Versa identified 39 codes, whereas human researchers used a more expansive set of 54 codes. While Versa’s thematic analyses were generally accurate regarding how the interview data were represented in the analyses, the human-synthesized analysis was more robust because it incorporated compelling excerpts, and the summary content provided greater depth and range that the Versa analyses lacked. The disparity in efficiency was stark: the human analysis took approximately 15 hours to complete, while Versa produced the analysis in about 2.5 hours. &lt;strong&gt;Conclusions:&lt;/strong&gt; While Versa significantly expedited the initial coding phase, it still relied heavily on human researchers to create appropriate prompts and input all the data into the chat. Versa’s inability to replicate the narrative depth and description of human synthesis suggests that LLMs currently lack the interpretive sensitivity required to capture the lived experiences. Using Versa alone does not currently yield a high-quality analysis; significant human engagement is needed to maintain ethical and interpretive rigor. &lt;strong&gt;Trial Registration:&lt;/strong&gt; ClinicalTrials.gov NCT05437939; https://clinicaltrials.gov/study/NCT05437939 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/41f7db43dcd0ce7eee1cd1ab5d27c33f" />
 
-### [Expanding the functional scope of AI-driven rehabilitation exergames: multimodal biofeedback and adaptive safety monitoring](https://www.nature.com/articles/s41746-026-03141-z)
-
-- Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03141-z`
-
-No summary supplied by the source.
-
 ### [Exploring College Students’ Compliance During a 60-Day Alcohol-Related Ecological Momentary Assessment Using Location- and Time-Based Questions: Prospective Observational Study](https://mhealth.jmir.org/2026/1/e81713)
 
 - Source: `jmir_mhealth` · published `2026-10-09` · freshness `fresh`
@@ -3334,7 +3318,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.cockroachlabs.com/blog/experiment-running-hospital-code/`
 
-Hacker News community signal; score 111.
+Hacker News community signal; score 164.
 
 ### [Healthcare organizations are underprepared for quantum computing threats](https://www.medtechdive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832528/)
 
@@ -3359,22 +3343,6 @@ Background: Mobile mental health (MH) apps are increasingly promoted as tools fo
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss`
 
 The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen&#8230;
-
-### [Human-validated LLM-assisted assessment of a large-scale online precision medicine course in diabetes](https://www.nature.com/articles/s41746-026-03350-6)
-
-- Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03350-6`
-
-No summary supplied by the source.
-
-### [Integrating generative artificial intelligence facilitates faculty interaction network and role transition in a biostatistics curriculum](https://www.nature.com/articles/s41746-026-03376-w)
-
-- Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03376-w`
-
-No summary supplied by the source.
 
 ### [Magnitude and Moderators of Depressive Symptom Improvement in Digital Placebo Arms: Systematic Review and Meta-Analysis](https://www.jmir.org/article/view/jmir_v28i1e100426)
 
@@ -3470,7 +3438,7 @@ Questions and answers on the PIP compliance verification procedure at EMA, and o
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://ndstudio.gov/posts/say-hello-to-rampart`
 
-Hacker News community signal; score 83.
+Hacker News community signal; score 89.
 
 ### [Spatial Heterogeneity of Digital HIV/AIDS Stigma in China: Cross-Sectional Ecological Study](https://www.jmir.org/article/view/jmir_v28i1e93007)
 
@@ -3568,14 +3536,6 @@ As the midterm elections draw near, the MAHA movement is nearly invisible on the
 
 <p>SurGenTec has entered into an exclusive licence agreement with Allevion Medical to acquire the rights to the Vantage spinal decompression system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/surgentec-licence-deal-allevion-vantage/">SurGenTec signs licence deal with Allevion for Vantage</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [The complexity paradox of generalist AI agents in medicine: exploring GPT-5 for real-world multimodal medical diagnosis](https://www.nature.com/articles/s41746-026-03325-7)
-
-- Source: `npj_digital_medicine` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03325-7`
-
-No summary supplied by the source.
-
 ### [The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how](https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
@@ -3640,13 +3600,29 @@ AI companies can build durable moats by embedding their products in essential cu
 
 Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.
 
-### [FDA may allow some toxic chemicals to be added to food without safety review](https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis)
+### [Artificial intelligence across the medical education continuum: institutional, learning, readiness and safety systems](https://www.nature.com/articles/s41746-026-03362-2)
 
-- Source: `hn_ai_health_signals` · published `2026-10-10` · freshness `fresh`
+- Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03362-2`
 
-Hacker News community signal; score 184.
+No summary supplied by the source.
+
+### [FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations](https://www.nature.com/articles/s41746-026-03348-0)
+
+- Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03348-0`
+
+No summary supplied by the source.
+
+### [Longitudinal actigraphy reveals healthy maturation of preterm infants in the neonatal intensive care unit](https://www.nature.com/articles/s41746-026-03347-1)
+
+- Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03347-1`
+
+No summary supplied by the source.
 
 ### [Nvidia in talks to acquire US 'open' model startup Reflection AI](https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a)
 
@@ -3654,13 +3630,29 @@ Hacker News community signal; score 184.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a`
 
-Hacker News community signal; score 156.
+Hacker News community signal; score 169.
+
+### [Six pragmatic steps to separate medical GenAI’s promise from its inherent dangers](https://www.nature.com/articles/s41746-026-03384-w)
+
+- Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03384-w`
+
+No summary supplied by the source.
 
 ### [VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models](https://www.nature.com/articles/s41746-026-03373-z)
 
 - Source: `npj_digital_medicine` · published `2026-10-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03373-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03373-z`
+
+No summary supplied by the source.
+
+### [Photography-based dental plaque detection and report generation among preschool children using PlaqueSAM](https://www.nature.com/articles/s41746-026-03385-9)
+
+- Source: `npj_digital_medicine` · published `2026-10-11` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03385-9`
 
 No summary supplied by the source.
 
