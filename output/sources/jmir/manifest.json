@@ -2,19 +2,9 @@
   "checks": [
     {
       "attempt": 1,
-      "content_type": "text/html",
-      "elapsed_ms": 775,
-      "error_code": "server_error",
-      "final_url": "https://www.jmir.org/feed/rss",
-      "http_status": 502,
-      "kind": "rss_fetch",
-      "retry_delay_seconds": 5.61
-    },
-    {
-      "attempt": 2,
       "bytes_read": 40205,
       "content_type": "application/rdf+xml",
-      "elapsed_ms": 478,
+      "elapsed_ms": 419,
       "error_code": null,
       "final_url": "https://www.jmir.org/feed/rss",
       "http_status": 200,
@@ -27,13 +17,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 6866,
+  "elapsed_ms": 420,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-11T14:04:07+00:00",
+  "generated_at": "2026-10-12T00:32:50+00:00",
   "item_count": 10,
-  "last_checked_at": "2026-10-11T14:04:07+00:00",
-  "last_success_at": "2026-10-11T14:04:07+00:00",
+  "last_checked_at": "2026-10-12T00:32:50+00:00",
+  "last_success_at": "2026-10-12T00:32:50+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",

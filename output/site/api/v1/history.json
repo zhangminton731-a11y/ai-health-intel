@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-11T14:04:07+00:00",
-  "as_of": "2026-10-11",
+  "generated_at": "2026-10-12T00:32:50+00:00",
+  "as_of": "2026-10-12",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -48,7 +48,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -179,7 +179,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -230,7 +230,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -280,7 +280,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -330,7 +330,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -381,7 +381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -432,7 +432,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -479,7 +479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -613,7 +613,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -745,7 +745,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -795,7 +795,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -846,7 +846,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -898,7 +898,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -950,7 +950,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -999,7 +999,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1052,7 +1052,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1182,7 +1182,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1312,7 +1312,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1360,7 +1360,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1411,7 +1411,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1463,7 +1463,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1512,9 +1512,398 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-01",
       "reasons": {},
+      "historical": true
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "t": "FDA 批准首个旨在与儿童一起成长的心脏瓣膜",
+      "te": "FDA Approves First Heart Valve Designed to Grow with Children",
+      "s": "美国食品和药物管理局今天批准了 Autus 尺寸可调瓣膜，这是一种通过手术植入肺心瓣膜，用于患有先天性肺动脉瓣疾病的儿科患者。这种创新设备可能会减少患有心脏缺陷的儿童重复进行心脏直视手术的需要，这反映了特朗普政府致力于将突破性医疗技术尽快、安全地推向市场的承诺。 Autus 尺寸可调瓣膜是第一个设计为在手术后扩张以跟上儿童生长的心脏瓣膜，也是美国批准的第一个在其内瓣（称为小叶）使用聚合材料而不是动物源性组织的瓣膜。",
+      "se": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease. This innovative device may reduce the need for repeat open-heart surgeries in children with heart defects, reflecting the Trump Administration’s commitment to bringing breakthrough medical technologies to market as quickly and safely as possible. The Autus Size-Adjustable Valve is the first heart valve designed to be expanded after surgery to keep pace with a child’s growth, and the first valve approved in the U.S. to use polymeric material rather than animal-derived tissue for its inner flaps (called leaflets).",
+      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "image": "",
+      "src": "FDA · 官方公告",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-04T08:37:08+00:00",
+        "input_hash": "6b726b0dd85b1d26255b442fe6d7b37a4fac73ae7807c484ddbcb67493f24821",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA首次批准可随儿童生长扩张、且采用聚合物瓣叶的人工肺动脉瓣，属于已落地的监管审批与产品上市事实，器械与儿科心脏产业读者可据此判断同类创新器械的审评路径与市场机会。限制是临床证据仅来自62例、随访一年以内的单臂研究，长期扩张效果与耐久性仍待后续研究验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004163658470ddf0d87b9400d",
+              "seconds": 10.2,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 22
+                },
+                "prompt_tokens": 2030,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2230
+              }
+            },
+            "support": "The Autus Size-Adjustable Valve is the first heart valve designed to be expanded after surgery to keep pace with a child’s growth, and the first valve approved in the U.S. to use polymeric material ra",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004163705d24ec1117c8d48fd",
+              "seconds": 5.19,
+              "usage": {
+                "completion_tokens": 164,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 27
+                },
+                "prompt_tokens": 2030,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2194
+              }
+            },
+            "support": "approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease",
+            "total": 73
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-01",
+      "reasons": {
+        "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42820639",
+      "t": "Survodutide 每周一次用于肥胖和 2 型糖尿病成人。",
+      "te": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.",
+      "s": "背景 对于同时患有 2 型糖尿病和肥胖症的人来说，体重管理可能是治疗 2 型糖尿病最有效的疗法。根据治疗方案估计值（无论试验方案是否停止或中断，或者是否使用其他抗肥胖疗法，均评估效果），第 76 周时的平均体重变化在 3.6 mg 组中为 -8.2%（95% 置信区间 [CI]，-9.2 至 -7.2），在 6.0 mg 组中为 -9.8%（95% CI，-10.8 至 -8.8），安慰剂组为-3.9%（95% CI，-4.9至-2.9）；分别有 57.6%、64.5% 和 35.1% 的参与者体重减轻至少 5%（与安慰剂相比，P < 0.001）。",
+      "se": "Background For persons living with both type 2 diabetes and obesity, weight management may be the most effective therapy for type 2 diabetes. The mean weight change at week 76 according to the treatment-regimen estimand (which assessed effects regardless of whether the trial regimen was discontinued or interrupted or whether other antiobesity therapies were used) was -8.2% (95% confidence interval [CI], -9.2 to -7.2) in the 3.6-mg group, -9.8% (95% CI, -10.8 to -8.8) in the 6.0-mg group, and -3.9% (95% CI, -4.9 to -2.9) in the placebo group; weight reduction of at least 5% occurred in 57.6%, 64.5%, and 35.1% of the participants, respectively (P < 0.001 for all comparisons with placebo).",
+      "u": "https://doi.org/10.1056/nejmoa2607219",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42820639",
+        "upstream_id": "42820639"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:21:23+00:00",
+        "input_hash": "457ee52fca702bf4768ddb7509f9148a4a980b2fd3095b58eb6cb60c9d49665a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041621110c8843219ac74c4a",
+              "seconds": 4.72,
+              "usage": {
+                "completion_tokens": 176,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1336,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1512
+              }
+            },
+            "support": "In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "SYNCHRONIZE-2三期双盲RCT（n=752）报告GLP-1/胰高血糖素双激动剂survodutide在肥胖合并2型糖尿病人群中76周减重显著优于安慰剂，为该新机制药物提供了直接临床证据。局限为材料为摘要级，仅有减重终点，长期心血管结局、安全性细节及与已上市GLP-1药物的头对头比较未呈现。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610041621167de5db6dd6284dc6",
+              "seconds": 7.2,
+              "usage": {
+                "completion_tokens": 183,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1336,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1519
+              }
+            },
+            "support": "In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo.",
+            "total": 76
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-01",
+      "reasons": {
+        "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42814929",
+      "t": "吉瑞德群联合依维莫司治疗晚期乳腺癌。",
+      "te": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
+      "s": "背景 Giredestrant 和依维莫司分别靶向雌激素受体 (ER) 途径和磷脂酰肌醇 3-激酶 (PI3K)-蛋白激酶 B (AKT)-哺乳动物雷帕霉素靶点 (mTOR) 途径，这与内分泌治疗耐药有关。在 207 名 ESR1 突变肿瘤患者中，吉立群-依维莫司组的中位无进展生存期为 10.0 个月，而标准治疗-依维莫司组的中位无进展生存期为 5.5 个月（疾病进展或死亡的风险比，0.38；95% 置信区间 [CI]，0.27 至 0.54；P < 0.001）。",
+      "se": "Background Giredestrant and everolimus target the estrogen receptor (ER) pathway and the phosphatidylinositol 3-kinase (PI3K)-protein kinase B (AKT)-mammalian target of rapamycin (mTOR) pathway, respectively, which are implicated in endocrine-therapy resistance. Among 207 patients with ESR1 -mutated tumors, the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for disease progression or death, 0.38; 95% confidence interval [CI], 0.27 to 0.54; P < 0.001).",
+      "u": "https://doi.org/10.1056/nejmoa2602457",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42814929",
+        "upstream_id": "42814929"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-04T08:21:23+00:00",
+        "input_hash": "1e2f4376ba8c6e3d4f6649647e61b04f9bb1a2e919ec083b433d6b054500e7c3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162111d7ca7465fc784a94",
+              "seconds": 4.42,
+              "usage": {
+                "completion_tokens": 200,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1263,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1463
+              }
+            },
+            "support": "Among 207 patients with ESR1 -mutated tumors, the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for diseas",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "III期随机对照试验（evERA）显示全口服giredestrant联合everolimus在CDK4/6抑制剂经治的ER阳性/HER2阴性晚期乳腺癌中显著延长PFS，ESR1突变人群尤甚（HR 0.38），可直接改变内分泌耐药后的二线方案选择与后续试验设计；局限为开放标签、研究者评估PFS、总生存数据未成熟。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261004162115e993b6ee65644301",
+              "seconds": 7.66,
+              "usage": {
+                "completion_tokens": 212,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1263,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 1475
+              }
+            },
+            "support": "the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for disease progression or death, 0.38; 95% confidence i",
+            "total": 78
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-01",
+      "reasons": {
+        "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
+      },
       "historical": true
     },
     {
@@ -1556,7 +1945,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1603,7 +1992,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1654,7 +2043,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1706,7 +2095,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1757,7 +2146,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1806,7 +2195,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1855,7 +2244,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1903,7 +2292,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -1953,7 +2342,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2004,7 +2393,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2056,7 +2445,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2107,7 +2496,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2159,7 +2548,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2211,7 +2600,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2257,7 +2646,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2303,7 +2692,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2355,7 +2744,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2483,7 +2872,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
@@ -2614,7 +3003,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
@@ -2745,7 +3134,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
@@ -2872,7 +3261,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
@@ -2921,7 +3310,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3054,7 +3443,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -3103,7 +3492,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3146,7 +3535,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3198,7 +3587,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3247,7 +3636,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3297,7 +3686,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3345,7 +3734,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3398,7 +3787,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3449,7 +3838,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3498,7 +3887,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3547,7 +3936,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3591,7 +3980,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3721,7 +4110,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
@@ -3855,7 +4244,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
@@ -3903,7 +4292,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -3950,7 +4339,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4001,7 +4390,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4050,7 +4439,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4100,7 +4489,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4148,7 +4537,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4199,7 +4588,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4249,7 +4638,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4296,7 +4685,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4344,7 +4733,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4393,7 +4782,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4520,7 +4909,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
@@ -4651,7 +5040,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
@@ -4779,7 +5168,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
@@ -4827,7 +5216,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
@@ -4872,7 +5261,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4920,7 +5309,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -4968,7 +5357,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5014,7 +5403,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5064,7 +5453,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5112,7 +5501,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5161,7 +5550,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5212,7 +5601,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5258,7 +5647,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5306,7 +5695,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5352,7 +5741,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5403,7 +5792,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5531,7 +5920,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
@@ -5576,7 +5965,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5628,7 +6017,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5677,7 +6066,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5728,7 +6117,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5778,7 +6167,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5821,7 +6210,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {},
       "historical": true
@@ -5949,7 +6338,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-24",
       "reasons": {
         "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
@@ -5995,7 +6384,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -6045,7 +6434,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -6096,7 +6485,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-23",
       "reasons": {},
       "historical": true
@@ -6143,7 +6532,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -6188,7 +6577,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -6231,7 +6620,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-22",
       "reasons": {},
       "historical": true
@@ -6282,254 +6671,8 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-22",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e92493",
-      "t": "使用仪器鞋垫监测骨折愈合或骨不连患者的胫骨或踝骨折愈合情况的定时 Up-and-Go 测试：纵向和横断面探索性研究",
-      "te": "Timed Up-and-Go Test Using Instrumented Insoles to Monitor Tibial or Malleolar Fracture Healing in Patients With Healing Fractures or Nonunion: Longitudinal and Cross-Sectional Exploratory Study",
-      "s": "结论：这项研究表明使用功能结果来识别有骨不连风险的患者的潜力。额外的任务和功能结果需要进一步调查。试验注册：德国临床试验注册中心DRKS00025108；  结果：对 27 名骨折患者、相似数量的健康成人和 9 名骨折不愈合患者进行了评估。在整个愈合过程中，所有 TUG 参数均得到改善（全部 < .001）。最大的改善是在 6 周到 3 个月之间发现的（全部 < .001）。在经典 TUG 参数中，3 至 6 个月期间，只有总 TUG 时间、行走时间、站立到坐立时间和总步数显着改善（=.004、=.01、=.03 和 =.002）。",
-      "se": "Conclusions: This study indicates the potential for using functional outcomes to identify patients at risk of nonunion. Additional tasks and functional outcomes require further investigation. Trial Registration: German Clinical Trials Registry DRKS00025108; https://drks.de/search/en/trial/DRKS00025108 Results: Twenty-seven patients with fracture, a similar number of healthy adults, and 9 patients with fracture nonunion were assessed. All TUG parameters improved throughout the healing process (all < .001). The greatest improvements were detected between 6 weeks and 3 months (all < .001). Among the classical TUG parameters, between 3 and 6 months, only the total TUG time, walking time, stand-to-sit time, and total number of steps significantly improved (=.004, =.01, =.03, and =.002).",
-      "u": "https://mhealth.jmir.org/2026/1/e92493",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e92493"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-21",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e84076",
-      "t": "成人健康习惯形成的网络应用程序的使用效果、效果调节剂和体验：准实验现实世界干预的探索性分析",
-      "te": "The Usage Effects, Effect Modifiers, and Experiences of a Web-Based App for Healthy Habit Formation in Adults: Exploratory Analysis of a Quasi-Experimental Real-World Intervention",
-      "s": "结论：对健康习惯的廉价、低强度的数字支持可以促进生活方式的微小有益改变，但效果需要用户参与，并且可能取决于个人。这些发现需要在更稳健的研究设计中得到证实，并呼吁进一步研究以确定最有可能从此类数字支持中受益的人。结果：在 6975 名受邀者中，1282 名（18.4%）接受了邀请，382 名（5.5%；平均年龄 51，SD 15 岁；女性：n=263，69%）完成了评估所需的数据收集。 90 天内，应用程序使用天数的中位数百分比为 5.9%（IQR 3.3%‐11%），报告的习惯表现总数为 22 个（IQR 3‐68.5）。",
-      "se": "Conclusions: An inexpensive, low-intensity digital support for healthy habits could foster small beneficial lifestyle changes, but effects require user engagement and may depend on the individual. The findings warrant confirmation in more robust study designs and call for further research for identifying those most likely to benefit from such digital support. Results: Of 6975 invitees, 1282 (18.4%) accepted the invitation and 382 (5.5%; mean age 51, SD 15 y; women: n=263, 69%) completed the data collection required for the assessment. Over 90 days, the median percentage of app use days was 5.9% (IQR 3.3%‐11%), and the total number of reported habit performances was 22 (IQR 3‐68.5).",
-      "u": "https://mhealth.jmir.org/2026/1/e84076",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e84076"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-21",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
-      "t": "人工智能如何改变 Intermountain Health 的临床记录",
-      "te": "How AI Is Transforming Clinical Documentation at Intermountain Health",
-      "s": "自从实施 AI 临床文档改进 (CDI) 工具以来，Intermountain 在查房期间或查房之后立即完成住院患者图表的完成率提高了 22%。",
-      "se": "Since implementing AI clinical documentation improvement (CDI) tools, Intermountain has seen a 22% point increase in inpatient chart completion during or immediately after rounds.",
-      "u": "https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
-      "image": "",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150084"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-21",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e99757/",
-      "t": "使用智能手机拍摄的图像进行骨肿瘤诊断的本地部署视觉语言模型的诊断性能：探索性回顾性研究",
-      "te": "Diagnostic Performance of a Locally Deployed Vision Language Model for Bone Tumor Diagnosis Using Smartphone-Captured Images: Exploratory Retrospective Study",
-      "s": "结论：在这项探索性研究中，添加评估的 RAG 配置并没有提高诊断准确性，并且在智能手机捕获的退化成像条件下与文本相关的诊断错误相关。研究结果表明，角色设计可能会影响 VLM 对检索信息的响应的稳健性，但这一观察结果需要在更大规模的多模型研究中进行验证。未来的研究应该评估对代表性的真实世界退化医学图像进行有针对性的视觉微调是否可以提高这种条件下的鲁棒性。结果：在没有 RAG 的情况下，放射科医生和骨科肿瘤科医生角色之间的前 3 名准确率没有显着差异（15/42, 36% vs 14/42, 33%；P =.76）。 RAG 集成后，放射科医生角色的 top-1 准确率从 12（29%，95% CI 16%-45%）下降到 6（14%，95% CI 5%-29%；P =.03）。",
-      "se": "Conclusions: In this exploratory study, adding the evaluated RAG configuration did not improve diagnostic accuracy and was associated with text-related diagnostic errors under smartphone-captured degraded imaging conditions. The findings suggest that persona design may influence the robustness of VLM responses to retrieved information, but this observation requires validation in larger, multimodel studies. Future studies should evaluate whether targeted visual fine-tuning on representative real-world degraded medical images can improve robustness under such conditions. Results: Without RAG, the top-3 accuracy showed no significant difference between the radiologist and orthopedic oncologist personas (15/42, 36% vs 14/42, 33%; P =.76). After RAG integration, top-1 accuracy in the radiologist persona decreased from 12 (29%, 95% CI 16%-45%) to 6 (14%, 95% CI 5%-29%; P =.03).",
-      "u": "https://ai.jmir.org/2026/1/e99757/",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1113f129b7005ea7bc4779717e4078a7",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1113f129b7005ea7bc4779717e4078a7",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e99757/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-21",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e105049/",
-      "t": "用于评估营养信息对 1 型糖尿病管理影响的可解释多水平血糖预测：模型开发和验证研究",
-      "te": "Interpretable Multihorizon Glucose Forecasting for Assessing Nutritional Information Impact in Type 1 Diabetes Management: Model Development and Validation Study",
-      "s": "结论：这些发现表明，纳入更全面的膳食成分表示可能会适度改善餐后血糖预测。特定时期的归因模式表明，模型在整个预测时期使用不同的营养投入；然而，这些发现不应被解释为单个营养素的因果或生理效应。在评估这些模型的潜在临床效用之前，需要进一步的外部和前瞻性验证。结果：包含额外营养信息的模型通常优于仅碳水化合物的基线。",
-      "se": "Conclusions: These findings suggest that incorporating a more comprehensive representation of meal composition may modestly improve postprandial glucose forecasting. Horizon-specific attribution patterns indicated that the models used nutritional inputs differently across the forecast horizon; however, these findings should not be interpreted as causal or physiological effects of individual nutrients. Further external and prospective validation is required before the potential clinical utility of these models can be assessed. Results: Models incorporating additional nutritional information generally outperformed the carbohydrate-only baseline.",
-      "u": "https://ai.jmir.org/2026/1/e105049/",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/f21ebb9456397732223a5f9bb5656c9d",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/f21ebb9456397732223a5f9bb5656c9d",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e105049/"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-21",
       "reasons": {},
       "historical": true
     }
@@ -6559,11 +6702,11 @@
     {
       "date": "2026-10-01",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41591-026-04677-z",
+        "pmid:42814929",
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
         "url:https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-        "url:https://www.nature.com/articles/s41591-026-04674-2",
-        "url:https://mhealth.jmir.org/2026/1/e95863",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e102359"
+        "url:https://www.nature.com/articles/s41591-026-04677-z",
+        "pmid:42820639"
       ],
       "minutes": 3
     },
@@ -6647,17 +6790,6 @@
         "url:https://medcitynews.com/2026/09/how-is-oracle-healths-nurse-ai-agent-different/"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-21",
-      "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e105049/",
-        "url:https://medcitynews.com/2026/09/how-ai-is-transforming-clinical-documentation-at-intermountain-health/",
-        "url:https://ai.jmir.org/2026/1/e99757/",
-        "url:https://mhealth.jmir.org/2026/1/e84076",
-        "url:https://mhealth.jmir.org/2026/1/e92493"
-      ],
-      "minutes": 4
     }
   ]
 }
