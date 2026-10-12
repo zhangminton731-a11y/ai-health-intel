@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-12
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 453
+> Daily status: **complete_with_warning** · sources 25/26 · items 452
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 449
+## Archive · 448
 
 ### [Professor Ioannis Yannas, pioneer of regenerative medicine who invented artificial skin for the treatment of severe burns, dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
@@ -3624,21 +3624,13 @@ No summary supplied by the source.
 
 No summary supplied by the source.
 
-### [Show HN: LLMxRay an open-source observability tool for LLMs](https://github.com/LogneBudo/llmxray)
-
-- Source: `hn_ai_health_signals` · published `2026-10-11` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/LogneBudo/llmxray`
-
-Hacker News community signal; score 3.
-
 ### [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
 
 - Source: `hn_ai_health_signals` · published `2026-10-11` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://twitter.com/karpathy/status/2109361546505966046`
+- Event: `updated` · identity: `url:https://twitter.com/karpathy/status/2109361546505966046`
 
-Hacker News community signal; score 202.
+Hacker News community signal; score 414.
 
 ---
 
