@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T07:21:47+00:00",
-  "as_of": "2026-10-12",
+  "generated_at": "2026-10-12T19:48:34+00:00",
+  "as_of": "2026-10-13",
   "count": 4,
   "items": [
     {
@@ -247,112 +247,118 @@
       }
     },
     {
-      "id": "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
-      "title": "苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息",
-      "original_title": "Apple ordered to pay Masimo $184M in interest on patent damages",
-      "summary": "美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。",
-      "url": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
+      "id": "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+      "title": "Stryker 向 CMR Surgical 投资 4 亿美元，进军软组织机器人领域",
+      "original_title": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical",
+      "summary": "Stryker 周一表示，已与软组织机器人公司 CMR Surgical 合作，向该公司投资约 4 亿美元，并成为 CMR 系统的美国独家经销商。总部位于英国剑桥的 CMR 去年获得了美国食品和药物管理局的批准，其最新的机器人系统可以在美国执行胆囊手术。摩根大通分析师罗比·马库斯在一份研究报告中写道，截至 2026 年初，该公司已在全球执行了超过 45,000 例手术。 Stifel 分析师 Rick Wise 在一份研究报告中写道，多年来，史赛克一直被期望进入软组织机器人市场。怀斯补充道，随着竞争对手强生公司和美敦力公司在美国的机器人获得 FDA 批准，“对于史赛克来说，现在是时候做出决定了，机不可失。”",
+      "url": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
       "source": "MedTech Dive",
       "source_type": "专业媒体",
-      "published_at": "2026-10-07",
-      "topics": [],
-      "event_type": "seen",
+      "published_at": "2026-10-12",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "event_type": "new",
       "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/DEgf2z3E8dtHSbz8ET23QBxDk3r3j-es0pZ2MzUVHR0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1MjgxNjY3LmpwZw==.webp",
+        "image_url": "https://imgproxy.divecdn.com/PrV505f4EiYj5DXfLBQhl88NG_4Y3HjZtuOnZojPGcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9kdWN0LVZlcnNpdXMtTkhTLUhvc3BpdGFsLUQtc2NhbGVkLmpwZw==.webp",
         "observed_in_sources": [
           "medtech_dive_primary"
         ],
         "retrieved_via": "rss",
         "source_id": "medtech_dive_primary",
-        "summary_source": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
-        "upstream_id": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
+        "summary_source": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+        "upstream_id": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
       },
       "sections": [
         "industry"
       ],
       "categories": {
         "industry": [
-          "products"
+          "technology",
+          "regulation"
         ]
       },
       "research_stages": [],
       "recommendation_reasons": {
-        "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
+        "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
       },
       "reading_value_score": 76,
       "editorial": {
         "audiences": [
           "industry"
         ],
-        "evaluated_at": "2026-10-08T01:01:46+00:00",
-        "input_hash": "4f3ab2044fa3a137042256cd75496a6f3fb79ddeaca288c8778dbe763355b34e",
+        "evaluated_at": "2026-10-12T19:48:53+00:00",
+        "input_hash": "1f34ea596ea9aa478bbe1a72151e6775b51abba49f23959927ba2fc0a206f627",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。",
+        "reason": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。",
         "reviews": [
           {
             "audiences": [
               "industry"
             ],
             "axes": {
-              "evidence": 9,
+              "evidence": 8,
               "novelty": 7,
-              "relevance": 8,
+              "relevance": 9,
               "significance": 8,
-              "usefulness": 5
+              "usefulness": 7
             },
             "kind": "industry",
-            "reason": "这是已发生的法院裁决事实：Apple Watch因侵犯Masimo血氧专利被判6.34亿美元赔偿，加上1.842亿美元利息合计超8.18亿美元，对可穿戴健康传感器的专利布局与合规风险评估有直接参考价值；但材料为简短报道，未披露裁决细节及后续禁售或和解影响。",
+            "reason": "Stryker以约4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织机器人竞争格局的实质性变化，产业读者可据此评估渠道布局与竞争窗口；投资条款与后续商业化成效细节未披露，为判断限制。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "2026100809013804821c8723ae4618",
-              "seconds": 4.23,
+              "request_id": "20261013034848e746b5a9bc484af6",
+              "seconds": 3.34,
               "usage": {
-                "completion_tokens": 169,
+                "completion_tokens": 136,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 6
+                  "reasoning_tokens": 10
                 },
-                "prompt_tokens": 940,
+                "prompt_tokens": 988,
                 "prompt_tokens_details": {
-                  "cached_tokens": 64
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1109
+                "total_tokens": 1124
               }
             },
-            "support": "A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million.",
-            "total": 80
+            "support": "investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system",
+            "total": 81
           },
           {
             "audiences": [
               "industry"
             ],
             "axes": {
-              "evidence": 9,
+              "evidence": 7,
               "novelty": 6,
-              "relevance": 7,
+              "relevance": 8,
               "significance": 7,
-              "usefulness": 5
+              "usefulness": 7
             },
             "kind": "industry",
-            "reason": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。",
+            "reason": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261008090143555d6e726b7e4b02",
-              "seconds": 3.91,
+              "request_id": "20261013034851c7280360e73a4c96",
+              "seconds": 2.78,
               "usage": {
-                "completion_tokens": 132,
+                "completion_tokens": 140,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 940,
+                "prompt_tokens": 988,
                 "prompt_tokens_details": {
-                  "cached_tokens": 64
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1072
+                "total_tokens": 1128
               }
             },
-            "support": "A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million.",
-            "total": 72
+            "support": "investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system",
+            "total": 71
           }
         ],
         "score": 76,
