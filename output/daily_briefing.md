@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-13
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 451
+> Daily status: **complete_with_warning** · sources 24/26 · items 451
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -2264,14 +2264,6 @@ Children and adolescents are growing up in a hybrid world in which digital media
 
 Notice NOT-OD-26-120 from the NIH Guide for Grants and Contracts
 
-### [Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up](https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-05` · freshness `fresh`
-- Reading value: `32` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/`
-
-Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. We take a look at where the funding went.
-
 ### [Engineering human multi-organ tissue chip niches for drug absorption, distribution, metabolism, excretion and toxicity prediction](https://www.nature.com/articles/s41551-026-01806-4)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
@@ -2392,14 +2384,6 @@ No summary supplied by the source.
 
 Background: Personalizing physical activity recommendations for older adults requires understanding not only which dimensions of physical activity and sedentary behaviors (24-h movement behaviors) influence health outcomes but also when, within an individual’s everyday life, these dimensions are most relevant. Current observational and interventional approaches rarely capture the temporal dynamics linking everyday patterns of 24-hour movement behaviors to cognitive and mental health trajectories, 2 key determinants of healthy aging. Objective: This study introduces and evaluates PEPHA (Personalized Phenotyping for Aging), an interpretable artificial intelligence (AI) framework designed to identify which dimensions of behavior and when within an observation window are strongly associated with cognitive functioning and depressive symptoms in older adults. Methods: We introduce PEPHA, an interpretable AI framework that integrates passive, high-frequency wearable data (physical activity and sleep) with periodic, active, validated cognitive and affective assessments (waves). Using longitudinal data from the cohort (n=67, up to 6 waves and 528 days of wearable data per person), we examined 2 key outcomes representing cognitive functioning and mental health (processing speed and depressive symptoms). PEPHA summarizes daily physical activity and sedentary patterns into slope-based temporal features, optimizes support vector regression parameters through Bayesian optimization, and applies individualized analyses including time order-swap testing and change point detection to identify “potential temporal association windows” (ie, periods within an observation window during which outcomes appear more sensitive to changes in behavioral patterns). Results: Personalized analyses showed that roughly 40% of individuals exhibited moderate or large temporal order effects of 24-hour movement behavior in the outcomes. For 1 exemplar participant (male, above the mean sample age), we localized 2 potential temporal association windows approximately 60 days and 30 days before the assessment of his processing speed, suggesting periods during which this individual may have been more sensitive to favorable or unfavorable behavioral configurations. Across participants, PEPHA revealed distinct 24-hour movement behavioral patterns correlated with cognitive functioning and mental health. Processing speed was best explained by locomotor activity, while depressive symptoms were best explained by sedentary behavior. Five control variables (education, cognitive reserve, diet, sex, and subjective age difference) were noninformative, whereas chronological age had predictive power regarding depressive symptoms. Conclusions: PEPHA demonstrates that continuous passive wearable data can uncover individualized, time-specific behavioral patterns associated with cognitive functioning and mental health. Although exploratory, this framework transforms observational data into interpretable, timing-aware insights that can help identify periods of increased behavioral sensitivity or association, thereby informing future personalized, AI-supported physical activity interventions in aging. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/65ffd709112498b26415fbac9a39cf50" />
 
-### [An open vision-language model for diverse medical applications](https://www.nature.com/articles/s41591-026-04626-w)
-
-- Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04626-w`
-
-No summary supplied by the source.
-
 ### [Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?](https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/)
 
 - Source: `fitbit_google_blog` · published `2026-10-06` · freshness `fresh`
@@ -2415,14 +2399,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e93588`
 
 Background: Health care organizations increasingly rely on business associates (BAs) to provide clinical, administrative, and technology services that require access to protected health information. While the Health Information Technology for Economic and Clinical Health (HITECH) Act and the Health Insurance Portability and Accountability Act (HIPAA) Omnibus Rule extended legal liability to BAs, the frequency and characteristics of data breaches involving BAs have not been systematically tracked across the entire post-HITECH reporting era. Understanding these trends is critical for health information managers and cybersecurity professionals who are directly responsible for managing third-party risk. Objective: The author examined the longitudinal trends in BA involvement in health care data breaches reported to the US Department of Health and Human Services (HHS) Office for Civil Rights (OCR) from 2009 to 2025, including changes in frequency, breach mechanisms, breach locations, and severity profiles of BA-involved incidents across 3 regulatory periods. Methods: The author conducted a retrospective longitudinal analysis of health care data breaches (N=6612) reported to the HHS OCR breach portal between October 2009 and December 2025. The author operationalized BA involvement as breaches reported by BA entities or flagged as BA-related. Using logistic regression models, the author estimated annual trends in BA involvement, breach mechanism, and breach location. Chi-square tests assessed associations between BA status and breach characteristics across 3 regulatory periods: pre-Omnibus (2009‐2013), post-Omnibus (2014‐2019), and 2020‐2025. Proportion tests compared BA-involvement rates across periods. Results: BA-involved breaches accounted for 1950 of 6612 (29.5%) incidents and 285,718,494 (48.8%) of all affected individuals. The annual BA-involvement rate increased from 22.1% in the pre-Omnibus period to 36.6% in the 2020‐2025 period ( score=8.29, <.001). Logistic regression confirmed an 8% annual increase in the odds of BA involvement (odds ratio [OR] 1.08, 95% CI 1.07‐1.10; <.001). Hacking/IT incidents shifted from a minority of incidents to the dominant breach mechanism (OR 1.41 per year, 95% CI 1.39‐1.44; <.001), and the odds of network server breaches increased by 29% per year (OR 1.29, 95% CI 1.26‐1.31; <.001). BA-involved breaches were significantly more concentrated in hacking (1282/1950, 65.7% vs 2351/4662, 50.4%) and network server locations (1084/1950, 55.6% vs 1435/4662, 30.8%) compared with non-BA breaches (<.001). The proportion of mega breaches (≥100,000 individuals) also increased annually (OR 1.16, 95% CI 1.13‐1.19; <.001), with BA-involved breaches exhibiting a significantly higher rate of mega breaches (12.4% vs 8.2%; =28.44; <.001). Conclusions: Building on prior evidence linking BA involvement to breach severity, this study demonstrates that BA-involved health care data breaches accelerated substantially across the post-HITECH reporting era, with the steepest increase beginning in 2020. The concurrent growth of hacking and the concentration of breaches on network servers coincided with digital transformation, cloud migration, and the ransomware epidemic, which may have amplified third-party risk exposure. Health information managers and cybersecurity professionals should prioritize BA risk management strategies that account for the evolving threat landscape, including enhanced vendor security assessments and data compartmentalization requirements.
-
-### [Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers](https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-06` · freshness `fresh`
-- Reading value: `26` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/`
-
-Some of the AI industry’s fastest-growing startups are becoming serial acquirers, buying smaller companies to fill product gaps, enter new markets and bring specialized teams in-house, a review of Crunchbase data shows. While AI giant OpenAI is by far the busiest of these buyers, well-funded startups in legal tech, customer service and software development have also made multiple acquisitions this year.
 
 ### [Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning](https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/)
 
@@ -2472,14 +2448,6 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 European Medicines Agency pre-authorisation procedural advice for users of the centralised procedure: document with tracked changes
 
-### [Extended follow-up of in vivo BCMA CAR-T therapy in relapsed/refractory multiple myeloma](https://www.nature.com/articles/s41591-026-04704-z)
-
-- Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04704-z`
-
-No summary supplied by the source.
-
 ### [Forbion Bucks VC Fundraising Trends, Reeling In €2.3B for Two New Funds](https://medcitynews.com/2026/10/forbion-venture-capital-life-sciences-biotech-startups-investing-vc/)
 
 - Source: `medcity_news` · published `2026-10-06` · freshness `fresh`
@@ -2503,14 +2471,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/hidden-risks-and-costs-of-maternal-infant-health-that-health-plans-miss/`
 
 <p><a href="https://medcitynews.com/2026/10/hidden-risks-and-costs-of-maternal-infant-health-that-health-plans-miss/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/06/GettyImages-1176140066.jpg" class="attachment-large size-large wp-post-image" alt="baby fertility pregnancy" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/06/GettyImages-1176140066.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/06/GettyImages-1176140066-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>[Sponsored] A new report from ProgenyHealth offers a window into how the business works with commercial and Medicaid plans to close gaps in maternity and NICU care management that traditional programs overlook. </p> <p>The post <a href="https://medcitynews.com/2026/10/hidden-risks-and-costs-of-maternal-infant-health-that-health-plans-miss/">Hidden Risks and Costs of Maternal/Infant Health that Health Plans Miss</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [MAGIC: an international network for evaluating generative artificial intelligence in global health](https://www.nature.com/articles/s41591-026-04706-x)
-
-- Source: `nature_medicine` · published `2026-10-06` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04706-x`
-
-No summary supplied by the source.
 
 ### [Making global public health more proactive with Google Earth AI](https://blog.google/innovation-and-ai/technology/health/google-earth-ai/)
 
@@ -2800,14 +2760,6 @@ European startup funding reached $25 billion last quarter, well above the $14 bi
 
 Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively.
 
-### [FDA says its safety review of abortion pill will continue into next year](https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `55` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss`
-
-The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.
-
 ### [Gender-Affirming Voice Training Delivered by a Novel Mobile App: Mixed Methods Study](https://mhealth.jmir.org/2026/1/e96102)
 
 - Source: `jmir_mhealth` · published `2026-10-08` · freshness `fresh`
@@ -2904,14 +2856,6 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 <p><a href="https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c.jpg 799w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Diagnostics and drug development startup Arboretum LifeSciences launched with $30 million in financing. Its executives say analyses of data from its genetic tests both form the basis of partnerships with big pharma and lead to the formation of new biotech companies — all focused on common diseases.</p> <p>The post <a href="https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/">Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis](https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `38` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss`
-
-In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.
-
 ### [STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process](https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
@@ -2919,22 +2863,6 @@ In this edition of STAT's Health Tech: The story of a startup taking its algorit
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss`
 
 A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.
-
-### [STAT+: Roche goes beyond licensing in deal with Chinese biotech](https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `42` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss`
-
-Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines.
-
-### [STAT+: The fresh faces that may shake up key Senate committees ahead of midterms](https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `49` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss`
-
-Dozens of Democrats are vying for seats on the House Energy and Commerce and Ways and Means committees, with several members from both parties either leaving or in close races.
 
 ### [Study in The Lancet suggests AI could improve patient-physician relationships.](https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/)
 
@@ -3040,22 +2968,6 @@ Background: AI technologies are currently experiencing significant growth in dev
 
 No summary supplied by the source.
 
-### [AI’s use on existing radiology reports sees 360% rise in steatotic liver patient identification](https://www.medicaldevice-network.com/news/ai-use-on-existing-radiology-reports-sees-360-rise-in-steatotic-liver-patient-identification/)
-
-- Source: `medical_device_network` · published `2026-10-09` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ai-use-on-existing-radiology-reports-sees-360-rise-in-steatotic-liver-patient-identification/`
-
-<p>Using its AIRE platform, Briya identified an additional 4,036 patients with a steatotic liver, expanding the relevant study population from 1,122 to 5,158 patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ai-use-on-existing-radiology-reports-sees-360-rise-in-steatotic-liver-patient-identification/">AI’s use on existing radiology reports sees 360% rise in steatotic liver patient identification</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Boston sues J&J subsidiary over alleged patent infringement for cardiology device](https://www.medicaldevice-network.com/news/boston-sues-jj-subsidiary-over-alleged-patent-infringement-for-cardiology-device/)
-
-- Source: `medical_device_network` · published `2026-10-09` · freshness `fresh`
-- Reading value: `39` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/boston-sues-jj-subsidiary-over-alleged-patent-infringement-for-cardiology-device/`
-
-<p>Boston is seeking an injunction and damages regarding alleged patent infringement relating to J&J subsidiary Atraverse's Hotwire system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/boston-sues-jj-subsidiary-over-alleged-patent-infringement-for-cardiology-device/">Boston sues J&amp;J subsidiary over alleged patent infringement for cardiology device</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Effect of Digital Technology–Based Interventions on Core Symptoms and Cognitive Function in Children With Attention-Deficit/Hyperactivity Disorder: Systematic Review and Meta-Analysis](https://www.jmir.org/article/view/jmir_v28i1e103353)
 
 - Source: `jmir` · published `2026-10-09` · freshness `fresh`
@@ -3127,14 +3039,6 @@ The Trump administration wants to make three big changes to the U.S. Census, inc
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtech-lobby-seeks-broader-device-eligibility-for-cms-proposed-rapid-path/832622/`
 
 Medtech lobbyist AdvaMed called for the Centers for Medicare and Medicaid Services to make more devices eligible for a proposed pathway to faster Medicare coverage. The CMS unveiled plans for the pathway earlier this year, which would give certain breakthrough devices a proposed national coverage determination upon Food and Drug Administration authorization. AdvaMed praised the pathway earlier this year as a “positive step” toward expanding access to breakthrough devices, but called for clearer timelines and broader eligibility. The CMS is accepting public comments on the program through Oct. 13.
-
-### [MMI pockets $125m to back its robotic microsurgery’s market growth](https://www.medicaldevice-network.com/news/mmi-125m-series-d-symani-surgical-system-microsurgery/)
-
-- Source: `medical_device_network` · published `2026-10-09` · freshness `fresh`
-- Reading value: `47` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/mmi-125m-series-d-symani-surgical-system-microsurgery/`
-
-<p>With new capital in hand, MMI will expand the Symani Surgical System’s commercial reach, while conducting new research into the technology.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/mmi-125m-series-d-symani-surgical-system-microsurgery/">MMI pockets $125m to back its robotic microsurgery’s market growth </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [MMI raises $125M to scale up in robotic microsurgery](https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/)
 
@@ -3288,14 +3192,6 @@ As the midterm elections draw near, the MAHA movement is nearly invisible on the
 
 &lt;strong&gt;Background:&lt;/strong&gt; Generative artificial intelligence (GAI) chatbots are frequently used for mental health–related questions, including suicide-related queries. User interfaces (UIs) may include additional safety controls not present in direct application programming interface (API) access (eg, moderation rules that flag or block harmful content, crisis refusal templates, or system-level instructions). &lt;strong&gt;Objective:&lt;/strong&gt; This observational cross-sectional study aimed to examine how frequently AI chatbots provide direct responses to suicide-related prompts across access modes and whether response patterns differ between consumer-facing UI and API access across models and prompt risk levels. &lt;strong&gt;Methods:&lt;/strong&gt; We evaluated how five widely used consumer AI models (ChatGPT, Claude, Gemini, Grok, and Llama) responded to 30 previously vetted suicide-related prompts spanning five clinician-assigned risk levels. Each prompt was submitted 100 times through both public-facing UI and direct API access, yielding 30,000 total responses. The primary outcome was whether a response directly answered the prompt (ie, provided specific information or guidance related to the question asked). AI responses were categorized using a blinded large language model–based classifier (GPT-4o mini), validated against independent human coding (289/300, 96.3% agreement; Cohen κ=0.89). We estimated mixed-effects logistic regression models that predicted a direct response. The primary predictors were the AI model, access mode (UI vs API), and prompt risk category. &lt;strong&gt;Results:&lt;/strong&gt; Of the 30,000 responses, 69.8% (n=20,934) were direct. Direct responses were more common through APIs than UIs (n=11,609, 77.4%, vs n=9325, 62.2%); however, Gemini had slightly higher direct response rates via UIs than APIs (n=2301, 76.7%, vs n=2131, 71.0%). Differences in the likelihood of a direct response were most pronounced for higher-risk prompts: For very-high-risk prompts, 24.8% (n=743) of API responses were direct compared with 4.6% (n=138) of UI responses, whereas for high-risk prompts, 80.1% (n=2002) of API responses were direct compared with 48.4% (n=1209) of UI responses. Claude and Gemini had the highest direct response rates (n=4688, 78.1%, and n=4432, 73.9%, respectively) across UI and API access modes, whereas ChatGPT, Grok, and Llama had lower rates (n=3878, 64.6%; n=3870, 64.5%; and n=4066, 67.8%, respectively). In mixed-effects models, UI access was associated with lower odds of a direct response than API access (odds ratio 0.09, 95% CI 0.08-0.10). Higher prompt risk was associated with lower direct response probability, and access mode differences varied by risk level and model. &lt;strong&gt;Conclusions:&lt;/strong&gt; AI safety depends on how users access the model. Safety observed in a UI should not be assumed to generalize to API access or apps built on APIs. Evaluations and policies should consider access modes to ensure safety protections for individuals interacting with AI chatbots. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e476bac69194a81859f21ffa1cb8a54a" />
 
-### [SurGenTec signs licence deal with Allevion for Vantage](https://www.medicaldevice-network.com/news/surgentec-licence-deal-allevion-vantage/)
-
-- Source: `medical_device_network` · published `2026-10-09` · freshness `fresh`
-- Reading value: `39` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/surgentec-licence-deal-allevion-vantage/`
-
-<p>SurGenTec has entered into an exclusive licence agreement with Allevion Medical to acquire the rights to the Vantage spinal decompression system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/surgentec-licence-deal-allevion-vantage/">SurGenTec signs licence deal with Allevion for Vantage</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how](https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
@@ -3327,14 +3223,6 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e104297/`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Large language model–based chatbots (LLM-CBs) are increasingly used as mental health support tools. Risks and harms are discussed especially for unsupervised use and for vulnerable groups. A naturalistic characterization of the use of LLM-CBs by patients with mental health disorders is currently lacking. &lt;strong&gt;Objective:&lt;/strong&gt; The goal of this cross-sectional study is to investigate demographic and clinical characteristics of users of LLM-CB for mental health and their associations with use behavior. &lt;strong&gt;Methods:&lt;/strong&gt; Across 6 months, qualitative and quantitative data on LLM-CB use for mental health were collected in a consecutive sample of psychotherapy outpatients in routine treatment with at least 1 diagnosed mental health disorder. Results are reported descriptively and supported by exploratory inferential analyses. &lt;strong&gt;Results:&lt;/strong&gt; Within a total of 812 included outpatients who reported on LLM-CB use for mental health, 245 (30.1%) reported having used LLM-CBs for mental health (once: 69/217, 31.8%; weekly: 118/217, 54.4%; and daily: 30/217, 13.8%). Users were more likely to be younger, female, better educated, students, or unemployed. In total, 61.4% (121/197) have used LLM-CBs in self-reported personal crisis situations, of whom, 67.7% (82/121) found the experience unhelpful. LLM-CB use showed a weak, imprecise association with the number of diagnoses in the included diagnosis groups and was higher for anxiety and eating disorder diagnoses and lower for somatoform disorders. Post hoc multivariable analyses suggest that higher use in eating disorders and lower use in somatoform disorders were attenuated after adjusting for age, while higher use for anxiety disorders persisted. LLM-CBs were generally evaluated positively across various dimensions, especially when self-reported personal crisis situation use was experienced as helpful. Qualitative analysis of an open-ended question on use experience shows LLM-CB use across 4 domains reported in the selected subsample: general psychological assistance, disorder-specific assistance, information assistance, and everyday assistance. &lt;strong&gt;Conclusions:&lt;/strong&gt; This naturalistic characterization of LLM-CB use in mental health outpatients implies that harms and benefits of LLM-CB use are associated with demographic and clinical profiles. The results suggest that asking about LLM-CB use may be a useful consideration in psychosocial assessment, particularly regarding crisis use, symptom-reinforcing use, and replacement of human support. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/cf52d240b74e6538165cfa03d977d64a" />
-
-### [Viome PRO introduces blood test for pancreatic cancer](https://www.medicaldevice-network.com/news/viome-pro-blood-test-pancreatic-cancer/)
-
-- Source: `medical_device_network` · published `2026-10-09` · freshness `fresh`
-- Reading value: `49` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/viome-pro-blood-test-pancreatic-cancer/`
-
-<p>Viome Life Sciences’ clinical division Viome PRO has launched CancerDetect Pancreatic, a physician-ordered blood test designed to identify pancreatic ductal adenocarcinoma.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/viome-pro-blood-test-pancreatic-cancer/">Viome PRO introduces blood test for pancreatic cancer</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [What Life Sciences Commercial Teams Can Learn from Digital Health](https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/)
 
@@ -3406,7 +3294,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://twitter.com/karpathy/status/2109361546505966046`
 
-Hacker News community signal; score 680.
+Hacker News community signal; score 699.
 
 ### [A health-system-scale, episode-resolved multimodal atlas of cancer cachexia](https://www.nature.com/articles/s41591-026-04689-9)
 
@@ -3532,9 +3420,9 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/prabanta-dev/janas`
+- Event: `updated` · identity: `url:https://github.com/prabanta-dev/janas`
 
-Hacker News community signal; score 43.
+Hacker News community signal; score 163.
 
 ### [Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem](https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/)
 
@@ -3623,6 +3511,118 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp">Google Health announces new partnership and deeper commitment to women’s health with Flo Health.
+
+### [Autologous and broadly neutralizing antibodies drive ART-free HIV control](https://www.nature.com/articles/s41591-026-04714-x)
+
+- Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04714-x`
+
+No summary supplied by the source.
+
+### [Characterizing the onset and progression of cancer cachexia using routine clinical data](https://www.nature.com/articles/s41591-026-04720-z)
+
+- Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04720-z`
+
+No summary supplied by the source.
+
+### [E2 wins FDA clearances for integrated Hēlo thrombectomy platform](https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/)
+
+- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
+- Reading value: `53` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/`
+
+<p>Used with E2’s Hēlo VTE platform, Hēlo Return aspirates blood from thrombectomy procedures and returns it to patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/">E2 wins FDA clearances for integrated Hēlo thrombectomy platform</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Fifth Wall’s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech](https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `22` · status: `needs_review`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/`
+
+In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and chief investment officer of Fifth Wall, discussed the AI shift, why proptech funding totals may overlook some of the sector’s biggest investments, what it all means for founders, and the housing problems he believes still need solving.
+
+### [First patient treated in Spiro’s PULSAR asthma trial](https://www.medicaldevice-network.com/news/first-patient-treated-spiros-pulsar-asthma-trial/)
+
+- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
+- Reading value: `24` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/first-patient-treated-spiros-pulsar-asthma-trial/`
+
+<p>Spiro Medical has treated the first patient in its PULSAR feasibility study evaluating neuromodulation for severe, uncontrolled asthma.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/first-patient-treated-spiros-pulsar-asthma-trial/">First patient treated in Spiro’s PULSAR asthma trial</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Hiossen and GuidedSMILE collaborate on dental implant workflows](https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/)
+
+- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
+- Reading value: `42` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/`
+
+<p>GuidedSMILE and Hiossen Implants have announced a strategic partnership to expand dental professionals' access to guided full-arch implant procedures across North America.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/">Hiossen and GuidedSMILE collaborate on dental implant workflows</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [How many ways can the Trump administration clamp down on international researchers?](https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `46` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss`
+
+In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion&#8230;
+
+### [Human–artificial intelligence collaboration for comanaging epilepsy in real time](https://www.nature.com/articles/s41591-026-04680-4)
+
+- Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04680-4`
+
+No summary supplied by the source.
+
+### [Medtech’s newest engineering discipline is cybersecurity](https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/)
+
+- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
+- Reading value: `27` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/`
+
+<p>Luke Moran, managing director of life sciences at Actalent, outlines why the medtech industry must now treat cybersecurity as a strategic imperative.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/">Medtech&#8217;s newest engineering discipline is cybersecurity</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Opinion: Lethal injection will never be the same after Christa Pike’s botched execution](https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `16` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss`
+
+“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal.
+
+### [Opinion: STAT+: The epidemic of learned helplessness in physicians](https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `27` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss`
+
+“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.
+
+### [STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug](https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `50` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss`
+
+Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.
+
+### [Steris outlays $2.1bn to acquire Xodus Medical](https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/)
+
+- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
+- Reading value: `56` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/`
+
+<p>Steris' Xodus takeover will bolster the former's portfolio of surgical safety devices, adding devices like the Pink Pad to its roster.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/">Steris outlays $2.1bn to acquire Xodus Medical </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Where The Next Generation Of Super Apps Will Be Built](https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `17` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/`
+
+The next generation of super apps will likely emerge in markets where widespread mobile access, weak competition, poor financial services and crises that erode trust in banks create demand for a single trusted platform, writes guest author Nnamdi Okike, co-founder and managing partner of 645 Ventures.
 
 ---
 
