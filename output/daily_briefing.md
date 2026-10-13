@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-13
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 450
+> Daily status: **complete_with_warning** · sources 25/26 · items 451
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -30,7 +30,7 @@ Transparency in Coverage Final Rules (CMS 9882-F) Introduction Consistent with t
 
 - Source: `medtech_dive_primary` · published `2026-10-12` · freshness `fresh`
 - Reading value: `76` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/`
 
 Stryker said Monday it has partnered with soft tissue robotics firm CMR Surgical, investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system. Cambridge, England-based CMR received Food and Drug Administration clearance for its latest robotic system last year to perform gallbladder procedures in the U.S. As of early 2026, the company had performed more than 45,000 procedures globally, J.P. Morgan analyst Robbie Marcus wrote in a research note. Stryker had been expected to enter the soft tissue robotics market for years, Stifel analyst Rick Wise wrote in a research note. With competitors Johnson & Johnson and Medtronic receiving FDA nods for their own robots in the U.S., Wise added, “it feels like a now or never moment for Stryker to make the decision.”
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 446
+## Archive · 447
 
 ### [Professor Ioannis Yannas, pioneer of regenerative medicine who invented artificial skin for the treatment of severe burns, dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
 
@@ -2900,7 +2900,7 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 - Source: `medcity_news` · published `2026-10-08` · freshness `fresh`
 - Reading value: `44` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/`
 
 <p><a href="https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c.jpg 799w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Diagnostics and drug development startup Arboretum LifeSciences launched with $30 million in financing. Its executives say analyses of data from its genetic tests both form the basis of partnerships with big pharma and lead to the formation of new biotech companies — all focused on common diseases.</p> <p>The post <a href="https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/">Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3092,7 +3092,7 @@ Healthcare organizations aren’t prepared for cybersecurity threats from quantu
 
 - Source: `medtech_dive_primary` · published `2026-10-09` · freshness `fresh`
 - Reading value: `38` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/rhXbTFe-lDDepMo3bhvI7jL66QMnWXGYAjdYYYE-UL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZW5yeV9TY2hlaW4uanBn.webp"/></div></figure><p>The CFO transition is part of a recent wave of leadership changes at Henry Schein, including a new CEO.</p>
 
@@ -3316,7 +3316,7 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 
 - Source: `medcity_news` · published `2026-10-09` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/`
 
 <p><a href="https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/Treg_NIH-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/Treg_NIH-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/Treg_NIH-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/Treg_NIH-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/Treg_NIH.jpg 800w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Eli Lilly-partnered TRexBio will apply the IPO proceeds toward clinical development of molecules designed to activate regulatory T cells to mediate immune responses and inflammation. Meanwhile, Retension Pharmaceuticals will use its IPO cash for mid-stage testing of a next-generation hypertension drug. </p> <p>The post <a href="https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/">TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3340,7 +3340,7 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 
 - Source: `medcity_news` · published `2026-10-09` · freshness `fresh`
 - Reading value: `22` · status: `needs_review`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/`
 
 <p><a href="https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/"><img width="600" height="367" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244-600x367.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244-600x367.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244-300x183.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244.jpg 756w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The pace of change in digital innovation has exposed the ever-widening gap between digital health and Pharma commercial teams. As a result, Pharma is missing out on its ability to significantly improve its commercial model, by focusing on efficiencies vs. truly reinventing.</p> <p>The post <a href="https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/">What Life Sciences Commercial Teams Can Learn from Digital Health</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3406,13 +3406,13 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://twitter.com/karpathy/status/2109361546505966046`
 
-Hacker News community signal; score 649.
+Hacker News community signal; score 680.
 
 ### [A health-system-scale, episode-resolved multimodal atlas of cancer cachexia](https://www.nature.com/articles/s41591-026-04689-9)
 
 - Source: `nature_medicine` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04689-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04689-9`
 
 No summary supplied by the source.
 
@@ -3428,7 +3428,7 @@ No summary supplied by the source.
 
 - Source: `apple_newsroom` · published `2026-10-12` · freshness `fresh`
 - Reading value: `7` · status: `scored`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/`
 
 Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.
 
@@ -3436,7 +3436,7 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
 - Reading value: `18` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/health/ai-health-research/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/health/ai-health-research/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp">In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improving health…
 
@@ -3444,7 +3444,7 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `49` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/`
 
 <p><a href="https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1215416571.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p> The FDA recently published draft guidance on pre-market testing for robotically-assisted surgical devices, raising timely discussion around whether hospital infrastructures are capable of supporting increasingly complex systems. </p> <p>The post <a href="https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/">Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3452,7 +3452,7 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `58` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/`
 
 <p><a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/"><img width="1000" height="666" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p><p>Asahi Kasei’s Hovilpri is now approved for treating lesions caused by herpes simplex virus infection. This daily pill came from the $919 million acquisition of AiCuris Anti-Infective Cures.</p> <p>The post <a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/">Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3460,7 +3460,7 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 
 - Source: `medtech_dive_primary` · published `2026-10-12` · freshness `fresh`
 - Reading value: `65` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/`
 
 Ascensia Diabetes Care led a $36 million Series B round in London-based glucose sensor maker Sava Technologies, the startup said Friday. The companies also struck a strategic partnership that gives Ascensia exclusive commercialization and distribution rights, starting in Europe. Based in Basel, Switzerland, Ascensia is a subsidiary of Tokyo’s PHC Holdings. Sava is developing a wearable glucose sensor that could expand to other biomarkers in the future. Sava hopes for the device to provide more options for people who use continuous glucose monitors in a market currently dominated by Abbott and Dexcom.
 
@@ -3468,7 +3468,7 @@ Ascensia Diabetes Care led a $36 million Series B round in London-based glucose 
 
 - Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
 - Reading value: `43` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/ascensia-sava-commercialise-wearable-microsensor/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ascensia-sava-commercialise-wearable-microsensor/`
 
 <p>Ascensia has entered into a commercial and financing agreement with Sava Technologies to distribute its wearable glucose microsensor.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ascensia-sava-commercialise-wearable-microsensor/">Ascensia partners with Sava to commercialise wearable microsensor</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3476,7 +3476,7 @@ Ascensia Diabetes Care led a $36 million Series B round in London-based glucose 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
 
 No summary supplied by the source.
 
@@ -3484,7 +3484,7 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/fda-clearance-urolution-medicals-openflo-catheter/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/fda-clearance-urolution-medicals-openflo-catheter/`
 
 <p>The US Food and Drug Administration (FDA) has granted 510(k) clearance for Urolution Medical’s OpenFlo urinary catheter.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-clearance-urolution-medicals-openflo-catheter/">FDA grants 510(k) clearance for Urolution Medical&#8217;s OpenFlo catheter</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3500,7 +3500,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
 - Reading value: `13` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Olive_Active_Lifestyle_Strength.max-600x600.format-webp.webp">See the athletes, creators, and wellness experts who are using Google Health to help make our technology better for everyone.
 
@@ -3508,7 +3508,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
 - Reading value: `20` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp">Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.
 
@@ -3516,7 +3516,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
 - Reading value: `22` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/google-health/google-health-updates/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/google-health-updates/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_edge_blog.max-600x600.format-webp.webp">What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.
 
@@ -3524,15 +3524,23 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
 - Reading value: `12` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_air_metal_.max-600x600.format-webp.webp">Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.
+
+### [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
+
+- Source: `hn_ai_health_signals` · published `2026-10-12` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://github.com/prabanta-dev/janas`
+
+Hacker News community signal; score 43.
 
 ### [Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem](https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/)
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `12` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/`
 
 <p><a href="https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/"><img width="776" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/GettyImages-2203651795.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/GettyImages-2203651795.jpg 776w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/GettyImages-2203651795-300x174.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/GettyImages-2203651795-768x445.jpg 768w" sizes="auto, (max-width: 776px) 100vw, 776px" /></a></p><p>Register for INVEST Digital Health, scheduled for October 29 in Dallas, for an engaging discussion on the impact of consumer-centered care from diagnostics to employer benefits and more.</p> <p>The post <a href="https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/">Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3540,7 +3548,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `23` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/`
 
 <p><a href="https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/"><img width="600" height="362" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-600x362.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-600x362.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-300x181.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530.jpg 760w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Asking the right questions about community support, caregiving responsibilities, emotional well-being, and the availability of trusted social networks can establish important context for a person’s outcomes — and spark conversations about social needs that might never otherwise take place.</p> <p>The post <a href="https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/">Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3548,7 +3556,7 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
 - Reading value: `38` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/new-study-touts-positive-long-term-data-for-corcym-sutureless-aortic-valve/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/new-study-touts-positive-long-term-data-for-corcym-sutureless-aortic-valve/`
 
 <p>Gleaned from Corcym’s ongoing clinical follow-up study of Perceval Plus, the data, presented at EACTS, demonstrate cardiovascular benefit at a seven-year follow-up.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/new-study-touts-positive-long-term-data-for-corcym-sutureless-aortic-valve/">New study touts positive long-term data for Corcym’s sutureless aortic valve</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3556,7 +3564,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `41` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/`
 
 <p><a href="https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268-600x400.jpg" class="attachment-large size-large wp-post-image" alt="drugs prescriptions medications" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Outro’s funding included participation from Listen Ventures, Cake Ventures, Jason Calicanis’s LAUNCH, Actions Capital, Hannah Grey Ventures, SemperVirens, Brock Recovery Group and Pave Health Ventures.</p> <p>The post <a href="https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/">Outro Raises $7M To Support Safe Deprescribing</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3564,7 +3572,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `21` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/`
 
 <p><a href="https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-600x400.jpg" class="attachment-large size-large wp-post-image" alt="pediatric kids children" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Investing in pediatric care is not simply a moral imperative. It is one of the most practical long-term investments the healthcare system can make.</p> <p>The post <a href="https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/">Pediatric Innovation Isn’t a Small-Market Problem, It’s an Incentive Problem</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3572,7 +3580,7 @@ No summary supplied by the source.
 
 - Source: `medtech_dive_primary` · published `2026-10-12` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/`
 
 Philips is updating instructions for an ultrasound system after reporting eight serious injuries and four deaths, the Food and Drug Administration said Friday. The FDA, which published an early alert about Philips’ actions, said the software issue can delay the use of the portable Lumify diagnostic ultrasound system. Philips wrote to customers about the issue last month, recommending actions to mitigate the risks while it develops a software update to fix the problem.
 
@@ -3580,7 +3588,7 @@ Philips is updating instructions for an ultrasound system after reporting eight 
 
 - Source: `nature_medicine` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04614-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04614-0`
 
 No summary supplied by the source.
 
@@ -3588,7 +3596,7 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
 - Reading value: `48` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/scarlet-nabs-50m-grow-ai-native-medtech-certification-platform/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/scarlet-nabs-50m-grow-ai-native-medtech-certification-platform/`
 
 <p>Scarlet will expand the reach of its namesake medtech software certification service across the US and APAC markets.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/scarlet-nabs-50m-grow-ai-native-medtech-certification-platform/">Scarlet nabs $50m to grow AI-native medtech certification platform </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3596,7 +3604,7 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
 - Reading value: `60` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/`
 
 <p>Stryker's pact with UK-headquartered CMR Surgical gives it a route into the soft tissue robotic surgery market.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/">Stryker invests $400m into CMR Surgical; secures future buyout option</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3612,7 +3620,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
 - Reading value: `21` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp">Google Health announces new partnership and deeper commitment to women’s health with Flo Health.
 

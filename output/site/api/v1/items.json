@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T19:48:34+00:00",
+  "generated_at": "2026-10-13T02:34:56+00:00",
   "as_of": "2026-10-13",
   "count": 4,
   "items": [
@@ -261,7 +261,7 @@
         "business",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://imgproxy.divecdn.com/PrV505f4EiYj5DXfLBQhl88NG_4Y3HjZtuOnZojPGcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9kdWN0LVZlcnNpdXMtTkhTLUhvc3BpdGFsLUQtc2NhbGVkLmpwZw==.webp",
         "observed_in_sources": [
