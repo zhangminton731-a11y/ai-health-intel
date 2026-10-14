@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-14
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 453
+> Daily status: **complete_with_warning** · sources 23/26 · items 455
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 449
+## Archive · 451
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -2376,14 +2376,6 @@ Apple and The King’s Trust are building on their longstanding partnership by l
 
 <p><a href="https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/"><img width="1024" height="668" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/GettyImages-2217168478-1024x668.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/GettyImages-2217168478-1024x668.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/GettyImages-2217168478-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/GettyImages-2217168478-768x501.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/GettyImages-2217168478-1536x1002.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/GettyImages-2217168478-2048x1335.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Sponsored by Cotiviti, a webinar addressing the challenges of AI implementation and governance offered insights based on findings from the Healthcare AI Readiness Index.</p> <p>The post <a href="https://medcitynews.com/2026/10/constant-vigilance-is-the-watchword-for-healthcare-ai-governance/">Constant Vigilance is the Watchword for Healthcare AI Governance </a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup](https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-07` · freshness `fresh`
-- Reading value: `13` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/`
-
-The latest in our series of articles on venture funding to non-tech founders features a former magician's assistant and ballet dancer who's building cybersecurity software with $4.2 million in seed funding.
-
 ### [From Distributor to Disruptor: Amazon’s Healthcare Flex](https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/)
 
 - Source: `medcity_news` · published `2026-10-07` · freshness `fresh`
@@ -2391,14 +2383,6 @@ The latest in our series of articles on venture funding to non-tech founders fea
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/`
 
 <p><a href="https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2019/01/GettyImages-937849306-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2019/01/GettyImages-937849306-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2019/01/GettyImages-937849306-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2019/01/GettyImages-937849306.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>No longer satisfied with buying pharmacies and clinics, it seems intent on owning the healthcare journey, and perhaps redrawing pharma’s commercialization map.</p> <p>The post <a href="https://medcitynews.com/2026/10/from-distributor-to-disruptor-amazons-healthcare-flex/">From Distributor to Disruptor: Amazon’s Healthcare Flex</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets](https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-07` · freshness `fresh`
-- Reading value: `39` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/`
-
-In total, investors poured $92 billion into seed- through growth-stage rounds for U.S. and Canadian startups in the third quarter, per Crunchbase data. That’s a 35% decline from the prior quarter but up 50% from year-ago levels.
 
 ### [Notice of Informational Webinar for RFA-AI-27-018, Implementation Science to Advance HIV Prevention, Treatment, and Care (R61/R33 Clinical Trial Optional)](http://grants.nih.gov/grants/guide/notice-files/NOT-AI-26-004.html)
 
@@ -2432,14 +2416,6 @@ Background: Independent audits of medical large language models have concentrate
 
 <p><a href="https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/"><img width="600" height="529" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app-600x529.jpg" class="attachment-large size-large wp-post-image" alt="telehealth telemedicine" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app-600x529.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app-300x264.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app.jpg 630w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Teladoc Health announced Wednesday that it is launching two new AI-powered capabilities built into its Solo smart care platform for hospitals and health systems to be used during virtual visits.</p> <p>The post <a href="https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/">Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [There Was Never An Easy AI Era, And Investors Are Raising The Bar](https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-07` · freshness `fresh`
-- Reading value: `20` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/`
-
-As AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and CEO of Leo AI, investors will increasingly prioritize customer spending growth, sustainable margins and deployment efficiency over rapid revenue growth alone.
-
 ### [Trilliant Health: Misaligned Incentives Are Undermining US Healthcare](https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/)
 
 - Source: `medcity_news` · published `2026-10-07` · freshness `fresh`
@@ -2447,14 +2423,6 @@ As AI IPOs bring greater scrutiny, argues guest author Maor Farid, founder and C
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/`
 
 <p><a href="https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/"><img width="600" height="375" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-300x188.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images.jpg 747w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Trilliant Health’s report identifies six trends highlighting how misaligned incentives are contributing to rising costs, poor health outcomes, workforce shortages and other systemic problems in U.S. healthcare.</p> <p>The post <a href="https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/">Trilliant Health: Misaligned Incentives Are Undermining US Healthcare</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [3 ways Google Maps can help you navigate your next culinary adventure.](https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/)
-
-- Source: `fitbit_google_blog` · published `2026-10-08` · freshness `fresh`
-- Reading value: `0` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp">Use these built-in Google Maps features to navigate your food journey all year long.
 
 ### [AI Can Flag Cognitive Decline Earlier — Health Systems Still Own What Happens Next](https://medcitynews.com/2026/10/ai-can-flag-cognitive-decline-earlier-health-systems-still-own-what-happens-next/)
 
@@ -2536,22 +2504,6 @@ Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners a
 
 Background: Gender-affirming voice training (GAVT) has reduced gender incongruence for transgender and gender-nonconforming (TGNC) individuals, but remains limited by cost and scarcity of specialized providers. Mobile health (mHealth) is a bridge to these access gaps; yet, few high-quality, clinically informed mHealth apps exist within voice clinical sciences. Objective: We previously created a free mobile app (Attuned; Weill Cornell Medicine and Ithaca College) to deliver clinically informed GAVT through structured instructional videos narrated by a speech-language pathologist and a laryngologist, practice exercises, and pitch-tracking tools, developed with a community advisory board of TGNC individuals. This mixed methods study aimed to assess the app’s usability and users’ impressions. Methods: Adult TGNC individuals were recruited nationwide via word of mouth and advertising through lesbian, gay, bisexual, transgender, queer, or questioning (LGBTQ+) community organizations. Participants completed a baseline semistructured interview and demographics survey, used Attuned for one week, and completed a second interview regarding their impressions. Interviews were transcribed verbatim and coded inductively in MaxQDA (VERBI Software GmbH). Three authors independently generated codebooks that were reconciled via consensus, then 2 authors applied the finalized codebooks to the remaining transcripts (preconsensus agreement 95.7%; Cohen κ=0.86). Attuned was also evaluated by 2 reviewers experienced in mHealth evaluation and not involved in the app development, using the Mobile App Rating Scale (MARS), the Intercontinental Medical Statistics (IMS) Institute for Health Care Informatics Functionality Scores, the Centers for Disease Control (CDC) Modified Clear Communication Index, the Institute of Medicine (IOM) strategies for creating health-literate mHealth apps, the Patient Education Materials Assessment Tool (PEMAT), and the System Usability Scale (SUS). Readability of the didactic scripts was also assessed with 6 validated formulas. Results: Eighteen TGNC individuals completed the study (median age 27.5 years, age range 19‐50 years). Ten identified as women and/or transgender women, 6 as nonbinary or gender-nonconforming, and 2 as men or transgender men. Eight themes were identified. Participants identified voice as a crucial determinant of others’ perceptions of their gender, with voice-related dysphoria common. Cost and difficulty finding providers were primary barriers to GAVT, and existing free resources were viewed as unstructured and untrustworthy. Postuse impressions were largely positive, particularly regarding the structured curriculum, pitch tracker, convenience, and free access, though lack of individualized feedback was a key limitation. Mean scores were 4.21/5 (SD 0.53) for MARS; IMS functionality, 6.5/11 (SD 0.7); CDC index, 82.5% (SD 24.7%); IOM strategies, 28.5/33 (SD 2.1); and PEMAT understandability and actionability 100%, and SUS 92.5/100 (SD 10.6), with most readability formulas at or below an eighth-grade level. Conclusions: Voice is central to gender identity for TGNC individuals; yet, structured and affordable GAVT remains largely inaccessible. Attuned was positively received by this initial cohort and scored highly on usability, health literacy, and readability, though findings are limited by potential acquiescence bias and the raters’ authorship roles.
 
-### [Google Cloud introduces the Gemini agent.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/)
-
-- Source: `fitbit_google_blog` · published `2026-10-08` · freshness `fresh`
-- Reading value: `15` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp">Google Cloud’s new Gemini agent automates workflows by connecting to your business systems. See how it streamlines enterprise tasks in one prompt.
-
-### [Google Maps reveals the top food trends and popular restaurants across 10 cities](https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/)
-
-- Source: `fitbit_google_blog` · published `2026-10-08` · freshness `fresh`
-- Reading value: `10` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp">We analyzed a year of Google Maps data to uncover the top food trends and popular restaurants across 10 culinary hot spots.
-
 ### [Integration of Ecological Momentary Assessment and Intervention With Wearable-Based Digital Phenotypes to Treat Anxiety in Young Adults: Mixed Methods Experimental Study](https://mhealth.jmir.org/2026/1/e88919)
 
 - Source: `jmir_mhealth` · published `2026-10-08` · freshness `fresh`
@@ -2584,14 +2536,6 @@ Notice NOT-OD-26-118 from the NIH Guide for Grants and Contracts
 
 Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
-### [Sign in quickly and securely with passkeys.](https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/)
-
-- Source: `fitbit_google_blog` · published `2026-10-08` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SigninFasterPasskey_social.max-600x600.format-webp.webp">Learn how to set up a passkey for your Google Account.
-
 ### [Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases](https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/)
 
 - Source: `medcity_news` · published `2026-10-08` · freshness `fresh`
@@ -2615,14 +2559,6 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/`
 
 <p><a href="https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth.jpg" class="attachment-large size-large wp-post-image" alt="money growth fundraise" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>The Series A round was led by Oak HC/FT, with participation from Norwest, .406 Ventures, Constellation Ventures, Y Combinator, Rock Health Capital and MemorialCare Innovation Fund. </p> <p>The post <a href="https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/">Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13](https://blog.google/products-and-platforms/platforms/google-play/play-fest/)
-
-- Source: `fitbit_google_blog` · published `2026-10-08` · freshness `fresh`
-- Reading value: `3` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/google-play/play-fest/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/play_days_live_hero.max-600x600.format-webp.webp">Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.
 
 ### [A bioengineered model of human placental exposure to environmental metals during pregnancy](https://www.nature.com/articles/s41551-026-01801-9)
 
@@ -2736,14 +2672,6 @@ Healthcare organizations aren’t prepared for cybersecurity threats from quantu
 
 Background: Mobile mental health (MH) apps are increasingly promoted as tools for self-care. However, less is known about how users integrate them into everyday life and how they combine with other forms of support. Objective: This qualitative study examined what motivates individuals to adopt MH apps and how these tools are used alongside other care practices. Methods: We conducted semistructured interviews with 31 Czech MH app users aged 18‐56 (23 women), recruited through social media, researchers’ networks, and snowball sampling. Eligible participants had used an MH app for at least 2 weeks; individuals currently experiencing a psychological crisis were excluded. Interviews were conducted online or face-to-face and analyzed using reflexive thematic analysis by Braun and Clarke. The analysis was inductive and informed by a critical realist epistemological stance. Initial analytic engagement was conducted independently, followed by collaborative theme development and refinement. Results: We identified the following three motivational patterns for MH app use: (1) regular use to maintain well-being and support preventive self-care; (2) reactive use during periods of acute distress; and (3) temporary, problem-focused use aimed at understanding or addressing a specific difficulty. Beyond motivations for adoption, our findings revealed the following four distinct trajectories of app engagement and disengagement: (1) emancipation, with apps acting as ongoing support for self-care when therapy is reduced or ended; (2) independence, as techniques learned through apps are transferred into everyday life and used without the app; (3) reliance, where users persist with app-based self-care despite insufficient benefit, occasionally delaying or limiting other forms of help; and (4) episodic use, characterized by intermittent engagement during specific life periods. These findings extend existing research by showing that disengagement is not necessarily a marker of failure but can reflect successful self-care and the transfer of learned skills. We also identified tensions and unintended consequences, including the burden of sustaining engagement, risks of overreliance, emotional costs associated with sustained self-monitoring, and tensions between digital self-care and efforts to reduce screen use. Participants generally viewed self-monitoring as beneficial when guided by clear personal goals and embedded within a broader system of self-care. Conclusions: Our findings suggest that appropriate disengagement can signal a successful step in self-care. App design and policy should acknowledge episodic use and strengthen connections to human support with clear guidance and accessible pathways to additional care when needed.
 
-### [How these census changes could threaten public health](https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `34` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss`
-
-The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen&#8230;
-
 ### [Magnitude and Moderators of Depressive Symptom Improvement in Digital Placebo Arms: Systematic Review and Meta-Analysis](https://www.jmir.org/article/view/jmir_v28i1e100426)
 
 - Source: `jmir` · published `2026-10-09` · freshness `fresh`
@@ -2792,14 +2720,6 @@ Notice NOT-OD-26-115 from the NIH Guide for Grants and Contracts
 
 Notice NOT-OD-26-117 from the NIH Guide for Grants and Contracts
 
-### [Priorities and Implementation Barriers in End-to-End Digital Transformation in the Pharmaceutical Industry: Sequential Mixed Methods Analysis](https://www.jmir.org/article/view/jmir_v28i1e91531)
-
-- Source: `jmir` · published `2026-10-09` · freshness `fresh`
-- Reading value: `54` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e91531`
-
-Background: The pharmaceutical industry faces unprecedented challenges, including declining drug approval rates, plummeting research and development returns, and escalating protocol complexity. Digital transformation represents the most promising end-to-end approach for addressing these challenges, yet there is limited understanding of industry-wide priorities and implementation barriers. Objective: This study aimed to identify digital transformation priorities across diverse pharmaceutical industry stakeholders and to explore the specific barriers preventing successful implementation through a collaborative, mixed methods approach. Methods: The study used a sequential mixed methods design with three phases: (1) workshop 1 in Copenhagen, Denmark, with 47 participants randomly divided into 3 working groups, all discussing three main theme areas and generating 110 digital transformation topics; (2) a follow-up online survey of workshop 1 participants (administered 4 wk after workshop 1); and (3) workshop 2 in Boston, United States, with expert keynote and panel discussions exploring implementation challenges. Participants were recruited via convenience sampling through industry networks and professional associations. The study was conducted between March 2023 and June 2025 across international workshop sites in Copenhagen and Boston. Data sources included workshop outputs, survey responses, and transcribed panel discussions. Analysis involved thematic coding, convergence analysis, and tension identification. Results: Workshop 1 identified 19 common categories across all working groups, despite the 3 diverse starting themes. Workshop 1 produced 7 consolidated categories for theme 1 (desired outcomes), 5 for theme 2 (pathways), and 7 for theme 3 (measuring success), totaling 19 consolidated categories. The survey achieved a 55.3% (26/47 participants) response rate and identified patient-centered outcomes, FAIR (Findable, Accessible, Interoperable, and Reusable)–aligned data practices, collaboration, access and equity, and the reduction of patient burden as leading priorities. Workshop 2 identified 5 key implementation tensions: innovation speed vs safety standards, collaboration vs competition, technology vs change management, patient preferences vs operational efficiency, and data democratization vs privacy protection. Panel discussions provided deep insights into implementation challenges and solutions. The results obtained support exploratory generalization across comparable settings and do not establish causal effects. Conclusions: The pharmaceutical industry demonstrates strong consensus on patient-centric digital transformation priorities across the value chain, with universal recognition of the need for precompetitive collaboration. However, significant implementation barriers exist beyond technology, requiring integrated approaches to organizational change, regulatory innovation, and industry-wide standards development. Panel discussions and expert insights provide a pathway for continued collaboration and knowledge sharing. An incremental approach to sharing industry-wide knowledge is further recommended. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7c4879ee8d6d09ee4dfb3873364fb83c" />
-
 ### [Questions and answers on the PIP compliance verification procedure at EMA, and on paediatric rewards](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-pip-compliance-verification-procedure-ema-paediatric-rewards_en.pdf)
 
 - Source: `ema_guidance` · published `2026-10-09` · freshness `fresh`
@@ -2839,38 +2759,6 @@ Steven Quay, a biopharmaceutical executive with no background in infectious dise
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss`
 
 The AHA is once again suing the Trump administration over its plan to revamp a federal drug discount program into one that provides after-the-fact rebates instead of upfront discounts.
-
-### [STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug](https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `30` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss`
-
-Life Biosciences said yesterday that three glaucoma patients have now received a single injection of its experimental cellular reprogramming drug, with no serious adverse events.
-
-### [STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty](https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `67` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss`
-
-The federal government has released new quality ratings for Medicare Advantage insurers for 2027, with Humana emerging as the biggest winner.
-
-### [STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds](https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `55` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss`
-
-The gifts and payments that doctors receive from drugmakers increased inappropriate prescribing, likely leading to rising health care costs, according to a new review.
-
-### [STAT+: Up and down the ladder: The latest comings and goings](https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `19` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss`
-
-From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
 ### [Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study](https://www.jmir.org/article/view/jmir_v28i1e97968)
 
@@ -3038,7 +2926,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002`
 
-Hacker News community signal; score 192.
+Hacker News community signal; score 227.
 
 ### [Outro Raises $7M To Support Safe Deprescribing](https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/)
 
@@ -3072,22 +2960,6 @@ Philips is updating instructions for an ultrasound system after reporting eight 
 
 No summary supplied by the source.
 
-### [Scarlet nabs $50m to grow AI-native medtech certification platform](https://www.medicaldevice-network.com/news/scarlet-nabs-50m-grow-ai-native-medtech-certification-platform/)
-
-- Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
-- Reading value: `48` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/scarlet-nabs-50m-grow-ai-native-medtech-certification-platform/`
-
-<p>Scarlet will expand the reach of its namesake medtech software certification service across the US and APAC markets.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/scarlet-nabs-50m-grow-ai-native-medtech-certification-platform/">Scarlet nabs $50m to grow AI-native medtech certification platform </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Stryker invests $400m into CMR Surgical; secures future buyout option](https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/)
-
-- Source: `medical_device_network` · published `2026-10-12` · freshness `fresh`
-- Reading value: `60` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/`
-
-<p>Stryker's pact with UK-headquartered CMR Surgical gives it a route into the soft tissue robotic surgery market.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/stryker-invests-400m-into-cmr-surgical-secures-future-buyout-option/">Stryker invests $400m into CMR Surgical; secures future buyout option</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [We’re partnering with Flo Health to elevate women’s health](https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/)
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
@@ -3102,7 +2974,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://machinelearning.apple.com/research/distributed-gpu-cloud`
 
-Hacker News community signal; score 243.
+Hacker News community signal; score 246.
 
 ### [A new app experience is coming to cars with Google built-in](https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/)
 
@@ -3240,14 +3112,6 @@ No summary supplied by the source.
 
 In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and chief investment officer of Fifth Wall, discussed the AI shift, why proptech funding totals may overlook some of the sector’s biggest investments, what it all means for founders, and the housing problems he believes still need solving.
 
-### [First patient treated in Spiro’s PULSAR asthma trial](https://www.medicaldevice-network.com/news/first-patient-treated-spiros-pulsar-asthma-trial/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `24` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/first-patient-treated-spiros-pulsar-asthma-trial/`
-
-<p>Spiro Medical has treated the first patient in its PULSAR feasibility study evaluating neuromodulation for severe, uncontrolled asthma.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/first-patient-treated-spiros-pulsar-asthma-trial/">First patient treated in Spiro’s PULSAR asthma trial</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Gemini 4 Argon comes to the Gemini app.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/)
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
@@ -3287,14 +3151,6 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss`
 
 Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.
-
-### [Hiossen and GuidedSMILE collaborate on dental implant workflows](https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `42` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/`
-
-<p>GuidedSMILE and Hiossen Implants have announced a strategic partnership to expand dental professionals' access to guided full-arch implant procedures across North America.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/">Hiossen and GuidedSMILE collaborate on dental implant workflows</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013)
 
@@ -3358,7 +3214,7 @@ Apple today announced Apple Home Collection, a new lineup of smart home accessor
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50073471`
 
-Hacker News community signal; score 33.
+Hacker News community signal; score 34.
 
 ### [Medicare Policy Shouldn’t Be Made in the Shadows](https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/)
 
@@ -3484,9 +3340,9 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/RayenMlayeh/jevcrawl`
+- Event: `updated` · identity: `url:https://github.com/RayenMlayeh/jevcrawl`
 
-Hacker News community signal; score 9.
+Hacker News community signal; score 13.
 
 ### [STAT+: Animosity in North Carolina, and MA shooting stars](https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss)
 
@@ -3592,6 +3448,14 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 <p>The FDA's discussion paper around a proposed approach to GenAI-based medech regulation is open to stakeholder feedback until 19 October 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/">The FDA’s GenAI proposal: evolving regulation for an evolved medtech era</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
+### [Tremfya rescues J&J’s immunology sales to fuel strong Q3](https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/)
+
+- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
+- Reading value: `52` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/`
+
+<p>Despite several products succumbing to generics and biosimilars, J&J raised its 2026 guidance.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/">Tremfya rescues J&amp;J’s immunology sales to fuel strong Q3</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
 ### [We're helping Indiana communities save with clean energy investments.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/)
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
@@ -3624,6 +3488,38 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 The next generation of super apps will likely emerge in markets where widespread mobile access, weak competition, poor financial services and crises that erode trust in banks create demand for a single trusted platform, writes guest author Nnamdi Okike, co-founder and managing partner of 645 Ventures.
 
+### [17 organizations using AI to accelerate scientific breakthroughs](https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `34` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp">These groups are receiving $36 million through the Google.org Impact Challenge: AI for Science.
+
+### [38 Companies Join The Crunchbase Unicorn Board In Blockbuster September, Led By Semiconductor, Fintech And Space Tech Companies](https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `21` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/`
+
+Semiconductors, financial services and space technology led for new Unicorn Board counts with the remainder hailing from a broad swath of industries including biotech, AI infrastructure, AI training, security and frontier labs.
+
+### [6 ways to trick-or-treat yourself to the ultimate Halloween with Search](https://blog.google/products-and-platforms/products/search/halloween-tips-2026/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `7` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/halloween-tips-2026/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp">Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.
+
+### [Agilent acquires Proscia in deal worth up to $270m](https://www.medicaldevice-network.com/news/agilent-acquires-proscia-in-deal-worth-up-to-270m/)
+
+- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
+- Reading value: `57` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/agilent-acquires-proscia-in-deal-worth-up-to-270m/`
+
+<p>The transaction, which is expected to close in Agilent’s fiscal year 2027, follows its $950m acquisition of Biocare Medical in March 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/agilent-acquires-proscia-in-deal-worth-up-to-270m/">Agilent acquires Proscia in deal worth up to $270m</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
 ### [Author Correction: Large language models are powerful electronic health record encoders](https://www.nature.com/articles/s41746-026-03220-1)
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
@@ -3632,6 +3528,22 @@ The next generation of super apps will likely emerge in markets where widespread
 
 No summary supplied by the source.
 
+### [Butterfly Medical secures EU MDR certification for BPH implant](https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/)
+
+- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
+- Reading value: `38` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/`
+
+<p>Butterfly Medical has secured European Union Medical Device Regulation certification for its Butterfly Prostatic Retraction Device.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/">Butterfly Medical secures EU MDR certification for BPH implant</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Check out this year’s buzziest Halloween trends.](https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `7` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…
+
 ### [Electronic health record developer adherence to federal AI risk transparency requirements](https://www.nature.com/articles/s41746-026-03152-w)
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
@@ -3639,6 +3551,110 @@ No summary supplied by the source.
 - Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03152-w`
 
 No summary supplied by the source.
+
+### [Enabling an AI-first European economy](https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp">Announcing Google’s European Economic Impact Report
+
+### [Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo](https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `30` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/`
+
+In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.
+
+### [FDA approves Providence Medical’s CORUS PCSS 3D-T spinal device](https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/)
+
+- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
+- Reading value: `47` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/`
+
+<p>The US FDA has granted 510(k) clearance to Providence Medical Technology for its CORUS Posterior Cervical Stabilization System 3D-T.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/">FDA approves Providence Medical&#8217;s CORUS PCSS 3D-T spinal device</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [How I Learned That Some Startup Problems Are Too Big For A Minimum Viable Product](https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `20` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/`
+
+Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI’s development speed to pursue bigger ambitions without shrinking their vision.
+
+### [Informed Consent in the AI Age: Why and How Documentation Must Change](https://www.jmir.org/article/view/jmir_v28i1e112631)
+
+- Source: `jmir` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112631`
+
+<img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/47cf6656f3f9683f19f3b88a7a305824" />
+
+### [LLMs Are Turing-Complete](https://yager.io/neural/turing/turing.html)
+
+- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://yager.io/neural/turing/turing.html`
+
+Hacker News community signal; score 5.
+
+### [New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability](https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `30` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss`
+
+A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;
+
+### [Opinion: How states can resist the potential Trump vaccine shortages](https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `23` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss`
+
+“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.
+
+### [Opinion: We think a baby’s gut microbiome could be key to lifelong brain health](https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `21` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss`
+
+“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.
+
+### [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://book.humanexperiences.io/`
+
+Hacker News community signal; score 28.
+
+### [STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI](https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `45` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss`
+
+Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.
+
+### [STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine](https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `55` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss`
+
+E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.
+
+### [We’re powering European scientific discovery with advanced AI compute and frontier models.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `32` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp">Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…
 
 ---
 
