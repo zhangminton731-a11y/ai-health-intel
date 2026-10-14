@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-14
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 454
+> Daily status: **complete_with_warning** · sources 26/26 · items 453
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 450
+## Archive · 449
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -2188,7 +2188,7 @@ Oral disease and malnutrition are common and closely linked problems in long-ter
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
 
 No summary supplied by the source.
 
@@ -2316,7 +2316,7 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
 
 No summary supplied by the source.
 
@@ -2332,7 +2332,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
 
 No summary supplied by the source.
 
@@ -2348,7 +2348,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-07` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
 
 No summary supplied by the source.
 
@@ -2628,7 +2628,7 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 - Source: `nature_biomedical_engineering` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
 
 No summary supplied by the source.
 
@@ -2936,14 +2936,6 @@ Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and 
 
 No summary supplied by the source.
 
-### [AI-based hourly prediction of emergency department demand integrating social determinants of health](https://www.nature.com/articles/s41746-026-03378-8)
-
-- Source: `npj_digital_medicine` · published `2026-10-12` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03378-8`
-
-No summary supplied by the source.
-
 ### [App Store Indie Games Week kicks off today](https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/)
 
 - Source: `apple_newsroom` · published `2026-10-12` · freshness `fresh`
@@ -2972,7 +2964,7 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `58` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/`
 
 <p><a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/"><img width="1000" height="666" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-768x511.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></a></p><p>Asahi Kasei’s Hovilpri is now approved for treating lesions caused by herpes simplex virus infection. This daily pill came from the $919 million acquisition of AiCuris Anti-Infective Cures.</p> <p>The post <a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/">Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2988,7 +2980,7 @@ Ascensia Diabetes Care led a $36 million Series B round in London-based glucose 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
 
 No summary supplied by the source.
 
@@ -3046,7 +3038,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002`
 
-Hacker News community signal; score 133.
+Hacker News community signal; score 192.
 
 ### [Outro Raises $7M To Support Safe Deprescribing](https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/)
 
@@ -3110,7 +3102,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://machinelearning.apple.com/research/distributed-gpu-cloud`
 
-Hacker News community signal; score 216.
+Hacker News community signal; score 243.
 
 ### [A new app experience is coming to cars with Google built-in](https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/)
 
@@ -3135,14 +3127,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/`
 
 <p>Following Abram’s completion of a $10.75m financing round in February, the company is now eyeing an FDA filing for its blood coagulation diagnostic.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/">Abram snags $8.3M US DoD contract to advance blood coagulation diagnostic</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [AEGIS: an operational infrastructure for post-market governance of adaptive medical AI under US and EU regulatory frameworks](https://www.nature.com/articles/s41746-026-03290-1)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03290-1`
-
-No summary supplied by the source.
 
 ### [Ambient AI Scribe Technology and Perceived Documentation Efficiency Among Surgeons: Cross-Sectional Study](https://medinform.jmir.org/2026/1/e89329)
 
@@ -3224,14 +3208,6 @@ No summary supplied by the source.
 
 No summary supplied by the source.
 
-### [Domain Health](https://news.ycombinator.com/item?id=50080125)
-
-- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=50080125`
-
-Hacker News community signal; score 3.
-
 ### [E2 wins FDA clearances for integrated Hēlo thrombectomy platform](https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/)
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
@@ -3244,7 +3220,7 @@ Hacker News community signal; score 3.
 
 - Source: `jmir` · published `2026-10-13` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100936`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100936`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Sit-to-stand and sit-to-walk are common functional movements that provide insight into an individual’s functional mobility. Developing comprehensive measures of these movements using ear-worn inertial measurement units (IMUs), which are increasingly incorporated into widely used devices such as hearing aids and headphones, could provide a means of monitoring older adults and individuals with movement disorders with minimal additional burden. &lt;strong&gt;Objective:&lt;/strong&gt; This paper aimed to introduce comprehensive outcome measures for sit-to-stand and sit-to-walk movements based on data from ear-worn IMUs, and to evaluate their agreement with an optical motion capture reference. &lt;strong&gt;Methods:&lt;/strong&gt; Data were analyzed from 62 participants, of whom 46 (18 male and 28 female; median age 27, IQR 15 years) did not have a known underlying movement condition and 16 (7 male and 9 female; median age 62, IQR 23 years) did. The participants wore a bespoke 3D-printed headset that contained 6-axis IMUs placed beside their left and right ears. A reflective marker was placed on each participant’s seventh cervical vertebra to provide an optical motion capture reference. Each participant performed 3 sit-to-stand movements and 3 sit-to-walk movements. The reported outcome metrics included overall and subphase durations, acceleration, velocity, power, movement smoothness, and hesitation. Agreement between ear-derived and optical outcomes was evaluated using linear mixed-effects analyses accounting for repeated trials within participants, including systematic and proportional bias, limits of agreement, root mean squared error, and smallest detectable difference. &lt;strong&gt;Results:&lt;/strong&gt; Temporal outcomes demonstrated the closest agreement between systems. The mean overall movement duration differed by 0.09 (SD 0.12) seconds for sit-to-stand and 0.06 (SD 0.17) seconds for sit-to-walk, with 95% limits of agreement of –0.14 to 0.32 seconds and –0.28 to 0.39 seconds, respectively. Strong linear relationships were observed for peak power, with mixed-effects regression slopes of 0.70 for sit-to-stand and 0.68 for sit-to-walk, although systematic biases of 172 (95% CI 153-190) W and 191 (95% CI 168-215) W indicated that ear-derived and seventh cervical vertebra–derived power were not interchangeable. Peak upward acceleration similarly showed systematic biases of 1.05 (95% CI 0.93-1.18) and 1.30 ms&lt;sup&gt;–2&lt;/sup&gt; (95% CI 1.14-1.45) for sit-to-stand and sit-to-walk, respectively. Hesitation demonstrated comparatively small absolute error (root mean squared error 0.04 and 0.03, respectively), whereas smoothness and other fluency outcomes showed greater disagreement between measurement systems. &lt;strong&gt;Conclusions:&lt;/strong&gt; The ear-worn IMUs extracted a broad range of sit-to-stand and sit-to-walk outcome measures, although agreement with the optical reference varied between measures. Temporal outcomes demonstrated the closest agreement, whereas kinematic, power, and fluency measures showed varying degrees of systematic and proportional disagreement. These findings support the feasibility of using ear-worn IMUs for comprehensive functional movement assessment and provide a basis for subsequent validation of the most robust outcomes in clinically relevant populations. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/6d9803b1c9e7b47c08992e5400684bc3" />
 
@@ -3300,7 +3276,7 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `56` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
 
 <p><a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"><img width="600" height="356" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300.jpg 767w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration.</p> <p>The post <a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/">Happy Health’s Cuffless BP Device Wins FDA Clearance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3324,7 +3300,7 @@ Helen Branswell, STAT's infectious disease reporter who earned the respect of ex
 
 - Source: `mit_health` · published `2026-10-13` · freshness `fresh`
 - Reading value: `22` · status: `needs_review`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013`
 
 Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.
 
@@ -3348,7 +3324,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
 
 No summary supplied by the source.
 
@@ -3382,13 +3358,13 @@ Apple today announced Apple Home Collection, a new lineup of smart home accessor
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50073471`
 
-Hacker News community signal; score 32.
+Hacker News community signal; score 33.
 
 ### [Medicare Policy Shouldn’t Be Made in the Shadows](https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/)
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `27` · status: `needs_review`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/`
 
 <p><a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Medicare policy should be transparent and include appropriate notice and stakeholder input. And when a contractor gets it wrong, there should be a clear and rapid way to stop the harm to patients, their relationship with their doctor and the doctor’s practice.</p> <p>The post <a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/">Medicare Policy Shouldn’t Be Made in the Shadows</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3432,14 +3408,6 @@ No summary supplied by the source.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp">Take a look at everything that’s new across Google Play.
 
-### [OpenAI employee arrested by FBI over hidden listening device, company says](https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/)
-
-- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/`
-
-Hacker News community signal; score 27.
-
 ### [Opinion: Lethal injection will never be the same after Christa Pike’s botched execution](https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
@@ -3460,7 +3428,7 @@ Hacker News community signal; score 27.
 
 - Source: `jmir` · published `2026-10-13` · freshness `fresh`
 - Reading value: `50` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e88656`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e88656`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Cognitive late effects affect 35%-60% of patients with pediatric cancer. Computerized cognitive training (CCT) is promising for cognitive training. Parents play a key role in children’s CCT participation, particularly by providing guidance and practical support during training. Yet, little is known about parents’ views on integrating CCT into the management of cognitive late effects in these patients. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to explore parents’ perspectives on the use of CCT for managing cognitive late effects in children with cancer, including perceived facilitators, barriers, and suggestions for improvement. &lt;strong&gt;Methods:&lt;/strong&gt; We conducted semistructured interviews with parents of children with cancer aged 3-6 years who had used or were currently using CCT for cognitive training. Interviews were audio-recorded and transcribed verbatim in Chinese and analyzed using inductive thematic analysis. Selected anonymized quotations were translated into English by the first author and reviewed against the original Chinese transcripts to ensure accuracy and preserve contextual meaning. &lt;strong&gt;Results:&lt;/strong&gt; We recruited 20 parents and identified 3 main themes and 12 subthemes regarding the use of CCT for cognitive management in children with cancer: (1) Perceptions of Integrating CCT into Cognitive Management, including Narrowing the Gap with Peers, Brief Yet Persistent Participation, It Freed Up My Time, Perceived Changes in Cognitive Functioning, and It Brings Fun; (2) Challenges, including Sometimes It’s a Bit Hard for the Child, Sometimes We Forget to Do the Training, Fear of the “Retard” Label, and Can We Afford to Keep Doing This?; and (3) Opportunities for Improvement, including Need for Tailored Training, Information Needs, and Don’t Leave Us Hanging. &lt;strong&gt;Conclusions:&lt;/strong&gt; This study suggests that parents generally perceived CCT as a practical, engaging, and convenient approach to supporting cognitive management in children with cancer, particularly for home-based training. However, several challenges remain to be addressed to facilitate sustained engagement with CCT. Although some parents perceived improvements in their children’s cognitive functioning following CCT, these perceptions do not establish the effectiveness of the intervention. Overall, this study highlights the potential value of CCT from parents’ perspectives and provides practical insights for developing more flexible, individualized, and family-centered CCT interventions. Future research should incorporate children’s perspectives, recruit more diverse samples, consider potential concerns related to prolonged screen use, and use objective cognitive outcomes to evaluate CCT effectiveness. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2b639a60c8452299dde1bf807fab7f60" />
 
@@ -3500,7 +3468,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
 
 No summary supplied by the source.
 
@@ -3508,9 +3476,17 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `60` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/`
 
 <p><a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals.</p> <p>The post <a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/">Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl)
+
+- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://github.com/RayenMlayeh/jevcrawl`
+
+Hacker News community signal; score 9.
 
 ### [STAT+: Animosity in North Carolina, and MA shooting stars](https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss)
 
@@ -3524,7 +3500,7 @@ In this edition of Health Care Inc., we examine the controversy around the healt
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `65` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss`
 
 Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.
 
@@ -3596,7 +3572,7 @@ Steris said Monday it struck a $2.1 billion deal to acquire Xodus Medical for it
 
 - Source: `jmir_medinform` · published `2026-10-13` · freshness `fresh`
 - Reading value: `54` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e96515`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e96515`
 
 <strong>Background:</strong> Purpose-built AI well-being tools—designed with clinical safeguards for everyday emotional difficulties such as stress, grief, and relationship conflict—represent a growing category of digital mental health support. When such tools are removed from the market, users must navigate alternatives on their own; however, no empirical data exist on where they actually turn. <strong>Objective:</strong> We aimed to characterize real-world support-seeking after the withdrawal of a purpose-built AI well-being mobile app (Ash), specifically to (1) document where former users turned for emotional and mental health support, (2) characterize how general-purpose AI tools were used for mental health, (3) assess perceived changes in service access and subjective well-being, and (4) capture qualitative experiences of the transition. <strong>Methods:</strong> We conducted a cross-sectional survey of 393 UK-based adults who had used Ash within 90 days before its withdrawal from the UK market in January 2026. Of 7415 randomly sampled eligible users invited by email, 393 (response rate 5.3%) responded and 364 (92.6%) completed all items. The survey assessed self-reported sources of emotional and mental health support following withdrawal, use of general-purpose AI tools, perceived changes in access to support, and subjective well-being. Free-text responses (n=272) were analyzed using codebook-based qualitative content analysis, with the codebook developed through a hybrid inductive-deductive process. Reporting follows the CHERRIES (Checklist for Reporting Results of Internet E-Surveys) guidelines. <strong>Results:</strong> The most common primary sources of mental health support since losing access to a purpose-built AI well-being application were general-purpose AI tools (27.1%, 104/384; 95% CI 22.9-31.7) and no support at all (26%, 100/384; 95% CI 21.9-30.7). Relatively fewer respondents reported turning to National Health Service services (19/384, 4.9%; 95% CI 3.2-7.6) or a private therapist (8.1%, 31/384; 95% CI 5.7-11.2) as their primary resource. Among the 157 respondents reporting use of general-purpose AI for mental health support, the dominant motivations were instant access (78.3%, 123/157) and cost (73.9%, 116/157) rather than perceived helpfulness (18.5%, 29/157). Overall, 60.2% (219/364; 95% CI 55.1-65.1) reported worse access to support, rising to 80.7% (71/88; 95% CI 71.2-87.6) among those who had not sought support since. Qualitative themes converged on these patterns: 33.8% (92/272) reported finding no suitable alternative, 22.8% (62/272) judged general-purpose AI inferior, and 15.8% (43/272) expressed emotional distress at the loss. <strong>Conclusions:</strong> In this exploratory, retrospective survey, removing a purpose-built AI well-being tool was not associated with a redirection to human-led mental health services; most respondents turned to general-purpose AI or stopped seeking support entirely, and those who disengaged reported the poorest well-being. Regulatory frameworks should account for real-world care-seeking behavior when evaluating the risks and benefits of purpose-built AI tools for general wellness. <strong>Trial Registration:</strong>
 
@@ -3628,7 +3604,7 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `32` · status: `needs_review`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/`
 
 <p><a href="https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/"><img width="591" height="447" src="https://medcitynews.com/wp-content/uploads/sites/7/2016/07/value-based-care-e1520889493759.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" /></a></p><p>Corporate venture funds often chase financial returns while ignoring strategic value. Here’s what it takes to turn healthcare portfolio investments into lasting business impact. </p> <p>The post <a href="https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/">What Corporate Venture Funds Get Wrong about Strategic Value</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3636,7 +3612,7 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 - Source: `oura_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `19` · status: `needs_review`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/oura-ring-what-to-know-2026/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/oura-ring-what-to-know-2026/`
 
 <p>Thinking about getting an Oura Ring? Before you buy, it helps to know exactly what you&#8217;re paying for, how long the battery lasts, and what happens if your smart ring needs a repair. Whether you want to understand your sleep better or build a smarter workout routine around your Activity goal, Oura can fit into [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/oura-ring-what-to-know-2026/">What to Know When Buying an Oura Ring</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -3647,6 +3623,22 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 - Event: `seen` · identity: `url:https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/`
 
 The next generation of super apps will likely emerge in markets where widespread mobile access, weak competition, poor financial services and crises that erode trust in banks create demand for a single trusted platform, writes guest author Nnamdi Okike, co-founder and managing partner of 645 Ventures.
+
+### [Author Correction: Large language models are powerful electronic health record encoders](https://www.nature.com/articles/s41746-026-03220-1)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03220-1`
+
+No summary supplied by the source.
+
+### [Electronic health record developer adherence to federal AI risk transparency requirements](https://www.nature.com/articles/s41746-026-03152-w)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03152-w`
+
+No summary supplied by the source.
 
 ---
 
