@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-14
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 453
+> Daily status: **complete_with_warning** · sources 25/26 · items 454
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,15 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 449
-
-### [Professor Ioannis Yannas, pioneer of regenerative medicine who invented artificial skin for the treatment of severe burns, dies at 90](https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027)
-
-- Source: `mit_health` · published `2025-10-27` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://news.mit.edu/2025/professor-ioannis-yannas-dies-1027`
-
-A beloved member of the Department of Mechanical Engineering for nearly 60 years, Yannas helped save the lives of thousands of burn victims through his research and innovation.
+## Archive · 450
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -647,14 +639,6 @@ Quality improvement (QI) is a routine part of health care delivery, but ineffect
 - Event: `seen` · identity: `pmid:42624516`
 
 <h4>Objective</h4>To determine whether an elevated head position (30-40°) improves functional outcomes compared with a flat head position (0-10°) in patients with acute ischaemic stroke caused by anterior circulation large vessel occlusion who have achieved successful reperfusion after endovascular thrombectomy.<h4>Design</h4>Multicentre, prospective, randomised, open label, blinded endpoint clinical trial.<h4>Setting</h4>67 comprehensive stroke centres in China, between 16 November 2023 and 23 January 2025.<h4>Participants</h4>1368 adults (aged ≥18 years) with acute ischaemic stroke caused by anterior circulation large vessel occlusion who achieved successful endovascular reperfusion, defined as an expanded thrombolysis in cerebral infarction score ≥2b after endovascular thrombectomy.<h4>Interventions</h4>Participants were randomly assigned (1:1) to maintain either an elevated head position (30-40°, n=685) or a flat head position (0-10°, n=683) for 72 hours after endovascular thrombectomy. MAIN: <b>outcome measures</b> The primary outcome was functional status at 90 days after randomisation, assessed by shift analysis of scores on the modified Rankin scale (range 0-6). The primary safety outcome was all cause mortality at 90 days after randomisation. Efficacy analyses used the randomised, full analysis set, and safety analyses used the safety population (identical to the randomised population). Adjusted models included age, baseline National Institutes of Health Stroke Scale score (NIHSS), baseline Alberta Stroke Programme Early Computed Tomography Score, occlusion site, and time from last known well (ie, the last time when the patient was known to be at their usual neurological baseline before the current stroke event) to randomisation.<h4>Results</h4>In the population of 1368 randomised patients, the median age was 68 years, 565 participants (41.3%) were women, and 1358 (99.3%) completed the 90 day follow-up. The median baseline NIHSS score was 15, the median 90 day modified Rankin scale score was 3 (interquartile range (IQR) 1-5) in the head elevation group versus 3 (IQR 1-5) in the flat head position group (adjusted generalised odds ratio for a lower level of disability 1.12, 95% confidence interval (CI) 0.97 to 1.29, P=0.14). All cause mortality at 90 days occurred in 125 (18.3%) of 682 patients in the elevated head position group and 137 (20.3%) of 676 patients in the flat head position group (adjusted risk ratio 0.86, 95% CI 0.69 to 1.07, P=0.18).<h4>Conclusions</h4>72 hours of head elevation did not significantly improve 90 day functional outcomes versus flat head positioning in patients who had acute ischaemic stroke from large vessel occlusion with successful reperfusion after thrombectomy. The smaller than expected difference in results between the two groups leaves open the possibility of a modest but clinically meaningful benefit of head elevation in these patients.<h4>Trial</h4><b>registration</b> ClinicalTrials.gov NCT06115707.
-
-### [Oura Welcomes Sanjay Chandra as Chief Information Officer and Han Chiu as SVP of AI and Software Engineering](https://ouraring.wpengine.com/oura-welcomes-sanjay-chandra-and-han-chiu/)
-
-- Source: `oura_blog` · published `2026-08-20` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://ouraring.wpengine.com/oura-welcomes-sanjay-chandra-and-han-chiu/`
-
-<p>Oura is pleased to welcome Sanjay Chandra as Chief Information Officer, reporting to Sean Brecker, and Han Chiu as Senior Vice President of AI and Software Engineering, reporting to Michael Chapp. Together, they bring deep experience scaling enterprise technology, software organizations, health technology, and AI-powered product development during periods of significant growth. “Oura has spent [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/oura-welcomes-sanjay-chandra-and-han-chiu/">Oura Welcomes Sanjay Chandra as Chief Information Officer and Han Chiu as SVP of AI and Software Engineering</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
 ### [Diagnosis and management of acute hyperkalaemia.](https://doi.org/10.1136/bmj-2026-100287)
 
@@ -2168,22 +2152,6 @@ Children and adolescents are growing up in a hybrid world in which digital media
 
 Notice NOT-OD-26-120 from the NIH Guide for Grants and Contracts
 
-### [Engineering human multi-organ tissue chip niches for drug absorption, distribution, metabolism, excretion and toxicity prediction](https://www.nature.com/articles/s41551-026-01806-4)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01806-4`
-
-No summary supplied by the source.
-
-### [Exploring the Role of Portable Ophthalmic Devices in Clinical and Nonclinical Settings: Qualitative Study of Ophthalmologists and Optometrists](https://medinform.jmir.org/2026/1/e87040)
-
-- Source: `jmir_medinform` · published `2026-10-05` · freshness `fresh`
-- Reading value: `51` · status: `scored`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e87040`
-
-Background: Access to eye care is a persistent challenge due to the high global burden of visual impairment and barriers to receiving eye care, such as transportation and cost. Conventional ophthalmic equipment is immobile and unsuitable for bedside or community use, and this limits timely diagnosis and care delivery. Portable ophthalmic devices, such as handheld slit-lamps and fundus cameras, offer the potential to extend diagnostic capabilities to nonclinical settings and improve accessibility of eye care. Objective: This study examined eye care professionals’ perceptions and experiences with portable ophthalmic devices, focusing on their roles in both clinical and nonclinical settings. Methods: Thirty-one practicing eye care professionals (16 ophthalmologists, 15 optometrists; 16 female, 15 male) with 2 to 45 years of clinical experience (mean 20.5, SD 13.1 y) participated. Semistructured interviews were conducted in person or via videoconferencing. The interview included open-ended qualitative questions on current and past use, benefits, and desired features of portable devices, along with quantitative ratings of device attributes on a 1 to 10 scale. Transcripts were coded in NVivo using thematic analysis, and descriptive statistics were calculated for the quantitative data. Results: Participants described portable devices as essential in settings where conventional equipment is impractical, including hospital rooms, emergency departments, nursing homes, and outreach. They emphasized utility for patients with mobility challenges and cognitive impairments. Key benefits included earlier disease detection and support for screening and referrals. Challenges involved image quality and device stabilization. Quantitative ratings of portable device attributes showed the highest scores for speed (median 8, IQR 6-8) and ease of use (median 8, IQR 6-8). Conclusions: Portable ophthalmic devices expand access to eye care beyond standard clinics and accommodate patients underserved by traditional equipment. Addressing technical and usability challenges and enhancing training opportunities will strengthen their integration into routine and outreach care.
-
 ### [Extracting Quality-of-Life Information of Patients Diagnosed With Breast Cancer From Health Care Online Forum Posts Using Open-Source Large Language Models: Algorithm Development and Evaluation Study](https://ai.jmir.org/2026/1/e92716/)
 
 - Source: `jmir_ai` · published `2026-10-05` · freshness `fresh`
@@ -2220,7 +2188,7 @@ Oral disease and malnutrition are common and closely linked problems in long-ter
 
 - Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01805-5`
 
 No summary supplied by the source.
 
@@ -2240,14 +2208,6 @@ Background: AI-based clinical decision support systems (CDSS) can improve diagno
 
 Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts
 
-### [Selective PET imaging of bacterial infection using a glycosylated <sup>18</sup>F-fluorodeoxyglucose-derived tracer](https://www.nature.com/articles/s41551-026-01798-1)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-05` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01798-1`
-
-No summary supplied by the source.
-
 ### [Shionogi Adds to Its Rare Disease Strategy With $2B IntraBio Acquisition](https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/)
 
 - Source: `medcity_news` · published `2026-10-05` · freshness `fresh`
@@ -2255,22 +2215,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/`
 
 <p><a href="https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>Shionogi’s IntraBio acquisition brings Aqneursa, a drug approved for treating two rare neurological disorders and the potential to expand to additional indications, both rare and common. It’s Shionogi’s second big rare disease move this year, following the acquisition of global rights to an amyotrophic lateral sclerosis drug from Tanabe Pharma. </p> <p>The post <a href="https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/">Shionogi Adds to Its Rare Disease Strategy With $2B IntraBio Acquisition</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Strengthening Dental Payment Integrity Through Smarter Claim Editing](https://medcitynews.com/2026/10/strengthening-dental-payment-integrity-through-smarter-claim-editing/)
-
-- Source: `medcity_news` · published `2026-10-05` · freshness `fresh`
-- Reading value: `22` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/strengthening-dental-payment-integrity-through-smarter-claim-editing/`
-
-<p><a href="https://medcitynews.com/2026/10/strengthening-dental-payment-integrity-through-smarter-claim-editing/"><img width="800" height="800" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Cotiviti_MCN_DCA-Sponsored-Post_800x800.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Cotiviti_MCN_DCA-Sponsored-Post_800x800.png 800w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Cotiviti_MCN_DCA-Sponsored-Post_800x800-300x300.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Cotiviti_MCN_DCA-Sponsored-Post_800x800-150x150.png 150w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Cotiviti_MCN_DCA-Sponsored-Post_800x800-768x768.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Cotiviti_MCN_DCA-Sponsored-Post_800x800-70x70.png 70w" sizes="auto, (max-width: 800px) 100vw, 800px" /></a></p><p>[Sponsored] Fraud, waste, and abuse (FWA) continue to challenge dental plans as overtreatment, miscoding and inappropriate billing practices drive unnecessary costs and weaken payment integrity. For dental payers, the stakes extend beyond financial losses: these issues can also expose members to unnecessary procedures and consume benefits that should be preserved for appropriate care.</p> <p>The post <a href="https://medcitynews.com/2026/10/strengthening-dental-payment-integrity-through-smarter-claim-editing/">Strengthening Dental Payment Integrity Through Smarter Claim Editing</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [The Biggest Healthcare Fix Might Not Come From a Vendor](https://medcitynews.com/2026/10/the-biggest-healthcare-fix-might-not-come-from-a-vendor/)
-
-- Source: `medcity_news` · published `2026-10-05` · freshness `fresh`
-- Reading value: `20` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-biggest-healthcare-fix-might-not-come-from-a-vendor/`
-
-<p><a href="https://medcitynews.com/2026/10/the-biggest-healthcare-fix-might-not-come-from-a-vendor/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/clinic.jpg" class="attachment-large size-large wp-post-image" alt="A receptionist in a doctor&#039;s office hands paperwork to a patient over the counter. The office is bright and modern, providing a welcoming atmosphere." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/clinic.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/clinic-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Nobody has ever needed convincing on what to fix. What they&#8217;ve lacked is a way to act on it themselves, in something close to real time instead of on a vendor&#8217;s roadmap.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-biggest-healthcare-fix-might-not-come-from-a-vendor/">The Biggest Healthcare Fix Might Not Come From a Vendor</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Trump Administration Announces $90 Payments to Help Cover Medicare Part B Premiums](https://medcitynews.com/2026/10/trump-administration-announces-90-payments-to-help-cover-medicare-part-b-premiums/)
 
@@ -2372,7 +2316,7 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
 
 No summary supplied by the source.
 
@@ -2388,7 +2332,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01780-x`
 
 No summary supplied by the source.
 
@@ -2404,7 +2348,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-07` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
 
 No summary supplied by the source.
 
@@ -2568,14 +2512,6 @@ In this Viewpoint, we highlight the principal cybersecurity measures that should
 
 Background: Timely access to stroke care is critical for patient prognosis. Despite the growing use of digital health strategies in stroke management, evidence supporting seamless and timely care coordination from the emergency medical services (EMS) to the emergency department (ED) remains limited. <i>Brain Saver</i>, a newly developed mobile app, addresses this gap by facilitating real-time data sharing between EMS personnel and ED clinicians during stroke transport. Objective: This study aimed to examine the potential of the Brain Saver protocol to improve existing EMS-ED workflows in emergency stroke transport by describing its functional components, implementing a pilot intervention in a real-world setting, and exploring its preliminary impact on treatment timeliness. Methods: Data were collected in Pohang, South Korea, from December 2023 to April 2024 through collaboration with 2 fire stations, eight 119 EMS and safety centers, 3 hospitals, and SEERS Technology. Preintervention training and postintervention surveys were conducted among EMS personnel (n=80) and clinicians (n=24). In this pilot, patients with stroke (<i>ICD-10</i> [<i>International Classification of Diseases, Tenth Revision</i>] codes I60-I63) in the intervention group (n=34) were transported using ambulances equipped with the Brain Saver mobile app, while the comparison group (n=129) was transported by standard ambulances to the same hospitals during the study period. With “needle” defined as any parenteral treatment, onset-to-door time and door-to-needle time were compared by group. After exact matching on age, baseline stroke severity, stroke type, and destination hospital, intervention effects were estimated using generalized estimating equations. Results: Participants (N=163) had a mean age of 69.4 (SD 15.2) years, 50.3% (82/163) were male, and 65.6% (107/163) had ischemic stroke. No significant baseline differences, including stroke severity, were observed between groups. The median onset-to-needle time was shorter in the intervention group than in the comparison group (114 vs 204 minutes; <i>P</i>=.03). In the matched analytic sample (n=91), the intervention group showed significant reductions in onset-to-needle time (Exp(β)=0.49; <i>P</i>=.009) and door-to-needle time (Exp(β)=0.67; <i>P</i>=.04) compared with the comparison group. Conclusions: Integrating digital health into emergency stroke transport may improve care timeliness by supporting real-time prehospital notification and facilitating prompt in-hospital responses. The Brain Saver mobile app shows potential use for reducing onset-to-treatment time. Further larger-scale studies are needed to evaluate implementation fidelity and scalability.
 
-### [Estimating the Economic Value of Supported Online Parent-Led Cognitive Behavioral Therapy to Prevent Child Anxiety Problems: Economic Evaluation of the MYCATS Cluster Randomized Controlled Trial](https://www.jmir.org/article/view/jmir_v28i1e87123)
-
-- Source: `jmir` · published `2026-10-08` · freshness `fresh`
-- Reading value: `66` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e87123`
-
-Background: Childhood anxiety disorders are common and lead to substantial negative long-term outcomes in various life domains. Although digital interventions for preventing childhood anxiety problems have been increasingly used in the recent decade, there is limited evidence documenting their cost-effectiveness (CE). Objective: This study aimed to evaluate the CE of a parent-led online cognitive behavioral therapy with therapist support (OSI+TS) alongside usual school practice (USP), compared to USP alone for children aged 4‐7 years at risk of anxiety disorders identified through universal school screening. Methods: The economic evaluation was conducted alongside the MYCATS trial (N=865), a parallel group, superiority cluster randomized trial across 95 primary or infant schools in England. Schools were randomized (1:1) to OSI+TS or USP, stratified by school-level deprivation. The primary analyses, at 12 months after randomization, considered child quality-adjusted life years (QALYs) as the health economic outcome, using both the UK adult and the Australia adolescent value sets, and costs were from the National Health Service and Personal Social Services perspective. Incremental cost-effectiveness ratios (ICERs) were compared to the UK National Institute for Health and Care Excellence (NICE) recommended threshold of £20,000-£30,000 (£1=US $1.35 as of September 10, 2026) per QALY gained, as per predefined Health Economics Analysis Plan. Sensitivity analyses included a societal perspective and the application of the new NICE cost-effectiveness threshold. Results: Children receiving OSI+TS gained 0.021 (95% CI 0.010-0.033; &lt;.001) and 0.043 (95% CI 0.021-0.064; &lt;.001) QALYs, respectively, for United Kingdom and Australia value sets, with an additional cost of £244.16 compared to school usual practice only, resulting in ICERs of £11,462.47 and £5,700.98, respectively. At the £20,000 threshold, OSI+TS had an 88.2% or 99.3% chance of being cost-effective. Conclusions: OSI+TS is cost-effective compared to usual school provision, supporting its future implementation for children at risk of anxiety problems. Trial Registration: ISRCTN Registry ISRCTN82398107; https://www.isrctn.com/ISRCTN82398107 International Registered Report Identifier (IRRID): RR2-10.1186/s13063-022-06010-8 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/c65a9132e8ac8e3183826302a36d8566" />
-
 ### [Europe Posted Its Strongest Quarter In Q3 In 4 Years, As Its Venture Ecosystem Expands Beyond The UK](https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-08` · freshness `fresh`
@@ -2631,14 +2567,6 @@ Background: Gender-affirming voice training (GAVT) has reduced gender incongruen
 - Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-MH-26-080.html`
 
 Notice NOT-MH-26-080 from the NIH Guide for Grants and Contracts
-
-### [R-SPEAK, an AI-Based Smartphone App to Enhance Communication in People With Expressive Aphasia: Qualitative Acceptability and Usability Study](https://www.jmir.org/article/view/jmir_v28i1e93518)
-
-- Source: `jmir` · published `2026-10-08` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93518`
-
-Background: Aphasia, an acquired language disorder that affects the ability to understand and produce language, significantly impairs effective communication. Large language models (LLMs) such as ChatGPT may help by generating fluent and coherent text, offering new ways to support communication for people with aphasia. Objective: This study aims to coproduce a communication support system using LLMs and evaluate its usefulness and acceptability among people with mild-to-moderate expressive aphasia. Methods: We used the Double Diamond approach across 3 phases. Phase 1: a stroke-survivor patient and public involvement (PPI) group (n=4) and the research team used MoSCoW prioritization (Must Have, Should Have, Could Have, Will Not Have) to rank ideas and co-design a software solution (Revolutionizing Speech Enhancement in Aphasia Using Knowledgeable-AI [R-SPEAK]) to augment verbal communication. Phase 2: 8 LLMs were evaluated on interpreting aphasic utterances from AphasiaBank transcripts. Outputs were compared, and the best responses, selected by team consensus, formed ground truth. The model producing the highest-quality responses was used in the prototype. Four people with aphasia and one carer (n=5) evaluated the prototype in semistructured interviews, and a health care professional (HCP) focus group (n=6) evaluated the concept and prototype. Topic guides were informed by the technology acceptance model (TAM), and thematic analysis themes were mapped onto its constructs. People with aphasia (n=4) rated prototype usability using the System Usability Scale (SUS). Phase 3: to improve processing speed, 12 lightweight LLMs (0.5-4 billion parameters) were evaluated on interpreting real aphasic speech using an LLM-as-a-judge framework to assess answer relevancy, faithfulness, and completeness. Results: In Phase 1, PPI groups (people living with aphasia, carers, and HCPs) identified essential system features and contextual data requirements across 2 co-ideation sessions using MoSCoW prioritization. In Phase 2, Mixtral 8x7B, the best-performing LLM for interpreting aphasic utterances, was used for the prototype. People living with aphasia rated R-SPEAK as good (SUS score: mean 75, SD 9.19). Themes mapped across three TAM constructs. (1) Attitude toward using it: people living with aphasia had high hopes, while clinicians were more cautious about its benefits. (2) Perceived ease of use: participants found it easy, though potentially harder for those with other poststroke impairments or more severe aphasia, with training possibly needed. (3) Perceived usefulness: R-SPEAK could be useful in many scenarios and improve independence. Recommendations included improved accuracy, speed, and tailored interface modifications. Phase 3 showed Qwen2.5:3B performed strongest overall, with high faithfulness and sub-second latency, while models under 1.5 billion parameters showed pronounced hallucination, indicating a lower bound on model capacity for reliable clinical speech interpretation. Conclusions: Our co-designed AI-supported R-SPEAK prototype was considered acceptable to patients. Next steps involve refining and developing a smartphone app for feasibility testing in a larger cohort of people with mild-to-moderate aphasia. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a0bfe6f74c02889d85868b2679720bc7" />
 
 ### [Request for Information (RFI): Opportunities to Reduce Administrative Burden in NIH Extramural Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-118.html)
 
@@ -2700,7 +2628,7 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 - Source: `nature_biomedical_engineering` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
 
 No summary supplied by the source.
 
@@ -2928,14 +2856,6 @@ Life Biosciences said yesterday that three glaucoma patients have now received a
 
 The federal government has released new quality ratings for Medicare Advantage insurers for 2027, with Humana emerging as the biggest winner.
 
-### [STAT+: Pharmalittle: We’re reading about a setback for Argenx, Lilly suits over copycat versions of an obesity drug, and more](https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/?utm_campaign=rss`
-
-The FDA flagged a potential safety signal after four patient deaths in a trial testing a schizophrenia drug, Argenx faces an unusual setback, and more pharma news.
-
 ### [STAT+: Pharma’s free lunches for doctors boost inappropriate prescribing, analysis finds](https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
@@ -3054,7 +2974,7 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 - Reading value: `58` · status: `scored`
 - Event: `updated` · identity: `url:https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/`
 
-<p><a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/"><img width="1000" height="666" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p><p>Asahi Kasei’s Hovilpri is now approved for treating lesions caused by herpes simplex virus infection. This daily pill came from the $919 million acquisition of AiCuris Anti-Infective Cures.</p> <p>The post <a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/">Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/"><img width="1000" height="666" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Asahi_Kasei_headquarters-768x511.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></a></p><p>Asahi Kasei’s Hovilpri is now approved for treating lesions caused by herpes simplex virus infection. This daily pill came from the $919 million acquisition of AiCuris Anti-Infective Cures.</p> <p>The post <a href="https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/">Asahi Kasei Acquisition Pays Off With FDA Approval for Novel Herpes Drug</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Ascensia leads $36M funding round for glucose sensor startup](https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/)
 
@@ -3068,7 +2988,7 @@ Ascensia Diabetes Care led a $36 million Series B round in London-based glucose 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
 
 No summary supplied by the source.
 
@@ -3104,14 +3024,6 @@ No summary supplied by the source.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_air_metal_.max-600x600.format-webp.webp">Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.
 
-### [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas)
-
-- Source: `hn_ai_health_signals` · published `2026-10-12` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://github.com/prabanta-dev/janas`
-
-Hacker News community signal; score 211.
-
 ### [Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem](https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/)
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
@@ -3132,15 +3044,15 @@ Hacker News community signal; score 211.
 
 - Source: `hn_ai_health_signals` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002`
+- Event: `updated` · identity: `url:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002`
 
-Hacker News community signal; score 72.
+Hacker News community signal; score 133.
 
 ### [Outro Raises $7M To Support Safe Deprescribing](https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/)
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `41` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/`
 
 <p><a href="https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268-600x400.jpg" class="attachment-large size-large wp-post-image" alt="drugs prescriptions medications" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/09/GettyImages-914792268.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Outro’s funding included participation from Listen Ventures, Cake Ventures, Jason Calicanis’s LAUNCH, Actions Capital, Hannah Grey Ventures, SemperVirens, Brock Recovery Group and Pave Health Ventures.</p> <p>The post <a href="https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/">Outro Raises $7M To Support Safe Deprescribing</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3148,7 +3060,7 @@ Hacker News community signal; score 72.
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
 - Reading value: `21` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/`
 
 <p><a href="https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-600x400.jpg" class="attachment-large size-large wp-post-image" alt="pediatric kids children" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/12/GettyImages-1423294867.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Investing in pediatric care is not simply a moral imperative. It is one of the most practical long-term investments the healthcare system can make.</p> <p>The post <a href="https://medcitynews.com/2026/10/pediatric-innovation-isnt-a-small-market-problem-its-an-incentive-problem/">Pediatric Innovation Isn’t a Small-Market Problem, It’s an Incentive Problem</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3196,15 +3108,15 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://machinelearning.apple.com/research/distributed-gpu-cloud`
+- Event: `updated` · identity: `url:https://machinelearning.apple.com/research/distributed-gpu-cloud`
 
-Hacker News community signal; score 194.
+Hacker News community signal; score 216.
 
 ### [A new app experience is coming to cars with Google built-in](https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/)
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `15` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp">Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.
 
@@ -3220,7 +3132,7 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
 - Reading value: `49` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/`
 
 <p>Following Abram’s completion of a $10.75m financing round in February, the company is now eyeing an FDA filing for its blood coagulation diagnostic.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/">Abram snags $8.3M US DoD contract to advance blood coagulation diagnostic</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3236,7 +3148,7 @@ No summary supplied by the source.
 
 - Source: `jmir_medinform` · published `2026-10-13` · freshness `fresh`
 - Reading value: `45` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e89329`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e89329`
 
 Background: Clinical documentation demands a significant share of surgeons’ time and can contribute to documentation-related burden and burnout. While electronic health records (EHRs) offer accessibility and completeness, they also impose a substantial documentation burden. Ambient AI scribe solutions aim to reduce this burden by capturing patient-clinician dialogue in real time to automate clinical documentation. However, their specific impact on surgical practice remains under-studied. Objective: We aimed to evaluate surgeons’ perceptions of documentation efficiency, documentation timeliness, and burnout following implementation of an ambient AI documentation tool within the EHR during outpatient clinical encounters. Methods: We conducted a single-center cross-sectional survey of all surgical faculty members at a tertiary care academic institution 3 months after institutional implementation of the ambient AI-powered clinical documentation tool Dragon Ambient Experience (DAX) Copilot. A total of 368 faculty surgeons representing 12 surgical subspecialties were invited to participate. Participants were asked to retrospectively assess their baseline perceptions of documentation burden and subsequently report perceived changes following DAX Copilot implementation using standardized Likert-scale survey items. Descriptive analyses were performed among active DAX Copilot users. Open-ended responses were analyzed using practical thematic analysis. Results: The survey was completed by 28.5% (105/368) of the invited surgeons, with 38.1% (40/105) of participants reporting active DAX Copilot use. Overall, 77.5% (31/40) of users reported some or significant improvement in perceived documentation efficiency. Of those who reported a negative or neutral baseline perception of documentation time, 75.8% (25/33) reported an improved perception of efficiency following implementation of the ambient AI tool, whereas 85.7% (6/7) of surgeons with positive baseline perceptions of documentation time also reported further improvement. Improvements in perceived documentation timeliness were reported by 70.4% (19/27) of surgeons who previously reported negative or neutral baseline perceptions of timeliness and 76.9% (10/13) of surgeons with positive baseline perceptions. Additionally, 72.5% (29/40) of respondents reported enhanced documentation accuracy, detail, and consistency after DAX Copilot implementation. Improvements in self-reported burnout levels were reported less frequently, with 59.0% (23/39) of respondents reporting some or significant improvement, including 63.0% (17/27) with negative or neutral baseline perceptions of burnout. Qualitative feedback highlighted perceived improvements in documentation quality while also identifying current limitations of the technology, including challenges related to EHR integration, device compatibility, and customization. Conclusions: In this single-center survey of surgeons using DAX Copilot in their outpatient clinical practice, use of ambient AI scribe technology was associated with improved perceptions of documentation efficiency and timeliness. These findings suggest that ambient AI tools may improve surgeons’ perceived documentation experience in outpatient surgical care.
 
@@ -3244,7 +3156,7 @@ Background: Clinical documentation demands a significant share of surgeons’ ti
 
 - Source: `apple_newsroom` · published `2026-10-13` · freshness `fresh`
 - Reading value: `6` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/`
 
 Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, and enhanced audio experiences.
 
@@ -3252,7 +3164,7 @@ Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, an
 
 - Source: `apple_newsroom` · published `2026-10-13` · freshness `fresh`
 - Reading value: `10` · status: `scored`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/`
 
 Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.
 
@@ -3268,7 +3180,7 @@ No summary supplied by the source.
 
 - Source: `jmir_medinform` · published `2026-10-13` · freshness `fresh`
 - Reading value: `57` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e92416`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e92416`
 
 <strong>Background:</strong> Small bowel capsule endoscopy (SBCE) is widely used to evaluate small bowel involvement in Crohn disease (CD); however, manual Lewis score calculation is time-consuming and susceptible to interobserver variability. <strong>Objective:</strong> This study aimed to develop and preliminarily validate a multitask deep learning system for automated Lewis score estimation in patients with small bowel CD undergoing SBCE. <strong>Methods:</strong> We developed Eval-Model, a multitask framework integrating You Only Look Once (YOLO)–style lesion detection and localization for ulcers and edema, a stenosis classification branch, and a long short-term memory–based temporal regression module. The primary dataset comprised SBCE examinations from 814 patients at the Children’s Hospital of Fudan University. In this dataset, 725 (89.1%) cases were included for lesion-level annotation, and 89 (10.9%) cases with expert-consensus Lewis scores were used for scoring model development and internal testing. These 89 cases comprised 49 (55.1%) training cases and 40 (44.9%) internal test cases. All splits were performed at the patient level. A retrospective same-center temporal validation cohort of 20 consecutive cases from 2026 and 5 control cases were used for preliminary assessments of temporal robustness and specificity. <strong>Results:</strong> In the 40-case internal Lewis score test set, Eval-Model achieved a mean squared error of 14.693 (95% CI 8.72-22.15), root mean squared error of 3.833 (95% CI 2.95-4.71), mean absolute error of 2.9 (95% CI 2.1-3.8), <i>R</i><sup>2</sup> of 0.82 (95% CI 0.70-0.90), and explained variance of 0.83 (95% CI 0.72-0.91). For lesion recognition, the model achieved an overall mean average precision of 0.94 with an inference time of 15 ms per frame. In the 20-case same-center temporal validation cohort, the mean squared error was 26.848 (95% CI 12.51-45.33), the root mean squared error was 5.182 (95% CI 3.54-6.73), the mean absolute error was 3.3 (95% CI 2.2-4.6), <i>R</i><sup>2</sup> rounded to 1.00 (95% CI 0.98-1.00), and the explained variance rounded to 1.00 (95% CI 0.98-1.00). These temporal estimates require cautious interpretation because of the small, same-center cohort. <strong>Conclusions:</strong> Eval-Model demonstrated preliminary feasibility for automated Lewis score estimation from SBCE in small bowel CD. The system may serve as a standardized adjunct to expert review, but larger multicenter prospective validation with independent external annotation is required before clinical deployment.
 
@@ -3276,7 +3188,7 @@ No summary supplied by the source.
 
 - Source: `jmir_medinform` · published `2026-10-13` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e93922`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e93922`
 
 <strong>Background:</strong> Trauma registries are crucial for evaluating the prognosis of injuries and the quality of trauma care. However, the calculation of Injury Severity Score (ISS) remains a predominantly manual process, which is labor-intensive, potentially error-prone, and difficult to scale. Automating this process is a critical step toward enhancing the efficiency and quality of trauma registry data. <strong>Objective:</strong> This study conducts a feasibility test on the use of large language models (LLMs) to automatically calculate ISS from free-text discharge diagnoses. We specifically investigate the efficacy of retrieval-augmented generation (RAG) to enhance LLM accuracy by incorporating knowledge from the Abbreviated Injury Scale. We compare the performance of baseline LLMs against models augmented with both a standard RAG and a novel, domain-specific RAG framework. <strong>Methods:</strong> In this retrospective validation study, we used deidentified, free-text discharge diagnoses from trauma patients at Chang Gung Memorial Hospital (Linkou, Taiwan) in 2022. Against a physician-verified gold standard, we compared the performance of three systems: (1) baseline LLMs, (2) LLMs with standard RAG, and (3) LLMs with domain-specific RAG, for which the retriever was fine-tuned on trauma-related <i>ICD-10</i> (<i>International Statistical Classification of Diseases, Tenth Revision</i>) codes. Performance was evaluated on a physician-verified test set across exact ISS prediction, tolerance-based accuracy, and ISS severity categories. <strong>Results:</strong> Baseline state-of-the-art LLMs achieve modest exact-match (EM) accuracy, ranging from 47.3% to 64.7%. Standard RAG did not produce consistent gains (54.3% to 60.3%), whereas the domain-specific RAG substantially improved accuracy (62.7% to 75.3%). Performance gains were most pronounced in patients with moderate to severe injuries. GPT-4.1 with domain-specific RAG reached the highest EM accuracy (75.3%, 95% CI 66.1%-82.7%), compared with 70.0% for the deterministic International Classification of Diseases and R statistical software (ICDPIC-R) baseline. Tolerance-based and categorical analyses confirm substantial gains with the domain-specific RAG framework in clinically relevant ranges. <strong>Conclusions:</strong> This single-center feasibility study suggests that LLMs augmented with a domain-specific retriever can calculate the ISS from free-text discharge diagnoses with overall accuracy comparable to that of a deterministic coding tool, with the advantage concentrated in the most severe injuries. This approach may help alleviate the administrative burden of manual coding, enhance standardization, and improve the quality of trauma registry data. Future multi-institutional validation is needed to confirm these findings. <strong>Trial Registration:</strong>
 
@@ -3284,7 +3196,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp">Boost your measurement and ROI with YouTube’s October Demand Gen Drop.
 
@@ -3300,7 +3212,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp">Learn more about our approach to safety and security for Gemini 4 Argon.
 
@@ -3312,6 +3224,14 @@ No summary supplied by the source.
 
 No summary supplied by the source.
 
+### [Domain Health](https://news.ycombinator.com/item?id=50080125)
+
+- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=50080125`
+
+Hacker News community signal; score 3.
+
 ### [E2 wins FDA clearances for integrated Hēlo thrombectomy platform](https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/)
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
@@ -3319,6 +3239,14 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/`
 
 <p>Used with E2’s Hēlo VTE platform, Hēlo Return aspirates blood from thrombectomy procedures and returns it to patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/">E2 wins FDA clearances for integrated Hēlo thrombectomy platform</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Ear-Worn Inertial Measurement of Sit-to-Stand and Sit-to-Walk Movements: Algorithm Development and Validation](https://www.jmir.org/article/view/jmir_v28i1e100936)
+
+- Source: `jmir` · published `2026-10-13` · freshness `fresh`
+- Reading value: `59` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100936`
+
+&lt;strong&gt;Background:&lt;/strong&gt; Sit-to-stand and sit-to-walk are common functional movements that provide insight into an individual’s functional mobility. Developing comprehensive measures of these movements using ear-worn inertial measurement units (IMUs), which are increasingly incorporated into widely used devices such as hearing aids and headphones, could provide a means of monitoring older adults and individuals with movement disorders with minimal additional burden. &lt;strong&gt;Objective:&lt;/strong&gt; This paper aimed to introduce comprehensive outcome measures for sit-to-stand and sit-to-walk movements based on data from ear-worn IMUs, and to evaluate their agreement with an optical motion capture reference. &lt;strong&gt;Methods:&lt;/strong&gt; Data were analyzed from 62 participants, of whom 46 (18 male and 28 female; median age 27, IQR 15 years) did not have a known underlying movement condition and 16 (7 male and 9 female; median age 62, IQR 23 years) did. The participants wore a bespoke 3D-printed headset that contained 6-axis IMUs placed beside their left and right ears. A reflective marker was placed on each participant’s seventh cervical vertebra to provide an optical motion capture reference. Each participant performed 3 sit-to-stand movements and 3 sit-to-walk movements. The reported outcome metrics included overall and subphase durations, acceleration, velocity, power, movement smoothness, and hesitation. Agreement between ear-derived and optical outcomes was evaluated using linear mixed-effects analyses accounting for repeated trials within participants, including systematic and proportional bias, limits of agreement, root mean squared error, and smallest detectable difference. &lt;strong&gt;Results:&lt;/strong&gt; Temporal outcomes demonstrated the closest agreement between systems. The mean overall movement duration differed by 0.09 (SD 0.12) seconds for sit-to-stand and 0.06 (SD 0.17) seconds for sit-to-walk, with 95% limits of agreement of –0.14 to 0.32 seconds and –0.28 to 0.39 seconds, respectively. Strong linear relationships were observed for peak power, with mixed-effects regression slopes of 0.70 for sit-to-stand and 0.68 for sit-to-walk, although systematic biases of 172 (95% CI 153-190) W and 191 (95% CI 168-215) W indicated that ear-derived and seventh cervical vertebra–derived power were not interchangeable. Peak upward acceleration similarly showed systematic biases of 1.05 (95% CI 0.93-1.18) and 1.30 ms&lt;sup&gt;–2&lt;/sup&gt; (95% CI 1.14-1.45) for sit-to-stand and sit-to-walk, respectively. Hesitation demonstrated comparatively small absolute error (root mean squared error 0.04 and 0.03, respectively), whereas smoothness and other fluency outcomes showed greater disagreement between measurement systems. &lt;strong&gt;Conclusions:&lt;/strong&gt; The ear-worn IMUs extracted a broad range of sit-to-stand and sit-to-walk outcome measures, although agreement with the optical reference varied between measures. Temporal outcomes demonstrated the closest agreement, whereas kinematic, power, and fluency measures showed varying degrees of systematic and proportional disagreement. These findings support the feasibility of using ear-worn IMUs for comprehensive functional movement assessment and provide a basis for subsequent validation of the most robust outcomes in clinically relevant populations. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/6d9803b1c9e7b47c08992e5400684bc3" />
 
 ### [Exploring PET and MRI brain networks across healthy controls, mild cognitive impairment, and Alzheimer’s disease](https://www.nature.com/articles/s41746-026-03354-2)
 
@@ -3348,7 +3276,7 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `17` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp">Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.
 
@@ -3356,7 +3284,7 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `9` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp">Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…
 
@@ -3364,15 +3292,23 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `18` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp">We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.
+
+### [Happy Health’s Cuffless BP Device Wins FDA Clearance](https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/)
+
+- Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
+- Reading value: `56` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
+
+<p><a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"><img width="600" height="356" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300.jpg 767w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration.</p> <p>The post <a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/">Happy Health’s Cuffless BP Device Wins FDA Clearance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69](https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `15` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss`
 
 Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.
 
@@ -3383,6 +3319,14 @@ Helen Branswell, STAT's infectious disease reporter who earned the respect of ex
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/`
 
 <p>GuidedSMILE and Hiossen Implants have announced a strategic partnership to expand dental professionals' access to guided full-arch implant procedures across North America.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/hiossen-guidedsmile-dental-implant-workflows/">Hiossen and GuidedSMILE collaborate on dental implant workflows</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013)
+
+- Source: `mit_health` · published `2026-10-13` · freshness `fresh`
+- Reading value: `22` · status: `needs_review`
+- Event: `new` · identity: `url:https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013`
+
+Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.
 
 ### [How many ways can the Trump administration clamp down on international researchers?](https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss)
 
@@ -3400,11 +3344,19 @@ In the span of two days last week, the Trump administration issued two sweeping 
 
 No summary supplied by the source.
 
+### [Interpretable AI model reveals spatial codes of cell recruitment in tissues](https://www.nature.com/articles/s41551-026-01804-6)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+
+No summary supplied by the source.
+
 ### [Interpretable Machine Learning–Derived Nomogram Model to Predict Population Health Literacy: Cross-Sectional Development and Validation Study](https://medinform.jmir.org/2026/1/e77654)
 
 - Source: `jmir_medinform` · published `2026-10-13` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e77654`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e77654`
 
 Background: Health literacy (HL) is a major factor associated with population health. However, no visualized predictive model has been developed to identify populations with low HL in a cost-effective manner. Objective: This study aims to identify key determinants of HL and develop a predictive nomogram model for population-level HL screening. Methods: This study analyzed cross-sectional data from 56,340 residents (aged 15‐69 y) in Zhejiang Province (2023) And used the Chinese Health Literacy Scale to measure HL. We used 3 complementary analytical approaches: logistic regression (LR) analysis to identify HL-associated factors, machine learning models (gradient boosting decision tree [GBDT], extreme gradient boosting [XGBoost], LR, and random forest [RF]) with Shapley additive explanations (SHAP) to quantify predictor importance, and nomogram development using 2023 data with external validation on 2024 data. In the nomogram, model 1 used all the predictive variables, while model 2 used the 5 core predictive variables determined through SHAP analysis. Model performance was evaluated using receiver operating characteristic curves, calibration plots, and decision curve analysis. Results: The nomogram models designed for predicting HL demonstrated robust stability, with good results in external validation. The area under the curve (AUC) values for both the test and validation sets of the machine learning models exceeded 0.75. At the 0.5 threshold, the sensitivities of the GBDT, XGBoost, LR, and RF test sets and validation sets were all >60%. The specificity of the test sets and validation sets of all 4 machine learning models was >75%. The positive predictive value (PPV) and negative predictive value (NPV) were both >60%. The AUC value of nomogram model 1 developed using the data from 2023 was 0.821, and the AUC value of the externally validated nomogram model 1 was 0.814. Similarly, nomogram model 2 had AUC values of 0.819 in the internal validation and 0.812 in the external validation. The PPV and NPV of both the internal validation model 1 and model 2 were all >60%. The integration of GBDT, XGBoost, LR, and RF models, along with the SHAP method, highlighted education level, age, annual household income, smoking, and occupation as the 5 most critical determinants. Conclusions: By using the GBDT, XGBoost, LR, RF, and nomogram models, a predictive model with substantial efficacy was effectively developed and validated for forecasting the HL levels of the population. This comprehensive model not only exhibits a commendable predictive capacity but also identifies the pivotal factors influencing HL. Such insights are crucial for shaping health policies and fostering healthier behaviors across the population.
 
@@ -3412,7 +3364,7 @@ Background: Health literacy (HL) is a major factor associated with population he
 
 - Source: `apple_newsroom` · published `2026-10-13` · freshness `fresh`
 - Reading value: `19` · status: `scored`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/`
 
 Apple today announced Apple Home Collection, a new lineup of smart home accessories built in collaboration with LG Electronics and Schneider Electric.
 
@@ -3420,7 +3372,7 @@ Apple today announced Apple Home Collection, a new lineup of smart home accessor
 
 - Source: `medtech_dive_primary` · published `2026-10-13` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/jjs-medtech-business-slows-again-in-q3/832861/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/jjs-medtech-business-slows-again-in-q3/832861/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/cm_W-FdbiM9BbB0zoOGzQIxUTIYDjzY9Hg-zhECEdaE/g:nowe:208:253/c:1738:982/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS85MzMxNjUxLWZhY3Rvcnktc2hvdC5qcGc=.webp"/></div></figure><p>For the second straight quarter, the cardiovascular unit experienced slower sales growth due to ongoing struggles in the Abiomed business.</p>
 
@@ -3428,17 +3380,17 @@ Apple today announced Apple Home Collection, a new lineup of smart home accessor
 
 - Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=50073471`
+- Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50073471`
 
-Hacker News community signal; score 27.
+Hacker News community signal; score 32.
 
 ### [Medicare Policy Shouldn’t Be Made in the Shadows](https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/)
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `27` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/`
 
-<p><a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Medicare policy should be transparent and include appropriate notice and stakeholder input. And when a contractor gets it wrong, there should be a clear and rapid way to stop the harm to patients, their relationship with their doctor and the doctor’s practice.</p> <p>The post <a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/">Medicare Policy Shouldn’t Be Made in the Shadows</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Medicare policy should be transparent and include appropriate notice and stakeholder input. And when a contractor gets it wrong, there should be a clear and rapid way to stop the harm to patients, their relationship with their doctor and the doctor’s practice.</p> <p>The post <a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/">Medicare Policy Shouldn’t Be Made in the Shadows</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Medtech’s newest engineering discipline is cybersecurity](https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/)
 
@@ -3452,7 +3404,7 @@ Hacker News community signal; score 27.
 
 - Source: `apple_newsroom` · published `2026-10-13` · freshness `fresh`
 - Reading value: `11` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/`
 
 Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.
 
@@ -3476,9 +3428,17 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp">Take a look at everything that’s new across Google Play.
+
+### [OpenAI employee arrested by FBI over hidden listening device, company says](https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.reuters.com/world/us/fbi-arrests-former-openai-employee-planting-listening-device-2026-10-13/`
+
+Hacker News community signal; score 27.
 
 ### [Opinion: Lethal injection will never be the same after Christa Pike’s botched execution](https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss)
 
@@ -3496,11 +3456,19 @@ No summary supplied by the source.
 
 “Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin.
 
+### [Parents’ Perspectives on Using Computerized Cognitive Training to Manage Cognitive Late Effects in Children With Cancer: Qualitative Descriptive Study](https://www.jmir.org/article/view/jmir_v28i1e88656)
+
+- Source: `jmir` · published `2026-10-13` · freshness `fresh`
+- Reading value: `50` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e88656`
+
+&lt;strong&gt;Background:&lt;/strong&gt; Cognitive late effects affect 35%-60% of patients with pediatric cancer. Computerized cognitive training (CCT) is promising for cognitive training. Parents play a key role in children’s CCT participation, particularly by providing guidance and practical support during training. Yet, little is known about parents’ views on integrating CCT into the management of cognitive late effects in these patients. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to explore parents’ perspectives on the use of CCT for managing cognitive late effects in children with cancer, including perceived facilitators, barriers, and suggestions for improvement. &lt;strong&gt;Methods:&lt;/strong&gt; We conducted semistructured interviews with parents of children with cancer aged 3-6 years who had used or were currently using CCT for cognitive training. Interviews were audio-recorded and transcribed verbatim in Chinese and analyzed using inductive thematic analysis. Selected anonymized quotations were translated into English by the first author and reviewed against the original Chinese transcripts to ensure accuracy and preserve contextual meaning. &lt;strong&gt;Results:&lt;/strong&gt; We recruited 20 parents and identified 3 main themes and 12 subthemes regarding the use of CCT for cognitive management in children with cancer: (1) Perceptions of Integrating CCT into Cognitive Management, including Narrowing the Gap with Peers, Brief Yet Persistent Participation, It Freed Up My Time, Perceived Changes in Cognitive Functioning, and It Brings Fun; (2) Challenges, including Sometimes It’s a Bit Hard for the Child, Sometimes We Forget to Do the Training, Fear of the “Retard” Label, and Can We Afford to Keep Doing This?; and (3) Opportunities for Improvement, including Need for Tailored Training, Information Needs, and Don’t Leave Us Hanging. &lt;strong&gt;Conclusions:&lt;/strong&gt; This study suggests that parents generally perceived CCT as a practical, engaging, and convenient approach to supporting cognitive management in children with cancer, particularly for home-based training. However, several challenges remain to be addressed to facilitate sustained engagement with CCT. Although some parents perceived improvements in their children’s cognitive functioning following CCT, these perceptions do not establish the effectiveness of the intervention. Overall, this study highlights the potential value of CCT from parents’ perspectives and provides practical insights for developing more flexible, individualized, and family-centered CCT interventions. Future research should incorporate children’s perspectives, recruit more diverse samples, consider potential concerns related to prolonged screen use, and use objective cognitive outcomes to evaluate CCT effectiveness. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2b639a60c8452299dde1bf807fab7f60" />
+
 ### [Podcast: The FDA’s GenAI proposal: evolving regulation for an evolved medtech era](https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/)
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
 - Reading value: `41` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/`
 
 <p>Dennis Gucciardo, partner at Morgan Lewis, weighs the benefits and potential rationale behind the FDA's discussion paper on GenAI medtech regulation.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/">Podcast: The FDA’s GenAI proposal: evolving regulation for an evolved medtech era</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3508,7 +3476,7 @@ No summary supplied by the source.
 
 - Source: `jmir_ai` · published `2026-10-13` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e95727/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e95727/`
 
 Background: Measles is a major cause of death among infants despite free routine immunization (RI) in low- and middle-income countries (LMICs). Vaccination defaulting contributes to measles outbreak occurrences. Conventional immunization defaulter identification methods are expensive to implement, prone to data falsification, reactive, and overestimate uptake. Several machine learning studies leveraged the use of child and maternal characteristics as predictors of immunization defaulting, overlooking community, demographic, and socioeconomic factors. Similarly, there is limited research regarding the use of interpretable deep learning and advanced ensemble methods to improve model performance in predicting RI defaulters and establishing significant predictors at the national level in the LMIC context, like Uganda. Objective: This study predicts infants at a risk of defaulting on measles vaccination in Uganda and Kenya using advanced ensemble learning architectures. Methods: The study benchmarked classical and deep learning models using Demographic and Health Survey (DHS) datasets (2016-2022) with child, maternal, community, social-economic, and demographic characteristics as predictors. The robust modeling pipeline began with feature selection according to the literature and the expert domain. It was followed by vaccination eligibility, missing value handling, and feature elimination using the phi-k correlation framework. To mitigate class imbalance, synthetic minority over-sampling technique for nominal continuous features was used in a training pipeline after the RobustScaler. Nine baseline classifiers, including Tabular Network (TabNet), multilayer perceptron (MLP), random forest (RF), gradient boosting (GB), adaptive-boosting (AB), among others, underwent stratified k-fold cross-validation and hyperparameter optimization via grid search. Custom soft voting was evaluated alongside TabNet stack architecture for superior ensemble prediction. Models were evaluated for accuracy, precision, recall, and -score. Model explainability was decoded using Shapley additive explanations (SHAP), while Streamlit and SQLite formed the tool architecture. Results: The proposed TabNet+GB+RF custom soft voting achieved significant, nonrandom performance over tuned base models with an -score of 0.7111, area under the curve (AUC) of 0.8847 for Kenya. Conversely, for Uganda, the TabNet hybrid ensemble (GB+RF+ AB→TabNet) was the best with AUC of 0.8862 and -score of 0.6756, which was statistically insignificant. SHAP identified child’s age and vitamin A1 as universal key predictors in both countries; others varied. In Kenya, time to water source, respondents’ education, district lived previously, and current district were the most influential global features, respectively. In Uganda, Polio inactive, Pentavalent3, current district, and respondents’ education were the most influential factors to defaulting, respectively. Conclusions: The proposed advanced ensemble learning models improved the classification of measles vaccine defaulters compared to individual models. The study recommends distinct country-tailored strategies. In Kenya, outreaches are recommended to areas with low literacy, distant water sources, and mobile populations. Conversely, in Uganda, the study recommends reminders to avoid missing preceding vaccines and outreaches to high-default districts. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1ca8a17e6c670ca53851a5e7495c815c" />
 
@@ -3516,7 +3484,7 @@ Background: Measles is a major cause of death among infants despite free routine
 
 - Source: `jmir` · published `2026-10-13` · freshness `fresh`
 - Reading value: `39` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112216`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112216`
 
 Schroeder and colleagues contribute to the understanding of person-centered abortion care by examining preferences for telemedicine and facility-based medication abortion care. We argue that because cost was very or extremely important to three-quarters of participants, price should itself be treated as a feature of care, and studies of patient preferences should attend to the actual prices patients face across care options. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9cfdd0a6d3ba87b2ecef3e443ae312a4" />
 
@@ -3528,13 +3496,37 @@ Schroeder and colleagues contribute to the understanding of person-centered abor
 
 No summary supplied by the source.
 
+### [Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study](https://www.nature.com/articles/s41551-026-01812-6)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+
+No summary supplied by the source.
+
+### [Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity](https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/)
+
+- Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
+- Reading value: `60` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/`
+
+<p><a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals.</p> <p>The post <a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/">Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
 ### [STAT+: Animosity in North Carolina, and MA shooting stars](https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `27` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss`
 
 In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more.
+
+### [STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion](https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
+- Reading value: `65` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss`
+
+Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.
 
 ### [STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug](https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss)
 
@@ -3548,7 +3540,7 @@ Patient advocates and some experts are expressing growing alarm over the perceiv
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `26` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss`
 
 Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office.
 
@@ -3556,7 +3548,7 @@ Doctors have a lot on the line in the next couple years, and they are donating b
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss`
 
 The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry
 
@@ -3564,7 +3556,7 @@ The FTC asked a federal court to hold Martin Shkreli in contempt for violating a
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `58` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss`
 
 Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.
 
@@ -3572,7 +3564,7 @@ Nearly 40% of FDA advisory committee meetings over a 20-year period included eit
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `32` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss`
 
 Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug
 
@@ -3580,7 +3572,7 @@ Patient advocates and some experts are expressing growing alarm over the perceiv
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
 - Reading value: `43` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss`
 
 In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.
 
@@ -3588,7 +3580,7 @@ In this edition of STAT Health Tech: A look at a study recently published in The
 
 - Source: `medtech_dive_primary` · published `2026-10-13` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/`
 
 Steris said Monday it struck a $2.1 billion deal to acquire Xodus Medical for its portfolio of consumable healthcare products. Xodus’ portfolio includes Pink Pad patient-positioning products and the See Sharp laparoscopic cleaning and defogging device. The company expects annual sales to hit $245 million this year. Buying Xodus “makes sense” for Steris because it expands the company’s healthcare consumables offering with high-growth, high-margin products, Needham analysts said in a note to investors.
 
@@ -3600,11 +3592,19 @@ Steris said Monday it struck a $2.1 billion deal to acquire Xodus Medical for it
 
 <p>Steris' Xodus takeover will bolster the former's portfolio of surgical safety devices, adding devices like the Pink Pad to its roster.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/">Steris outlays $2.1bn to acquire Xodus Medical </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
+### [Support-Seeking After Market Withdrawal of a Purpose-Built AI Well-Being Tool (Ash): Cross-Sectional Survey](https://medinform.jmir.org/2026/1/e96515)
+
+- Source: `jmir_medinform` · published `2026-10-13` · freshness `fresh`
+- Reading value: `54` · status: `scored`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e96515`
+
+<strong>Background:</strong> Purpose-built AI well-being tools—designed with clinical safeguards for everyday emotional difficulties such as stress, grief, and relationship conflict—represent a growing category of digital mental health support. When such tools are removed from the market, users must navigate alternatives on their own; however, no empirical data exist on where they actually turn. <strong>Objective:</strong> We aimed to characterize real-world support-seeking after the withdrawal of a purpose-built AI well-being mobile app (Ash), specifically to (1) document where former users turned for emotional and mental health support, (2) characterize how general-purpose AI tools were used for mental health, (3) assess perceived changes in service access and subjective well-being, and (4) capture qualitative experiences of the transition. <strong>Methods:</strong> We conducted a cross-sectional survey of 393 UK-based adults who had used Ash within 90 days before its withdrawal from the UK market in January 2026. Of 7415 randomly sampled eligible users invited by email, 393 (response rate 5.3%) responded and 364 (92.6%) completed all items. The survey assessed self-reported sources of emotional and mental health support following withdrawal, use of general-purpose AI tools, perceived changes in access to support, and subjective well-being. Free-text responses (n=272) were analyzed using codebook-based qualitative content analysis, with the codebook developed through a hybrid inductive-deductive process. Reporting follows the CHERRIES (Checklist for Reporting Results of Internet E-Surveys) guidelines. <strong>Results:</strong> The most common primary sources of mental health support since losing access to a purpose-built AI well-being application were general-purpose AI tools (27.1%, 104/384; 95% CI 22.9-31.7) and no support at all (26%, 100/384; 95% CI 21.9-30.7). Relatively fewer respondents reported turning to National Health Service services (19/384, 4.9%; 95% CI 3.2-7.6) or a private therapist (8.1%, 31/384; 95% CI 5.7-11.2) as their primary resource. Among the 157 respondents reporting use of general-purpose AI for mental health support, the dominant motivations were instant access (78.3%, 123/157) and cost (73.9%, 116/157) rather than perceived helpfulness (18.5%, 29/157). Overall, 60.2% (219/364; 95% CI 55.1-65.1) reported worse access to support, rising to 80.7% (71/88; 95% CI 71.2-87.6) among those who had not sought support since. Qualitative themes converged on these patterns: 33.8% (92/272) reported finding no suitable alternative, 22.8% (62/272) judged general-purpose AI inferior, and 15.8% (43/272) expressed emotional distress at the loss. <strong>Conclusions:</strong> In this exploratory, retrospective survey, removing a purpose-built AI well-being tool was not associated with a redirection to human-led mental health services; most respondents turned to general-purpose AI or stopped seeking support entirely, and those who disengaged reported the poorest well-being. Regulatory frameworks should account for real-world care-seeking behavior when evaluating the risks and benefits of purpose-built AI tools for general wellness. <strong>Trial Registration:</strong>
+
 ### [Tablet-Based Neurocognitive Tests for Ugandan Adolescents Living With HIV: Cross-Sectional Validation Study](https://mhealth.jmir.org/2026/1/e103288)
 
 - Source: `jmir_mhealth` · published `2026-10-13` · freshness `fresh`
 - Reading value: `63` · status: `scored`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e103288`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e103288`
 
 Background: Adolescents living with perinatally acquired HIV (PHIV) remain at risk of neurocognitive difficulties, yet access to valid neurocognitive tests is limited in sub-Saharan Africa (SSA), where most of this population resides. Tests that can be administered by nonspecialist personnel are culturally and linguistically appropriate for SSA’s diverse populations and are brief enough for routine use are needed to expand access, but few such tools exist. Objective: We adapted , a brief tablet-based neurocognitive test battery, into Luganda and evaluated its validity and acceptability for use among Ugandan adolescents with PHIV. Methods: In this cross-sectional validation study, 100 Ugandan adolescents aged 11 to 20 years (50 with PHIV; 50 HIV-negative controls) completed the Luganda- or English-language battery and a commonly used traditional test battery. Participants were recruited from an existing longitudinal cardiovascular cohort at the Joint Clinical Research Centre in Kampala, Uganda. We examined convergent validity with correlations between the 2 batteries’ individual and global -scores, known-groups validity with unadjusted and age-adjusted group comparisons, criterion validity by examining classification agreement between the 2 batteries quantified with Cohen κ, and acceptability through self-reported technology use and ease of use. Results: and the traditional battery global -scores were strongly correlated (=0.75; <.001). Correlations between tests assessing similar domains were generally small to moderate, and were strongest for processing speed, attention, and working memory. Adolescents with PHIV scored significantly lower than controls on global scores for both (=.008) and the traditional battery (=.003), even after adjusting for age. Agreement between batteries in classifying participants ≤1 SD (κ=0.56) and ≤2 SD (κ=0.66) below the global -score mean was moderate, with both batteries classifying more adolescents with PHIV than controls below these thresholds. Although fewer than half of participants (42/97, 43%) had previously used a tablet, most rated as easy to use, and prior tablet experience was not independently associated with performance after age adjustment. Conclusions: The Luganda-adapted demonstrated convergent, known-groups, and criterion validity in Ugandan adolescents with PHIV. By delivering automated administration, automated scoring, and standardized multimedia instructions in the local language on a portable tablet, addresses several persistent barriers to neurocognitive assessment in low-resource settings, including shortages of specialist personnel, the time burden of traditional batteries, and the scarcity of culturally and linguistically appropriate tools. The battery was found to be highly acceptable among adolescents with little or no prior tablet experience. These findings add to a growing body of evidence supporting tablet-based assessment as a practical and scalable mobile health approach to expanding access to neurocognitive testing. Future research should evaluate test-retest reliability, sensitivity to change over time, normative benchmarks, and implementation within real-world clinical workflows.
 
@@ -3612,7 +3612,7 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
 - Reading value: `51` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/`
 
 <p>The FDA's discussion paper around a proposed approach to GenAI-based medech regulation is open to stakeholder feedback until 19 October 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/">The FDA’s GenAI proposal: evolving regulation for an evolved medtech era</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3620,7 +3620,7 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
 - Reading value: `23` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/indiana-energy-imact-program/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp">The Monroe-Gregg School District and Morgan County Public Library will benefit from Google’s $10M clean energy investment in Indiana.
 
@@ -3628,9 +3628,17 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `32` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/`
 
-<p><a href="https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/"><img width="591" height="447" src="https://medcitynews.com/wp-content/uploads/sites/7/2016/07/value-based-care-e1520889493759.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" /></a></p><p>Corporate venture funds often chase financial returns while ignoring strategic value. Here’s what it takes to turn healthcare portfolio investments into lasting business impact. </p> <p>The post <a href="https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/">What Corporate Venture Funds Get Wrong about Strategic Value</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/"><img width="591" height="447" src="https://medcitynews.com/wp-content/uploads/sites/7/2016/07/value-based-care-e1520889493759.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" /></a></p><p>Corporate venture funds often chase financial returns while ignoring strategic value. Here’s what it takes to turn healthcare portfolio investments into lasting business impact. </p> <p>The post <a href="https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/">What Corporate Venture Funds Get Wrong about Strategic Value</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [What to Know When Buying an Oura Ring](https://ouraring.wpengine.com/oura-ring-what-to-know-2026/)
+
+- Source: `oura_blog` · published `2026-10-13` · freshness `fresh`
+- Reading value: `19` · status: `needs_review`
+- Event: `new` · identity: `url:https://ouraring.wpengine.com/oura-ring-what-to-know-2026/`
+
+<p>Thinking about getting an Oura Ring? Before you buy, it helps to know exactly what you&#8217;re paying for, how long the battery lasts, and what happens if your smart ring needs a repair. Whether you want to understand your sleep better or build a smarter workout routine around your Activity goal, Oura can fit into [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/oura-ring-what-to-know-2026/">What to Know When Buying an Oura Ring</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
 ### [Where The Next Generation Of Super Apps Will Be Built](https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/)
 
