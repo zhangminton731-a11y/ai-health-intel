@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-14T12:52:56+00:00",
-  "as_of": "2026-10-14",
+  "generated_at": "2026-10-14T18:01:22+00:00",
+  "as_of": "2026-10-15",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -122,7 +122,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -173,7 +173,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -304,7 +304,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -355,7 +355,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -405,7 +405,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -455,7 +455,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -506,7 +506,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -557,7 +557,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -604,7 +604,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -738,7 +738,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -870,7 +870,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -920,7 +920,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -971,7 +971,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1023,7 +1023,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1075,7 +1075,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1124,7 +1124,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1177,7 +1177,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1307,7 +1307,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1437,7 +1437,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1485,7 +1485,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1536,7 +1536,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1588,7 +1588,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1637,7 +1637,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1766,7 +1766,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {
         "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
@@ -1895,7 +1895,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
@@ -2024,7 +2024,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
@@ -2070,7 +2070,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2117,7 +2117,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2168,7 +2168,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2220,7 +2220,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2271,7 +2271,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2320,7 +2320,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2369,7 +2369,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2417,7 +2417,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2467,7 +2467,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2518,7 +2518,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2570,7 +2570,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2621,7 +2621,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2673,7 +2673,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2725,7 +2725,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2771,7 +2771,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2817,7 +2817,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2869,7 +2869,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2997,7 +2997,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
@@ -3128,7 +3128,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
@@ -3259,7 +3259,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
@@ -3386,7 +3386,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
@@ -3435,7 +3435,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3568,7 +3568,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -3617,7 +3617,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3660,7 +3660,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3712,7 +3712,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3761,7 +3761,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3811,7 +3811,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3859,7 +3859,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3912,7 +3912,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3963,7 +3963,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4012,7 +4012,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4061,7 +4061,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4105,7 +4105,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4235,7 +4235,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
@@ -4369,7 +4369,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
@@ -4417,7 +4417,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4464,7 +4464,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4515,7 +4515,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4564,7 +4564,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4614,7 +4614,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4662,7 +4662,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4713,7 +4713,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4763,7 +4763,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4810,7 +4810,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4858,7 +4858,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4907,7 +4907,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5034,7 +5034,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
@@ -5165,7 +5165,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
@@ -5293,7 +5293,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
@@ -5341,7 +5341,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
@@ -5386,7 +5386,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5434,7 +5434,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5482,7 +5482,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5528,7 +5528,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5578,7 +5578,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5626,7 +5626,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5675,7 +5675,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5726,7 +5726,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5772,7 +5772,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5820,7 +5820,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5866,7 +5866,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -5917,7 +5917,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {},
       "historical": true
@@ -6045,428 +6045,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-25",
       "reasons": {
         "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
-      "t": "奥兹表示，人工智能会先抬高医疗成本，然后再降低医疗成本",
-      "te": "AI will inflate healthcare costs before lowering them, Oz says",
-      "s": "CMS 管理员 Mehmet Oz 博士周三警告说，人工智能将在短期内“涡轮增压”医疗账单并推高成本。但他表示，为了长期节省开支，这种痛苦是值得的。",
-      "se": "AI will “turbocharge” medical billing and drive up costs in the short term, CMS Administrator Dr. Mehmet Oz warned Wednesday. But he says the pain is worth it for long-term savings.",
-      "u": "https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
-      "image": "",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90870",
-      "t": "使用基于轻量级大语言模型的框架进行心脏外科的自动化简短医院课程总结：重症监护医疗信息市场的开发和评估研究-IV",
-      "te": "Automated Brief Hospital Course Summarization in Cardiac Surgery Using a Lightweight Large Language Model–Based Framework: Development and Evaluation Study on the Medical Information Mart for Intensive Care-IV",
-      "s": "结论：通过集成 3 个专门模块，所提出的框架为隐私和资源限制下的临床医生循环 BHC 草案生成提供了实用的、可本地部署的解决方案，并有望提高文档效率并增强护理过渡期间的信息连续性。结果：在没有任何模型训练的情况下，LiteMedDoc 在各个自动化指标上都取得了出色的性能，几乎与微调模型相匹配，并且在所有指标上都超过了 700 亿参数模型。此外，在对肺叶切除病例的数据库内跨域评估中，该框架在及时调整后保持了令人鼓舞的性能，并且优于基本模型和 CABG 微调模型。",
-      "se": "Conclusions: By integrating 3 specialized modules, the proposed framework offers a practical, locally deployable solution for clinician-in-the-loop BHC draft generation under privacy and resource constraints, and holds promise for improving documentation efficiency and enhancing information continuity during care transitions. Results: Without any model training, LiteMedDoc achieved strong performance across individual automated metrics, nearly matching a fine-tuned model and exceeding a 70-billion-parameter model on all metrics. Additionally, in a within-database cross-domain evaluation on lobectomy cases, the framework maintained encouraging performance after prompt adaptation and outperformed both the base model and the CABG-fine-tuned model.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e90870",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "design",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90870"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87806",
-      "t": "神经系统医疗保健中的人工智能：患者和公众认知的定性研究",
-      "te": "AI in Neurological Health Care: Qualitative Study of Patient and Public Perceptions",
-      "s": "结论：神经系统疾病对患者及其家人的生活产生重大影响，对医疗保健系统产生巨大的资源影响。人工智能有潜力带来显着的效益，例如改进诊断、资源效率、新颖的见解以及改善医疗保健的提供。然而，医疗保健系统需要关注健康数据的准备情况和可用性。这项研究强调了为人工智能系统的扩展做好医疗系统准备的重要性，包括支持临床医生和患者在医疗保健中适当和安全地实施人工智能。结果：人工智能在临床决策中的主要好处包括改进神经系统医疗保健的诊断和治疗、增加患者对护理和决策的参与以及资源效率。",
-      "se": "Conclusions: Neurological conditions have a significant impact on the lives of patients and their families, with large resource implications for the health care system. AI has the potential to contribute to significant benefits, such as improved diagnostics, resource efficiency, novel insights, and improved provision of health care. However, the health care system needs to focus on the readiness and availability of health data. This study highlights the importance of preparing health systems for the expansion of AI systems, including supporting clinicians and patients in the appropriate and safe implementation of AI in health care. Results: The main benefits of AI in clinical decision-making included improved diagnostics and treatment for neurological health care, increased patient involvement in care and decision-making, and resource efficiency.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e87806",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87806"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105068",
-      "t": "使用非对比计算机断层扫描对大型血管闭塞紧急分诊的人工智能决策支持：系统审查和贝叶斯诊断测试准确性网络荟萃分析",
-      "te": "AI Decision Support for Emergency Triage of Large Vessel Occlusion Using Noncontrast Computed Tomography: Systematic Review and Bayesian Diagnostic Test Accuracy Network Meta-Analysis",
-      "s": "结论：在回顾性验证队列中，低质量的比较证据表明，基于 NCCT 的 AI（最明显的是单模态成像 AI）比人类阅读范式具有更高的敏感性，但特异性没有明显差异。这些发现支持对基于 NCCT 的人工智能进行前瞻性评估，作为专家评审、计算机断层扫描血管造影优先级、远程中风咨询或转移讨论的有界人机循环提示。证据仍然基于准确性，并且没有确定工作流程有效性、再灌注加速或功能结果益处。试用注册：PROSPERO CRD420261362111；  结果：所有 10 项纳入研究均为回顾性验证研究，包括 11 个验证数据集、28 个研究节点组和 3632 名患者。",
-      "se": "Conclusions: In retrospective validation cohorts, there was low-certainty comparative evidence suggesting that NCCT-based AI, most clearly unimodal imaging AI, had higher sensitivity than human reader paradigms, without a clear difference in specificity. These findings support prospective evaluation of NCCT-based AI as a bounded human-in-the-loop prompt for expert review, computed tomography angiography prioritization, tele-stroke consultation, or transfer discussion. The evidence remains accuracy based and does not establish workflow effectiveness, reperfusion acceleration, or functional outcome benefit. Trial Registration: PROSPERO CRD420261362111; https://www.crd.york.ac.uk/PROSPERO/view/CRD420261362111 Results: All 10 included studies were retrospective validation studies, comprising 11 validation datasets, 28 study node arms, and 3632 patients.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e105068",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105068"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e89548",
-      "t": "在移动健康应用程序辅助的儿童肥胖干预中，看护者应用程序的使用和儿童行为依从性与肥胖相关结果的关系：集群随机试验的二次分析",
-      "te": "Caregiver App Use and Child Behavioral Adherence in Relation to Obesity-Related Outcomes in an mHealth App-Assisted Childhood Obesity Intervention: Secondary Analysis of a Cluster Randomized Trial",
-      "s": "结论：在对 mHealth 应用程序辅助儿童肥胖干预的二次分析中，较高的护理人员应用程序使用依从性和儿童行为依从性与体重状况和身体健康的更有利变化相关。这些发现强调了数字健康计划中共同参与的重要性，并强调了应用程序支持、家庭参与的儿童肥胖预防策略的潜力。试验注册：ClinicalTrials.gov。 NCT03665857；  国际注册报告标识符 (IRRID)：RR2-10.1136/bmjopen-2018-027902 结果：较高的护理人员应用程序使用频率和持续时间均与儿童肥胖相关指标的降低显着相关，例如 BMI (β=−0.19; =.005)、BMI 评分 (β=−0.08; =.006) 和体脂百分比(BFP) (β=−0.70; =.005) 为频率。",
-      "se": "Conclusions: In this secondary analysis of an mHealth app-assisted childhood obesity intervention, higher caregiver app-use adherence and child behavioral adherence were associated with more favorable changes in weight status and physical fitness. These findings underscore the importance of coengagement in digital health programs and highlight the potential of app-supported, family-engaged strategies for childhood obesity prevention. Trial Registration: ClinicalTrials.gov. NCT03665857; http://clinicaltrials.gov/study/NCT03665857 International Registered Report Identifier (IRRID): RR2-10.1136/bmjopen-2018-027902 Results: Higher caregiver app-use frequency and duration were both significantly associated with reductions in children’s obesity-related indicators, such as BMI (β=−0.19; =.005), BMI -score (β=−0.08; =.006), and body fat percentage (BFP) (β=−0.70; =.005) for frequency.",
-      "u": "https://mhealth.jmir.org/2026/1/e89548",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e89548"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-      "t": "我们的新健康和安全工具已在 Google Health 应用中上线。",
-      "te": "Our new health and safety tools are live in the Google Health app.",
-      "s": "Pixel Watch 用户可以在 Google Health 应用中探索新的健康和安全工具。",
-      "se": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
-      "u": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-      "image": "",
-      "src": "Google Blog",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "fitbit_google_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "fitbit_google_blog",
-        "upstream_id": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "pmid:42785338",
-      "t": "粪便微生物移植治疗肠易激综合征 (REFIT2)：一项随机、双盲、安慰剂对照 3 期试验。",
-      "te": "Faecal microbiota transplantation in irritable bowel syndrome (REFIT2): a randomised, double-blind, placebo-controlled, phase 3 trial.",
-      "s": "背景肠道微生物群组成可能在肠易激综合征（IBS）的发病机制中发挥作用，粪便微生物群移植已被提议作为患有这种疾病的个体恢复健康肠道微生物群的一种手段。我们的目的是研究粪便微生物群移植对 IBS 患者的有效性和安全性。方法 在挪威五家医院进行的这项平行组、随机、双盲、安慰剂对照 3 期试验中，我们招募了 18-65 岁患有中重度 IBS 的男性和女性。 IBS 诊断根据罗马 IV 标准和 IBS-Severity Scoring System (IBS-SSS) 评分为 175 分或更高来定义。",
-      "se": "Background Gut microbiota composition might have a role in the pathogenesis of irritable bowel syndrome (IBS), and faecal microbiota transplantation has been proposed as a means of restoring healthy gut microbiota for individuals with this condition. We aimed to investigate the efficacy and safety of faecal microbiota transplantation in patients with IBS. Methods In this parallel-group, randomised, double-blind, placebo-controlled, phase 3 trial, conducted at five hospitals in Norway, we enrolled men and women aged 18-65 years with moderate-to-severe IBS. IBS diagnosis was defined by the Rome IV criteria and an IBS-Severity Scoring System (IBS-SSS) score of 175 points or higher.",
-      "u": "https://doi.org/10.1016/s0140-6736(26)01424-8",
-      "image": "",
-      "src": "The Lancet · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42785338",
-        "upstream_id": "42785338"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:20+00:00",
-        "input_hash": "0352fe71517cd3ebd423f32d9553c03998318c48ae0b349f273f78a2269a893a",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100416220764b4c54205ca4a31",
-              "seconds": 4.33,
-              "usage": {
-                "completion_tokens": 177,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1443,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1620
-              }
-            },
-            "support": "119 (40%) participants in the donor faecal microbiota transplantation group and 57 (38%) in the placebo group showed an improvement of at least 75 points on the IBS-SSS at 90 days after treatment.",
-            "total": 73
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "Phase 3 双盲随机对照试验以高质量设计（450例、自体粪便安慰剂对照）阴性结果明确否定了单次直肠FMT对中重度IBS的临床获益，对肠道菌群研究、试验设计和临床决策均有实质参考价值；主要局限为仅单次给药方案，不能排除重复给药策略的差异性。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162216845c62bed9c2405d",
-              "seconds": 9.39,
-              "usage": {
-                "completion_tokens": 159,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1443,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1602
-              }
-            },
-            "support": "The trial did not show a clinical benefit of faecal microbiota transplantation in patients with IBS. These findings suggest that microbiota modulation alone might be insufficient for symptom improveme",
-            "total": 82
-          }
-        ],
-        "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-24",
-      "reasons": {
-        "research": "针对IBS的菌群移植首个III期随机双盲安慰剂对照试验（450例），给出明确的阴性结果（组间差异仅1.9个百分点，p=0.76），对微生态疗法在IBS中的应用决策有直接参考价值。限制为核心终点基于症状评分自报，且仅单次直肠给药方案，阴性结论未必覆盖重复给药等其他策略。"
       },
       "historical": true
     }
@@ -6561,17 +6143,6 @@
         "url:https://ai.jmir.org/2026/1/e85047/"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-24",
-      "item_ids": [
-        "pmid:42785338",
-        "url:https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-        "url:https://www.medtechdive.com/news/ai-will-inflate-healthcare-costs-before-lowering-them-oz-says/831284/",
-        "url:https://mhealth.jmir.org/2026/1/e89548",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e105068"
-      ],
-      "minutes": 4
     }
   ]
 }

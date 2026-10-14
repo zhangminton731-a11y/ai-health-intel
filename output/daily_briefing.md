@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-10-14
+# Scientific Information Brief · 2026-10-15
 
-> Daily status: **complete_with_warning** · sources 23/26 · items 455
+> Daily status: **complete_with_warning** · sources 24/26 · items 452
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 451
+## Archive · 448
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -368,14 +368,6 @@ Researchers developed an optical nanosensor to rapidly detect a key gut biomarke
 
 Cell biologist Whitney Henry and immunologist Harikesh Wong will receive four years of flexible funding to advance early-career research on ferroptosis and immune decision-making.
 
-### [Manufacturer Effectuation of MFP Draft Guidance for 2028 Medicare Drug Price Negotiation](https://www.cms.gov/newsroom/fact-sheets/manufacturer-effectuation-mfp-draft-guidance-2028-medicare-drug-price-negotiation)
-
-- Source: `cms_fact_sheets` · published `2026-07-16` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/manufacturer-effectuation-mfp-draft-guidance-2028-medicare-drug-price-negotiation`
-
-Medicare Drug Price Negotiation Program: Draft Guidance for Manufacturer Effectuation of the Maximum Fair Price in 2028 On July 16, 2026, the Centers for Medicare & Medicaid Services (CMS) issued program guidance that provides interested parties with detailed processes and requirements for manufacturer effectuation of the maximum fair price (MFP) in 2028. Sections 11001 and 11002 of the Inflation Reduction Act of 2022 (IRA) (P.L. 117-169) establish the Medicare Drug Price Negotiation Program (hereinafter the “Negotiation Program”) to negotiate MFPs for certain high expenditure, single source drugs and biological products. The program’s requirements are described in sections 1191 through 1198 of the Social Security Act (hereinafter “the Act”), as added by sections 11001 and 11002 of the IRA and subsequently amended. This draft guidance sets forth policies regarding manufacturer effectuation of the MFP in 2028 for selected drugs payable under Part B and/or covered under Part D. The Medicare Drug Price Negotiation Program: Final Guidance, Implementation of Sections 1191 – 1198 of the Social Security Act for Initial Price Applicability Year 2028 and Manufacturer Effectuation of the Maximum Fair Price in 2026, 2027, and 2028 (“final guidance for initial price applicability year 2028”) established the MFP effectuation policies for 2026, 2027, and 2028 for selected drugs covered under Part D and such policies currently remain in effect. When issued later this year, the final guidance will supersede for 2028 only the sections of the final guidance for initial price applicability year 2028 with respect to MFP effectuation for selected drugs covered under Part D that are included and updated herein. Additionally, this draft guidance describes procedures that may apply to drug manufacturers, Medicare Part D plan sponsors (both Prescription Drug Plans [PDPs] and Medicare Advantage Prescription Drug [MA-PD] Plans), Medicare Advantage (MA) organizations, pharmacies, mail order services, and other entities that dispense drugs covered under Medicare Part D (hereinafter “dispensing entities”), in addition to hospitals, physicians, and other providers of services and suppliers that furnish or administer drugs payable under Medicare Part B (hereinafter “Part B providers”). There will be a 60-day public comment period on the draft guidance. CMS encourages all interested parties to submit comments so that CMS can consider them as we develop the final guidance for release this fall. Comments can be submitted via email to IRARebateandNegotiation@cms.hhs.gov with the subject line, “Medicare Drug Price Negotiation Program Draft Guidance.” Comments received by 11:59 PM Pacific Time (PT) on September 18, 2026 will be considered. Topics that are not relevant to MFP effectuation in 2028 are not addressed in this draft guidance. CMS refers readers to its Negotiation Program website for information on MFP effectuation policies in 2026 and 2027, Negotiation Program implementation for initial price applicability year 2028, and the proposed rule for Negotiation Program policies for initial price applicability year 2029 and subsequent years. Overview of MFP Effectuation for Selected Drugs Payable under Part B Consistent with section 1193(a) of the Act, this draft guidance describes for the first time how Primary Manufacturers of drugs selected for negotiation or renegotiation for initial price applicability year 2028, that reached an agreement on an MFP through negotiation or renegotiation, as applicable, must provide access to the agreed-upon MFP in 2028 to Part B providers for MFP-eligible individuals who are administered or furnished that selected drug during a price applicability period pursuant to the Medicare Drug Price Negotiation Program Agreement (hereinafter also referred to as an “Agreement”). A Primary Manufacturer must provide access to the MFP in one of two ways: (1) prospectively ensuring that the price paid by the dispensing entity and/or Part B provider when acquiring the drug is no greater than the MFP; or (2) retrospectively providing reimbursement for the difference between the dispensing entity and/or Part B provider’s acquisition cost and the MFP. CMS has engaged a Medicare Transaction Facilitator (MTF) contractor for the Negotiation Program to facilitate the exchange of information between Primary Manufacturers and dispensing entities and/or Part B providers (as applicable). The MTF Data Module (MTF DM) supports the verification that the selected drug was dispensed, administered, or furnished to an MFP-eligible individual. CMS has also engaged a separate MTF contractor to support the MTF Payment Module (MTF PM). The MTF PM facilitates payments from Primary Manufacturers and complements MTF DM data-related activities. This draft guidance describes adjustments to MTF operations to address structural differences (e.g., Medicare billing methodologies) between selected drugs covered under Part D and/or payable under Part B as well as to incorporate data sources for Part B Original Medicare (OM) and MA. MTF DM: Overview of Data Facilitation for Selected Drugs Payable under Part B CMS has, to the extent operationally feasible, aligned the policies to effectuate the MFP for Part B providers submitting claims to OM and Part B providers submitting claims to MA organizations with the policies for effectuation of the MFP for dispensing entities. Key MTF DM policies for Part B claims include, but are not limited to: Data Sources for Part B Claims. Medicare Administrative Contractors (MACs) adjudicate OM claims for selected drugs payable under Part B and submit the claims to CMS’ Integrated Data Repository (IDR). CMS intends to obtain data on OM claims for selected drugs payable under Part B from the IDR. CMS would use OM claims that have completed the adjudication process and are approved to pay to generate and transmit the claim-level data elements to the Primary Manufacturer. Medicare Advantage organizations adjudicate MA claims for selected drugs payable under Part B and submit MA encounter data from the claims to the Encounter Data System (EDS). CMS intends to leverage MA encounter data submitted by MA organizations from MA claims for selected drugs payable under Part B and transmit such data to the MTF DM. In the draft guidance, CMS is soliciting comments on how to use MA encounter data more efficiently for MFP effectuation, such as considerations for a new requirement for MA organizations to submit MA encounter data for encounters for selected drugs payable under Part B on a timeline that is shorter than the MA encounter data submission timeline under 42 CFR 422.310 and requirements to include 11-digit National Drug Codes (NDC-11) and 340B modifiers on MA encounter data. Prompt MFP Payment Window. For operational consistency with manufacturer prompt payment requirements for selected drugs covered under Part D and to ensure Part B providers receive MFP refunds promptly, CMS intends to require the same 14-day time frame for selected drugs payable under Part B as for selected drugs covered under Part D. For Part D claims and Part B claims, the MTF DM’s transmission of the claim-level data elements to the Primary Manufacturer would start the 14-day prompt MFP payment window, within which the Primary Manufacturer must transmit the claim-level payment elements for each claim or encounter, as applicable, identified in the MTF DM claim-level data elements transmitted to the Primary Manufacturer. Also, if applicable, the Primary Manufacturer must transmit payment of an amount that provides access to the MFP when an MFP refund is appropriate. MTF DM Enrollment. Consistent with requirements for Primary Manufacturers of selected drugs covered under Part D, CMS intends to require all Primary Manufacturers of selected drugs payable under Part B that reach an agreed-upon MFP for initial price applicability year 2028 to register with the MTF DM. CMS strongly encourages Part B provider participation with the MTF DM and is considering a process to use data from the Medicare Provider Enrollment, Chain, and Ownership System (PECOS) to facilitate the enrollment process. In addition, CMS is considering potential regulatory options to require any contract between the MA organization and a provider for participation in one or more of the MA organization’s networks include a provision requiring that if the provider furnishes or administers selected drugs payable under Part B, during the period when such drugs are subject to a MFP, the provider must be enrolled in the MTF DM. Part B Claim-Level Data Elements. CMS intends to provide certain claim-level data elements for Part B claims via the MTF DM to Primary Manufacturers. These include data elements used in Part B claims but not in Part D claims, such as Healthcare Common Procedure Coding System (HCPCS) codes. CMS believes that these data elements provide the minimum necessary information to verify the selected drug was furnished or administered to an MFP-eligible individual. Retrospective Refund Amount to Effectuate the MFP and the Standardized Default Refund Amount (SDRA) for Selected Drugs Payable Under Part B A Primary Manufacturer may meet its statutory obligation under section 1193(a)(3) of the Act to make the MFP available to Part B providers by retrospectively transmitting payment for the difference between the Part B provider’s acquisition cost and the MFP (i.e., the MFP refund amount), within the 14-day prompt MFP payment window. CMS recognizes that Primary Manufacturers and Part B providers may face significant challenges establishing a reliable actual acquisition cost for a selected drug that could be used to determine the MFP refund amount. Given the significant operational challenges associated with calculating real-time actual acquisition cost, Primary Manufacturers and Part B providers may agree to use a standardized pricing metric to approximate acquisition cost for calculating any MFP refund amount necessary to make the MFP available. CMS uses a standardized pricing metric (Wholesale Acquisition Cost [WAC]) to calculate a “standard default refund amount” for Part D claims. In this draft guidance, CMS is soliciting comments on four options for the standardized pricing metric to approximate acquisition cost for calculating an SDRA to assist Primary Manufacturers in making the MFP available for Part B claims. These options are: 1a. SDRA is calculated at the HCPCS code level using the average of the WACs for all NDC-11s of a selected drug assigned to a HCPCS code that includes a selected drug, weighted by Average Sales Price (ASP) reported volume. 1b. SDRA is calculated at the NDC-11 level using the WAC as published in the pharmaceutical pricing database compendia. This option would require CMS to collect the NDC-11 data on Part B claims. 2a. SDRA is calculated at the HCPCS code level using the average of the reported ASPs for all NDC-11s of a selected drug assigned to a HCPCS code that includes a selected drug, weighted by ASP-reported sales volume. 2b. SDRA is calculated at the HCPCS code level using the average of the reported ASPs for all NDC-11s of a selected drug assigned to a HCPCS code that includes a selected drug, volume-weighted by NDCs on Part B claims. This option would require CMS to collect the NDC-11 data on Part B claims. Nonduplication with 340B Ceiling Price Under section 1193(d)(1) of the Act, the Primary Manufacturer of a selected drug is not required to provide MFP access if the selected drug is subject to an agreement described in section 340B(a)(1) of the Public Health Service (PHS) Act and the 340B ceiling price (defined in section 340B(a)(1) of the PHS Act) is lower than the MFP for such selected drug. Under section 1193(d)(2) of the Act, the Primary Manufacturer is required to provide MFP access to Part B providers in a nonduplicated amount to the 340B ceiling price if the MFP for the selected drug is lower than the 340B c
-
 ### [Emery Brown, Daniel Hastings, and Douglas Lauffenburger named Institute Professors](https://news.mit.edu/2026/emery-brown-daniel-hastings-douglas-lauffenburger-named-institute-professors-0720)
 
 - Source: `mit_health` · published `2026-07-20` · freshness `stale`
@@ -672,14 +664,6 @@ Hyperkalaemia is a common and potentially life threatening electrolyte abnormali
 
 <h4>Description</h4>Obesity is a chronic, relapsing neurohormonal disease associated with substantial morbidity, mortality, and health care burden among U.S. veterans and active-duty service members. Advances in obesity assessment and treatments since publication of the 2020 clinical practice guideline (CPG) on management of adult overweight and obesity from the U.S. Department of Veterans Affairs (VA) and the U.S. Department of Defense (DoD) prompted an update of the guideline. This synopsis highlights key 2025 recommendations that are relevant to primary care practice.<h4>Methods</h4>The VA/DoD Evidence-Based Practice Work Group (WG) convened a multidisciplinary panel of clinical stakeholders to update the guideline. A systematic review of evidence published from 1 April 2019 through 6 January 2025 was conducted to address 12 key questions developed using the PICOTS (population, intervention, comparator, outcomes, timing of outcomes measurement, and setting) framework. An independent third party reviewed the evidence. Recommendations were formulated using GRADE (Grading of Recommendations Assessment, Development and Evaluation) methods, incorporating evidence quality; benefits and harms; patient values informed by focus groups; and consideration of resources, equity, acceptability, and feasibility.<h4>Recommendations</h4>The WG suggests routine screening for overweight and obesity in all adults based on a body mass index of 25 kg/m<sup>2</sup> or higher (≥23 kg/m<sup>2</sup> for Asian adults) along with waist circumference and clinical context to refine risk. The WG strongly recommends comprehensive lifestyle intervention (CLI) as the foundation of care. There was insufficient evidence to recommend for or against delaying pharmacotherapy relative to CLI and no requirement to complete CLI before initiating additional treatments. The guideline supports flexible, individualized integration of pharmacotherapy and CLI and discourages discontinuation of effective medications to prevent weight regain. New and updated recommendations address medications containing glucagon-like peptide-1 receptor agonists, endoscopic therapies, and metabolic and bariatric surgery, promoting patient-centered, stigma-informed, longitudinal care tailored to veterans and service members.
 
-### [FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar](http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-
-- Source: `fda_press` · published `2026-08-25` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar`
-
-The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes. The Libre Duo 10 Day is the first wearable device in the U.S. that continuously monitors ketone levels, and the first in the world to continuously monitor both ketones and blood sugar (glucose) together in a single device. “Today’s authorization is a breakthrough for the safety of children and adults living with diabetes,” said Michelle Tarver, M.D., Ph.D., Director of the FDA’s Center for Devices and Radiological Health. “Knowing that ketone levels are rising, and having that information in real time, around the clock, can be the difference between early intervention and a life-threatening emergency." According to the Centers for Disease Control and Prevention, an estimated 40.1 million Americans are living with diabetes, a condition that requires careful monitoring of blood sugar levels. For the estimated 2.1 million Americans with type 1 diabetes, blood sugar is only part of the picture. When the body produces too much ketone, which is made by the body when it is using fat instead of glucose for energy, it can lead to diabetic ketoacidosis, or DKA — a serious complication that can develop quickly and become life-threatening if left untreated. Early detection of rising ketone levels is critical. Until now, people who needed to monitor ketones had to do so separately, using tests that could only provide a single measurement at one point in time which could not tell users if ketones were rising or falling. The Libre Duo 10 Day addresses that gap by continuously measuring both ketone and glucose levels in the fluid just beneath the skin, every minute, day and night. Readings are sent wirelessly to a compatible smartphone, where users can see their current ketone and glucose levels and whether they are trending up or down. The device can send automatic alerts if ketone levels reach a concerning threshold, which may help patients and caregivers recognize rising ketones before DKA becomes a medical emergency. Ketone information should always be interpreted in the context of glucose readings and symptoms. The FDA’s authorization is based on a comprehensive review of clinical and performance data submitted by the device sponsor. The clinical program included data from six clinical studies that together enrolled more than 600 participants aged 2 years and older to evaluate the accuracy of the device’s ketone and glucose monitoring functionality across a range of ketone and glucose levels. The results demonstrated that the device accurately tracked clinically meaningful differences in ketone levels across its 10-day wear period, including identifying elevated ketone levels before the onset of diabetic ketoacidosis. This authorization is also aligned with the FDA’s Home as a Health Care Hub Initiative, which focuses on advancing the development of innovative, patient-centered devices that fit more seamlessly into people’s daily lives at home. Prior to authorization, the FDA granted Breakthrough Device designation for the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System. A breakthrough designation is meant to expedite the development and review of devices that provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating diseases or conditions. The FDA granted marketing authorization to Abbott Diabetes Care for the Libre Duo 10 Day through the De Novo premarket review pathway, a regulatory pathway for low- to moderate-risk devices of a new type. Along with this De Novo authorization, the FDA is establishing special controls that define requirements including those related to labeling and performance testing. When met, the special controls, in combination with general controls, provide a reasonable assurance of safety and effectiveness. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
-
 ### [Human-Led at Scale: How Oura Is Redefining Customer Experience in the AI Era](https://ouraring.wpengine.com/how-oura-uses-ai-to-measure-customer-experience/)
 
 - Source: `oura_blog` · published `2026-08-25` · freshness `stale`
@@ -695,14 +679,6 @@ The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Cont
 - Event: `seen` · identity: `pmid:42642105`
 
 <h4>Objectives</h4>To determine the range of possible prevalences of chronic traumatic encephalopathy (CTE) at death among National Football League (NFL) players and examine the association between CTE severity and risk of dementia.<h4>Design</h4>Retrospective population based cohort study.<h4>Setting</h4>NFL players from the era of hard-shell helmets (post-1949) in the US, including brain donors to the UNITE (Understanding Neurologic Injury and Traumatic Encephalopathy) and UCSF ADRC (University of California, San Francisco Alzheimer's Disease Research Center) brain banks.<h4>Participants</h4>1712 former NFL players who died during 2008-21, of whom 338 donated their brains for neuropathological evaluation. Personal information and causes of death according to the National Death Index (NDI) were obtained for all NFL players who died during the study period. Neuropathologists masked to clinical and playing histories assessed postmortem CTE diagnosis and stage IV CTE. Clinicians, masked to neuropathological status, reviewed donors' medical records and informant based clinical histories, to adjudicate a dementia diagnosis.<h4>Main outcome measures</h4>The main outcome measures were the minimum (number of donors with CTE/total number of NFL deaths) and maximum (1-(number of donors without CTE/total number of NFL deaths)) CTE prevalence at death during the study period and the six years (2016-21) when brain donation was most frequent. To account for selection pressure of brain donation status, inverse probability weighting was used to estimate the association between stage IV CTE and study clinician diagnosed dementia.<h4>Results</h4>Among 1712 NFL players who died, 338 (19.7%) players' brains were studied, 315 (93.2%) of whom had a diagnosis of CTE; thus, among all 1712 NFL players who died, the possible CTE prevalence at death ranged between 18.5% and 98.7%. The possible prevalence at death during 2016 to 2021, when brain donation was most frequent, ranged between 24.5% and 97.7%. Among brain donors, 104 (30.8%) had stage IV CTE, 202 (59.8%) had study clinician diagnosed dementia (dementia onset: 63.4 years, standard deviation (SD) 12.5; death: 73.1 years, SD 10.5), and 63 (18.6%) had neurodegenerative disease listed as primary cause of death. In donors, stage IV CTE was associated with study clinician diagnosed dementia (risk ratio 1.44, 95% confidence interval 1.16 to 1.78; P<0.001). Only 40.6% of donors (n=82) with study clinician diagnosed dementia had neurodegenerative disease listed as the primary or secondary cause of death.<h4>Conclusions</h4>At minimum, nearly a quarter of all former NFL players who died during 2016-21 had CTE neuropathology at death. Among NFL player brain donors, dementia diagnosed based on records before death was common and associated with stage IV CTE.
-
-### [FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer](http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer)
-
-- Source: `fda_press` · published `2026-08-26` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer`
-
-The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced pancreatic cancer months ahead of schedule. This action demonstrates the agency’s commitment to moving with urgency, reducing unnecessary delays and advancing innovative treatments that can make a meaningful difference in the lives of American patients and their families. Rasonque, a tablet taken once daily, targets multiple forms of a protein called RAS, a key driver of tumor growth in most patients with pancreatic adenocarcinoma, which arises from cells lining the ducts of the pancreas. “Today’s approval provides a critical new option for patients facing an extraordinarily difficult and historically hard-to-treat cancer. It is our fundamental duty to deliver more cures and meaningful treatments to patients as quickly as possible,” said Acting FDA Commissioner Kyle Diamantas, J.D. “I am immensely proud of the dedicated FDA scientists whose fast, thorough review and relentless commitment made this groundbreaking milestone a reality.” The approval is for the treatment of adults with metastatic pancreatic adenocarcinoma who have received at least one prior systemic therapy or are not candidates for multiagent systemic therapy. Approximately 90% to 95% of the 67,000 new cases of pancreatic cancer diagnosed in the United States each year are pancreatic adenocarcinoma, according to the National Cancer Institute. Despite representing roughly 3.2% of all cancer diagnoses, pancreatic adenocarcinoma accounts for a disproportionately high share of cancer deaths, owing to its typically late detection, aggressive disease course, and historically limited treatment options. In a randomized, open-label, multicenter clinical trial involving 500 adults with previously treated metastatic pancreatic adenocarcinoma, Rasonque improved median overall survival to 13.2 months compared to 6.7 months for standard chemotherapy. “This drug showed unprecedented results in an area of high unmet need,” said Angelo de Claro, M.D., director of the FDA’s Oncology Center of Excellence. “The approval was granted 6.5 months before the user fee deadline, demonstrating the FDA’s commitment to accelerating the approval of new cancer treatments for patients with serious and life-threatening conditions.” The FDA granted Rasonque Breakthrough Therapy and Orphan Drug designations. Rasonque received Priority Review for this indication. The application was also reviewed under the Commissioner’s National Priority Voucher pilot program, which is intended to help accelerate the review of therapies that address national public health priorities. In May, the FDA issued a “safe to proceed” letter allowing the sponsor to initiate an expanded access treatment protocol for Rasonque, enabling patient access to the investigational drug prior to approval under applicable FDA regulations. The most common side effects of the drug are rash, diarrhea, stomatitis (inflammation of the mouth’s mucus membranes), nausea, fatigue, vomiting, abdominal pain, edema, decreased appetite, and hemorrhage. The FDA granted the approval to Revolution Medicines, Inc. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products. ###
 
 ### [FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults](http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults)
 
@@ -1343,14 +1319,6 @@ In the era of climate change, numerous regions worldwide are facing a surge in b
 - Event: `seen` · identity: `url:https://news.mit.edu/2026/pink-noise-burst-may-mean-more-restorative-sleep-0909`
 
 Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debris from the brain and keeps it healthy.
-
-### [Apple advances health and fitness capabilities using Apple Intelligence](https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/)
-
-- Source: `apple_newsroom` · published `2026-09-09` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/`
-
-Apple today announced its most advanced health and fitness experience yet, deepening the capabilities of Apple Watch and iPhone as intelligent, science-based tools for personal health.
 
 ### [Apple unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)
 
@@ -2122,24 +2090,24 @@ Medicare Improvement Fund Premium Rebate Frequently Asked Questions Q: What will
 
 ### [Governing the digital determinants of health for children and young people: a global public health imperative.](https://doi.org/10.1016/s0140-6736(26)01293-6)
 
-- Source: `lancet_abstracts` · published `2026-10-04` · freshness `fresh`
-- Reading value: `48` · status: `scored`
+- Source: `lancet_abstracts` · published `2026-10-04` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42830094`
 
 The digital determinants of health are the structural conditions through which digital infrastructures, business models, and design choices shape health outcomes. Yet these determinants remain largely outside public health policy and remain fragmented across regulatory sectors. Rather than regulating individual technologies in isolation, governance should ensure that digital systems and environments advance population health and reduce inequities. A public health approach shifts attention from individual responsibility-and the tendency to blame users-towards the governance of the structural features that produce health risks and inequities. We identify four governance domains for the digital determinants of health: infrastructure and access, platform design and commercial practices, data governance and surveillance, and institutional accountability and rights. Effectively governing these domains requires intersectoral strategies that tackle problematic concentrations of political and economic power. We argue that the governance of the digital determinants of health should be recognised as a core public health function, with the health of children and young people as a priority and entry point and precaution as a guiding governance principle.
 
 ### [The digital determinants of health: a new era for global public health.](https://doi.org/10.1016/s0140-6736(26)01292-4)
 
-- Source: `lancet_abstracts` · published `2026-10-04` · freshness `fresh`
-- Reading value: `42` · status: `scored`
+- Source: `lancet_abstracts` · published `2026-10-04` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42830093`
 
 Digital transformations exert increasing influence over the lives of the global population, shaping opportunities and generating harms for health and wellbeing across the spectrum of digital access and engagement. The scale of influence of digital transformations on human and planetary health marks the urgency of attention to the digital determinants of health (DDoH). In this Series paper, we describe a prevailing digital sociotechnological order (DSTO) as the structural source of the DDoH. The DSTO is composed of a set of dominant assumptions that motivate digital practices operating through four features (political norms, economic logics, infrastructures, and personal and social practices) to affect human and planetary health. We describe the implications of the DSTO for understanding, studying, and governing the DDoH, and present recommendations for future work.
 
 ### [The public health challenges of children's and adolescents' digital media use: applying the digital determinants of health as an interpretive framework.](https://doi.org/10.1016/s0140-6736(26)01611-9)
 
-- Source: `lancet_abstracts` · published `2026-10-04` · freshness `fresh`
-- Reading value: `54` · status: `scored`
+- Source: `lancet_abstracts` · published `2026-10-04` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42830095`
 
 Children and adolescents are growing up in a hybrid world in which digital media has become part of the infrastructure of everyday life and a structural determinant of their health. In the second paper of this Series on the digital determinants of health, we apply the framework introduced in the first paper to one of the most contested questions in public health: how young people's digital media use shapes their health and wellbeing. Using the digital determinants of health framework to interpret the current evidence base, we examine what is known, and what remains poorly understood, about the public health implications of children's and adolescents' digital media use. Evidence suggests that digital media use can be associated with both benefits and harms although it is more consistently associated with adverse mental, behavioural, physical, cognitive, and social outcomes, with developmental stage emerging as an important moderator. Illustrative modelling indicates the potential population burden is substantial, even as its causal basis remains uncertain. Research to date has privileged easily measured proxies, such as screen time, and given insufficient attention to the platform design, algorithmic systems, and commercial incentives that shape young people's experiences. Situating young people's digital media use with a digital determinants of health framework, we conclude that protecting children's and adolescents' health calls for a precautionary, structural response-one that moves beyond individual behaviour change to reshape the digital systems, incentives, and knowledge practices that determine how digital media affects health.
@@ -2207,22 +2175,6 @@ Background: AI-based clinical decision support systems (CDSS) can improve diagno
 - Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-012.html`
 
 Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts
-
-### [Shionogi Adds to Its Rare Disease Strategy With $2B IntraBio Acquisition](https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/)
-
-- Source: `medcity_news` · published `2026-10-05` · freshness `fresh`
-- Reading value: `64` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/`
-
-<p><a href="https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Shionogi_HQ_and_research_center-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>Shionogi’s IntraBio acquisition brings Aqneursa, a drug approved for treating two rare neurological disorders and the potential to expand to additional indications, both rare and common. It’s Shionogi’s second big rare disease move this year, following the acquisition of global rights to an amyotrophic lateral sclerosis drug from Tanabe Pharma. </p> <p>The post <a href="https://medcitynews.com/2026/10/shionogi-adds-to-its-rare-disease-strategy-with-2b-intrabio-acquisition/">Shionogi Adds to Its Rare Disease Strategy With $2B IntraBio Acquisition</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Trump Administration Announces $90 Payments to Help Cover Medicare Part B Premiums](https://medcitynews.com/2026/10/trump-administration-announces-90-payments-to-help-cover-medicare-part-b-premiums/)
-
-- Source: `medcity_news` · published `2026-10-05` · freshness `fresh`
-- Reading value: `43` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/trump-administration-announces-90-payments-to-help-cover-medicare-part-b-premiums/`
-
-<p><a href="https://medcitynews.com/2026/10/trump-administration-announces-90-payments-to-help-cover-medicare-part-b-premiums/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg" class="attachment-large size-large wp-post-image" alt="Little pink ceramic piggy bank pattern on the left side on yellow background. Concept of saving money, savings." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>The Trump administration is issuing one-time $90 payments to more than 20 million Medicare beneficiaries to help cover Part B premiums, though the payments may do little to offset rising healthcare costs.</p> <p>The post <a href="https://medcitynews.com/2026/10/trump-administration-announces-90-payments-to-help-cover-medicare-part-b-premiums/">Trump Administration Announces $90 Payments to Help Cover Medicare Part B Premiums</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [AI-Powered Framework for Personalized Prescription of Physical Activity in Aging: Proposing PEPHA, a framework for Personalized Phenotyping for Aging](https://ai.jmir.org/2026/1/e95123/)
 
@@ -2440,14 +2392,6 @@ Background: Independent audits of medical large language models have concentrate
 
 No summary supplied by the source.
 
-### [Boston Scientific names Joseph Fitzgerald as chief operating officer](https://www.medtechdive.com/news/boston-scientific-names-joseph-fitzgerald-as-chief-operating-officer/832461/)
-
-- Source: `medtech_dive_primary` · published `2026-10-08` · freshness `fresh`
-- Reading value: `51` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/boston-scientific-names-joseph-fitzgerald-as-chief-operating-officer/832461/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/c1xaQibjjybytbyrKOdFEokteOrn9zzBlI4Ys-SnoGo/g:nowe:148:0/c:1184:669/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJsYm9yb3VnaF9IZWFkcXVhcnRlcnNfZnJvbnRfZnVsbC5wbmc=.webp"/></div></figure><p>Fitzgerald will oversee three newly established reportable segments as Boston Scientific works to bounce back from guidance cuts.</p>
-
 ### [Building the Handmade World of Oura’s Latest Brand Campaign](https://ouraring.wpengine.com/wear-your-best-life-brand-campaign/)
 
 - Source: `oura_blog` · published `2026-10-08` · freshness `fresh`
@@ -2544,14 +2488,6 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 <p><a href="https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/1328014546_21b9530438_c.jpg 799w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Diagnostics and drug development startup Arboretum LifeSciences launched with $30 million in financing. Its executives say analyses of data from its genetic tests both form the basis of partnerships with big pharma and lead to the formation of new biotech companies — all focused on common diseases.</p> <p>The post <a href="https://medcitynews.com/2026/10/startup-arboretum-lifesciences-diagnostics-genetic-test-drug-development-common-diseases/">Startup Arboretum Sprouts, Bringing a Precision Medicine Approach to Common Diseases</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Study in The Lancet suggests AI could improve patient-physician relationships.](https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/)
-
-- Source: `fitbit_google_blog` · published `2026-10-08` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physic.max-600x600.format-webp.webp">A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.
-
 ### [Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity](https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/)
 
 - Source: `medcity_news` · published `2026-10-08` · freshness `fresh`
@@ -2583,14 +2519,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e95994`
 
 Background: Shared decision-making (SDM) is critical for managing clinically ambiguous conditions such as benign breast disease (BBD), requiring reliable health information. In China, WeChat public accounts (WPAs) run by hospitals serve as a major health information channel, yet their quality remains unevaluated. Objective: This study aimed to evaluate the quality of BBD-related articles on hospital WPAs in China. Methods: Using a multistage stratified random sampling approach, we conducted a nationwide survey examining the quality of articles published from January 2020 to November 2024. The articles were evaluated for accessibility (readability, image quality, and user-friendliness) and SDM readiness (credibility, balance, and decision relevance) using validated instruments and content analysis. Results: Among 276,617 articles from 158 sampled hospitals, 464 were related to BBD. Accessibility was generally good: 72.4% (336/464) were written at a junior high school reading level. Visual presentation was acceptable, although only 10.2% (42/410) had complete image labeling. The Patient Education Materials Assessment Tool for Printable Materials (PEMAT-P) scores showed moderate understandability (mean 73.6%, SD 17.3%) but limited actionability (mean 50%, SD 23.2%). For SDM readiness, the mean Quality Evaluation Scoring Tool (QUEST) score was 14.9 (SD 4.7) out of 28, with treatment-related articles scoring lower than prevention-related articles (<.001). In the balance evaluation, using Brief DISCERN, 84.3% (182/216) of articles were below the high-quality threshold, often lacking information on treatment risks and quality-of-life impacts. Decision relevance revealed variability in surgical recommendations, especially regarding excision criteria and pregnancy-related guidance. Conclusions: WPA articles on BBD showed good accessibility but substantial gaps in SDM support, particularly in information balance and decision relevance. Standardized guidelines and quality improvements are needed to enhance patient-centered online health services.
-
-### [Accounting for the Unaccounted in AI and Care: Bringing Young Carers into the AI Realm](https://www.jmir.org/article/view/jmir_v28i1e83021)
-
-- Source: `jmir` · published `2026-10-09` · freshness `fresh`
-- Reading value: `31` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e83021`
-
-This position paper introduces young carers as a key stakeholder within AI. Research on AI for health care endeavors to assist and optimize current health care services; yet, young carers have been neglected thus far. Accordingly, this paper situates itself at the intersection of young people under the age of 18 years old providing care (referred to as young carers) and AI research. Through a socio-legal and public health lens, this paper (1) situates young carers to showcase (2) why they must be accounted for in AI systems, and (3) how AI researchers can do so. This lens highlights the difficulties young carers tend to face at present and how AI systems can alleviate those—rather than reproduce them. Accordingly, we rely on the norms-in-the-loop framework to demonstrate why the AI community must account for young carers in AI systems. We first synthesize research on both young carers and AI research on contextual, legal, and social norms to then propose practical ways to do so through design, datasets, and in situ personalization. Overall, this paper offers a critical foundation for AI researchers to include young carers in the development of AI systems at various levels: from institutions to care receivers, and to young carers themselves. Ultimately, this paper posits that young carers must be identified and supported, which demands their inclusion in AI research to understand how best to do so. Accounting for young carers will allow for their unique perspectives to be reflected in AI systems and help them thrive beyond their care responsibilities. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a96848db791a2f0ba9b1e28c89991eb1" />
 
 ### [Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell](https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/)
 
@@ -2656,14 +2584,6 @@ Background: Attention-deficit/hyperactivity disorder (ADHD) is a common neurodev
 
 Healthcare organizations aren’t prepared for cybersecurity threats from quantum computing — an emerging technology that could break the encryption protecting patient data — according to a new report. Medical devices lag behind traditional information technology systems in preparedness. Just 6% of medical devices have security that can withstand future quantum computer attacks, compared with 50% of IT systems, according to the report by cybersecurity company Forescout’s threat intelligence and research arm. Electronic medical records, medical imaging and lab results are the data types most at risk. Experts say healthcare leaders should address these risks sooner rather than later.
 
-### [Henry Schein appoints Emmanuel Caprais as CFO](https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/)
-
-- Source: `medtech_dive_primary` · published `2026-10-09` · freshness `fresh`
-- Reading value: `38` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/rhXbTFe-lDDepMo3bhvI7jL66QMnWXGYAjdYYYE-UL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZW5yeV9TY2hlaW4uanBn.webp"/></div></figure><p>The CFO transition is part of a recent wave of leadership changes at Henry Schein, including a new CEO.</p>
-
 ### [How People Integrate Mental Health Apps Into Everyday Self-Care: Qualitative Study](https://mhealth.jmir.org/2026/1/e95414)
 
 - Source: `jmir_mhealth` · published `2026-10-09` · freshness `fresh`
@@ -2687,14 +2607,6 @@ Background: Mobile mental health (MH) apps are increasingly promoted as tools fo
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtech-lobby-seeks-broader-device-eligibility-for-cms-proposed-rapid-path/832622/`
 
 Medtech lobbyist AdvaMed called for the Centers for Medicare and Medicaid Services to make more devices eligible for a proposed pathway to faster Medicare coverage. The CMS unveiled plans for the pathway earlier this year, which would give certain breakthrough devices a proposed national coverage determination upon Food and Drug Administration authorization. AdvaMed praised the pathway earlier this year as a “positive step” toward expanding access to breakthrough devices, but called for clearer timelines and broader eligibility. The CMS is accepting public comments on the program through Oct. 13.
-
-### [MMI raises $125M to scale up in robotic microsurgery](https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/)
-
-- Source: `medtech_dive_primary` · published `2026-10-09` · freshness `fresh`
-- Reading value: `61` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/`
-
-MMI said Thursday it raised $125 million in a Series D financing to expand access to its robotic microsurgery system in the U.S. as well as key global markets. The Symani robotic system is designed for soft tissue open surgery, allowing surgeons to repair tiny structures such as lymphatic vessels and nerves. The robot filters out tremors while translating the surgeon’s hand and wrist motions into robotic movement of its miniaturized instruments. MMI also plans to use the new funds to generate more clinical evidence for robotic microsurgery, including in the REMIND clinical trial evaluating the robot’s use in people with Alzheimer’s disease.
 
 ### [Multilingual Disparities in Large Language Model–Based Symptom Detection for Global Disease Surveillance: Evaluation Study](https://ai.jmir.org/2026/1/e103321/)
 
@@ -2744,22 +2656,6 @@ Background: HIV/AIDS stigma remains a major barrier to public health interventio
 
 Background: Digital health technologies (DHTs) offer opportunities to support poststroke self-management and rehabilitation, but their implementation may be hindered by mismatches between technological design, stakeholder needs, and care contexts. Synthesizing stakeholder perspectives can clarify implementation priorities and gaps in the evidence. Objective: This study aimed to synthesize stakeholders’ perceptions, experiences, and recommendations regarding DHT implementation in poststroke self-management and rehabilitation and to map the findings to the NASSS (Nonadoption, Abandonment, Scale-Up, Spread, and Sustainability) framework. Methods: Six databases (PubMed, MEDLINE, Embase, Scopus, CINAHL, and Web of Science) were searched from inception through October 2025. Eligible studies were English-language, peer-reviewed primary studies using qualitative, quantitative, or mixed methods designs to report stakeholder perspectives on DHTs in poststroke care. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Mixed Methods Appraisal Tool (MMAT). A convergent integrated synthesis was conducted: quantitative findings were transformed into textual descriptors, combined with qualitative findings, coded inductively, and subsequently mapped deductively to NASSS domains and subdomains. Disagreements were resolved through consensus or by third-reviewer adjudication. Results: Of 15,262 records identified, 42 studies published between 2019 and 2025 were included: 24 qualitative, 8 quantitative, and 10 mixed methods studies. Patients, health care professionals, caregivers, and members of the public were represented in 32, 19, 8, and 3 studies, respectively, with some studies including multiple groups. Evidence concentrated on the condition, technology, value proposition, and adopter-system domains. Stakeholders valued personalized functions, intuitive interfaces, timely feedback, and digital support that complemented human care. Barriers included stroke-related motor, cognitive, communication, and sensory impairments; unequal digital access and literacy; caregiver demands; staff workload and training needs; and poor integration with clinical routines. Data privacy and unclear payment arrangements also raised concerns. Evidence on organizational readiness and wider-system determinants was limited, and no eligible study directly examined interaction and adaptation over time. Methodological concerns included nonresponse bias and insufficient interpretation of integrated findings in mixed methods studies. Conclusions: Stakeholder perspectives indicate that DHT implementation in poststroke care should combine accessible, personalized design with support for patients, caregivers, and health care professionals, alongside integration into clinical workflows and clear data governance and financing arrangements. The NASSS mapping identified priorities beyond usability, but current evidence does not establish sustained adoption, scale-up, or spread. Longitudinal studies in routine care are needed to evaluate adaptation and sustainability.
 
-### [STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role](https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `42` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss`
-
-Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.
-
-### [STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot](https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `64` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss`
-
-The AHA is once again suing the Trump administration over its plan to revamp a federal drug discount program into one that provides after-the-fact rebates instead of upfront discounts.
-
 ### [Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study](https://www.jmir.org/article/view/jmir_v28i1e97968)
 
 - Source: `jmir` · published `2026-10-09` · freshness `fresh`
@@ -2807,14 +2703,6 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 - Event: `seen` · identity: `url:https://news.crunchbase.com/ma/customer-workflows-moat-ai-era-sagie/`
 
 AI companies can build durable moats by embedding their products in essential customer workflows, explains tech adviser Itay Sagie, who shares why founders should prioritize measurable customer dependence, while investors and acquirers should assess how integrations, trusted relationships and workflow access can strengthen retention and drive growth.
-
-### [Americans trust science more than peers around the world, survey shows](https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-10` · freshness `fresh`
-- Reading value: `35` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss`
-
-Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.
 
 ### [A health-system-scale, episode-resolved multimodal atlas of cancer cachexia](https://www.nature.com/articles/s41591-026-04689-9)
 
@@ -2888,14 +2776,6 @@ No summary supplied by the source.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp">Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.
 
-### [Google Health: Evolving so you can focus on living better](https://blog.google/products-and-platforms/products/google-health/google-health-updates/)
-
-- Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
-- Reading value: `22` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/google-health-updates/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_edge_blog.max-600x600.format-webp.webp">What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.
-
 ### [How we’re making Google Health and Fitbit Air smarter than ever](https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/)
 
 - Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
@@ -2919,14 +2799,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/`
 
 <p><a href="https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/"><img width="600" height="362" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-600x362.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-600x362.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-300x181.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530.jpg 760w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Asking the right questions about community support, caregiving responsibilities, emotional well-being, and the availability of trusted social networks can establish important context for a person’s outcomes — and spark conversations about social needs that might never otherwise take place.</p> <p>The post <a href="https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/">Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [MIT class project turns into an FDA-cleared treatment for tremors](https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002)
-
-- Source: `hn_ai_health_signals` · published `2026-10-12` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002`
-
-Hacker News community signal; score 227.
 
 ### [Outro Raises $7M To Support Safe Deprescribing](https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/)
 
@@ -2967,14 +2839,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp">Google Health announces new partnership and deeper commitment to women’s health with Flo Health.
-
-### [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
-
-- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://machinelearning.apple.com/research/distributed-gpu-cloud`
-
-Hacker News community signal; score 246.
 
 ### [A new app experience is coming to cars with Google built-in](https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/)
 
@@ -3072,22 +2936,6 @@ No summary supplied by the source.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp">Learn more about our approach to safety and security for Gemini 4 Argon.
 
-### [Development of a scoring system via an interpretable end-to-end neural network for prognostic stratification of patients with advanced melanoma](https://www.nature.com/articles/s41746-026-03379-7)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03379-7`
-
-No summary supplied by the source.
-
-### [E2 wins FDA clearances for integrated Hēlo thrombectomy platform](https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/`
-
-<p>Used with E2’s Hēlo VTE platform, Hēlo Return aspirates blood from thrombectomy procedures and returns it to patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/e2-wins-fda-clearances-for-integrated-helo-thrombectomy-platform/">E2 wins FDA clearances for integrated Hēlo thrombectomy platform</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Ear-Worn Inertial Measurement of Sit-to-Stand and Sit-to-Walk Movements: Algorithm Development and Validation](https://www.jmir.org/article/view/jmir_v28i1e100936)
 
 - Source: `jmir` · published `2026-10-13` · freshness `fresh`
@@ -3095,14 +2943,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100936`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Sit-to-stand and sit-to-walk are common functional movements that provide insight into an individual’s functional mobility. Developing comprehensive measures of these movements using ear-worn inertial measurement units (IMUs), which are increasingly incorporated into widely used devices such as hearing aids and headphones, could provide a means of monitoring older adults and individuals with movement disorders with minimal additional burden. &lt;strong&gt;Objective:&lt;/strong&gt; This paper aimed to introduce comprehensive outcome measures for sit-to-stand and sit-to-walk movements based on data from ear-worn IMUs, and to evaluate their agreement with an optical motion capture reference. &lt;strong&gt;Methods:&lt;/strong&gt; Data were analyzed from 62 participants, of whom 46 (18 male and 28 female; median age 27, IQR 15 years) did not have a known underlying movement condition and 16 (7 male and 9 female; median age 62, IQR 23 years) did. The participants wore a bespoke 3D-printed headset that contained 6-axis IMUs placed beside their left and right ears. A reflective marker was placed on each participant’s seventh cervical vertebra to provide an optical motion capture reference. Each participant performed 3 sit-to-stand movements and 3 sit-to-walk movements. The reported outcome metrics included overall and subphase durations, acceleration, velocity, power, movement smoothness, and hesitation. Agreement between ear-derived and optical outcomes was evaluated using linear mixed-effects analyses accounting for repeated trials within participants, including systematic and proportional bias, limits of agreement, root mean squared error, and smallest detectable difference. &lt;strong&gt;Results:&lt;/strong&gt; Temporal outcomes demonstrated the closest agreement between systems. The mean overall movement duration differed by 0.09 (SD 0.12) seconds for sit-to-stand and 0.06 (SD 0.17) seconds for sit-to-walk, with 95% limits of agreement of –0.14 to 0.32 seconds and –0.28 to 0.39 seconds, respectively. Strong linear relationships were observed for peak power, with mixed-effects regression slopes of 0.70 for sit-to-stand and 0.68 for sit-to-walk, although systematic biases of 172 (95% CI 153-190) W and 191 (95% CI 168-215) W indicated that ear-derived and seventh cervical vertebra–derived power were not interchangeable. Peak upward acceleration similarly showed systematic biases of 1.05 (95% CI 0.93-1.18) and 1.30 ms&lt;sup&gt;–2&lt;/sup&gt; (95% CI 1.14-1.45) for sit-to-stand and sit-to-walk, respectively. Hesitation demonstrated comparatively small absolute error (root mean squared error 0.04 and 0.03, respectively), whereas smoothness and other fluency outcomes showed greater disagreement between measurement systems. &lt;strong&gt;Conclusions:&lt;/strong&gt; The ear-worn IMUs extracted a broad range of sit-to-stand and sit-to-walk outcome measures, although agreement with the optical reference varied between measures. Temporal outcomes demonstrated the closest agreement, whereas kinematic, power, and fluency measures showed varying degrees of systematic and proportional disagreement. These findings support the feasibility of using ear-worn IMUs for comprehensive functional movement assessment and provide a basis for subsequent validation of the most robust outcomes in clinically relevant populations. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/6d9803b1c9e7b47c08992e5400684bc3" />
-
-### [Exploring PET and MRI brain networks across healthy controls, mild cognitive impairment, and Alzheimer’s disease](https://www.nature.com/articles/s41746-026-03354-2)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03354-2`
-
-No summary supplied by the source.
 
 ### [Fifth Wall’s Brendan Wallace On Why The Best Proptech Bets May Not Look Like Proptech](https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/)
 
@@ -3140,9 +2980,9 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `56` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
 
-<p><a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"><img width="600" height="356" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300.jpg 767w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration.</p> <p>The post <a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/">Happy Health’s Cuffless BP Device Wins FDA Clearance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"><img width="600" height="356" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300.jpg 767w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration.</p> <p>The post <a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/">Happy Health’s Cuffless BP Device Wins FDA Clearance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69](https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss)
 
@@ -3208,29 +3048,13 @@ Apple today announced Apple Home Collection, a new lineup of smart home accessor
 
 <figure><div><img src="https://imgproxy.divecdn.com/cm_W-FdbiM9BbB0zoOGzQIxUTIYDjzY9Hg-zhECEdaE/g:nowe:208:253/c:1738:982/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS85MzMxNjUxLWZhY3Rvcnktc2hvdC5qcGc=.webp"/></div></figure><p>For the second straight quarter, the cardiovascular unit experienced slower sales growth due to ongoing struggles in the Abiomed business.</p>
 
-### [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
-
-- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50073471`
-
-Hacker News community signal; score 34.
-
 ### [Medicare Policy Shouldn’t Be Made in the Shadows](https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/)
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `27` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/`
 
-<p><a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Medicare policy should be transparent and include appropriate notice and stakeholder input. And when a contractor gets it wrong, there should be a clear and rapid way to stop the harm to patients, their relationship with their doctor and the doctor’s practice.</p> <p>The post <a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/">Medicare Policy Shouldn’t Be Made in the Shadows</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Medtech’s newest engineering discipline is cybersecurity](https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `27` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/`
-
-<p>Luke Moran, managing director of life sciences at Actalent, outlines why the medtech industry must now treat cybersecurity as a strategic imperative.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/medtech-newest-engineering-discipline-is-cybersecurity/">Medtech&#8217;s newest engineering discipline is cybersecurity</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-949477728.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Medicare policy should be transparent and include appropriate notice and stakeholder input. And when a contractor gets it wrong, there should be a clear and rapid way to stop the harm to patients, their relationship with their doctor and the doctor’s practice.</p> <p>The post <a href="https://medcitynews.com/2026/10/medicare-policy-shouldnt-be-made-in-the-shadows/">Medicare Policy Shouldn’t Be Made in the Shadows</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Meet Apple HomeView, a new way to enjoy entertainment and manage the home](https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/)
 
@@ -3239,22 +3063,6 @@ Hacker News community signal; score 34.
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/`
 
 Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.
-
-### [Model-dependent prompt effects challenge reliable deployment of medical LLMs in traditional Chinese medicine](https://www.nature.com/articles/s41746-026-03397-5)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03397-5`
-
-No summary supplied by the source.
-
-### [Multidimensional continuous glucose monitoring metrics enable digital risk stratification across the diabetes spectrum](https://www.nature.com/articles/s41746-026-03368-w)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03368-w`
-
-No summary supplied by the source.
 
 ### [New on Google Play: More ways to create, discover, and play](https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/)
 
@@ -3312,14 +3120,6 @@ Background: Measles is a major cause of death among infants despite free routine
 
 Schroeder and colleagues contribute to the understanding of person-centered abortion care by examining preferences for telemedicine and facility-based medication abortion care. We argue that because cost was very or extremely important to three-quarters of participants, price should itself be treated as a feature of care, and studies of patient preferences should attend to the actual prices patients face across care options. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9cfdd0a6d3ba87b2ecef3e443ae312a4" />
 
-### [Realizing the value of the divergence event in clinical human-AI interaction](https://www.nature.com/articles/s41746-026-03394-8)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03394-8`
-
-No summary supplied by the source.
-
 ### [Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study](https://www.nature.com/articles/s41551-026-01812-6)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
@@ -3332,17 +3132,9 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `60` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/`
 
-<p><a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals.</p> <p>The post <a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/">Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop](https://github.com/RayenMlayeh/jevcrawl)
-
-- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://github.com/RayenMlayeh/jevcrawl`
-
-Hacker News community signal; score 13.
+<p><a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals.</p> <p>The post <a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/">Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [STAT+: Animosity in North Carolina, and MA shooting stars](https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss)
 
@@ -3452,7 +3244,7 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/`
 
 <p>Despite several products succumbing to generics and biosimilars, J&J raised its 2026 guidance.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/">Tremfya rescues J&amp;J’s immunology sales to fuel strong Q3</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3492,7 +3284,7 @@ The next generation of super apps will likely emerge in markets where widespread
 
 - Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
 - Reading value: `34` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp">These groups are receiving $36 million through the Google.org Impact Challenge: AI for Science.
 
@@ -3500,7 +3292,7 @@ The next generation of super apps will likely emerge in markets where widespread
 
 - Source: `crunchbase_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `21` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/`
 
 Semiconductors, financial services and space technology led for new Unicorn Board counts with the remainder hailing from a broad swath of industries including biotech, AI infrastructure, AI training, security and frontier labs.
 
@@ -3508,7 +3300,7 @@ Semiconductors, financial services and space technology led for new Unicorn Boar
 
 - Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
 - Reading value: `7` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/halloween-tips-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/halloween-tips-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp">Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.
 
@@ -3516,9 +3308,17 @@ Semiconductors, financial services and space technology led for new Unicorn Boar
 
 - Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
 - Reading value: `57` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/agilent-acquires-proscia-in-deal-worth-up-to-270m/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/agilent-acquires-proscia-in-deal-worth-up-to-270m/`
 
 <p>The transaction, which is expected to close in Agilent’s fiscal year 2027, follows its $950m acquisition of Biocare Medical in March 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/agilent-acquires-proscia-in-deal-worth-up-to-270m/">Agilent acquires Proscia in deal worth up to $270m</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Agilent to buy Proscia for $240M](https://www.medtechdive.com/news/agilent-to-buy-proscia-for-240m/832933/)
+
+- Source: `medtech_dive_primary` · published `2026-10-14` · freshness `fresh`
+- Reading value: `69` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/agilent-to-buy-proscia-for-240m/832933/`
+
+Agilent said Tuesday that it has agreed to buy digital pathology software provider Proscia for $240 million upfront. The deal, which includes up to $30 million in milestones, will give Agilent control of technology that connects slide scanners, laboratory information systems and other parts of the pathology workflow. Agilent’s deal comes months after Roche agreed to buy PathAI for up to $1.05 billion. Evercore ISI analysts noted that Agilent “got the rights to play in this market at a lower price point.”
 
 ### [Author Correction: Large language models are powerful electronic health record encoders](https://www.nature.com/articles/s41746-026-03220-1)
 
@@ -3532,17 +3332,33 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
 - Reading value: `38` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/`
 
 <p>Butterfly Medical has secured European Union Medical Device Regulation certification for its Butterfly Prostatic Retraction Device.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/">Butterfly Medical secures EU MDR certification for BPH implant</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro](https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/)
+
+- Source: `apple_newsroom` · published `2026-10-14` · freshness `fresh`
+- Reading value: `6` · status: `scored`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/`
+
+Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.
 
 ### [Check out this year’s buzziest Halloween trends.](https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/)
 
 - Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
 - Reading value: `7` · status: `needs_review`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…
+
+### [Current status and future outlook of artificial intelligence and automation in intravenous infusion systems](https://www.nature.com/articles/s41746-026-03291-0)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03291-0`
+
+No summary supplied by the source.
 
 ### [Electronic health record developer adherence to federal AI risk transparency requirements](https://www.nature.com/articles/s41746-026-03152-w)
 
@@ -3556,7 +3372,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp">Announcing Google’s European Economic Impact Report
 
@@ -3564,23 +3380,79 @@ No summary supplied by the source.
 
 - Source: `crunchbase_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `30` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/`
 
 In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.
+
+### [FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer](http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer)
+
+- Source: `fda_press` · published `2026-10-14` · freshness `fresh`
+- Reading value: `45` · status: `scored`
+- Event: `new` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer`
+
+FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer
 
 ### [FDA approves Providence Medical’s CORUS PCSS 3D-T spinal device](https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/)
 
 - Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
 - Reading value: `47` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/`
 
 <p>The US FDA has granted 510(k) clearance to Providence Medical Technology for its CORUS Posterior Cervical Stabilization System 3D-T.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/">FDA approves Providence Medical&#8217;s CORUS PCSS 3D-T spinal device</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development](http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease)
+
+- Source: `fda_press` · published `2026-10-14` · freshness `fresh`
+- Reading value: `52` · status: `scored`
+- Event: `new` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease`
+
+The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of drugs and biologics for rare diseases.
+
+### [FedFound: Federated Foundation Model for GI endoscopy imaging](https://www.nature.com/articles/s41746-026-03281-2)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03281-2`
+
+No summary supplied by the source.
+
+### [From compliance to competence: a multi-level model for AI governance in undergraduate medical education](https://www.nature.com/articles/s41746-026-03390-y)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03390-y`
+
+No summary supplied by the source.
+
+### [From research to clinical practice: Expert consensus on Neuroimaging AI tools for the Memory clinic (Neuro-AIM)](https://www.nature.com/articles/s41746-026-03296-9)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03296-9`
+
+No summary supplied by the source.
+
+### [Guide your campaign spending with new priority and allocation features](https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `18` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waterfall_Search_Chart_01_No_Li.max-600x600.format-webp.webp">New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated
+
+### [Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients](https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/)
+
+- Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
+- Reading value: `47` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
+
+<p><a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg" class="attachment-large size-large wp-post-image" alt="Jet trail creating dollar sign in blue sky with clouds startup capital" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Healthleap, a clinical AI platform that works within the EHR to screen hospitalized patients for conditions that might otherwise go undiagnosed, is supporting hospitals in finding at-risk patients sooner.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/">Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [How I Learned That Some Startup Problems Are Too Big For A Minimum Viable Product](https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `20` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/`
 
 Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI’s development speed to pursue bigger ambitions without shrinking their vision.
 
@@ -3588,31 +3460,63 @@ Complex, interconnected problems like compliance require a comprehensive product
 
 - Source: `jmir` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112631`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112631`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/47cf6656f3f9683f19f3b88a7a305824" />
 
-### [LLMs Are Turing-Complete](https://yager.io/neural/turing/turing.html)
+### [Linus Torvalds's first LLM-assisted patch series](https://lwn.net/Articles/1100449/)
 
 - Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://yager.io/neural/turing/turing.html`
+- Event: `new` · identity: `url:https://lwn.net/Articles/1100449/`
 
-Hacker News community signal; score 5.
+Hacker News community signal; score 53.
+
+### [MHRA homes in on personalised healthcare and tech in new 2030 strategy](https://www.medicaldevice-network.com/news/uk-mhra-2030-strategy-drug-medical-device-regulation-2/)
+
+- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
+- Reading value: `41` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/uk-mhra-2030-strategy-drug-medical-device-regulation-2/`
+
+<p>The MHRA’s new 2030 strategy plans to make drug and device regulation more efficient and patient centric by using technologies like AI.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-mhra-2030-strategy-drug-medical-device-regulation-2/">MHRA homes in on personalised healthcare and tech in new 2030 strategy</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability](https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `30` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss`
 
 A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;
+
+### [NVIDIA donates $250m to support UK’s AI research and security](https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/)
+
+- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
+- Reading value: `20` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/`
+
+<p>The UK life sciences scene could benefit from Nvidia’s donation, much of which is being allocated to institutions focused on AI safety and research initiatives.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/">NVIDIA donates $250m to support UK’s AI research and security</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [OpenAI claims employee sent secret device information to Apple](https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a)
+
+- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a`
+
+Hacker News community signal; score 5.
+
+### [OpenAI: Employee who left for Apple took files about unreleased device](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/`
+
+Hacker News community signal; score 10.
 
 ### [Opinion: How states can resist the potential Trump vaccine shortages](https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `23` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss`
 
 “States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.
 
@@ -3620,41 +3524,113 @@ A wave of clinical trials have begun to test the ability of GLP-1 weight loss dr
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `21` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss`
 
 “We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.
 
-### [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
+### [Orthofix pays former executives $24M in damages](https://www.medtechdive.com/news/orthofix-pays-fired-ceo-cfo-clo-24m-damages-compensation/832839/)
 
-- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Source: `medtech_dive_primary` · published `2026-10-14` · freshness `fresh`
+- Reading value: `44` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/orthofix-pays-fired-ceo-cfo-clo-24m-damages-compensation/832839/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/ZkXIIT-e65EAIKRrQt8xHNfJC6LlyAUIRp6vnXe5gZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DZW50dXJpb24tUHJpbWFyeS05NjB4NTM4LTEuanBn.webp"/></div></figure><p>The payments were made after a California arbitrator found private text messages between Orthofix executives couldn&rsquo;t be considered cause for firing.</p>
+
+### [Research@ 2026: Novel capabilities and intelligence](https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/)
+
+- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
+- Reading value: `12` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Research-at.max-600x600.format-webp.webp">We’re sharing our latest milestones and some of the advanced AI capabilities and intelligence that we’re putting in the hands of experts.
+
+### [Sequence models reveal diagnosis accumulation pathways beyond comorbidity burden in population-scale hospital data](https://www.nature.com/articles/s41746-026-03265-2)
+
+- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://book.humanexperiences.io/`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03265-2`
 
-Hacker News community signal; score 28.
+No summary supplied by the source.
+
+### [Shadow AI and the Limits of Institutional Agility](https://www.jmir.org/article/view/jmir_v28i1e112827)
+
+- Source: `jmir` · published `2026-10-14` · freshness `fresh`
+- Reading value: `39` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112827`
+
+Physicians are adopting generative AI tools faster than health systems can evaluate them. This commentary on the empirical report of “Shadow AI” drivers by Petersson and colleagues argues that governing Shadow AI requires health systems to pair institutional speed with transparent, stakeholder-engaged governance. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/b2eade24e22cdfba9a6d06c45f4db2c9" />
+
+### [Siemens Healthineers to stop selling general ultrasound systems](https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/)
+
+- Source: `medtech_dive_primary` · published `2026-10-14` · freshness `fresh`
+- Reading value: `68` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/`
+
+Siemens Healthineers said Monday that it will no longer sell general imaging ultrasound systems, focusing instead on ultrasound used in procedural imaging. The company will focus on systems used in interventional cardiology and electrophysiology procedures. Siemens Healthineers said this approach will allow it to bring together its imaging systems, software capabilities and partnerships with heart device companies to support physicians in increasingly complex procedures. Siemens Healthineers said it will continue to provide support for its general ultrasound systems, including maintenance, software updates and transducer availability.
+
+### [STAT+: FDA adcomm members’ ties to industry under scrutiny](https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `57` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss`
+
+New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;
 
 ### [STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI](https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `45` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss`
 
 Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.
+
+### [STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more](https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `40` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss`
+
+The FTC asked a U.S. court to hold Martin Shkreli in contempt for “flagrantly” violating a court order banning him from working in the pharma industry
 
 ### [STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine](https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss`
 
 E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly “misleading” campaign that disparaged a rival flu vaccine.
+
+### [STAT+: The startup chasing ‘general biological intelligence’](https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss`
+
+In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing "general biological intelligence.'
 
 ### [We’re powering European scientific discovery with advanced AI compute and frontier models.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/)
 
 - Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
 - Reading value: `32` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp">Google DeepMind and Google Cloud are providing up to 200 top European scientific researchers with direct access to our frontier models, together with $3 million in compu…
+
+### [Why Agentic AI Works in Hospitals When You Strip It Down](https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/)
+
+- Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
+- Reading value: `25` · status: `needs_review`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/`
+
+<p><a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg" class="attachment-large size-large wp-post-image" alt="A digitally generated image featuring an old-style computer monitor displaying the letters “AI” with neon business crowd. The scene blends retro computing with modern business aesthetics, symbolizing the journey of artificial intelligence from its early beginnings to its growing role in today’s corporate world. Ideal for illustrating themes of digital evolution, business transformation, AI adoption, and technology-driven innovation." style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-768x432.jpg 768w" sizes="(max-width: 788px) 100vw, 788px" /></a></p><p>Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/">Why Agentic AI Works in Hospitals When You Strip It Down</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Why do LLM pelicans look like this?](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://arcfu.com/post/the-emperor-pelican-has-no-clothes/`
+
+Hacker News community signal; score 116.
 
 ---
 
