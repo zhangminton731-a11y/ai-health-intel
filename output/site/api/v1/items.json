@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-15T17:46:38+00:00",
+  "generated_at": "2026-10-15T23:42:01+00:00",
   "as_of": "2026-10-16",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
@@ -243,6 +243,130 @@
         "source_tier": "T2",
         "status": "scored",
         "threshold": 76
+      }
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e81472/",
+      "title": "Quality Assessment and Model Training Impact of Synthetic Images in Medical Diagnostic Imaging: Systematic Review",
+      "original_title": "Quality Assessment and Model Training Impact of Synthetic Images in Medical Diagnostic Imaging: Systematic Review",
+      "summary": "Conclusions: Unlike previous reviews restricted to particular diseases, imaging modalities, or generative architectures, this review provides a cross-domain quantitative synthesis of both synthetic-image quality assessment and downstream model performance. Synthetic images currently appear more valuable as a complement to real training data than as a replacement, with modest improvements in classification performance, smaller gains in segmentation, and generally poorer performance with synthetic-only training. For researchers, developers, and regulators, these findings highlight the need for standardized multimethod image-quality evaluation, complete reporting, and rigorous external validation before synthetic-image pipelines are translated into clinical AI applications. Trial Registration: PROSPERO CRD42023369125; Results: A total of 160 studies were included.",
+      "url": "https://ai.jmir.org/2026/1/e81472/",
+      "source": "JMIR AI",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-15",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/212ba6819de06fc3350268d822897f4b",
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e81472/"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
+      },
+      "reading_value_score": 75,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-15T23:43:11+00:00",
+        "input_hash": "6c341ee55bbe98b96dab5a7214ff10c1406fdd499b077608245e68da381b4330",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610160743040930c3d565c54fff",
+              "seconds": 3.34,
+              "usage": {
+                "completion_tokens": 163,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 6
+                },
+                "prompt_tokens": 1300,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1463
+              }
+            },
+            "support": "A total of 160 studies were included. Generative adversarial network–based architectures dominated image generation (119 studies, 74.4%)",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "160项研究的跨领域系统综述，量化了合成影像质量评估现状及其对下游模型的实际影响，给出合成数据宜作补充而非替代的定量结论，对AI医学影像研究设计与转化判断有直接参考价值。主要限制是纳入研究异质性大、偏倚风险高，只能做描述性综合。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610160743074ead45baa11144a3",
+              "seconds": 4.39,
+              "usage": {
+                "completion_tokens": 286,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 145
+                },
+                "prompt_tokens": 1300,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1586
+              }
+            },
+            "support": "Synthetic-only training generally underperformed real-data training, including a median Dice similarity coefficient change of –10.2% for segmentation.",
+            "total": 79
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
       }
     }
   ]
