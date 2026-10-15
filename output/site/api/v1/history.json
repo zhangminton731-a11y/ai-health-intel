@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-15T12:39:52+00:00",
-  "as_of": "2026-10-15",
+  "generated_at": "2026-10-15T17:46:38+00:00",
+  "as_of": "2026-10-16",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -122,10 +122,274 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
+      "t": "覆盖范围透明度最终规则 (CMS 9882-F)",
+      "te": "Transparency in Coverage Final Rules (CMS 9882-F)",
+      "s": "承保透明度最终规则 (CMS 9882-F) 简介 与 2026 年 10 月 5 日发布的第 14221 号总统行政命令“通过为患者提供清晰、准确和可操作的医疗保健定价信息，让美国再次健康”一致，卫生与公共服务部（通过医疗保险和医疗补助服务中心）与劳工部和财政部（统称为财政部）合作，各部门）联合最终确定了对保险范围透明度规定的修改，以提高参与者、受益人和参保者定价披露的可及性，以及非祖父团体健康计划和提供非祖父团体或个人健康保险承保的健康保险发行人公开定价披露的标准化和可靠性。",
+      "se": "Transparency in Coverage Final Rules (CMS 9882-F) Introduction Consistent with the President’s Executive Order 14221 , “Making America Healthy Again by Empowering Patients with Clear, Accurate, and Actionable Healthcare Pricing Information,” on October 5, 2026, the Department of Health and Human Services (through the Centers for Medicare & Medicaid Services), in partnership with the Departments of Labor and the Department of the Treasury (collectively, the Departments) jointly finalized changes to the Transparency in Coverage regulations to improve the accessibility of pricing disclosures to participants, beneficiaries, and enrollees, and the standardization and reliability of the public pricing disclosures from non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage.",
+      "u": "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
+      "image": "",
+      "src": "CMS · 政策事实说明",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "business",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "cms_fact_sheets"
+        ],
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f",
+        "upstream_id": ""
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-05T16:04:25+00:00",
+        "input_hash": "e0daede257084be7ccb677d727b46d6272b1ee49cc126e6d38aeffd08b1ca3e8",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "policy",
+            "reason": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261006000411b519a8378f4a43b4",
+              "seconds": 7.61,
+              "usage": {
+                "completion_tokens": 282,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 80
+                },
+                "prompt_tokens": 3012,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 3294
+              }
+            },
+            "support": "Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that providers would be unlikely to be reimbursed",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "policy",
+            "reason": "这是已正式落地的美国医保支付透明度监管修订，具体改变了机器可读价格文件的报告层级、频率、格式与准确性声明要求，医院技术负责人与支付方/数据分析企业可据此调整合规和数据架构。限制：材料为官方事实清单，仅为规则条文层面的说明，实际实施效果和各机构落地成本仍待观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261006000419e502c051130e471c",
+              "seconds": 6.8,
+              "usage": {
+                "completion_tokens": 328,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 158
+                },
+                "prompt_tokens": 3012,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 3340
+              }
+            },
+            "support": "the final rules include amendments to: Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that provid",
+            "total": 79
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-05",
+      "reasons": {
+        "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://ai.jmir.org/2026/1/e100772/",
+      "t": "用于对话式医疗保健人工智能风险评估的患者模拟框架：开发和评估研究",
+      "te": "A Patient Simulation Framework for Risk Assessment of Conversational Health Care AI: Development and Evaluation Study",
+      "s": "结论：基于 NIST AI RMF 的患者模拟暴露了静态基准忽略的对话式医疗保健 AI 中可测量的性能风险，并具有直接的公平影响。健康素养是一个结构性风险因素，表现下降主要集中在精神疾病负担最重的患者身上。该框架支持部署前有针对性的风险缓解干预措施。虽然我们仅评估了抗抑郁药物选择的框架，但将其扩展到其他临床决策辅助任务仍然是未来工作的任务。结果：患者模拟器以高保真度表达了医学概念（8210 个概念的准确度为 96.6%），与人类注释者之间具有显着的一致性（κ = 0.73），并且大语言模型法官与人类注释者之间的一致性（κ = 0.78）。行为特征得到可靠区分（κ=0.93；",
+      "se": "Conclusions: Patient simulation grounded in the NIST AI RMF exposes measurable performance risks in conversational health care AI that static benchmarks miss, with direct equity implications. Health literacy operates as a structural risk factor, with degraded performance concentrated in patients carrying the greatest burden of psychiatric illness. The framework supports targeted risk-mitigation interventions before deployment. While we evaluated the framework only on antidepressant selection, extending it to other clinical decision-aid tasks remains an assignment for future work. Results: The patient simulator expressed medical concepts with high fidelity (96.6% accuracy across 8210 concepts), with substantial human interannotator agreement (κ=0.73) and LLM-judge agreement against human annotators (κ=0.78). Behavioral profiles were reliably distinguished (κ=0.93;",
+      "u": "https://ai.jmir.org/2026/1/e100772/",
+      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a24d160597a38ff480212270bfd20f95",
+      "src": "JMIR AI",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a24d160597a38ff480212270bfd20f95",
+        "observed_in_sources": [
+          "jmir_ai"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir_ai",
+        "upstream_id": "https://ai.jmir.org/2026/1/e100772/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-06T01:47:43+00:00",
+        "input_hash": "363500ba3359463ef504e51edc50e401738682e6d894c07cb9fcf67299a06dcf",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610060947323244b5ec534b4a3c",
+              "seconds": 6.4,
+              "usage": {
+                "completion_tokens": 149,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1354,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1503
+              }
+            },
+            "support": "The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "提供了一个对齐NIST AI RMF的患者模拟评估框架，可复用于会话式临床AI的多轮风险评测，且揭示了健康素养梯度下的单调性能退化这一具体、可量化的公平性风险；主要限制是仅在外有情结的仿真环境和单一抗抑郁决策任务上验证，框架尚需外部真实场景扩展。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261006094739b548374cdd324e6d",
+              "seconds": 4.92,
+              "usage": {
+                "completion_tokens": 173,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1354,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1527
+              }
+            },
+            "support": "The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient. Rank-1 concept retrieval increased from 47.6% for limited health literacy to 81.9% for",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-05",
+      "reasons": {
+        "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
       },
       "historical": true
     },
@@ -173,7 +437,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -304,7 +568,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -355,7 +619,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -405,7 +669,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -455,7 +719,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -506,7 +770,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -557,7 +821,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -604,7 +868,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -738,7 +1002,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -870,7 +1134,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -920,7 +1184,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -971,7 +1235,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1023,7 +1287,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1075,7 +1339,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1124,7 +1388,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1177,7 +1441,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1307,7 +1571,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1437,7 +1701,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1485,7 +1749,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1536,7 +1800,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1588,7 +1852,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1637,7 +1901,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1766,7 +2030,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {
         "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
@@ -1895,7 +2159,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
@@ -2024,7 +2288,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
@@ -2070,7 +2334,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2117,7 +2381,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2168,7 +2432,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2220,7 +2484,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2271,7 +2535,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2320,7 +2584,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2369,7 +2633,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2417,7 +2681,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2467,7 +2731,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2518,7 +2782,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2570,7 +2834,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2621,7 +2885,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2673,7 +2937,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2725,7 +2989,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2771,7 +3035,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2817,7 +3081,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2869,7 +3133,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2997,7 +3261,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
@@ -3128,7 +3392,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
@@ -3259,7 +3523,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
@@ -3386,7 +3650,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
@@ -3435,7 +3699,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3568,7 +3832,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -3617,7 +3881,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3660,7 +3924,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3712,7 +3976,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3761,7 +4025,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3811,7 +4075,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3859,7 +4123,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3912,7 +4176,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3963,7 +4227,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4012,7 +4276,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4061,7 +4325,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4105,7 +4369,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4235,7 +4499,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
@@ -4369,7 +4633,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
@@ -4417,7 +4681,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4464,7 +4728,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4515,7 +4779,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4564,7 +4828,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4614,7 +4878,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4662,7 +4926,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4713,7 +4977,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4763,7 +5027,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4810,7 +5074,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4858,7 +5122,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4907,7 +5171,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5034,7 +5298,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
@@ -5165,7 +5429,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
@@ -5293,7 +5557,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
@@ -5341,715 +5605,9 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-27",
       "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
-      "t": "Precision Neuroscience 筹集 2.5 亿美元用于脑机接口工作",
-      "te": "Precision Neuroscience raises $250M for brain-computer interface work",
-      "s": "D 轮融资是 BCI 初创公司投资激增的一部分，使 Precision Neuroscience 的总资金达到 4.3 亿美元。",
-      "se": "The Series D round is part of a surge in investment into BCI startups and brings Precision Neuroscience’s total funding to $430 million.",
-      "u": "https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/",
-      "image": "",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/precision-neuroscience-raises-250m-for-brain-computer-interface-work/831344/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-      "t": "FDA 授予 Glytec 的 Glucommander 儿科突破性认定",
-      "te": "FDA grants breakthrough designation to Glytec’s Glucommander Pediatrics",
-      "s": "美国 FDA 已授予 Glytec 提出的胰岛素剂量推荐算法 Glucommander Pediatrics 突破性设备称号，该算法适用于住院新生儿和两岁以下婴儿。",
-      "se": "The US FDA has granted breakthrough device designation to Glytec’s proposed insulin dosing recommendation algorithm, Glucommander Pediatrics, for hospitalised newborns and infants under two years old.",
-      "u": "https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-      "image": "",
-      "src": "Medical Device Network",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "regulation"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "technology",
-          "regulation"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245341"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e98432",
-      "t": "儿科医疗保健聊天机器人的证据和未来方向：系统回顾",
-      "te": "Evidence and Future Directions for Pediatric Health Care Chatbots: Systematic Review",
-      "s": "结论：儿科医疗保健聊天机器人正在不同的医疗保健环境中出现，但目前的证据仍然有限且异构。本次审查确定了与发展相关的考虑因素，包括护理人员的参与、适合年龄的沟通和发展差异，这些因素可能需要在未来的聊天机器人设计、评估和实施中得到明确的关注。结果：共纳入 9 项研究，其中 5 项（55.6%）仅涉及儿科受试者，4 项（44.4%）涉及护理人员。六项（66.7%）研究缺乏比较器，并且只有 3 项（33.3%）聊天机器人是基于人工智能的。健康和心理社会结果参差不齐，尽管有一些主观改善，但客观临床指标经常显示无效结果。行为和认知结果通常显示出有利的变化，但很大程度上依赖于主观评估。",
-      "se": "Conclusions: Pediatric health care chatbots are emerging across diverse health care contexts, but the current evidence remains limited and heterogeneous. This review identified developmentally relevant considerations, including caregiver involvement, age-appropriate communication, and developmental differences, that may warrant explicit attention in future chatbot design, evaluation, and implementation. Results: A total of 9 studies were included, with 5 (55.6%) involving pediatric participants only, while 4 (44.4%) involved caregivers. Six (66.7%) studies lacked a comparator, and only 3 (33.3%) chatbots were AI-based. Health and psychosocial outcomes were mixed, often showing null findings in objective clinical metrics despite some subjective improvements. Behavioral and cognitive outcomes generally showed favorable changes but relied heavily on subjective evaluations.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e98432",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e98432"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95921",
-      "t": "老年中风患者对数字医疗技术的恐惧症现状及相关因素：混合方法研究",
-      "te": "Current Status and Associated Factors of Technophobia Toward Digital Health Technologies Among Older Patients With Stroke: Mixed Methods Study",
-      "s": "结论：老年中风患者的技术恐惧症有所不同，并且与人均家庭月收入、数字医疗技术使用频率、电子健康素养、感知的社会支持和中风自我效能相关。这些发现表明，技术恐惧症不仅限于操作困难，还可能反映了个人资源、社会支持和技术使用环境的相互作用。针对中风的数字健康干预措施可能需要解决电子健康素养、中风自我效能、社会支持和用户体验，以促进老年中风患者的接受和使用。结果：在 343 名定量参与者中，技术恐惧症中位数得分为 25.0 (IQR 22.0‐33.0)。多变量线性回归显示，家庭人均月收入为人民币（人民币；",
-      "se": "Conclusions: Technophobia varied among older patients with stroke and was associated with monthly per capita household income, frequency of digital health technology use, eHealth literacy, perceived social support, and stroke self-efficacy. These findings suggest that technophobia is not limited to operational difficulties but may reflect the interplay of personal resources, social support, and technology use contexts. Stroke-specific digital health interventions may need to address eHealth literacy, stroke self-efficacy, social support, and user experience to promote acceptance and use among older patients with stroke. Results: Among 343 quantitative participants, the median technophobia score was 25.0 (IQR 22.0‐33.0). Multivariable linear regression showed lower technophobia scores among patients with monthly per capita household income of Renminbi (Chinese yuan;",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e95921",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95921"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e93413",
-      "t": "可穿戴传感器在现实环境中评估帕金森病和中风的步态：系统评价和荟萃分析",
-      "te": "Wearable Sensors in Gait Assessment for Parkinson Disease and Stroke in Real-World Environments: Systematic Review and Meta-Analysis",
-      "s": "结论：与之前关注单一疾病或特定硬件的综述不同，本综述对 PD 和中风进行了对比，以强调共同的方法学挑战。帕金森病的真实步态评估正在取得进展，但仍比较分散，而卒中证据基础仍然稀疏。观察到的差异因程序和算法的不一致而变得更加复杂，目前无法将其与真正的临床差异分开。 PD 中建立的方法基础为早期采用标准化术语、验证程序和核心成果奠定了基础，这对于将可穿戴传感器从探索性工具转变为可靠的临床和远程监测仪器至关重要。试用注册：PROSPERO CRD42024531665；  结果：在 2489 份记录中，纳入了 43 份报告：37 份关于 PD（2774 名参与者；",
-      "se": "Conclusions: Unlike previous reviews focusing on single diseases or specific hardware, this review contrasts PD and stroke to highlight shared methodological challenges. Real-world gait assessment in PD is advancing but fragmented, whereas the stroke evidence base remains sparse. The observed variance is compounded by procedural and algorithmic inconsistencies that cannot currently be separated from genuine clinical differences. The methodological groundwork established in PD offers a foundation for early adoption of standardized terminology, validation procedures, and core outcomes, essential for transitioning wearable sensors from exploratory tools to reliable clinical and remote-monitoring instruments. Trial Registration: PROSPERO CRD42024531665; https://www.crd.york.ac.uk/PROSPERO/view/CRD42024531665 Results: Of 2489 records, 43 reports were included: 37 on PD (2774 participants;",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e93413",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e93413"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87047",
-      "t": "2020年以来美国放弃监护人许可用于儿科数字健康干预研究的情况：系统评价",
-      "te": "The Use of Waivers of Guardian Permission in the United States for Pediatric Digital Health Intervention Research Since 2020: Systematic Review",
-      "s": "结论：虽然存在多个框架来评估关于在研究中放弃未成年人监护人许可的道德规范，但这是第一次系统地评估 DHI 中的研究，而 DHI 的风险水平往往各不相同。尽管小样本量和可变的报告实践限制了统计能力，但使用豁免的研究和未使用豁免的研究之间样本特征或研究特征缺乏差异，这表明机构审查委员会可能对豁免监护人许可的法规和指南有不同的解释。这些发现可能表明需要更多的证据来指导风险和收益评估，或者需要对现有证据基础以及儿科 DHI 研究的风险和潜在收益进行更多教育。",
-      "se": "Conclusions: Though several frameworks exist for evaluating ethics around waiving guardian permission for minors in research, this is the first review to systematically evaluate research in DHI, which often varies in terms of its level of risk. Although small sample sizes and variable reporting practices limited statistical power, the lack of differences in sample characteristics or study features between studies that used waivers and those that did not suggests that institutional review boards may be differentially interpreting regulations and guidance on waiving guardian permission. These findings likely indicate the need for more evidence to guide risk and benefit evaluations—or more education about the existing evidence base, as well as the risks and potential benefits of pediatric DHI research.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e87047",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87047"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e84915",
-      "t": "使用随机试验第二版 Cochrane 偏倚风险工具评估大型语言模型在偏倚风险评估中的准确性：探索性可行性研究",
-      "te": "Evaluating the Accuracy of Large Language Models in Risk-of-Bias Assessment Using Version 2 of the Cochrane Risk-of-Bias Tool for Randomized Trials: Exploratory Feasibility Study",
-      "s": "结论：在这项探索性研究中，ChatGPT 使用 ROB 2 在随机对照试验中评估 ROB 时表现出中等准确性和高度一致性。然而，在需要解释隐含叙述或行为细微差别的复杂场景中，其可靠性会降低。这些发现表明，大语言模型可以通过充当自动筛选器来支持系统评价中的方法学评估，以减轻审稿人的负担，但目前的实施仍然需要专家监督，特别是对于涉及主观结果或非标准报告的试验。结果：大语言模型在第一次评估中表现出中等的聚合领域准确度，为 73.1% (95% CI 64.7%-81.5%)，在第二次评估中为 75.9% (95% CI 66.3%-85.4%)。",
-      "se": "Conclusions: In this exploratory study, ChatGPT demonstrated moderate accuracy and high consistency in assessing ROB in RCTs using the ROB 2. However, its reliability diminished in complex scenarios requiring interpretation of implicit narratives or behavioral nuance. These findings suggest that LLMs may support methodological evaluations in systematic reviews by acting as automated screeners to reduce reviewer burden, but current implementation still requires expert oversight, particularly for trials involving subjective outcomes or nonstandard reporting. Results: The LLM demonstrated a moderate aggregate domain accuracy of 73.1% (95% CI 64.7%-81.5%) in the first assessment and 75.9% (95% CI 66.3%-85.4%) in the second assessment.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e84915",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e84915"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e78718",
-      "t": "人工智能使用光电体积描记法诊断阻塞性睡眠呼吸暂停的准确性：系统评价和荟萃分析",
-      "te": "Accuracy of Artificial Intelligence in Diagnosing Obstructive Sleep Apnea Using Photoplethysmography: Systematic Review and Meta-Analysis",
-      "s": "结论：在 PPG 上训练的 AI 模型具有合理的准确性，并且有可能作为一种低成本的筛选工具。然而，样本量小、潜在偏差来源、某些地理区域代表性不足以及潜在混杂因素的影响等限制凸显了进一步研究的必要性。未来的工作应侧重于深度学习，以提高这种方法在初级保健中的可行性和可及性。试用注册：PROSPERO CRD42024534235；  结果：我们从 12,579 条记录中纳入了 13 项研究，涉及 9983 名参与者。所有研究的偏倚风险均被评为低或不清楚。总体证据质量中等。",
-      "se": "Conclusions: AI models trained on PPG have reasonable accuracy and may potentially serve as a low-cost screening tool. However, limitations such as small sample sizes, potential sources of bias, underrepresentation of certain geographic regions, and the influence of potential confounding factors highlight the necessity for further research. Future work should focus on deep learning to improve the feasibility and accessibility of this approach in primary care. Trial Registration: PROSPERO CRD42024534235; https://www.crd.york.ac.uk/PROSPERO/view/CRD42024534235 Results: From 12,579 records, we included 13 studies, comprising 9983 participants. All studies were rated as either low or unclear for risk of bias. The overall evidence quality was moderate.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e78718",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e78718"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-      "t": "本周最大的 10 轮融资：网络安全、人工智能和健康领跑",
-      "te": "The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
-      "s": "本周，大量大型初创企业融资，其中包括为网络安全独角兽企业提供的两轮 4 亿美元融资，以及为基础人工智能、药物发现、神经技术甚至降雨等热门领域初创企业的大型融资。",
-      "se": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across hot sectors, including foundational AI, drug discovery, neurotech, and even rainmaking.",
-      "u": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-      "image": "",
-      "src": "Crunchbase News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology",
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "crunchbase_news_feed"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "crunchbase_news_feed",
-        "upstream_id": "https://news.crunchbase.com/?p=94117"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e98247",
-      "t": "HIMSS 电子病历采用模型 (EMRAM) 第 7 阶段医院中受控物质安全的可量化 3D 闭环框架：事前质量改进研究",
-      "te": "A Quantifiable 3D Closed-Loop Framework for Controlled Substance Safety in a HIMSS Electronic Medical Record Adoption Model (EMRAM) Stage 7 Hospital: Pre-Post Quality Improvement Study",
-      "s": "结论：3D 闭环框架的实施与数字化成熟医院中受控物质过程指标的改善暂时相关。实施参数可作为其他区或机构当地可行性测试的参考，但可转移性仍有待评估。仍需要多中心研究来确认可持续性和可转移性。结果：分析包括实施前处方配药记录3264条，实施后处方配药记录3311条。处方配药记录合规性从 94.82% (3095/3264) 提高到 98.7% (3268/3311)。批次号管理不合规率从 2.4% (24/1000) 下降到 0.6% (6/1000)。",
-      "se": "Conclusions: Implementation of the 3D closed-loop framework was temporally associated with improvements in controlled substance process indicators in a digitally mature hospital. The implementation parameters may serve as a reference for local feasibility testing in other wards or institutions, but transferability remains to be evaluated. Multicenter studies are still needed to confirm sustainability and transferability. Results: The analysis included 3264 prescription dispensing records before implementation and 3311 prescription dispensing records after implementation. Prescription dispensing record compliance increased from 94.82% (3095/3264) to 98.7% (3268/3311). Batch-number management noncompliance decreased from 2.4% (24/1000) to 0.6% (6/1000).",
-      "u": "https://medinform.jmir.org/2026/1/e98247",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e98247"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-      "t": "人工智能全力支持护理团队：环境图表只是开始",
-      "te": "AI Goes All In To Support Nursing Teams: Ambient Charting is Just the Start",
-      "s": "问题是，这些人工智能工具是否会成为另一层碎片化的技术，或者是真正的助手，帮助他们将更多时间花在病人护理上。",
-      "se": "The question is whether these AI tools will be another fragmented layer of technology or true assistants to help them spend more time on patient care.",
-      "u": "https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029.jpg",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2025/03/GettyImages-1947330029.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=148903"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e85047/",
-      "t": "接受机器学习用于癫痫药物选择，为临床试验设计提供信息：联合设计调查研究",
-      "te": "Acceptance of Machine Learning for Medication Selection in Epilepsy to Inform Clinical Trial Design: Co-Design Survey Study",
-      "s": "结论：这项研究强调了在使现有框架适应特定临床环境时协同设计的重要性。本研究中开发的用于 ASM 选择的共同设计的 ML 接受调查问卷可用于评估 ML 技术在癫痫领域的可接受性，加强未来的试验并支持正在进行的技术开发。结果：共有 32 名参与者完成了调查，其中包括 22 名（68.8%）成人癫痫患者和 10 名（31.2%）神经科医生。虽然参与者认为核心 UTAUT2 构造相关，但定性反馈确定了影响 ML 接受度的其他领域，包括情感态度、感知风险、知识增强、共同决策中的冲突以及工作场所政策和监管等背景因素。",
-      "se": "Conclusions: This study highlights the importance of co-design when adapting existing frameworks to the specific clinical context. The co-designed ML acceptance questionnaire for ASM selection developed in this study can be used to evaluate the acceptability of ML technology in the field of epilepsy, strengthening future trials and supporting ongoing technology development. Results: A total of 32 participants completed the survey, including 22 (68.8%) adults living with epilepsy and 10 (31.2%) neurologists. While participants considered core UTAUT2 constructs relevant, qualitative feedback identified additional domains influencing ML acceptance, including emotional attitudes, perceived risks, knowledge enhancement, conflicts in shared decision-making, and contextual factors such as workplace policy and regulation.",
-      "u": "https://ai.jmir.org/2026/1/e85047/",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a4f70baf3d166f67a039e2c13cd6431f",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a4f70baf3d166f67a039e2c13cd6431f",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e85047/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "pmid:42790456",
-      "t": "WHO 2 级非典型脑膜瘤手术切除后的放疗与观察 (ROAM/EORTC-1308)：一项国际、多中心、开放标签、3 期随机对照试验。",
-      "te": "Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial.",
-      "s": "背景 WHO 2 级非典型脑膜瘤是一种原发性脑肿瘤，即使完全手术切除后复发风险也很高。辅助放疗的作用仍不确定。与观察组相比，放疗组的无病生存率有所改善（风险比 0·51 [95% CI 0·27-0·97]；p=0·0396）。",
-      "se": "Background WHO grade 2 atypical meningioma is a primary brain tumour with a high risk of recurrence even after complete surgical resection. The role of adjuvant radiotherapy remains uncertain. Disease-free survival was improved in the radiotherapy group compared with the observation group (hazard ratio 0·51 [95% CI 0·27-0·97]; p=0·0396).",
-      "u": "https://doi.org/10.1016/s0140-6736(26)01804-0",
-      "image": "",
-      "src": "The Lancet · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42790456",
-        "upstream_id": "42790456"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:16+00:00",
-        "input_hash": "57c517363468aa9d9e4f9a00317aa777409a75c24b1db6ae659f54fdddb7ebf0",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162205edda75dcd82c440a",
-              "seconds": 3.91,
-              "usage": {
-                "completion_tokens": 160,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1576,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1736
-              }
-            },
-            "support": "ROAM/EORTC-1308 was an international, multicentre, open-label, phase 3, randomised controlled trial, conducted at 58 hospitals and academic centres in 11 countries.",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是首个针对WHO 2级非典型脑膜瘤术后辅助放疗的多中心III期RCT，5年无病生存改善15.6个百分点（HR 0.51），可直接改变该类肿瘤术后辅助治疗的临床决策。限制为样本量较小（157例）、开放标签设计，且仅支持摘要级结论，长期放疗迟发毒性仍需随访。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162211c82e3c8aec884f15",
-              "seconds": 7.62,
-              "usage": {
-                "completion_tokens": 220,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 21
-                },
-                "prompt_tokens": 1576,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1796
-              }
-            },
-            "support": "5-year disease-free survival was 79·9% (95% CI 67·6-87·9) in the radiotherapy group and 64·3% (51·9-74·2) in the observation group (absolute difference 15·6% percentage points [95% CI 0·6-30·5]).",
-            "total": 77
-          }
-        ],
-        "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-25",
-      "reasons": {
-        "research": "这是一项国际多中心III期RCT，首次以随机对照证据支持全切后非典型脑膜瘤的辅助放疗决策，DFS获益（HR 0.51）和毒性数据可直接指导临床实践与后续研究设计。局限是样本量偏小（157例）、开放标签设计，且获益幅度CI较宽。"
-      },
       "historical": true
     }
   ],
@@ -6060,6 +5618,14 @@
         "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
       ],
       "minutes": 1
+    },
+    {
+      "date": "2026-10-05",
+      "item_ids": [
+        "url:https://ai.jmir.org/2026/1/e100772/",
+        "url:https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f"
+      ],
+      "minutes": 2
     },
     {
       "date": "2026-10-03",
@@ -6132,17 +5698,6 @@
         "url:https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/"
       ],
       "minutes": 1
-    },
-    {
-      "date": "2026-09-25",
-      "item_ids": [
-        "pmid:42790456",
-        "url:https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
-        "url:https://www.medicaldevice-network.com/news/fda-breakthrough-designation-glytecs-glucommander-pediatrics/",
-        "url:https://medcitynews.com/2026/09/ai-goes-all-in-to-support-nursing-teams-ambient-charting-is-just-the-start/",
-        "url:https://ai.jmir.org/2026/1/e85047/"
-      ],
-      "minutes": 2
     }
   ]
 }

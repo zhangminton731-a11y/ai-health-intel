@@ -1,4 +1,4 @@
-# Scientific Information Brief · 2026-10-15
+# Scientific Information Brief · 2026-10-16
 
 > Daily status: **complete_with_warning** · sources 26/26 · items 450
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 4
+## Scan · 2
 
 ### [2027 Medicare Advantage and Part D Star Ratings](https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings)
 
@@ -18,14 +18,6 @@ No items.
 
 2027 Medicare Advantage and Part D Star Ratings Note: The information included in this Fact Sheet is based on the 2027 Medicare Advantage (MA) and Part D Star Ratings published on the Medicare Plan Finder on Oct. 8, 2026. For details on the methodology of the MA and Part D Star Ratings, please refer to the 2027 Part C & D Star Ratings Technical Notes available at http://go.cms.gov/partcanddstarratings . Ensuring that Medicare works for seniors and people with disabilities and that people with Medicare have access to robust, stable, high-quality, and affordable options for the coverage they need are top priorities for the Centers for Medicare & Medicaid Services (CMS). CMS continues to implement enhancements to the Medicare Advantage (MA) and Medicare Part D Star Ratings programs to incentivize plans to strive for ongoing quality improvement and to help ensure that Medicare enrollees receive high-quality care. CMS publishes the MA (Medicare Part C) and Part D Star Ratings each year to measure the quality of health and prescription drug services received by consumers enrolled in MA and Part D prescription drug plans (PDPs or Part D plans). An important component of the Star Ratings is to provide people with Medicare and their caregivers with meaningful information about the quality of plans in Medicare Plan Finder, alongside information about benefits and costs, to assist them in comparing Medicare health and drug plans and choosing the Medicare coverage option that best fits their health needs. The 2027 Star Ratings announced today appear on Medicare Plan Finder for 2027 Open Enrollment, which begins on October 15, 2026 and runs through December 7, 2026, and will impact 2028 MA quality bonus payments. Highlights of Contract Performance in 2027 Star Ratings MA Prescription Drug (MA-PD) contracts are rated on up to 43 unique quality and performance measures; MA-only contracts (without Part D coverage) are rated on up to 32 measures; and standalone PDP contracts are rated on up to 13 measures. For each measure, CMS establishes thresholds called “cut points” that are used to determine whether each contract’s performance for that measure receives a one, two, three, four, or five-star rating. Changes in the Methodology for the 2027 Star Ratings CMS made changes to the methodology for the 2027 Star Ratings through previous notice and comment rulemaking. There are two new measures added beginning with the 2027 Star Ratings: Concurrent Use of Opioids and Benzodiazepines (COB) and Polypharmacy: Use of Multiple Anticholinergic Medications in Older Adults (Poly-ACH). i The Care for Older Adults — Functional Status Assessment measure is returning to the 2027 Star Ratings after substantive specification changes. i The respecified Colorectal Cancer Screening measure was moved into the 2027 Star Ratings as a new measure, replacing the legacy Colorectal Cancer Screening measure. i All of these measures are process measures developed from evidence-based clinical treatment guidelines, each with a weight of one. These clinical process measures are critical for measuring healthcare and medication use quality, ensuring that care is delivered effectively, and preventing long-term health consequences by addressing potential health concerns early in the beneficiary’s care. The weight of the Improving or Maintaining Physical Health and Improving or Maintaining Mental Health measures increased from a weight of one for the 2026 Star Ratings to a weight of three beginning with the 2027 Star Ratings following a substantive measure specification change. The Medication Therapy Management (MTM) Program Completion Rate for Comprehensive Medication Review (Part D) measure i was transitioned to the display page for measurement years 2025 and 2026 and will return to the Star Ratings as a new measure beginning with the 2029 Star Ratings (measurement year 2027). Additionally, the Care for Older Adults — Pain Assessment (Part C) ii and Medication Reconciliation Post-Discharge (Part C) i measures were retired from the Star Ratings. For the 2027 Star Ratings, CMS began using data collected through the Part C Reporting Requirements (as described at § 422.516(a)) to confirm the completeness of the Independent Review Entity (IRE) data used in the calculation of the Plan Makes Timely Decisions about Appeals and Reviewing Appeals Decisions measures. i As codified at § 422.164(g)(1)(iii), CMS used these data to implement scaled reductions data integrity issues were identified. Rating Distribution iii The last row in Table 1 shows the trend in the average overall Star Ratings weighted by enrollment for MA-PDs from 2024-2027 after any adjustments for extreme and uncontrollable circumstances. iv Approximately 37% of MA-PDs (188 contracts) that will be offered in 2027 earned four stars or higher for their 2027 overall rating. Weighted by enrollment, approximately 71% of MA-PD enrollees are currently in contracts that will have four or more stars in 2027. Changes in Star Ratings year-over-year are normal and expected and vary by measure. Star Ratings are intended to capture a contract’s performance during the measurement period, with some contracts performing better or worse in different years. The cut points are recalculated each year based on performance during the measurement period. The 2026 overall rating data reflect the updates for MA contracts that had their 2027 Quality Bonus Payment rating updated in June 2026 and their 2026 overall rating updated in Medicare Plan Finder in July 2026. Table 1: Overall Star Rating Distribution for MA-PD Contracts (2024 – 2027) Overall Rating 2024 2025 2026 2027 #a % Weighted by Enrollment #a % Weighted by Enrollment #a % Weighted by Enrollment #a % Weighted by Enrollment 5 stars 38 6.97 7.64 9 1.73 1.98 22 4.26 2.43 15 2.95 2.25 4.5 stars 81 14.86 31.76 85 16.31 29.73 89 17.25 38.78 65 12.80 32.70 4 stars 123 22.57 36.94 120 23.03 32.15 118 22.87 25.95 108 21.26 35.78 3.5 stars 141 25.87 15.89 170 32.63 29.19 166 32.17 25.50 164 32.28 19.71 3 stars 126 23.12 6.77 115 22.07 5.96 98 18.99 6.82 124 24.41 8.75 2.5 stars 32 5.87 0.96 21 4.03 0.99 21 4.07 0.48 31 6.10 0.81 2 stars 4 0.73 0.03 1 0.19 0.01 2 0.39 0.04 1 0.20 0.01 Total Rated Contracts 545 521 516 508 Average Star Rating b 4.07 3.95 4.01 3.99 a Number of contracts b The average overall MA-PD Star Rating is weighted by enrollment. The overall rating is a weighted average of the Part C and D measure stars. The last row in Table 2 shows the average Part D Ratings weighted by enrollment for stand-alone PDPs from 2024-2027 after any adjustments for extreme and uncontrollable circumstances. iv Approximately 27% of PDPs (11 contracts) that will be active in 2027 received four or more stars for their 2027 Part D Rating. Weighted by enrollment, approximately 22% of PDP enrollees are currently in contracts that will have four or more stars in 2027, an increase from 2% in 2026. Table 2: Part D Rating Distribution for PDPs (2024 – 2027) Part D Rating 2024 2025 2026 2027 #c % Weighted by Enrollment #c % Weighted by Enrollment #c % Weighted by Enrollment #c % Weighted by Enrollment 5 stars 2 4.17 0.04 2 4.88 0.04 2 5 0.04 0 0 0 4.5 stars 4 8.33 0.60 6 14.63 0.94 5 12.5 0.87 3 7.32 16.39 4 stars 12 25.00 22.82 3 7.32 3.60 2 5 0.94 8 19.51 5.93 3.5 stars 10 20.83 24.45 11 26.83 53.61 6 15 35.65 4 9.76 4.43 3 stars 14 29.17 49.56 10 24.39 4.04 18 45 36.54 14 34.15 51.27 2.5 stars 2 4.17 0.04 8 19.51 36.23 5 12.5 13.90 11 26.83 21.97 2 stars 4 8.33 2.48 1 2.44 1.54 2 5 12.07 0 0 0 1.5 stars 0 0 0 0 0 0 0 0 0 1 2.44 0.00e Total Rated Contracts 48 41 40 41 Average Star Ratingd 3.34 3.12 3.01 3.22 c Number of contracts d The average Star Rating is weighted by enrollment. e The contract with 1.5 stars is very small. Five-Star Contracts A total of 15 MA-PD contracts are highlighted on the Medicare Plan Finder with a high-performing icon v indicating they earned five stars (Table A1 in Appendix). For 2027, six of the contracts receiving the high-performing icon also received it in 2026. Consistently Low Performers There are four MA-PD contracts identified on the Medicare Plan Finder with a low-performing icon (LPI) vi for 2027 for consistently low-quality ratings (Table A2 in Appendix). Last year, four contracts received this icon. Tax Status and Performance Nonprofit organizations more frequently earn higher ratings than organizations that are for-profit. For MA-PDs, approximately 44% of nonprofit contracts received four or more stars compared to 34% of for-profit MA-PDs. For PDPs, approximately 28% of nonprofit PDPs received four or more stars compared to 27% of for-profit PDPs. Below are the ratings distributions by tax status for MA-PD (Table 3) and PDP (Table 4) contracts after any adjustments for extreme and uncontrollable circumstances. iv Table 3: Distribution of 2027 Overall Star Ratings for For-profit and Nonprofit MA-PDs 2027 Overall Rating Number of For-Profit Contracts % For-Profit Weighted By Enrollment For-Profit Number of Nonprofit Contracts % Nonpro fit Weighted By Enrollment Nonprofit 5 stars 14 3.80 2.82 1 0.71 0.28 4.5 stars 40 10.87 29.81 25 17.86 42.64 4 stars 72 19.57 37.26 36 25.71 30.68 3.5 stars 120 32.61 19.72 44 31.43 19.67 3 stars 94 25.54 9.58 30 21.43 5.93 2.5 stars 27 7.34 0.81 4 2.86 0.80 2 stars 1 0.27 0.01 0 0 0 Total Rated Contracts 368 140 Table 4: Distribution of 2027 Part D Ratings for For-profit and Nonprofit PDPsf 2027 Part D Rating Number of For-Profit Contracts %For-Profit Weighted By Enrollment For-Profit Number of Nonprofit Contracts % Nonpro fit Weighted By Enrollment Nonprofit 5 stars 0 0 0 0 0 0 4.5 stars 1 4.55 17.67 2 11.11 0.80 4 stars 5 22.73 5.17 3 16.67 17.77 3.5 stars 3 13.64 4.78 1 5.56 0.10 3 stars 6 27.27 53.44 7 38.89 11.78 2.5 stars 6 27.27 18.92 5 27.78 69.56 2 stars 0 0 0 0 0 0 1.5 stars 1 4.55 0 g 0 0 0 Total Rated Contracts 22 18 f One PDP is missing information about tax status. g The contract with 1.5 stars is very small. Length of Time in Program and Performance Generally, higher overall Star Ratings are associated with contracts that have more experience in the MA program. MA-PDs with 10 or more years in the program are more likely to have four or more stars compared to MA-PDs with less experience in the program. There are very few PDPs with less than 10 years of experience in the program so the relationship is not as clear. There are only five PDPs with less than 10 years of experience, and they all earned 3.5 or fewer stars. The tables below show the distribution of ratings by the number of years in the program (MA-PDs are shown in Table 5 and PDPs in Table 6 after adjustments for extreme and uncontrollable circumstances). iv Table 5: Distribution of 2027 Overall Star Ratings by Length of Time in Program for MA-PDs 2027 Overall Rating Number of Contracts with Less than 5 Years % Less than 5 Years Number of Contracts with 5 years to Less than 10 Years % 5 Years to Less than 10 Years Number of Contracts with 10 or More Years % 10 or More Years 5 stars 2 2.13 6 4.35 7 2.54 4.5 stars 10 10.64 17 12.32 38 13.77 4 stars 16 17.02 20 14.49 72 26.09 3.5 stars 30 31.91 45 32.61 89 32.25 3 stars 23 24.47 38 27.54 63 22.83 2.5 stars 12 12.77 12 8.70 7 2.54 2 stars 1 1.06 0 0 0 0 Total Rated Contracts 94 138 276 Table 6: Distribution of 2027 Part D Ratings by Length of Time in Program for PDPs 2027 Part D Rating Number of Contracts with Less than 5 Years % Less than 5 Years Number of Contracts with 5 years to Less than 10 Years % 5 Years to Less than 10 Years Number of Contracts with 10 or More Years % 10 or More Years 5 stars 0 0 0 0 0 0 4.5 stars 0 0 0 0 3 8.33 4 stars 0 0 0 0 8 22.22 3.5 stars 0 0 1 100.00 3 8.33 3 stars 2 50.00 0 0 12 33.33 2.5 stars 1 25.00 0 0 10 27.78 2 stars 0 0 0 0 0 0 1.5 stars 1 25.00 0 0 0 0 Total Rated Contracts 4 1 36 Average Star Rating for Each Measure The tables below list the average Star Ratings for 2024, 2025, 2026, and 2027 Part C and D measures (Tables
 
-### [Transparency in Coverage Final Rules (CMS 9882-F)](https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f)
-
-- Source: `cms_fact_sheets` · published `2026-10-05` · freshness `fresh`
-- Reading value: `77` · status: `scored`
-- Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f`
-
-Transparency in Coverage Final Rules (CMS 9882-F) Introduction Consistent with the President’s Executive Order 14221 , “Making America Healthy Again by Empowering Patients with Clear, Accurate, and Actionable Healthcare Pricing Information,” on October 5, 2026, the Department of Health and Human Services (through the Centers for Medicare & Medicaid Services), in partnership with the Departments of Labor and the Department of the Treasury (collectively, the Departments) jointly finalized changes to the Transparency in Coverage regulations to improve the accessibility of pricing disclosures to participants, beneficiaries, and enrollees, and the standardization and reliability of the public pricing disclosures from non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage. These changes build on the historic disclosure requirements the Departments issued in the Transparency in Coverage final rules on Nov. 12, 2020 (the 2020 final rules) in line with the President’s June 24, 2019, Executive Order (EO) 13877, “Improving Price and Quality Transparency in American Healthcare to Put Patients First” and EO 14221, “Making America Healthy Again by Empowering Patients with Clear, Accurate, and Actionable Healthcare Pricing Information.” This fact sheet discusses the provisions of the Transparency in Coverage final rules (CMS-9882-F) that amend the 2020 final rules. You can access the final rules in the Federal Register at: https://www.federalregister.gov/public-inspection/2026-20447/transparency-in-coverage Under the 2020 final rules, non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage are required to post machine-readable files monthly for each plan or coverage they offer — an in-network rate file disclosing in-network rates for all covered items and services, an allowed amount file disclosing out-of-network allowed amounts and the associated billed charges for covered items and services, and a prescription drug file disclosing in-network rates and historical net prices for covered prescription drugs. These requirements became applicable in July 2022. 1 Improved Standardization, Accuracy, and Accessibility of the In-Network Rate and Out-of-Network Allowed Amount Machine-Readable Files Based on internal assessment and external stakeholder feedback received since implementation began, the Departments have identified three main barriers to fully achieving the goals of the 2020 final rules: inaccessibility due to the large size of the machine-readable files, data ambiguity due to lack of contextual information alongside the raw data, and areas of misalignment with the Hospital Price Transparency rule that make comparing data across disclosures challenging. Reducing the Number and Size of Machine-Readable Files and Increasing Accessibility to Make Data More Meaningful A major driver of large in-network rate file sizes involves including provider-negotiated rates for items or services the provider is unlikely to furnish because of their specialty and the nature of the item or service (e.g., rates for podiatrists to perform heart surgery). This occurs because payer-provider contracts often negotiate rates at the provider organization level for every provider who is a member of the organization, regardless of clinical specialty. To address these unlikely provider-rate combinations, the final rules include amendments to: Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that providers would be unlikely to be reimbursed for given that provider’s specialty area. The provision requires plans and issuers to determine which provider-rate combinations to exclude by using their internal provider taxonomies or other internal rules used during the claims adjudication process to determine if the provider should be reimbursed for the item or service given that provider's specialty; Post the internal provider taxonomy mapping or other rules they used to prepare each In-network Rate File in a new file called the Taxonomy File; and Post a new file called a Utilization File for each In-network Rate File, which will include all providers who have submitted and received reimbursement for at least one claim for a covered item or service for the most recent plan or policy year ending six months before the posting of the file. To reduce duplicative data, the Departments finalized a change to the level at which group health plans and health insurance issuers must report data in the In-network Rate File. Under this provision, plans and issuers must prepare one In-network Rate File for each provider network they maintain or contract with, rather than for each plan or policy they offer, as required by the 2020 final rules. Because it is very common for multiple plans offered by the same issuer or administered by the same service provider to leverage the same provider networks with the same negotiated rates, requiring network-level reporting will streamline how rates are reported, reducing both the number and the size of In-network Rate Files. Further, reporting in-network rates at the network level also aligns with how the Hospital Price Transparency data is typically reported. Aligning payer and hospital data reporting will help normalize data across different systems, improve consistency, and make comparisons between the payer and hospital machine-readable files easier for file users. Improving Data Availability The Departments have received feedback and observed that many group health plans and health insurance issuers include limited or no data in their Out-of-network Allowed Amount Files, which may be due, in part, to the current 20-claims threshold for reporting. This has limited the transparency of out-of-network pricing information to the public and, in turn, limited what researchers, academics, and developers can analyze. The Departments include three amendments for the Out-of-network Allowed Amount Files to address insufficient data: 1) require payers to aggregate their Allowed Amount Files by insurance market type (large group, small group, individual, and self-insured); 2) lower the claims threshold for reporting payment of out-of-network allowed amounts from 20 to 11 claims; and 3) increase the amount of out-of-network data disclosed to the public to better position researchers and academics to conduct analyses to inform the public. Taken together, the Departments expect these amendments will significantly increase the amount of out-of-network data disclosed to the public. The barrier to meeting the 11-claim threshold will be lower, particularly when data is aggregated by market type and the reporting period is more than twice as long. Further, the Departments understand from stakeholder feedback that out-of-network allowed amounts across plans and policies are most aligned by market type. Providing this data at the market-type level will allow users to compare allowed amounts for plans within the same market, which, based on feedback, the Departments anticipate will better position researchers and academics to conduct analyses to inform the public. The final rules also require additional data elements to provide context around the reported data. Group health plans and health insurance issuers will be required to report the plan’s or policy’s product type (e.g., HMO, PPO) for each plan or policy represented in an In-network Rate File and Out-of-network Allowed Amount File, as well as the common provider network name and network identifier associated with the provider network represented in the In-network Rate File. Making Data Easier to Locate The final rules include two provisions to help users locate the machine-readable files. First, plans and issuers will be required to publish a plain text file (.txt file) located in the root folder of the plan’s or issuer’s website (or under certain circumstances, for another party to publish the file on its public website on the plan’s or issuer’s behalf) with information on the specific location of the machine-readable files. This file must also include contact information, including a monitored email address for an individual or group dedicated to receiving and responding to inquiries and issues related to the machine-readable files. In addition, plans and issuers will be required to add a link in the footer of the homepage of their website titled “Price Transparency” or “Transparency in Coverage” that routes directly to the publicly available web page that hosts the machine-readable files. This will allow for a standardized and predictable navigation path for users trying to find the files. Together, these requirements will help automate locating and downloading the machine-readable files and provide a point of contact for questions about or clarification on the data within the files. These requirements will also apply to the prescription drug machine-readable file. These provisions align with current requirements under the Hospital Price Transparency rules. Reducing Stakeholder Burden Beginning in the second year of implementation and continuing thereafter, these final rules are expected to generate a net cost savings to plans and issuers of approximately $174.5 million annually, due in part to the reduced reporting cadence for certain machine-readable files. The Departments are requiring plans and issuers to update and post the In-network Rate and Out-of-network Allowed Amount Files quarterly rather than monthly to help lower data storage and hosting costs, decrease bandwidth needs, and reduce ongoing maintenance expenses. Plans, issuers, and researchers have indicated that, since provider networks and rates do not change significantly from month to month, switching to a quarterly reporting cadence will not lead to a significant reduction in meaningful data. This reduced reporting cadence will also provide more time for file users to analyze the data, as some file users have informed the Departments that they have difficulty keeping up with the pace of downloading and ingesting the file data monthly. This change in reporting cadence along with the reduction of both the size and number of machine-readable files will reduce the current burden associated with preparing, ingesting, analyzing, and storing the public disclosures. Adopting a Single File Format in Technical Implementation Guidance Currently, the 2020 final rules require group health plans and health insurance issuers to publish their machine-readable files in “any non-proprietary, open format,” such as JSON, XML, or CSV, as specified through technical implementation guidance, which allows the Departments flexibility to adapt file formats to new and emerging technologies. To promote standardization across payers’ files and remain consistent with current industry practice, the final rules require plans and issuers to use a single format. The Departments intend to specify the JSON format in guidance for all machine-readable files other than the text file, which is required to be published as a plain text (.txt) file. Increasing Accuracy and Accountability Through Attestation To improve the accuracy, reliability, and accountability of the disclosures in the machine-readable files, the Departments are requiring plans and issuers to attest, in each In-network Rate, Out-of-network Allowed Amount, Taxonomy, and Utilization machine-readable file, that to the best of its knowledge and belief, the plan or issuer has included all applicable information in accordance with the requirements, and the information encoded is true, accurate, and complete as of the date in the file. Plans and issuers must also encode, in each In-network Rate, Out-of-network Allowed Amount, Prescription Drug, Taxonomy, and Utilization machine-readable file, the name of t
-
 ### [Stryker enters soft tissue robotics with $400M investment in CMR Surgical](https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/)
 
 - Source: `medtech_dive_primary` · published `2026-10-12` · freshness `fresh`
@@ -34,19 +26,11 @@ Transparency in Coverage Final Rules (CMS 9882-F) Introduction Consistent with t
 
 Stryker said Monday it has partnered with soft tissue robotics firm CMR Surgical, investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system. Cambridge, England-based CMR received Food and Drug Administration clearance for its latest robotic system last year to perform gallbladder procedures in the U.S. As of early 2026, the company had performed more than 45,000 procedures globally, J.P. Morgan analyst Robbie Marcus wrote in a research note. Stryker had been expected to enter the soft tissue robotics market for years, Stifel analyst Rick Wise wrote in a research note. With competitors Johnson & Johnson and Medtronic receiving FDA nods for their own robots in the U.S., Wise added, “it feels like a now or never moment for Stryker to make the decision.”
 
-### [A Patient Simulation Framework for Risk Assessment of Conversational Health Care AI: Development and Evaluation Study](https://ai.jmir.org/2026/1/e100772/)
-
-- Source: `jmir_ai` · published `2026-10-05` · freshness `fresh`
-- Reading value: `71` · status: `scored`
-- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e100772/`
-
-Background: Conversational AI systems are increasingly being deployed in health care for clinical decision support, but their performance varies substantially across patient communication styles, health literacy levels, and behavioral patterns. Static benchmarks cannot capture multiturn dynamics through which this variation compounds, and no current evaluation framework implements structured AI risk management guidance for conversational health care AI. The result is a structural risk: AI systems may perform well in aggregate while failing disproportionately for the populations they are intended to help. Objective: This study aimed to develop and validate a patient simulation framework that aligns with the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) Map and Measure functions, providing an empirical basis for identifying and characterizing performance risks in conversational clinical AI across medical, linguistic, and behavioral patient variations. We applied the framework to a conversational decision aid for antidepressant selection in major depressive disorder (the AI decision aid). Methods: The simulator integrated three profile dimensions: (1) medical profiles constructed from All of Us electronic health records using risk ratio gating; (2) linguistic profiles modeling a health literacy gradient and condition-specific communication; and (3) behavioral profiles representing cooperative, distracted, and adversarial engagement. We generated 500 simulated conversations and evaluated profile fidelity through human annotation and a large language model (LLM) judge, and then assessed downstream effects on the AI decision aid’s concept retrieval and antidepressant recommendations. Results: The patient simulator expressed medical concepts with high fidelity (96.6% accuracy across 8210 concepts), with substantial human interannotator agreement (κ=0.73) and LLM-judge agreement against human annotators (κ=0.78). Behavioral profiles were reliably distinguished (κ=0.93; near perfect agreement), and linguistic profiles showed substantial agreement at the lower bound of the substantial range (κ=0.61), which can be considered adequate to support profile-level analysis. The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient. Rank-1 concept retrieval increased from 47.6% for limited health literacy to 81.9% for proficient health literacy, with corresponding declines in antidepressant recommendation accuracy. Conclusions: Patient simulation grounded in the NIST AI RMF exposes measurable performance risks in conversational health care AI that static benchmarks miss, with direct equity implications. Health literacy operates as a structural risk factor, with degraded performance concentrated in patients carrying the greatest burden of psychiatric illness. The framework supports targeted risk-mitigation interventions before deployment. While we evaluated the framework only on antidepressant selection, extending it to other clinical decision-aid tasks remains an assignment for future work. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a24d160597a38ff480212270bfd20f95" />
-
 ## Hold · 0
 
 No items.
 
-## Archive · 446
+## Archive · 448
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -1320,14 +1304,6 @@ In the era of climate change, numerous regions worldwide are facing a surge in b
 
 Delivered at just the right time, this type of auditory stimulus can strengthen the flow of cerebrospinal fluid, which clears debris from the brain and keeps it healthy.
 
-### [Apple unveils iPhone Duo](https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/)
-
-- Source: `apple_newsroom` · published `2026-09-09` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/`
-
-Apple today introduced iPhone Duo, the first foldable iPhone.
-
 ### [Effect of exercise on bone health in middle aged and older adults: hierarchical network meta-analysis of randomised trials.](https://doi.org/10.1136/bmj-2026-100561)
 
 - Source: `bmj_abstracts` · published `2026-09-09` · freshness `stale`
@@ -2112,53 +2088,61 @@ Digital transformations exert increasing influence over the lives of the global 
 
 Children and adolescents are growing up in a hybrid world in which digital media has become part of the infrastructure of everyday life and a structural determinant of their health. In the second paper of this Series on the digital determinants of health, we apply the framework introduced in the first paper to one of the most contested questions in public health: how young people's digital media use shapes their health and wellbeing. Using the digital determinants of health framework to interpret the current evidence base, we examine what is known, and what remains poorly understood, about the public health implications of children's and adolescents' digital media use. Evidence suggests that digital media use can be associated with both benefits and harms although it is more consistently associated with adverse mental, behavioural, physical, cognitive, and social outcomes, with developmental stage emerging as an important moderator. Illustrative modelling indicates the potential population burden is substantial, even as its causal basis remains uncertain. Research to date has privileged easily measured proxies, such as screen time, and given insufficient attention to the platform design, algorithmic systems, and commercial incentives that shape young people's experiences. Situating young people's digital media use with a digital determinants of health framework, we conclude that protecting children's and adolescents' health calls for a precautionary, structural response-one that moves beyond individual behaviour change to reshape the digital systems, incentives, and knowledge practices that determine how digital media affects health.
 
+### [A Patient Simulation Framework for Risk Assessment of Conversational Health Care AI: Development and Evaluation Study](https://ai.jmir.org/2026/1/e100772/)
+
+- Source: `jmir_ai` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e100772/`
+
+Background: Conversational AI systems are increasingly being deployed in health care for clinical decision support, but their performance varies substantially across patient communication styles, health literacy levels, and behavioral patterns. Static benchmarks cannot capture multiturn dynamics through which this variation compounds, and no current evaluation framework implements structured AI risk management guidance for conversational health care AI. The result is a structural risk: AI systems may perform well in aggregate while failing disproportionately for the populations they are intended to help. Objective: This study aimed to develop and validate a patient simulation framework that aligns with the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) Map and Measure functions, providing an empirical basis for identifying and characterizing performance risks in conversational clinical AI across medical, linguistic, and behavioral patient variations. We applied the framework to a conversational decision aid for antidepressant selection in major depressive disorder (the AI decision aid). Methods: The simulator integrated three profile dimensions: (1) medical profiles constructed from All of Us electronic health records using risk ratio gating; (2) linguistic profiles modeling a health literacy gradient and condition-specific communication; and (3) behavioral profiles representing cooperative, distracted, and adversarial engagement. We generated 500 simulated conversations and evaluated profile fidelity through human annotation and a large language model (LLM) judge, and then assessed downstream effects on the AI decision aid’s concept retrieval and antidepressant recommendations. Results: The patient simulator expressed medical concepts with high fidelity (96.6% accuracy across 8210 concepts), with substantial human interannotator agreement (κ=0.73) and LLM-judge agreement against human annotators (κ=0.78). Behavioral profiles were reliably distinguished (κ=0.93; near perfect agreement), and linguistic profiles showed substantial agreement at the lower bound of the substantial range (κ=0.61), which can be considered adequate to support profile-level analysis. The framework revealed monotonic degradation in AI decision aid performance across the health literacy gradient. Rank-1 concept retrieval increased from 47.6% for limited health literacy to 81.9% for proficient health literacy, with corresponding declines in antidepressant recommendation accuracy. Conclusions: Patient simulation grounded in the NIST AI RMF exposes measurable performance risks in conversational health care AI that static benchmarks miss, with direct equity implications. Health literacy operates as a structural risk factor, with degraded performance concentrated in patients carrying the greatest burden of psychiatric illness. The framework supports targeted risk-mitigation interventions before deployment. While we evaluated the framework only on antidepressant selection, extending it to other clinical decision-aid tasks remains an assignment for future work. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a24d160597a38ff480212270bfd20f95" />
+
 ### [Accelerated Implementation of Data Management and Sharing Plan Changes for NIH Career Development (K) Awards](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-120.html)
 
-- Source: `nih_funding` · published `2026-10-05` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
+- Source: `nih_funding` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-120.html`
 
 Notice NOT-OD-26-120 from the NIH Guide for Grants and Contracts
 
 ### [Extracting Quality-of-Life Information of Patients Diagnosed With Breast Cancer From Health Care Online Forum Posts Using Open-Source Large Language Models: Algorithm Development and Evaluation Study](https://ai.jmir.org/2026/1/e92716/)
 
-- Source: `jmir_ai` · published `2026-10-05` · freshness `fresh`
-- Reading value: `57` · status: `scored`
+- Source: `jmir_ai` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e92716/`
 
 Background: Quality-of-life (QoL) questionnaires are an established instrument designed to assess overall well-being and QoL of patients. They are important in predicting the outcome of the disease and understanding the needs of individual patients. However, their repeated collection imposes a substantial burden on both patients and clinical professionals. Many patients seek emotional support and mutual exchange in online communities for peer support, where they frequently share detailed descriptions of symptoms and treatment experiences, addressing topics covered in QoL questionnaires. The emergence of large language models (LLMs) uncovers potential for automatic extraction of relevant QoL information from patient-generated text. Objective: The aim of this study is to evaluate and compare various open-source LLMs and optimization approaches for automated extraction of QoL information from forum posts. Methods: The dataset consisted of 840 English-language posts from patients with breast cancer recruited on Inspire online communities, manually annotated with sentence-level text spans indicating whether and where posts contained information relevant to 53 QoL questions from standardized questionnaires. Eleven open-source LLMs were evaluated in a zero-shot setup under 2 input conditions: post-only and post with additional context. For the GPT-OSS-20B model, additional experiments assessed the impact of chain-of-thought prompting, instruction optimization, few-shot prompting, simultaneous all-questions prompting, and parameter-efficient fine-tuning. For correctly classified yes and no instances, the overlap between model-generated evidence and human-annotated spans was evaluated. Results: Across 11 evaluated LLMs, Qwen3-14B achieved the highest macro -score (0.59) in the zero-shot post-only setting. Providing additional context consistently reduced the performance of all models. Model size did not correlate with -score, with several midsized models (14B-30B) outperforming 70B models. For GPT-OSS-20B, chain-of-thought prompting, instruction optimization, and simultaneous all-questions prompting decreased performance. Bootstrap few-shot prompting with random search achieved slightly better performance than the baseline. Parameter-efficient fine-tuning with low-rank adaptation (LoRA) achieved the highest overall performance (0.71). Across all experiments, a strong class imbalance was observed, with models performing substantially better on the majority class “not in the text” than on the minority classes “yes” and “no.” Most classification errors occurred in semantically broad or ambiguous terms and the fallback question. For correctly predicted yes and no answers, model-generated evidence matched or partially matched human-annotated spans in 89% (42/47) of cases. Conclusions: Automated extraction of QoL information from patient-generated text using open-source LLMs remains a challenging task. While prompt optimization techniques failed to improve baseline zero-shot performance, parameter-efficient fine-tuning with LoRA significantly increased accuracy. However, current models still struggle to reliably detect explicit symptom expressions in heavily imbalanced data, too often predicting the majority class “not in the text.” Before such tools can be successfully integrated into clinical practice, future research must prioritize strategies to capture these minority-class signals. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/47bace526adbac9f0f10ccd17019a246" />
 
 ### [FDA Seeks Public Input to Support Ibogaine Research](http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research)
 
-- Source: `fda_press` · published `2026-10-05` · freshness `fresh`
-- Reading value: `61` · status: `needs_review`
+- Source: `fda_press` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research`
 
 The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug products and seeking public input on those approaches.
 
 ### [From Episodic Checks to Continuous Clinical Monitoring: Nursing Policy Viewpoint on AI-Enabled Oral and Nutrition Risk Detection in Long-Term Care](https://ai.jmir.org/2026/1/e87598/)
 
-- Source: `jmir_ai` · published `2026-10-05` · freshness `fresh`
-- Reading value: `41` · status: `scored`
+- Source: `jmir_ai` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e87598/`
 
 Oral disease and malnutrition are common and closely linked problems in long-term care (LTC). Monthly weights, occasional diet reviews, and infrequent dental assessments can miss gradual decline. Recent tools, including computer-vision meal-intake estimation and smartphone-based gingival screening, create an opportunity for more timely clinical monitoring when limited data capture is embedded into routine care. This viewpoint proposes a nursing-led policy framework for AI-enabled oral and nutrition risk detection in nursing homes. The framework emphasizes protected oral health and nutrition champion roles, a practical 48-hour bedside assessment standard for high-priority operational alerts, standards-based electronic health record (EHR) integration, and prevention-oriented escalation pathways. We clarify that the proposed approach does not require a single black-box AI risk score. Instead, AI-derived measurements, such as estimated intake, plate-waste ratio, deviation from baseline, and image-based oral findings, can be combined with weight trends, EHR data, operational thresholds, and nurse review. The playbook specifies staged rollout, staff-facing alert outputs, fidelity checks for data capture, fallback documentation options for facilities with lower digital maturity, and key performance indicators for clinical outcomes, workflow burden, equity, and cost. Ethical safeguards include layered consent, minimum-necessary capture, opt-out recording, explainability for residents and proxies, and subgroup monitoring. AI-enabled clinical monitoring can support earlier action in LTC only if it is embedded in nursing workflows, auditable documentation, and accountable governance. Prospective, co-designed implementation studies are needed to test feasibility, workload, effectiveness, and equity across diverse LTC settings. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/50b9bab97d51d39b66e3f1fe15310e17" />
 
-### [Participatory Design of AI-Based Clinical Decision Support Systems: Scoping Review](https://medinform.jmir.org/2026/1/e88368)
-
-- Source: `jmir_medinform` · published `2026-10-05` · freshness `fresh`
-- Reading value: `60` · status: `scored`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e88368`
-
-Background: AI-based clinical decision support systems (CDSS) can improve diagnostics and treatment decisions, but they are rarely implemented in practice. Barriers include limited integration into clinical workflows, lack of transparency, and insufficient involvement of end users in system design. Participatory and user-centered approaches offer ways to address these challenges by aligning development processes with the needs and routines of clinical staff. However, systematic evidence on how such approaches are applied in the development of AI-based CDSS remains limited. Objective: Our study examined how participatory approaches are used in the development, piloting, and implementation of AI-based CDSS. We analyzed which user perspectives were included, which participatory methods were applied, how they contributed to technical design, and which ethical, legal, and social implications were addressed. Methods: This scoping review followed the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guideline, with a protocol published in advance. A systematic search was conducted in MEDLINE, ACM Digital Library, CINAHL, and PsycInfo for studies published from 2012 onward, complemented by snowballing and manual searches. Primary studies in English or German were included if they involved clinical staff in the development, piloting, implementation, or evaluation of AI-based CDSS. Moreover, 3 independent reviewers conducted screening and data extraction, resolving disagreements by consensus. Data analysis followed JBI methodology and focused on the scope of participation, theoretical and methodological foundations, and reported impacts of participatory approaches. Results: Of 4318 identified records, 37 met the inclusion criteria. The studies showed broad variation in terminology and methods, most often describing user-centered or iterative processes and less frequently co-design. Physicians were involved in nearly all studies, nurses frequently, and other professional groups only occasionally. Participation mainly supported requirements analysis, adaptation of models to clinical workflows, and the design of explainable interfaces. In several projects, it also influenced data selection, annotation, and visualization. Common barriers included time constraints, limited continuity of participation, and uncertainty toward AI. Ethical, legal, and social aspects were addressed implicitly through themes such as autonomy, responsibility, and traceability, while fairness and bias were rarely discussed. Conclusions: Participatory processes in AI-based CDSS development should extend across all stages of system design and address not only usability but also data quality, bias, and broader ethical, legal, and social issues. Equal inclusion of nursing and therapeutic expertise is essential to reflect the diversity of clinical decision-making. Clear methodological standards are needed to ensure comparability and to strengthen participation as a genuine co-design process shaping data, models, and values in clinical AI.
-
 ### [Request for Information: Timing of Submission of Prior Approval Requests for IDeA Program Post-Award Projects](http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-012.html)
 
-- Source: `nih_funding` · published `2026-10-05` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
+- Source: `nih_funding` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-012.html`
 
 Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts
+
+### [Transparency in Coverage Final Rules (CMS 9882-F)](https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f)
+
+- Source: `cms_fact_sheets` · published `2026-10-05` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f`
+
+Transparency in Coverage Final Rules (CMS 9882-F) Introduction Consistent with the President’s Executive Order 14221 , “Making America Healthy Again by Empowering Patients with Clear, Accurate, and Actionable Healthcare Pricing Information,” on October 5, 2026, the Department of Health and Human Services (through the Centers for Medicare & Medicaid Services), in partnership with the Departments of Labor and the Department of the Treasury (collectively, the Departments) jointly finalized changes to the Transparency in Coverage regulations to improve the accessibility of pricing disclosures to participants, beneficiaries, and enrollees, and the standardization and reliability of the public pricing disclosures from non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage. These changes build on the historic disclosure requirements the Departments issued in the Transparency in Coverage final rules on Nov. 12, 2020 (the 2020 final rules) in line with the President’s June 24, 2019, Executive Order (EO) 13877, “Improving Price and Quality Transparency in American Healthcare to Put Patients First” and EO 14221, “Making America Healthy Again by Empowering Patients with Clear, Accurate, and Actionable Healthcare Pricing Information.” This fact sheet discusses the provisions of the Transparency in Coverage final rules (CMS-9882-F) that amend the 2020 final rules. You can access the final rules in the Federal Register at: https://www.federalregister.gov/public-inspection/2026-20447/transparency-in-coverage Under the 2020 final rules, non-grandfathered group health plans and health insurance issuers offering non-grandfathered group or individual health insurance coverage are required to post machine-readable files monthly for each plan or coverage they offer — an in-network rate file disclosing in-network rates for all covered items and services, an allowed amount file disclosing out-of-network allowed amounts and the associated billed charges for covered items and services, and a prescription drug file disclosing in-network rates and historical net prices for covered prescription drugs. These requirements became applicable in July 2022. 1 Improved Standardization, Accuracy, and Accessibility of the In-Network Rate and Out-of-Network Allowed Amount Machine-Readable Files Based on internal assessment and external stakeholder feedback received since implementation began, the Departments have identified three main barriers to fully achieving the goals of the 2020 final rules: inaccessibility due to the large size of the machine-readable files, data ambiguity due to lack of contextual information alongside the raw data, and areas of misalignment with the Hospital Price Transparency rule that make comparing data across disclosures challenging. Reducing the Number and Size of Machine-Readable Files and Increasing Accessibility to Make Data More Meaningful A major driver of large in-network rate file sizes involves including provider-negotiated rates for items or services the provider is unlikely to furnish because of their specialty and the nature of the item or service (e.g., rates for podiatrists to perform heart surgery). This occurs because payer-provider contracts often negotiate rates at the provider organization level for every provider who is a member of the organization, regardless of clinical specialty. To address these unlikely provider-rate combinations, the final rules include amendments to: Require group health plans and health insurance issuers to exclude from their In-network Rate Files provider-rate combinations for items and services that providers would be unlikely to be reimbursed for given that provider’s specialty area. The provision requires plans and issuers to determine which provider-rate combinations to exclude by using their internal provider taxonomies or other internal rules used during the claims adjudication process to determine if the provider should be reimbursed for the item or service given that provider's specialty; Post the internal provider taxonomy mapping or other rules they used to prepare each In-network Rate File in a new file called the Taxonomy File; and Post a new file called a Utilization File for each In-network Rate File, which will include all providers who have submitted and received reimbursement for at least one claim for a covered item or service for the most recent plan or policy year ending six months before the posting of the file. To reduce duplicative data, the Departments finalized a change to the level at which group health plans and health insurance issuers must report data in the In-network Rate File. Under this provision, plans and issuers must prepare one In-network Rate File for each provider network they maintain or contract with, rather than for each plan or policy they offer, as required by the 2020 final rules. Because it is very common for multiple plans offered by the same issuer or administered by the same service provider to leverage the same provider networks with the same negotiated rates, requiring network-level reporting will streamline how rates are reported, reducing both the number and the size of In-network Rate Files. Further, reporting in-network rates at the network level also aligns with how the Hospital Price Transparency data is typically reported. Aligning payer and hospital data reporting will help normalize data across different systems, improve consistency, and make comparisons between the payer and hospital machine-readable files easier for file users. Improving Data Availability The Departments have received feedback and observed that many group health plans and health insurance issuers include limited or no data in their Out-of-network Allowed Amount Files, which may be due, in part, to the current 20-claims threshold for reporting. This has limited the transparency of out-of-network pricing information to the public and, in turn, limited what researchers, academics, and developers can analyze. The Departments include three amendments for the Out-of-network Allowed Amount Files to address insufficient data: 1) require payers to aggregate their Allowed Amount Files by insurance market type (large group, small group, individual, and self-insured); 2) lower the claims threshold for reporting payment of out-of-network allowed amounts from 20 to 11 claims; and 3) increase the amount of out-of-network data disclosed to the public to better position researchers and academics to conduct analyses to inform the public. Taken together, the Departments expect these amendments will significantly increase the amount of out-of-network data disclosed to the public. The barrier to meeting the 11-claim threshold will be lower, particularly when data is aggregated by market type and the reporting period is more than twice as long. Further, the Departments understand from stakeholder feedback that out-of-network allowed amounts across plans and policies are most aligned by market type. Providing this data at the market-type level will allow users to compare allowed amounts for plans within the same market, which, based on feedback, the Departments anticipate will better position researchers and academics to conduct analyses to inform the public. The final rules also require additional data elements to provide context around the reported data. Group health plans and health insurance issuers will be required to report the plan’s or policy’s product type (e.g., HMO, PPO) for each plan or policy represented in an In-network Rate File and Out-of-network Allowed Amount File, as well as the common provider network name and network identifier associated with the provider network represented in the In-network Rate File. Making Data Easier to Locate The final rules include two provisions to help users locate the machine-readable files. First, plans and issuers will be required to publish a plain text file (.txt file) located in the root folder of the plan’s or issuer’s website (or under certain circumstances, for another party to publish the file on its public website on the plan’s or issuer’s behalf) with information on the specific location of the machine-readable files. This file must also include contact information, including a monitored email address for an individual or group dedicated to receiving and responding to inquiries and issues related to the machine-readable files. In addition, plans and issuers will be required to add a link in the footer of the homepage of their website titled “Price Transparency” or “Transparency in Coverage” that routes directly to the publicly available web page that hosts the machine-readable files. This will allow for a standardized and predictable navigation path for users trying to find the files. Together, these requirements will help automate locating and downloading the machine-readable files and provide a point of contact for questions about or clarification on the data within the files. These requirements will also apply to the prescription drug machine-readable file. These provisions align with current requirements under the Hospital Price Transparency rules. Reducing Stakeholder Burden Beginning in the second year of implementation and continuing thereafter, these final rules are expected to generate a net cost savings to plans and issuers of approximately $174.5 million annually, due in part to the reduced reporting cadence for certain machine-readable files. The Departments are requiring plans and issuers to update and post the In-network Rate and Out-of-network Allowed Amount Files quarterly rather than monthly to help lower data storage and hosting costs, decrease bandwidth needs, and reduce ongoing maintenance expenses. Plans, issuers, and researchers have indicated that, since provider networks and rates do not change significantly from month to month, switching to a quarterly reporting cadence will not lead to a significant reduction in meaningful data. This reduced reporting cadence will also provide more time for file users to analyze the data, as some file users have informed the Departments that they have difficulty keeping up with the pace of downloading and ingesting the file data monthly. This change in reporting cadence along with the reduction of both the size and number of machine-readable files will reduce the current burden associated with preparing, ingesting, analyzing, and storing the public disclosures. Adopting a Single File Format in Technical Implementation Guidance Currently, the 2020 final rules require group health plans and health insurance issuers to publish their machine-readable files in “any non-proprietary, open format,” such as JSON, XML, or CSV, as specified through technical implementation guidance, which allows the Departments flexibility to adapt file formats to new and emerging technologies. To promote standardization across payers’ files and remain consistent with current industry practice, the final rules require plans and issuers to use a single format. The Departments intend to specify the JSON format in guidance for all machine-readable files other than the text file, which is required to be published as a plain text (.txt) file. Increasing Accuracy and Accountability Through Attestation To improve the accuracy, reliability, and accountability of the disclosures in the machine-readable files, the Departments are requiring plans and issuers to attest, in each In-network Rate, Out-of-network Allowed Amount, Taxonomy, and Utilization machine-readable file, that to the best of its knowledge and belief, the plan or issuer has included all applicable information in accordance with the requirements, and the information encoded is true, accurate, and complete as of the date in the file. Plans and issuers must also encode, in each In-network Rate, Out-of-network Allowed Amount, Prescription Drug, Taxonomy, and Utilization machine-readable file, the name of t
 
 ### [AI-Powered Framework for Personalized Prescription of Physical Activity in Aging: Proposing PEPHA, a framework for Personalized Phenotyping for Aging](https://ai.jmir.org/2026/1/e95123/)
 
@@ -2167,14 +2151,6 @@ Notice NOT-GM-26-012 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e95123/`
 
 Background: Personalizing physical activity recommendations for older adults requires understanding not only which dimensions of physical activity and sedentary behaviors (24-h movement behaviors) influence health outcomes but also when, within an individual’s everyday life, these dimensions are most relevant. Current observational and interventional approaches rarely capture the temporal dynamics linking everyday patterns of 24-hour movement behaviors to cognitive and mental health trajectories, 2 key determinants of healthy aging. Objective: This study introduces and evaluates PEPHA (Personalized Phenotyping for Aging), an interpretable artificial intelligence (AI) framework designed to identify which dimensions of behavior and when within an observation window are strongly associated with cognitive functioning and depressive symptoms in older adults. Methods: We introduce PEPHA, an interpretable AI framework that integrates passive, high-frequency wearable data (physical activity and sleep) with periodic, active, validated cognitive and affective assessments (waves). Using longitudinal data from the cohort (n=67, up to 6 waves and 528 days of wearable data per person), we examined 2 key outcomes representing cognitive functioning and mental health (processing speed and depressive symptoms). PEPHA summarizes daily physical activity and sedentary patterns into slope-based temporal features, optimizes support vector regression parameters through Bayesian optimization, and applies individualized analyses including time order-swap testing and change point detection to identify “potential temporal association windows” (ie, periods within an observation window during which outcomes appear more sensitive to changes in behavioral patterns). Results: Personalized analyses showed that roughly 40% of individuals exhibited moderate or large temporal order effects of 24-hour movement behavior in the outcomes. For 1 exemplar participant (male, above the mean sample age), we localized 2 potential temporal association windows approximately 60 days and 30 days before the assessment of his processing speed, suggesting periods during which this individual may have been more sensitive to favorable or unfavorable behavioral configurations. Across participants, PEPHA revealed distinct 24-hour movement behavioral patterns correlated with cognitive functioning and mental health. Processing speed was best explained by locomotor activity, while depressive symptoms were best explained by sedentary behavior. Five control variables (education, cognitive reserve, diet, sex, and subjective age difference) were noninformative, whereas chronological age had predictive power regarding depressive symptoms. Conclusions: PEPHA demonstrates that continuous passive wearable data can uncover individualized, time-specific behavioral patterns associated with cognitive functioning and mental health. Although exploratory, this framework transforms observational data into interpretable, timing-aware insights that can help identify periods of increased behavioral sensitivity or association, thereby informing future personalized, AI-supported physical activity interventions in aging. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/65ffd709112498b26415fbac9a39cf50" />
-
-### [Business Associates’ Involvement in US Health Care Data Breaches: Longitudinal Analysis](https://medinform.jmir.org/2026/1/e93588)
-
-- Source: `jmir_medinform` · published `2026-10-06` · freshness `fresh`
-- Reading value: `65` · status: `scored`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e93588`
-
-Background: Health care organizations increasingly rely on business associates (BAs) to provide clinical, administrative, and technology services that require access to protected health information. While the Health Information Technology for Economic and Clinical Health (HITECH) Act and the Health Insurance Portability and Accountability Act (HIPAA) Omnibus Rule extended legal liability to BAs, the frequency and characteristics of data breaches involving BAs have not been systematically tracked across the entire post-HITECH reporting era. Understanding these trends is critical for health information managers and cybersecurity professionals who are directly responsible for managing third-party risk. Objective: The author examined the longitudinal trends in BA involvement in health care data breaches reported to the US Department of Health and Human Services (HHS) Office for Civil Rights (OCR) from 2009 to 2025, including changes in frequency, breach mechanisms, breach locations, and severity profiles of BA-involved incidents across 3 regulatory periods. Methods: The author conducted a retrospective longitudinal analysis of health care data breaches (N=6612) reported to the HHS OCR breach portal between October 2009 and December 2025. The author operationalized BA involvement as breaches reported by BA entities or flagged as BA-related. Using logistic regression models, the author estimated annual trends in BA involvement, breach mechanism, and breach location. Chi-square tests assessed associations between BA status and breach characteristics across 3 regulatory periods: pre-Omnibus (2009‐2013), post-Omnibus (2014‐2019), and 2020‐2025. Proportion tests compared BA-involvement rates across periods. Results: BA-involved breaches accounted for 1950 of 6612 (29.5%) incidents and 285,718,494 (48.8%) of all affected individuals. The annual BA-involvement rate increased from 22.1% in the pre-Omnibus period to 36.6% in the 2020‐2025 period ( score=8.29, <.001). Logistic regression confirmed an 8% annual increase in the odds of BA involvement (odds ratio [OR] 1.08, 95% CI 1.07‐1.10; <.001). Hacking/IT incidents shifted from a minority of incidents to the dominant breach mechanism (OR 1.41 per year, 95% CI 1.39‐1.44; <.001), and the odds of network server breaches increased by 29% per year (OR 1.29, 95% CI 1.26‐1.31; <.001). BA-involved breaches were significantly more concentrated in hacking (1282/1950, 65.7% vs 2351/4662, 50.4%) and network server locations (1084/1950, 55.6% vs 1435/4662, 30.8%) compared with non-BA breaches (<.001). The proportion of mega breaches (≥100,000 individuals) also increased annually (OR 1.16, 95% CI 1.13‐1.19; <.001), with BA-involved breaches exhibiting a significantly higher rate of mega breaches (12.4% vs 8.2%; =28.44; <.001). Conclusions: Building on prior evidence linking BA involvement to breach severity, this study demonstrates that BA-involved health care data breaches accelerated substantially across the post-HITECH reporting era, with the steepest increase beginning in 2020. The concurrent growth of hacking and the concentration of breaches on network servers coincided with digital transformation, cloud migration, and the ransomware epidemic, which may have amplified third-party risk exposure. Health information managers and cybersecurity professionals should prioritize BA risk management strategies that account for the evolving threat landscape, including enhanced vendor security assessments and data compartmentalization requirements.
 
 ### [Cybersecurity Experts to Hospital Leaders: Think Beyond Traditional Disaster-Recovery Planning](https://medcitynews.com/2026/10/cybersecurity-experts-to-hospital-leaders-think-beyond-traditional-disaster-recovery-planning/)
 
@@ -2232,22 +2208,6 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 <p><a href="https://medcitynews.com/2026/10/ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-transparency/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The FTC sent warning letters to 24 major healthcare organizations over concerns about inadequate price transparency.</p> <p>The post <a href="https://medcitynews.com/2026/10/ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-transparency/">FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Metal–organic framework nanovaccines for systemic tumour regression](https://www.nature.com/articles/s41551-026-01786-5)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
-
-No summary supplied by the source.
-
-### [Perimenopause Anxiety: Sometimes It’s a Progesterone Deficiency](https://medcitynews.com/2026/10/perimenopause-anxiety-sometimes-its-a-progesterone-deficiency/)
-
-- Source: `medcity_news` · published `2026-10-06` · freshness `fresh`
-- Reading value: `19` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/perimenopause-anxiety-sometimes-its-a-progesterone-deficiency/`
-
-<p><a href="https://medcitynews.com/2026/10/perimenopause-anxiety-sometimes-its-a-progesterone-deficiency/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-1213784453-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-1213784453-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-1213784453-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-1213784453.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Perimenopausal anxiety isn&#8217;t simply in our patients&#8217; heads. It&#8217;s often the result of complex physiologic changes involving hormones, sleep, metabolism, and the nervous system. </p> <p>The post <a href="https://medcitynews.com/2026/10/perimenopause-anxiety-sometimes-its-a-progesterone-deficiency/">Perimenopause Anxiety: Sometimes It&#8217;s a Progesterone Deficiency</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [ŌURA Expands Health Radar and GLP-1 Insights to Over 30 Global Markets](https://ouraring.wpengine.com/health-radar-glp-1-insights-expansion/)
 
 - Source: `oura_blog` · published `2026-10-06` · freshness `fresh`
@@ -2255,14 +2215,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://ouraring.wpengine.com/health-radar-glp-1-insights-expansion/`
 
 <p>Today, Oura announced that our suite of proactive and contextual health features, including Health Radar and GLP-1 Insights, will be available in over 30 new markets. Rolling out over the coming weeks, members across the European Union, the UK, Canada, Australia, New Zealand, Mexico and Saudi Arabia will have the opportunity to understand a fuller [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/health-radar-glp-1-insights-expansion/">ŌURA Expands Health Radar and GLP-1 Insights to Over 30 Global Markets</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
-
-### [A soft bioelectronic system with a responsive hydrogel neural interface for direct force quantification and real-time intraoperative craniocerebral injury monitoring](https://www.nature.com/articles/s41551-026-01814-4)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-07` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
-
-No summary supplied by the source.
 
 ### [Apple, The King’s Trust launch initiative to empower young creatives](https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/)
 
@@ -2360,14 +2312,6 @@ Background: Independent audits of medical large language models have concentrate
 
 This is a correction of "Perceptions of Adults Aged 50 Years and Older Regarding the Use of Wearable mHealth Technologies to Promote Physical Activity: Systematic Review and Meta-Ethnography."
 
-### [Cybersecurity of Large Language Models Across the Deployment Life Cycle in Health Systems](https://medinform.jmir.org/2026/1/e101715)
-
-- Source: `jmir_medinform` · published `2026-10-08` · freshness `fresh`
-- Reading value: `46` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e101715`
-
-In this Viewpoint, we highlight the principal cybersecurity measures that should be implemented to facilitate safe and effective integration of large language models (LLMs) into health care and propose a conceptual, life cycle–based framework synthesizing evidence from security and clinical informatics literature. While LLMs offer significant potential for applications in clinical documentation, triage, and medical education, their deployment creates novel vulnerabilities that can compromise patient safety and data confidentiality. We argue that these vulnerabilities must be addressed across the entire deployment life cycle, with distinct threats arising before and after a model enters clinical use. Predeployment risks include data and model poisoning, where an LLM’s training data or core parameters are maliciously corrupted to embed biases or backdoors. After deployment, LLMs are susceptible to inference attacks, such as prompt injection and adversarial inputs, which can be used to manipulate model behavior and extract sensitive information. Standard performance benchmarks are often insufficient to detect these sophisticated attacks. Therefore, we argue that a proactive, multilayered security framework combining technical safeguards, rigorous governance, and human-in-the-loop oversight is essential for the safe and trustworthy adoption of LLMs in clinical practice.
-
 ### [Digital Health–Enabled Prehospital Notification for Acute Stroke Using the Brain Saver Mobile App in Emergency Medical Transport in South Korea: Pilot Quasi-Experimental Study](https://medinform.jmir.org/2026/1/e92992)
 
 - Source: `jmir_medinform` · published `2026-10-08` · freshness `fresh`
@@ -2432,14 +2376,6 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 <p><a href="https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth.jpg" class="attachment-large size-large wp-post-image" alt="money growth fundraise" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>The Series A round was led by Oak HC/FT, with participation from Norwest, .406 Ventures, Constellation Ventures, Y Combinator, Rock Health Capital and MemorialCare Innovation Fund. </p> <p>The post <a href="https://medcitynews.com/2026/10/vitalize-secures-31m-to-help-hospitals-manage-labor-capacity/">Vitalize Secures $31M To Help Hospitals Manage Labor, Capacity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [A bioengineered model of human placental exposure to environmental metals during pregnancy](https://www.nature.com/articles/s41551-026-01801-9)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-09` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
-
-No summary supplied by the source.
-
 ### [A Scalable Predictive Modeling Approach to Duplicate Detection in Pharmacovigilance: Algorithm Development and Validation Study](https://ai.jmir.org/2026/1/e95282/)
 
 - Source: `jmir_ai` · published `2026-10-09` · freshness `fresh`
@@ -2456,14 +2392,6 @@ No summary supplied by the source.
 
 Background: Shared decision-making (SDM) is critical for managing clinically ambiguous conditions such as benign breast disease (BBD), requiring reliable health information. In China, WeChat public accounts (WPAs) run by hospitals serve as a major health information channel, yet their quality remains unevaluated. Objective: This study aimed to evaluate the quality of BBD-related articles on hospital WPAs in China. Methods: Using a multistage stratified random sampling approach, we conducted a nationwide survey examining the quality of articles published from January 2020 to November 2024. The articles were evaluated for accessibility (readability, image quality, and user-friendliness) and SDM readiness (credibility, balance, and decision relevance) using validated instruments and content analysis. Results: Among 276,617 articles from 158 sampled hospitals, 464 were related to BBD. Accessibility was generally good: 72.4% (336/464) were written at a junior high school reading level. Visual presentation was acceptable, although only 10.2% (42/410) had complete image labeling. The Patient Education Materials Assessment Tool for Printable Materials (PEMAT-P) scores showed moderate understandability (mean 73.6%, SD 17.3%) but limited actionability (mean 50%, SD 23.2%). For SDM readiness, the mean Quality Evaluation Scoring Tool (QUEST) score was 14.9 (SD 4.7) out of 28, with treatment-related articles scoring lower than prevention-related articles (<.001). In the balance evaluation, using Brief DISCERN, 84.3% (182/216) of articles were below the high-quality threshold, often lacking information on treatment risks and quality-of-life impacts. Decision relevance revealed variability in surgical recommendations, especially regarding excision criteria and pregnancy-related guidance. Conclusions: WPA articles on BBD showed good accessibility but substantial gaps in SDM support, particularly in information balance and decision relevance. Standardized guidelines and quality improvements are needed to enhance patient-centered online health services.
 
-### [Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell](https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `29` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/`
-
-Active startup investors largely kept up or increased their dealmaking pace in the third quarter, even as overall venture funding declined with the absence of new record megarounds for AI leaders.
-
 ### [AI Model Reporting Standards in Health Care: Systematic Review and Consolidation](https://ai.jmir.org/2026/1/e92329/)
 
 - Source: `jmir_ai` · published `2026-10-09` · freshness `fresh`
@@ -2472,22 +2400,6 @@ Active startup investors largely kept up or increased their dealmaking pace in t
 
 Background: AI technologies are currently experiencing significant growth in development and use in health care. The AI model lifecycle includes several stages, all of which should be adequately described. Reporting standards are commonly used for this purpose. However, the plain-text structure of these standards prevents transparent machine-readability of this information. Objective: This systematic review aims to investigate AI model reporting standards from clinical databases and technical documents published since 2016. Methods: The methodological systematic review was conducted according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. The inclusion criteria of this systematic review were papers published from 2016 to April 2026 in English and in a peer-reviewed journal with open access. We aimed to include standards for different data types (structured, images, and text-based). The exclusion criteria were specific medical domain, incomplete reports, and reviews. The following libraries have been consulted: Scopus and Web of Science, MEDLINE and Embase, the IEEE Xplore digital library, and the ACM Digital Library. We applied an Automated Systematic Review software tool (Utrecht University) to find relevant papers after records retrieval. Two reviewers (EA, DS) screened relevant papers independently and invited a third reviewer (JvS) to reach a consensus. All included papers were analyzed to extract relevant lifecycle stage, publication type, data type, and reporting questions. The results were presented and synthesized in a consolidated list by grouping questions and ordering them in a logical sequence according to the AI model lifecycle. Results: The total number of included studies was 25 from clinical and technical databases (22 and 3, respectively). The consolidated list includes 134 questions ordered in 7 groups: “Problem identification,” “Data collection and processing,” “Model development,” “Technical validation,” “Functional validation,” “Operation &amp; Monitoring,” and one additional group with “Statements.” Groups according to the lifecycle stages contain all relevant information for each stage. Both clinical and technical papers reflect information for “Problem identification” (s=5), “Data collection and processing” (s=25), “Model development” (s=13), “Technical validation” (s=14). While “Functional validation” (s=30) was represented mostly in clinical papers and “Operation &amp; Monitoring” (s=18) in technical ones. In the “Statements” (s=29), all general questions were summarized, describing reusability and reproducibility of the model, and highlighting ethical considerations, such as model fairness, explainability, interpretability, and related risk. It was shown that only 10 out of 15 FAIR (findable, accessible, interoperable, reusable) principles were addressed in the consolidated list, with focus on providing rich metadata (F2) and accurate and relevant descriptions (R1). Conclusions: We furthermore considered the mapping of the consolidated questions with FAIR principles. In future, we aim to incorporate the results of our work into a metadata schema for AI models developed according to FAIR principles. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a231726077262efcf22a50ba77fa703a" />
 
-### [Effect of Digital Technology–Based Interventions on Core Symptoms and Cognitive Function in Children With Attention-Deficit/Hyperactivity Disorder: Systematic Review and Meta-Analysis](https://www.jmir.org/article/view/jmir_v28i1e103353)
-
-- Source: `jmir` · published `2026-10-09` · freshness `fresh`
-- Reading value: `62` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e103353`
-
-Background: Attention-deficit/hyperactivity disorder (ADHD) is a common neurodevelopmental disorder in children, characterized by core symptoms of hyperactivity, impulsivity, and inattention, in addition to cognitive impairments that compromise physical and psychological development. Digital technology–based interventions have emerged as a promising approach for ameliorating both core symptoms and cognitive impairments. However, a comprehensive evidence base supporting their efficacy is lacking. Objective: This study aimed to systematically evaluate the effects of digital interventions on core symptoms and cognitive impairments in children with ADHD. Methods: Web of Science, PubMed, EBSCOhost, and ProQuest were systematically searched using predefined inclusion and exclusion criteria. The risk of bias of the included studies was assessed using the revised Cochrane risk-of-bias tool for randomized trials. Effect sizes were pooled under a random-effects model, and heterogeneity across studies was evaluated using the ² statistic. Publication bias was assessed using Egger regression and Begg rank correlation tests. Subgroup analyses were performed to explore sources of heterogeneity across intervention type, age, intervention dosage, control group type, and outcome measurement tools. Sensitivity analyses were performed by switching from a random-effects model to a fixed-effects model to confirm the results’ robustness. Results: Thirty-seven randomized controlled trials were included, encompassing 4 types of digital interventions: computer-based interventions, serious video games, exergames, and virtual reality. Digital interventions significantly alleviated core symptoms and cognitive impairments, with improvements in the former primarily attributable to serious video games (=.02) and those in the latter mainly attributable to computer-based interventions (=.04) and serious video games (=.02). Subgroup analyses revealed that effects were stronger in younger children (&lt;10 years) and with short-to-moderate intervention duration (≤8 weeks) and were influenced by control group type and assessment modality. Conclusions: Digital interventions may relieve core symptoms and cognitive deficits in children with ADHD, with highly variable efficacy shaped by intervention type, age, dosage, and assessment methods. Serious games produce superior improvements in core symptoms, whereas computer-based training better enhances cognitive function. Future trials should optimize design and implement stratified analyses (eg, by symptom subtype and age) to clarify tailored intervention effects for better clinical application. Trial Registration: PROSPERO CRD420261399517; https://www.crd.york.ac.uk/PROSPERO/view/CRD420261399517 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/bf09966d56ab05cdbdef5bc79c165392" />
-
-### [Efficiency vs Depth in AI-Generated and Human-Synthesized Thematic Analyses of Ugandan Women’s Experiences of Obstetric Fistula: Comparative Qualitative Study](https://www.jmir.org/article/view/jmir_v28i1e94809)
-
-- Source: `jmir` · published `2026-10-09` · freshness `fresh`
-- Reading value: `55` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e94809`
-
-&lt;strong&gt;Background:&lt;/strong&gt; Limited recent literature has evaluated the use of large language models (LLMs) in the qualitative analysis of health data; more research is needed to expand the generalizability of LLM use and to evaluate potential ethical considerations. &lt;strong&gt;Objective:&lt;/strong&gt; Our research sought to (1) describe the process of using AI to analyze qualitative in-depth interview data, (2) identify similarities and differences between the human and AI-generated analyses to compare the quality and rigor of the two techniques and describe the strengths and weaknesses of each approach, and (3) make recommendations regarding the bounds of ethics and the role of researcher bias in AI-assisted qualitative research. &lt;strong&gt;Methods:&lt;/strong&gt; Nested within a larger mixed methods study, 17 Ugandan women recovering from female genital fistula surgery participated in hour-long semistructured interviews exploring their mental, physical, and overall health trajectories. Each interview lasted about an hour and was audio-recorded. Following translation and transcription, the data underwent thematic analysis by humans and by Versa, a University of California, San Francisco (UCSF) developed LLM powered by ChatGPT-4o. The AI analysis was conducted using 2 strategies: inductively and deductively. Finally, the analytic outputs were compared by MP and reviewed by AME and MG to evaluate the code frequency and alignment (most frequently used codes and equivalent concepts vs unique concepts between human and AI codes), thematic robustness (differentiation of distinct concepts and labels that convey substantive findings), analysis quality (narrative depth and excerpt accuracy), and efficiency of each method (total person-hours spent on comparable analytic tasks). &lt;strong&gt;Results:&lt;/strong&gt; A comparative analysis revealed significant thematic overlap between the human-synthesized and AI-generated outputs, though notable differences in granularity and efficiency emerged. When inductively coding, Versa identified 39 codes, whereas human researchers used a more expansive set of 54 codes. While Versa’s thematic analyses were generally accurate regarding how the interview data were represented in the analyses, the human-synthesized analysis was more robust because it incorporated compelling excerpts, and the summary content provided greater depth and range that the Versa analyses lacked. The disparity in efficiency was stark: the human analysis took approximately 15 hours to complete, while Versa produced the analysis in about 2.5 hours. &lt;strong&gt;Conclusions:&lt;/strong&gt; While Versa significantly expedited the initial coding phase, it still relied heavily on human researchers to create appropriate prompts and input all the data into the chat. Versa’s inability to replicate the narrative depth and description of human synthesis suggests that LLMs currently lack the interpretive sensitivity required to capture the lived experiences. Using Versa alone does not currently yield a high-quality analysis; significant human engagement is needed to maintain ethical and interpretive rigor. &lt;strong&gt;Trial Registration:&lt;/strong&gt; ClinicalTrials.gov NCT05437939; https://clinicaltrials.gov/study/NCT05437939 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/41f7db43dcd0ce7eee1cd1ab5d27c33f" />
-
 ### [Exploring College Students’ Compliance During a 60-Day Alcohol-Related Ecological Momentary Assessment Using Location- and Time-Based Questions: Prospective Observational Study](https://mhealth.jmir.org/2026/1/e81713)
 
 - Source: `jmir_mhealth` · published `2026-10-09` · freshness `fresh`
@@ -2495,14 +2407,6 @@ Background: Attention-deficit/hyperactivity disorder (ADHD) is a common neurodev
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e81713`
 
 <strong>Background:</strong> Ecological momentary assessment (EMA) methods can provide assessment of alcohol-related beliefs and behaviors when people are in their natural environments. An increasingly common EMA approach involves the use of passive sensors (eg, continuous sharing of Bluetooth and GPS cell phone data) to collect rich data and trigger alcohol assessment in specific contexts. While collecting real-time assessments allows researchers to explore contextual factors impacting alcohol use, there is a lack of research examining compliance rates to alcohol-related EMAs that use daily questions for study periods over 2 weeks. EMAs over longer periods allow researchers to assess meaningful changes over time and sample low-base-rate events. Further, there is limited research exploring how EMA compliance is influenced by individual-level factors (eg, privacy concerns and alcohol use). Identifying factors associated with compliance can help inform EMA protocol design. <strong>Objective:</strong> This study had 2 primary goals. First, we add to the literature by examining the feasibility and acceptability of a 60-day college student alcohol-EMA that uses phone-based, passive sensors. Second, we examined whether compliance was associated with event-level alcohol use, privacy concerns, and types of questions asked (ie, questions triggered by time or GPS location). <strong>Methods:</strong> College students (N=68) who reported regular alcohol use completed the 60-day EMA study. At baseline, participants completed an online survey that included an assessment of privacy concerns. During the study period, participants completed up to 15 questions a day, including evening and morning self-reports of alcohol use. Feasibility was assessed based on enrollment, retention, and compliance rates. Acceptability was examined at the end of the study period using open- and close-answered questions on perceptions of the EMA experience. <strong>Results:</strong> The findings supported the feasibility of the 60-day EMA with enrollment exceeding benchmarks and high compliance across the study period (average compliance=90%). Overall, students found the protocol acceptable with 88% (58/66) indicating that they would be willing to complete another EMA study. Participants’ compliance was not associated with alcohol use at the event-level (odds ratio [OR] 0.94, 95% CI 0.80-1.10) or at the trait level (OR 0.92, 95% CI 0.73-1.17). Participants’ compliance was greater for time-trigger assessment than GPS-triggered questions (<i>P</i>&lt;.001). Privacy concerns were not associated with reduced responding. <strong>Conclusions:</strong> This study has implications for those designing alcohol EMAs for college populations that involve the use of passive sensors, including recommendations for balancing predictable timing of questions and variability in question content.
-
-### [Healthcare organizations are underprepared for quantum computing threats](https://www.medtechdive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832528/)
-
-- Source: `medtech_dive_primary` · published `2026-10-09` · freshness `fresh`
-- Reading value: `47` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832528/`
-
-Healthcare organizations aren’t prepared for cybersecurity threats from quantum computing — an emerging technology that could break the encryption protecting patient data — according to a new report. Medical devices lag behind traditional information technology systems in preparedness. Just 6% of medical devices have security that can withstand future quantum computer attacks, compared with 50% of IT systems, according to the report by cybersecurity company Forescout’s threat intelligence and research arm. Electronic medical records, medical imaging and lab results are the data types most at risk. Experts say healthcare leaders should address these risks sooner rather than later.
 
 ### [How People Integrate Mental Health Apps Into Everyday Self-Care: Qualitative Study](https://mhealth.jmir.org/2026/1/e95414)
 
@@ -2519,14 +2423,6 @@ Background: Mobile mental health (MH) apps are increasingly promoted as tools fo
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100426`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Depressive disorders are one of the most prevalent psychiatric disorders globally and impose considerable individual and societal burdens. Psychotherapy, including cognitive behavioral therapy, is recommended as a first-line treatment especially for mild to moderate depressive disorders. However, face-to-face psychotherapy is often limited by issues of accessibility and cost. Digital therapeutics (DTx)—defined as health software intended to treat or alleviate a disease, disorder, condition, or injury by generating and delivering a medical intervention that has a demonstrable positive therapeutic impact on a patient by the International Organization for Standardization—have gained increasing attention as alternatives for overcoming these hurdles. With advances in digital technology, digital placebos have begun to be used as comparators in the clinical trials of DTx to assess the effects of active interventions accurately. However, the characteristics of clinical trials, the magnitude of digital placebos effects, and their moderators remain poorly understood. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to characterize clinical trials using digital placebos in control arms and to assess the magnitude and moderators of Patient Health Questionnaire-9 (PHQ-9) improvement in digital placebo arms. &lt;strong&gt;Methods:&lt;/strong&gt; The blinded randomized controlled trials (RCTs) evaluating PHQ-9 by setting digital placebos as comparators were identified by searching MEDLINE, Scopus, Web of Science, PsycINFO, CINAHL, Cochrane Central Register of Controlled Trials, ClinicalTrials.gov, and ISRCTN in November 2025. The characteristics of the RCTs and of the digital placebos were reviewed systematically. The meta-analysis including subgroup analyses and meta-regressions were conducted to investigate the magnitude and the moderators of the PHQ-9 improvement in digital placebo arms. &lt;strong&gt;Results:&lt;/strong&gt; A total of 29 papers and 30 trials with 5680 participants were included in this systematic review and meta-analysis. The most common trial design was 2-arm, parallel-group RCTs conducted in a single country, adopting “Replaced” and “Mobile” as the placebo approach and delivery type, respectively. The pooled effect size for all the included trials, representing PHQ-9 changes within control arms, was Hedges &lt;i&gt;g&lt;/i&gt;=0.44 (95% CI 0.29-0.59) with high heterogeneity (&lt;i&gt;I&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;=93.2%, τ²=0.14). Subgroup analyses and univariable regression showed that “Primary psychiatric disorder” group (&lt;i&gt;P&lt;/i&gt;=.008) and baseline PHQ-9 score (&lt;i&gt;P&lt;/i&gt;&amp;lt;.001) were the independent moderators of the improvement in digital placebo arms. Multivariable regression indicated that these 2 variables are the major contributing factors of the high heterogeneity (&lt;i&gt;I&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;=82.1%, τ²=0.07, &lt;i&gt;R&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt;=51.5%). &lt;strong&gt;Conclusions:&lt;/strong&gt; Our findings indicate that improvement in digital placebo arms is not negligible and should be incorporated into trial design. The factors identified in this study will be useful when estimating expected improvement in control arms and planning adequately powered future DTx clinical trials, alongside other relevant conceptual and methodological factors that may influence digital placebo effects. &lt;strong&gt;Trial Registration:&lt;/strong&gt; PROSPERO CRD420251118826; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251118826 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/6d83f65149856da6e4d5795f7620d95f" />
-
-### [Medtech lobby seeks broader device eligibility for CMS’ proposed RAPID pathway](https://www.medtechdive.com/news/medtech-lobby-seeks-broader-device-eligibility-for-cms-proposed-rapid-path/832622/)
-
-- Source: `medtech_dive_primary` · published `2026-10-09` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtech-lobby-seeks-broader-device-eligibility-for-cms-proposed-rapid-path/832622/`
-
-Medtech lobbyist AdvaMed called for the Centers for Medicare and Medicaid Services to make more devices eligible for a proposed pathway to faster Medicare coverage. The CMS unveiled plans for the pathway earlier this year, which would give certain breakthrough devices a proposed national coverage determination upon Food and Drug Administration authorization. AdvaMed praised the pathway earlier this year as a “positive step” toward expanding access to breakthrough devices, but called for clearer timelines and broader eligibility. The CMS is accepting public comments on the program through Oct. 13.
 
 ### [Multilingual Disparities in Large Language Model–Based Symptom Detection for Global Disease Surveillance: Evaluation Study](https://ai.jmir.org/2026/1/e103321/)
 
@@ -2559,14 +2455,6 @@ Notice NOT-OD-26-117 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-pip-compliance-verification-procedure-ema-paediatric-rewards_en.pdf`
 
 Questions and answers on the PIP compliance verification procedure at EMA, and on paediatric rewards
-
-### [Spatial Heterogeneity of Digital HIV/AIDS Stigma in China: Cross-Sectional Ecological Study](https://www.jmir.org/article/view/jmir_v28i1e93007)
-
-- Source: `jmir` · published `2026-10-09` · freshness `fresh`
-- Reading value: `48` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93007`
-
-Background: HIV/AIDS stigma remains a major barrier to public health intervention and social inclusion. In China, short-video platforms, such as Douyin, have become important spaces where people living with HIV/AIDS share daily-life narratives and receive public responses. However, little is known about how public responses to these narratives vary geographically, or how regional sociodemographic and epidemiological contexts are associated with digital stigma and support. Objective: This study aimed to examine the thematic structure, spatial heterogeneity, and macro-level correlates of public responses to daily-life narratives shared by people living with HIV/AIDS on Douyin in China, with a focus on spatially varying correlational patterns of digital HIV/AIDS stigma. Methods: We constructed a corpus of 174,394 public comments from Douyin videos created by people living with HIV/AIDS. DeepSeek R1 671B was used to classify comments into 9 substantive themes and 1 residual “others” category. Provincial topic indices were calculated by normalizing thematic comment counts by mobile internet access users. We then combined the least absolute shrinkage and selection operator feature selection, ordinary least squares, and spatial econometric models, residual spatial autocorrelation diagnostics, false discovery rate correction, and Shapley Additive Explanations (SHAP)–geographic information system (GIS) interpretation to examine global associations and localized variable contributions across 31 provincial-level units in mainland China. Results: Moral judgment and attribution of blame were the most prevalent substantive theme (41,663/174,394, 23.89%), followed by disease knowledge and transmission discussion (23,344/174,394, 13.39%), and support, encouragement, and humanitarian care (18,101/174,394, 10.38%). Spatial analysis showed pronounced geographic heterogeneity in both stigma- and support-oriented public responses. HIV incidence was positively associated with disease knowledge, social impact discussion, moral judgment, and support, while gender ratio was significantly associated with moral judgment and related evaluative themes. SHAP-GIS further revealed stronger positive contributions of HIV incidence to moralizing discourse in several southwestern provinces and a marked north-south pattern in the contribution of gender ratio. Conclusions: Digital public responses to daily-life narratives shared by people living with HIV/AIDS in China are geographically uneven and associated with place-based sociodemographic and epidemiological contexts. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/72e62f2ad7e45c35d27627e3b150219b" />
 
 ### [Stakeholder Perspectives on Digital Health Technologies in Poststroke Self-Management and Rehabilitation: Systematic Review Based on the NASSS Framework](https://mhealth.jmir.org/2026/1/e95197)
 
@@ -2624,14 +2512,6 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 
 Today, Indie Games Week lights up the App Store with a celebration of the catalog of imaginative games made by independent teams with big dreams.
 
-### [Applying technology to understand and treat disease](https://blog.google/innovation-and-ai/technology/health/ai-health-research/)
-
-- Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
-- Reading value: `18` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/health/ai-health-research/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp">In collaboration with scientists and research partners, Google is helping to make disease more detectable, treatable, and preventable — with the goal of improving health…
-
 ### [Are Hospital Operating Rooms Ready For FDA’s Expectations for Surgical Robots?](https://medcitynews.com/2026/10/are-hospital-operating-rooms-ready-for-fdas-expectations-for-surgical-robots/)
 
 - Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
@@ -2655,38 +2535,6 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/ascensia-leads-36m-funding-round-for-glucose-sensor-startup/832765/`
 
 Ascensia Diabetes Care led a $36 million Series B round in London-based glucose sensor maker Sava Technologies, the startup said Friday. The companies also struck a strategic partnership that gives Ascensia exclusive commercialization and distribution rights, starting in Europe. Based in Basel, Switzerland, Ascensia is a subsidiary of Tokyo’s PHC Holdings. Sava is developing a wearable glucose sensor that could expand to other biomarkers in the future. Sava hopes for the device to provide more options for people who use continuous glucose monitors in a market currently dominated by Abbott and Dexcom.
-
-### [Author Correction: Biomimetic graphitic carbon nitride nanoparticles for multiscale photomodulation and therapeutic intervention](https://www.nature.com/articles/s41551-026-01827-z)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-12` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
-
-No summary supplied by the source.
-
-### [From game days to daily life: The familiar faces teaming up with Google Health](https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/)
-
-- Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
-- Reading value: `13` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Olive_Active_Lifestyle_Strength.max-600x600.format-webp.webp">See the athletes, creators, and wellness experts who are using Google Health to help make our technology better for everyone.
-
-### [Google Fitbit Edge: Our all-new smartest fitness tracker ever](https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/)
-
-- Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
-- Reading value: `20` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp">Pre-order our newest fitness tracker and get access to our most advanced health tools — plus, a week of battery life from a single charge.
-
-### [How we’re making Google Health and Fitbit Air smarter than ever](https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/)
-
-- Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
-- Reading value: `12` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_air_metal_.max-600x600.format-webp.webp">Our most advanced wellness tools, premium metal bands, and deeper app partnerships bring everything you need directly to your wrist.
 
 ### [Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem](https://medcitynews.com/2026/10/join-us-at-invest-digital-health-for-a-conversation-on-consumer-centered-care-across-the-healthcare-ecosystem/)
 
@@ -2728,14 +2576,6 @@ No summary supplied by the source.
 
 Philips is updating instructions for an ultrasound system after reporting eight serious injuries and four deaths, the Food and Drug Administration said Friday. The FDA, which published an early alert about Philips’ actions, said the software issue can delay the use of the portable Lumify diagnostic ultrasound system. Philips wrote to customers about the issue last month, recommending actions to mitigate the risks while it develops a software update to fix the problem.
 
-### [We’re partnering with Flo Health to elevate women’s health](https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/)
-
-- Source: `fitbit_google_blog` · published `2026-10-12` · freshness `fresh`
-- Reading value: `21` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp">Google Health announces new partnership and deeper commitment to women’s health with Flo Health.
-
 ### [A new app experience is coming to cars with Google built-in](https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/)
 
 - Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
@@ -2743,14 +2583,6 @@ Philips is updating instructions for an ultrasound system after reporting eight 
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp">Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.
-
-### [Abram snags $8.3M US DoD contract to advance blood coagulation diagnostic](https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `49` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/`
-
-<p>Following Abram’s completion of a $10.75m financing round in February, the company is now eyeing an FDA filing for its blood coagulation diagnostic.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/">Abram snags $8.3M US DoD contract to advance blood coagulation diagnostic</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Ambient AI Scribe Technology and Perceived Documentation Efficiency Among Surgeons: Cross-Sectional Study](https://medinform.jmir.org/2026/1/e89329)
 
@@ -2782,7 +2614,7 @@ Apple today announced the next generation of Apple TV 4K, delivering its most im
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50067325`
 
-Hacker News community signal; score 93.
+Hacker News community signal; score 113.
 
 ### [Autologous and broadly neutralizing antibodies drive ART-free HIV control](https://www.nature.com/articles/s41591-026-04714-x)
 
@@ -2848,30 +2680,6 @@ No summary supplied by the source.
 
 In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and chief investment officer of Fifth Wall, discussed the AI shift, why proptech funding totals may overlook some of the sector’s biggest investments, what it all means for founders, and the housing problems he believes still need solving.
 
-### [Gemini 4 Argon comes to the Gemini app.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/)
-
-- Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
-- Reading value: `17` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp">Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.
-
-### [Gemini 4 Argon is now available for developers.](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/)
-
-- Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
-- Reading value: `9` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp">Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…
-
-### [Gemini 4 Argon: Built to solve your hardest problems](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/)
-
-- Source: `fitbit_google_blog` · published `2026-10-13` · freshness `fresh`
-- Reading value: `18` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp">We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.
-
 ### [Happy Health’s Cuffless BP Device Wins FDA Clearance](https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/)
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
@@ -2879,14 +2687,6 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
 
 <p><a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"><img width="600" height="356" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300.jpg 767w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration.</p> <p>The post <a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/">Happy Health’s Cuffless BP Device Wins FDA Clearance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69](https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `15` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/helen-branswell-stat-reporter-obituary/?utm_campaign=rss`
-
-Helen Branswell, STAT's infectious disease reporter who earned the respect of experts and public health officials with her accessible, prescient dispatches, has died at age 69.
 
 ### [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013)
 
@@ -2960,14 +2760,6 @@ Apple today introduced Apple HomeView, designed to be central to the home and pe
 
 &lt;strong&gt;Background:&lt;/strong&gt; Cognitive late effects affect 35%-60% of patients with pediatric cancer. Computerized cognitive training (CCT) is promising for cognitive training. Parents play a key role in children’s CCT participation, particularly by providing guidance and practical support during training. Yet, little is known about parents’ views on integrating CCT into the management of cognitive late effects in these patients. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to explore parents’ perspectives on the use of CCT for managing cognitive late effects in children with cancer, including perceived facilitators, barriers, and suggestions for improvement. &lt;strong&gt;Methods:&lt;/strong&gt; We conducted semistructured interviews with parents of children with cancer aged 3-6 years who had used or were currently using CCT for cognitive training. Interviews were audio-recorded and transcribed verbatim in Chinese and analyzed using inductive thematic analysis. Selected anonymized quotations were translated into English by the first author and reviewed against the original Chinese transcripts to ensure accuracy and preserve contextual meaning. &lt;strong&gt;Results:&lt;/strong&gt; We recruited 20 parents and identified 3 main themes and 12 subthemes regarding the use of CCT for cognitive management in children with cancer: (1) Perceptions of Integrating CCT into Cognitive Management, including Narrowing the Gap with Peers, Brief Yet Persistent Participation, It Freed Up My Time, Perceived Changes in Cognitive Functioning, and It Brings Fun; (2) Challenges, including Sometimes It’s a Bit Hard for the Child, Sometimes We Forget to Do the Training, Fear of the “Retard” Label, and Can We Afford to Keep Doing This?; and (3) Opportunities for Improvement, including Need for Tailored Training, Information Needs, and Don’t Leave Us Hanging. &lt;strong&gt;Conclusions:&lt;/strong&gt; This study suggests that parents generally perceived CCT as a practical, engaging, and convenient approach to supporting cognitive management in children with cancer, particularly for home-based training. However, several challenges remain to be addressed to facilitate sustained engagement with CCT. Although some parents perceived improvements in their children’s cognitive functioning following CCT, these perceptions do not establish the effectiveness of the intervention. Overall, this study highlights the potential value of CCT from parents’ perspectives and provides practical insights for developing more flexible, individualized, and family-centered CCT interventions. Future research should incorporate children’s perspectives, recruit more diverse samples, consider potential concerns related to prolonged screen use, and use objective cognitive outcomes to evaluate CCT effectiveness. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2b639a60c8452299dde1bf807fab7f60" />
 
-### [Podcast: The FDA’s GenAI proposal: evolving regulation for an evolved medtech era](https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `41` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/`
-
-<p>Dennis Gucciardo, partner at Morgan Lewis, weighs the benefits and potential rationale behind the FDA's discussion paper on GenAI medtech regulation.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/podcast-the-fda-genai-proposal-evolving-regulation-for-an-evolved-medtech-era/">Podcast: The FDA’s GenAI proposal: evolving regulation for an evolved medtech era</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Predicting Measles Vaccination Defaulting in Uganda and Kenya: Comparative Evaluation of Custom Soft Voting and TabNet Stacked Ensemble Architectures](https://ai.jmir.org/2026/1/e95727/)
 
 - Source: `jmir_ai` · published `2026-10-13` · freshness `fresh`
@@ -2999,14 +2791,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/`
 
 <p><a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals.</p> <p>The post <a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/">Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion](https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `65` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss`
-
-Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.
 
 ### [Steris inks $2.1B Xodus buyout to expand consumables portfolio](https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/)
 
@@ -3152,14 +2936,6 @@ Bünyamin Aydın brought together Turkish heritage, rock influences, and futuris
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…
 
-### [Current status and future outlook of artificial intelligence and automation in intravenous infusion systems](https://www.nature.com/articles/s41746-026-03291-0)
-
-- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03291-0`
-
-No summary supplied by the source.
-
 ### [Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function](https://www.nature.com/articles/s41591-026-04733-8)
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
@@ -3260,7 +3036,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `47` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
 
 <p><a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg" class="attachment-large size-large wp-post-image" alt="Jet trail creating dollar sign in blue sky with clouds startup capital" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Healthleap, a clinical AI platform that works within the EHR to screen hospitalized patients for conditions that might otherwise go undiagnosed, is supporting hospitals in finding at-risk patients sooner.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/">Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3268,7 +3044,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `28` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
 
 <p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3302,7 +3078,7 @@ Complex, interconnected problems like compliance require a comprehensive product
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.liquid.ai/blog/lfm2-5-24b-a2b`
 
-Hacker News community signal; score 245.
+Hacker News community signal; score 274.
 
 ### [Making AI work in healthcare](https://www.nature.com/articles/s41591-026-04726-7)
 
@@ -3320,14 +3096,6 @@ No summary supplied by the source.
 
 <p>The MHRA’s new 2030 strategy plans to make drug and device regulation more efficient and patient centric by using technologies like AI.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-mhra-2030-strategy-drug-medical-device-regulation-2/">MHRA homes in on personalised healthcare and tech in new 2030 strategy</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability](https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `30` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/health-news-glp-1-study-impact-interactions-with-criminal-justice-system-employment/?utm_campaign=rss`
-
-A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced&#8230;
-
 ### [NVIDIA donates $250m to support UK’s AI research and security](https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/)
 
 - Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
@@ -3335,22 +3103,6 @@ A wave of clinical trials have begun to test the ability of GLP-1 weight loss dr
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/`
 
 <p>The UK life sciences scene could benefit from Nvidia’s donation, much of which is being allocated to institutions focused on AI safety and research initiatives.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/">NVIDIA donates $250m to support UK’s AI research and security</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Opinion: How states can resist the potential Trump vaccine shortages](https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `23` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss`
-
-“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge.
-
-### [Opinion: We think a baby’s gut microbiome could be key to lifelong brain health](https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `21` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss`
-
-“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg.
 
 ### [Orthofix pays former executives $24M in damages](https://www.medtechdive.com/news/orthofix-pays-fired-ceo-cfo-clo-24m-damages-compensation/832839/)
 
@@ -3416,14 +3168,6 @@ No summary supplied by the source.
 
 New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;
 
-### [STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI](https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `45` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss`
-
-Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine.
-
 ### [STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more](https://www.statnews.com/pharmalot/2026/10/14/sanofi-settling-european-antitrust-probe-pharma-bro-shkreli/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
@@ -3468,9 +3212,9 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/`
 
-<p><a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/"><img width="600" height="392" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326.jpg 731w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Ultragenyx Pharmaceutical sold two priority review vouchers, each from an FDA approval of a gene therapy. Both therapies came from business deals and proceeds from the voucher sales put Ultragenyx in a better financial position to pursue yet another deal for a rare disease asset. </p> <p>The post <a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/">Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/"><img width="600" height="392" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326.jpg 731w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Ultragenyx Pharmaceutical sold two priority review vouchers, each from an FDA approval of a gene therapy. Both therapies came from business deals and proceeds from the voucher sales put Ultragenyx in a better financial position to pursue yet another deal for a rare disease asset. </p> <p>The post <a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/">Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [We’re powering European scientific discovery with advanced AI compute and frontier models.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/)
 
@@ -3488,11 +3232,19 @@ No summary supplied by the source.
 
 <p><a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg" class="attachment-large size-large wp-post-image" alt="A digitally generated image featuring an old-style computer monitor displaying the letters “AI” with neon business crowd. The scene blends retro computing with modern business aesthetics, symbolizing the journey of artificial intelligence from its early beginnings to its growing role in today’s corporate world. Ideal for illustrating themes of digital evolution, business transformation, AI adoption, and technology-driven innovation." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-768x432.jpg 768w" sizes="auto, (max-width: 788px) 100vw, 788px" /></a></p><p>Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/">Why Agentic AI Works in Hospitals When You Strip It Down</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `11` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp">People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…
+
 ### [<b>Hidden race disparities in cancer treatment toxicity</b>](https://www.nature.com/articles/d41591-026-00050-2)
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
 
 No summary supplied by the source.
 
@@ -3500,7 +3252,63 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
+
+No summary supplied by the source.
+
+### [A Machine Learning Framework for Predicting Functional Status and Estimating Health Care Costs in Pulmonary Arterial Hypertension: Retrospective Cohort Study](https://medinform.jmir.org/2026/1/e97372)
+
+- Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
+- Reading value: `45` · status: `scored`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e97372`
+
+<strong>Background:</strong> Pulmonary arterial hypertension (PAH) is a rare and progressive disease associated with substantial clinical heterogeneity and high health care costs. While machine learning (ML) has been increasingly applied to predict clinical outcomes, approaches that integrate clinical prediction with downstream economic modeling remain limited. <strong>Objective:</strong> This study proposes and evaluates an ML-based framework that combines prediction of future functional status with estimation of associated health care costs in patients with PAH. <strong>Methods:</strong> In this retrospective cohort study, data from 181 patients with PAH were analyzed. A total of 6 supervised ML algorithms (Least Absolute Shrinkage and Selection Operator [LASSO] regression, ridge regression, k-nearest neighbors, decision trees, random forest, and gradient boosting) were trained to predict the relative change in World Health Organization functional class (WHO-FC) from baseline to 12-month follow-up using baseline clinical variables. Predicted change rates were subsequently converted to predicted WHO-FC values at the 12-month follow-up for downstream health care cost estimation. Missing values in predictor variables were imputed using median substitution. Median imputation was performed before the dataset was split into training and test sets. Model performance was evaluated using Pearson correlation coefficient (<i>r</i>), and error metrics (RMSE, MAE, and MedAE), based on cross-validation and independent test set validation. Predicted WHO-FC values were subsequently linked to externally validated, stratified real-world health care cost estimates to approximate future economic burden. <strong>Results:</strong> Among the evaluated models, k-nearest neighbors showed the highest predictive performance (<i>r</i>=0.40; <i>R</i><sup>2</sup>=0.16), followed by LASSO regression (<i>r</i>=0.30; <i>R</i><sup>2</sup>=0.09). Prediction errors were comparable across models. Estimated mean health care costs ranged from US $12,481 to $12,614 per patient per month. Despite a significant improvement in WHO-FC over 12 months, estimated health care costs remained largely unchanged, reflecting persistent economic burden across functional class strata. <strong>Conclusions:</strong> This study demonstrates the feasibility of an ML-based framework that integrates prediction of functional status with health care cost estimation in PAH. While predictive performance was moderate, the approach illustrates how ML models can be extended beyond clinical end points toward system-level applications such as cost forecasting and resource planning. Further validation in larger, multicenter cohorts is required before clinical or health system implementation.
+
+### [After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward](https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `27` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss`
+
+A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.
+
+### [AI-Driven Lifestyle Interventions for Reducing Diabetes Risk: Systematic Review](https://www.jmir.org/article/view/jmir_v28i1e104940)
+
+- Source: `jmir` · published `2026-10-15` · freshness `fresh`
+- Reading value: `64` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e104940`
+
+&lt;strong&gt;Background:&lt;/strong&gt; Artificial intelligence (AI)–driven lifestyle interventions are increasingly used for reducing diabetes risk. However, whether they produce clinical benefit beyond standard Diabetes Prevention Programs (DPPs) and whether effects vary by AI type, population, or delivery setting, remains uncertain. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to evaluate the effects of AI-driven lifestyle interventions on clinical, behavioral, and engagement outcomes among people with prediabetes or elevated diabetes risk and to assess whether effects differed by AI type, population, or delivery setting. &lt;strong&gt;Methods:&lt;/strong&gt; PubMed, Embase, CINAHL, Web of Science, IEEE Xplore, ClinicalTrials.gov, and citation searches were completed on August 3, 2026, for English-language reports published from 2015. Eligible studies evaluated AI-driven digital lifestyle interventions among people with prediabetes or elevated diabetes risks, or healthy participants in feasibility studies. One reviewer (OIE) screened records and extracted data; a second reviewer (TN) independently verified exclusions and extraction. Study quality was assessed with National Heart, Lung, and Blood Institute tools appropriate to each design. Given substantial heterogeneity in designs, estimands, and outcome metrics, findings were synthesized narratively following the Synthesis Without Meta-Analysis guideline rather than pooled statistically. &lt;strong&gt;Results:&lt;/strong&gt; Of 8032 records, 11 studies were included: 1 randomized, 1 nonrandomized comparative, 4 observational, and 5 uncontrolled pre-post studies. Seven evaluated AI lifestyle coaching systems, 2 predictive AI platforms, and 2 conversational AI chatbots. Ten of 11 studies used commercially developed platforms. Study quality was rated good for 5 studies, fair for 3, and poor for 3. The randomized controlled trial showed noninferiority of an AI-DPP versus human coach–led DPP for the combined 12-month outcome (23/183, 12.6% vs 23/185, 12.4%; risk difference 0.1%, 1-sided 95% CI –5.5%). Program initiation (171/183, 93.4% vs 153/185, 82.7%; risk difference 10.7%, 95% CI 4.2%-17.3%) and completion (117/183, 63.9% vs 93/185, 50.3%; risk difference 13.7%; 95% CI 3.6%-23.7%) were higher with AI, but this did not translate into superior clinical outcomes. The nonrandomized comparison found no advantage of AI-personalized messaging over static messaging in terms of BMI or physical activity. The remaining studies reported uncontrolled changes precluding causal inference. Evidence was insufficient to determine whether effects differed by population or delivery setting. &lt;strong&gt;Conclusions:&lt;/strong&gt; One randomized trial supports noninferiority, not superiority, of a specific AI-driven DPP relative to human coaching; the remaining evidence was nonrandomized, predominantly commercially developed, and hypothesis-generating. To our knowledge, this is the first systematic review to stratify evidence on AI-driven diabetes prevention by AI mechanism—coaching, predictive, and conversational—and by outcome domain, extending prior scoping work that mapped apps without appraising study quality or comparative effectiveness. This structured mapping shows where evidence is the strongest (engagement and weight) and the weakest (glycemic causality and generalizability), giving health systems a concrete basis for deciding where AI-DPP tools may supplement, rather than replace, standard DPP delivery, pending independent, adequately powered randomized trials. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/662a44302867af926f2fe982892be104" />
+
+### [An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models](https://www.nature.com/articles/s41746-026-03275-0)
+
+- Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03275-0`
+
+No summary supplied by the source.
+
+### [An intelligent new shopping cart](https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `9` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp">Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.
+
+### [Android earthquake alerts now available in more than 200 regions](https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `8` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp">Android earthquake alerts are now available in more than 200 countries and regions.
+
+### [Animal numbers are not a proxy for scientific strength](https://www.nature.com/articles/s41551-026-01825-1)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
 No summary supplied by the source.
 
@@ -3508,7 +3316,7 @@ No summary supplied by the source.
 
 - Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/centinel-spine-fda-two-level-use-prodisc-c-nova/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/centinel-spine-fda-two-level-use-prodisc-c-nova/`
 
 <p>Centinel Spine has received the US FDA approval for two-level use of its prodisc C Nova cervical total disc replacement system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/centinel-spine-fda-two-level-use-prodisc-c-nova/">Centinel Spine gets FDA nod for two-level use of prodisc C Nova</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3516,9 +3324,17 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03370-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03370-2`
 
 No summary supplied by the source.
+
+### [Chinese Patients’ Willingness to Use Virtual Visits During and After the COVID-19 Pandemic: Repeated Cross-Sectional Study in Zhejiang Province, 2021-2024](https://www.jmir.org/article/view/jmir_v28i1e87578)
+
+- Source: `jmir` · published `2026-10-15` · freshness `fresh`
+- Reading value: `53` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e87578`
+
+&lt;strong&gt;Background:&lt;/strong&gt; The COVID-19 pandemic has been a critical external driver of telemedicine adoption. As the pandemic entered its later stages, countries worldwide transitioned from stringent containment measures to routine management. This policy shift may in turn have shaped patients’ willingness to use (WTU) telemedicine. &lt;strong&gt;Objective:&lt;/strong&gt; This study aims to examine the changes in patients’ WTU virtual visits during and after the COVID-19 pandemic in China, with particular attention to the policy transition from stringent containment to routine pandemic management, and to identify factors associated with patients’ WTU across different survey years. &lt;strong&gt;Methods:&lt;/strong&gt; Repeated cross-sectional surveys were conducted among 340, 786, 1179, and 1373 hospital outpatients in Zhejiang Province, China, from 2021 to 2024. Using year as a proxy for the evolving COVID-19 containment policy context, this study used binary logistic regression of pooled 2021-2024 repeated cross-sectional data to examine whether survey year was significantly associated with patients’ WTU virtual visits. Separate year-specific binary logistic regression was fitted to identify factors associated with patients’ WTU in each survey year. &lt;strong&gt;Results:&lt;/strong&gt; The proportion of patients’ WTU virtual visits was 70.88% (241/340) in 2021, 71.37% (561/786) in 2022, 62.34% (735/1179) in 2023, and 75.38% (1035/1373) in 2024. In the pooled 2021-2024 repeated cross-sectional analysis, survey year was significantly associated with patients’ WTU: compared with 2021, patients’ likelihood of being willing to use virtual visits was lower in 2023, but higher in 2024. In the year-specific analyses, educational level and primary source of information were consistently associated with patients’ WTU across all 4 years. Visiting hospital tier was additionally associated with WTU in 2022; age and visiting hospital tier were associated with WTU in 2023; and age, monthly income, and self-rated health status were additionally associated with WTU in 2024. Joint Wald tests of year-by-covariate interactions confirmed that the associations of age, visiting hospital tier, monthly income, and self-rated health with WTU varied across survey years. &lt;strong&gt;Conclusions:&lt;/strong&gt; Patients’ WTU remained high across the 2021-2024 transition from stringent COVID-19 containment to routine pandemic management, declining in the first postpandemic wave of 2023 and then rebounding to its highest level in 2024. The correlates of WTU were only partially stable: a college-level education and internet-based information seeking were consistently associated with higher WTU in both the pooled and year-specific analyses, whereas the associations with age, visiting hospital tier, monthly income, and self-rated health varied across survey years and emerged only in specific periods. These findings suggest that virtual visits gained sustained acceptance among patients in economically and digitally developed regions of China, and that telemedicine platform design should accommodate patients with lower educational levels or limited internet skills while outreach extends across a broader range of age groups to support more equitable adoption. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9c1c987cf91b657f5b83cae6f0664a8c" />
 
 ### [Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’](https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss)
 
@@ -3528,19 +3344,51 @@ No summary supplied by the source.
 
 The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”
 
+### [Concept-Aware Learning Framework for Detecting Common Symptoms in Social Media Text: Model Development and Evaluation Study](https://medinform.jmir.org/2026/1/e94769)
+
+- Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
+- Reading value: `63` · status: `scored`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e94769`
+
+<strong>Background:</strong> Social media offers valuable information for public health surveillance, but detecting valid symptom expressions in noisy and informal text remains challenging. Fine-tuned language models can achieve strong test accuracy while relying on spurious patterns, limiting their reliability in real-world applications. <strong>Objective:</strong> This study aimed to develop a more robust symptom detection model by incorporating surveillance-relevant attributes into the training objective and introducing a counterfactual-based evaluation framework to assess attribute sensitivity. <strong>Methods:</strong> We proposed a concept-aware learning framework (CALF), which combines multiattribute counterfactual data augmentation with multitask learning. We compared standard fine-tuning (baseline) with data-level interventions, a model-level intervention, hybrid strategies, and prompt-based methods across multiple encoders and LLMs for data augmentation. Performance was evaluated on the following 3 datasets: the MedWeb test using macro <i>F</i><sub>1</sub>-score (m-<i>F</i><sub>1</sub>), the MedWeb checklist using flip accuracy (FA), and a supplementary test set using <i>F</i><sub>1</sub>-score for flu-or-fever detection (f-<i>F</i><sub>1</sub>). FA measures sensitivity to surveillance-relevant attributes, and the supplementary test score serves as an indicator for out-of-distribution performance. <strong>Results:</strong> The baseline achieved an m-<i>F</i><sub>1</sub>-score of 0.871 on the test set but a low overall FA on the checklist (FA=0.342). It also has limited sensitivity to recovery status, timing of occurrence, and uncertainty of expression. Compared with the baseline, CALF has a comparable MedWeb test score (m-<i>F</i><sub>1</sub>=0.880 vs 0.871; <i>P</i>=.18), but a substantially higher FA (FA=0.830 vs 0.342; <i>P</i>=.001) and supplementary test score (f-<i>F</i><sub>1</sub>=0.856 vs 0.797; <i>P</i>=.007). CALF also improved sensitivity to recovery, timing, and uncertainty across pretrained encoders. The gains were generally larger when GPT-4.1 (OpenAI) was used for data augmentation. Under GPT-4.1, CALF often achieved the highest overall FA among encoder-based methods. When Qwen2.5-7B-Instruct (Alibaba Cloud) was used, an alternative hybrid strategy may achieve comparable or slightly better results. Checklist performance was strongly associated with supplementary test performance (ρ=0.811), whereas MedWeb test performance showed weak association with supplementary test performance (ρ=–0.042). Prompting GPT-4.1 achieved the highest FA overall (FA=0.920) and the highest supplementary test score (f-<i>F</i><sub>1</sub>=0.910), but a lower test set score than the baseline (m-<i>F</i><sub>1</sub>=0.776 vs 0.871). <strong>Conclusions:</strong> Standard held-out metrics alone do not adequately characterize robustness to dataset-specific or spuriously correlated features. Models may perform well on the test set while remaining insensitive to attributes that influence whether a symptom mention is relevant to surveillance. The MedWeb checklist complements conventional evaluation by measuring sensitivity to controlled attribute changes and may indicate out-of-distribution performance. CALF improved sensitivity to surveillance-relevant attributes while maintaining strong classification performance, supporting concept-aware learning as a practical strategy for developing more robust encoder-based models.
+
 ### [Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds](https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `24` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/`
 
 For the third quarter of 2026, global cybersecurity- and privacy-focused startups pulled in a total of $6.8 billion, per Crunchbase data. That’s up about 50% from the prior quarter and tied for the highest quarterly tally in years.
+
+### [Data-backed secrets to smarter holiday shopping](https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `12` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp">Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.
+
+### [Determinants of AI Scribe Adoption in Allied Health: Mixed Methods Study Guided by the Capability, Opportunity, and Motivation Model for Behavior Change](https://www.jmir.org/article/view/jmir_v28i1e88088)
+
+- Source: `jmir` · published `2026-10-15` · freshness `fresh`
+- Reading value: `61` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e88088`
+
+Background: AI scribes are emerging tools designed to reduce clinician documentation burden and improve clinical quality and efficiency by transcribing and documenting patient interactions in real-time. Despite growing evidence of their efficacy and impact across medical disciplines, there remains limited research on factors that influence successful implementation, particularly in allied health practice. Objective: This study explored the factors influencing the adoption of an AI scribe, including barriers and enablers among allied health clinicians, to inform ongoing implementation in public health settings. Methods: A mixed methods design was employed within a large Australian hospital and health service. Data were collected through surveys (n=97) and semistructured interviews (n=27) with allied health clinicians across multiple disciplines, including both adopters and nonadopters of an AI scribe. Survey data were analyzed descriptively. Interview transcripts were coded and thematically analyzed using a deductive approach guided by the COM-B (Capability, Opportunity, Motivation–Behavior) model to identify determinants of behavior. Results: Adoption was shaped by factors that could function as both barriers and enablers across the domains of capability, opportunity, and motivation. Enablers included tailored training, technology literacy, access to equipment and suitable recording spaces, leadership and peer support, and clear organizational communication. The absence of these factors, along with time and capacity constraints and unclear processes, hindered adoption. Responses to change, perceptions of the AI scribe’s value, safety, reliability, and privacy, and prior experience with similar tools also influenced adoption, depending on individual perspectives. Conclusions: The successful implementation of an AI scribe in allied health settings requires multifaceted strategies that address COM-B factors. Key priorities include allocating sufficient time for uptake and adoption, providing tailored training, ensuring access to relevant resources, fostering leadership and peer support, and providing organizational direction. These findings offer actionable insights to guide future implementation efforts and advance digital transformation in allied health practice. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/071941fce8c35878b02d65bd94a2eedd" />
+
+### [Engineering gut microbiome states overcomes hepatic accumulation of nanomedicines](https://www.nature.com/articles/s41551-026-01811-7)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
+
+No summary supplied by the source.
 
 ### [Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions](https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `27` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/`
 
 New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel.
 
@@ -3548,7 +3396,7 @@ New York-based Chariot Claims has raised $10 million in Series A funding led by 
 
 - Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/`
 
 <p>The US FDA has granted 510(k) clearance to Stryker for Sonopet 3, the medical technology company's latest ultrasonic platform for bone and soft tissue removal.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/">FDA approves Stryker’s Sonopet 3 surgical platform</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3556,7 +3404,7 @@ New York-based Chariot Claims has raised $10 million in Series A funding led by 
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss`
 
 About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.
 
@@ -3564,15 +3412,39 @@ About 40% of high school students reported binge-eating in the past month in a n
 
 - Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `13` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/`
 
 As AI enables smaller, faster teams, companies should hire curious, adaptable people who challenge established practices and can be trusted to make independent decisions, according to guest author Eric Francia, who writes that giving employees real responsibility, encouraging questions and investing in continuous learning helps teams innovate, stay engaged and retain talent.
+
+### [How we're helping the world prepare for natural disasters](https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `13` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/`
+
+Our north star is simple yet ambitious: No one should be surprised by a natural disaster.
 
 ### [Implementation and effectiveness of a smartphone app targeted at improving physicians adherence to antimicrobial treatment guidelines](https://www.nature.com/articles/s41746-026-03401-y)
 
 - Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03401-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03401-y`
+
+No summary supplied by the source.
+
+### [Implementing Taiwan National Health Insurance Quality Indicators as Clinical Quality Language on Fast Healthcare Interoperability Resources: Development and Feasibility Study](https://medinform.jmir.org/2026/1/e108093)
+
+- Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
+- Reading value: `62` · status: `scored`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e108093`
+
+<strong>Background:</strong> Clinical Quality Language (CQL) and Fast Healthcare Interoperability Resources (FHIR) support executable electronic clinical quality measures. Translating national claims–based indicators into CQL remains challenging because terminology, exclusions, and data semantics require adaptation. To our knowledge, Taiwan National Health Insurance (NHI) medical-center indicators have not previously been represented as an executable CQL library. <strong>Objective:</strong> This study aimed to develop CQL libraries derived from 39 Taiwan NHI medical-center quality indicator codes and evaluate technical executability and computational consistency using synthetic data and real-world cross-institution medication records. <strong>Methods:</strong> We implemented 39 CQL libraries across 6 principal FHIR R4 clinical resources using 21 data elements, with documented adaptations where official requirements could not be represented. Compiled Expression Logical Model was executed against author-defined synthetic fixtures. In a retrospective 2-campus study, a separately coded Python implementation and the CQL pipeline computed aggregate numerators and denominators for 20 indicators from the same deidentified records, represented as a long table and FHIR resources, respectively. <strong>Results:</strong> All 39 CQL libraries compiled and executed against the predefined synthetic fixtures, and their outputs matched the author-defined expected results (39/39 libraries; 136/136 early-refill grace-period control groups). The real-world dataset included 88 patients (Taipei: n=65; Linkou: n=23), 1597 medication records, and 630 visits from January 1 to June 2, 2026. Across the 20 medication-based indicators, the 2 pipelines produced identical aggregate numerators and denominators (20/20), and 7 of the 8 cross-institution drug-class overlap indicators had nonzero numerators. All 2317 FHIR resources passed base FHIR R4 structural validation, and Anatomical Therapeutic Chemical mapping coverage was 98.3% (1570/1597 records). <strong>Conclusions:</strong> The implemented NHI-derived indicator logic was executable and computationally consistent across synthetic testing and aggregate real-world comparisons. These findings do not establish complete fidelity to official NHI specifications. Further evaluation requires expert semantic review, patient-level testing, and execution across independent CQL/FHIR environments. <strong>Trial Registration:</strong>
+
+### [Keeping psychedelics in mind](https://www.nature.com/articles/s41551-026-01813-5)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
 
 No summary supplied by the source.
 
@@ -3580,15 +3452,71 @@ No summary supplied by the source.
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `26` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss`
 
 Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;
+
+### [Labcorp outlays up to $872m to acquire BioReference’s laboratory assets](https://www.medicaldevice-network.com/news/labcorp-outlays-up-872m-to-acquire-bioreference-laboratory-assets/)
+
+- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
+- Reading value: `54` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/labcorp-outlays-up-872m-to-acquire-bioreference-laboratory-assets/`
+
+<p>Labcorp said the agreement will help to improve access to its own laboratory services.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/labcorp-outlays-up-872m-to-acquire-bioreference-laboratory-assets/">Labcorp outlays up to $872m to acquire BioReference’s laboratory assets</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Making your Pixel devices last longer through design, repair, and reuse](https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `17` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Banner_IRD_width-2200_fo.max-600x600.format-webp.webp">On International Repair Day, we’re highlighting how we design devices for longevity, make repair and reuse more accessible and more.
+
+### [Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China](https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `35` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss`
+
+Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.
+
+### [More ways to connect with the web from Search](https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `8` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp">We’re updating AI Mode and AI Overviews to include clearer links, context about sources, and more.
+
+### [NEJM study supports CGM use for people with diabetes who don’t take insulin](https://www.medtechdive.com/news/nejm-study-supports-cgm-use-for-people-with-diabetes-who-dont-take-insulin/833124/)
+
+- Source: `medtech_dive_primary` · published `2026-10-15` · freshness `fresh`
+- Reading value: `66` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/nejm-study-supports-cgm-use-for-people-with-diabetes-who-dont-take-insulin/833124/`
+
+Results of a Dexcom-funded study published in the New England Journal of Medicine Wednesday demonstrated that people with Type 2 diabetes who don’t take insulin may benefit from wearing a continuous glucose monitor. Dexcom first shared the results at the American Diabetes Association’s Scientific Sessions this summer. The study found that people who wore a CGM had a larger reduction in hemoglobin A1c than people who received routine care after 26 weeks. The published results come as diabetes tech firms anticipate the Centers for Medicare and Medicaid Services to expand Medicare coverage of CGMs for people with diabetes who don’t take insulin. Having a peer-reviewed publication in a leading medical journal “should be a catalyst” for a CMS decision, William Blair analysts wrote in a research note.
+
+### [Olympus’ shares plunge following FDA warning letter over manufacturing failures](https://www.medicaldevice-network.com/news/olympus-shares-plunge-following-fda-warning-letter-over-manufacturing-failures/)
+
+- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
+- Reading value: `63` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/olympus-shares-plunge-following-fda-warning-letter-over-manufacturing-failures/`
+
+<p>The FDA’s Warning Letter follows its completion of inspections at six of Olympus’ international manufacturing sites in late 2025.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/olympus-shares-plunge-following-fda-warning-letter-over-manufacturing-failures/">Olympus’ shares plunge following FDA warning letter over manufacturing failures</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Open up to new possibilities with iPhone Duo](https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/)
+
+- Source: `apple_newsroom` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/`
+
+Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.
 
 ### [Opinion: My daughter’s death changed how I understood the nursing shortage](https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `25` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss`
 
 Health systems invest in training, but lose early-career nurses within a few years.
 
@@ -3596,25 +3524,97 @@ Health systems invest in training, but lose early-career nurses within a few yea
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `42` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss`
 
 Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.
+
+### [STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership](https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `54` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss`
+
+Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a massive&#8230;
 
 ### [STAT+: On Wall Street, there’s trouble stirring for biotech](https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `34` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss`
 
 On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.
+
+### [STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more](https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `31` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss`
+
+Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus
+
+### [STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer](https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `43` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss`
+
+Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcinoma and non-small&#8230;
+
+### [STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future](https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `42` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss`
+
+In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.
+
+### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `28` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/startups/tech-layoffs/`
+
+Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.
 
 ### [The Role of Hospital Stewardship to Improve Outcomes and Manage Costs](https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/)
 
 - Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
 - Reading value: `24` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/`
 
-<p><a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Panelists in the webinar, sponsored by Inovalon, will explore how near real-time surveillance, smart risk prioritization, and closed-loop intervention are shifting stewardship programs to proactive, technology-enabled decision-making that lets pharmacists work at the top of their license.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/">The Role of Hospital Stewardship to Improve Outcomes and Manage Costs</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Panelists in the webinar, sponsored by Inovalon, will explore how near real-time surveillance, smart risk prioritization, and closed-loop intervention are shifting stewardship programs to proactive, technology-enabled decision-making that lets pharmacists work at the top of their license.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/">The Role of Hospital Stewardship to Improve Outcomes and Manage Costs</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [TIME has named Google SynthID one of the Best Inventions of 2026.](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/)
+
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
+- Reading value: `10` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp">TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.
+
+### [Towards physiologically relevant human tissue models](https://www.nature.com/articles/s41551-026-01824-2)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+
+No summary supplied by the source.
+
+### [Why the Future of Healthcare Depends on Reinventing Primary Care Access](https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/)
+
+- Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
+- Reading value: `19` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/`
+
+<p><a href="https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>What is needed is a fundamentally different operating model for primary care, one designed around continuous engagement rather than episodic encounters.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/">Why the Future of Healthcare Depends on Reinventing Primary Care Access</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Zimmer and Think Surgical pen multi-year extension to robotic surgery deal](https://www.medtechdive.com/news/zimmer-and-think-surgical-pen-multi-year-extension-to-robotic-surgery-deal/833074/)
+
+- Source: `medtech_dive_primary` · published `2026-10-15` · freshness `fresh`
+- Reading value: `51` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/zimmer-and-think-surgical-pen-multi-year-extension-to-robotic-surgery-deal/833074/`
+
+Zimmer Biomet said Tuesday it has inked a multi-year extension to its exclusive distribution agreement with Think Surgical. The deal, which extends an agreement signed in 2024, positions Zimmer to continue distributing an exclusive version of Think’s TMINI wireless handheld miniature robotic system. Zimmer’s exclusive version of TMINI is compatible with its Persona knee system, a personalized product used in total knee replacements.
 
 ---
 
