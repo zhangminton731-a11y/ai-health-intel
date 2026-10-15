@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-15
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 452
+> Daily status: **complete_with_warning** · sources 26/26 · items 450
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 448
+## Archive · 446
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -2232,14 +2232,6 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 <p><a href="https://medcitynews.com/2026/10/ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-transparency/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/09/GettyImages-1361979460.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The FTC sent warning letters to 24 major healthcare organizations over concerns about inadequate price transparency.</p> <p>The post <a href="https://medcitynews.com/2026/10/ftc-sends-warning-letters-to-24-healthcare-organizations-over-price-transparency/">FTC Sends Warning Letters to 24 Healthcare Organizations Over Price Transparency</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [MedTech VC 2026: The Real Story vs. The Thesis](https://medcitynews.com/2026/10/medtech-vc-2026-the-real-story-vs-the-thesis/)
-
-- Source: `medcity_news` · published `2026-10-06` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/medtech-vc-2026-the-real-story-vs-the-thesis/`
-
-<p><a href="https://medcitynews.com/2026/10/medtech-vc-2026-the-real-story-vs-the-thesis/"><img width="600" height="601" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-600x601.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-600x601.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-300x301.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-150x150.jpg 150w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-768x769.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-1533x1536.jpg 1533w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-1472x1472.jpg 1472w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-1104x1104.jpg 1104w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-912x912.jpg 912w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-550x550.jpg 550w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-470x470.jpg 470w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664.jpg 1730w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>I kept hearing “medtech VC is in decline,” so I decided to dig into the data myself. I expected shrinking investor interest, inflated valuations, and a weak exit environment. Instead, I found a more nuanced story.</p> <p>The post <a href="https://medcitynews.com/2026/10/medtech-vc-2026-the-real-story-vs-the-thesis/">MedTech VC 2026: The Real Story vs. The Thesis</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Metal–organic framework nanovaccines for systemic tumour regression](https://www.nature.com/articles/s41551-026-01786-5)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
@@ -2383,22 +2375,6 @@ In this Viewpoint, we highlight the principal cybersecurity measures that should
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e92992`
 
 Background: Timely access to stroke care is critical for patient prognosis. Despite the growing use of digital health strategies in stroke management, evidence supporting seamless and timely care coordination from the emergency medical services (EMS) to the emergency department (ED) remains limited. <i>Brain Saver</i>, a newly developed mobile app, addresses this gap by facilitating real-time data sharing between EMS personnel and ED clinicians during stroke transport. Objective: This study aimed to examine the potential of the Brain Saver protocol to improve existing EMS-ED workflows in emergency stroke transport by describing its functional components, implementing a pilot intervention in a real-world setting, and exploring its preliminary impact on treatment timeliness. Methods: Data were collected in Pohang, South Korea, from December 2023 to April 2024 through collaboration with 2 fire stations, eight 119 EMS and safety centers, 3 hospitals, and SEERS Technology. Preintervention training and postintervention surveys were conducted among EMS personnel (n=80) and clinicians (n=24). In this pilot, patients with stroke (<i>ICD-10</i> [<i>International Classification of Diseases, Tenth Revision</i>] codes I60-I63) in the intervention group (n=34) were transported using ambulances equipped with the Brain Saver mobile app, while the comparison group (n=129) was transported by standard ambulances to the same hospitals during the study period. With “needle” defined as any parenteral treatment, onset-to-door time and door-to-needle time were compared by group. After exact matching on age, baseline stroke severity, stroke type, and destination hospital, intervention effects were estimated using generalized estimating equations. Results: Participants (N=163) had a mean age of 69.4 (SD 15.2) years, 50.3% (82/163) were male, and 65.6% (107/163) had ischemic stroke. No significant baseline differences, including stroke severity, were observed between groups. The median onset-to-needle time was shorter in the intervention group than in the comparison group (114 vs 204 minutes; <i>P</i>=.03). In the matched analytic sample (n=91), the intervention group showed significant reductions in onset-to-needle time (Exp(β)=0.49; <i>P</i>=.009) and door-to-needle time (Exp(β)=0.67; <i>P</i>=.04) compared with the comparison group. Conclusions: Integrating digital health into emergency stroke transport may improve care timeliness by supporting real-time prehospital notification and facilitating prompt in-hospital responses. The Brain Saver mobile app shows potential use for reducing onset-to-treatment time. Further larger-scale studies are needed to evaluate implementation fidelity and scalability.
-
-### [Europe Posted Its Strongest Quarter In Q3 In 4 Years, As Its Venture Ecosystem Expands Beyond The UK](https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `49` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/`
-
-European startup funding reached $25 billion last quarter, well above the $14 billion invested in Q3 2025 and up slightly from the $24 billion invested in Q2. Quarterly funding was up 77% year over year, per Crunchbase data.
-
-### [Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral](https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-08` · freshness `fresh`
-- Reading value: `17` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/`
-
-Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively.
 
 ### [Gender-Affirming Voice Training Delivered by a Novel Mobile App: Mixed Methods Study](https://mhealth.jmir.org/2026/1/e96102)
 
@@ -2640,22 +2616,6 @@ As the AI startup boom progresses, investors appear to be leaving few niches unf
 
 <p><a href="https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/"><img width="600" height="367" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244-600x367.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244-600x367.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244-300x183.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1451866244.jpg 756w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The pace of change in digital innovation has exposed the ever-widening gap between digital health and Pharma commercial teams. As a result, Pharma is missing out on its ability to significantly improve its commercial model, by focusing on efficiencies vs. truly reinventing.</p> <p>The post <a href="https://medcitynews.com/2026/10/what-life-sciences-commercial-teams-can-learn-from-digital-health/">What Life Sciences Commercial Teams Can Learn from Digital Health</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Why Customer Workflows Are Becoming The Moat In The AI Era](https://news.crunchbase.com/ma/customer-workflows-moat-ai-era-sagie/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `14` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/ma/customer-workflows-moat-ai-era-sagie/`
-
-AI companies can build durable moats by embedding their products in essential customer workflows, explains tech adviser Itay Sagie, who shares why founders should prioritize measurable customer dependence, while investors and acquirers should assess how integrations, trusted relationships and workflow access can strengthen retention and drive growth.
-
-### [A health-system-scale, episode-resolved multimodal atlas of cancer cachexia](https://www.nature.com/articles/s41591-026-04689-9)
-
-- Source: `nature_medicine` · published `2026-10-12` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04689-9`
-
-No summary supplied by the source.
-
 ### [App Store Indie Games Week kicks off today](https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/)
 
 - Source: `apple_newsroom` · published `2026-10-12` · freshness `fresh`
@@ -2784,14 +2744,6 @@ Philips is updating instructions for an ultrasound system after reporting eight 
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp">Discover apps and download them faster with upgrades coming to Google Play — plus, a new parked-to-drive feature and more.
 
-### [A “growth mindset of mental health” intervention increases the likelihood of initiating self-help on a mental health app: a randomized controlled trial](https://www.nature.com/articles/s41746-026-03322-w)
-
-- Source: `npj_digital_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03322-w`
-
-No summary supplied by the source.
-
 ### [Abram snags $8.3M US DoD contract to advance blood coagulation diagnostic](https://www.medicaldevice-network.com/news/abram-snags-8-us-dod-contract-to-advance-blood-coagulation-diagnostic/)
 
 - Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
@@ -2828,9 +2780,9 @@ Apple today announced the next generation of Apple TV 4K, delivering its most im
 
 - Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=50067325`
+- Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50067325`
 
-Hacker News community signal; score 54.
+Hacker News community signal; score 93.
 
 ### [Autologous and broadly neutralizing antibodies drive ART-free HIV control](https://www.nature.com/articles/s41591-026-04714-x)
 
@@ -2944,14 +2896,6 @@ Helen Branswell, STAT's infectious disease reporter who earned the respect of ex
 
 Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.
 
-### [Human–artificial intelligence collaboration for comanaging epilepsy in real time](https://www.nature.com/articles/s41591-026-04680-4)
-
-- Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04680-4`
-
-No summary supplied by the source.
-
 ### [Interpretable AI model reveals spatial codes of cell recruitment in tissues](https://www.nature.com/articles/s41551-026-01804-6)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
@@ -3056,14 +3000,6 @@ No summary supplied by the source.
 
 <p><a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-103032608.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Roche gains global rights to a Rona Therapeutics RNA interference drug designed to target ALK7, a genetically validated target for obesity and other metabolic indications. The growing field of companies pursuing ALK7 includes GSK and Arrowhead Pharmaceuticals.</p> <p>The post <a href="https://medcitynews.com/2026/10/roche-rona-therapeutics-obesity-alk7-rna-interference-rnai-sirna-rhhby/">Roche Puts Up $100M to Pursue Promising But Competitive New Target in Obesity</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [STAT+: Animosity in North Carolina, and MA shooting stars](https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `27` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss`
-
-In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more.
-
 ### [STAT+: BlackRock to buy majority stake in Humana’s CenterWell clinics for $2.8 billion](https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
@@ -3072,38 +3008,6 @@ In this edition of Health Care Inc., we examine the controversy around the healt
 
 Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson &#038; Stowe. Hello, BlackRock.
 
-### [STAT+: Doctors are giving generously to doctors running for office](https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `26` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss`
-
-Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office.
-
-### [STAT+: FTC demands Martin Shkreli divest his pharma stocks](https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `52` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss`
-
-The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry
-
-### [STAT+: Many patient, consumer reps on FDA advisory panels have ties to groups funded by pharma, analysis finds](https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `58` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/many-patient-and-consumer-reps-on-fda-advisory-committees-ties-to-groups-funded-by-pharma/?utm_campaign=rss`
-
-Nearly 40% of FDA advisory committee meetings over a 20-year period included either a patient or consumer rep with active ties to an advocacy group funded by pharma companies.
-
-### [STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more](https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `32` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss`
-
-Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug
-
 ### [Steris inks $2.1B Xodus buyout to expand consumables portfolio](https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/)
 
 - Source: `medtech_dive_primary` · published `2026-10-13` · freshness `fresh`
@@ -3111,14 +3015,6 @@ Patient advocates and some experts are expressing growing alarm over the perceiv
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/`
 
 Steris said Monday it struck a $2.1 billion deal to acquire Xodus Medical for its portfolio of consumable healthcare products. Xodus’ portfolio includes Pink Pad patient-positioning products and the See Sharp laparoscopic cleaning and defogging device. The company expects annual sales to hit $245 million this year. Buying Xodus “makes sense” for Steris because it expands the company’s healthcare consumables offering with high-growth, high-margin products, Needham analysts said in a note to investors.
-
-### [Steris outlays $2.1bn to acquire Xodus Medical](https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `56` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/`
-
-<p>Steris' Xodus takeover will bolster the former's portfolio of surgical safety devices, adding devices like the Pink Pad to its roster.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/steris-outlays-2-1bn-to-acquire-xodus-medical/">Steris outlays $2.1bn to acquire Xodus Medical </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Support-Seeking After Market Withdrawal of a Purpose-Built AI Well-Being Tool (Ash): Cross-Sectional Survey](https://medinform.jmir.org/2026/1/e96515)
 
@@ -3135,14 +3031,6 @@ Steris said Monday it struck a $2.1 billion deal to acquire Xodus Medical for it
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e103288`
 
 Background: Adolescents living with perinatally acquired HIV (PHIV) remain at risk of neurocognitive difficulties, yet access to valid neurocognitive tests is limited in sub-Saharan Africa (SSA), where most of this population resides. Tests that can be administered by nonspecialist personnel are culturally and linguistically appropriate for SSA’s diverse populations and are brief enough for routine use are needed to expand access, but few such tools exist. Objective: We adapted , a brief tablet-based neurocognitive test battery, into Luganda and evaluated its validity and acceptability for use among Ugandan adolescents with PHIV. Methods: In this cross-sectional validation study, 100 Ugandan adolescents aged 11 to 20 years (50 with PHIV; 50 HIV-negative controls) completed the Luganda- or English-language battery and a commonly used traditional test battery. Participants were recruited from an existing longitudinal cardiovascular cohort at the Joint Clinical Research Centre in Kampala, Uganda. We examined convergent validity with correlations between the 2 batteries’ individual and global -scores, known-groups validity with unadjusted and age-adjusted group comparisons, criterion validity by examining classification agreement between the 2 batteries quantified with Cohen κ, and acceptability through self-reported technology use and ease of use. Results: and the traditional battery global -scores were strongly correlated (=0.75; <.001). Correlations between tests assessing similar domains were generally small to moderate, and were strongest for processing speed, attention, and working memory. Adolescents with PHIV scored significantly lower than controls on global scores for both (=.008) and the traditional battery (=.003), even after adjusting for age. Agreement between batteries in classifying participants ≤1 SD (κ=0.56) and ≤2 SD (κ=0.66) below the global -score mean was moderate, with both batteries classifying more adolescents with PHIV than controls below these thresholds. Although fewer than half of participants (42/97, 43%) had previously used a tablet, most rated as easy to use, and prior tablet experience was not independently associated with performance after age adjustment. Conclusions: The Luganda-adapted demonstrated convergent, known-groups, and criterion validity in Ugandan adolescents with PHIV. By delivering automated administration, automated scoring, and standardized multimedia instructions in the local language on a portable tablet, addresses several persistent barriers to neurocognitive assessment in low-resource settings, including shortages of specialist personnel, the time burden of traditional batteries, and the scarcity of culturally and linguistically appropriate tools. The battery was found to be highly acceptable among adolescents with little or no prior tablet experience. These findings add to a growing body of evidence supporting tablet-based assessment as a practical and scalable mobile health approach to expanding access to neurocognitive testing. Future research should evaluate test-retest reliability, sensitivity to change over time, normative benchmarks, and implementation within real-world clinical workflows.
-
-### [The FDA’s GenAI proposal: evolving regulation for an evolved medtech era](https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `51` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/`
-
-<p>The FDA's discussion paper around a proposed approach to GenAI-based medech regulation is open to stakeholder feedback until 19 October 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/">The FDA’s GenAI proposal: evolving regulation for an evolved medtech era</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Tremfya rescues J&J’s immunology sales to fuel strong Q3](https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/)
 
@@ -3236,7 +3124,7 @@ White House planned shift of research funding from universities to industry risk
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03220-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03220-1`
 
 No summary supplied by the source.
 
@@ -3268,7 +3156,7 @@ Bünyamin Aydın brought together Turkish heritage, rock influences, and futuris
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03291-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03291-0`
 
 No summary supplied by the source.
 
@@ -3284,7 +3172,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03152-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03152-w`
 
 No summary supplied by the source.
 
@@ -3332,7 +3220,7 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03281-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03281-2`
 
 No summary supplied by the source.
 
@@ -3343,14 +3231,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss`
 
 Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.
-
-### [From compliance to competence: a multi-level model for AI governance in undergraduate medical education](https://www.nature.com/articles/s41746-026-03390-y)
-
-- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03390-y`
-
-No summary supplied by the source.
 
 ### [From pandemic response to a global scientific network via Tissue Talks](https://www.nature.com/articles/s41551-026-01816-2)
 
@@ -3364,7 +3244,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03296-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03296-9`
 
 No summary supplied by the source.
 
@@ -3380,17 +3260,17 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `47` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
 
-<p><a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg" class="attachment-large size-large wp-post-image" alt="Jet trail creating dollar sign in blue sky with clouds startup capital" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Healthleap, a clinical AI platform that works within the EHR to screen hospitalized patients for conditions that might otherwise go undiagnosed, is supporting hospitals in finding at-risk patients sooner.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/">Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg" class="attachment-large size-large wp-post-image" alt="Jet trail creating dollar sign in blue sky with clouds startup capital" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Healthleap, a clinical AI platform that works within the EHR to screen hospitalized patients for conditions that might otherwise go undiagnosed, is supporting hospitals in finding at-risk patients sooner.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/">Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [HealthTap Introduces Virtual Primary Care Program for DME Suppliers](https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/)
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `28` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
 
-<p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [How consumer tech company Whoop is building for Medicare patients](https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss)
 
@@ -3408,14 +3288,6 @@ Whoop's chief medical officer, said the company's work with Medicare is an oppor
 
 Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI’s development speed to pursue bigger ambitions without shrinking their vision.
 
-### [I let an AI run my startup for a week](https://daily.tinyprojects.dev/221)
-
-- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://daily.tinyprojects.dev/221`
-
-Hacker News community signal; score 61.
-
 ### [Informed Consent in the AI Age: Why and How Documentation Must Change](https://www.jmir.org/article/view/jmir_v28i1e112631)
 
 - Source: `jmir` · published `2026-10-14` · freshness `fresh`
@@ -3428,9 +3300,9 @@ Hacker News community signal; score 61.
 
 - Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.liquid.ai/blog/lfm2-5-24b-a2b`
+- Event: `updated` · identity: `url:https://www.liquid.ai/blog/lfm2-5-24b-a2b`
 
-Hacker News community signal; score 146.
+Hacker News community signal; score 245.
 
 ### [Making AI work in healthcare](https://www.nature.com/articles/s41591-026-04726-7)
 
@@ -3508,7 +3380,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03265-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03265-2`
 
 No summary supplied by the source.
 
@@ -3616,21 +3488,133 @@ No summary supplied by the source.
 
 <p><a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg" class="attachment-large size-large wp-post-image" alt="A digitally generated image featuring an old-style computer monitor displaying the letters “AI” with neon business crowd. The scene blends retro computing with modern business aesthetics, symbolizing the journey of artificial intelligence from its early beginnings to its growing role in today’s corporate world. Ideal for illustrating themes of digital evolution, business transformation, AI adoption, and technology-driven innovation." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-768x432.jpg 768w" sizes="auto, (max-width: 788px) 100vw, 788px" /></a></p><p>Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/">Why Agentic AI Works in Hospitals When You Strip It Down</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Why do LLM pelicans look like this?](https://arcfu.com/post/the-emperor-pelican-has-no-clothes/)
+### [<b>Hidden race disparities in cancer treatment toxicity</b>](https://www.nature.com/articles/d41591-026-00050-2)
 
-- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://arcfu.com/post/the-emperor-pelican-has-no-clothes/`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
 
-Hacker News community signal; score 158.
+No summary supplied by the source.
+
+### [<b>Optogenetic therapy shows early promise for treating retinitis pigmentosa</b>](https://www.nature.com/articles/d41591-026-00051-1)
+
+- Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
+
+No summary supplied by the source.
+
+### [Centinel Spine gets FDA nod for two-level use of prodisc C Nova](https://www.medicaldevice-network.com/news/centinel-spine-fda-two-level-use-prodisc-c-nova/)
+
+- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
+- Reading value: `46` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/centinel-spine-fda-two-level-use-prodisc-c-nova/`
+
+<p>Centinel Spine has received the US FDA approval for two-level use of its prodisc C Nova cervical total disc replacement system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/centinel-spine-fda-two-level-use-prodisc-c-nova/">Centinel Spine gets FDA nod for two-level use of prodisc C Nova</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Characterizing time-of-day physical activity patterns across cognitive trajectories in older adults: a longitudinal cohort study](https://www.nature.com/articles/s41746-026-03370-2)
+
+- Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03370-2`
+
+No summary supplied by the source.
 
 ### [Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’](https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `42` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss`
 
 The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”
+
+### [Cybersecurity Investors Put $6.8B To Work In The Third Quarter, Mostly In Larger Rounds](https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `24` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/cybersecurity/q3-2026-large-venture-investments-ai-defense-startups/`
+
+For the third quarter of 2026, global cybersecurity- and privacy-focused startups pulled in a total of $6.8 billion, per Crunchbase data. That’s up about 50% from the prior quarter and tied for the highest quarterly tally in years.
+
+### [Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions](https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `27` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/`
+
+New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel.
+
+### [FDA approves Stryker’s Sonopet 3 surgical platform](https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/)
+
+- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
+- Reading value: `53` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/`
+
+<p>The US FDA has granted 510(k) clearance to Stryker for Sonopet 3, the medical technology company's latest ultrasonic platform for bone and soft tissue removal.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/">FDA approves Stryker’s Sonopet 3 surgical platform</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Forty percent of high school students report binge eating in new CDC survey](https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `52` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss`
+
+About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.
+
+### [How To Build Your Team With Autonomous Humans, Not Just Autonomous Systems](https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `13` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/`
+
+As AI enables smaller, faster teams, companies should hire curious, adaptable people who challenge established practices and can be trusted to make independent decisions, according to guest author Eric Francia, who writes that giving employees real responsibility, encouraging questions and investing in continuous learning helps teams innovate, stay engaged and retain talent.
+
+### [Implementation and effectiveness of a smartphone app targeted at improving physicians adherence to antimicrobial treatment guidelines](https://www.nature.com/articles/s41746-026-03401-y)
+
+- Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03401-y`
+
+No summary supplied by the source.
+
+### [Kenya reports second Ebola case](https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `26` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss`
+
+Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;
+
+### [Opinion: My daughter’s death changed how I understood the nursing shortage](https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `25` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss`
+
+Health systems invest in training, but lose early-career nurses within a few years.
+
+### [Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening](https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `42` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss`
+
+Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.
+
+### [STAT+: On Wall Street, there’s trouble stirring for biotech](https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `34` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss`
+
+On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.
+
+### [The Role of Hospital Stewardship to Improve Outcomes and Manage Costs](https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/)
+
+- Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
+- Reading value: `24` · status: `needs_review`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/`
+
+<p><a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Panelists in the webinar, sponsored by Inovalon, will explore how near real-time surveillance, smart risk prioritization, and closed-loop intervention are shifting stewardship programs to proactive, technology-enabled decision-making that lets pharmacists work at the top of their license.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/">The Role of Hospital Stewardship to Improve Outcomes and Manage Costs</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ---
 
