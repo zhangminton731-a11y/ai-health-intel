@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-15
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 450
+> Daily status: **complete_with_warning** · sources 26/26 · items 452
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Conversational AI systems are increasingly being deployed in health 
 
 No items.
 
-## Archive · 446
+## Archive · 448
 
 ### [Study suggests 40Hz sensory stimulation may benefit some Alzheimer’s patients for years](https://news.mit.edu/2025/study-suggests-40hz-sensory-stimulation-may-benefit-some-alzheimers-patients-1114)
 
@@ -2244,7 +2244,7 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-06` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01786-5`
 
 No summary supplied by the source.
 
@@ -2268,7 +2268,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-07` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01814-4`
 
 No summary supplied by the source.
 
@@ -2460,7 +2460,7 @@ Notice NOT-MH-26-090 from the NIH Guide for Grants and Contracts
 
 - Source: `nature_biomedical_engineering` · published `2026-10-09` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01801-9`
 
 No summary supplied by the source.
 
@@ -2652,7 +2652,7 @@ AI companies can build durable moats by embedding their products in essential cu
 
 - Source: `nature_medicine` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04689-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04689-9`
 
 No summary supplied by the source.
 
@@ -2700,7 +2700,7 @@ Ascensia Diabetes Care led a $36 million Series B round in London-based glucose 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-12` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01827-z`
 
 No summary supplied by the source.
 
@@ -2824,11 +2824,19 @@ Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, an
 
 Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.
 
+### [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
+
+- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=50067325`
+
+Hacker News community signal; score 54.
+
 ### [Autologous and broadly neutralizing antibodies drive ART-free HIV control](https://www.nature.com/articles/s41591-026-04714-x)
 
 - Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04714-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04714-x`
 
 No summary supplied by the source.
 
@@ -2860,7 +2868,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04720-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04720-z`
 
 No summary supplied by the source.
 
@@ -2916,7 +2924,7 @@ In a recent interview with Crunchbase News, Brendan Wallace, founder, CEO and ch
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
 - Reading value: `56` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/`
 
 <p><a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/"><img width="600" height="356" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-600x356.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/05/GettyImages-670645300.jpg 767w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Happy Health has received FDA clearance for its wearable ring, which continuously measures blood pressure without a cuff or external calibration.</p> <p>The post <a href="https://medcitynews.com/2026/10/happy-healths-cuffless-bp-device-wins-fda-clearance/">Happy Health’s Cuffless BP Device Wins FDA Clearance</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2940,7 +2948,7 @@ Machine-learning networks can learn without detailed instructions from a designe
 
 - Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04680-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04680-4`
 
 No summary supplied by the source.
 
@@ -2948,7 +2956,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
 
 No summary supplied by the source.
 
@@ -3036,7 +3044,7 @@ Schroeder and colleagues contribute to the understanding of person-centered abor
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
 
 No summary supplied by the source.
 
@@ -3095,14 +3103,6 @@ Nearly 40% of FDA advisory committee meetings over a 20-year period included eit
 - Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss`
 
 Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug
-
-### [STAT+: Takeaways from an evaluation of Google’s diagnostic chatbot, AMIE](https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-13` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss`
-
-In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.
 
 ### [Steris inks $2.1B Xodus buyout to expand consumables portfolio](https://www.medtechdive.com/news/steris-inks-21b-xodus-buyout-to-expand-consumables-portfolio/832822/)
 
@@ -3228,7 +3228,7 @@ Agilent said Tuesday that it has agreed to buy digital pathology software provid
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `45` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss`
 
 White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say
 
@@ -3276,7 +3276,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
 
 No summary supplied by the source.
 
@@ -3340,7 +3340,7 @@ No summary supplied by the source.
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss`
 
 Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore.
 
@@ -3356,7 +3356,7 @@ No summary supplied by the source.
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 No summary supplied by the source.
 
@@ -3380,7 +3380,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `47` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/`
 
 <p><a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg" class="attachment-large size-large wp-post-image" alt="Jet trail creating dollar sign in blue sky with clouds startup capital" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/Startup-capital-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Healthleap, a clinical AI platform that works within the EHR to screen hospitalized patients for conditions that might otherwise go undiagnosed, is supporting hospitals in finding at-risk patients sooner.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/">Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3388,7 +3388,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `28` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
 
 <p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3396,7 +3396,7 @@ No summary supplied by the source.
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `32` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss`
 
 Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.
 
@@ -3412,9 +3412,9 @@ Complex, interconnected problems like compliance require a comprehensive product
 
 - Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://daily.tinyprojects.dev/221`
+- Event: `updated` · identity: `url:https://daily.tinyprojects.dev/221`
 
-Hacker News community signal; score 56.
+Hacker News community signal; score 61.
 
 ### [Informed Consent in the AI Age: Why and How Documentation Must Change](https://www.jmir.org/article/view/jmir_v28i1e112631)
 
@@ -3424,11 +3424,19 @@ Hacker News community signal; score 56.
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/47cf6656f3f9683f19f3b88a7a305824" />
 
+### [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+
+- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.liquid.ai/blog/lfm2-5-24b-a2b`
+
+Hacker News community signal; score 146.
+
 ### [Making AI work in healthcare](https://www.nature.com/articles/s41591-026-04726-7)
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04726-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04726-7`
 
 No summary supplied by the source.
 
@@ -3484,7 +3492,7 @@ A wave of clinical trials have begun to test the ability of GLP-1 weight loss dr
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04717-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04717-8`
 
 No summary supplied by the source.
 
@@ -3524,7 +3532,7 @@ Siemens Healthineers said Monday that it will no longer sell general imaging ult
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
 
 No summary supplied by the source.
 
@@ -3563,7 +3571,7 @@ E.U. antitrust regulators accepted concessions from Sanofi to settle a probe int
 ### [STAT+: The startup chasing ‘general biological intelligence’](https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Reading value: `29` · status: `scored`
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/the-startup-chasing-general-biological-intelligence-ai-prognosis/?utm_campaign=rss`
 
 In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of Radical Numerics, a startup pursuing "general biological intelligence.'
@@ -3572,7 +3580,7 @@ In this edition of AI Prognosis, Brittany Trang talks to Eric Nguyen, the CEO of
 
 - Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss`
 
 The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.
 
@@ -3580,7 +3588,7 @@ The Trump administration is delaying by 90 days a federal rule that could preven
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04671-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04671-5`
 
 No summary supplied by the source.
 
@@ -3588,7 +3596,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/`
 
 <p><a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/"><img width="600" height="392" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326.jpg 731w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Ultragenyx Pharmaceutical sold two priority review vouchers, each from an FDA approval of a gene therapy. Both therapies came from business deals and proceeds from the voucher sales put Ultragenyx in a better financial position to pursue yet another deal for a rare disease asset. </p> <p>The post <a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/">Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3604,7 +3612,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `25` · status: `needs_review`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/`
 
 <p><a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg" class="attachment-large size-large wp-post-image" alt="A digitally generated image featuring an old-style computer monitor displaying the letters “AI” with neon business crowd. The scene blends retro computing with modern business aesthetics, symbolizing the journey of artificial intelligence from its early beginnings to its growing role in today’s corporate world. Ideal for illustrating themes of digital evolution, business transformation, AI adoption, and technology-driven innovation." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-768x432.jpg 768w" sizes="auto, (max-width: 788px) 100vw, 788px" /></a></p><p>Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/">Why Agentic AI Works in Hospitals When You Strip It Down</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3614,7 +3622,15 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://arcfu.com/post/the-emperor-pelican-has-no-clothes/`
 
-Hacker News community signal; score 150.
+Hacker News community signal; score 158.
+
+### [Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’](https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
+- Reading value: `42` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss`
+
+The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”
 
 ---
 
