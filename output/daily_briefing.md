@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-16
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 444
+> Daily status: **complete_with_warning** · sources 25/26 · items 442
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 3
+## Scan · 4
 
 ### [2027 Medicare Advantage and Part D Star Ratings](https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings)
 
@@ -30,15 +30,23 @@ Stryker said Monday it has partnered with soft tissue robotics firm CMR Surgical
 
 - Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
 - Reading value: `75` · status: `scored`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e81472/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e81472/`
 
 Background: AI has increasingly been used to generate synthetic images to overcome the scarcity of large, regulatory-compliant medical image datasets. However, their quality and actual utility for algorithm development across deep learning architectures, medical settings, and image types have been poorly assessed. Objective: This study aimed to review the use of synthetic images for algorithm development and to assess their quality and effects on downstream algorithms trained on these images, according to AI architecture, medical setting, and image type. Methods: The authors conducted a systematic review of studies published between January 2020 and September 2025. PubMed, Scopus, IEEE Xplore, and Embase were searched for peer-reviewed studies evaluating synthetic images generated from human medical imaging data. Data were extracted for imaging modalities, generative architectures, image-quality assessment methods, downstream model performance, explainability approaches, reproducibility practices, and risk of bias. Given substantial heterogeneity and incomplete statistical reporting, findings were synthesized descriptively. Results: A total of 160 studies were included. Generative adversarial network–based architectures dominated image generation (119 studies, 74.4%), although hybrid and diffusion-based approaches became increasingly represented in recent years. Image-quality evaluation was highly heterogeneous: 50 studies included human-reader evidence, and 101 reported an automated image-quality assessment. Synthetic-only training generally underperformed real-data training, including a median Dice similarity coefficient change of –10.2% for segmentation. Adding synthetic data to real training sets was associated with median improvements in classification precision (+7.8%), recall (+5.3%), -score (+5.5%), accuracy (+4.3%), and area under the curve (+4.0%), while the median Dice coefficient improvement was +1.2%. Explainability evidence was reported in 68 (42.5%) studies and was rarely validated against expert annotations. Reproducibility reporting was inconsistent, and only 38% (60/160) of studies were judged to have low overall risk of bias. Conclusions: Unlike previous reviews restricted to particular diseases, imaging modalities, or generative architectures, this review provides a cross-domain quantitative synthesis of both synthetic-image quality assessment and downstream model performance. Synthetic images currently appear more valuable as a complement to real training data than as a replacement, with modest improvements in classification performance, smaller gains in segmentation, and generally poorer performance with synthetic-only training. For researchers, developers, and regulators, these findings highlight the need for standardized multimethod image-quality evaluation, complete reporting, and rigorous external validation before synthetic-image pipelines are translated into clinical AI applications. Trial Registration: PROSPERO CRD42023369125; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/212ba6819de06fc3350268d822897f4b" />
+
+### [Evaluating Large Language Model–Derived Outputs as Psychological Measures: A Five-Domain Psychometric Framework With Application to Daily Stress](https://www.jmir.org/article/view/jmir_v28i1e102768)
+
+- Source: `jmir` · published `2026-10-15` · freshness `fresh`
+- Reading value: `74` · status: `scored`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102768`
+
+Background: Large language models (LLMs) are increasingly used to quantify psychological constructs from natural language, yet their outputs are typically evaluated only as predictions of an external label. When that label is itself imperfect, optimizing prediction conflates label agreement with construct measurement. No study has applied a multidomain measurement-oriented evaluation to LLM-derived psychological outputs. Objective: We applied 5 psychometric evaluation domains to LLM-derived outputs to test whether measurement-oriented evaluation surfaces properties that prediction-oriented evaluation does not: extraction repeatability, convergent validity with a lexicon-based tool, ecological concurrent validity decomposed into within-person and between-person components, incremental value in a 4-arm comparison with that tool, and method-blinded expert evaluation with structured error attribution. Methods: Thirteen linguistic features were extracted by GPT-5.2 (OpenAI) from 3556 person-days of daily voice narratives collected from 279 call center workers over 15 days via ecological momentary assessment. Features were evaluated across the 5 domains, with Linguistic Inquiry and Word Count, version 22, as the lexicon-based comparator. Multimodel robustness was assessed by re-extracting all features with Google Gemini 2.5 Flash. Results: Features showed high repeatability (mean intraclass correlation coefficient=0.987), construct-dependent convergent validity (Spearman ρ=0.08 to 0.79), and within-person tracking of same-day stress (negative emotion β=0.68). In a 4-arm comparison (baseline, baseline plus lexicon features, baseline plus LLM-derived features, and baseline plus both), LLM features increased explained variance in daily stress from 13.2% to 30.4%, versus 16.9% for the lexicon-based comparator. Among transcripts sampled for maximal method discordance, experts preferred LLM-derived profiles in 83.7% (261/312) of blinded decisions. Error analysis showed that 53% (35/66) of false-positive attributions reflected reference-label limitations, not model failures. Re-extraction with Google Gemini 2.5 Flash replicated key properties (person-level =0.94). Three phenomena were visible under measurement-oriented evaluation that prediction-oriented evaluation does not typically examine: divergence between within-person and between-person effects, reference-label limitations as a dominant error source, and moderation of feature meaning by individual differences. Conclusions: Prediction metrics alone are insufficient for evaluating LLM-derived psychological measures. Measurement-oriented evaluation revealed properties, including level-dependent effects and asymmetric error attribution, that have direct implications for how LLM-based assessment studies interpret their results. For clinical use, the measure is a complement to existing screening instruments for longitudinal monitoring, not a stand-alone diagnostic. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9555de0d062011e56427d1305cd21864" />
 
 ## Hold · 0
 
 No items.
 
-## Archive · 441
+## Archive · 438
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2464,14 +2472,6 @@ Apple today announced HomePod mini 2, featuring Siri AI, gorgeous new colors, an
 
 Apple today announced the next generation of Apple TV 4K, delivering its most immersive home theater experience yet.
 
-### [Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)
-
-- Source: `hn_ai_health_signals` · published `2026-10-13` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://news.ycombinator.com/item?id=50067325`
-
-Hacker News community signal; score 117.
-
 ### [Autologous and broadly neutralizing antibodies drive ART-free HIV control](https://www.nature.com/articles/s41591-026-04714-x)
 
 - Source: `nature_medicine` · published `2026-10-13` · freshness `fresh`
@@ -2836,7 +2836,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
 - Reading value: `28` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
 
 <p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2855,14 +2855,6 @@ Whoop's chief medical officer, said the company's work with Medicare is an oppor
 - Event: `seen` · identity: `url:https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/`
 
 Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI’s development speed to pursue bigger ambitions without shrinking their vision.
-
-### [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
-
-- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://www.liquid.ai/blog/lfm2-5-24b-a2b`
-
-Hacker News community signal; score 282.
 
 ### [Making AI work in healthcare](https://www.nature.com/articles/s41591-026-04726-7)
 
@@ -3020,7 +3012,7 @@ A schoolteacher diagnosed with melanoma provides an inside look at what it was l
 
 - Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
 - Reading value: `49` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/`
 
 <p><a href="https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/12/cancer-cells.jpg" class="attachment-large size-large wp-post-image" alt="Cancer cell view - 3d rendered image, enhanced scanning electron micrograph (SEM) of cancer cell. Visual of overall shape of the cell&#039;s surface at a very high magnification. Medical research concept." style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/12/cancer-cells.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2025/12/cancer-cells-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/12/cancer-cells-768x432.jpg 768w" sizes="(max-width: 788px) 100vw, 788px" /></a></p><p>Iambic Therapeutics, an AI-enabled biotech company, will apply the IPO proceeds toward clinical development of its pipeline of internally discovered and wholly owned cancer drugs. Iambic also has R&amp;D alliances with companies such as Bayer and AbbVie. </p> <p>The post <a href="https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/">AI Biotech Iambic Gets $150M in IPO Cash for ‘Molecular Superintelligence’ Drug R&amp;D</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3028,7 +3020,7 @@ A schoolteacher diagnosed with melanoma provides an inside look at what it was l
 
 - Source: `mit_health` · published `2026-10-15` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `new` · identity: `url:https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015`
+- Event: `seen` · identity: `url:https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015`
 
 A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.
 
@@ -3068,7 +3060,7 @@ No summary supplied by the source.
 
 - Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e112028/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e112028/`
 
 N/A <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d937230a61beb5663e585f7b7275624c" />
 
@@ -3076,7 +3068,7 @@ N/A <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d937230a
 
 - Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
 - Reading value: `25` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp">In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.
 
@@ -3084,7 +3076,7 @@ N/A <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d937230a
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113543`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113543`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2f480133861a0d60b8969c53f95e8ff2" />
 
@@ -3108,7 +3100,7 @@ No summary supplied by the source.
 
 - Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
 - Reading value: `14` · status: `scored`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp">Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.
 
@@ -3132,7 +3124,7 @@ The CEO of Compass Pathways said the company, whose psychedelic therapy is set f
 
 - Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
 - Reading value: `49` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e78080`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e78080`
 
 Background: Pedigree mapping serves as the first step in genetic counseling. Traditional methods relying on manual pedigree drawing and information collection are inefficient and prone to errors. Objective: This study aimed to design an intelligent pedigree mapping system based on a specialized model, intended to automate family history collection and standardized pedigree map generation through conversational interaction, thereby enhancing the clinical efficiency of genetic counseling. Methods: This study adopted a participatory design and iterative development approach. We formed an interdisciplinary team comprising gynecologic oncologists, genetic counselors, AI engineers, and patient representatives. The system was built around a proprietary, specialized large language model for gynecologic oncology, featuring a microservices architecture that included pedigree data collection. Through 4 iterative cycles, we integrated specialized knowledge bases using retrieval-augmented generation technology and applied a novel graph-based kinship inference and validation module. The system’s performance was comprehensively evaluated based on the accuracy of pedigree map generation and user feedback on usability. Results: We significantly improved system performance by optimizing dialogue strategies, expanding the knowledge base, and applying self-developed algorithms to improve data extraction accuracy. The initial database of the system defined 100 core information nodes and matched approximately 800 user expression examples, while the final pilot version of the database was expanded to 245 core information nodes and 2256 user expression examples. Although the AI function was limited in the early stage, the final version of the system demonstrated outstanding accuracy in generating genealogy nodes and relationships. Test users generally gave positive reviews of the system’s innovation, ease of use, and intuitiveness of information presentation, believing it to have great potential in clinical practice. Conclusions: The developed system is an accurate, efficient auxiliary tool, and pilot validation showed promising preliminary performance. After pilot clinical validation, it holds promise for integration into routine clinical workflows to optimize genetic counseling services.
 
@@ -3140,7 +3132,7 @@ Background: Pedigree mapping serves as the first step in genetic counseling. Tra
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e110409`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e110409`
 
 No summary supplied by the source.
 
@@ -3148,7 +3140,7 @@ No summary supplied by the source.
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113388`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113388`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e99b0c908a5c6ce98d2f1b4ca2660492" />
 
@@ -3172,7 +3164,7 @@ For the third quarter of 2026, global cybersecurity- and privacy-focused startup
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `54` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90301`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90301`
 
 Background: The COVID-19 pandemic necessitated innovative approaches to health communication, particularly for non–English-speaking communities. Vietnamese Americans, who report lower rates of English proficiency, faced unique challenges accessing facts and subsequent “infodemic” of rapidly spreading information. Objective: This study aims to evaluate the feasibility and engagement patterns of a community-engaged bilingual digital campaign delivered through Google’s Display &amp; Video 360 (DV360) platform to Vietnamese Americans in Texas, comparing performance across multiple advertising formats. Methods: We implemented a 2-phase digital campaign on (DV360): static display advertisements (Phase 1: February 15-March 31, 2022) and audiovisual content (Phase 2: May 26-June 30, 2022). With community-based organizations (CBOs), 6 static displays, 2 videos, and 2 audio advertisements were developed in English and Vietnamese using focus group review and back-translation. Advertisement placements were constrained to a Texas Vietnamese audience segment. Total budget was US $9,472.54. Performance was evaluated using impressions, click-through rate (CTR), cost metrics, cost per click (CPC), cost per thousand impressions (CPM), and cost per view (CPV), with Wilson 95% CI, and two-proportion z-tests for substantive comparisons. Results: The campaign generated 4,974,357 impressions, reaching approximately 1.4 million unique users in Phase 1, and 105,000 in Phase 2. Vietnamese-language display advertisements achieved a higher CTR than English-language advertisements (0.105% vs 0.046%; ²=480.6; &lt;.001; risk ratio 2.29). Mobile placements outperformed desktop within each language (Vietnamese mobile 0.156% vs desktop 0.045%; English mobile 0.064% vs desktop 0.019%). Audio CTR was 1.911% in May but fell to 0.119% in June on small denominators (≈1800 impressions; 5 clicks). Impressions concentrated in expected Texas metropolitan areas (Houston 24.4%, Dallas 19.9%, Austin 7.9%). Phase 2 Google Analytics Behavior Flow showed 55.2% of language-distinguished landings were on Vietnamese pages (²=6.7; =.01). Cost efficiency was favorable (CPC US $2.35 and CPM US $1.45). Conclusions: A community-engaged bilingual digital campaign produced measurable in-language engagement among Vietnamese American audiences in Texas. Like other COVID-19 outreach campaigns directed at historically marginalized groups, researchers worked closely with CBOs, paying particular attention to messaging, language translation, and graphic representation in display, audio, and video advertisements to reach the population of interest. What differed from other campaigns was the use of DV360 allowing dissemination across multiple platforms and devices. Results are limited to engagement because direct impact on COVID-19 immunization or participation in clinical trials was not measured. Future directions can explore more clinically significant outcomes, in-language radio advertising, and harnessing AI to develop and monitor public health campaigns. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/02fb9907ad7ea541a22be191e314f7a9" />
 
@@ -3183,14 +3175,6 @@ Background: The COVID-19 pandemic necessitated innovative approaches to health c
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
 
 No summary supplied by the source.
-
-### [Evaluating Large Language Model–Derived Outputs as Psychological Measures: A Five-Domain Psychometric Framework With Application to Daily Stress](https://www.jmir.org/article/view/jmir_v28i1e102768)
-
-- Source: `jmir` · published `2026-10-15` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102768`
-
-Background: Large language models (LLMs) are increasingly used to quantify psychological constructs from natural language, yet their outputs are typically evaluated only as predictions of an external label. When that label is itself imperfect, optimizing prediction conflates label agreement with construct measurement. No study has applied a multidomain measurement-oriented evaluation to LLM-derived psychological outputs. Objective: We applied 5 psychometric evaluation domains to LLM-derived outputs to test whether measurement-oriented evaluation surfaces properties that prediction-oriented evaluation does not: extraction repeatability, convergent validity with a lexicon-based tool, ecological concurrent validity decomposed into within-person and between-person components, incremental value in a 4-arm comparison with that tool, and method-blinded expert evaluation with structured error attribution. Methods: Thirteen linguistic features were extracted by GPT-5.2 (OpenAI) from 3556 person-days of daily voice narratives collected from 279 call center workers over 15 days via ecological momentary assessment. Features were evaluated across the 5 domains, with Linguistic Inquiry and Word Count, version 22, as the lexicon-based comparator. Multimodel robustness was assessed by re-extracting all features with Google Gemini 2.5 Flash. Results: Features showed high repeatability (mean intraclass correlation coefficient=0.987), construct-dependent convergent validity (Spearman ρ=0.08 to 0.79), and within-person tracking of same-day stress (negative emotion β=0.68). In a 4-arm comparison (baseline, baseline plus lexicon features, baseline plus LLM-derived features, and baseline plus both), LLM features increased explained variance in daily stress from 13.2% to 30.4%, versus 16.9% for the lexicon-based comparator. Among transcripts sampled for maximal method discordance, experts preferred LLM-derived profiles in 83.7% (261/312) of blinded decisions. Error analysis showed that 53% (35/66) of false-positive attributions reflected reference-label limitations, not model failures. Re-extraction with Google Gemini 2.5 Flash replicated key properties (person-level =0.94). Three phenomena were visible under measurement-oriented evaluation that prediction-oriented evaluation does not typically examine: divergence between within-person and between-person effects, reference-label limitations as a dominant error source, and moderation of feature meaning by individual differences. Conclusions: Prediction metrics alone are insufficient for evaluating LLM-derived psychological measures. Measurement-oriented evaluation revealed properties, including level-dependent effects and asymmetric error attribution, that have direct implications for how LLM-based assessment studies interpret their results. For clinical use, the measure is a complement to existing screening instruments for longitudinal monitoring, not a stand-alone diagnostic. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9555de0d062011e56427d1305cd21864" />
 
 ### [Exclusive: Chariot Raises $10M To Help Consumers Fight Back Against Hidden Fees And Hard-To-Cancel Subscriptions](https://news.crunchbase.com/ai/legal-tech-chariot-raise-stop-hidden-fees-subscriptions-hang/)
 
@@ -3204,7 +3188,7 @@ New York-based Chariot Claims has raised $10 million in Series A funding led by 
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `43` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102008`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102008`
 
 Background: Health care workers (HCWs) experienced significant mental health challenges, particularly anxiety, during the COVID-19 pandemic. Although social media became a primary source of information and connection, it was also a potential source of stress. The influence of social media on HCWs’ anxiety is not well understood. Objective: This study examined associations between social media use and anxiety symptoms among HCWs during the COVID-19 pandemic. Methods: We conducted a secondary, cross-sectional analysis of data from the 2021 UC-COVID study (N=427 HCWs). Anxiety symptoms were assessed using the Generalized Anxiety Disorder-2 (GAD-2). Social media use across multiple platforms (Twitter, Facebook, Instagram, other social media platforms, and other media sources) was evaluated using factor analysis to create a single variable for social media use. Logistic regression models estimated associations between overall social media use and anxiety symptoms, both unadjusted and adjusted for demographic, occupational, and health-related characteristics. Results: Factor analysis supported a single latent factor representing overall social media use, with all platform indicators loading significantly on the factor (&lt;.001) and with moderate loadings (0.33‐0.59). Of 427 HCWs, the mean age was 44.3 (SD 13.5), and the majority identified as female (n=314, 73.5%) and as working in a hospital location (n=136, 43.6%). Facebook was used the most, with 54% (n=230) of participants using the platform at least once per day. A total of 29% reported clinically relevant anxiety symptoms (GAD-2 ≥3). Using the social media variable from the factor analysis, higher social media use was significantly associated with anxiety symptoms (odds ratio [OR] 1.77, CI 1.15‐2.73). Older age was significantly associated with reduced anxiety symptoms (adjusted odds ratio [aOR] 0.97, CI 0.95‐0.99). HCWs with a history of mental health diagnoses reported higher levels of anxiety symptoms (aOR 2.33, CI 1.35‐4.03). Non-Hispanic Asian HCWs reported fewer anxiety symptoms compared to Non-Hispanic White HCWs (aOR 0.39, CI 0.19‐0.80). Participants reporting higher income had significantly lower odds of anxiety symptoms than those in the lower-income group (aOR 0.51, CI 0.30‐0.87). Conclusions: Study findings highlight the multifactorial nature of anxiety symptoms in HCWs and the need to consider social media use as an important contributor. Integrating HCWs and multiplatform social media use into a single measure offered an innovative lens on digital behavior and anxiety symptoms. The rapidly evolving digital landscape underscores the need for continued research. Future studies should include emerging social media platforms (ie, TikTok, Reddit, YouTube) as usage patterns shift over time. Longitudinal and mixed methods approaches are necessary to understand patterns and methods of social media use over time. Larger and more diverse HCW samples, stronger mental health measures (eg, GAD-7, depression, and burnout scales), and analyses stratified by clinical role and sociodemographic factors will be essential to guide interventions supporting mental health and well-being. Trial Registration: ClinicalTrials.gov NCT04373135; https://clinicaltrials.gov/study/NCT04373135 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a223c9d812365bde03c7aa37e6758981" />
 
@@ -3212,7 +3196,7 @@ Background: Health care workers (HCWs) experienced significant mental health cha
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `51` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105501`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105501`
 
 Background: Socially assistive robots (SARs) have the potential to support pediatric care; yet, routine clinical adoption remains limited. Because SARs interact directly with children, health care professionals (HCPs) may consider not only clinical utility and usability but also child-robot interaction, trust, and implementation concerns that may not be fully represented by conventional technology acceptance frameworks. Objective: This study aimed to examine factors associated with pediatric HCPs’ behavioral intention (BI) to adopt SARs and explored how clinical perspectives contextualized conventional technology acceptance constructs. Methods: A convergent parallel mixed methods study was conducted at a tertiary medical center in Taiwan between June and December 2025. In the quantitative strand, 125 pediatric HCPs viewed a standardized video of a SAR interacting with a child and completed a Unified Theory of Acceptance and Use of Technology (UTAUT2)-based questionnaire incorporating trust. Multiple linear regression examined associations with BI. In the qualitative strand, 17 HCPs with direct clinical SAR exposure, recruited primarily from 2 pilot units, participated in semistructured interviews. The strands involved partially overlapping but nonequivalent samples with different levels of SAR exposure. Qualitative data were analyzed thematically, and findings were integrated using a joint display. Results: The quantitative model accounted for 72.7% of the variance in BI. Social influence (SI: β=0.348; &lt;.001), hedonic motivation (HM: =0.307; &lt;.001), and performance expectancy (PE: β=0.238; =.001) had the largest standardized coefficients; the association for trust was small and sensitive to model specification, whereas effort expectancy (EE) and facilitating conditions (FC) were not significantly associated with BI. Limited discriminant validity and potential common method variance warranted caution in construct-specific interpretation. Qualitative analysis generated 6 themes concerning children’s emotional and stress-related challenges, SAR functions and clinical positioning, HCP attitudes, child-centered design, and implementation and institutional considerations. Integration showed convergence for clinical usefulness and complementarity for trust-related concerns. Children’s engagement and relational interaction were conceptually distinct from UTAUT2-defined HM, reflecting HCPs’ own enjoyment. SI was prominent quantitatively but was not articulated as a salient consideration in participants’ accounts, whereas operational concerns were elaborated in detail in participants’ accounts despite the nonsignificant association for EE. Conclusions: Pediatric HCPs’ intentions to adopt SARs were associated with SI, HM, and PE, but measurement limitations and the predominantly video-based evaluation context preclude interpreting these associations as distinct determinants or predictors of actual use. Qualitative findings highlighted child-centered relational value and context-specific implementation concerns. Child-centered relational value was conceptually distinct from HCP-centered HM, suggesting that evaluations of patient-facing socially interactive technologies may involve considerations not fully represented by conventional user-centered acceptance constructs. Multisite longitudinal studies using validated measures and real-world SAR exposure are needed to examine actual uptake and sustained use. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d382c3ae3ef2c47dd03e10c8c680cd4c" />
 
@@ -3268,7 +3252,7 @@ No summary supplied by the source.
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `63` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e89734`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e89734`
 
 Background: Musculoskeletal (MSK) conditions account for one in seven general practice consultations in the United Kingdom. Despite national guidelines, suboptimal care remains common. Digital clinical decision support systems (CDSSs) offer a promising route to improve care quality but have not been robustly evaluated in MSK primary care. Objective: This study aimed to evaluate the efficacy, clinical effectiveness and cost-effectiveness, carbon reduction, safety, and implementation of a CDSS (CrossCover) for MSK consultations in UK general practice. Methods: We conducted a mixed methods, cluster-randomized controlled trial in 19 general practices between February and July 2024. Practices were randomized 1:1, stratified by list size. Intervention practices received training and access to the web-based CDSS for 3 months. We analyzed anonymized electronic health records to identify all adult MSK consultations. The primary outcome was the proportion of patient records containing one or more of 12 predefined non–evidence-based management options, assessed by blinded clinical review of 120 patient records (60 per arm). Reviewers assessed the complete 3-month record in both arms; in the intervention arm, suboptimal management was counted only where it occurred at a consultation in which the CDSS was used. Secondary outcomes included intention-to-treat treatment comparisons of self-management advice, prescriptions, referrals, and imaging. Clinician engagement, safety, environmental and economic modeling, and clinician experiences from semistructured interviews were evaluated. Outcome assessors were blinded; clinicians were not. Results: Among 10,182 eligible patients with MSK conditions (4268 intervention; 5914 control), the CDSS was used in 365 (8.6%) patient cases. Intention-to-treat analysis identified that the intervention increased self-management alone. Per-protocol analysis demonstrated that when used, suboptimal care arose in 3% (2/60) of CDSS-guided consultations vs 25% (15/60) of control consultations (adjusted odds ratio 12.30, 95% CI 2.52‐59.9; =.002). It also increased self-management advice and community referrals, and it reduced prescribing and fit-note use. Safety concerns were logged in 6.6% (24/365) of uses with no high-risk issues identified. Environmental modeling estimated an 18% reduction in carbon emissions and 10% annual cost savings if the intervention were scaled. Interviews (n=18) highlighted positive perceptions of the CDSS’s content and safety netting but noted challenges in integration. Conclusions: When used, the CrossCover CDSS significantly reduced suboptimal primary care MSK management. However, while safety and clinician feedback were favorable, overall engagement was limited, underscoring the need for improved digital integration, workflow alignment, and implementation support. Trial Registration: ISRCTN Registry ISRCTN38924614; https://www.isrctn.com/ISRCTN38924614 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/105c7d7e27d8de0b5086bcb99dbd07da" />
 
@@ -3300,7 +3284,7 @@ Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still qu
 
 - Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
 - Reading value: `64` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e95417`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e95417`
 
 Background: Regulatory frameworks such as the Belmont Report, the Common Rule, and the Declaration of Helsinki require informed consent to ensure participants understand a study’s purpose and can make voluntary decisions about their involvement. Regulations, including the General Data Protection Regulation (Regulation [EU] 2016/679), further emphasize that consent must be freely given and revocable without disadvantage. Although informed consent forms (ICFs) are intended to be clear and accessible, they have become increasingly lengthy and complex. Large language models (LLMs) offer the potential to navigate and interpret this complexity and have shown promise in biomedical information extraction tasks. However, their susceptibility to hallucinations limits their reliability in high-stakes settings. Retrieval-augmented generation (RAG) can mitigate such errors. Objective: This study evaluates the integration of GPT-4.1 with RAG for reviewing data reuse language in ICFs and its ability to interpret complex ICF language. Methods: First, we processed 438 ICFs from different trials, including multiple countries, languages, and versions of ICFs. Using expertly curated prompts, we extracted information about data reuse using GPT-4.1. By comparing the LLM-generated data reuse outputs with human expert ground truth, we evaluated accuracy and the time required to extract information for each ICF. To further validate the workflow, we evaluated an independent set of 488 ICFs spanning additional trials, languages, and regions. During the validation phase, the workflow was evaluated using a baseline assessment (89 ICFs) followed by 3 iterative optimization rounds assessed on 14, 281, and 104 ICFs, respectively. For this cohort, we assessed the correctness of LLM outputs along with the quality of supporting evidence provided by the model. Results: Across the initial set of 438 ICFs, the system achieved 81.6% accuracy. During validation, the baseline accuracy using the preoptimized prompts was 84.0% (89 documents). Accuracy improved sequentially across the 3 iterative optimization rounds, increasing from 82.3% in the first round (14 documents) to 90.7% in the second round (281 documents), and reaching 92.1% in the third and final round on an independent holdout cohort of 104 documents. Ultimately, using our RAG-based approach, the system accurately extracted data reuse information across multiple languages. Conclusions: Our RAG-based workflow demonstrated the ability to effectively support the ICF review process for data reuse and interpret complex consent language, contributing to improved consistency in ICF evaluations for data reuse.
 
@@ -3308,7 +3292,7 @@ Background: Regulatory frameworks such as the Belmont Report, the Common Rule, a
 
 - Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
 - Reading value: `17` · status: `needs_review`
-- Event: `updated` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp">On International Repair Day, we’re highlighting how we design devices for longevity, make repair and reuse more accessible and more.
 
@@ -3324,7 +3308,7 @@ Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologet
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `34` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss`
 
 Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.
 
@@ -3348,9 +3332,9 @@ Results of a Dexcom-funded study published in the New England Journal of Medicin
 
 - Source: `hn_ai_health_signals` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts`
+- Event: `updated` · identity: `url:https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts`
 
-Hacker News community signal; score 125.
+Hacker News community signal; score 220.
 
 ### [Olympus’ shares plunge following FDA warning letter over manufacturing failures](https://www.medicaldevice-network.com/news/olympus-shares-plunge-following-fda-warning-letter-over-manufacturing-failures/)
 
@@ -3372,7 +3356,7 @@ Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo o
 
 - Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e75737`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e75737`
 
 Background: Accurate documentation of back pain is essential for effective diagnosis and treatment; however, conventional paper-based methods often lack precision and standardization, limiting their clinical utility. Digital pain drawings can improve consistency and integration; however, the literature continues to report variability in digital pain drawing methods, quantification approaches, body schemas, and implementation. Moreover, open access, anatomically labeled vector assets mapped to clinical terminology remain limited. Objective: This study aimed to develop an anatomically accurate, digitally segmented, open-source vector illustration of a sex-neutral human body (front and back views) for standardized back pain documentation and conduct a user-centered design validation and feasibility evaluation of its perceived usefulness, communication value, and visual acceptability. Methods: An interdisciplinary team used an iterative methodology informed by standard anatomical references to create the illustration, emphasizing anatomical precision, digital compatibility, and interoperability with medical coding systems. A survey-based design validation study (N=298) was conducted in the United Kingdom through the Prolific platform to evaluate perceived usefulness, confidence in identifying hypothetical pain regions (without an interactive drawing task or comparator), aesthetic appeal, and suggestions for improvement. Quantitative results were summarized descriptively with 95% CIs, and qualitative feedback guided final refinements. The finalized illustration was released under a CC BY 4.0 license. Results: Mean confidence ratings were 5.7 out of 7 (SD 1.2) for indicating pain regions using the illustration (95% CI 5.5-5.8) and 5.6 out of 7 (SD 1.2) for communicating pain with health care professionals (95% CI 5.5-5.8). Aesthetic ratings were more mixed (mean 4.3 out of 7, SD 1.5; 95% CI 4.1-4.5). User feedback highlighted the need for improved visual clarity, leading to adjustments in color contrast and anatomical proportions. Aesthetic concerns, including the removal of the areolae and changes to the facial features, were also addressed to enhance user comfort and neutrality. Conclusions: The resulting anatomically accurate vector illustration provides a feasible, open-source foundation for digital back pain documentation tools and may support patient-clinician communication and integration with electronic health records. The design validation study supports acceptability and perceived usefulness, but it does not establish superiority over existing body maps or objective accuracy of pain localization. By releasing it under a CC BY 4.0 license, we encourage broad adoption and community-driven improvements.
 
@@ -3396,7 +3380,7 @@ Want to opt out of sharing your personal health data? You may need a notary, wri
 
 - Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e89957`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e89957`
 
 Background: Clinical temporal relation extraction (CTRE) is essential for reconstructing patient timelines from unstructured electronic health records (EHRs). However, the linguistic complexity of clinical notes and the high cost of expert annotation impede the development of large-scale training corpora. While large language models (LLMs) have transformed general natural language processing, their application to CTRE remains underexplored. Objective: This study aimed to determine the optimal adaptation strategy for CTRE by conducting a controlled comparative benchmarking of LLM architectures and fine-tuning methodologies in both data-rich and limited-data regimes. Methods: We evaluated 4 LLMs representing 2 distinct architectures—transformer encoders (GatorTron [University of Florida and NVIDIA]) and transformer decoders (LLaMA 3.1-8B [Meta AI] and MeLLaMA-13B [Yale University and University of Florida]). We compared four adaptation strategies: (1) standard fine-tuning, (2) hard-prompting, (3) soft-prompting, and (4) low-rank adaptation (LoRA). Experiments were conducted on the 2012 i2b2 CTRE benchmark in both full-supervision and 1-shot scenarios. Results: Recent LLMs combined with appropriate adaptation strategies achieved strong performance for CTRE on the 2012 i2b2 benchmark. In the data-rich setting, the best-performing configuration was LLaMA3.1-8B with quantized low-rank adaptation (QLoRA) applied to the query and value projection layers, achieving a micro--score of 89.15% (0.30). Comparative analyses showed that QLoRA applied only to the query and value projection layers achieved performance comparable to QLoRA applied to all linear layers, while requiring fewer trainable parameters. Hard-prompting showed particular effectiveness in the 1-shot scenario compared with standard fine-tuning for GatorTron-Base. Overall, Decoder-based models generally outperformed encoder-based models under QLoRA-based adaptation. However, under the most resource-constrained setting, where both training data and trainable parameters were highly limited, encoder-based models achieved better performance than decoder-based models. Conclusions: This study provides a controlled benchmark for adapting LLMs to CTRE under different data and parameter constraints. Our findings suggest that QLoRA targeting only the query and value projection layers is a computationally efficient and competitive adaptation strategy. Decoder-based LLMs generally achieved stronger performance under QLoRA-based adaptation, whereas domain-specific encoder-based models showed advantages under the most resource-constrained soft-prompting setting. These results highlight the importance of selecting adaptation strategies according to both model architecture and available computational resources.
 
@@ -3404,7 +3388,7 @@ Background: Clinical temporal relation extraction (CTRE) is essential for recons
 
 - Source: `nih_funding` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-130.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-130.html`
 
 Notice NOT-OD-26-130 from the NIH Guide for Grants and Contracts
 
@@ -3412,7 +3396,7 @@ Notice NOT-OD-26-130 from the NIH Guide for Grants and Contracts
 
 - Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
 - Reading value: `37` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/`
 
 <p><a href="https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/"><img width="744" height="470" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/home-health-tech.jpg" class="attachment-large size-large wp-post-image" alt="Yellow house icon connected with Ethernet cables on blue background, Smart home networking, internet, and IoT connectivity." style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/home-health-tech.jpg 744w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/home-health-tech-300x190.jpg 300w" sizes="(max-width: 744px) 100vw, 744px" /></a></p><p>Rosarium Health partnered with Anthem Medi-Cal to provide home safety modifications for eligible members.</p> <p>The post <a href="https://medcitynews.com/2026/10/rosarium-health-forms-home-modification-partnership-with-anthem-medi-cal/">Rosarium Health Forms Home Modification Partnership with Anthem Medi-Cal</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3420,7 +3404,7 @@ Notice NOT-OD-26-130 from the NIH Guide for Grants and Contracts
 
 - Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e111307/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e111307/`
 
 This letter comments on the systematic review and meta-analysis of large language models (LLMs) in mental health care by Leung and colleagues (JMIR AI 2026;5:e87730). The bivariate meta-analysis with Hartung-Knapp adjustments is methodologically sound, and its cautious conclusions are warranted. I raise an unaddressed threat to the pooled estimates: model version drift. Over the search window (November 2022 to March 2026), &quot;GPT-4&quot; did not denote a single intervention; released in March 2023, it was followed by API snapshots whose behavior differed materially, with accuracy on a prime-number identification task falling from 84% to 51% between the March and June 2023 versions. Because the review extracted only model name and model type and did not capture version or testing dates, the estimates pooled under GPT-4 (k=4) and GPT-3.5 (k=4) may each span several substantively different models, and the pooled GPT-4 estimate may correspond to no single system a clinician could deploy. This concern is distinct from the acknowledged limitation that few studies evaluated the newest variants, which concerns currency rather than comparability. I suggest reporting model version and testing date for each pooled study (consistent with TRIPOD-LLM item 6a), examining robustness to version mixing in sensitivity analyses, and qualifying the abstract comparative statements accordingly. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e770a7e6754928129106feabee847a04" />
 
@@ -3484,7 +3468,7 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e96099`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e96099`
 
 Background: The growing impact of generative AI (GenAI) on medical education has given rise to many reviews discussing AI literacy, trustworthiness, potential uses, and institutional or faculty benefits. However, there has been surprisingly little review-level attention to its impact on students and learning. Objective: This scoping review examines the impact of GenAI-enabled educational interventions on undergraduate medical students. Methods: We followed the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. An electronic search was conducted between September 22 and September 24, 2025, across Ovid (MEDLINE and Embase), PubMed, Web of Science, and Scopus, with no language or date restrictions, and excluding reviews, commentaries, letters, editorials, preprints, conference papers, and study protocols. Each record was independently screened by two reviewers, who thoroughly discussed and agreed upon its final inclusion in the analysis. We used a modified version of the Kirkpatrick model as an analytical framework for the final dataset. Results: Twenty-seven studies were included. Most were published in 2025 (n=21) and in the or its sister journals (n=9). The educational interventions described included GenAI used for simulated patient experiences, knowledge or decision support, and content generation. The majority of studies fell under Kirkpatrick level 1 (n=23), focusing on initial user reactions. The studies that fell under Kirkpatrick level 2 (n=16) examined learning outcomes in terms of knowledge gain, skill acquisition, and learning attitudes. No studies were classified as Kirkpatrick level 3. Three studies demonstrated explicit theoretical grounding and therefore were classified as Kirkpatrick level 4 in our modified model. Only 13 studies spanned across levels. Numerous studies fell outside the model, including studies without student-facing interventions (119 studies) and studies focused on GenAI performance (110 studies). Although these studies were not included in the final analysis, they revealed the extent to which other topics dominate the academic conversation on GenAI in medical education. Conclusions: Our review highlights the volume of studies that prioritize tool performance over learning processes, as well as a trend toward the fragmentation of educational design elements in research evaluating GenAI-enabled educational interventions. Therefore, based on our findings, we developed the Technology-Integrated Educational Design (TIED) road map that reimagines the Kirkpatrick model as a tool to guide student-centered, theory-driven, and iterative design of technology-enabled educational interventions. By integrating preinstructional exploration, mechanism-oriented thinking, educational design, implementation, and evaluation within a single student-centered framework, the road map encourages educators and researchers to consider not only whether technology-enabled interventions work and are acceptable, but also how, for whom, and under what conditions they support meaningful learning. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7bfe6fbef02da250f038415934a4b336" />
 
@@ -3492,7 +3476,7 @@ Background: The growing impact of generative AI (GenAI) on medical education has
 
 - Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
 - Reading value: `24` · status: `needs_review`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/`
 
 <p><a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Panelists in the webinar, sponsored by Inovalon, will explore how near real-time surveillance, smart risk prioritization, and closed-loop intervention are shifting stewardship programs to proactive, technology-enabled decision-making that lets pharmacists work at the top of their license.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/">The Role of Hospital Stewardship to Improve Outcomes and Manage Costs</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3500,7 +3484,7 @@ Background: The growing impact of generative AI (GenAI) on medical education has
 
 - Source: `jmir` · published `2026-10-15` · freshness `fresh`
 - Reading value: `44` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e95781`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e95781`
 
 Digital behavior change interventions (DBCIs), including smartphone apps, wearable devices, and AI-driven adaptive systems, have become a dominant approach for promoting changes in health-related behavior. Although meta-analyses have consistently demonstrated short-term effectiveness, a recurring finding is that these effects are attenuated once user engagement declines or the intervention ends. We describe this phenomenon as the sustainability paradox: the same design features that maximize behavioral success during use, such as automated guidance, real-time feedback, and gamified rewards, may undermine the conditions necessary for the behavior to persist once the intervention is terminated. This viewpoint introduces narrative ownership as a conceptual framework for understanding and addressing this paradox. Narrative ownership refers to the extent to which individuals experience behavior change as an ongoing, interpretable, and self-authored process and comprises 3 components: process framing, narrative repair, and authorship. We argue that many contemporary DBCI architectures unintentionally displace these experiential processes by automating lapse correction, redirecting behaviors without interpretation, and externalizing the attribution of success. We map these tendencies onto 3 structural mechanisms—the erosion of process framing, the foreclosure of narrative repair, and the hollowing of authorship—and distinguish narrative ownership from adjacent constructs such as engagement, self-efficacy, and autonomy support. We also note that narrative ownership is double-edged: the same reflective processes can consolidate negative self-attributions, and its expression varies across cultural contexts, taking a familial or communal rather than strictly individual form in relational settings. Therefore, to translate this framework into practice, we outline 3 design principles for sustainable digital interventions: reflective pauses that support process framing, lapse reinterpretation features that enable narrative repair, and meaning-linking interfaces that strengthen authorship. For each principle, we derive testable propositions—for example, that reflective pauses will improve behavioral maintenance after the intervention ends and that meaning-linking interfaces will sustain behavior after app use is discontinued—along with candidate outcome measures and directions for empirical validation. Together, these principles reposition the user not merely as the recipient of behavioral guidance but also as the author of their own story of change in digital health interventions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9d958392dd7275b01a74c4f4b56c9ade" />
 
@@ -3508,7 +3492,7 @@ Digital behavior change interventions (DBCIs), including smartphone apps, wearab
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/healthcare-fraud-new-doj-policy-rewards-self-disclosure/?utm_campaign=rss`
 
 At the STAT Summit, the Department of Justice offered up a warning for health care executives: Don’t be another Theranos.
 
@@ -3524,7 +3508,7 @@ At the STAT Summit, the Department of Justice offered up a warning for health ca
 
 - Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
 - Reading value: `41` · status: `scored`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e89211/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e89211/`
 
 The proliferation of evaluative approaches for generative AI tools used for mental health purposes reflects much-needed attention to safety, ethics, and emerging risks. However, limited alignment across frameworks complicates comparisons, slows progress toward shared goals, and provides little clarity for regulatory processes. The result is a fragmented field that lacks cohesive guidance as the technology and its real-world patterns of use continue to evolve. This position paper synthesizes current evaluative approaches, outlines sources of divergence across existing frameworks, and identifies shared domains that could serve as anchors for coordinated development. We advocate for a living, flexible meta-framework maintained by a global, cross-sector consortium that can harmonize criteria, support consistent evaluation across jurisdictions, and adapt alongside scientific, clinical, and technological advances. Such a structure can strengthen safety, transparency, and methodological consistency while giving researchers, clinicians, developers, and policymakers a shared foundation for assessing generative AI tools in mental health care. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/601575317a639ad96e383bd445d779a0" />
 
@@ -3548,7 +3532,7 @@ No summary supplied by the source.
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
 - Reading value: `60` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss`
 
 U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy&#8230;
 
@@ -3556,7 +3540,7 @@ U.S. health officials are moving ahead with a plan to allow specialty pharmacies
 
 - Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
 - Reading value: `19` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/`
 
 <p><a href="https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/GettyImages-1220062928.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>What is needed is a fundamentally different operating model for primary care, one designed around continuous engagement rather than episodic encounters.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-the-future-of-healthcare-depends-on-reinventing-primary-care-access/">Why the Future of Healthcare Depends on Reinventing Primary Care Access</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
