@@ -2,13 +2,13 @@
 这一天的 2 件 AI 医疗大事
 
 01 · 论文研究
-Quality Assessment and Model Training Impact of Synthetic Images in Medical Diagnostic Imaging: Systematic Review
-Conclusions: Unlike previous reviews restricted to particular diseases, imaging modalities, or generative architectures, this review provides a cross-domain quantitative synthesis of both synthetic-image quality assessment and downstream model performance. Synthetic images currently appear more valuable as a complement to real training data than as a replacement, with modest improvements in classification performance, smaller gains in segmentation, and generally poorer performance with synthetic-only training. For researchers, developers, and regulators, these findings highlight the need for standardized multimethod image-quality evaluation, complete reporting, and rigorous external validation before synthetic-image pipelines are translated into clinical AI applications. Trial Registration: PROSPERO CRD42023369125; Results: A total of 160 studies were included.
+医学诊断成像中合成图像的质量评估和模型训练影响：系统评价
+结论：与之前仅限于特定疾病、成像方式或生成架构的综述不同，这篇综述提供了合成图像质量评估和下游模型性能的跨领域定量综合。目前，合成图像作为真实训练数据的补充比作为替代品更有价值，分类性能略有改善，分割收益较小，并且仅合成训练的性能通常较差。对于研究人员、开发人员和监管机构来说，这些发现强调了在合成图像管道转化为临床人工智能应用之前需要标准化的多方法图像质量评估、完整的报告和严格的外部验证。试用注册：PROSPERO CRD42023369125；结果：总共纳入 160 项研究。
 JMIR AI · 2026-10-15
 https://ai.jmir.org/2026/1/e81472/
 
 02 · 论文研究
-Evaluating Large Language Model–Derived Outputs as Psychological Measures: A Five-Domain Psychometric Framework With Application to Daily Stress
-Conclusions: Prediction metrics alone are insufficient for evaluating LLM-derived psychological measures. Measurement-oriented evaluation revealed properties, including level-dependent effects and asymmetric error attribution, that have direct implications for how LLM-based assessment studies interpret their results. For clinical use, the measure is a complement to existing screening instruments for longitudinal monitoring, not a stand-alone diagnostic. Results: Features showed high repeatability (mean intraclass correlation coefficient=0.987), construct-dependent convergent validity (Spearman ρ=0.08 to 0.79), and within-person tracking of same-day stress (negative emotion β=0.68).
+评估大型语言模型衍生的输出作为心理测量：适用于日常压力的五领域心理测量框架
+结论：仅预测指标不足以评估大语言模型衍生的心理测量。以测量为导向的评估揭示了一些属性，包括水平相关效应和不对称误差归因，这些属性对基于大语言模型的评估研究如何解释其结果有直接影响。对于临床使用，该措施是对现有纵向监测筛查仪器的补充，而不是独立的诊断。结果：特征显示出高重复性（平均组内相关系数 = 0.987）、结构依赖性收敛效度（Spearman ρ = 0.08 至 0.79）以及当天压力的个人跟踪（负面情绪 β = 0.68）。
 Journal of Medical Internet Research · 2026-10-15
 https://www.jmir.org/article/view/jmir_v28i1e102768

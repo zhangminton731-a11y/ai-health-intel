@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-16
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 442
+> Daily status: **complete_with_warning** · sources 24/26 · items 444
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 438
+## Archive · 440
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2336,14 +2336,6 @@ Questions and answers on the PIP compliance verification procedure at EMA, and o
 
 Background: Digital health technologies (DHTs) offer opportunities to support poststroke self-management and rehabilitation, but their implementation may be hindered by mismatches between technological design, stakeholder needs, and care contexts. Synthesizing stakeholder perspectives can clarify implementation priorities and gaps in the evidence. Objective: This study aimed to synthesize stakeholders’ perceptions, experiences, and recommendations regarding DHT implementation in poststroke self-management and rehabilitation and to map the findings to the NASSS (Nonadoption, Abandonment, Scale-Up, Spread, and Sustainability) framework. Methods: Six databases (PubMed, MEDLINE, Embase, Scopus, CINAHL, and Web of Science) were searched from inception through October 2025. Eligible studies were English-language, peer-reviewed primary studies using qualitative, quantitative, or mixed methods designs to report stakeholder perspectives on DHTs in poststroke care. Two reviewers independently screened studies, extracted data, and assessed methodological quality using the Mixed Methods Appraisal Tool (MMAT). A convergent integrated synthesis was conducted: quantitative findings were transformed into textual descriptors, combined with qualitative findings, coded inductively, and subsequently mapped deductively to NASSS domains and subdomains. Disagreements were resolved through consensus or by third-reviewer adjudication. Results: Of 15,262 records identified, 42 studies published between 2019 and 2025 were included: 24 qualitative, 8 quantitative, and 10 mixed methods studies. Patients, health care professionals, caregivers, and members of the public were represented in 32, 19, 8, and 3 studies, respectively, with some studies including multiple groups. Evidence concentrated on the condition, technology, value proposition, and adopter-system domains. Stakeholders valued personalized functions, intuitive interfaces, timely feedback, and digital support that complemented human care. Barriers included stroke-related motor, cognitive, communication, and sensory impairments; unequal digital access and literacy; caregiver demands; staff workload and training needs; and poor integration with clinical routines. Data privacy and unclear payment arrangements also raised concerns. Evidence on organizational readiness and wider-system determinants was limited, and no eligible study directly examined interaction and adaptation over time. Methodological concerns included nonresponse bias and insufficient interpretation of integrated findings in mixed methods studies. Conclusions: Stakeholder perspectives indicate that DHT implementation in poststroke care should combine accessible, personalized design with support for patients, caregivers, and health care professionals, alongside integration into clinical workflows and clear data governance and financing arrangements. The NASSS mapping identified priorities beyond usability, but current evidence does not establish sustained adoption, scale-up, or spread. Longitudinal studies in routine care are needed to evaluate adaptation and sustainability.
 
-### [The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-09` · freshness `fresh`
-- Reading value: `17` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/`
-
-As the AI startup boom progresses, investors appear to be leaving few niches unfunded. That was apparent in this week’s lineup of large funding rounds, which featured AI infrastructure providers, a foundational model developer, a content protection platform for the AI age, and other AI-focused startups among the top investment recipients.
-
 ### [TRrexBio’s IPO Bags $116M to Bring the Immune System Back Into Balance](https://medcitynews.com/2026/10/trrexbio-ipo-regulatory-t-cell-treg-autoimmune-disease-immunology-inflammation-trxb-retension-rtsn/)
 
 - Source: `medcity_news` · published `2026-10-09` · freshness `fresh`
@@ -2624,14 +2616,6 @@ Steris said Monday it struck a $2.1 billion deal to acquire Xodus Medical for it
 
 Background: Adolescents living with perinatally acquired HIV (PHIV) remain at risk of neurocognitive difficulties, yet access to valid neurocognitive tests is limited in sub-Saharan Africa (SSA), where most of this population resides. Tests that can be administered by nonspecialist personnel are culturally and linguistically appropriate for SSA’s diverse populations and are brief enough for routine use are needed to expand access, but few such tools exist. Objective: We adapted , a brief tablet-based neurocognitive test battery, into Luganda and evaluated its validity and acceptability for use among Ugandan adolescents with PHIV. Methods: In this cross-sectional validation study, 100 Ugandan adolescents aged 11 to 20 years (50 with PHIV; 50 HIV-negative controls) completed the Luganda- or English-language battery and a commonly used traditional test battery. Participants were recruited from an existing longitudinal cardiovascular cohort at the Joint Clinical Research Centre in Kampala, Uganda. We examined convergent validity with correlations between the 2 batteries’ individual and global -scores, known-groups validity with unadjusted and age-adjusted group comparisons, criterion validity by examining classification agreement between the 2 batteries quantified with Cohen κ, and acceptability through self-reported technology use and ease of use. Results: and the traditional battery global -scores were strongly correlated (=0.75; <.001). Correlations between tests assessing similar domains were generally small to moderate, and were strongest for processing speed, attention, and working memory. Adolescents with PHIV scored significantly lower than controls on global scores for both (=.008) and the traditional battery (=.003), even after adjusting for age. Agreement between batteries in classifying participants ≤1 SD (κ=0.56) and ≤2 SD (κ=0.66) below the global -score mean was moderate, with both batteries classifying more adolescents with PHIV than controls below these thresholds. Although fewer than half of participants (42/97, 43%) had previously used a tablet, most rated as easy to use, and prior tablet experience was not independently associated with performance after age adjustment. Conclusions: The Luganda-adapted demonstrated convergent, known-groups, and criterion validity in Ugandan adolescents with PHIV. By delivering automated administration, automated scoring, and standardized multimedia instructions in the local language on a portable tablet, addresses several persistent barriers to neurocognitive assessment in low-resource settings, including shortages of specialist personnel, the time burden of traditional batteries, and the scarcity of culturally and linguistically appropriate tools. The battery was found to be highly acceptable among adolescents with little or no prior tablet experience. These findings add to a growing body of evidence supporting tablet-based assessment as a practical and scalable mobile health approach to expanding access to neurocognitive testing. Future research should evaluate test-retest reliability, sensitivity to change over time, normative benchmarks, and implementation within real-world clinical workflows.
 
-### [Tremfya rescues J&J’s immunology sales to fuel strong Q3](https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/)
-
-- Source: `medical_device_network` · published `2026-10-13` · freshness `fresh`
-- Reading value: `52` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/`
-
-<p>Despite several products succumbing to generics and biosimilars, J&J raised its 2026 guidance.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/tremfya-rescues-jjs-immunology-sales-to-fuel-strong-q3/">Tremfya rescues J&amp;J’s immunology sales to fuel strong Q3</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [What Corporate Venture Funds Get Wrong about Strategic Value](https://medcitynews.com/2026/10/what-corporate-venture-funds-get-wrong-about-strategic-value/)
 
 - Source: `medcity_news` · published `2026-10-13` · freshness `fresh`
@@ -2696,29 +2680,13 @@ Semiconductors, financial services and space technology led for new Unicorn Boar
 
 Agilent said Tuesday that it has agreed to buy digital pathology software provider Proscia for $240 million upfront. The deal, which includes up to $30 million in milestones, will give Agilent control of technology that connects slide scanners, laboratory information systems and other parts of the pathology workflow. Agilent’s deal comes months after Roche agreed to buy PathAI for up to $1.05 billion. Evercore ISI analysts noted that Agilent “got the rights to play in this market at a lower price point.”
 
-### [As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university](https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `45` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss`
-
-White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say
-
 ### [Author Correction: Large language models are powerful electronic health record encoders](https://www.nature.com/articles/s41746-026-03220-1)
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03220-1`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03220-1`
 
 No summary supplied by the source.
-
-### [Butterfly Medical secures EU MDR certification for BPH implant](https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/)
-
-- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
-- Reading value: `38` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/`
-
-<p>Butterfly Medical has secured European Union Medical Device Regulation certification for its Butterfly Prostatic Retraction Device.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/butterfly-medical-eu-mdr-bph-implant/">Butterfly Medical secures EU MDR certification for BPH implant</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro](https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/)
 
@@ -2748,7 +2716,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03152-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03152-w`
 
 No summary supplied by the source.
 
@@ -2776,14 +2744,6 @@ In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin 
 
 FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer
 
-### [FDA approves Providence Medical’s CORUS PCSS 3D-T spinal device](https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/)
-
-- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
-- Reading value: `47` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/`
-
-<p>The US FDA has granted 510(k) clearance to Providence Medical Technology for its CORUS Posterior Cervical Stabilization System 3D-T.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-providence-medicals-corus-spinal-device/">FDA approves Providence Medical&#8217;s CORUS PCSS 3D-T spinal device</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development](http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease)
 
 - Source: `fda_press` · published `2026-10-14` · freshness `fresh`
@@ -2805,14 +2765,6 @@ Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robb
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
-
-No summary supplied by the source.
-
-### [From research to clinical practice: Expert consensus on Neuroimaging AI tools for the Memory clinic (Neuro-AIM)](https://www.nature.com/articles/s41746-026-03296-9)
-
-- Source: `npj_digital_medicine` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03296-9`
 
 No summary supplied by the source.
 
@@ -2839,14 +2791,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
 
 <p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [How consumer tech company Whoop is building for Medicare patients](https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `32` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss`
-
-Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level.
 
 ### [How I Learned That Some Startup Problems Are Too Big For A Minimum Viable Product](https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/)
 
@@ -2919,22 +2863,6 @@ Siemens Healthineers said Monday that it will no longer sell general imaging ult
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
 
 No summary supplied by the source.
-
-### [STAT+: FDA adcomm members’ ties to industry under scrutiny](https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `57` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/14/biotech-news-fda-adcomm-member-ties-to-industry-under-scrutiny/?utm_campaign=rss`
-
-New research found that nearly 40% of FDA advisory meetings held over a recent 20-year period included either a patient or consumer rep with active ties to an advocacy group&#8230;
-
-### [STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas](https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-14` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss`
-
-The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies.
 
 ### [Talazoparib plus enzalutamide in high-volume metastatic hormone-naive prostate cancer: a randomized phase 2 trial](https://www.nature.com/articles/s41591-026-04671-5)
 
@@ -3028,7 +2956,7 @@ A new computational approach reveals how cells communicate to assemble into tiss
 
 - Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03275-0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03275-0`
 
 No summary supplied by the source.
 
@@ -3092,7 +3020,7 @@ N/A <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d937230a
 
 - Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03370-2`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03370-2`
 
 No summary supplied by the source.
 
@@ -3236,7 +3164,7 @@ Our north star is simple yet ambitious: No one should be surprised by a natural 
 
 - Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03401-y`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03401-y`
 
 No summary supplied by the source.
 
@@ -3334,7 +3262,7 @@ Results of a Dexcom-funded study published in the New England Journal of Medicin
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts`
 
-Hacker News community signal; score 220.
+Hacker News community signal; score 338.
 
 ### [Olympus’ shares plunge following FDA warning letter over manufacturing failures](https://www.medicaldevice-network.com/news/olympus-shares-plunge-following-fda-warning-letter-over-manufacturing-failures/)
 
@@ -3383,6 +3311,14 @@ Want to opt out of sharing your personal health data? You may need a notary, wri
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e89957`
 
 Background: Clinical temporal relation extraction (CTRE) is essential for reconstructing patient timelines from unstructured electronic health records (EHRs). However, the linguistic complexity of clinical notes and the high cost of expert annotation impede the development of large-scale training corpora. While large language models (LLMs) have transformed general natural language processing, their application to CTRE remains underexplored. Objective: This study aimed to determine the optimal adaptation strategy for CTRE by conducting a controlled comparative benchmarking of LLM architectures and fine-tuning methodologies in both data-rich and limited-data regimes. Methods: We evaluated 4 LLMs representing 2 distinct architectures—transformer encoders (GatorTron [University of Florida and NVIDIA]) and transformer decoders (LLaMA 3.1-8B [Meta AI] and MeLLaMA-13B [Yale University and University of Florida]). We compared four adaptation strategies: (1) standard fine-tuning, (2) hard-prompting, (3) soft-prompting, and (4) low-rank adaptation (LoRA). Experiments were conducted on the 2012 i2b2 CTRE benchmark in both full-supervision and 1-shot scenarios. Results: Recent LLMs combined with appropriate adaptation strategies achieved strong performance for CTRE on the 2012 i2b2 benchmark. In the data-rich setting, the best-performing configuration was LLaMA3.1-8B with quantized low-rank adaptation (QLoRA) applied to the query and value projection layers, achieving a micro--score of 89.15% (0.30). Comparative analyses showed that QLoRA applied only to the query and value projection layers achieved performance comparable to QLoRA applied to all linear layers, while requiring fewer trainable parameters. Hard-prompting showed particular effectiveness in the 1-shot scenario compared with standard fine-tuning for GatorTron-Base. Overall, Decoder-based models generally outperformed encoder-based models under QLoRA-based adaptation. However, under the most resource-constrained setting, where both training data and trainable parameters were highly limited, encoder-based models achieved better performance than decoder-based models. Conclusions: This study provides a controlled benchmark for adapting LLMs to CTRE under different data and parameter constraints. Our findings suggest that QLoRA targeting only the query and value projection layers is a computationally efficient and competitive adaptation strategy. Decoder-based LLMs generally achieved stronger performance under QLoRA-based adaptation, whereas domain-specific encoder-based models showed advantages under the most resource-constrained soft-prompting setting. These results highlight the importance of selecting adaptation strategies according to both model architecture and available computational resources.
+
+### [Podcast: Siemens Healthineers on advancing imaging workflows to support modern cardiac procedures](https://www.medicaldevice-network.com/features/podcast-siemens-healthineers-on-advancing-imaging-workflows-to-keep-pace-with-modern-cardiac-procedures/)
+
+- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
+- Reading value: `26` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/features/podcast-siemens-healthineers-on-advancing-imaging-workflows-to-keep-pace-with-modern-cardiac-procedures/`
+
+<p>Sourabh Pagaria, president and head of ultrasound at Siemens Healthineers, discusses the future of cardiac imaging, and why it will not be defined by innovation alone.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/podcast-siemens-healthineers-on-advancing-imaging-workflows-to-keep-pace-with-modern-cardiac-procedures/">Podcast: Siemens Healthineers on advancing imaging workflows to support modern cardiac procedures</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Request for Information (RFI): Opportunities to Reduce Administrative Burden in NIH Extramural Research](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-130.html)
 
@@ -3551,6 +3487,86 @@ U.S. health officials are moving ahead with a plan to allow specialty pharmacies
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/zimmer-and-think-surgical-pen-multi-year-extension-to-robotic-surgery-deal/833074/`
 
 Zimmer Biomet said Tuesday it has inked a multi-year extension to its exclusive distribution agreement with Think Surgical. The deal, which extends an agreement signed in 2024, positions Zimmer to continue distributing an exclusive version of Think’s TMINI wireless handheld miniature robotic system. Zimmer’s exclusive version of TMINI is compatible with its Persona knee system, a personalized product used in total knee replacements.
+
+### [Asia’s Startup Funding At Near Record High In Q3, Driven By AI](https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-16` · freshness `fresh`
+- Reading value: `38` · status: `needs_review`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/`
+
+Overall, investors put $38.5 billion into reported seed- through growth-stage financings for Asian startups in Q3, per Crunchbase data. Of that, a majority went to AI-focused companies, echoing the trends we’ve seen globally.
+
+### [GE HealthCare secures CE mark for MINItrace Magni cyclotron](https://www.medicaldevice-network.com/news/ge-ce-mark-minitrace-magni-cyclotron/)
+
+- Source: `medical_device_network` · published `2026-10-16` · freshness `fresh`
+- Reading value: `52` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/ge-ce-mark-minitrace-magni-cyclotron/`
+
+<p>GE HealthCare has secured CE Mark certification for its MINItrace Magni cyclotron and broadened its PETtrace Solid Target Platform to manufacture Copper-64.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ge-ce-mark-minitrace-magni-cyclotron/">GE HealthCare secures CE mark for MINItrace Magni cyclotron</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
+
+- Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://machinelearning.apple.com/research/mlx-distributed-inference`
+
+Hacker News community signal; score 6.
+
+### [Opinion: I thought I knew why patients stopped taking their medicine. I was wrong](https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-16` · freshness `fresh`
+- Reading value: `32` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss`
+
+Patients can understand that medication is necessary and still struggle with what taking it means.
+
+### [Opinion: Is Milton Friedman to blame for America’s health care woes?](https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-16` · freshness `fresh`
+- Reading value: `27` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss`
+
+Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong — and how to fix it.
+
+### [Postoperative CT habitat fusion model predicts prognosis in non-small cell lung cancer after neoadjuvant immunochemotherapy](https://www.nature.com/articles/s41746-026-03415-6)
+
+- Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03415-6`
+
+No summary supplied by the source.
+
+### [STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall](https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-16` · freshness `fresh`
+- Reading value: `29` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss`
+
+Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?
+
+### [STAT+: In DOGE’s aftermath, federal health workers bristle at new performance reviews](https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-16` · freshness `fresh`
+- Reading value: `34` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss`
+
+Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees&#8230;
+
+### [The Thinking Leakage in Reinforcement Learning for LLMs](https://arxiv.org/abs/2610.14270)
+
+- Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://arxiv.org/abs/2610.14270`
+
+Hacker News community signal; score 7.
+
+### [Vivos to buy 50% stake in SOD Sciences’ pseudohypoxia test](https://www.medicaldevice-network.com/news/vivos-50-sod-sciences-pseudohypoxia-test/)
+
+- Source: `medical_device_network` · published `2026-10-16` · freshness `fresh`
+- Reading value: `33` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/vivos-50-sod-sciences-pseudohypoxia-test/`
+
+<p>Vivos Therapeutics has entered into a definitive agreement for an 11% fully diluted equity interest in SOD Sciences along with a 50% undivided co-ownership stake in its pseudohypoxia early-warning diagnostic test.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/vivos-50-sod-sciences-pseudohypoxia-test/">Vivos to buy 50% stake in SOD Sciences&#8217; pseudohypoxia test</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ---
 
