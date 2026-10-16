@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-16T12:25:52+00:00",
-  "as_of": "2026-10-16",
-  "count": 4,
+  "generated_at": "2026-10-16T17:24:50+00:00",
+  "as_of": "2026-10-17",
+  "count": 6,
   "items": [
     {
       "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
@@ -124,125 +124,124 @@
       }
     },
     {
-      "id": "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
-      "title": "Stryker 向 CMR Surgical 投资 4 亿美元，进军软组织机器人领域",
-      "original_title": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical",
-      "summary": "Stryker 周一表示，已与软组织机器人公司 CMR Surgical 合作，向该公司投资约 4 亿美元，并成为 CMR 系统的美国独家经销商。总部位于英国剑桥的 CMR 去年获得了美国食品和药物管理局的批准，其最新的机器人系统可以在美国执行胆囊手术。摩根大通分析师罗比·马库斯在一份研究报告中写道，截至 2026 年初，该公司已在全球执行了超过 45,000 例手术。 Stifel 分析师 Rick Wise 在一份研究报告中写道，多年来，史赛克一直被期望进入软组织机器人市场。怀斯补充道，随着竞争对手强生公司和美敦力公司在美国的机器人获得 FDA 批准，“对于史赛克来说，现在是时候做出决定了，机不可失。”",
-      "url": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
-      "source": "MedTech Dive",
-      "source_type": "专业媒体",
-      "published_at": "2026-10-12",
+      "id": "pmid:42848371",
+      "title": "烟酰胺核苷治疗早期帕金森病患者：NOPARK 随机临床试验。",
+      "original_title": "Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease: The NOPARK Randomized Clinical Trial.",
+      "summary": "重要性 烟酰胺核苷是一种烟酰胺腺嘌呤二核苷酸前体，根据临床前和早期研究，已被提议作为帕金森病的潜在疾病缓解疗法。长期口服烟酰胺核苷是否可以改善帕金森病的临床结果尚不清楚。目的 确定与安慰剂相比，烟酰胺核苷是否可以改善帕金森病的临床结果。设计、设置和参与者 在挪威 11 个中心进行的随机、双盲、安慰剂对照 3 期临床试验。符合资格的参与者是年龄35岁或以上、入组前2年内诊断出患有帕金森病、Hoehn和Yahr疾病分期小于3、异常多巴胺转运蛋白闪烁扫描结果证实多巴胺能黑质纹状体去神经以及入组前接受稳定多巴胺能治疗的患者。",
+      "url": "https://doi.org/10.1001/jama.2026.18828",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-08",
       "topics": [
         "hospital",
-        "research",
-        "business",
-        "regulation"
+        "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/PrV505f4EiYj5DXfLBQhl88NG_4Y3HjZtuOnZojPGcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9kdWN0LVZlcnNpdXMtTkhTLUhvc3BpdGFsLUQtc2NhbGVkLmpwZw==.webp",
         "observed_in_sources": [
-          "medtech_dive_primary"
+          "jama_abstracts"
         ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "summary_source": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
-        "upstream_id": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42848371",
+        "upstream_id": "42848371"
       },
       "sections": [
-        "industry"
+        "research"
       ],
       "categories": {
-        "industry": [
-          "technology",
-          "regulation"
+        "research": [
+          "papers"
         ]
       },
-      "research_stages": [],
+      "research_stages": [
+        "analysis",
+        "validation"
+      ],
       "recommendation_reasons": {
-        "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
+        "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
       },
-      "reading_value_score": 76,
+      "reading_value_score": 77,
       "editorial": {
         "audiences": [
-          "industry"
+          "research"
         ],
-        "evaluated_at": "2026-10-12T19:48:53+00:00",
-        "input_hash": "1f34ea596ea9aa478bbe1a72151e6775b51abba49f23959927ba2fc0a206f627",
+        "evaluated_at": "2026-10-16T17:26:13+00:00",
+        "input_hash": "9d8da330d50bb0e84ec01d83e6e61d92254326a34e29d152edaf19c5f39f7004",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。",
+        "reason": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。",
         "reviews": [
           {
             "audiences": [
-              "industry"
+              "research"
             ],
             "axes": {
-              "evidence": 8,
+              "evidence": 9,
               "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "industry",
-            "reason": "Stryker以约4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织机器人竞争格局的实质性变化，产业读者可据此评估渠道布局与竞争窗口；投资条款与后续商业化成效细节未披露，为判断限制。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261013034848e746b5a9bc484af6",
-              "seconds": 3.34,
-              "usage": {
-                "completion_tokens": 136,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 10
-                },
-                "prompt_tokens": 988,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1124
-              }
-            },
-            "support": "investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system",
-            "total": 81
-          },
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 6,
               "relevance": 8,
               "significance": 7,
               "usefulness": 7
             },
-            "kind": "industry",
-            "reason": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。",
+            "kind": "research",
+            "reason": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261013034851c7280360e73a4c96",
-              "seconds": 2.78,
+              "request_id": "20261017012606874f9216adb948e7",
+              "seconds": 3.98,
               "usage": {
-                "completion_tokens": 140,
+                "completion_tokens": 143,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 988,
+                "prompt_tokens": 1519,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1128
+                "total_tokens": 1662
               }
             },
-            "support": "investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system",
-            "total": 71
+            "support": "Among patients with early Parkinson disease, nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是NAD前体烟酰胺核糖治疗早期帕金森病的III期随机双盲安慰剂对照试验（410例、52周），结果为阴性且主要结局反而劣于安慰剂，对补充剂类疾病修饰疗法的研发方向有直接纠正价值。限制为主要结局组间差异仅2.72分、处于临床意义边界附近，结论宜谨慎外推。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261017012610ac5beb15fec84bdc",
+              "seconds": 3.28,
+              "usage": {
+                "completion_tokens": 155,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1519,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1472
+                },
+                "total_tokens": 1674
+              }
+            },
+            "support": "nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo",
+            "total": 77
           }
         ],
-        "score": 76,
+        "score": 77,
         "selected": true,
-        "source_tier": "T2",
+        "source_tier": "T1",
         "status": "scored",
-        "threshold": 76
+        "threshold": 70
       }
     },
     {
@@ -485,6 +484,244 @@
           }
         ],
         "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42843853",
+      "title": "怀孕前四价人乳头瘤病毒疫苗接种和妊娠结局：全国范围内基于人群的病例对照研究。",
+      "original_title": "Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study.",
+      "summary": "目的 评估孕前四价人乳头瘤病毒疫苗接种与随后不良妊娠结局风险之间的关联。设计全国范围内基于人群的匹配病例对照研究。设置瑞典人口，2006年1月1日至2023年12月31日。参与者2006年至2023年间瑞典16-35岁未生育妇女中有624 713名单胎婴儿； 92 620 名（14.8%）女性在怀孕前接受了四价人乳头瘤病毒疫苗接种。",
+      "url": "https://doi.org/10.1136/bmj-2026-100739",
+      "source": "The BMJ · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-07",
+      "topics": [
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42843853",
+        "upstream_id": "42843853"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-16T17:26:18+00:00",
+        "input_hash": "0faa19339bbceacb86a9e8dbf17da2770efc57f71b47708a41479309a37cca59",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "全国性大样本病例对照研究为孕前四价HPV疫苗与妊娠结局提供了高质量安全性证据，但观察性设计提示关联不等于因果，阴性混杂方向需谨慎解读。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610170126143b21580fd9774ba3",
+              "seconds": 2.32,
+              "usage": {
+                "completion_tokens": 140,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 986,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1126
+              }
+            },
+            "support": "624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy.",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261017012616d671425fea184bcd",
+              "seconds": 2.56,
+              "usage": {
+                "completion_tokens": 167,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 3
+                },
+                "prompt_tokens": 986,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1153
+              }
+            },
+            "support": "624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy",
+            "total": 70
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42849489",
+      "title": "口服 deucrictibant 用于按需治疗遗传性血管性水肿发作：一项 3 期、多中心、随机、双盲、安慰剂对照交叉试验。",
+      "original_title": "Oral deucrictibant for on-demand treatment of hereditary angioedema attacks: a phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial.",
+      "summary": "背景 在遗传性血管性水肿（一种罕见的缓激肽介导的疾病）中，促进迅速给药并提供快速、持续缓解和缓解发作的口服按需治疗仍然很少。我们研究了 deucrictibant（一种口服缓激肽 B2 受体拮抗剂）用于按需治疗遗传性血管性水肿发作的疗效和安全性。方法 RAPIDe-3 是一项 3 期、双盲、2 × 2 交叉试验，受试者为患有遗传性血管水肿的青少年和成人参与者（年龄分别为 ≥12 岁至 < 18 岁和年龄 ≥18 至≤75 岁），在六大洲 24 个国家的 59 个地点进行。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01296-1",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-08",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42849489",
+        "upstream_id": "42849489"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
+      },
+      "reading_value_score": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-16T17:26:02+00:00",
+        "input_hash": "fba053074672aab7a064da7edd03d828cf051a775b5eb3f4d17aea1edb97aa46",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "research",
+            "reason": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026101701255678c3ebb141de41b1",
+              "seconds": 2.99,
+              "usage": {
+                "completion_tokens": 170,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 18
+                },
+                "prompt_tokens": 1220,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1390
+              }
+            },
+            "support": "phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "III期双盲交叉试验报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作的疗效（症状缓解中位时间1.28小时 vs 安慰剂>12小时），为潜在首个口服药提供关键证据；主要局限为交叉设计中配对分析仅纳入88名参与者，且为药企资助的单项试验结果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261017012559783db7fe3ddc4e93",
+              "seconds": 2.96,
+              "usage": {
+                "completion_tokens": 171,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 13
+                },
+                "prompt_tokens": 1220,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1391
+              }
+            },
+            "support": "Onset of symptom relief occurred significantly faster with deucrictibant than placebo, with median times of 1·28 h",
+            "total": 71
+          }
+        ],
+        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",

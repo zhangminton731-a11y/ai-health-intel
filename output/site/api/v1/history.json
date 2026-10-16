@@ -1,9 +1,140 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-16T12:25:52+00:00",
-  "as_of": "2026-10-16",
+  "generated_at": "2026-10-16T17:24:50+00:00",
+  "as_of": "2026-10-17",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+      "t": "Stryker 向 CMR Surgical 投资 4 亿美元，进军软组织机器人领域",
+      "te": "Stryker enters soft tissue robotics with $400M investment in CMR Surgical",
+      "s": "Stryker 周一表示，已与软组织机器人公司 CMR Surgical 合作，向该公司投资约 4 亿美元，并成为 CMR 系统的美国独家经销商。总部位于英国剑桥的 CMR 去年获得了美国食品和药物管理局的批准，其最新的机器人系统可以在美国执行胆囊手术。摩根大通分析师罗比·马库斯在一份研究报告中写道，截至 2026 年初，该公司已在全球执行了超过 45,000 例手术。 Stifel 分析师 Rick Wise 在一份研究报告中写道，多年来，史赛克一直被期望进入软组织机器人市场。怀斯补充道，随着竞争对手强生公司和美敦力公司在美国的机器人获得 FDA 批准，“对于史赛克来说，现在是时候做出决定了，机不可失。”",
+      "se": "Stryker said Monday it has partnered with soft tissue robotics firm CMR Surgical, investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system. Cambridge, England-based CMR received Food and Drug Administration clearance for its latest robotic system last year to perform gallbladder procedures in the U.S. As of early 2026, the company had performed more than 45,000 procedures globally, J.P. Morgan analyst Robbie Marcus wrote in a research note. Stryker had been expected to enter the soft tissue robotics market for years, Stifel analyst Rick Wise wrote in a research note. With competitors Johnson & Johnson and Medtronic receiving FDA nods for their own robots in the U.S., Wise added, “it feels like a now or never moment for Stryker to make the decision.”",
+      "u": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+      "image": "https://imgproxy.divecdn.com/PrV505f4EiYj5DXfLBQhl88NG_4Y3HjZtuOnZojPGcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9kdWN0LVZlcnNpdXMtTkhTLUhvc3BpdGFsLUQtc2NhbGVkLmpwZw==.webp",
+      "src": "MedTech Dive",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [
+        "hospital",
+        "research",
+        "business",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "technology",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "image_url": "https://imgproxy.divecdn.com/PrV505f4EiYj5DXfLBQhl88NG_4Y3HjZtuOnZojPGcU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Qcm9kdWN0LVZlcnNpdXMtTkhTLUhvc3BpdGFsLUQtc2NhbGVkLmpwZw==.webp",
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "summary_source": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/",
+        "upstream_id": "https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-12T19:48:53+00:00",
+        "input_hash": "1f34ea596ea9aa478bbe1a72151e6775b51abba49f23959927ba2fc0a206f627",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "Stryker以约4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织机器人竞争格局的实质性变化，产业读者可据此评估渠道布局与竞争窗口；投资条款与后续商业化成效细节未披露，为判断限制。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261013034848e746b5a9bc484af6",
+              "seconds": 3.34,
+              "usage": {
+                "completion_tokens": 136,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 10
+                },
+                "prompt_tokens": 988,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1124
+              }
+            },
+            "support": "investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system",
+            "total": 81
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261013034851c7280360e73a4c96",
+              "seconds": 2.78,
+              "usage": {
+                "completion_tokens": 140,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 988,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1128
+              }
+            },
+            "support": "investing about $400 million into the company and becoming the exclusive U.S. distributor of CMR’s system",
+            "total": 71
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
+      },
+      "when": "5 天前",
+      "date": "2026-10-12",
+      "reasons": {
+        "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
       "t": "苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息",
@@ -122,7 +253,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -254,7 +385,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -386,7 +517,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -437,7 +568,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -568,7 +699,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -619,7 +750,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -669,7 +800,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -719,7 +850,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -770,7 +901,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -821,7 +952,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -868,7 +999,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1002,7 +1133,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -1134,7 +1265,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -1184,7 +1315,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1235,7 +1366,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1287,7 +1418,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1339,7 +1470,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1388,7 +1519,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1441,7 +1572,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1571,7 +1702,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1701,7 +1832,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -1749,7 +1880,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1800,7 +1931,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1852,7 +1983,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -1901,7 +2032,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2030,7 +2161,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {
         "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
@@ -2159,7 +2290,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
@@ -2288,7 +2419,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
@@ -2334,7 +2465,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2381,7 +2512,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2432,7 +2563,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2484,7 +2615,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2535,7 +2666,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2584,7 +2715,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2633,7 +2764,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2681,7 +2812,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2731,7 +2862,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2782,7 +2913,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2834,7 +2965,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2885,7 +3016,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2937,7 +3068,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2989,7 +3120,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3035,7 +3166,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3081,7 +3212,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3133,7 +3264,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3261,7 +3392,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
@@ -3392,7 +3523,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
@@ -3523,7 +3654,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
@@ -3650,7 +3781,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
@@ -3699,7 +3830,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3832,7 +3963,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -3881,7 +4012,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3924,7 +4055,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -3976,7 +4107,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4025,7 +4156,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4075,7 +4206,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4123,7 +4254,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4176,7 +4307,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4227,7 +4358,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4276,7 +4407,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4325,7 +4456,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4369,7 +4500,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4499,7 +4630,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
@@ -4633,7 +4764,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
@@ -4681,7 +4812,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4728,7 +4859,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4779,7 +4910,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4828,7 +4959,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4878,7 +5009,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4926,7 +5057,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -4977,7 +5108,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5027,7 +5158,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5074,7 +5205,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5122,7 +5253,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5171,7 +5302,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {},
       "historical": true
@@ -5298,7 +5429,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
@@ -5429,7 +5560,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
@@ -5557,7 +5688,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-28",
       "reasons": {
         "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
@@ -5605,13 +5736,20 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-27",
       "reasons": {},
       "historical": true
     }
   ],
   "editions": [
+    {
+      "date": "2026-10-12",
+      "item_ids": [
+        "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
+      ],
+      "minutes": 1
+    },
     {
       "date": "2026-10-07",
       "item_ids": [
