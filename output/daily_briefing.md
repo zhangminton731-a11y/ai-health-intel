@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-17
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 444
+> Daily status: **complete_with_warning** · sources 23/26 · items 445
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -78,7 +78,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 436
+## Archive · 437
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2726,7 +2726,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/`
 
-Hacker News community signal; score 84.
+Hacker News community signal; score 101.
 
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
@@ -3358,7 +3358,7 @@ On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the bo
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113`
 
-Hacker News community signal; score 50.
+Hacker News community signal; score 51.
 
 ### [Improving Postpolypectomy Surveillance Decisions Using an Automated Analysis of Colonoscopy and Histopathology Reports: 2-Center Validation Study](https://www.jmir.org/article/view/jmir_v28i1e102789)
 
@@ -3560,11 +3560,19 @@ Ahead of "You Can See Everything" hitting theaters, let's rewind the last decade
 
 <p><a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/">Why Epic Is Launching a Prescription Price Comparison Tool</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-17` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://llmspeed.dev/`
+
+Hacker News community signal; score 98.
+
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-17` · freshness `fresh`
 - Reading value: `48` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss`
 
 A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.
 
