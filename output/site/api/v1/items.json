@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T11:37:45+00:00",
-  "as_of": "2026-10-17",
-  "count": 8,
+  "generated_at": "2026-10-17T16:25:34+00:00",
+  "as_of": "2026-10-18",
+  "count": 7,
   "items": [
     {
       "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
@@ -721,123 +721,6 @@
           }
         ],
         "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42843853",
-      "title": "怀孕前四价人乳头瘤病毒疫苗接种和妊娠结局：全国范围内基于人群的病例对照研究。",
-      "original_title": "Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study.",
-      "summary": "目的 评估孕前四价人乳头瘤病毒疫苗接种与随后不良妊娠结局风险之间的关联。设计全国范围内基于人群的匹配病例对照研究。设置瑞典人口，2006年1月1日至2023年12月31日。参与者2006年至2023年间瑞典16-35岁未生育妇女中有624 713名单胎婴儿； 92 620 名（14.8%）女性在怀孕前接受了四价人乳头瘤病毒疫苗接种。",
-      "url": "https://doi.org/10.1136/bmj-2026-100739",
-      "source": "The BMJ · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-07",
-      "topics": [
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42843853",
-        "upstream_id": "42843853"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
-      },
-      "reading_value_score": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-16T17:26:18+00:00",
-        "input_hash": "0faa19339bbceacb86a9e8dbf17da2770efc57f71b47708a41479309a37cca59",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "全国性大样本病例对照研究为孕前四价HPV疫苗与妊娠结局提供了高质量安全性证据，但观察性设计提示关联不等于因果，阴性混杂方向需谨慎解读。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610170126143b21580fd9774ba3",
-              "seconds": 2.32,
-              "usage": {
-                "completion_tokens": 140,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 986,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1126
-              }
-            },
-            "support": "624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy.",
-            "total": 72
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261017012616d671425fea184bcd",
-              "seconds": 2.56,
-              "usage": {
-                "completion_tokens": 167,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 3
-                },
-                "prompt_tokens": 986,
-                "prompt_tokens_details": {
-                  "cached_tokens": 960
-                },
-                "total_tokens": 1153
-              }
-            },
-            "support": "624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy",
-            "total": 70
-          }
-        ],
-        "score": 71,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",

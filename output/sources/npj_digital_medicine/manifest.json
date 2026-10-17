@@ -2,52 +2,64 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 3038,
-      "content_type": "text/html",
-      "elapsed_ms": 248,
-      "error_code": "non_feed",
+      "bytes_read": 17033,
+      "content_type": "application/rss+xml",
+      "elapsed_ms": 157,
+      "error_code": null,
       "final_url": "https://www.nature.com/npjdigitalmed.rss",
       "http_status": 200,
       "kind": "rss_fetch",
-      "response_kind": "html",
-      "retry_delay_seconds": 5.525
+      "response_kind": "feed"
     },
     {
-      "attempt": 2,
-      "bytes_read": 3038,
-      "content_type": "text/html",
-      "elapsed_ms": 89,
-      "error_code": "non_feed",
-      "final_url": "https://www.nature.com/npjdigitalmed.rss",
-      "http_status": 200,
-      "kind": "rss_fetch",
-      "response_kind": "html",
-      "retry_delay_seconds": 10.738
+      "kind": "article_metadata",
+      "status": "unavailable"
     },
     {
-      "attempt": 3,
-      "bytes_read": 3038,
-      "content_type": "text/html",
-      "elapsed_ms": 94,
-      "error_code": "non_feed",
-      "final_url": "https://www.nature.com/npjdigitalmed.rss",
-      "http_status": 200,
-      "kind": "rss_fetch",
-      "response_kind": "html"
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "unavailable"
+    },
+    {
+      "count": 8,
+      "kind": "rss_atom"
     }
   ],
-  "consecutive_failures": 1,
-  "elapsed_ms": 16695,
+  "consecutive_failures": 0,
+  "elapsed_ms": 7746,
   "enabled": true,
-  "error": "RSS non_feed after 3 attempt(s)",
-  "generated_at": "2026-10-17T11:37:45+00:00",
-  "item_count": 0,
-  "last_checked_at": "2026-10-17T11:37:45+00:00",
-  "last_success_at": "2026-10-17T05:36:39+00:00",
-  "recovered": false,
+  "error": "",
+  "generated_at": "2026-10-17T16:25:34+00:00",
+  "item_count": 8,
+  "last_checked_at": "2026-10-17T16:25:34+00:00",
+  "last_success_at": "2026-10-17T16:25:34+00:00",
+  "recovered": true,
   "required": false,
   "role": "supplemental",
   "source_id": "npj_digital_medicine",
   "source_kind": "rss",
-  "status": "failed"
+  "status": "ok"
 }

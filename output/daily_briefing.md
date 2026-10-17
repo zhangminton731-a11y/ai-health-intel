@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-10-17
+# Scientific Information Brief · 2026-10-18
 
-> Daily status: **complete_with_warning** · sources 23/26 · items 445
+> Daily status: **complete_with_warning** · sources 25/26 · items 445
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 8
+## Scan · 7
 
 ### [2027 Medicare Advantage and Part D Star Ratings](https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings)
 
@@ -58,14 +58,6 @@ Background: AI has increasingly been used to generate synthetic images to overco
 
 Background: Large language models (LLMs) are increasingly used to quantify psychological constructs from natural language, yet their outputs are typically evaluated only as predictions of an external label. When that label is itself imperfect, optimizing prediction conflates label agreement with construct measurement. No study has applied a multidomain measurement-oriented evaluation to LLM-derived psychological outputs. Objective: We applied 5 psychometric evaluation domains to LLM-derived outputs to test whether measurement-oriented evaluation surfaces properties that prediction-oriented evaluation does not: extraction repeatability, convergent validity with a lexicon-based tool, ecological concurrent validity decomposed into within-person and between-person components, incremental value in a 4-arm comparison with that tool, and method-blinded expert evaluation with structured error attribution. Methods: Thirteen linguistic features were extracted by GPT-5.2 (OpenAI) from 3556 person-days of daily voice narratives collected from 279 call center workers over 15 days via ecological momentary assessment. Features were evaluated across the 5 domains, with Linguistic Inquiry and Word Count, version 22, as the lexicon-based comparator. Multimodel robustness was assessed by re-extracting all features with Google Gemini 2.5 Flash. Results: Features showed high repeatability (mean intraclass correlation coefficient=0.987), construct-dependent convergent validity (Spearman ρ=0.08 to 0.79), and within-person tracking of same-day stress (negative emotion β=0.68). In a 4-arm comparison (baseline, baseline plus lexicon features, baseline plus LLM-derived features, and baseline plus both), LLM features increased explained variance in daily stress from 13.2% to 30.4%, versus 16.9% for the lexicon-based comparator. Among transcripts sampled for maximal method discordance, experts preferred LLM-derived profiles in 83.7% (261/312) of blinded decisions. Error analysis showed that 53% (35/66) of false-positive attributions reflected reference-label limitations, not model failures. Re-extraction with Google Gemini 2.5 Flash replicated key properties (person-level =0.94). Three phenomena were visible under measurement-oriented evaluation that prediction-oriented evaluation does not typically examine: divergence between within-person and between-person effects, reference-label limitations as a dominant error source, and moderation of feature meaning by individual differences. Conclusions: Prediction metrics alone are insufficient for evaluating LLM-derived psychological measures. Measurement-oriented evaluation revealed properties, including level-dependent effects and asymmetric error attribution, that have direct implications for how LLM-based assessment studies interpret their results. For clinical use, the measure is a complement to existing screening instruments for longitudinal monitoring, not a stand-alone diagnostic. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9555de0d062011e56427d1305cd21864" />
 
-### [Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study.](https://doi.org/10.1136/bmj-2026-100739)
-
-- Source: `bmj_abstracts` · published `2026-10-07` · freshness `fresh`
-- Reading value: `71` · status: `scored`
-- Event: `seen` · identity: `pmid:42843853`
-
-<h4>Objective</h4>To evaluate the association between quadrivalent human papillomavirus vaccination before pregnancy and subsequent risk of adverse pregnancy outcomes.<h4>Design</h4>Nationwide, population based matched case-control study.<h4>Setting</h4>Population of Sweden, from 1 January 2006 to 31 December 2023.<h4>Participants</h4>624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy.<h4>Main outcome measures</h4>Risk of adverse pregnancy outcomes associated with quadrivalent human papillomavirus vaccination, with preterm birth (<37 weeks), including its subtypes, and spontaneous preterm birth as primary outcomes and preterm prelabour rupture of membranes, prelabour rupture of membranes, small for gestational age infant (<10th centile), severe small for gestational age infant (<3rd centile), stillbirth, and neonatal mortality as secondary outcomes. Effect modification by age at human papillomavirus vaccination was assessed. Conditional logistic regression was used to estimate odds ratios and adjusted odds ratios with 95% confidence intervals (CIs).<h4>Results</h4>After adjustment for confounders, quadrivalent human papillomavirus vaccination was associated with lower odds of all included adverse pregnancy outcomes. Statistically significant associations were observed for preterm birth (<37 weeks) (adjusted odds ratio 0.95, 95% CI 0.91 to 0.99), very preterm birth (28 weeks to 31 weeks) (0.85, 0.75 to 0.97), spontaneous preterm birth (0.95, 0.91 to 0.99), preterm prelabour rupture of membranes (0.93, 0.87 to 1.00), and severe small for gestational age infant (0.92, 0.87 to 0.97). Risk reduction was generally more pronounced among women vaccinated at younger ages.<h4>Conclusions</h4>Quadrivalent human papillomavirus vaccination before pregnancy was associated with a lower risk of adverse pregnancy outcomes, particularly among women vaccinated at earlier ages, extending benefits of human papillomavirus vaccination beyond cancer prevention.
-
 ### [Oral deucrictibant for on-demand treatment of hereditary angioedema attacks: a phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial.](https://doi.org/10.1016/s0140-6736(26)01296-1)
 
 - Source: `lancet_abstracts` · published `2026-10-08` · freshness `fresh`
@@ -78,7 +70,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 437
+## Archive · 438
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2130,48 +2122,56 @@ European Medicines Agency pre-authorisation procedural advice for users of the c
 
 ### [Advance Care Planning for Black and White Older Adults With Serious Illness: The EQUAL ACP Randomized Trial.](https://doi.org/10.1001/jama.2026.17619)
 
-- Source: `jama_abstracts` · published `2026-10-07` · freshness `fresh`
-- Reading value: `68` · status: `scored`
+- Source: `jama_abstracts` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42842242`
 
 <h4>Importance</h4>Advance care planning (ACP) helps individuals communicate preferences for future medical care. Many adults do not participate in ACP, and Black adults are less likely than White adults to participate.<h4>Objective</h4>To compare the effectiveness of facilitated vs self-guided ACP interventions.<h4>Design, setting, and participants</h4>EQUAL ACP was a multisite, cluster randomized trial conducted in 10 primary care (n = 9) and geriatrics (n = 1) clinics in the South of the United States. Participants were community-dwelling Black and White adults 65 years or older with serious illness. Within each clinic and study group, participants were randomized to a racially concordant or discordant ACP facilitator.<h4>Interventions</h4>Clinics were randomized to Respecting Choices First Steps, a facilitated ACP approach, or Five Wishes, a self-guided approach. Both were delivered by lay ACP facilitators.<h4>Main outcomes and measures</h4>ACP completion within 12 months after the baseline survey, defined as new formal (advance directive, clinician note, or orders for life-sustaining treatment form in the medical record) and/or new informal ACP (participant-reported discussion with family about end-of-life care preferences). The primary analysis compared the effectiveness of the self-guided approach with the facilitated approach within each racial group. Other analyses assessed interaction between race and treatment in the combined sample and the association of participant-facilitator racial concordance with ACP.<h4>Results</h4>Of 791 participants, 427 were Black and 364 were White; 409 were in clinics with the facilitated approach and 382 in clinics with the self-guided approach. Among Black participants, 152 of 213 (71%) in facilitated clinics and 131 of 213 (62%) in self-guided clinics completed ACP within 1 year (adjusted risk ratio [RR], 1.15 [95% CI, 0.83-1.59]). Among White participants, 133 of 196 (68%) in facilitated clinics and 131 of 167 (78%) in self-guided clinics completed ACP (adjusted RR, 0.88 [95% CI, 0.65-1.18]). Among 789 in the pooled sample, 547 (69%) completed ACP, including 130 of 789 with formal ACP and 523 of 668 with informal ACP. In the pooled sample, the interaction between race and intervention group was significant (adjusted RR, 1.32 [95% CI, 1.03-1.69]), indicating greater effectiveness of the facilitated vs self-guided approach among Black relative to White participants. Participant-facilitator racial concordance was not associated with ACP in either racial group.<h4>Conclusions and relevance</h4>ACP completion within 1 year did not differ significantly between facilitated vs self-guided ACP approaches within Black or White racial groups.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT03516994.
 
 ### [Apple, The King’s Trust launch initiative to empower young creatives](https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/)
 
-- Source: `apple_newsroom` · published `2026-10-07` · freshness `fresh`
-- Reading value: `11` · status: `scored`
+- Source: `apple_newsroom` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/`
 
 Apple and The King’s Trust are building on their longstanding partnership by launching an immersive new education program to help young people move into the world of work.
 
 ### [Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road](https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/)
 
-- Source: `medcity_news` · published `2026-10-07` · freshness `fresh`
-- Reading value: `62` · status: `scored`
+- Source: `medcity_news` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/`
 
 <p><a href="https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/07/49107654333_e9d3fe9dba_c-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/07/49107654333_e9d3fe9dba_c-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/07/49107654333_e9d3fe9dba_c-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/07/49107654333_e9d3fe9dba_c-768x511.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/07/49107654333_e9d3fe9dba_c.jpg 800w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Caribou Biosciences is stopping work on its two remaining cancer cell therapies and exploring strategic alternatives for the business. The move follows the CRISPR biotech company’s failure to secure financing for its clinical trial plans. </p> <p>The post <a href="https://medcitynews.com/2026/10/caribou-biosciences-allogeneic-cell-therapy-crispr-cancer-lymphoma-crbu/">Caribou Bio’s Journey With Off-the-Shelf Cell Therapy Reaches the End of the Road</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Migraine.](https://doi.org/10.1016/s0140-6736(26)01366-8)
 
-- Source: `lancet_abstracts` · published `2026-10-07` · freshness `fresh`
-- Reading value: `58` · status: `scored`
+- Source: `lancet_abstracts` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42843399`
 
 Migraine is a chronic neurovascular disorder characterised by recurrent attacks of moderate-to-severe head pain, accompanied by transient but disabling symptoms such as aura, nausea, vomiting, phonophobia, and photophobia, reflecting the involvement of multiple systems. Migraine affects and disables a large proportion of the global population. The pathogenesis of migraine involves the interplay of genetic and epigenetic factors across complex neurosensory and neurovascular networks. Decades of research have elucidated key components of these pathways, driving the development of mechanism-based therapies that are now transforming clinical practice and substantially improving patients' lives.
 
+### [Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study.](https://doi.org/10.1136/bmj-2026-100739)
+
+- Source: `bmj_abstracts` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `seen` · identity: `pmid:42843853`
+
+<h4>Objective</h4>To evaluate the association between quadrivalent human papillomavirus vaccination before pregnancy and subsequent risk of adverse pregnancy outcomes.<h4>Design</h4>Nationwide, population based matched case-control study.<h4>Setting</h4>Population of Sweden, from 1 January 2006 to 31 December 2023.<h4>Participants</h4>624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy.<h4>Main outcome measures</h4>Risk of adverse pregnancy outcomes associated with quadrivalent human papillomavirus vaccination, with preterm birth (<37 weeks), including its subtypes, and spontaneous preterm birth as primary outcomes and preterm prelabour rupture of membranes, prelabour rupture of membranes, small for gestational age infant (<10th centile), severe small for gestational age infant (<3rd centile), stillbirth, and neonatal mortality as secondary outcomes. Effect modification by age at human papillomavirus vaccination was assessed. Conditional logistic regression was used to estimate odds ratios and adjusted odds ratios with 95% confidence intervals (CIs).<h4>Results</h4>After adjustment for confounders, quadrivalent human papillomavirus vaccination was associated with lower odds of all included adverse pregnancy outcomes. Statistically significant associations were observed for preterm birth (<37 weeks) (adjusted odds ratio 0.95, 95% CI 0.91 to 0.99), very preterm birth (28 weeks to 31 weeks) (0.85, 0.75 to 0.97), spontaneous preterm birth (0.95, 0.91 to 0.99), preterm prelabour rupture of membranes (0.93, 0.87 to 1.00), and severe small for gestational age infant (0.92, 0.87 to 0.97). Risk reduction was generally more pronounced among women vaccinated at younger ages.<h4>Conclusions</h4>Quadrivalent human papillomavirus vaccination before pregnancy was associated with a lower risk of adverse pregnancy outcomes, particularly among women vaccinated at earlier ages, extending benefits of human papillomavirus vaccination beyond cancer prevention.
+
 ### [Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform](https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/)
 
-- Source: `medcity_news` · published `2026-10-07` · freshness `fresh`
-- Reading value: `40` · status: `scored`
+- Source: `medcity_news` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/`
 
 <p><a href="https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/"><img width="600" height="529" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app-600x529.jpg" class="attachment-large size-large wp-post-image" alt="telehealth telemedicine" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app-600x529.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app-300x264.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/12/Stock-photo-health-app.jpg 630w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Teladoc Health announced Wednesday that it is launching two new AI-powered capabilities built into its Solo smart care platform for hospitals and health systems to be used during virtual visits.</p> <p>The post <a href="https://medcitynews.com/2026/10/teladoc-health-adds-contactless-vitals-and-ambient-ai-scribe-to-virtual-visit-platform/">Teladoc Health Adds Contactless Vitals and Ambient AI Scribe to Virtual Visit Platform</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Trilliant Health: Misaligned Incentives Are Undermining US Healthcare](https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/)
 
-- Source: `medcity_news` · published `2026-10-07` · freshness `fresh`
-- Reading value: `43` · status: `scored`
+- Source: `medcity_news` · published `2026-10-07` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/`
 
 <p><a href="https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/"><img width="600" height="375" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-300x188.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images.jpg 747w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Trilliant Health’s report identifies six trends highlighting how misaligned incentives are contributing to rising costs, poor health outcomes, workforce shortages and other systemic problems in U.S. healthcare.</p> <p>The post <a href="https://medcitynews.com/2026/10/trilliant-health-misaligned-incentives-are-undermining-us-healthcare/">Trilliant Health: Misaligned Incentives Are Undermining US Healthcare</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
@@ -2580,7 +2580,7 @@ Bünyamin Aydın brought together Turkish heritage, rock influences, and futuris
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
 
 No summary supplied by the source.
 
@@ -2726,7 +2726,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/`
 
-Hacker News community signal; score 101.
+Hacker News community signal; score 106.
 
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
@@ -2740,7 +2740,7 @@ Hacker News community signal; score 101.
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
 
 No summary supplied by the source.
 
@@ -2748,7 +2748,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
 
 No summary supplied by the source.
 
@@ -2783,14 +2783,6 @@ A schoolteacher diagnosed with melanoma provides an inside look at what it was l
 - Event: `seen` · identity: `url:https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015`
 
 A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.
-
-### [An artificial intelligence framework for end-to-end rare disease phenotyping from clinical notes using large language models](https://www.nature.com/articles/s41746-026-03275-0)
-
-- Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03275-0`
-
-No summary supplied by the source.
 
 ### [An intelligent new shopping cart](https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/)
 
@@ -3184,14 +3176,6 @@ The proliferation of evaluative approaches for generative AI tools used for ment
 
 No summary supplied by the source.
 
-### [TrajOnco: a multi-agent framework for temporal reasoning over longitudinal EHR for multi-cancer early detection](https://www.nature.com/articles/s41746-026-03377-9)
-
-- Source: `npj_digital_medicine` · published `2026-10-15` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03377-9`
-
-No summary supplied by the source.
-
 ### [Trump administration advances plan for peptide drugs favored by RFK Jr.](https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
@@ -3220,7 +3204,7 @@ Zimmer Biomet said Tuesday it has inked a multi-year extension to its exclusive 
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
 
 No summary supplied by the source.
 
@@ -3228,7 +3212,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
 
 No summary supplied by the source.
 
@@ -3236,7 +3220,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00052-0`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00052-0`
 
 No summary supplied by the source.
 
@@ -3268,7 +3252,7 @@ Overall, investors put $38.5 billion into reported seed- through growth-stage fi
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03357-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03357-z`
 
 No summary supplied by the source.
 
@@ -3292,7 +3276,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04719-6`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04719-6`
 
 No summary supplied by the source.
 
@@ -3308,7 +3292,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
 
 No summary supplied by the source.
 
@@ -3316,7 +3300,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04715-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04715-w`
 
 No summary supplied by the source.
 
@@ -3358,7 +3342,7 @@ On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the bo
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113`
 
-Hacker News community signal; score 51.
+Hacker News community signal; score 53.
 
 ### [Improving Postpolypectomy Surveillance Decisions Using an Automated Analysis of Colonoscopy and Histopathology Reports: 2-Center Validation Study](https://www.jmir.org/article/view/jmir_v28i1e102789)
 
@@ -3388,7 +3372,7 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04699-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04699-7`
 
 No summary supplied by the source.
 
@@ -3428,7 +3412,7 @@ Background: Personality traits are central to understanding human behavior and l
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03415-6`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03415-6`
 
 No summary supplied by the source.
 
@@ -3436,7 +3420,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04687-x`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04687-x`
 
 No summary supplied by the source.
 
@@ -3500,7 +3484,7 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03389-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03389-5`
 
 No summary supplied by the source.
 
@@ -3560,13 +3544,29 @@ Ahead of "You Can See Everything" hitting theaters, let's rewind the last decade
 
 <p><a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/">Why Epic Is Launching a Prescription Price Comparison Tool</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [GWDRO-Lung: Gromov–Wasserstein distributionally robust learning for calibrated pulmonary nodule malignancy prediction across imaging cohorts](https://www.nature.com/articles/s41746-026-03323-9)
+
+- Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03323-9`
+
+No summary supplied by the source.
+
+### [Large language models for depression assessment from brief daily diaries](https://www.nature.com/articles/s41746-026-03388-6)
+
+- Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03388-6`
+
+No summary supplied by the source.
+
 ### [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
 
 - Source: `hn_ai_health_signals` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://llmspeed.dev/`
+- Event: `updated` · identity: `url:https://llmspeed.dev/`
 
-Hacker News community signal; score 98.
+Hacker News community signal; score 183.
 
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
