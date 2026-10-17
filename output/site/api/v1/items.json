@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-16T23:36:19+00:00",
+  "generated_at": "2026-10-17T05:36:39+00:00",
   "as_of": "2026-10-17",
   "count": 8,
   "items": [
@@ -256,7 +256,7 @@
       "topics": [
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp",
         "observed_in_sources": [
@@ -375,7 +375,7 @@
       "topics": [
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "cms_fact_sheets"
