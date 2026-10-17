@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-18
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 445
+> Daily status: **complete_with_warning** · sources 26/26 · items 445
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -2420,7 +2420,7 @@ Machine-learning networks can learn without detailed instructions from a designe
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
 
 No summary supplied by the source.
 
@@ -2476,7 +2476,7 @@ Background: Measles is a major cause of death among infants despite free routine
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
 
 No summary supplied by the source.
 
@@ -2580,7 +2580,7 @@ Bünyamin Aydın brought together Turkish heritage, rock influences, and futuris
 
 - Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
 
 No summary supplied by the source.
 
@@ -2620,7 +2620,7 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 No summary supplied by the source.
 
@@ -2692,7 +2692,7 @@ Siemens Healthineers said Monday that it will no longer sell general imaging ult
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
 
 No summary supplied by the source.
 
@@ -2726,7 +2726,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/`
 
-Hacker News community signal; score 106.
+Hacker News community signal; score 107.
 
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
@@ -2740,7 +2740,7 @@ Hacker News community signal; score 106.
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
 
 No summary supplied by the source.
 
@@ -2748,7 +2748,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
 
 No summary supplied by the source.
 
@@ -2804,7 +2804,7 @@ A new computational approach reveals how cells communicate to assemble into tiss
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
 No summary supplied by the source.
 
@@ -2892,7 +2892,7 @@ Background: The COVID-19 pandemic necessitated innovative approaches to health c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
 
 No summary supplied by the source.
 
@@ -2948,7 +2948,7 @@ Background: Musculoskeletal (MSK) conditions account for one in seven general pr
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
 
 No summary supplied by the source.
 
@@ -3172,7 +3172,7 @@ The proliferation of evaluative approaches for generative AI tools used for ment
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
 
 No summary supplied by the source.
 
@@ -3204,7 +3204,7 @@ Zimmer Biomet said Tuesday it has inked a multi-year extension to its exclusive 
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
 
 No summary supplied by the source.
 
@@ -3212,7 +3212,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
 
 No summary supplied by the source.
 
@@ -3220,7 +3220,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00052-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00052-0`
 
 No summary supplied by the source.
 
@@ -3252,9 +3252,17 @@ Overall, investors put $38.5 billion into reported seed- through growth-stage fi
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03357-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03357-z`
 
 No summary supplied by the source.
+
+### [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+
+- Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
+
+Hacker News community signal; score 246.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
@@ -3276,7 +3284,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04719-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04719-6`
 
 No summary supplied by the source.
 
@@ -3292,7 +3300,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
 
 No summary supplied by the source.
 
@@ -3300,7 +3308,7 @@ No summary supplied by the source.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04715-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04715-w`
 
 No summary supplied by the source.
 
@@ -3336,14 +3344,6 @@ On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the bo
 
 <p><a href="https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The connected, agent-ready enterprise is the model that wins, where compliance and intelligence operate together.</p> <p>The post <a href="https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/">How AI Is Connecting MedTech&#8217;s Data Without Compromising Compliance </a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [How to make System 1 LLMs show System 2 competencies?](https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113)
-
-- Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113`
-
-Hacker News community signal; score 53.
-
 ### [Improving Postpolypectomy Surveillance Decisions Using an Automated Analysis of Colonoscopy and Histopathology Reports: 2-Center Validation Study](https://www.jmir.org/article/view/jmir_v28i1e102789)
 
 - Source: `jmir` · published `2026-10-16` · freshness `fresh`
@@ -3372,7 +3372,7 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04699-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04699-7`
 
 No summary supplied by the source.
 
@@ -3408,19 +3408,11 @@ Among community-dwelling older adults living alone, less frequent preinterventio
 
 Background: Personality traits are central to understanding human behavior and life outcomes, yet their assessment remains challenging due to biases and limited expressiveness in traditional self-report inventories. The emergence of large language models (LLMs) creates new opportunities to infer personality from naturalistic text, but it remains unclear whether these systems can reliably predict validated personality traits or whether their predictions primarily reflect superficial linguistic patterns. Objective: This study evaluates the ability of LLM-based methods to predict continuous Big Five personality scores (1‐5 Likert scale) from semistructured interview transcripts and compares the performance of different modeling paradigms. Methods: We analyzed semistructured interview transcripts from 518 participants, each paired with validated self-reported Big Five scores measured using the 10-item Big Five Inventory (BFI-10). We compared four paradigms: (1) zero-shot and chain-of-thought prompting with GPT-5 mini; (2) parameter-efficient fine-tuning (low-rank adaptation) applied to open-source RoBERTa-base and LLaMA-2-7B models; (3) supervised fine-tuning of GPT-4.1 mini across two independent training runs; and (4) embedding-based regression using 4 pretrained encoders (all-mpnet-base-v2, E5-large-v2, text-embedding-3-small, and text-embedding-3-large) with a multioutput ridge regression. Results: Supervised fine-tuning yielded the strongest overall performance among the evaluated approaches. In the best-performing run, correlations reached =0.718 for conscientiousness and =0.631 for agreeableness. Neuroticism showed moderate and consistent performance across the 2 fine-tuning runs, whereas extraversion was less stable across runs. Embedding-based regression, particularly with text-embedding-3-large, achieved competitive results for conscientiousness and agreeableness, although it remained below supervised fine-tuning. Prompt-based methods showed weak and inconsistent performance across traits. Openness was generally difficult to predict, although RoBERTa-base with embedding-based low-rank adaptation fine-tuning showed modest but statistically significant performance, indicating trait- and method-dependent variability. Conclusions: LLM-based approaches exhibit trait-dependent performance in predicting personality from naturalistic dialogue, with fine-tuning substantially improving correspondence with validated psychometric scores. These findings suggest that personality inference from naturalistic dialogue is feasible but depends strongly on modeling strategy, trait domain, and the availability of supervised fine-tuning with validated personality measures. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e98928c547abc64a3dbb418b43da2525" />
 
-### [Postoperative CT habitat fusion model predicts prognosis in non-small cell lung cancer after neoadjuvant immunochemotherapy](https://www.nature.com/articles/s41746-026-03415-6)
-
-- Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03415-6`
-
-No summary supplied by the source.
-
 ### [Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women](https://www.nature.com/articles/s41591-026-04687-x)
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04687-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04687-x`
 
 No summary supplied by the source.
 
@@ -3484,7 +3476,7 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03389-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03389-5`
 
 No summary supplied by the source.
 
@@ -3544,11 +3536,19 @@ Ahead of "You Can See Everything" hitting theaters, let's rewind the last decade
 
 <p><a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/">Why Epic Is Launching a Prescription Price Comparison Tool</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [AI-supported first consultation preparation in oncology: a real-world clinical usability study](https://www.nature.com/articles/s41746-026-03396-6)
+
+- Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03396-6`
+
+No summary supplied by the source.
+
 ### [GWDRO-Lung: Gromov–Wasserstein distributionally robust learning for calibrated pulmonary nodule malignancy prediction across imaging cohorts](https://www.nature.com/articles/s41746-026-03323-9)
 
 - Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03323-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03323-9`
 
 No summary supplied by the source.
 
@@ -3556,7 +3556,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03388-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03388-6`
 
 No summary supplied by the source.
 
@@ -3566,7 +3566,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://llmspeed.dev/`
 
-Hacker News community signal; score 183.
+Hacker News community signal; score 233.
 
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
