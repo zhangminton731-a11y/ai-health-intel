@@ -2420,7 +2420,7 @@ Machine-learning networks can learn without detailed instructions from a designe
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
 
 No summary supplied by the source.
 
@@ -2476,7 +2476,7 @@ Background: Measles is a major cause of death among infants despite free routine
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
 
 No summary supplied by the source.
 
@@ -2620,7 +2620,7 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 No summary supplied by the source.
 
@@ -2692,7 +2692,7 @@ Siemens Healthineers said Monday that it will no longer sell general imaging ult
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
 
 No summary supplied by the source.
 
@@ -2726,7 +2726,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/`
 
-Hacker News community signal; score 107.
+Hacker News community signal; score 108.
 
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
@@ -2804,7 +2804,7 @@ A new computational approach reveals how cells communicate to assemble into tiss
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
 No summary supplied by the source.
 
@@ -2892,7 +2892,7 @@ Background: The COVID-19 pandemic necessitated innovative approaches to health c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
 
 No summary supplied by the source.
 
@@ -2948,7 +2948,7 @@ Background: Musculoskeletal (MSK) conditions account for one in seven general pr
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
 
 No summary supplied by the source.
 
@@ -3172,7 +3172,7 @@ The proliferation of evaluative approaches for generative AI tools used for ment
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
 
 No summary supplied by the source.
 
@@ -3260,9 +3260,9 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
 
-Hacker News community signal; score 246.
+Hacker News community signal; score 303.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
@@ -3540,7 +3540,7 @@ Ahead of "You Can See Everything" hitting theaters, let's rewind the last decade
 
 - Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03396-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03396-6`
 
 No summary supplied by the source.
 
@@ -3566,7 +3566,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://llmspeed.dev/`
 
-Hacker News community signal; score 233.
+Hacker News community signal; score 249.
 
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
