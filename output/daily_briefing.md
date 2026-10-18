@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-18
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 445
+> Daily status: **complete_with_warning** · sources 26/26 · items 444
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -70,7 +70,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 438
+## Archive · 437
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2720,14 +2720,6 @@ No summary supplied by the source.
 
 <p><a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg" class="attachment-large size-large wp-post-image" alt="A digitally generated image featuring an old-style computer monitor displaying the letters “AI” with neon business crowd. The scene blends retro computing with modern business aesthetics, symbolizing the journey of artificial intelligence from its early beginnings to its growing role in today’s corporate world. Ideal for illustrating themes of digital evolution, business transformation, AI adoption, and technology-driven innovation." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-768x432.jpg 768w" sizes="auto, (max-width: 788px) 100vw, 788px" /></a></p><p>Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/">Why Agentic AI Works in Hospitals When You Strip It Down</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
-
-- Source: `hn_ai_health_signals` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/`
-
-Hacker News community signal; score 108.
-
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
 - Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
@@ -3262,7 +3254,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
 
-Hacker News community signal; score 303.
+Hacker News community signal; score 400.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
@@ -3566,7 +3558,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://llmspeed.dev/`
 
-Hacker News community signal; score 249.
+Hacker News community signal; score 271.
 
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
