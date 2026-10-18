@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-18
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 444
+> Daily status: **complete_with_warning** · sources 24/26 · items 444
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -3254,7 +3254,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
 
-Hacker News community signal; score 400.
+Hacker News community signal; score 476.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
@@ -3558,7 +3558,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://llmspeed.dev/`
 
-Hacker News community signal; score 271.
+Hacker News community signal; score 302.
 
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
