@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-18T12:04:02+00:00",
-  "as_of": "2026-10-18",
+  "generated_at": "2026-10-18T16:33:03+00:00",
+  "as_of": "2026-10-19",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -128,10 +128,398 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+      "t": "2027 年 Medicare Advantage 和 D 部分星级评级",
+      "te": "2027 Medicare Advantage and Part D Star Ratings",
+      "s": "2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。",
+      "se": "2027 Medicare Advantage and Part D Star Ratings Note: The information included in this Fact Sheet is based on the 2027 Medicare Advantage (MA) and Part D Star Ratings published on the Medicare Plan Finder on Oct. 8, 2026. For details on the methodology of the MA and Part D Star Ratings, please refer to the 2027 Part C & D Star Ratings Technical Notes available at http://go.cms.gov/partcanddstarratings . Ensuring that Medicare works for seniors and people with disabilities and that people with Medicare have access to robust, stable, high-quality, and affordable options for the coverage they need are top priorities for the Centers for Medicare & Medicaid Services (CMS).",
+      "u": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+      "image": "",
+      "src": "CMS · 政策事实说明",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "cms_fact_sheets"
+        ],
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+        "upstream_id": ""
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 78,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-09T01:15:19+00:00",
+        "input_hash": "96bc56a8c75115299b5fac5c565ac47b06adcc0a1e2205bc42cb3851a17c85c6",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610090915100de11a77cb3c40c9",
+              "seconds": 4.13,
+              "usage": {
+                "completion_tokens": 160,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 29
+                },
+                "prompt_tokens": 4323,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 4483
+              }
+            },
+            "support": "will impact 2028 MA quality bonus payments",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "CMS官方发布2027年MA与Part D星级评分结果及方法论变更（新增COB、Poly-ACH等指标、权重调整），直接影响2028年质量奖金支付与2027年开放注册，是美国医保计划准入与质量战略的关键决策依据。限制在于这是例行年度发布，具体措施级得分与合同明细需查阅技术说明，且评分不直接证明临床获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610090915156a127df138d94248",
+              "seconds": 5.19,
+              "usage": {
+                "completion_tokens": 214,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 30
+                },
+                "prompt_tokens": 4323,
+                "prompt_tokens_details": {
+                  "cached_tokens": 64
+                },
+                "total_tokens": 4537
+              }
+            },
+            "support": "The 2027 Star Ratings announced today appear on Medicare Plan Finder for 2027 Open Enrollment, which begins on October 15, 2026 and runs through December 7, 2026, and will impact 2028 MA quality bonus",
+            "total": 83
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-08",
+      "reasons": {
+        "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42849489",
+      "t": "口服 deucrictibant 用于按需治疗遗传性血管性水肿发作：一项 3 期、多中心、随机、双盲、安慰剂对照交叉试验。",
+      "te": "Oral deucrictibant for on-demand treatment of hereditary angioedema attacks: a phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial.",
+      "s": "背景 在遗传性血管性水肿（一种罕见的缓激肽介导的疾病）中，促进迅速给药并提供快速、持续缓解和缓解发作的口服按需治疗仍然很少。我们研究了 deucrictibant（一种口服缓激肽 B2 受体拮抗剂）用于按需治疗遗传性血管性水肿发作的疗效和安全性。方法 RAPIDe-3 是一项 3 期、双盲、2 × 2 交叉试验，受试者为患有遗传性血管水肿的青少年和成人参与者（年龄分别为 ≥12 岁至 < 18 岁和年龄 ≥18 至≤75 岁），在六大洲 24 个国家的 59 个地点进行。",
+      "se": "Background In hereditary angioedema, a rare bradykinin-mediated condition, oral on-demand treatments facilitating prompt administration and providing rapid, sustained relief and attack resolution remain scant. We investigated the efficacy and safety of deucrictibant, an oral bradykinin B2 receptor antagonist, for on-demand treatment of hereditary angioedema attacks. Methods RAPIDe-3 was a phase 3, double-blind, 2 × 2 crossover trial in adolescent and adult participants (aged ≥12 to < 18 years and aged ≥18 to ≤75 years, respectively) with hereditary angioedema, at 59 sites across 24 countries on six continents.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01296-1",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42849489",
+        "upstream_id": "42849489"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-16T17:26:02+00:00",
+        "input_hash": "fba053074672aab7a064da7edd03d828cf051a775b5eb3f4d17aea1edb97aa46",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "research",
+            "reason": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026101701255678c3ebb141de41b1",
+              "seconds": 2.99,
+              "usage": {
+                "completion_tokens": 170,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 18
+                },
+                "prompt_tokens": 1220,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1390
+              }
+            },
+            "support": "phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "III期双盲交叉试验报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作的疗效（症状缓解中位时间1.28小时 vs 安慰剂>12小时），为潜在首个口服药提供关键证据；主要局限为交叉设计中配对分析仅纳入88名参与者，且为药企资助的单项试验结果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261017012559783db7fe3ddc4e93",
+              "seconds": 2.96,
+              "usage": {
+                "completion_tokens": 171,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 13
+                },
+                "prompt_tokens": 1220,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1391
+              }
+            },
+            "support": "Onset of symptom relief occurred significantly faster with deucrictibant than placebo, with median times of 1·28 h",
+            "total": 71
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-08",
+      "reasons": {
+        "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42848371",
+      "t": "烟酰胺核苷治疗早期帕金森病患者：NOPARK 随机临床试验。",
+      "te": "Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease: The NOPARK Randomized Clinical Trial.",
+      "s": "重要性 烟酰胺核苷是一种烟酰胺腺嘌呤二核苷酸前体，根据临床前和早期研究，已被提议作为帕金森病的潜在疾病缓解疗法。长期口服烟酰胺核苷是否可以改善帕金森病的临床结果尚不清楚。目的 确定与安慰剂相比，烟酰胺核苷是否可以改善帕金森病的临床结果。设计、设置和参与者 在挪威 11 个中心进行的随机、双盲、安慰剂对照 3 期临床试验。符合资格的参与者是年龄35岁或以上、入组前2年内诊断出患有帕金森病、Hoehn和Yahr疾病分期小于3、异常多巴胺转运蛋白闪烁扫描结果证实多巴胺能黑质纹状体去神经以及入组前接受稳定多巴胺能治疗的患者。",
+      "se": "Importance Nicotinamide riboside, a nicotinamide adenine dinucleotide precursor, has been proposed as a potential disease-modifying therapy for Parkinson disease based on preclinical and early studies. Whether prolonged oral nicotinamide riboside improves clinical outcomes in Parkinson disease is unknown. Objective To determine whether nicotinamide riboside improves clinical outcomes in Parkinson disease compared with placebo. Design, setting, and participants Randomized, double-blind, placebo-controlled, phase 3 clinical trial conducted at 11 centers in Norway. Eligible participants were patients aged 35 years or older with Parkinson disease diagnosed within 2 years before enrollment, Hoehn and Yahr disease stage less than 3, abnormal dopamine transporter scintigraphy findings confirming dopaminergic nigrostriatal denervation, and stable dopaminergic treatment before enrollment.",
+      "u": "https://doi.org/10.1001/jama.2026.18828",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42848371",
+        "upstream_id": "42848371"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-16T17:26:13+00:00",
+        "input_hash": "9d8da330d50bb0e84ec01d83e6e61d92254326a34e29d152edaf19c5f39f7004",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261017012606874f9216adb948e7",
+              "seconds": 3.98,
+              "usage": {
+                "completion_tokens": 143,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1519,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1662
+              }
+            },
+            "support": "Among patients with early Parkinson disease, nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是NAD前体烟酰胺核糖治疗早期帕金森病的III期随机双盲安慰剂对照试验（410例、52周），结果为阴性且主要结局反而劣于安慰剂，对补充剂类疾病修饰疗法的研发方向有直接纠正价值。限制为主要结局组间差异仅2.72分、处于临床意义边界附近，结论宜谨慎外推。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261017012610ac5beb15fec84bdc",
+              "seconds": 3.28,
+              "usage": {
+                "completion_tokens": 155,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1519,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1472
+                },
+                "total_tokens": 1674
+              }
+            },
+            "support": "nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-08",
+      "reasons": {
+        "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
       },
       "historical": true
     },
@@ -253,7 +641,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -379,7 +767,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -511,7 +899,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -643,7 +1031,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -694,7 +1082,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -825,7 +1213,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -876,7 +1264,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -926,7 +1314,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -976,7 +1364,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1027,7 +1415,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1078,7 +1466,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1125,7 +1513,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1259,7 +1647,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -1391,7 +1779,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -1441,7 +1829,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1492,7 +1880,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1544,7 +1932,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1596,7 +1984,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1645,7 +2033,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1698,7 +2086,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1828,7 +2216,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -1958,7 +2346,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -2006,7 +2394,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2057,7 +2445,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2109,7 +2497,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2158,7 +2546,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2287,7 +2675,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {
         "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
@@ -2416,7 +2804,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
@@ -2545,7 +2933,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
@@ -2591,7 +2979,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2638,7 +3026,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2689,7 +3077,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2741,7 +3129,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2792,7 +3180,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2841,7 +3229,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2890,7 +3278,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2938,7 +3326,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -2988,7 +3376,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3039,7 +3427,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3091,7 +3479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3142,7 +3530,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3194,7 +3582,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3246,7 +3634,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3292,7 +3680,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3338,7 +3726,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3390,7 +3778,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3518,7 +3906,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
@@ -3649,7 +4037,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
@@ -3780,7 +4168,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
@@ -3907,7 +4295,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
@@ -3956,7 +4344,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4089,7 +4477,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
@@ -4138,7 +4526,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4181,7 +4569,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4233,7 +4621,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4282,7 +4670,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4332,7 +4720,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4380,7 +4768,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4433,7 +4821,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4484,7 +4872,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4533,7 +4921,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4582,7 +4970,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4626,7 +5014,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {},
       "historical": true
@@ -4756,7 +5144,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
@@ -4890,934 +5278,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-29",
       "reasons": {
         "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
-      "t": "GE HealthCare 探索将生成式人工智能应用于放射治疗工作流程",
-      "te": "GE HealthCare to explore applying generative AI to radiation therapy workflows",
-      "s": "该公司与麻省总医院布里格姆分校的研究团队合作，帮助护理团队获取患者的特定信息。",
-      "se": "The company has teamed up with a Mass General Brigham research team to help care teams access patient-specific information.",
-      "u": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/",
-      "image": "",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/ge-healthcare-to-explore-applying-generative-ai-to-radiation-therapy-workfl/831448/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
-      "t": "继达芬奇 5 CE 标志后，Intuitive 重新进入欧洲心脏手术市场",
-      "te": "Intuitive re-enters European cardiac surgery market following da Vinci 5 CE mark",
-      "s": "Intuitive 为达芬奇 5 在心脏手术中获得的 CE 标志标志着其近年来最明确的监管里程碑，为重新推动欧洲机器人心脏手术打开了大门。",
-      "se": "Intuitive’s CE mark for da Vinci 5 in cardiac procedures marks its clearest regulatory milestone in recent years, opening the door to a renewed push into European robotic cardiac surgery.",
-      "u": "https://www.medicaldevice-network.com/news/intuitive-re-enters-european-cardiac-surgery-market-following-da-vinci-5-ce-mark/",
-      "image": "",
-      "src": "Medical Device Network",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "business",
-        "regulation"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "regulation"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245403"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96374",
-      "t": "低收入国家药物警戒人工智能的治理：系统视角",
-      "te": "Governing AI for Pharmacovigilance in Low-Income Countries: Systems Perspective",
-      "s": "尽管人工智能有望在低收入国家（LIC）提供更好的药物警戒，但随着人工智能的采用，药物治理的差距可能会扩大。虽然像澳大利亚这样的先进监管体系正在将人工智能纳入药品治理，但南苏丹等监管能力欠发达的低收入国家却落后了。这种潜在的分歧扰乱了世界卫生组织的“无害医学”议程和有效的全球药物警戒。此外，不断发展的全球治理举措，包括新成立的联合国人工智能科学小组，可能会因全球能力差异而受到阻碍。",
-      "se": "Gaps in pharmaceutical governance could widen with the adoption of AI, even as AI promises better pharmacovigilance in low-income countries (LICs). While advanced regulatory systems like Australia’s are integrating AI into pharmaceutical governance, LICs with underdeveloped regulatory capabilities, such as South Sudan, lag behind. The potential divergence disorients the World Health Organization’s “Medicine Without Harm” agenda and effective global pharmacovigilance. Moreover, evolving global governance initiatives, including the newly established United Nations scientific panel on AI, may be hampered by this global divergence in capabilities.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e96374",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96374"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e88257",
-      "t": "揭示医院网络攻击期间患者层面的伤害和高危临床群体：对全球案例研究和社交媒体数据的系统审查",
-      "te": "Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case Studies and Social Media Data",
-      "s": "结论：我们的研究首次系统地将全球案例研究证据与大规模社交媒体数据相结合，以提供医疗网络攻击期间患者层面伤害的临床重点综合。由此产生的开源网络攻击影响、患者伤害和紧急响应 (CIPHER) 数据集将技术故障领域与整个护理环境中的下游临床风险联系起来。随着针对医疗保健组织的网络攻击的频率和严重性不断上升，网络安全和患者安全之间的界限变得越来越模糊，需要统一的框架，将数字弹性和临床准备视为对患者同样义务的不可分割的表达。结果：纳入了 59 项研究，在合并数据集中确定了 316 项患者级别的伤害。",
-      "se": "Conclusions: Our study is the first to systematically integrate global case study evidence with large-scale social media data to provide a clinically focused synthesis of patient-level harms during health care cyberattacks. The resulting open-source Cyberattack Impacts, Patient Harms & Emergency Response (CIPHER) dataset links technical failure domains to downstream clinical risks across care settings. As cyberattacks on health care organizations continue to rise in frequency and severity, the boundary between cybersecurity and patient safety has become increasingly blurred, demanding unified frameworks that treat digital resilience and clinical preparedness as inseparable expressions of the same obligation to patients. Results: Fifty-nine studies were included, from which 316 patient-level harms were identified across the combined datasets.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e88257",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e88257"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e111711",
-      "t": "客观、临床、基于声音的帕金森病表征需要明确的机制因果分析或干预试验",
-      "te": "Explicit Mechanistic Causal Analyses or Interventional Trials Are Required for Objective, Clinical, Voice-Based Parkinson Disease Characterization",
-      "s": "对于大多数帕金森病患者来说，运动障碍、声音和言语都会在某种程度上受到损害，这提供了使用数字录音和复杂的机器学习来协助客观临床表征病情的机会。然而，正如 Shukla 等人在 2026 年 8 月 20 日的论文中强调的那样，临时观测数据集通常包含无法进行纯粹统计分析的虚假因果关联。该评论认为，需要因果推理以及最终的诊断临床试验来建立疾病和算法预测之间的直接机制关系。",
-      "se": "For most with Parkinson disease, a movement disorder, voice and speech are impaired at some point, which presents an opportunity to use digital recordings and sophisticated machine learning to assist objective clinical characterization of the condition. However, as highlighted by Shukla et al in their August 20, 2026 paper, ad-hoc observational datasets typically contain spurious causal associations that escape a purely statistical analysis. This commentary argues that causal inference, and ultimately, diagnostic clinical trials, are required to establish a direct mechanistic relationship between disease and algorithm predictions.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e111711",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e111711"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105583",
-      "t": "替西帕肽支持的数字减肥服务中的同行推荐途径和 6 个月结果：回顾性队列研究",
-      "te": "Peer Referral Pathways and 6-Month Outcomes in a Tirzepatide-Supported Digital Weight Loss Service: Retrospective Cohort Study",
-      "s": "在对澳大利亚 34,449 名使用无补贴、替西帕肽支持的数字减肥服务 (DWLS) 的成年人进行的回顾性分析中，通过同伴推荐进入的患者比倾向评分匹配的非推荐患者表现出更高的 6 个月计划依从性和更大的减肥百分比，这表明同伴推荐途径可能支持药物肥胖治疗的保留和有效性。",
-      "se": "In a retrospective analysis of 34,449 adults using an unsubsidized, tirzepatide-supported digital weight loss service (DWLS) in Australia, patients entering via peer referral showed higher 6-month program adherence and greater percentage weight loss than propensity score–matched nonreferred patients, suggesting that peer referral pathways may support retention and effectiveness in medicated obesity care.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e105583",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105583"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e79512",
-      "t": "荷兰初级保健中远程患者管理支持的心血管护理途径：成本效益、预算影响和工作量分析",
-      "te": "A Cardiovascular Care Pathway Supported by Remote Patient Management in Dutch Primary Care: Cost-Effectiveness, Budget Impact, and Workload Analysis",
-      "s": "结论：CVRM-Box 多成分 RPM 干预可能在高风险亚组中具有成本效益，但在低风险组中则不然。干预进一步减少了 PN 工作量，但没有减少全科医生的工作量。结果主要适用于荷兰的情况，可能无法推广到具有不同支付/激励安排的医疗保健系统。此外，长期结果是使用预测模型而不是观察到的心血管事件来建模的。尽管如此，我们的研究结果为在高风险亚组的初级保健中实施提供了论据。结果：在总体人群中，与照常护理相比，CVRM-Box 增加了成本和 QALY，获得了 17,340 欧元/QALY 的 ICER（截至 2023 年 12 月 29 日，1 欧元=1.11 美元），并且在愿意支付门槛为 20,000 欧元/QALY 时，成本效益概率为 60%。",
-      "se": "Conclusions: The CVRM-Box multicomponent RPM intervention is likely to be cost-effective among high-risk subgroups but not in lower-risk groups. The intervention further reduces PN workload but not GP workload. Results primarily apply to the Dutch context and may not generalize to health care systems with different payment/incentive arrangements. Additionally, long-term outcomes were modeled using prediction models rather than observed cardiovascular events. Nonetheless, our findings provide an argument for implementation in primary care for higher-risk subgroups. Results: In the overall population, CVRM-Box increased costs and QALYs versus care as usual, yielding an ICER of €17,340/QALY gained (EUR €1=US $1.11 as of 29 December 2023) and a 60% probability of cost-effectiveness at a willingness-to-pay threshold of €20,000/QALY.",
-      "u": "https://mhealth.jmir.org/2026/1/e79512",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e79512"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e85695",
-      "t": "东非育龄妇女的医疗保健获取障碍：使用国土安全部数据开发和验证机器学习预测模型",
-      "te": "Health Care Access Barriers Among Reproductive-Age Women in East Africa: Development and Validation of Machine Learning Prediction Models Using DHS Data",
-      "s": "结论：XGBoost 模型在评估的算法中表现出最佳的预测性能。研究结果表明，尽管本研究没有进行正式的地方“极端风险”分类，但相当大比例的育龄妇女在获得医疗保健方面遇到障碍。通过扩大医疗保险覆盖范围来加强全面的健康教育和减少财务障碍可能有助于改善医疗保健的可及性，特别是农村妇女等弱势群体。结果：在研究中纳入的 228,654 名育龄女性中，XGBoost 分类器表现出最佳的预测性能，准确度为 94.46%，精确度为 94.62%，召回率为 93.73%，得分为 94.17%，曲线下面积为 98%。总体而言，92.63% (211,794/228,654) 的女性在获得医疗保健方面遇到障碍。",
-      "se": "Conclusions: The XGBoost model demonstrated the best predictive performance among the evaluated algorithms. The findings indicate that a substantial proportion of reproductive-age women experience barriers to health care access, although no formal subnational “extreme risk” classification was conducted in this study. Enhancing comprehensive health education and reducing financial barriers through the expansion of health insurance coverage may help improve health care access, particularly among vulnerable populations such as rural women. Results: Among 228,654 reproductive-age women included in the study, the XGBoost classifier demonstrated the best predictive performance, with 94.46% accuracy, 94.62% precision, 93.73% recall, 94.17% -score, and 98% area under the curve. Overall, 92.63% (211,794/228,654) of women experienced barriers to health care access.",
-      "u": "https://medinform.jmir.org/2026/1/e85695",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e85695"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-      "t": "医院和付款人人工智能治理正处于十字路口",
-      "te": "Hospital and Payer AI Governance Is at a Crossroads",
-      "s": "[赞助] MedCity News 和 Cotiviti 的研究表明，付款人和提供商大力采用人工智能，但他们针对人工智能治理和人工智能武器化网络安全威胁采取了哪些措施？",
-      "se": "[Sponsored] Research from MedCity News and Cotiviti shows robust AI adoption by payers and providers, but what steps are they taking for AI governance and AI weaponized cybersecurity threats?",
-      "u": "https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2018/11/GettyImages-936965862-600x450.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150239"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-      "t": "DreaMed 获得 FDA 批准，用于 CGM 驱动的胰岛素自动化工具，适用于两种 2 型注射方案",
-      "te": "DreaMed Wins FDA Clearance for CGM-Driven Insulin Automation Tool for Both Type 2 Injection Regimens",
-      "s": "DreaMed Diabetes 的 MODI 已获得 FDA 510(K) 许可，MODI 是一款移动应用程序，使用 CGM（连续血糖监测）数据为需要基础胰岛素和速效注射的 2 型糖尿病患者提供胰岛素剂量建议。",
-      "se": "DreaMed Diabetes has received FDA 510(K) clearance for MODI, a mobile app that uses CGM (continuous glucose monitoring) data to provide insulin dosing recommendations for people with Type 2 diabetes who need both basal insulin and fast-acting injections.",
-      "u": "https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2020/01/GettyImages-869846050-600x400.jpg",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "consumer",
-        "regulation"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "regulation"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2020/01/GettyImages-869846050-600x400.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150271"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e93900/",
-      "t": "将现实世界的安全和实施差距转化为 NHS 医疗保健提供者部署衍生的 AI 准备实施前清单：清单开发研究",
-      "te": "Translating Real-World Safety and Implementation Gaps Into a Deployment-Derived AI Readiness Preimplementation Checklist for NHS Health Care Providers: Checklist Development Study",
-      "s": "结论：SID 和 ADE 人工智能预实施清单将现实世界的人工智能部署学习转化为实用的预实施审议工具。目前的证据支持原始信任环境中的表面和内容有效性，但在提出预测有效性、普遍性或定量上线阈值之前，需要进行独立的前瞻性验证。结果：检查表包含 8 个领域：用例定义；临床安全和责任；本地验证和性能；劳动力准备情况和人为因素；运营和技术整合；信息治理和道德；采购、责任和财务风险；以及监控、评估和停止规则。",
-      "se": "Conclusions: The SID & ADE AI Pre-Implementation Checklist translates real-world AI deployment learning into a practical preimplementation deliberation tool. Current evidence supports face and content validity within the originating trust context, but independent prospective validation is required before claims of predictive validity, generalizability, or quantitative go-live thresholds can be made. Results: The checklist comprises 8 domains: use-case definition; clinical safety and accountability; local validation and performance; workforce readiness and human factors; operational and technical integration; information governance and ethics; procurement, liability, and financial risk; and monitoring, evaluation, and stop rules.",
-      "u": "https://ai.jmir.org/2026/1/e93900/",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8e1e1149e0b28b8a2060aecefdc0de39",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8e1e1149e0b28b8a2060aecefdc0de39",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e93900/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "pmid:42806496",
-      "t": "儿科重症监护中允许的血压目标：压力随机临床试验。",
-      "te": "Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.",
-      "s": "重要性 危重儿童通常会服用血管活性药物来治疗低血压。然而，最佳平均动脉压 (MAP) 目标尚不清楚。目的 评估采用允许的 MAP 目标，从而潜在地减少血管活性药物的暴露，是否可以改善低血压危重儿童的预后。设计、设置和参与者 这项多中心、非盲法、实用性随机临床试验在 3 个国家的 23 个儿科重症监护病房 (PICU) 中进行。 2021 年 11 月至 2026 年 5 月期间入组接受有创通气和血管活性药物治疗低血压的危重儿童。30 天结果的随访于 2026 年 6 月完成。 干预措施 随机接受干预的患者 (n = 957) 被分配一个大于年龄第五百分位数的允许 MAP 目标。",
-      "se": "Importance Vasoactive drugs are often given to critically ill children to treat hypotension. However, optimal mean arterial pressure (MAP) targets are unknown. Objective To evaluate whether adopting a permissive MAP target, and thereby potentially reducing exposure to vasoactive drugs, improves outcomes in hypotensive critically ill children. Design, setting, and participants This multicenter, unblinded, pragmatic randomized clinical trial was conducted in 23 pediatric intensive care units (PICUs) in 3 countries. Critically ill children receiving invasive ventilation and vasoactive drugs for hypotension were enrolled between November 2021 and May 2026. Follow-up to the 30-day outcome was completed in June 2026. Interventions Patients randomized to the intervention (n = 957) were assigned a permissive MAP target greater than the fifth percentile for age.",
-      "u": "https://doi.org/10.1001/jama.2026.19747",
-      "image": "",
-      "src": "JAMA · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42806496",
-        "upstream_id": "42806496"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:40+00:00",
-        "input_hash": "72a565d4acc0532ced16fa51eb9588ee8c6d5cbadf948d016d492a13bc103e2a",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162229f12ba1d9cab54f5e",
-              "seconds": 5.92,
-              "usage": {
-                "completion_tokens": 230,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 39
-                },
-                "prompt_tokens": 1427,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1657
-              }
-            },
-            "support": "A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primar",
-            "total": 70
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "大型多中心随机对照试验（1900例、23个PICU）提供了儿科危重症升压治疗MAP目标的首个高质量证据：宽松目标大幅减少血管活性药暴露但未改善主要复合结局，直接冲击现行临床目标设定。限制为非盲实用设计、主要结局为阴性的概率指数分析，临床转化需结合具体人群判断。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162235d3206e4cafa74dad",
-              "seconds": 4.78,
-              "usage": {
-                "completion_tokens": 170,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1427,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1597
-              }
-            },
-            "support": "A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primar",
-            "total": 73
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {
-        "research": "多国23家PICU、近1900例的实用型随机对照试验，为儿童危重症升压治疗MAP目标提供首个大规模证据：宽松目标虽显著减少去甲肾上腺素当量剂量37.5%，但主要复合终点无差异，可直接指导PICU血流管理策略并提示减少血管活性药暴露不改变硬结局。限制为主要终点阴性、次要结局差异幅度小，摘要级信息不足以支持亚组与方案细节评估。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42805227",
-      "t": "Garetosmab（一种激活素 A 阻断抗体）在进行性骨化性纤维发育不良 (OPTIMA) 中的疗效和安全性：一项随机、双盲、安慰剂对照 3 期试验。",
-      "te": "Efficacy and safety of garetosmab, an activin A-blocking antibody, in fibrodysplasia ossificans progressiva (OPTIMA): a randomised, double-blind, placebo-controlled, phase 3 trial.",
-      "s": "背景 进行性骨化性纤维发育不良 (FOP) 是一种极其罕见的遗传性疾病，会导致韧带、肌腱和肌肉进行性异位骨化，从而导致残疾和早期死亡。 FOP 是由 1A 型激活素受体的杂合功能获得性突变引起的，该突变使该受体被激活素 A (ActA) 异常激活，而激活素 A (ActA) 通常会抑制该受体，从而驱动异位骨形成。在 FOP 的临床前模型和早期 2 期试验 (LUMINA-1) 中，阻断 ActA 的抗体 (garetosmab) 可防止异位骨化。我们的目的是评估 garetosmab 对 FOP 成人的疗效和安全性。方法 OPTIMA 是一项随机、双盲、安慰剂对照的 3 期试验，在 16 个国家和地区的 18 个研究中心进行。",
-      "se": "Background Fibrodysplasia ossificans progressiva (FOP) is an ultrarare genetic disorder resulting in progressive heterotopic ossification of ligaments, tendons, and muscles, leading to disability and early mortality. FOP is caused by heterozygous gain-of-function mutations in the activin receptor type 1A, allowing this receptor to be aberrantly activated by activin A (ActA), which normally inhibits this receptor, thus driving heterotopic bone formation. In preclinical models and an earlier phase 2 trial (LUMINA-1) in FOP, an antibody blocking ActA (garetosmab) prevented heterotopic ossification. We aimed to evaluate the efficacy and safety of garetosmab in adults living with FOP. Methods OPTIMA is a randomised, double-blind, placebo-controlled, phase 3 trial conducted at 18 study sites across 16 countries and regions.",
-      "u": "https://doi.org/10.1016/s0140-6736(26)01599-0",
-      "image": "",
-      "src": "The Lancet · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42805227",
-        "upstream_id": "42805227"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:13+00:00",
-        "input_hash": "9b3dfe014b5318661c166fe50b6b8185754b15a725685873fdd948dc52050a79",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162203a6d21676076a4ba6",
-              "seconds": 6.22,
-              "usage": {
-                "completion_tokens": 203,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 16
-                },
-                "prompt_tokens": 1544,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1747
-              }
-            },
-            "support": "there were 19 lesions with placebo versus one lesion with garetosmab 3 mg/kg (rate ratio vs placebo: 0·06 [95% CI 0·00-0·73]; p=0·027)",
-            "total": 73
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "超罕见病FOP的III期随机对照试验，报告garetosmab显著减少新发异位骨病变（19 vs 1-2处），是潜在首个疾病修饰疗法的核心临床证据。限制：样本仅63人、次要关注事件高剂量组较多且为研究者判定，仍需长期安全性与审审批准确认。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162209d08213ee3da149d3",
-              "seconds": 4.91,
-              "usage": {
-                "completion_tokens": 203,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 8
-                },
-                "prompt_tokens": 1544,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1536
-                },
-                "total_tokens": 1747
-              }
-            },
-            "support": "The total number of new heterotopic bone lesions was significantly lower with garetosmab: there were 19 lesions with placebo versus one lesion with garetosmab 3 mg/kg (rate ratio vs placebo: 0·06 [95%",
-            "total": 82
-          }
-        ],
-        "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {
-        "research": "FOP领域的III期随机双盲安慰剂对照试验，显示garetosmab显著减少新发异位骨（安慰剂19例 vs 治疗组1-2例），对超罕见病干预证据稀有且具疾病修饰意义。限制为63例小样本、单一公司资助，长期安全性（10 mg/kg组AESI 17%）与临床功能获益仍需随访验证。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42804178",
-      "t": "1990-2019 年美国食品和药物管理局批准的小分子药物专利。",
-      "te": "Patents on Small-Molecule Drugs Approved by the US Food and Drug Administration, 1990-2019.",
-      "s": "重要性 专利保护允许制药公司在市场独占期间对处方药收取高价，而其到期通常决定仿制药竞争对手何时可以进入美国市场。药物活性成分的专利被归类为主要专利，而制剂、使用方法和递送装置的专利则属于非主要专利。目的 评估美国食品和药物管理局 (FDA) 批准的药物的药品专利组合随时间的变化情况。证据审查对 1990 年至 2019 年 FDA 批准的小分子药物专利进行了检查和评估，以了解每种产品的专利数量和类型的变化。",
-      "se": "Importance Patent protection allows pharmaceutical companies to charge high prices for prescription drugs during periods of market exclusivity, and their expiration usually defines when generic competitors can enter the US market. Patents on drug active ingredients are classified as primary patents, while patents on formulations, methods of use, and delivery devices are nonprimary. Objective To evaluate how pharmaceutical patent portfolios for US Food and Drug Administration (FDA)-approved drugs have evolved over time. Evidence review Patents on small-molecule drugs approved by the FDA from 1990 to 2019 were examined and assessed for changes in the number and types of patents per product.",
-      "u": "https://doi.org/10.1001/jama.2026.16139",
-      "image": "",
-      "src": "JAMA · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research",
-        "business",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42804178",
-        "upstream_id": "42804178"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 72,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:39+00:00",
-        "input_hash": "a7ddf6635f8d75590430e06890829a8821b7c8658db46844991e19eda0a8f3fc",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041622291454b9fea0514119",
-              "seconds": 4.49,
-              "usage": {
-                "completion_tokens": 205,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 46
-                },
-                "prompt_tokens": 1240,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1445
-              }
-            },
-            "support": "The mean number of patents per drug increased from 2.1 in 1990 to 6.9 in 2019, driven primarily by nonprimary patents.",
-            "total": 72
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "对FDA 1990-2019年批准的1981个小分子药及10940项专利的系统量化分析，提供了非核心专利延长市场独占期（中位4.7年）和诉讼频率的新实证数据，对药价、专利策略与仿制药竞争研究有参考价值；局限在于属回顾性专利数据研究，不涉及临床疗效，因果推断有限。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041622340f89271acf7e4a55",
-              "seconds": 5.97,
-              "usage": {
-                "completion_tokens": 299,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 139
-                },
-                "prompt_tokens": 1240,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1539
-              }
-            },
-            "support": "The FDA approved 1981 small-molecule drugs during the study period, and manufacturers listed 10 940 patents on these drugs.",
-            "total": 72
-          }
-        ],
-        "score": 72,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-28",
-      "reasons": {
-        "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
       },
       "historical": true
     }
@@ -5829,6 +5293,15 @@
         "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
       ],
       "minutes": 1
+    },
+    {
+      "date": "2026-10-08",
+      "item_ids": [
+        "pmid:42848371",
+        "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
+        "pmid:42849489"
+      ],
+      "minutes": 3
     },
     {
       "date": "2026-10-07",
@@ -5899,17 +5372,6 @@
         "pmid:42810372"
       ],
       "minutes": 3
-    },
-    {
-      "date": "2026-09-28",
-      "item_ids": [
-        "pmid:42805227",
-        "url:https://medcitynews.com/2026/09/dreamed-wins-fda-clearance-for-cgm-driven-insulin-automation-tool-for-both-type-2-injection-regimens/",
-        "url:https://medcitynews.com/2026/09/hospital-and-payer-ai-governance-is-at-a-crossroads/",
-        "pmid:42804178",
-        "pmid:42806496"
-      ],
-      "minutes": 4
     }
   ]
 }

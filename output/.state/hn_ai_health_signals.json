@@ -1,4 +1,5 @@
 {
-  "url:https://llmspeed.dev/": "dc660025d7a8d91fd13a50644da0a3ed91158cf321f0f1182e6730d6cab4299c",
-  "url:https://www.nature.com/articles/d41586-026-03266-x": "30cba45c2662d2766647641626b1b9aa3c00a227599323546ceb59017e15e4d6"
+  "url:https://llmspeed.dev/": "a8ac8811e8b778ddc7aee377652736359c6ca151d85a5cd6150d367cd67be77e",
+  "url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel": "b6d1a855e093d8d473ce1e510e4b9f58066b56c0fb6c35e9d3d7cd3c6802f05f",
+  "url:https://www.nature.com/articles/d41586-026-03266-x": "2f3086d265e02869d59030bfbaa5b87646829db3e292ac32ac5a45d95479c891"
 }
