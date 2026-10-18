@@ -1,5 +1,6 @@
 {
-  "url:https://llmspeed.dev/": "a8ac8811e8b778ddc7aee377652736359c6ca151d85a5cd6150d367cd67be77e",
-  "url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel": "b6d1a855e093d8d473ce1e510e4b9f58066b56c0fb6c35e9d3d7cd3c6802f05f",
-  "url:https://www.nature.com/articles/d41586-026-03266-x": "2f3086d265e02869d59030bfbaa5b87646829db3e292ac32ac5a45d95479c891"
+  "url:https://arxiv.org/abs/2610.18861": "12f457e6029b6b0a73b210adb9e4799e9520bb793b73280961ca02bf83d36b04",
+  "url:https://blog.picheta.me/post/killswitch-lang/": "30ed9256c75802842e7295f8ebc35873b8f17ecc685a24a2f821bf59c384fd76",
+  "url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel": "f8500317477ac35dfbd7b0325672605376df2b0c28ae44b36b7ecd98e4d1d586",
+  "url:https://www.nature.com/articles/d41586-026-03266-x": "5d4b3e74524189969aa33c8ba8d418bc9a306475abba7f849455a051cbfb337d"
 }

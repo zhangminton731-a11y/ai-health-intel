@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-19
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 445
+> Daily status: **complete_with_warning** · sources 25/26 · items 446
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 441
+## Archive · 442
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2380,7 +2380,7 @@ Machine-learning networks can learn without detailed instructions from a designe
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
 
 No summary supplied by the source.
 
@@ -2436,7 +2436,7 @@ Background: Measles is a major cause of death among infants despite free routine
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
 
 No summary supplied by the source.
 
@@ -2580,7 +2580,7 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 No summary supplied by the source.
 
@@ -2652,7 +2652,7 @@ Siemens Healthineers said Monday that it will no longer sell general imaging ult
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
 
 No summary supplied by the source.
 
@@ -2756,7 +2756,7 @@ A new computational approach reveals how cells communicate to assemble into tiss
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
 No summary supplied by the source.
 
@@ -2844,7 +2844,7 @@ Background: The COVID-19 pandemic necessitated innovative approaches to health c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
 
 No summary supplied by the source.
 
@@ -2900,7 +2900,7 @@ Background: Musculoskeletal (MSK) conditions account for one in seven general pr
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
 
 No summary supplied by the source.
 
@@ -3124,7 +3124,7 @@ The proliferation of evaluative approaches for generative AI tools used for ment
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
 
 No summary supplied by the source.
 
@@ -3156,7 +3156,7 @@ Zimmer Biomet said Tuesday it has inked a multi-year extension to its exclusive 
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
 
 No summary supplied by the source.
 
@@ -3164,7 +3164,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
 
 No summary supplied by the source.
 
@@ -3204,7 +3204,7 @@ Overall, investors put $38.5 billion into reported seed- through growth-stage fi
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03357-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03357-z`
 
 No summary supplied by the source.
 
@@ -3214,13 +3214,13 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
 
-Hacker News community signal; score 521.
+Hacker News community signal; score 540.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
 - Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
 - Reading value: `57` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/`
 
 <p><a href="https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/"><img width="600" height="397" src="https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500-600x397.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500-600x397.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500-300x198.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500.jpg 727w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>City Therapeutics’ lead RNA interference therapy could become an alternative to blockbuster-selling anticoagulants. The company’s technology for designing RNAi drugs and delivering them to tissues throughout the body has already led to partnerships with Bausch + Lomb in eye diseases and Biogen in central nervous system disorders. </p> <p>The post <a href="https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/">City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3252,7 +3252,7 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
 
 No summary supplied by the source.
 
@@ -3428,7 +3428,7 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03389-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03389-5`
 
 No summary supplied by the source.
 
@@ -3436,7 +3436,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
 - Reading value: `27` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/`
 
 <p><a href="https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/"><img width="790" height="442" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap.jpg" class="attachment-large size-large wp-post-image" alt="A dynamic 3D illustration featuring a long, curved arrow with focus circles along its path, each marked with a check signifying approval and progress. On both sides of the arrow are 3D mechanical gears, also containing check marks at their centers. This design symbolizes process flow, efficiency, and successful task completion. The interconnection of the arrow and gears visually conveys the seamless interaction and synchronization of components in a workflow. Ideal for concepts such as project management, quality assurance, and operational excellence, the design&#039;s modern aesthetic and bold 3D elements make it visually compelling and informative." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap.jpg 790w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-300x168.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-768x430.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-360x200.jpg 360w" sizes="auto, (max-width: 790px) 100vw, 790px" /></a></p><p>There is no single solution to the cross-subsidization problem. But here are some strategic actions that can make a health system’s economics more sustainable. </p> <p>The post <a href="https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/">The Impending End of Cross-Subsidization</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3484,7 +3484,7 @@ Ahead of "You Can See Everything" hitting theaters, let's rewind the last decade
 
 - Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/`
 
 <p><a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/">Why Epic Is Launching a Prescription Price Comparison Tool</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3492,7 +3492,7 @@ Ahead of "You Can See Everything" hitting theaters, let's rewind the last decade
 
 - Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03396-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03396-6`
 
 No summary supplied by the source.
 
@@ -3500,25 +3500,25 @@ No summary supplied by the source.
 
 - Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03323-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03323-9`
 
 No summary supplied by the source.
+
+### [I built a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-17` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://blog.picheta.me/post/killswitch-lang/`
+
+Hacker News community signal; score 51.
 
 ### [Large language models for depression assessment from brief daily diaries](https://www.nature.com/articles/s41746-026-03388-6)
 
 - Source: `npj_digital_medicine` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03388-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03388-6`
 
 No summary supplied by the source.
-
-### [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
-
-- Source: `hn_ai_health_signals` · published `2026-10-17` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://llmspeed.dev/`
-
-Hacker News community signal; score 313.
 
 ### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
 
@@ -3532,7 +3532,7 @@ A jury awarded $6 million in damages to scientist David Sabatini, whose career i
 
 - Source: `medcity_news` · published `2026-10-18` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/`
 
 <p><a href="https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/LGBTQ-youth-flag-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/LGBTQ-youth-flag-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/LGBTQ-youth-flag-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/LGBTQ-youth-flag.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Allswell&#8217;s seed round was led by Rethink Impact, and included participation from Magnify Ventures, Ulu Ventures and Hopelab Ventures, joining existing investors Techstars and Amboy Street Ventures.</p> <p>The post <a href="https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/">Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3540,23 +3540,31 @@ A jury awarded $6 million in damages to scientist David Sabatini, whose career i
 
 - Source: `medcity_news` · published `2026-10-18` · freshness `fresh`
 - Reading value: `25` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/exercise-is-prescribed-like-advice-when-it-should-be-delivered-like-treatment/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/exercise-is-prescribed-like-advice-when-it-should-be-delivered-like-treatment/`
 
 <p><a href="https://medcitynews.com/2026/10/exercise-is-prescribed-like-advice-when-it-should-be-delivered-like-treatment/"><img width="588" height="296" src="https://medcitynews.com/wp-content/uploads/sites/7/running_Flickr_TimothyTakemoto-588x296.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/running_Flickr_TimothyTakemoto-588x296.jpg 588w, https://medcitynews.com/wp-content/uploads/sites/7/running_Flickr_TimothyTakemoto-116x58.jpg 116w, https://medcitynews.com/wp-content/uploads/sites/7/running_Flickr_TimothyTakemoto-300x151.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/running_Flickr_TimothyTakemoto-900x453.jpg 900w, https://medcitynews.com/wp-content/uploads/sites/7/running_Flickr_TimothyTakemoto.jpg 1024w" sizes="auto, (max-width: 588px) 100vw, 588px" /></a></p><p>Health care routinely recommends movement without providing assessment, dosage, progression, and follow-up that turn good advice into usable care.</p> <p>The post <a href="https://medcitynews.com/2026/10/exercise-is-prescribed-like-advice-when-it-should-be-delivered-like-treatment/">Exercise is Prescribed Like Advice When It Should Be Delivered Like Treatment</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+
+- Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://arxiv.org/abs/2610.18861`
+
+Hacker News community signal; score 127.
 
 ### [Hyper Optimizing Kimi K3 in vLLM](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
 
 - Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel`
+- Event: `updated` · identity: `url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel`
 
-Hacker News community signal; score 4.
+Hacker News community signal; score 20.
 
 ### [Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder](https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/)
 
 - Source: `medcity_news` · published `2026-10-18` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/`
 
 <p><a href="https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/"><img width="600" height="336" src="https://medcitynews.com/wp-content/uploads/sites/7/2016/12/GettyImages-506181336-600x336.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2016/12/GettyImages-506181336-600x336.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2016/12/GettyImages-506181336-300x168.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2016/12/GettyImages-506181336-768x430.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2016/12/GettyImages-506181336.jpg 790w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>OMass’s molecule is vying to become an alternative to a Neurocrine Biosciences drug that is currently the only FDA-approved therapy for congenital adrenal hyperplasia. But Vertex Pharmaceuticals could also compete with a drug candidate from a recent acquisition. </p> <p>The post <a href="https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/">Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3564,7 +3572,7 @@ Hacker News community signal; score 4.
 
 - Source: `medcity_news` · published `2026-10-18` · freshness `fresh`
 - Reading value: `36` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/the-antibiotics-exist-the-system-cannot-deliver-them/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-antibiotics-exist-the-system-cannot-deliver-them/`
 
 <p><a href="https://medcitynews.com/2026/10/the-antibiotics-exist-the-system-cannot-deliver-them/"><img width="683" height="512" src="https://medcitynews.com/wp-content/uploads/sites/7/2024/12/GettyImages-2096576682.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2024/12/GettyImages-2096576682.jpg 683w, https://medcitynews.com/wp-content/uploads/sites/7/2024/12/GettyImages-2096576682-300x225.jpg 300w" sizes="(max-width: 683px) 100vw, 683px" /></a></p><p>This is not a discovery problem. It is a market entry and access problem, and it is far more tractable than the pipeline crisis we spend most of our attention on.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-antibiotics-exist-the-system-cannot-deliver-them/">The Antibiotics Exist —The System Cannot Deliver Them</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3572,7 +3580,7 @@ Hacker News community signal; score 4.
 
 - Source: `medcity_news` · published `2026-10-18` · freshness `fresh`
 - Reading value: `39` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/`
 
 <p><a href="https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>UPMC Enterprises is making a strategic investment in VeloSource with plans to further develop its AI-enabled staffing management platform.</p> <p>The post <a href="https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/">UPMC Enterprises Invests in VeloSource to Expand AI-Enabled Clinician Staffing Platform</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
