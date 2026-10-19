@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-19
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 447
+> Daily status: **complete_with_warning** · sources 26/26 · items 446
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 443
+## Archive · 442
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -1408,22 +1408,6 @@ The U.S. Food and Drug Administration today approved Fayuvi (rebisufligene etisp
 
 Novel research expands scientific understanding of how RNA shapes the reading of genetic information.
 
-### [Draft guideline on veterinary good pharmacovigilance practices (VGVP) Module: Signal Management - Revision 1](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/draft-guideline-veterinary-good-pharmacovigilance-practices-vgvp-module-signal-management-revision-1_en.pdf)
-
-- Source: `ema_guidance` · published `2026-09-18` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/draft-guideline-veterinary-good-pharmacovigilance-practices-vgvp-module-signal-management-revision-1_en.pdf`
-
-Draft guideline on veterinary good pharmacovigilance practices (VGVP) Module: Signal Management - Revision 1
-
-### [Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf)
-
-- Source: `ema_guidance` · published `2026-09-18` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf`
-
-Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026
-
 ### [Precision prevention and early detection: framework for a new clinical cancer control pathway.](https://doi.org/10.1016/s0140-6736(26)01669-7)
 
 - Source: `lancet_abstracts` · published `2026-09-18` · freshness `stale`
@@ -2512,14 +2496,6 @@ Semiconductors, financial services and space technology led for new Unicorn Boar
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp">Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.
 
-### [Agilent to buy Proscia for $240M](https://www.medtechdive.com/news/agilent-to-buy-proscia-for-240m/832933/)
-
-- Source: `medtech_dive_primary` · published `2026-10-14` · freshness `fresh`
-- Reading value: `69` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/agilent-to-buy-proscia-for-240m/832933/`
-
-Agilent said Tuesday that it has agreed to buy digital pathology software provider Proscia for $240 million upfront. The deal, which includes up to $30 million in milestones, will give Agilent control of technology that connects slide scanners, laboratory information systems and other parts of the pathology workflow. Agilent’s deal comes months after Roche agreed to buy PathAI for up to $1.05 billion. Evercore ISI analysts noted that Agilent “got the rights to play in this market at a lower price point.”
-
 ### [Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro](https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/)
 
 - Source: `apple_newsroom` · published `2026-10-14` · freshness `fresh`
@@ -2535,14 +2511,6 @@ Bünyamin Aydın brought together Turkish heritage, rock influences, and futuris
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…
-
-### [Editorial Expression of Concern: Thyroid hormone inhibits lung fibrosis in mice by improving epithelial mitochondrial function](https://www.nature.com/articles/s41591-026-04733-8)
-
-- Source: `nature_medicine` · published `2026-10-14` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04733-8`
-
-No summary supplied by the source.
 
 ### [Enabling an AI-first European economy](https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/)
 
@@ -2616,14 +2584,6 @@ No summary supplied by the source.
 
 Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI’s development speed to pursue bigger ambitions without shrinking their vision.
 
-### [NVIDIA donates $250m to support UK’s AI research and security](https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/)
-
-- Source: `medical_device_network` · published `2026-10-14` · freshness `fresh`
-- Reading value: `20` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/`
-
-<p>The UK life sciences scene could benefit from Nvidia’s donation, much of which is being allocated to institutions focused on AI safety and research initiatives.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/nvidia-donates-250m-to-support-uk-ai-research-and-security/">NVIDIA donates $250m to support UK’s AI research and security</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Orthofix pays former executives $24M in damages](https://www.medtechdive.com/news/orthofix-pays-fired-ceo-cfo-clo-24m-damages-compensation/832839/)
 
 - Source: `medtech_dive_primary` · published `2026-10-14` · freshness `fresh`
@@ -2688,19 +2648,11 @@ No summary supplied by the source.
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp">People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…
 
-### [<b>Hidden race disparities in cancer treatment toxicity</b>](https://www.nature.com/articles/d41591-026-00050-2)
-
-- Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00050-2`
-
-No summary supplied by the source.
-
 ### [<b>Optogenetic therapy shows early promise for treating retinitis pigmentosa</b>](https://www.nature.com/articles/d41591-026-00051-1)
 
 - Source: `nature_medicine` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00051-1`
 
 No summary supplied by the source.
 
@@ -2711,14 +2663,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e97372`
 
 <strong>Background:</strong> Pulmonary arterial hypertension (PAH) is a rare and progressive disease associated with substantial clinical heterogeneity and high health care costs. While machine learning (ML) has been increasingly applied to predict clinical outcomes, approaches that integrate clinical prediction with downstream economic modeling remain limited. <strong>Objective:</strong> This study proposes and evaluates an ML-based framework that combines prediction of future functional status with estimation of associated health care costs in patients with PAH. <strong>Methods:</strong> In this retrospective cohort study, data from 181 patients with PAH were analyzed. A total of 6 supervised ML algorithms (Least Absolute Shrinkage and Selection Operator [LASSO] regression, ridge regression, k-nearest neighbors, decision trees, random forest, and gradient boosting) were trained to predict the relative change in World Health Organization functional class (WHO-FC) from baseline to 12-month follow-up using baseline clinical variables. Predicted change rates were subsequently converted to predicted WHO-FC values at the 12-month follow-up for downstream health care cost estimation. Missing values in predictor variables were imputed using median substitution. Median imputation was performed before the dataset was split into training and test sets. Model performance was evaluated using Pearson correlation coefficient (<i>r</i>), and error metrics (RMSE, MAE, and MedAE), based on cross-validation and independent test set validation. Predicted WHO-FC values were subsequently linked to externally validated, stratified real-world health care cost estimates to approximate future economic burden. <strong>Results:</strong> Among the evaluated models, k-nearest neighbors showed the highest predictive performance (<i>r</i>=0.40; <i>R</i><sup>2</sup>=0.16), followed by LASSO regression (<i>r</i>=0.30; <i>R</i><sup>2</sup>=0.09). Prediction errors were comparable across models. Estimated mean health care costs ranged from US $12,481 to $12,614 per patient per month. Despite a significant improvement in WHO-FC over 12 months, estimated health care costs remained largely unchanged, reflecting persistent economic burden across functional class strata. <strong>Conclusions:</strong> This study demonstrates the feasibility of an ML-based framework that integrates prediction of functional status with health care cost estimation in PAH. While predictive performance was moderate, the approach illustrates how ML models can be extended beyond clinical end points toward system-level applications such as cost forecasting and resource planning. Further validation in larger, multicenter cohorts is required before clinical or health system implementation.
-
-### [After a melanoma diagnosis, mRNA cancer vaccine delivered a patient hope — and a path forward](https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `27` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/melanoma-diagnosis-mrna-cancer-vaccine-stat-summit-boston-2026/?utm_campaign=rss`
-
-A schoolteacher diagnosed with melanoma provides an inside look at what it was like to be treated with a cancer vaccine developed by Merck and Moderna.
 
 ### [AI Biotech Iambic Gets $150M in IPO Cash for ‘Molecular Superintelligence’ Drug R&D](https://medcitynews.com/2026/10/iambic-ipo-techbio-ai-drug-discovery-cancer-her2-kif18a-cdk2-cdk4-iam/)
 
@@ -2856,14 +2800,6 @@ No summary supplied by the source.
 
 New York-based Chariot Claims has raised $10 million in Series A funding led by Silverton Partners to help consumers pursue claims over alleged privacy violations, hidden fees and subscriptions that are difficult to cancel.
 
-### [FDA approves Stryker’s Sonopet 3 surgical platform](https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/)
-
-- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/`
-
-<p>The US FDA has granted 510(k) clearance to Stryker for Sonopet 3, the medical technology company's latest ultrasonic platform for bone and soft tissue removal.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/fda-strykers-sonopet-3-platform/">FDA approves Stryker’s Sonopet 3 surgical platform</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [How To Build Your Team With Autonomous Humans, Not Just Autonomous Systems](https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
@@ -2895,6 +2831,14 @@ Our north star is simple yet ambitious: No one should be surprised by a natural 
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e89734`
 
 Background: Musculoskeletal (MSK) conditions account for one in seven general practice consultations in the United Kingdom. Despite national guidelines, suboptimal care remains common. Digital clinical decision support systems (CDSSs) offer a promising route to improve care quality but have not been robustly evaluated in MSK primary care. Objective: This study aimed to evaluate the efficacy, clinical effectiveness and cost-effectiveness, carbon reduction, safety, and implementation of a CDSS (CrossCover) for MSK consultations in UK general practice. Methods: We conducted a mixed methods, cluster-randomized controlled trial in 19 general practices between February and July 2024. Practices were randomized 1:1, stratified by list size. Intervention practices received training and access to the web-based CDSS for 3 months. We analyzed anonymized electronic health records to identify all adult MSK consultations. The primary outcome was the proportion of patient records containing one or more of 12 predefined non–evidence-based management options, assessed by blinded clinical review of 120 patient records (60 per arm). Reviewers assessed the complete 3-month record in both arms; in the intervention arm, suboptimal management was counted only where it occurred at a consultation in which the CDSS was used. Secondary outcomes included intention-to-treat treatment comparisons of self-management advice, prescriptions, referrals, and imaging. Clinician engagement, safety, environmental and economic modeling, and clinician experiences from semistructured interviews were evaluated. Outcome assessors were blinded; clinicians were not. Results: Among 10,182 eligible patients with MSK conditions (4268 intervention; 5914 control), the CDSS was used in 365 (8.6%) patient cases. Intention-to-treat analysis identified that the intervention increased self-management alone. Per-protocol analysis demonstrated that when used, suboptimal care arose in 3% (2/60) of CDSS-guided consultations vs 25% (15/60) of control consultations (adjusted odds ratio 12.30, 95% CI 2.52‐59.9; =.002). It also increased self-management advice and community referrals, and it reduced prescribing and fit-note use. Safety concerns were logged in 6.6% (24/365) of uses with no high-risk issues identified. Environmental modeling estimated an 18% reduction in carbon emissions and 10% annual cost savings if the intervention were scaled. Interviews (n=18) highlighted positive perceptions of the CDSS’s content and safety netting but noted challenges in integration. Conclusions: When used, the CrossCover CDSS significantly reduced suboptimal primary care MSK management. However, while safety and clinician feedback were favorable, overall engagement was limited, underscoring the need for improved digital integration, workflow alignment, and implementation support. Trial Registration: ISRCTN Registry ISRCTN38924614; https://www.isrctn.com/ISRCTN38924614 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/105c7d7e27d8de0b5086bcb99dbd07da" />
+
+### [Join Alleima in Minneapolis at MD&M Midwest 2026](https://www.medicaldevice-network.com/sponsored/join-alleima-in-minneapolis-at-mdm-midwest-2026/)
+
+- Source: `medical_device_network` · published `2026-10-15` · freshness `fresh`
+- Reading value: `20` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/sponsored/join-alleima-in-minneapolis-at-mdm-midwest-2026/`
+
+<p>Alleima looks forward to showcasing its wire-based sensor integrations capability and flexible instrument engineering expertise at MD&M Midwest 2026 at booth 3315.</p> <p>The post <a href="https://www.medicaldevice-network.com/sponsored/join-alleima-in-minneapolis-at-mdm-midwest-2026/">Join Alleima in Minneapolis at MD&amp;M Midwest 2026</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Keeping psychedelics in mind](https://www.nature.com/articles/s41551-026-01813-5)
 
@@ -2935,14 +2879,6 @@ Background: Regulatory frameworks such as the Belmont Report, the Common Rule, a
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp">On International Repair Day, we’re highlighting how we design devices for longevity, make repair and reuse more accessible and more.
-
-### [Mass. lawmaker Auchincloss favors boosting U.S. biotech over targeting China](https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `35` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/auchincloss-us-biotech-vs-china-protectionism/?utm_campaign=rss`
-
-Rep. Jake Auchincloss (D-Mass.) has some advice for fellow lawmakers: unapologetically support the biotech industry.
 
 ### [Merck and Moderna have ‘lot of exploring to do’ after initial cancer vaccine success](https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss)
 
@@ -3032,38 +2968,6 @@ Notice NOT-OD-26-130 from the NIH Guide for Grants and Contracts
 
 This letter comments on the systematic review and meta-analysis of large language models (LLMs) in mental health care by Leung and colleagues (JMIR AI 2026;5:e87730). The bivariate meta-analysis with Hartung-Knapp adjustments is methodologically sound, and its cautious conclusions are warranted. I raise an unaddressed threat to the pooled estimates: model version drift. Over the search window (November 2022 to March 2026), &quot;GPT-4&quot; did not denote a single intervention; released in March 2023, it was followed by API snapshots whose behavior differed materially, with accuracy on a prime-number identification task falling from 84% to 51% between the March and June 2023 versions. Because the review extracted only model name and model type and did not capture version or testing dates, the estimates pooled under GPT-4 (k=4) and GPT-3.5 (k=4) may each span several substantively different models, and the pooled GPT-4 estimate may correspond to no single system a clinician could deploy. This concern is distinct from the acknowledged limitation that few studies evaluated the newest variants, which concerns currency rather than comparability. I suggest reporting model version and testing date for each pooled study (consistent with TRIPOD-LLM item 6a), examining robustness to version mixing in sensitivity analyses, and qualifying the abstract comparative statements accordingly. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e770a7e6754928129106feabee847a04" />
 
-### [STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership](https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `54` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss`
-
-Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a massive&#8230;
-
-### [STAT+: Pharmalittle: We’re reading about former FDA head calling DOGE a ‘disaster,’ an AstraZeneca AI deal, and more](https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `31` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/15/former-fda-commissioner-califf-criticized-doge-astrazeneca-ai-deal/?utm_campaign=rss`
-
-Three former FDA chiefs lit into the Trump administration, criticizing the now former FDA officials who oversaw a massive staff exodus
-
-### [STAT+: Verastem’s KRAS inhibitor shows promise in pancreatic cancer](https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/biotech-news-verastem-kras-inhibitor-shows-promise-in-pancreatic-cancer/?utm_campaign=rss`
-
-Verastem Oncology reports encouraging early results for its KRAS G12D inhibitor, which it’s studying in more than 200 patients with advanced solid tumors like metastatic pancreatic ductal adenocarcinoma and non-small&#8230;
-
-### [STAT+: ‘AI sandboxes’ are all the rage. Advocates scramble to control their future](https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `42` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss`
-
-In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.
-
 ### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
@@ -3144,27 +3048,11 @@ U.S. health officials are moving ahead with a plan to allow specialty pharmacies
 
 Zimmer Biomet said Tuesday it has inked a multi-year extension to its exclusive distribution agreement with Think Surgical. The deal, which extends an agreement signed in 2024, positions Zimmer to continue distributing an exclusive version of Think’s TMINI wireless handheld miniature robotic system. Zimmer’s exclusive version of TMINI is compatible with its Persona knee system, a personalized product used in total knee replacements.
 
-### [A generalist model for diverse text-guided medical image synthesis](https://www.nature.com/articles/s41746-026-03381-z)
-
-- Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03381-z`
-
-No summary supplied by the source.
-
-### [A multi-stage validation framework for trustworthy large-scale clinical information extraction using large language models](https://www.nature.com/articles/s41746-026-03341-7)
-
-- Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03341-7`
-
-No summary supplied by the source.
-
 ### [A reality check for autoimmune CAR T cells](https://www.nature.com/articles/d41591-026-00052-0)
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00052-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00052-0`
 
 No summary supplied by the source.
 
@@ -3204,9 +3092,9 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
 
-Hacker News community signal; score 540.
+Hacker News community signal; score 549.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
@@ -3228,7 +3116,7 @@ Hacker News community signal; score 540.
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04719-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04719-6`
 
 No summary supplied by the source.
 
@@ -3240,19 +3128,11 @@ No summary supplied by the source.
 
 <p>An issue with the delivery component of Edwards’ SAPIEN M3 TMVR system has been associated with one patient death and one serious injury as of 5 October.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/edwards-sapien-m3-delivery-system-linked-to-patient-death-in-fda-alert/">Edwards’ SAPIEN M3 delivery system linked to patient death in FDA alert</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [Effectiveness of ecological momentary interventions for patients with cancer: a meta-analysis of randomized controlled trials](https://www.nature.com/articles/s41746-026-03400-z)
-
-- Source: `npj_digital_medicine` · published `2026-10-16` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03400-z`
-
-No summary supplied by the source.
-
 ### [EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial](https://www.nature.com/articles/s41591-026-04715-w)
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04715-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04715-w`
 
 No summary supplied by the source.
 
@@ -3316,7 +3196,7 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04699-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04699-7`
 
 No summary supplied by the source.
 
@@ -3356,7 +3236,7 @@ Background: Personality traits are central to understanding human behavior and l
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04687-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04687-x`
 
 No summary supplied by the source.
 
@@ -3502,7 +3382,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://blog.picheta.me/post/killswitch-lang/`
 
-Hacker News community signal; score 71.
+Hacker News community signal; score 191.
 
 ### [Large language models for depression assessment from brief daily diaries](https://www.nature.com/articles/s41746-026-03388-6)
 
@@ -3542,23 +3422,23 @@ A jury awarded $6 million in damages to scientist David Sabatini, whose career i
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://arxiv.org/abs/2610.18861`
 
-Hacker News community signal; score 197.
+Hacker News community signal; score 395.
 
 ### [Hyper Optimizing Kimi K3 in vLLM](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
 
 - Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel`
+- Event: `updated` · identity: `url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel`
 
-Hacker News community signal; score 20.
+Hacker News community signal; score 27.
 
 ### [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
 
 - Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/`
+- Event: `updated` · identity: `url:https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/`
 
-Hacker News community signal; score 17.
+Hacker News community signal; score 166.
 
 ### [Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder](https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/)
 
@@ -3584,13 +3464,125 @@ Hacker News community signal; score 17.
 
 <p><a href="https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>UPMC Enterprises is making a strategic investment in VeloSource with plans to further develop its AI-enabled staffing management platform.</p> <p>The post <a href="https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/">UPMC Enterprises Invests in VeloSource to Expand AI-Enabled Clinician Staffing Platform</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization](https://www.nature.com/articles/s41746-026-03392-w)
+
+- Source: `npj_digital_medicine` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03392-w`
+
+No summary supplied by the source.
+
+### [AI that understands, reasons and acts: Closing the integration gap in enterprise imaging](https://www.medtechdive.com/spons/ai-that-understands-reasons-and-acts-closing-the-integration-gap-in-enter/833071/)
+
+- Source: `medtech_dive_primary` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.medtechdive.com/spons/ai-that-understands-reasons-and-acts-closing-the-integration-gap-in-enter/833071/`
+
+<p>Agentic AI assists with routing urgent scans, cutting minutes to treatment.</p>
+
+### [Extending synthetic medical education: generating OSCE cases with LLMs](https://www.nature.com/articles/s41746-026-03421-8)
+
+- Source: `npj_digital_medicine` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03421-8`
+
+No summary supplied by the source.
+
+### [Methodological Principles for the Assessment of Section 5.1 of the Summary of Product Characteristics](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/methodological-principles-assessment-section-51-summary-product-characteristics_en.pdf)
+
+- Source: `ema_guidance` · published `2026-10-19` · freshness `fresh`
+- Reading value: `30` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/methodological-principles-assessment-section-51-summary-product-characteristics_en.pdf`
+
+Methodological Principles for the Assessment of Section 5.1 of the Summary of Product Characteristics
+
+### [Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy](https://www.nature.com/articles/s41591-026-04692-0)
+
+- Source: `nature_medicine` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04692-0`
+
+No summary supplied by the source.
+
+### [Opinion: Measles is back — and becoming a midterm liability for Republicans](https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `23` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss`
+
+“Silence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,” write physicians and former GOP Reps. Larry Buchson and Michael Burgess.
+
+### [Opinion: My mother killed herself. I wish assisted suicide had been an option](https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `32` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss`
+
+“Sometimes mental illness is terminal,” Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.
+
+### [Reinforcement learning for repetitive transcranial magnetic stimulation protocol selection in treatment-resistant depression](https://www.nature.com/articles/s41746-026-03417-4)
+
+- Source: `npj_digital_medicine` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03417-4`
+
+No summary supplied by the source.
+
 ### [STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’](https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
 - Reading value: `26` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss`
 
 "The hardest years of my life," is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.
+
+### [STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?](https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `27` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss`
+
+Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise.
+
+### [STAT+: Gilead’s IBS drug eliminated symptoms for patients, mid-stage study finds](https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `49` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss`
+
+An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.
+
+### [STAT+: How the No Surprises Act’s nonprofit arbitrators are operating like ‘mini gods’ and getting rich doing it](https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `60` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss`
+
+A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.
+
+### [STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show](https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `51` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss`
+
+Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for&#8230;
+
+### [USC initiates trial of blood test for breast cancer](https://www.medicaldevice-network.com/news/usc-trial-blood-test-breast-cancer/)
+
+- Source: `medical_device_network` · published `2026-10-19` · freshness `fresh`
+- Reading value: `34` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/usc-trial-blood-test-breast-cancer/`
+
+<p>USC Norris Comprehensive Cancer Center, part of Keck Medicine of USC, has initiated a Phase I clinical trial to determine whether a blood test can detect breast cancer earlier than standard mammograms.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/usc-trial-blood-test-breast-cancer/">USC initiates trial of blood test for breast cancer</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Waiting to get sick enough](https://www.nature.com/articles/s41591-026-04701-2)
+
+- Source: `nature_medicine` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04701-2`
+
+No summary supplied by the source.
 
 ---
 
