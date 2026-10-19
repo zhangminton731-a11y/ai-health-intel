@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-19
 
-> Daily status: **complete_with_warning** · sources 25/26 · items 446
+> Daily status: **complete_with_warning** · sources 26/26 · items 447
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -46,7 +46,7 @@ Background: Large language models (LLMs) are increasingly used to quantify psych
 
 No items.
 
-## Archive · 442
+## Archive · 443
 
 ### [An improved way to detach cells from culture surfaces](https://news.mit.edu/2025/improved-way-detach-cells-culture-surfaces-1118)
 
@@ -2380,7 +2380,7 @@ Machine-learning networks can learn without detailed instructions from a designe
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01804-6`
 
 No summary supplied by the source.
 
@@ -2436,7 +2436,7 @@ Background: Measles is a major cause of death among infants despite free routine
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01812-6`
 
 No summary supplied by the source.
 
@@ -2580,7 +2580,7 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 No summary supplied by the source.
 
@@ -2652,7 +2652,7 @@ Siemens Healthineers said Monday that it will no longer sell general imaging ult
 
 - Source: `nature_biomedical_engineering` · published `2026-10-14` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01800-w`
 
 No summary supplied by the source.
 
@@ -2756,7 +2756,7 @@ A new computational approach reveals how cells communicate to assemble into tiss
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
 No summary supplied by the source.
 
@@ -2844,7 +2844,7 @@ Background: The COVID-19 pandemic necessitated innovative approaches to health c
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
 
 No summary supplied by the source.
 
@@ -2900,17 +2900,9 @@ Background: Musculoskeletal (MSK) conditions account for one in seven general pr
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01813-5`
 
 No summary supplied by the source.
-
-### [Kenya reports second Ebola case](https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `26` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss`
-
-Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to&#8230;
 
 ### [Labcorp outlays up to $872m to acquire BioReference’s laboratory assets](https://www.medicaldevice-network.com/news/labcorp-outlays-up-872m-to-acquire-bioreference-laboratory-assets/)
 
@@ -3124,7 +3116,7 @@ The proliferation of evaluative approaches for generative AI tools used for ment
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
 
 No summary supplied by the source.
 
@@ -3212,7 +3204,7 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-16` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41586-026-03266-x`
 
 Hacker News community signal; score 540.
 
@@ -3508,9 +3500,9 @@ No summary supplied by the source.
 
 - Source: `hn_ai_health_signals` · published `2026-10-17` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.picheta.me/post/killswitch-lang/`
+- Event: `updated` · identity: `url:https://blog.picheta.me/post/killswitch-lang/`
 
-Hacker News community signal; score 51.
+Hacker News community signal; score 71.
 
 ### [Large language models for depression assessment from brief daily diaries](https://www.nature.com/articles/s41746-026-03388-6)
 
@@ -3548,17 +3540,25 @@ A jury awarded $6 million in damages to scientist David Sabatini, whose career i
 
 - Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://arxiv.org/abs/2610.18861`
+- Event: `updated` · identity: `url:https://arxiv.org/abs/2610.18861`
 
-Hacker News community signal; score 127.
+Hacker News community signal; score 197.
 
 ### [Hyper Optimizing Kimi K3 in vLLM](https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel)
 
 - Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel`
+- Event: `seen` · identity: `url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel`
 
 Hacker News community signal; score 20.
+
+### [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-18` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/`
+
+Hacker News community signal; score 17.
 
 ### [Startup OMass Secures $310M to Advance Drug for Rare Endocrine Disorder](https://medcitynews.com/2026/10/startup-omass-rare-disease-endocrine-hormone-melanocortin-2-mc2-cah/)
 
@@ -3583,6 +3583,14 @@ Hacker News community signal; score 20.
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/`
 
 <p><a href="https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1191727241.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>UPMC Enterprises is making a strategic investment in VeloSource with plans to further develop its AI-enabled staffing management platform.</p> <p>The post <a href="https://medcitynews.com/2026/10/upmc-enterprises-invests-in-velosource-to-expand-ai-enabled-clinician-staffing-platform/">UPMC Enterprises Invests in VeloSource to Expand AI-Enabled Clinician Staffing Platform</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’](https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
+- Reading value: `26` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss`
+
+"The hardest years of my life," is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.
 
 ---
 

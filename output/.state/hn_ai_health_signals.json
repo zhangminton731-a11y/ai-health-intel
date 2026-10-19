@@ -1,6 +1,7 @@
 {
-  "url:https://arxiv.org/abs/2610.18861": "12f457e6029b6b0a73b210adb9e4799e9520bb793b73280961ca02bf83d36b04",
-  "url:https://blog.picheta.me/post/killswitch-lang/": "30ed9256c75802842e7295f8ebc35873b8f17ecc685a24a2f821bf59c384fd76",
+  "url:https://arxiv.org/abs/2610.18861": "0caf10ebcc0e78d5963f5a631a7fc7535113411ffecbe25f465a444d4d014faa",
+  "url:https://blog.picheta.me/post/killswitch-lang/": "8c641ed85f4a2841aa464e37b42191c121b2573f848b6605050a8f29a47a7adf",
+  "url:https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/": "d51ffacd458fb88dab13db1b9f4830a6276205fc2e3e7ec5007f91e103487eeb",
   "url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel": "f8500317477ac35dfbd7b0325672605376df2b0c28ae44b36b7ecd98e4d1d586",
   "url:https://www.nature.com/articles/d41586-026-03266-x": "5d4b3e74524189969aa33c8ba8d418bc9a306475abba7f849455a051cbfb337d"
 }
