@@ -1,7 +1,5 @@
 {
-  "url:https://arxiv.org/abs/2610.18861": "d4e85d3fc9f8fb43151608a1ca193f42564a45b96daee7aeecb6682aa50cc0c7",
-  "url:https://blog.picheta.me/post/killswitch-lang/": "08683b4d3d90f2a3a0b22f8daca7c5c7b5126a28758764c89a7ddfd923a244a7",
-  "url:https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/": "9c54308547f1844260b8ef7f00fe4b9182e2da12f0181205f7ac97d2299b28b5",
-  "url:https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel": "2b010d04b9a341cc56351f65504e779a415ca39516129c56603aa9a15dd48f05",
-  "url:https://www.nature.com/articles/d41586-026-03266-x": "b52372a4a59f621d2ea2b1ee47e572612f0de68e4a384cd6a11ca7b991d00510"
+  "url:https://arxiv.org/abs/2610.18861": "a03b6976c908ca9276184c46857bea0555aa678cb63b468584c5e67215b72759",
+  "url:https://blog.picheta.me/post/killswitch-lang/": "4c94b4cf13e732b8f06336010ae7ffda6ffce8bb6681fd9edc6cfc85e7b3d352",
+  "url:https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/": "851956582b06ea7feadc7b6c03732aa9358c5199090d6ed162612809d73ecb1b"
 }

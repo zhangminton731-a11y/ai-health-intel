@@ -1,9 +1,131 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T09:54:55+00:00",
-  "as_of": "2026-10-19",
-  "count": 4,
+  "generated_at": "2026-10-19T16:58:57+00:00",
+  "as_of": "2026-10-20",
+  "count": 13,
   "items": [
+    {
+      "id": "pmid:42862588",
+      "title": "美国捐赠者心脏分配的成人医疗紧急度评分的制定和验证。",
+      "original_title": "Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation.",
+      "summary": "重要性 在美国，五分之一的心脏移植候选人会死亡或未经移植而被除名。目前，捐献者的心脏是由基于 6 种状态的治疗系统进行分配的，该系统因风险分层有限且容易受到博弈的影响而受到批评。目的 根据客观医疗紧急度评分制定新的心脏分配政策，根据生理学和机械循环支持之间的相互作用对候选者进行排名。使用美国器官移植系统的数据设计、设置和参与者基于登记的观察性研究。 2019年1月至2025年8月的所有成人（年龄≥18岁）心脏移植候选者均被纳入，分为训练（2019-2023）、验证（2023-2024）和测试（2024-2025）数据集。主要结果和措施 估算了不进行移植的 6 周死亡率的边际结构模型（美国候选者风险评分 [US-CRS]）。",
+      "url": "https://doi.org/10.1001/jama.2026.17403",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-12",
+      "topics": [
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42862588",
+        "upstream_id": "42862588"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
+      },
+      "reading_value_score": 76,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:33+00:00",
+        "input_hash": "e66a0b2c50695596f7f27c3574b381fc609e2943ce720425b9e8a7433b55f4b4",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "US-CRS以生理学联合机械循环支持对等待名单者做连续风险分层，AUC 0.807显著优于现行6状态系统，可为移植分配政策与风险建模方法提供直接参考；但分配模拟显示首位候选者6周死亡率上升（11.2%→15.7%），提示新政策的公平性与结局权衡仍需审慎评估，且为观察性登记数据、非实施后验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100267d37fbc937ad4e6c",
+              "seconds": 3.55,
+              "usage": {
+                "completion_tokens": 176,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1312,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1488
+              }
+            },
+            "support": "US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively)",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001003081a95ee864d24483",
+              "seconds": 3.55,
+              "usage": {
+                "completion_tokens": 175,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1312,
+                "prompt_tokens_details": {
+                  "cached_tokens": 704
+                },
+                "total_tokens": 1487
+              }
+            },
+            "support": "a US-CRS-based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2%",
+            "total": 75
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
     {
       "id": "url:https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/",
       "title": "Edwards 召回 Sapien 二尖瓣输送系统导致 1 人死亡",
@@ -366,6 +488,248 @@
       }
     },
     {
+      "id": "pmid:42863122",
+      "title": "怀孕早期使用苯二氮卓类药物和先天性畸形的风险。",
+      "original_title": "Benzodiazepine Use Early in Pregnancy and Risk for Congenital Malformations.",
+      "summary": "背景 关于妊娠期使用苯二氮卓类药物引起的畸形的现有数据是相互矛盾的。目的 评估妊娠早期接触苯二氮卓类药物导致主要先天畸形的风险。设计基于人群的美国队列研究。设置 Medicaid (2000-2018) 和 Merative MarketScan (2003-2020) 数据库。参与者 怀孕前 90 天至产后 30 天的孕妇以及出生后 90 天的活产婴儿。测量 暴露定义为在妊娠早期至少服用 1 次苯二氮卓类药物。主要结局是先前与苯二氮卓类药物暴露相关的任何主要先天性畸形和器官特异性畸形。",
+      "url": "https://doi.org/10.7326/annals-25-05148",
+      "source": "Annals of Internal Medicine · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-13",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "annals_internal_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "annals_internal_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42863122",
+        "upstream_id": "42863122"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "data"
+      ],
+      "recommendation_reasons": {
+        "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
+      },
+      "reading_value_score": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:40+00:00",
+        "input_hash": "c03a08f90daaa0c64ba5f1a08ed06c95cb78bc70a63696446748b503fd718fb2",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项大型数据库（逾400万妊娠）的倾向评分分析给出苯二氮卓类早孕暴露与重大先天畸形无关的稳健阴性结果（合并RR 0.99），可直接支持产科用药咨询与研究设计。局限为观察性设计、暴露与结局错分可能及仅限出生时可见畸形。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010034c650fdc07c2f4384",
+              "seconds": 3.22,
+              "usage": {
+                "completion_tokens": 137,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1231,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1368
+              }
+            },
+            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03).",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100376a58384b0d074131",
+              "seconds": 2.78,
+              "usage": {
+                "completion_tokens": 149,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1231,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1380
+              }
+            },
+            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03). Associations with organ-specific malformations were not consistently observed in sensitivity analyses",
+            "total": 74
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42873070",
+      "title": "急性肾损伤的间歇或连续肾脏替代治疗。",
+      "original_title": "Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury.",
+      "summary": "背景 危重患者急性肾损伤的首选肾脏替代治疗方法仍不确定。到第 90 天，间歇组有 203 名患者（78.1%）发生了重大肾脏不良事件，连续组有 197 名患者（71.6%）发生了重大肾脏不良事件（调整后的绝对风险差异，6.28 个百分点；95% 置信区间 [CI]，-1.22 至 13.79）。",
+      "url": "https://doi.org/10.1056/nejmoa2608397",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-14",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42873070",
+        "upstream_id": "42873070"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
+      },
+      "reading_value_score": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:07+00:00",
+        "input_hash": "4b1939dba8788e49b2440967befb824c6ccaa14dfbf37af189bbf21ac1d34bb5",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心非劣效RCT因间歇性血透死亡率高于CRRT而提前终止，直接冲击ICU急性肾损伤初始肾脏替代方式的选择。554例样本、主要结局与90天死亡率数据具体，可作为科室RRT启动策略与后续试验设计依据；局限在于开放标签设计且因提前终止对死亡率信号的解读需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001000165b326a103024bd6",
+              "seconds": 3.5,
+              "usage": {
+                "completion_tokens": 162,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1249,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1411
+              }
+            },
+            "support": "intermittent hemodialysis as the initial treatment approach was not shown to be noninferior to continuous renal-replacement therapy with respect to major adverse kidney events by day 90 and was associ",
+            "total": 79
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001000494d7eb0b60f34c85",
+              "seconds": 2.85,
+              "usage": {
+                "completion_tokens": 141,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1249,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1390
+              }
+            },
+            "support": "The trial was stopped early after sequential interim analyses showed a sustained signal of higher mortality with intermittent hemodialysis than with continuous renal-replacement therapy.",
+            "total": 70
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e102768",
       "title": "评估大型语言模型衍生的输出作为心理测量：适用于日常压力的五领域心理测量框架",
       "original_title": "Evaluating Large Language Model–Derived Outputs as Psychological Measures: A Five-Domain Psychometric Framework With Application to Daily Stress",
@@ -481,6 +845,731 @@
           }
         ],
         "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42872914",
+      "title": "术中多巴酚丁胺加去甲肾上腺素预防感染性休克术后急性肾损伤：一项随机临床试验。",
+      "original_title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
+      "summary": "重要性 基于极低确定性的证据，国际指南建议使用多巴酚丁胺来治疗成人感染性休克和伴有持续低灌注的心功能障碍。缺乏关于术中多巴酚丁胺联合去甲肾上腺素与去甲肾上腺素对接受手术感染性休克患者术后感染源控制的影响的随机试验。目的 确定术中多巴酚丁胺联合去甲肾上腺素是否可以减轻接受手术源控制的感染性休克患者术后 7 天内的急性肾损伤（AKI）。设计、设置和参与者 这项在中国 39 家三级医院开展的随机、开放标签临床试验纳入了 2024 年 6 月至 2025 年 8 月期间接受手术源控制的感染性休克成人患者。随访于 2025 年 11 月 15 日结束。",
+      "url": "https://doi.org/10.1001/jama.2026.21322",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-14",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42872914",
+        "upstream_id": "42872914"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
+      },
+      "reading_value_score": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:26+00:00",
+        "input_hash": "370ae654905fda047ac93da239cdd22912e74fe964d4991aad3948f5dec14377",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心随机对照试验首次针对指南低证据推荐的多巴酚丁胺联合去甲肾上腺素策略，584例感染性休克手术患者显示7天内AKI风险显著降低，可直接影响围术期循环管理与后续研究设计。主要局限为开放标签设计，9/11次要终点无差异，且仅报告摘要级数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010019ac0c1ad7feec4a19",
+              "seconds": 3.16,
+              "usage": {
+                "completion_tokens": 156,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1486,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1642
+              }
+            },
+            "support": "intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100232a27fcd484b64d89",
+              "seconds": 3.5,
+              "usage": {
+                "completion_tokens": 185,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1486,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1472
+                },
+                "total_tokens": 1671
+              }
+            },
+            "support": "new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone",
+            "total": 72
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41551-026-01812-6",
+      "title": "通过持续学习重新利用成人人工智能射线照相模型进行新生儿护理：一项国际多中心研究",
+      "original_title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
+      "summary": "在这里，我们对来自 20 个国家和地区 30 个新生儿重症监护病房的新生儿胸片进行了一项国际回顾性研究，评估了持续学习作为一种隐私保护方法，以将成人气管插管评估的深度学习模型应用于新生儿护理。持续学习在 30 个站点中的 29 个站点中实现了较低的解剖标志定位误差（医院特定微调为 0.67 厘米，对于仅限成人模型为 4.30 厘米），并在 30 个站点中的 27 个站点中改进了深部插管的检测。",
+      "url": "https://www.nature.com/articles/s41551-026-01812-6",
+      "source": "Nature Biomedical Engineering",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-13",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_biomedical_engineering"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_biomedical_engineering",
+        "summary_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41551-026-01812-6&format=json&resultType=core",
+        "upstream_id": "https://www.nature.com/articles/s41551-026-01812-6"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis"
+      ],
+      "recommendation_reasons": {
+        "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T16:59:59+00:00",
+        "input_hash": "6c4e2c9914be2a6c5d046463254d2e58a957f6e247a21e7e0302539f21abcc68",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200059530a3c1cf4a89f4904",
+              "seconds": 3.22,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1150
+              }
+            },
+            "support": "Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling. Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心研究给出了持续学习在新生儿胸片中复用成人模型的具体量化结果（各站点地标定位误差对比），且采用每院50张、无需数据池化的隐私保护设计，对儿科AI部署和跨机构协作研究设计有直接参考价值；属于回顾性研究，定位误差改善不等于临床结局获益，需注意外推限制。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102000595653911fa40bc44dbd",
+              "seconds": 3.46,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1150
+              }
+            },
+            "support": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42872606",
+      "title": "机械通气危重成年患者的液体治疗。",
+      "original_title": "Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
+      "summary": "重要性 液体治疗在重症监护病房 (ICU) 中无处不在，但存在风险，特别是对于机械通气患者。目前全球在剂量、适应症和类型方面的实践尚不清楚。目的 描述 ICU 成人机械通气液体操作的特点。设计、设置和参与者 2024 年 4 月至 2025 年 7 月期间在六大洲 41 个国家的 206 个 ICU 中进行的国际前瞻性观察队列研究。入ICU后3天内连续接受有创机械通气且通气24小时或更长时间的成年患者。排除标准是年龄小于 16 岁并且从另一个 ICU 转入机械通气。暴露 插管后的液体量、适应症和类型。主要结局和指标 主要指标包括（1）插管后 7 天内的总输液量和每日液体平衡；",
+      "url": "https://doi.org/10.1001/jama.2026.21291",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-14",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42872606",
+        "upstream_id": "42872606"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design"
+      ],
+      "recommendation_reasons": {
+        "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:28+00:00",
+        "input_hash": "6e3997d0450af1cd4d9a15bd518824d1842d5115cf4f632053fcdef09967edc2",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大规模国际前瞻性观察研究（206个ICU、2454例患者）首次系统量化机械通气患者的液体治疗实践，揭示维持与'creep'液体而非复苏液体占总入量主体，可为液体管理质量改进和后续干预试验设计提供基线；局限为观察性设计，不能推断液体策略与结局的因果关系。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001002233eb2bfd04c647e4",
+              "seconds": 2.99,
+              "usage": {
+                "completion_tokens": 155,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1449
+              }
+            },
+            "support": "In this prospective international cohort study, fluid therapy varied widely among mechanically ventilated critically ill patients, with maintenance and creep fluids-rather than resuscitation fluids-ac",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010025dfcf58a0eb034683",
+              "seconds": 3.55,
+              "usage": {
+                "completion_tokens": 129,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1423
+              }
+            },
+            "support": "maintenance and creep fluids-rather than resuscitation fluids-accounting for most total volume",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "title": "FDA 批准免疫疗法可让某些直肠癌患者避免化疗、放疗和手术",
+      "original_title": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+      "summary": "美国食品和药物管理局今天加速批准免疫疗法 Jemperli (dostarlimab-gxly) 的新用途，该疗法可能使一些局部晚期直肠癌患者避免对其日常生活产生持久影响的常见治疗。",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "source": "FDA · 官方公告",
+      "source_type": "官方机构",
+      "published_at": "2026-10-19",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-19T17:01:00+00:00",
+        "input_hash": "7468327e1d4233cbe391c9bf26d6d296b66fda36ca6fbabc9475bb98a73e6971",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 4,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100534c331baf615b4883",
+              "seconds": 2.8,
+              "usage": {
+                "completion_tokens": 159,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 5
+                },
+                "prompt_tokens": 829,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 988
+              }
+            },
+            "support": "granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally advanced rectal cancer to avoid common treatments",
+            "total": 67
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA已对Jemperli（dostarlimab）授予局部晚期直肠癌新适应症的加速批准，是已发生的监管准入事实，标志免疫治疗实现器官保留策略的正式落地，医院与药企可据此评估诊疗路径与市场变化。限制在于为加速批准，需验证性试验确认长期获益，材料未提供关键试验数据细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010056e9b0330f68e6446c",
+              "seconds": 3.49,
+              "usage": {
+                "completion_tokens": 178,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 21
+                },
+                "prompt_tokens": 829,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1007
+              }
+            },
+            "support": "The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly)",
+            "total": 76
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42869550",
+      "title": "报告评估医学大语言模型干预的临床试验的完整性：系统评价。",
+      "original_title": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review.",
+      "summary": "目的 使用既定的报告指南来描述涉及大语言模型 (LLM) 干预的临床试验的报告完整性。设计系统回顾和元研究分析。数据来源 在书目数据库（Embase、Medline 和 CENTRAL）中检索试验报告和方案，在试验注册中心（ClinicalTrials.gov 和世界卫生组织国际临床试验注册平台）中检索 2017 年 1 月 1 日至 2025 年 12 月 6 日期间发布的试验注册。 资格标准 描述 LLM 医学干预临床试验的试验报告、试验方案和试验注册。",
+      "url": "https://doi.org/10.1136/bmj-2026-100855",
+      "source": "The BMJ · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-13",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42869550",
+        "upstream_id": "42869550"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
+      },
+      "reading_value_score": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:55+00:00",
+        "input_hash": "31caba1cf49b3671026f408fd95b6fabaed334e3d789385da487d1f3bb45d622",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "系统综述量化了68份LLM临床试验报告对TRIPOD-LLM、CONSORT等指南的依从率（40%–59%），指出模型版本、推理参数、数据代码可及性和安全性报告的系统性缺失，可直接指导研究者设计LLM试验和审稿评价。主要限制是评估截至2025年的小样本早期试验，结论对方法学规范的反映多于对临床效果的判断。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001004879a90f142f364005",
+              "seconds": 3.91,
+              "usage": {
+                "completion_tokens": 179,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 6
+                },
+                "prompt_tokens": 1386,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1565
+              }
+            },
+            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 6,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100512e34710bb9034288",
+              "seconds": 3.51,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1386,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1552
+              }
+            },
+            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
+            "total": 67
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42872917",
+      "title": "加压素起始阈值对感染性休克死亡率的影响：VASSPR 集群交叉随机策略试验。",
+      "original_title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
+      "summary": "重要性 对于感染性休克患者，开始使用第二种血管升压药的最佳升压药剂量尚不确定。干预 医院层面实施感染性休克管理策略，建议当其他血管升压药的总剂量达到去甲肾上腺素或等效物 0.1 µg/kg/min 或等效物（较低阈值策略）或其他血管升压药的总剂量达到去甲肾上腺素或等效物 0.4 µg/kg/min 时（较高阈值策略），开始固定剂量加压素。",
+      "url": "https://doi.org/10.1001/jama.2026.21333",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-14",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42872917",
+        "upstream_id": "42872917"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
+      },
+      "reading_value_score": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:22+00:00",
+        "input_hash": "f86498030d9ab798eeba72bcff4ee264dfd1a9bd80dc06a4c5097122fa73cb12",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型整群交叉实用化策略试验，直接回答感染性休克中血管加压素启动阈值这一常见临床争议，阴性结果可指导救治方案与后续研究设计；摘要级信息完整，但具体亚组与细节需看全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010015eddbab48e4a94cc4",
+              "seconds": 3.21,
+              "usage": {
+                "completion_tokens": 138,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1605,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1743
+              }
+            },
+            "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 6,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001001897c9c8244f624750",
+              "seconds": 3.32,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1605,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1600
+                },
+                "total_tokens": 1771
+              }
+            },
+            "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
+            "total": 67
+          }
+        ],
+        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",

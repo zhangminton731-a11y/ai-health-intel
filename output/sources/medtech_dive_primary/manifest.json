@@ -2,9 +2,9 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 9065,
+      "bytes_read": 9162,
       "content_type": "application/rss+xml",
-      "elapsed_ms": 141,
+      "elapsed_ms": 130,
       "error_code": null,
       "final_url": "https://www.medtechdive.com/feeds/news/",
       "http_status": 200,
@@ -17,10 +17,6 @@
     },
     {
       "kind": "dive_brief",
-      "status": "cached"
-    },
-    {
-      "kind": "dive_brief",
       "status": "unavailable"
     },
     {
@@ -37,19 +33,23 @@
     },
     {
       "kind": "dive_brief",
-      "status": "cached"
-    },
-    {
-      "kind": "dive_brief",
-      "status": "cached"
-    },
-    {
-      "kind": "dive_brief",
-      "status": "cached"
-    },
-    {
-      "kind": "dive_brief",
       "status": "unavailable"
+    },
+    {
+      "kind": "dive_brief",
+      "status": "cached"
+    },
+    {
+      "kind": "dive_brief",
+      "status": "cached"
+    },
+    {
+      "kind": "dive_brief",
+      "status": "cached"
+    },
+    {
+      "kind": "dive_brief",
+      "status": "cached"
     },
     {
       "count": 10,
@@ -57,13 +57,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 768,
+  "elapsed_ms": 1290,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-19T09:54:55+00:00",
+  "generated_at": "2026-10-19T16:58:57+00:00",
   "item_count": 10,
-  "last_checked_at": "2026-10-19T09:54:55+00:00",
-  "last_success_at": "2026-10-19T09:54:55+00:00",
+  "last_checked_at": "2026-10-19T16:58:57+00:00",
+  "last_success_at": "2026-10-19T16:58:57+00:00",
   "recovered": false,
   "required": true,
   "role": "primary",

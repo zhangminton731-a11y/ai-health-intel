@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T09:54:55+00:00",
-  "as_of": "2026-10-19",
+  "generated_at": "2026-10-19T16:58:57+00:00",
+  "as_of": "2026-10-20",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -128,7 +128,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -256,7 +256,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -386,7 +386,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -516,7 +516,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
@@ -641,7 +641,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -767,7 +767,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -899,7 +899,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -1031,7 +1031,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -1082,7 +1082,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1213,7 +1213,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -1264,7 +1264,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1314,7 +1314,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1364,7 +1364,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1415,7 +1415,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1466,7 +1466,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1513,7 +1513,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1647,7 +1647,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -1779,7 +1779,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -1829,7 +1829,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1880,7 +1880,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1932,7 +1932,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1984,7 +1984,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2033,7 +2033,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2086,7 +2086,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2216,7 +2216,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -2346,7 +2346,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -2394,7 +2394,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2445,7 +2445,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2497,7 +2497,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2546,7 +2546,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2675,7 +2675,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {
         "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
@@ -2804,7 +2804,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
@@ -2933,7 +2933,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
@@ -2979,7 +2979,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3026,7 +3026,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3077,7 +3077,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3129,7 +3129,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3180,7 +3180,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3229,7 +3229,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3278,7 +3278,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3326,7 +3326,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3376,7 +3376,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3427,7 +3427,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3479,7 +3479,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3530,7 +3530,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3582,7 +3582,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3634,7 +3634,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3680,7 +3680,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3726,7 +3726,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3778,7 +3778,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {},
       "historical": true
@@ -3906,7 +3906,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
@@ -4037,7 +4037,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
@@ -4168,7 +4168,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
@@ -4295,993 +4295,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-09-30",
       "reasons": {
         "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
-      "t": "STAT+：Anthropic 加入 ARPA-H 临床人工智能登月计划，将举办闭门医疗保健活动",
-      "te": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
-      "s": "在本期 STAT Health Tech 中：Oura 推迟 IPO 计划、Anthropic 加入 ARPA-H 的临床人工智能工作以及 MAHA 的健康数据目标。",
-      "se": "In this edition of STAT Health Tech: Oura delays IPO plans, Anthropic joins an clinical AI effort by ARPA-H, and MAHA's health data goals.",
-      "u": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
-      "image": "",
-      "src": "STAT News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "consumer"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology",
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "stat_news_feed"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "stat_news_feed",
-        "upstream_id": "https://www.statnews.com/?p=1525998"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04651-9",
-      "t": "口服小分子 GLP-1 受体激动剂 safiglipron 治疗早期 2 型糖尿病：一项随机、双盲、安慰剂对照试验",
-      "te": "Oral small-molecule GLP-1 receptor agonist safiglipron in early type 2 diabetes: a randomized, double-blind, placebo-controlled trial",
-      "s": "Safiglipron 是一种口服小分子胰高血糖素样肽-1 (GLP-1) 受体激动剂，无需禁食或饮食限制。我们在 OUTSTAND-1 中评估了其有效性和安全性，这是一项在中国 46 个地点进行的 3 期、多中心、随机、双盲、安慰剂对照试验。我们将 284 名仅通过饮食和运动进行管理的 2 型糖尿病成人（平均基线 HbA1c 7.95%，中位糖尿病病程 1.6 年，33.1% 为女性）随机分为每日一次的 safiglipron 30 mg (n = 70)、60 mg (n = 70)、90 mg (n = 72) 或安慰剂 (n = 72)，为期 32 周，然后进行20 周积极治疗延长。对于主要终点，30 mg、60 mg和90 mg组的HbA1c从基线到第32周的变化的安慰剂调整治疗差异分别为-1.22%（95% CI，-1.53至-0.91）、-1.20%（95% CI，-1.52至-0.89）和-1.45%（95% CI，-1.75至-1.14）。分别（所有 P < 0.0001；",
-      "se": "Safiglipron is an oral small-molecule glucagon-like peptide-1 (GLP-1) receptor agonist administered without fasting or dietary restrictions. We evaluated its efficacy and safety in OUTSTAND-1, a phase 3, multicenter, randomized, double-blind, placebo-controlled trial at 46 sites in China. We randomized 284 adults with type 2 diabetes managed with diet and exercise alone (mean baseline HbA1c 7.95%, median diabetes duration 1.6 years, 33.1% women) to once-daily safiglipron 30 mg (n = 70), 60 mg (n = 70), 90 mg (n = 72) or placebo (n = 72) for 32 weeks, followed by a 20-week active-treatment extension. For the primary endpoint, placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14) for 30 mg, 60 mg and 90 mg, respectively (all P < 0.0001;",
-      "u": "https://www.nature.com/articles/s41591-026-04651-9",
-      "image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04651-9/MediaObjects/41591_2026_4651_Fig2_HTML.png",
-      "imageSource": "https://www.nature.com/articles/s41591-026-04651-9/figures/2",
-      "imageAlt": "原文图 2：血糖和体重结局",
-      "src": "Nature Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-04T17:35:01+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04651-9",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04651-9"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:36:45+00:00",
-        "input_hash": "caabdbd8a032638e36f873aee55ad2173c1aa8e1de0c0109493fcfcb327767c3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163632b8230fb103ff4726",
-              "seconds": 5.91,
-              "usage": {
-                "completion_tokens": 272,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 31
-                },
-                "prompt_tokens": 1500,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1772
-              }
-            },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14) for 30 mg, 60",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "III期RCT证实口服小分子GLP-1RA safiglipron在早期2型糖尿病患者中显著降HbA1c达1.45%，为非注射GLP-1治疗提供关键临床证据，对内分泌研究与新药评估有直接参考价值；限制在于人群限于未用药患者、减重效果温和、长期安全性待验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163638e870174dab764fc0",
-              "seconds": 7.16,
-              "usage": {
-                "completion_tokens": 402,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 195
-                },
-                "prompt_tokens": 1500,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1902
-              }
-            },
-            "support": "placebo-adjusted treatment differences in HbA1c change from baseline to week 32 were −1.22% (95% CI, −1.53 to −0.91), −1.20% (95% CI, −1.52 to −0.89) and −1.45% (95% CI, −1.75 to −1.14)",
-            "total": 78
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {
-        "research": "这是非肽类口服GLP-1受体激动剂safiglipron的III期随机双盲安慰剂对照试验，提供了该药在早期2型糖尿病中降糖效果与安全性的首个III期证据，对临床研究者评估口服小分子GLP-1类药物的疗效剂量关系和停药率有直接参考价值。限制为人群限于饮食运动控制的早期患者、体重效果有限，且仅有摘要级信息，长期心血管结局未涉及。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-      "t": "Oura推迟首次公开募股",
-      "te": "Oura delays IPO",
-      "s": "以市场不确定性为由，这家智能戒指制造商计划推迟其原本预计筹集至多 22 亿美元的公开募股。",
-      "se": "Citing market uncertainty, the smart ring maker plans to delay a public offering that it had expected to raise up to $2.2 billion.",
-      "u": "https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-      "image": "https://imgproxy.divecdn.com/dWwvl3Ls0vDbyjrmbIMaGNVoHBqj64OuWCY1TpoL6HA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMl9PdXJhX1JpbmdfNF9Qcm9kdWN0X0ltYWdlcnkuanBn.webp",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "consumer",
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/dWwvl3Ls0vDbyjrmbIMaGNVoHBqj64OuWCY1TpoL6HA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMl9PdXJhX1JpbmdfNF9Qcm9kdWN0X0ltYWdlcnkuanBn.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/oura-delays-ipo/831650/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
-      "t": "Dexcom 报告描绘了 2 型糖尿病患者使用 CGM 的复杂情况",
-      "te": "Dexcom report paints mixed picture of CGM use by people with type 2 diabetes",
-      "s": "尽管人们越来越认识到 CGM 和 GLP-1 用于 2 型糖尿病管理，但 Dexcom 的报告发现，缺乏认识和获取挑战仍然存在。",
-      "se": "Despite growing awareness of CGM and GLP-1 use for type 2 diabetes management, Dexcom’s report found that lack of awareness and access challenges persist.",
-      "u": "https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
-      "image": "",
-      "src": "Medical Device Network",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245433"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e99980",
-      "t": "数据科学健康研究中伦理治理连续性的消解：生命周期监督的诊断和响应框架",
-      "te": "Dissolution of Continuity of Ethical Governance in Data Science Health Research: Diagnostic and Response Framework for Lifecycle Oversight",
-      "s": "基于我们之前关于代表性准确性和连续性陷阱的工作，我们提出了一种诊断架构，该架构评估六个治理权威领域，应用三个诊断标准，在连续性权威矩阵（CAM）中对每个领域进行从 0 到 3 的评分，并将严重性从 0 到 4 进行分级。分数和分期阈值是概念性分类辅助工具，而不是经过验证的指标或道德许可性的自动确定，它们需要经验验证和参与者间可靠性测试。",
-      "se": "Building on our prior work on representational veracity and the continuity trap, we propose a diagnostic architecture that assesses six governance authority domains, applies three diagnostic criteria, scores each domain from 0 to 3 within a Continuity Authority Matrix (CAM), and stages severity from 0 to 4. The score and staging thresholds are conceptual triage aids, not validated metrics or automated determinations of ethical permissibility, and they require empirical validation and interrater reliability testing.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e99980",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e99980"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96587",
-      "t": "大语言模型在回答中英消费者健康问题时的双语表现：比较基准研究",
-      "te": "Bilingual Performance of Large Language Models in Answering Consumer Health Questions in English and Chinese: Comparative Benchmark Study",
-      "s": "结论：当代大语言模型在英语和中文消费者健康问题上均取得了较高的二元准确性，且没有显着的总体语言效应。唯一稳健的特定于模型的语言交互是 DeepSeek 的英语可理解性下降，由 TOPSIS 分层分析独立证实。这些发现表明，跨语言沟通质量问题是特定于模型的，而不是普遍存在的，因此需要有针对性的监控。结果：英语和中文输入在无上下文条件下显示出相当的总体准确性（1572/1650，95.27％ vs 1548/1650，93.82％），并且没有显着的语言主效应（β=0.00；P=.99）。 FDR 校正后，任何单个模型的语言主效应均不显着。",
-      "se": "Conclusions: Contemporary LLMs achieved high binary accuracy on consumer health questions in both English and Chinese, with no significant aggregate language effect. The only robust model-specific language interaction was DeepSeek’s English understandability decrement, independently confirmed by TOPSIS tier analysis. These findings suggested that cross-linguistic communication quality concerns were model-specific rather than universal and warrant targeted monitoring. Results: English and Chinese inputs showed comparable overall accuracy under no-context conditions (1572/1650, 95.27% vs 1548/1650, 93.82%), with no significant language main effect (β=0.00; P =.99). No language main effects for any individual model remained significant after FDR correction.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e96587",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96587"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e94896",
-      "t": "数字化对荷兰医院绩效的影响：纵向定量研究",
-      "te": "Impact of Digitalization on Performance of Dutch Hospitals: Longitudinal Quantitative Study",
-      "s": "结论：在几乎普遍采用电子健康记录的高度数字化卫生系统中，先进的技术数字成熟度本身与医院层面总体财务、运营或员工绩效的显着改善无关。这些发现为医院数字化中的 IT 生产力悖论提供了纵向实证支持，表明技术成熟度是绩效提升的必要但不充分的条件。试验注册：结果：经过多次测试调整后，先进的数字化成熟度与财务、运营或员工绩效的改善没有显着相关。就财务成果而言，高数字化成熟度与利润率、资产回报率、人员费用率或资产周转率没有显着关联。",
-      "se": "Conclusions: In a highly digitalized health system with near-universal electronic health record adoption, advanced technical digital maturity alone was not associated with measurable improvements in aggregated hospital-level financial, operational, or workforce performance. These findings provide longitudinal empirical support for the IT productivity paradox in hospital digitalization, suggesting that technical maturity is a necessary but insufficient condition for performance gains. Trial Registration: Results: Advanced digital maturity was not significantly associated with improved financial, operational, or workforce performance after adjustment for multiple testing. For financial outcomes, high digital maturity showed no significant association with profit margin, return on assets, personnel-expense ratio, or asset-turnover ratio.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e94896",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e94896"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90335",
-      "t": "韩国搜索引擎中隐蔽宣传癌症相关内容：Naver 和 Google 的计算内容分析",
-      "te": "Covert Promotional Cancer-Related Content in Korean Search Engines: Computational Content Analysis of Naver and Google",
-      "s": "结论：隐蔽的促销癌症内容在韩国搜索结果中普遍存在，平台架构系统地塑造了促销模式、机构来源和信息质量，而不是反映了故意的营销策略。这些发现强调需要对平台敏感的监管和增强的数字健康素养，以保护弱势癌症信息搜索者免受表面中立搜索环境中嵌入的商业利用。结果：隐蔽促销内容出现在 48.6% (447/919) 的分析帖子中，其中 Google 上的流行率 (174/321, 54.2%) 显着高于 Naver 上的流行率 (273/598, 45.7%; ²=5.78; =.02)。平台差异很明显。",
-      "se": "Conclusions: Covert promotional cancer content is pervasive in Korean search results, with platform architecture systematically shaping promotional patterns, institutional sources, and information quality rather than reflecting deliberate marketing strategies. These findings underscore the need for platform-sensitive regulation and enhanced digital health literacy to protect vulnerable cancer information seekers from commercial exploitation embedded within ostensibly neutral search environments. Results: Covert promotional content appeared in 48.6% (447/919) of analyzed posts, with a significantly higher prevalence on Google (174/321, 54.2%) than on Naver (273/598, 45.7%; ²=5.78; =.02). Platform differences were pronounced.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e90335",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90335"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e93018",
-      "t": "用于自动计算机断层扫描系列标记和表征的多模型、像素原生框架：概念验证研究",
-      "te": "A Multi-Model, Pixel-Native Framework for Automated Computed Tomography Series Labeling and Characterization: Proof-of-Concept Study",
-      "s": "结论：Orchestrate 可实现 CT 系列的基于像素的自动分类、检测和语义描述，减少对手动选择的依赖和元数据不一致的风险。通过生成标准化语义内容，该框架为改善与临床系统的互操作性提供了概念证明，并支持将人工智能驱动的成像管道可靠、可重复地集成到临床工作流程中。结果：内部框架评估数据集和外部数据集的DICOM元数据不完整，对比度增强缺失率分别为42.9%（413/963）和92.9%（105/113），内部框架评估数据集中重建内核信息缺失率为0.4%（4/963）。在模型开发过程中，各个模型获得了 0.982 至 0.989 范围内的宏观 F 1 分数。",
-      "se": "Conclusions: Orchestrate enables automated pixel-based classification, detection, and semantic description of CT series, reducing reliance on manual selection and the risk of inconsistent metadata. By generating standardized semantic content, the framework provides a proof of concept for improving interoperability with clinical systems and supports the reliable, reproducible integration of AI-driven imaging pipelines into clinical workflows. Results: DICOM metadata were incomplete in the internal framework evaluation dataset and external dataset, with missing rates of 42.9% (413/963) and 92.9% (105/113) for contrast enhancement, respectively, and a missing reconstruction kernel information rate of 0.4% (4/963) in the internal framework evaluation dataset. During model development, individual models achieved macro– F 1 -scores ranging from 0.982 to 0.989.",
-      "u": "https://medinform.jmir.org/2026/1/e93018",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e93018"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e91151",
-      "t": "使用基于 Transformer 的语言模型检测拼写错误的药物名称：模型开发和外部验证",
-      "te": "Detecting Misspelled Drug Names Using Transformer-Based Language Models: Model Development and External Validation",
-      "s": "结论：特定领域的语言模型改进了词汇表外药物名称拼写错误的检测，并且在内部和外部评估中均优于基线模型。与生成式大语言模型的比较表明，领域转移可能会大大降低特定领域培训所带来的优势。通过对捕获真实临床环境中遇到的术语、格式约定和拼写模式的各种数据进行进一步微调，这些模型可以适用于其他临床数据库和 EHR 系统，以提高研究的药物数据质量并支持未来以安全为重点的应用。结果：在 RxNorm 测试集上，BERTDrug 和 CharBERTDrug 在大多数指标上都优于基线模型。 BERTDrug 取得了最佳的整体性能（F 1 -score=0.859；",
-      "se": "Conclusions: Domain-specific language models improved detection of misspellings in out-of-vocabulary drug names and outperformed baseline models in both internal and external evaluations. The comparison with a generative LLM suggests that domain shift may substantially reduce the advantages conferred by domain-specific training. With further fine-tuning on diverse data that capture the terminology, formatting conventions, and spelling patterns encountered across real-world clinical settings, these models could be adapted for use in other clinical databases and EHR systems to improve medication data quality for research and to support future safety-focused applications. Results: On the RxNorm test set, BERTDrug and CharBERTDrug outperformed the baseline models across most metrics. BERTDrug achieved the best overall performance ( F 1 -score=0.859;",
-      "u": "https://medinform.jmir.org/2026/1/e91151",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e91151"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e101393",
-      "t": "机器学习优先处理高严重性患者安全事件以进行机构调查：算法开发和验证研究",
-      "te": "Machine Learning to Prioritize High-Severity Patient Safety Events for Institutional Investigation: Algorithm Development and Validation Study",
-      "s": "结论：与两种分类方法和报告者分配的严重性基线相比，LLAMA3.1-RA 在优先考虑高严重性 PSE 方面表现出卓越的能力。将此模型集成到分类工作流程中可以提供可扩展且高效的解决方案，用于识别高严重性安全事件并确定其优先级。结果：排名模型 LLAMA3.1-RA 达到了最高的平均精度 0.94 (95% CI 0.90-0.98)，比最佳分类模型 (LLAMA3.1-CL：平均 0.77，95% CI 0.72-0.82；P < .001) 相对提高了 22.1%。 LLAMA3.1-RA 在 16 个评估指标中的 10 个指标中表现出优异的性能，在更广泛的评估截止值上具有更大的相对收益（例如，NDCG@200 中 +12.9%，Precision@200 中 +21.1%，Recall@200 中 +20.3%）。",
-      "se": "Conclusions: LLAMA3.1-RA demonstrated superior capability in prioritizing high-severity PSEs compared with both classification approaches and the reporter-assigned severity baseline. Integrating this model into triage workflows may offer a scalable and efficient solution for identifying and prioritizing high-severity safety events. Results: The ranking model, LLAMA3.1-RA, achieved the highest mean average precision of 0.94 (95% CI 0.90-0.98), representing a 22.1% relative improvement over the best classification model (LLAMA3.1-CL: mean 0.77, 95% CI 0.72-0.82; P < .001). LLAMA3.1-RA demonstrated superior performance across 10 of 16 evaluation metrics, with larger relative gains at broader evaluation cutoffs (eg, +12.9% in NDCG@200, +21.1% in Precision@200, and +20.3% in Recall@200).",
-      "u": "https://medinform.jmir.org/2026/1/e101393",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e101393"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e100805",
-      "t": "在资源有限的非洲卫生系统中实施人工智能语音电子病历的准备情况和采用：多站点定性研究",
-      "te": "Implementation Readiness and Adoption of AI-Enabled Voice Electronic Medical Records in Resource-Constrained African Health Systems: Multisite Qualitative Study",
-      "s": "结论：在埃塞俄比亚成功实施人工智能语音电子病历需要对数字基础设施、本地化语言模型、加强数据治理和迭代用户引导进行协调投资。这些发现强调了在资源匮乏的卫生系统中部署基于语音的人工智能时，迫切需要采取情境敏感且基于道德的方法。结果：确定了四个总体主题。首先，参与者预期有明显的临床益处，包括减少打字负担、提高文档连续性和增强患者互动，但对自动化错误、与口音相关的转录失败和持续的基础设施不稳定表示严重担忧。其次，可用性障碍，包括界面复杂性、培训不足和数字焦虑，影响了干部对技术的接受程度。",
-      "se": "Conclusions: Successful implementation of AI voice-enabled EMRs in Ethiopia requires coordinated investments in digital infrastructure, locally adapted language models, strengthened data governance, and iterative user onboarding. These findings underscore the urgency of context-sensitive and ethically grounded approaches when deploying speech-based AI in low-resource health systems. Results: Four overarching themes were identified. First, participants anticipated clear clinical benefits, including reduced typing burden, improved documentation continuity, and enhanced patient interaction, yet expressed substantial concerns about automation errors, accent-related transcription failures, and persistent infrastructural instability. Second, usability barriers, including interface complexity, inadequate training, and digital anxiety, shaped technology acceptance across cadres.",
-      "u": "https://medinform.jmir.org/2026/1/e100805",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e100805"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-      "t": "MedCity Pivot 播客：与 AliveCor 的 Priya Abani 的对话",
-      "te": "MedCity Pivot Podcast: A Conversation With AliveCor’s Priya Abani",
-      "s": "在 MedCity Pivot 播客的这一集中，首席执行官 Priya Abani 谈论了 AliveCor（最早的数字医疗公司之一）的演变。",
-      "se": "In this episode of the MedCity Pivot Podcast, CEO Priya Abani talks about the evolution of AliveCor, one of the earliest digital health companies.",
-      "u": "https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "overview"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2026/09/MP084-WIDE1-1024x576.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150289"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "pmid:42814954",
-      "t": "Retatrutide，一种三重激素受体激动剂，用于治疗肥胖。",
-      "te": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
-      "s": "背景 Retatrutide 是葡萄糖依赖性促胰岛素多肽、胰高血糖素样肽-1 和胰高血糖素受体的三重受体激动剂。方法 在这项 3 期随机双盲试验中，我们让没有糖尿病的肥胖成人接受每周一次皮下注射瑞他鲁肽（剂量为 4 毫克、9 毫克或 12 毫克）或安慰剂，持续 80 周。主要结果（分别在 9 毫克和 12 毫克组与安慰剂组中进行评估）是 574 名患有膝骨关节炎的参与者亚组中体重的百分比变化和 WOMAC 疼痛评分的变化（范围从 1 到 10，分数越高表明疼痛越严重）以及 243 名患有阻塞性睡眠呼吸暂停的参与者的呼吸暂停低通气指数的变化。对于与体重相关的终点，并发事件由治疗方案估计值（意向治疗[ITT]）处理。",
-      "se": "Background Retatrutide is a triple-receptor agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1, and glucagon receptors. Methods In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide (at a dose of 4 mg, 9 mg, or 12 mg) or placebo for 80 weeks. Primary outcomes (evaluated in the 9-mg and 12-mg groups each vs. placebo) were the percent change in body weight and the change in the WOMAC pain score (ranging from 1 to 10, with higher scores indicating worse pain) in the subgroup of 574 participants with knee osteoarthritis and the change in the apnea-hypopnea index in the 243 participants with obstructive sleep apnea. For weight-related end points, intercurrent events were handled by a treatment-regimen estimand (intention-to-treat [ITT]).",
-      "u": "https://doi.org/10.1056/nejmoa2604169",
-      "image": "",
-      "src": "NEJM · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42814954",
-        "upstream_id": "42814954"
-      },
-      "tier": "must_read",
-      "freshness": "fresh",
-      "rel": 87,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:21:24+00:00",
-        "input_hash": "f7900f6a4a3d06e22939eb363146a089cbcd1666ad071f9544e9ceb1d3f0df8a",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162111380c607239a24e84",
-              "seconds": 4.7,
-              "usage": {
-                "completion_tokens": 210,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 11
-                },
-                "prompt_tokens": 1241,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1451
-              }
-            },
-            "support": "A total of 2339 participants underwent randomization. The mean percent change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% (9-mg dose), and -25.0% (12-mg dose) versus -3.9%",
-            "total": 87
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "TRIUMPH-1三期RCT报告retatrutide三受体激动剂在肥胖及膝骨关节炎、睡眠呼吸暂停共病中的关键疗效数据（12mg组减重25%），设计严谨、样本量大，对临床研究和减重治疗策略有直接参考价值。限制为摘要级信息，长期安全性及具体亚组细节需读全文。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162116ebb500e37bb84175",
-              "seconds": 8.42,
-              "usage": {
-                "completion_tokens": 307,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 146
-                },
-                "prompt_tokens": 1241,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1548
-              }
-            },
-            "support": "In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide",
-            "total": 87
-          }
-        ],
-        "score": 87,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {
-        "research": "III期随机双盲试验（TRIUMPH-1，n=2339）报告三重受体激动剂retatrutide 80周减重达-25.0%并改善膝骨关节炎疼痛与OSA的AHI，是该药物关键临床证据。局限：摘要仅给出主要终点，安全性数据与亚组细节需全文核实。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42810372",
-      "t": "瑞他鲁肽治疗成人肥胖和 2 型糖尿病 (TRIUMPH-2)：一项双盲、平行组、随机、安慰剂对照 3 期试验。",
-      "te": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
-      "s": "背景 Retatrutide 是 GIP、GLP-1 和胰高血糖素受体的激动剂，目前正在研究治疗肥胖、2 型糖尿病和其他合并症，包括膝骨关节炎和阻塞性睡眠呼吸暂停。我们的目的是评估瑞他鲁肽对成人肥胖和 2 型糖尿病患者的疗效和安全性。方法 TRIUMPH-2 是一项双盲、平行组、随机、安慰剂对照 3 期试验，在 8 个国家的 92 个医疗和研究中心及医院进行。",
-      "se": "Background Retatrutide is an agonist of GIP, GLP-1, and glucagon receptors, and is currently under investigation for the treatment of obesity, type 2 diabetes, and other comorbidities, including knee osteoarthritis and obstructive sleep apnoea. We aimed to assess the efficacy and safety of retatrutide in adults with obesity and type 2 diabetes. Methods TRIUMPH-2 was a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial conducted at 92 medical and research centres and hospitals across eight countries.",
-      "u": "https://doi.org/10.1016/s0140-6736(26)01861-1",
-      "image": "",
-      "src": "The Lancet · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-09T01:13:45+00:00",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42810372",
-        "upstream_id": "42810372"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 82,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:05+00:00",
-        "input_hash": "fe9f17bcff94cfc4af9e82d3f117d66d77127748548ee9f74444221e7d934eba",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162155971089df841f4907",
-              "seconds": 4.36,
-              "usage": {
-                "completion_tokens": 205,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1751,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1956
-              }
-            },
-            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "三期RCT首次在肥胖合并2型糖尿病人群中给出retatrutide 80周减重及血糖结局，样本量1152、多剂量对照设计完整，可为药物选择与后续研究设计提供关键证据；摘要未含完整安全细节及次要终点，临床应用判断仍需全文。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162159fecd606994bc4480",
-              "seconds": 5.91,
-              "usage": {
-                "completion_tokens": 199,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1751,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1950
-              }
-            },
-            "support": "the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) wi",
-            "total": 86
-          }
-        ],
-        "score": 82,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-29",
-      "reasons": {
-        "research": "三受体激动剂retatrutide在肥胖合并2型糖尿病人群的首个III期数据，80周减重达-18.8%（12mg组），对降重降糖药物研发和临床方案选择有直接参考价值；但主要结果为减重终点，且安全性与长期结局仍需更多数据。"
       },
       "historical": true
     }
@@ -5361,17 +4378,6 @@
         "pmid:42815970"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-09-29",
-      "item_ids": [
-        "pmid:42814954",
-        "url:https://www.medtechdive.com/news/oura-delays-ipo/831650/",
-        "url:https://www.medicaldevice-network.com/news/dexcom-report-paints-mixed-picture-of-cgm-use-by-people-with-type-2-diabetes/",
-        "url:https://medcitynews.com/2026/09/medcity-pivot-podcast-a-conversation-with-alivecors-priya-abani/",
-        "pmid:42810372"
-      ],
-      "minutes": 3
     }
   ]
 }

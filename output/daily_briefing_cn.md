@@ -1,14 +1,8 @@
-奇点日报 · 2026-10-16
-这一天的 2 件 AI 医疗大事
+奇点日报 · 2026-10-19
+这一天的 1 件 AI 医疗大事
 
 01 · 市场准入
-医疗保险计划； 2026 年《综合拨款法》第 6219、6220 和 6224 条的实施 (CMS-4214-P)
-医疗保险计划；实施 2026 年综合拨款法 (CMS-4214-P) 第 6219、6220 和 6224 条 背景 2026 年 10 月 16 日，医疗保险和医疗补助服务中心 (CMS) 发布了一项拟议规则，以实施 2026 年综合拨款法的关键部分，包括第 6220 条（要求加强和(REAL) 医疗服务提供者法案的准确列表）和第 6224 条（现代化并确保药房福利经理责任）。要求增强和准确的（真实）健康提供者法案列表（第 6220 条）：CMS 提议编纂法规以实施真实健康提供者法案，该法案从 2028 年合同年开始为 MA 组织制定了新的提供者目录验证和准确性要求。
-CMS · 政策事实说明 · 2026-10-16
-https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms
-
-02 · 市场准入
-Edwards 召回 Sapien 二尖瓣输送系统导致 1 人死亡
-美国食品和药物管理局周四在一份早期警报中表示，在收到三份气球在充气过程中破裂的报告后，Edwards Lifesciences 已要求客户从库存中移除一些用于 Sapien M3 经导管二尖瓣置换术的输送系统。截至 10 月 5 日，Edwards 报告了与该问题相关的 1 人死亡和 1 人重伤，当时该设备制造商致函客户，建议他们将 Commander M 系统从使用或销售的地方移除并将其退回公司。 FDA 表示，这个问题可能会导致栓塞或阻止医生通过引导鞘取回装置，从而需要额外的干预措施，例如手术。潜在的高风险干预措施可能会带来严重的不良健康后果。
-MedTech Dive · 2026-10-16
-https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/
+FDA 批准免疫疗法可让某些直肠癌患者避免化疗、放疗和手术
+美国食品和药物管理局今天加速批准免疫疗法 Jemperli (dostarlimab-gxly) 的新用途，该疗法可能使一些局部晚期直肠癌患者避免对其日常生活产生持久影响的常见治疗。
+FDA · 官方公告 · 2026-10-19
+http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and
