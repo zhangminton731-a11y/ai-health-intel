@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T12:43:59+00:00",
-  "as_of": "2026-10-20",
+  "generated_at": "2026-10-20T17:59:18+00:00",
+  "as_of": "2026-10-21",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -128,7 +128,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -259,7 +259,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -387,7 +387,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -517,7 +517,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -647,7 +647,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
@@ -772,7 +772,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -898,7 +898,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -1030,7 +1030,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -1162,7 +1162,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -1213,7 +1213,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1344,7 +1344,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -1395,7 +1395,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1445,7 +1445,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1495,7 +1495,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1546,7 +1546,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1597,7 +1597,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1644,7 +1644,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1778,7 +1778,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -1910,7 +1910,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -1960,7 +1960,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2011,7 +2011,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2063,7 +2063,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2115,7 +2115,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2164,7 +2164,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2217,7 +2217,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2347,7 +2347,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
@@ -2477,7 +2477,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
@@ -2525,7 +2525,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2576,7 +2576,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2628,7 +2628,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2677,7 +2677,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {},
       "historical": true
@@ -2806,7 +2806,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {
         "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
@@ -2935,7 +2935,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
@@ -3064,1372 +3064,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-01",
       "reasons": {
         "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
-      "t": "GE医疗保健聘请新的全球首席人工智能官",
-      "te": "GE HealthCare hires new global chief AI officer",
-      "s": "Rodolphe Katra 从美敦力 (Medtronic) 加盟，领导 GE HealthCare 连接设备、软件和数据的工作。",
-      "se": "Rodolphe Katra has joined from Medtronic to lead GE HealthCare’s efforts to connect devices, software and data.",
-      "u": "https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
-      "image": "https://imgproxy.divecdn.com/YluCGW2tJnVe7ms42s6iuKV0pKdWDNc01eWC5RskGgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRV9IZWFsdGhjYXJlX0hRLmpwZw==.webp",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/YluCGW2tJnVe7ms42s6iuKV0pKdWDNc01eWC5RskGgE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRV9IZWFsdGhjYXJlX0hRLmpwZw==.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e96621",
-      "t": "仿生人是否梦想着生活体验？围绕患者和公众参与和参与的生成人工智能的风险、不确定性和最佳实践",
-      "te": "Do Androids Dream of Lived Experience? Navigating Risks, Uncertainty, and Best Practices Around Generative AI in Patient and Public Involvement and Engagement",
-      "s": "国际注册报告标识符 (IRRID)：RR2-10.2196/49303",
-      "se": "International Registered Report Identifier (IRRID): RR2-10.2196/49303",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e96621",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/718f4f4e9b428f33d9238adaf81a56eb",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e96621"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95198",
-      "t": "利用生成大语言模型从法语临床叙述中提取时间关系：即时链接方法",
-      "te": "Leveraging Generative Large Language Models for Temporal Relation Extraction From French Clinical Narratives: Prompt-Chaining Approach",
-      "s": "结论：用最少的上下文示例提示大语言模型可以在资源匮乏的情况下通过有限的特定领域注释实现 TRE 和标准化的强大性能。因此，依靠开放权重的本地模型，所提出的方法提供了在现实世界临床工作流程中部署的实用途径，并且可以进一步扩展以提取关键临床信息，例如诊断年龄或发病年龄，特别是在罕见疾病的背景下，它可以帮助预先填写结构化报告表格，减少直接从临床叙述中检索此类信息所需的手动工作。结果：所提出的方法在两种临床事件类型中仅使用少量上下文示例就实现了稳定的提取性能，罕见疾病诊断的最高得分为 0.72，表型事件的最高得分为 0.61。",
-      "se": "Conclusions: Prompting LLMs with a minimal set of in-context examples can achieve strong performance for TRE and normalization in low-resource settings with limited domain-specific annotations. Relying on open-weight, on-premises models, the proposed approach therefore offers a practical path toward deployment in real-world clinical workflows and could further be extended to extract key clinical information, such as age at diagnosis or age at onset, particularly in the context of rare diseases, where it could help prefill structured reporting forms, reducing the manual effort needed to retrieve such information directly from clinical narratives. Results: The proposed approach achieves stable extraction performance with only a small number of in-context examples across both clinical event types, reaching a maximum -score of 0.72 for rare disease diagnoses and 0.61 for phenotype events.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e95198",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95198"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e94617",
-      "t": "手术部位感染的可解释机器学习预测模型：范围综述",
-      "te": "Explainable Machine Learning Predictive Models for Surgical Site Infections: Scoping Review",
-      "s": "结论：本次综述扩展了之前关注模型性能的综述，绘制了 SSI 预测中的可解释性方法和重要特征，识别了预测和诊断设置中反复出现的预测模式和显着的方法异质性。特征定义和解释原理的报告不完整，临床相关性有限，临床解释和可操作性受到限制。需要临床医生知情的报告框架以及对解释保真度和临床相关性的验证，以提高 SSI 预测模型的可信度和实用性。试用注册：PROSPERO CRD420251124760；  结果：总体而言，纳入了 77 项研究，报告了 98 个 ML 模型。大多数模型都是预后性的（72/98，73.5%），而 26 个模型则侧重于术后 SSI 诊断。",
-      "se": "Conclusions: Extending previous reviews focusing on model performance, this review mapped explainability methods and important features in SSI prediction, identifying recurring predictor patterns and substantial methodological heterogeneity across prognostic and diagnostic settings. Incomplete reporting of feature definitions and explanatory rationale, together with limited clinical relevance, constrained clinical interpretation and actionability. Clinician-informed reporting frameworks and validation of explanation fidelity and clinical relevance are needed to improve the trustworthiness and utility of SSI prediction models. Trial Registration: PROSPERO CRD420251124760; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251124760 Results: Overall, 77 studies reporting 98 ML models were included. Most models were prognostic (72/98, 73.5%), whereas 26 focused on postoperative SSI diagnosis.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e94617",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/410715e495876fbcbd4aab33069d2685",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/410715e495876fbcbd4aab33069d2685",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e94617"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e92709",
-      "t": "主观认知下降和轻度认知障碍的脑电图：生物标志物、分类和预后证据的系统评价",
-      "te": "Electroencephalography in Subjective Cognitive Decline and Mild Cognitive Impairment: Systematic Review of Biomarkers, Classification, and Prognostic Evidence",
-      "s": "结论：现有证据表明，EEG 是一种有前景的无创方法，可用于表征与 SCD 和 MCI 相关的神经生理学改变。基于脑电图的分类和预后模型也显示出令人鼓舞的初步表现。然而，目前的证据更支持生物标志物的发现和模型开发，而不是已建立的临床筛查或诊断。转化为常规实践需要具有标准化脑电图程序、代表性临床人群、预先指定的阈值、参与者级别的数据分离和独立的外部验证的前瞻性报告。这些发现为评估脑电图作为未来临床路径中潜在的辅助或分类工具提供了基础。",
-      "se": "Conclusions: The available evidence suggests that EEG is a promising noninvasive modality for characterizing neurophysiological alterations associated with SCD and MCI. EEG-based classification and prognostic models have also shown encouraging preliminary performance. However, the current evidence is more supportive of biomarker discovery and model development than of established clinical screening or diagnosis. Translation into routine practice will require prospective reports with standardized EEG procedures, representative clinical populations, prespecified thresholds, participant-level data separation, and independent external validation. These findings provide a basis for evaluating EEG as a potential adjunctive or triage tool in future clinical pathways.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e92709",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e92709"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90592",
-      "t": "实施新生儿护理远程医疗：基于多国经验的实用工具包教程",
-      "te": "Implementing Telemedicine for Neonatal Care: Tutorial on a Practical Toolkit Based on Multinational Experience",
-      "s": "新生儿护理中医疗保健提供者 (HCP) 之间的实时视听连接称为远程新生儿学 (TeleNeo)，可以改善新生儿护理。对于患者和家庭而言，TeleNeo 可以确保无论身在何处都能及时获得专家的参与，从而改善患者的治疗效果并促进家庭一体化和以患者为中心的护理，从而增强信任和安心。对于临床医生和医疗保健组织而言，TeleNeo 能够帮助专家做出决策，促进持续的专业发展，促进医院之间的知识交流，并增强员工管理复杂医疗案例的信心。然而，组织、技术和基础设施要求可能会阻碍技术干预措施（例如 TeleNeo）的成功实施和持续采用。",
-      "se": "Real-time audiovisual connections between health care providers (HCPs) in neonatal care, known as TeleNeonatology (TeleNeo), can improve neonatal care. For patients and families, TeleNeo was found to improve patient outcomes and facilitate family-integrated and patient-centered care by ensuring timely access to expert involvement regardless of location, which can strengthen trust and reassurance. For clinicians and health care organizations, TeleNeo enables expert decision-making, fosters continuous professional development, promotes knowledge exchange between hospitals, and increases staff confidence in managing complex medical cases. However, organizational, technical, and infrastructural requirements can hinder successful implementation and sustained adoption of technological interventions, such as TeleNeo.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e90592",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430bacd589808af1eb42a8b7c08c0e01",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430bacd589808af1eb42a8b7c08c0e01",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90592"
-      },
-      "tier": "collapsed",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90115",
-      "t": "新型基于网络的健康行为工具集成到认证运动从业者服务中的行为改变和合规结果：十二周、双臂、随机前后试验",
-      "te": "Behavior Change and Compliance Outcomes of a Novel Web-Based Health Behavior Tool Integrated Into Certified Exercise Practitioner Services: Twelve-Week, Two-Arm, Randomized Pre-Post Trial",
-      "s": "结论：FESS 调查问卷证明了可行性，并且在纳入 CEP 服务时与观察到的健康行为变化相关，特别是饮食、压力和睡眠方面。虽然日常使用与观察到的较大变化相关，但合规性的降低凸显了灵活参与策略的重要性。这些初步研究结果表明，CEP 服务可能会受益于将结构化数字工具嵌入到传统的面对面互动中，因为此类工具可以支持教育，促进会议之间的反思和问责，并促进在常规 CEP 护理中关注更广泛的生活方式因素。需要进一步的对照研究来证实这些发现。结果：大多数行为都观察到积极的变化或没有变化，蔬菜摄入量、水摄入量、压力和睡眠都有显着改善。",
-      "se": "Conclusions: The FESS questionnaire demonstrated feasibility and was associated with observed changes in health behaviors, particularly in diet, stress, and sleep, when integrated into CEP services. While daily use was associated with larger observed changes, reduced compliance highlights the importance of flexible engagement strategies. These preliminary findings suggest that CEP services may benefit from embedding structured digital tools into traditional face-to-face interactions, as such tools may support education, promote reflection and accountability between sessions, and facilitate attention to a broader range of lifestyle factors within routine CEP care. Further controlled studies are required to confirm these findings. Results: Positive or no changes were observed across most behaviors, with significant improvements in vegetable consumption, water intake, stress, and sleep.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e90115",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/656643488cb3df1e74a935f6c0ab12d0",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/656643488cb3df1e74a935f6c0ab12d0",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90115"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e105536",
-      "t": "护理数字技术实施的护理实施复杂性工具：设计科学研究",
-      "te": "The Nursing Implementation Complexity Tool for Digital Technology Implementation in Nursing: Design Science Research Study",
-      "s": "结论：NICT 支持护理专业人员和其他实施利益相关者通过结构化反思来认识、讨论和解决实施复杂性。它本身并没有降低复杂性，而是促进了与实施相关的反思和明智的决策。除了在护理中的应用之外，本研究还说明了如何将用于理解实施复杂性的概念框架转化为用于数字健康实施的结构化、面向实践的反思工具。结果：NICT 包含 3 个互补的组件：指南、视觉画布和围绕 4 个反射域组织的口袋卡。在形成性和总结性评估中，参与者一致认为 NICT 是有用且结构良好的实施反思工具。",
-      "se": "Conclusions: The NICT supports nursing professionals and other implementation stakeholders in recognizing, discussing, and addressing implementation complexity through structured reflection. Rather than reducing complexity itself, it facilitates implementation-related reflection and informed decision-making. Beyond its application in nursing, this study illustrates how conceptual frameworks for understanding implementation complexity can be translated into structured, practice-oriented reflection tools for digital health implementation. Results: The NICT comprises 3 complementary components: a guideline, a visual canvas, and a pocket card organized around 4 reflection domains. Across the formative and summative evaluations, participants consistently perceived the NICT as a useful and well-structured implementation reflection tool.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e105536",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e105536"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e104019",
-      "t": "评估人工智能辅助技术对老年人的物有所值：经济评估的范围审查",
-      "te": "Assessing the Value for Money of AI-Assisted Technologies for Older Adults: Scoping Review of Economic Evaluations",
-      "s": "结论：本综述总结了遵循 ICOPE 护理途径的老年医疗保健中人工智能辅助技术的现有经济证据。它超越了之前的审查，评估了人工智能在一般或特定疾病人群中的成本效益，但没有解决老年人的独特成本结构、护理需求和公平考虑。通过对照 ICOPE 领域所包含的证据，本次审查确定了经济证据集中的地方和严重缺乏的地方，为护理路径不同组成部分的政策设计和未来研究提供结构化指导。结果：2018 年至 2026 年间发表的 40 项研究符合纳入标准。",
-      "se": "Conclusions: This review summarizes the currently available economic evidence on AI-assisted technologies in older health care following the ICOPE care pathway. It extends beyond prior reviews that have assessed AI cost-effectiveness across general or disease-specific populations without addressing the distinct cost structures, care needs, and equity considerations of older adults. By mapping the included evidence against the ICOPE domains, this review identifies where economic evidence is concentrated and where it is critically lacking, providing structured guidance for policy design and future research across different components of the care pathway. Results: Forty studies published between 2018 and 2026 met the inclusion criteria.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e104019",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e104019"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e100284",
-      "t": "用于临床结果研究、利用大型管理数据库进行人口健康管理分析以及生成疾病流行病学估计的代理人工智能：可行性和验证研究",
-      "te": "Agentic AI for Clinical Outcomes Research, Population Health Management Analyses With Large Administrative Databases, and Generating Epidemiological Estimates of Diseases: Feasibility and Validation Study",
-      "s": "结论：通过具体的设计考虑来确保负责任的使用，代理人工智能对于提高应用临床结果研究和人口健康管理分析的大型数据集的可访问性具有不可估量的价值。结果：就准确性而言，使用 Agentic AI 平台获得的流行病学估计与已发布的所有 6 种情况的估计以及通过传统编程方法获得的估计一致。关于严谨性，Agentic AI 平台通过确认已发表文献中针对所使用的数据源类型的可接受方法，进行了严谨的分析。用于分析的代码列表已根据可用的现有算法进行了确认。使用适当的统计方法来比较不同年龄和性别的患病率差异。",
-      "se": "Conclusions: With specific design considerations to ensure responsible use, agentic AI can be invaluable to increasing the accessibility of large datasets for applied clinical outcome research and population health management analyses. Results: Regarding accuracy, epidemiological estimates obtained using the agentic AI platform were consistent with published estimates for all 6 conditions, as well as with estimates obtained from traditional programming methods. Regarding rigor, the agentic AI platform conducted the analysis with rigor by confirming acceptable methods in published literature for the type of data source used. Code lists used for the analysis were confirmed against existing algorithms when available. Appropriate statistical methods were used to compare differences in prevalence rates by age and gender.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e100284",
-      "image": "",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e100284"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e91724",
-      "t": "使用可穿戴设备和机器学习对健康个体和肥胖个体进行无创间质血糖估计：观察队列研究",
-      "te": "Noninvasive Interstitial Glucose Estimation Using Wearables and Machine Learning in Healthy Individuals and Individuals With Obesity: Observational Cohort Study",
-      "s": "结论：这项研究表明，可以在现实条件下使用机器学习方法从多模态、非侵入性可穿戴传感器数据中预测 IG 水平。虽然需要在更大、更多样化的人群中进行进一步验证，但这种方法代表着朝着可访问、个性化的血糖监测和饮食指导作为移动健康应用程序中的预防工具迈出了有希望的一步。结果：共有 74 名参与者，其中 34 名 (46%) 健康对照者和 40 名 (54%) 代谢风险 (MR) 个体在 2 周内同时使用侵入性 CGM 设备和 2 个无创腕带。健康对照组的平均年龄为 24.53 (SD 3.68) 岁，平均 BMI 为 22.36 (SD 2.16) kg/m²。相比之下，MR 队列的平均年龄为 55.38 (SD 15.08) 岁，平均 BMI 为 35.38 (SD 4.91) kg/m²。",
-      "se": "Conclusions: This study demonstrates that IG levels can be predicted from multimodal, noninvasive wearable sensor data using a machine learning approach under real-world conditions. While further validation in larger and more diverse cohorts is warranted, this approach represents a promising step toward accessible, personalized glycemic monitoring and dietary guidance as a preventive tool in mobile health apps. Results: A total of 74 participants, 34 (46%) healthy controls and 40 (54%) metabolically at-risk (MR) individuals, simultaneously used an invasive CGM device together with 2 noninvasive wristbands over 2 weeks. Healthy controls were characterized by a mean age of 24.53 (SD 3.68) years and a mean BMI of 22.36 (SD 2.16) kg/m². In contrast, the MR cohort had a mean age of 55.38 (SD 15.08) years and a mean BMI of 35.38 (SD 4.91) kg/m².",
-      "u": "https://mhealth.jmir.org/2026/1/e91724",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e91724"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e89422",
-      "t": "在基于人群的筛查计划中开发用于结直肠息肉风险分层的可解释分诊工具：机器学习方法",
-      "te": "Development of an Interpretable Triage Tool for Colorectal Polyp Risk Stratification Within a Population-Based Screening Program: Machine Learning Approach",
-      "s": "结论：本研究提供了一种可扩展、可解释的分类工具，以补充现有的两步 CRC 筛查方案。通过仅利用非侵入性变量，LightGBM 模型可以优先转诊结肠镜检查，提供资源高效的策略，在资源有限的环境中优化 CRC 预防。结果：在评估的 9 种 ML 算法中，XGBoost（极端梯度提升）在接收者操作特征曲线下获得了最高面积，为 0.672，而 LightGBM（光梯度提升机）由于其卓越的召回率 (0.6503) 被确定为临床分诊的最佳模型，召回率是社区筛查中最大限度减少漏诊病灶的关键指标。 SHAP 分析确定当前吸烟状况、性别和结直肠息肉家族史是最有影响的因素。",
-      "se": "Conclusions: This study provides a scalable, interpretable triage tool to complement existing 2-step CRC screening protocols. By leveraging only noninvasive variables, the LightGBM model enables prioritized referral for colonoscopy, offering a resource-efficient strategy to optimize CRC prevention in resource-limited settings. Results: Among the 9 ML algorithms evaluated, XGBoost (Extreme Gradient Boosting) achieved the highest area under the receiver operating characteristic curve of 0.672, while LightGBM (Light Gradient Boosting Machine) was identified as the optimal model for clinical triage due to its superior recall (0.6503), a key metric for minimizing missed lesions in community screenings. SHAP analysis identified current smoking status, sex, and family history of colorectal polyps as the most influential factors.",
-      "u": "https://medinform.jmir.org/2026/1/e89422",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e89422"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medinform.jmir.org/2026/1/e89189",
-      "t": "智能家居中技术增强的医疗保健：传感器技术、临床应用、集成挑战和未来方向的范围审查",
-      "te": "Technology-Enhanced Health Care in Smart Homes: Scoping Review of Sensor Technologies, Clinical Applications, Integration Challenges, and Future Directions",
-      "s": "结论：与之前的工作不同，本次审查强调了实际采用障碍、互操作性挑战以及传感器性能和系统集成的公平考虑。本次范围审查的关键意义在于，它如何突出技术趋势和实施模式，同时通过涵盖可穿戴和环境系统来绘制 TEH 智能家居的全球部署。它展示了现实的整合场景，以及如何增强独立生活、预防性护理和个性化健康管理，同时减少住院和医疗保健费用。它展示了广泛的实施如何需要标准化的评估框架、强大的互操作性、适应性设计、公平的访问和临床友好的集成。",
-      "se": "Conclusions: Unlike previous work, this review emphasizes practical adoption barriers, interoperability challenges, and equity considerations alongside sensor performance and system integration. The key significance in this scoping review is how it highlights technological trends and implementation patterns while mapping global deployments of TEH smart homes through encompassing wearable and environmental systems. It demonstrates realistic integration scenarios and how it enhances independent living, preventive care, and personalized health management while reducing hospitalizations and health care costs. It demonstrates how widespread implementation requires standardized evaluation frameworks, robust interoperability, adaptable design, equitable access, and clinically friendly integration.",
-      "u": "https://medinform.jmir.org/2026/1/e89189",
-      "image": "",
-      "src": "JMIR Medical Informatics",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_medinform"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_medinform",
-        "upstream_id": "https://medinform.jmir.org/2026/1/e89189"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-      "t": "人工智能的医疗保健“世界末日”？与其说是自治，不如说是信任",
-      "te": "AI’s Healthcare ‘Doomsday’? It May Be Less About Autonomy Than Trust",
-      "s": "对于一名 ICU 医生和初创公司首席营销官来说，更直接的危险不是自治系统接管医学并抛弃人类决策。医疗保健组织利用人工智能主要是为了提高效率，同时使医疗保健提供者更加陷入复杂性和监管之中。",
-      "se": "For one ICU physician and startup CMO, the more immediate danger isn’t an autonomous system taking over medicine and leaving human decision-making behind. It’s healthcare organizations harnessing AI primarily to increase efficiency while leaving healthcare providers even more mired in complexity and regulation.",
-      "u": "https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2025/10/patients-with-AI.jpg",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "regulation"
-      ],
-      "sections": [
-        "research",
-        "industry"
-      ],
-      "categories": {
-        "research": [
-          "policy"
-        ],
-        "industry": [
-          "technology",
-          "regulation"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2025/10/patients-with-AI.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150302"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-      "t": "9 月份 4 项值得注意的健康科技融资公告",
-      "te": "4 Notable Health Tech Funding Announcements in September",
-      "s": "健康科技公司在 9 月份发布了几项重大融资公告。以下是一些最大融资轮的列表。",
-      "se": "Health tech companies made several major funding announcements in September. Here is a list of some of the biggest funding rounds.",
-      "u": "https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-      "image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity.jpg",
-      "src": "MedCity News",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 3,
-      "sourceType": "专业媒体",
-      "topics": [
-        "business"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "business"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://medcitynews.com/wp-content/uploads/sites/7/2026/01/money-private-equity.jpg",
-        "observed_in_sources": [
-          "medcity_news"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medcity_news",
-        "upstream_id": "https://medcitynews.com/?p=150329"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-      "t": "谷歌的人工智能在预测流感住院方面排名第一。",
-      "te": "Google's AI ranks #1 for predicting flu hospitalizations.",
-      "s": "美国疾病控制中心宣布，谷歌的科学人工智能模型在预测流感相关住院情况方面表现最好。",
-      "se": "Google’s science AI model was the best at forecasting flu-related hospital admissions, the Centers for Disease Control announced.",
-      "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp",
-      "src": "Google Blog",
-      "role": "企业发布",
-      "cat": "企业发布",
-      "trust": 2,
-      "sourceType": "企业发布",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp",
-        "observed_in_sources": [
-          "fitbit_google_blog"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "fitbit_google_blog",
-        "upstream_id": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e101942/",
-      "t": "探索人工智能在精神卫生保健和心理治疗中的应用：提出 GUIDE 框架",
-      "te": "Navigating AI in Mental Health Care and Psychotherapy: Proposing the GUIDE Framework",
-      "s": "无论临床医生是否邀请，人工智能已经进入心理健康咨询室。 OpenAI 报告称，ChatGPT 有超过 8 亿普通用户，每天有超过 4000 万人通过该平台寻求健康问题，但基于大型语言模型的心理健康聊天机器人的临床功效的证据仍然有限。专业指导和监管仍然分散。因此，临床医生是在不容忽视的患者现实和尚未建立的专业基础设施之间的差距中进行实践的。我们认为，在当前环境下，无论是热情采纳还是原则性弃权都不够。拒绝讨论临床重要患者人工智能使用的临床医生并不是在阻止这种使用；而是在阻止这种使用。他们可能无法了解对治疗过程产生重大影响的因素。",
-      "se": "AI is already in the mental health consulting room, whether clinicians invite it or not. OpenAI reports more than 800 million regular users of ChatGPT and more than 40 million people turning to the platform daily for health questions, yet the evidence remains limited on the clinical efficacy of large language model–based mental health chatbots. Professional guidance and regulation remain fragmented. Clinicians are therefore practicing in a gap between a patient reality that cannot be ignored and a professional infrastructure not yet built. We argue that neither enthusiastic adoption nor principled abstention is sufficient in the current environment. The clinician who refuses to discuss clinically material patient AI use is not preventing that use; they may lose visibility into a factor materially affecting the therapeutic process.",
-      "u": "https://ai.jmir.org/2026/1/e101942/",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/3447ca8cdcde6a46a4179bfe3c391445",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/3447ca8cdcde6a46a4179bfe3c391445",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e101942/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "pmid:42815981",
-      "t": "使用国家联合登记数据对机器人与传统膝关节置换术治疗关节炎进行早期全国比较：目标试验模拟研究。",
-      "te": "Early national comparison of robotic versus conventional knee replacements for arthritis using National Joint Registry data: target trial emulation study.",
-      "s": "目的 评估英国机器人与传统全膝关节置换术 (TKR) 和单间室膝关节置换术 (UKR) 的早期效果比较。结果 匹配的传统 TKR 组和机器人 TKR 组的五年种植体存活率分别为 98.5%（95% 置信区间 (CI) 98.3% 至 98.7%）和 98.6%（98.2% 至 99.0%），组间翻修风险无差异（风险比 1.03，95% CI 0.86 至 1.26；P=0.71）。",
-      "se": "Objective To evaluate the early comparative effectiveness of robotic versus conventional total knee replacement (TKR) and unicompartmental knee replacement (UKR) in the UK. Results The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between group difference in revision risk (hazard ratio 1.03, 95% CI 0.86 to 1.26; P=0.71).",
-      "u": "https://doi.org/10.1136/bmj-2026-100691",
-      "image": "",
-      "src": "The BMJ · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42815981",
-        "upstream_id": "42815981"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:23:57+00:00",
-        "input_hash": "aae7a79b7b99d66cfa65dd0508eccc5a8a606fe73fe4cfa448153b4b2d34b6f0",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人与常规膝置换的早期翻修与并发症风险提供了迄今最大样本的真实世界比较证据（未见差异），对医院设备采购决策与后续研究设计均有直接参考价值；局限为观察性设计、机器人组样本较小且随访仅平均2.5年，五年生存率外推有限。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162343b979f9a0ca95413d",
-              "seconds": 4.72,
-              "usage": {
-                "completion_tokens": 167,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1329,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1496
-              }
-            },
-            "support": "697 145 knee replacement surgeries between 2018 and 2024: 675 034 were conventional (TKRs and UKRs) and 22 111 were robotic",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 6,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041623484a89ad849ec84900",
-              "seconds": 9.06,
-              "usage": {
-                "completion_tokens": 409,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 185
-                },
-                "prompt_tokens": 1329,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1280
-                },
-                "total_tokens": 1738
-              }
-            },
-            "support": "The five year implant survival of the matched conventional and robotic TKR groups was 98.5% (95% confidence interval (CI) 98.3% to 98.7%) and 98.6% (98.2% to 99.0%), respectively, with no between grou",
-            "total": 64
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {
-        "research": "基于英国国家关节登记近70万例的目标试验模拟研究，为机器人vs常规膝置换的早期翻修与并发症提供了迄今最大样本的真实世界比较证据，阴性结果对医院机器人设备采购与成本效益评估有直接参考价值；局限为观察性设计存在残留混杂、平均随访仅2.5年且机器人组样本较小，属早期而非长期结论。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42815970",
-      "t": "使用国家联合登记数据对机器人与传统髋关节置换术治疗关节炎进行早期全国比较：目标试验模拟研究。",
-      "te": "Early national comparison of robotic versus conventional hip replacements for arthritis using National Joint Registry data: target trial emulation study.",
-      "s": "目的 评估英国机器人与传统全髋关节置换术 (THR) 的早期效果比较。结果 匹配的传统 THR 组和机器人 THR 组的五年种植体存活率分别为 98.8%（95% 置信区间 (CI) 98.6% 至 99.0%）和 98.8%（CI 98.3% 至 99.1%），组间翻修风险无差异（风险比 0.96，95% CI 0.75 至 1.22；P=0.73）。",
-      "se": "Objectives To evaluate the early comparative effectiveness of robotic versus conventional total hip replacement (THR) in the UK. Results The five year implant survival of the matched conventional and robotic THR groups was 98.8% (95% confidence interval (CI) 98.6% to 99.0%) and 98.8% (CI 98.3% to 99.1%), respectively, with no difference in revision risk between groups (hazard ratio 0.96, 95% CI 0.75 to 1.22; P=0.73).",
-      "u": "https://doi.org/10.1136/bmj-2026-100709",
-      "image": "",
-      "src": "The BMJ · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42815970",
-        "upstream_id": "42815970"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:23:53+00:00",
-        "input_hash": "fc293c313b1b3b521c53c90b3205d117ff585134fd3bb21e4214f5b64a6fb2c3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "基于66万例英国国家关节登记数据的靶标试验仿真研究，为机器人与传统髋关节置换的早期疗效提供了迄今最大规模的比较证据：总体翻修与生存无差异，但假体位置相关翻修风险减半。局限为观察性设计存在残留混杂、随访均值仅2.5年，且机器人组样本仅约1万例；对公立医疗系统高昂设备成本的成本效果评估提醒具有重要决策参考价值。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041623439aeedb1bc6d74872",
-              "seconds": 5.06,
-              "usage": {
-                "completion_tokens": 182,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1363,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1545
-              }
-            },
-            "support": "Participants 666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041623485bb9e28a26074a0e",
-              "seconds": 4.77,
-              "usage": {
-                "completion_tokens": 181,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1363,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1544
-              }
-            },
-            "support": "666 283 THRs performed between 2018 and 2024; 656 080 were conventional THRs and 10 203 were robotic THRs.",
-            "total": 71
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {
-        "research": "基于66万余例英国国家关节登记数据的靶标试验模拟研究，为机器人与传统全髋关节置换的早期对比提供了迄今较大规模的真世界证据：总体翻修与生存无差异，但假体位置相关翻修风险显著降低（HR 0.53）。观察性设计与倾向评分匹配的混杂残留限制因果结论，且平均随访仅2.5年，医院技术采购与研究者设计均可据此权衡成本与有限获益。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42815506",
-      "t": "Orforglipron 与甘精胰岛素治疗心血管风险增加的 2 型糖尿病成人的心血管安全性 (ACHIEVE-4)：一项 3 期、事件驱动、随机、开放标签、非劣效性主动比较试验。",
-      "te": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferiority, active comparator trial.",
-      "s": "背景 Orforglipron 是一种口服非肽 GLP-1 受体激动剂。虽然一些肽类 GLP-1 受体激动剂已证实对心血管有益，但非肽类 GLP-1 受体激动剂的心血管安全性尚未得到研究。本研究旨在比较 orforglipron 与甘精胰岛素对 2 型糖尿病、肥胖或超重且心血管事件风险增加的个体主要不良心血管事件发生率的影响。方法 这项事件驱动、第 3 期、多中心、随机、开放标签、主动比较、平行组研究在 16 个国家和地区的 317 个地点进行。",
-      "se": "Background Orforglipron is an oral, non-peptide GLP-1 receptor agonist. While some peptide GLP-1 receptor agonists have established cardiovascular benefit, the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied. This study aimed to compare the effect of orforglipron with insulin glargine on the incidence of major adverse cardiovascular events in individuals with type 2 diabetes and obesity or overweight who are at increased risk for cardiovascular events. Methods This event-driven, phase 3, multicentre, randomised, open-label, active comparator, parallel-group study was conducted in 317 sites across 16 countries and territories.",
-      "u": "https://doi.org/10.1016/s0140-6736(26)01865-9",
-      "image": "",
-      "src": "The Lancet · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42815506",
-        "upstream_id": "42815506"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:07+00:00",
-        "input_hash": "b242b4911ecd04a063068fecf97652d4004a1d2f65e086e0a35915bb6267dc83",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100416215540ad14cd8ad24958",
-              "seconds": 7.44,
-              "usage": {
-                "completion_tokens": 340,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 150
-                },
-                "prompt_tokens": 1663,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 2003
-              }
-            },
-            "support": "Cardiovascular safety of orforglipron versus insulin glargine in adults with type 2 diabetes at increased cardiovascular risk (ACHIEVE-4): a phase 3, event-driven, randomised, open-label, non-inferior",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "首个报告口服非肽类GLP-1受体激动剂orforglipron心血管安全性的3期事件驱动非劣效试验，样本量与随访充分，为该药在高心血管风险2型糖尿病人群中的临床定位提供关键证据。局限为开放标签设计、对照为胰岛素而非安慰剂，且HR 0.84提示仅为安全性确认而非心血管获益证明。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162203173b16418c564b1e",
-              "seconds": 5.47,
-              "usage": {
-                "completion_tokens": 160,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 12
-                },
-                "prompt_tokens": 1663,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1823
-              }
-            },
-            "support": "the cardiovascular safety of non-peptide GLP-1 receptor agonists has not been studied",
-            "total": 77
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {
-        "research": "ACHIEVE-4是首个评估口服非肽类GLP-1RA心血管安全性的3期事件驱动RCT，以2749人证实orforglipron对MACE-4不劣于甘精胰岛素，为这一新药类的心血管安全性提供关键证据。局限在于开放标签设计、以甘精胰岛素为活性对照，且仅达到非劣效而非优效。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42814439",
-      "t": "瘦代谢障碍相关脂肪肝病的组织学特征和临床结果。",
-      "te": "Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.",
-      "s": "重要性 尽管代谢功能障碍相关的脂肪肝病 (MASLD) 传统上与肥胖相关，但人们越来越认识到它在体重正常的个体（即瘦 MASLD）中存在。 FIB-4 在预测瘦 vs 超重/肥胖 MASLD 中的晚期纤维化 (F3-F4) 方面的准确性较低（曲线下面积，0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]；差异，-0.03 [95% CI, -0.06 至 0.00]），而 LSM 则准确度更高（曲线下面积，0.87 [95% CI，0.84-0.90] vs 0.83 [95% CI，0.82-0.84]；差异，0.04 [95% CI，0.01-0.07]）。",
-      "se": "Importance Although metabolic dysfunction-associated steatotic liver disease (MASLD) is traditionally associated with obesity, it is increasingly recognized in individuals with normal weight (ie, lean MASLD). The FIB-4 demonstrated lower accuracy for predicting advanced fibrosis (F3-F4) in lean vs overweight/obese MASLD (area under the curve, 0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]; difference, -0.03 [95% CI, -0.06 to 0.00]), while LSM had higher accuracy (area under the curve, 0.87 [95% CI, 0.84-0.90] vs 0.83 [95% CI, 0.82-0.84]; difference, 0.04 [95% CI, 0.01-0.07]).",
-      "u": "https://doi.org/10.1001/jama.2026.18491",
-      "image": "",
-      "src": "JAMA · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42814439",
-        "upstream_id": "42814439"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:22:42+00:00",
-        "input_hash": "cca47a69253c41e041116a417332d6ef3f85009f9b33c34f214d3882d050ebf3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162229b2b1a844591a4838",
-              "seconds": 7.72,
-              "usage": {
-                "completion_tokens": 351,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 196
-                },
-                "prompt_tokens": 1676,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 2027
-              }
-            },
-            "support": "Multinational, retrospective observational study of adults with biopsy-confirmed MASLD from 41 countries from the Global MASLD project.",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "基于41国18326例肝活检确认MASLD的大型回顾性队列，量化了瘦型MASLD的组织学特征、预后及无创纤维化检测性能，发现纤维化程度而非体型决定预后、LSM在瘦型患者中更可靠，对临床筛查分层有直接参考价值。局限为回顾性设计、瘦型定义依赖BMI/腰围且两者一致性一般（κ=0.41），不能建立因果结论。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162237d472dc2b4bf44f83",
-              "seconds": 5.59,
-              "usage": {
-                "completion_tokens": 192,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 10
-                },
-                "prompt_tokens": 1676,
-                "prompt_tokens_details": {
-                  "cached_tokens": 768
-                },
-                "total_tokens": 1868
-              }
-            },
-            "support": "Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was assoc",
-            "total": 72
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-09-30",
-      "reasons": {
-        "research": "多国大样本活检确认队列系统刻画了瘦型MASLD的组织学与预后特征，明确纤维化分期而非体型决定预后，并量化了FIB-4在瘦型患者中准确性下降、LSM更可靠，可直接指导无创纤维化评估策略。限制为回顾性设计、瘦型比例仅6.7%，为观察性关联而非干预证据。"
       },
       "historical": true
     }
@@ -4505,17 +3143,6 @@
         "pmid:42820639"
       ],
       "minutes": 3
-    },
-    {
-      "date": "2026-09-30",
-      "item_ids": [
-        "url:https://medcitynews.com/2026/09/ais-healthcare-doomsday-it-may-be-less-about-autonomy-than-trust/",
-        "pmid:42815506",
-        "url:https://medcitynews.com/2026/09/4-notable-health-tech-funding-announcements-in-september/",
-        "url:https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
-        "pmid:42815970"
-      ],
-      "minutes": 2
     }
   ]
 }

@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-10-20
+# Scientific Information Brief · 2026-10-21
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 446
+> Daily status: **complete_with_warning** · sources 26/26 · items 451
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -94,7 +94,7 @@ Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, prot
 
 - Source: `npj_digital_medicine` · published `2026-10-20` · freshness `fresh`
 - Reading value: `72` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03112-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03112-4`
 
 Radiotherapy (RT) remains a cornerstone in managing lower-grade glioma (LGG), but its response varies widely. Reliable pre-treatment prediction of RT response could facilitate patient management but remains unavailable. Here we present GUARD-LGG, a machine learning model designed to predict early RT response in LGG before treatment. GUARD-LGG was trained on 963 patients from a major center, tested on 187 patients from seven independent institutions, and 328 patients prospectively enrolled in a registered clinical trial. GUARD-LGG achieved AUCs of 0.946 (95% CI: 0.938–0.962), 0.929 (95% CI: 0.894–0.965), 0.882 (95% CI: 0.830–0.934), and 0.913 (95% CI: 0.878–0.949) in the training, internal validation, external, and prospective test sets, respectively. Model interpretation highlighted residual tumor, age, T2-weighted texture roughness and T1-weighted contrast intensity changes as major predictors. Radiogenomic analyses suggested potential associations between predicted unfavorable RT response and enrichment of RT resistance-related pathways. Consistently, patients with predicted unfavorable RT response exhibited shorter overall survival. In conclusion, GUARD-LGG enables individualized prediction of early RT response before therapy, offering a tool for pre-treatment response stratification in LGG.
 
@@ -142,7 +142,7 @@ The U.S. Food and Drug Administration today granted accelerated approval for a n
 
 No items.
 
-## Archive · 430
+## Archive · 435
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -632,22 +632,6 @@ Hyperkalaemia is a common and potentially life threatening electrolyte abnormali
 
 <h4>Objectives</h4>To determine the range of possible prevalences of chronic traumatic encephalopathy (CTE) at death among National Football League (NFL) players and examine the association between CTE severity and risk of dementia.<h4>Design</h4>Retrospective population based cohort study.<h4>Setting</h4>NFL players from the era of hard-shell helmets (post-1949) in the US, including brain donors to the UNITE (Understanding Neurologic Injury and Traumatic Encephalopathy) and UCSF ADRC (University of California, San Francisco Alzheimer's Disease Research Center) brain banks.<h4>Participants</h4>1712 former NFL players who died during 2008-21, of whom 338 donated their brains for neuropathological evaluation. Personal information and causes of death according to the National Death Index (NDI) were obtained for all NFL players who died during the study period. Neuropathologists masked to clinical and playing histories assessed postmortem CTE diagnosis and stage IV CTE. Clinicians, masked to neuropathological status, reviewed donors' medical records and informant based clinical histories, to adjudicate a dementia diagnosis.<h4>Main outcome measures</h4>The main outcome measures were the minimum (number of donors with CTE/total number of NFL deaths) and maximum (1-(number of donors without CTE/total number of NFL deaths)) CTE prevalence at death during the study period and the six years (2016-21) when brain donation was most frequent. To account for selection pressure of brain donation status, inverse probability weighting was used to estimate the association between stage IV CTE and study clinician diagnosed dementia.<h4>Results</h4>Among 1712 NFL players who died, 338 (19.7%) players' brains were studied, 315 (93.2%) of whom had a diagnosis of CTE; thus, among all 1712 NFL players who died, the possible CTE prevalence at death ranged between 18.5% and 98.7%. The possible prevalence at death during 2016 to 2021, when brain donation was most frequent, ranged between 24.5% and 97.7%. Among brain donors, 104 (30.8%) had stage IV CTE, 202 (59.8%) had study clinician diagnosed dementia (dementia onset: 63.4 years, standard deviation (SD) 12.5; death: 73.1 years, SD 10.5), and 63 (18.6%) had neurodegenerative disease listed as primary cause of death. In donors, stage IV CTE was associated with study clinician diagnosed dementia (risk ratio 1.44, 95% confidence interval 1.16 to 1.78; P<0.001). Only 40.6% of donors (n=82) with study clinician diagnosed dementia had neurodegenerative disease listed as the primary or secondary cause of death.<h4>Conclusions</h4>At minimum, nearly a quarter of all former NFL players who died during 2016-21 had CTE neuropathology at death. Among NFL player brain donors, dementia diagnosed based on records before death was common and associated with stage IV CTE.
 
-### [FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults](http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults)
-
-- Source: `fda_press` · published `2026-08-27` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults`
-
-The U.S. Food and Drug Administration has approved Lisraya (brepocitinib) tablets for the treatment of dermatomyositis in adults. For decades, dermatomyositis patients have had limited treatment options to manage their symptoms. The approval of Lisraya offers patients an important new alternative by providing an effective oral treatment option. “For too long, patients with dermatomyositis have faced a significant unmet need for effective treatments, often relying on therapies meant for other diseases,” said Nikolay Nikolov, M.D., Director of the Office of Immunology and Inflammation in the FDA’s Center for Drug Evaluation and Research. “Today’s approval is a meaningful step forward, giving patients and their healthcare providers an approved oral therapy proven to help manage this rare and debilitating disease.” Dermatomyositis is a rare autoimmune disease in which the immune system attacks the muscles and skin, causing chronic inflammation, progressive muscle weakness, and distinctive skin rashes. Lisraya is a once-daily oral tablet that works as a Janus kinase (JAK/TYK2) inhibitor. By blocking JAK pathways, which play a key role in the body's immune and inflammatory responses, Lisraya helps reduce the harmful inflammation that damages the muscles and skin, offering an effective new option for disease control. The efficacy and safety of Lisraya were evaluated in a phase 3 randomized, double-blind, multicenter, placebo-controlled study (NCT05437263) that included 241 adults with dermatomyositis. Participants were randomized to receive Lisraya (brepocitinib) 30 mg once daily, brepocitinib 15 mg once daily or placebo for a 52-week treatment period. The study measured Total Improvement Score (TIS) at week 52, a standardized scoring tool that tracks changes across six areas (muscle strength, physical function, skin and other disease activity, muscle enzymes, and both physician and patient assessments of overall health) to assess how much a patient’s dermatomyositis has improved. Participants treated with Lisraya 30 mg had a higher average TIS score (indicating greater clinical response and disease control) at week 52 compared to those who received a placebo. They also showed improvements in physical function and skin disease activity and were more likely to reduce corticosteroid use by week 48. Some of the most common adverse reactions to Lisraya were upper respiratory tract infection, headache, fatigue, urinary tract infection, and nausea. Discontinuation due to adverse reactions occurred in 6% of participants treated with Lisraya 30 mg, compared with 11% of those given a placebo. Lisraya carries a boxed warning for serious infections, increased all-cause mortality (a higher risk of death from any cause), malignancies (cancers), major adverse cardiovascular events (serious heart and blood vessel problems), and thrombosis (blood clots). The FDA granted Lisraya Orphan Drug and Priority Review designations. The approval of Lisraya for the treatment of dermatomyositis was granted to Priovant Therapeutics Inc. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
-
-### [FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder](http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder)
-
-- Source: `fda_press` · published `2026-08-28` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder`
-
-The U.S. Food and Drug Administration today approved Mimrylo (rusfertide), a new treatment for adults with polycythemia vera, a rare blood disorder that causes the body to make too many red blood cells. The excess cells can thicken the blood and increase the risk of cardiovascular issues, such as blood clots, stroke and heart attack. Mimrylo offers a new treatment approach for patients whose disease has not been adequately controlled with existing therapies. It is the first approved treatment for polycythemia vera that mimics hepcidin, a hormone that naturally regulates iron in the body. By limiting the iron available to make new red blood cells, Mimrylo helps reduce their overproduction and keep red blood cell levels under control. This novel approach offers a new option for patients who have not achieved adequate control with existing therapies. “People living with polycythemia vera have long faced the challenge of managing a chronic blood disorder with frequent blood draws to help address the consequences of the red blood cell overproduction,” said Tanya Wroblewski, M.D., Director of the Division of Nonmalignant Hematology within the FDA’s Center for Drug Evaluation and Research. “Today's approval of Mimrylo offers a new, first-in-class option that has the potential to meaningfully reduce patient burden." A key goal of treatment for polycythemia vera is keeping the proportion of red blood cells in the blood (hematocrit) below 45% to reduce cardiovascular risks. This often requires phlebotomy, a procedure that removes blood from a vein to lower the number of red blood cells in the body. However, some patients continue to need frequent phlebotomies despite treatment, creating an ongoing burden. The safety and efficacy of Mimrylo were evaluated in the VERIFY trial, a multicenter, randomized, double-blind, placebo-controlled phase 3 study of 293 adults with polycythemia vera who required frequent phlebotomies despite ongoing standard-of-care therapy. Patients were randomized 1:1 to receive either Mimrylo or placebo over 32 weeks. Mimrylo treatment started at 19 mg, administered subcutaneously (under the skin) once weekly, and was titrated to maintain hematocrit levels below 45%. Efficacy was measured by the proportion of patients who did not meet criteria for phlebotomy between weeks 20 and 32 of the study. Overall, 76.9% of patients on Mimrylo required no phlebotomies during the 32-week period compared to 32.9% on placebo. The most common adverse reactions were injection site reactions and anemia. Mimrylo received priority review. The approval was granted to Takeda Pharmaceuticals America, Inc. ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
-
 ### [Schizophrenia: advances in pathophysiology, management, and precision medicine.](https://doi.org/10.1136/bmj-2026-635470)
 
 - Source: `bmj_abstracts` · published `2026-08-28` · freshness `stale`
@@ -1111,14 +1095,6 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 - Event: `seen` · identity: `pmid:42734953`
 
 <h4>Importance</h4>Cesarean delivery is the most common surgery in the US and the most significant risk factor for postpartum infection. Although trial evidence demonstrated that adjunctive azithromycin use at the time of birth reduces postpartum infection in pregnant persons who undergo an unscheduled cesarean delivery, use of azithromycin outside that trial has not been reported.<h4>Objective</h4>To determine the adoption of trial evidence in clinical practice and describe postpartum infection trends among US pregnant persons undergoing unscheduled cesarean delivery.<h4>Design, setting, and participants</h4>Data from Epic Cosmos were used to conduct a difference-in-differences analysis including pregnant individuals who received prenatal care, labored, and gave birth to a liveborn singleton infant at 24 to 43 weeks' gestation from 2013 to 2024. Cesarean birth was considered the treatment group and vaginal birth was considered the control group. The analysis was conducted from July 2025 to June 2026.<h4>Exposure</h4>Relative to the publication of trial evidence in 2016, births that occurred from January 1, 2013, to September 28, 2016, were compared with births that occurred from January 1, 2017, to December 31, 2024.<h4>Main outcomes and measures</h4>The primary outcomes were perioperative administration of azithromycin and postpartum infection within 6 weeks of delivery. Patient-level linear regression was used to obtain the difference-in-differences estimate.<h4>Results</h4>Of the 1 663 441 infant deliveries included in the analysis, there were 202 234 cesarean births and 1 461 207 vaginal births (mean age of pregnant individuals, 29.3 [SD, 5.7] years; median body mass index at time of delivery, 31.8 [IQR, 28.2-36.5]). From January 1, 2013, to September 28, 2016, azithromycin was administered during 2.2% of cesarean births (721/32 970) vs 0.01% of vaginal births (15/261 624) compared with 39.6% (67 094/169 264) vs 0.04% (421/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, 37.6 percentage points [95% CI, 33.1 to 42.2]). From January 1, 2013, to September 28, 2016, postpartum infection occurred after 9.2% of cesarean births (3048/32 970) vs 2.0% of vaginal births (5311/261 624) compared with 8.0% (13 555/169 264) vs 2.7% (32 581/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, -2.0 percentage points [95% CI, -2.6 to -1.4]).<h4>Conclusions and relevance</h4>After publication of the trial evidence in 2016, azithromycin use for pregnant persons undergoing unscheduled cesarean delivery increased and postpartum infection rates decreased in the US.
-
-### [Apple’s new child safety features now available](https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/)
-
-- Source: `apple_newsroom` · published `2026-09-14` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/`
-
-Apple’s new suite of tools that help parents create safer digital experiences for their kids is now available across iPhone, iPad, Mac, and more.
 
 ### [Idiopathic Normal Pressure Hydrocephalus: A Review.](https://doi.org/10.1001/jama.2026.15519)
 
@@ -2138,8 +2114,8 @@ Background: Digital health technologies (DHTs) offer opportunities to support po
 
 ### [Addressing threats to future global health-what is the right timeframe?](https://doi.org/10.1016/s0140-6736(26)00880-9)
 
-- Source: `lancet_abstracts` · published `2026-10-10` · freshness `fresh`
-- Reading value: `46` · status: `scored`
+- Source: `lancet_abstracts` · published `2026-10-10` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42858756`
 
 Our decisions today can support or threaten future human health. Insofar as we protect the planet or invest in fruitful research on pandemic countermeasures, we promote future wellbeing and health, sometimes at the present generation's expense. As we warm the planet, accelerate antibiotic resistance, or consume finite natural resources, we might serve present-day wellbeing or health at the expense of future generations. To decide which such trade-offs are legitimate or advisable, we need to know how to balance the health interests of future generations against each other and against our own. Should concerns for future health be confined to the 21st century as per the stated mission of the Lancet Commission on 21st century global threats to health? If not, how far into the future should they extend, and why? Population ethics is a branch of ethics that considers future populations' wellbeing. This Review, a part of the Lancet Commission on 21st century global threats to health, applies general insights from population ethics to future populations' health, and shows why that application is more complex than meets the eye.
@@ -2175,14 +2151,6 @@ Today, Indie Games Week lights up the App Store with a celebration of the catalo
 - Event: `seen` · identity: `pmid:42862549`
 
 <h4>Importance</h4>Heart failure affects more than 6 million US adults; approximately 4% to 5% progress to advanced disease despite optimal therapy. Heart transplant is a class I guideline-recommended therapy for select individuals with advanced heart failure.<h4>Observations</h4>Early referral for heart transplant is guided by the "I NEED HELP" mnemonic, a tool that identifies patients with advanced heart failure based on criteria such as use of inotropes, persistent symptoms (New York Heart Association class III or IV), end-organ dysfunction, left ventricular ejection fraction, defibrillator shocks, hospitalizations for heart failure, persistent edema or escalating use of diuretics, and low blood pressure. Each criterion is associated with higher risk of death or first heart failure hospitalization over a median follow-up of 260 days (adjusted hazard ratio, 1.19 [95% CI, 1.11-1.27] for each additional criterion). Typical absolute contraindications to heart transplant include active systemic infection, malignancy with limited life expectancy, severe and irreversible end-organ dysfunction (eg, cirrhosis, severe pulmonary hypertension), active substance use, major untreated psychiatric illness, inadequate social support, and severe frailty. Approximately 4600 heart transplants are performed annually in the US. The mortality rate was 8.5 deaths/100 patient-years for adults on the transplant waiting list in 2023. Leading causes of early death after transplant include primary graft dysfunction (39.5%), multiorgan failure (18.5%), and infection (13.9%). Among adults, contemporary survival rates after heart transplant are 91.5% at 1 year and 80.3% at 5 years. Lifelong maintenance immunosuppression typically combines a calcineurin inhibitor, antiproliferative agents (typically mycophenolate mofetil or azathioprine) and corticosteroids, with selective use of induction therapy (intensive immunosuppression immediately after transplant). Acute rejection requiring treatment occurs in 20% to 25% of recipients within a year, and may be treated with high-dose corticosteroids, antithymocyte globulin, and B-cell-targeted therapies (such as rituximab or bortezomib). Rejection surveillance with endomyocardial biopsies of the right ventricular septum is performed 5 to 10 times within the first year after transplant. Cardiac allograft vasculopathy (chronic rejection that causes diffuse coronary narrowing) affects 29% of heart transplant recipients within 5 years and 46.8% by 10 years and is the leading cause of late mortality. Cardiac allograft vasculopathy is treated with statins, mechanistic target of rapamycin inhibitors (such as sirolimus or everolimus), and retransplant for severe cases. Infections (62.5% are bacterial, 30.0% are viral, 6.7% are fungal, and 0.8% are parasitic) and malignancy (10.7% within 5 years after heart transplant) are other leading causes of late mortality.<h4>Conclusions and relevance</h4>Heart transplant is the definitive therapy for carefully selected patients with advanced heart failure despite receiving optimal, guideline-directed therapy. After heart transplant, lifelong multidisciplinary care is necessary to manage immunosuppression, prevent and treat rejection and cardiac allograft vasculopathy, and monitor for infection and malignancy.
-
-### [Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes](https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/)
-
-- Source: `medcity_news` · published `2026-10-12` · freshness `fresh`
-- Reading value: `23` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/`
-
-<p><a href="https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/"><img width="600" height="362" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-600x362.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-600x362.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530-300x181.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1305963530.jpg 760w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Asking the right questions about community support, caregiving responsibilities, emotional well-being, and the availability of trusted social networks can establish important context for a person’s outcomes — and spark conversations about social needs that might never otherwise take place.</p> <p>The post <a href="https://medcitynews.com/2026/10/loneliness-and-diabetes-harnessing-an-opportunity-for-better-outcomes/">Loneliness And Diabetes: Harnessing an Opportunity for Better Outcomes</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Outro Raises $7M To Support Safe Deprescribing](https://medcitynews.com/2026/10/outro-raises-7m-to-support-safe-deprescribing/)
 
@@ -2328,14 +2296,6 @@ Background: Adolescents living with perinatally acquired HIV (PHIV) remain at ri
 
 <p>Thinking about getting an Oura Ring? Before you buy, it helps to know exactly what you&#8217;re paying for, how long the battery lasts, and what happens if your smart ring needs a repair. Whether you want to understand your sleep better or build a smarter workout routine around your Activity goal, Oura can fit into [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/oura-ring-what-to-know-2026/">What to Know When Buying an Oura Ring</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
-### [6 ways to trick-or-treat yourself to the ultimate Halloween with Search](https://blog.google/products-and-platforms/products/search/halloween-tips-2026/)
-
-- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
-- Reading value: `7` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/halloween-tips-2026/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp">Whether you need a last-minute costume or a scary movie watchlist, let Google handle heavy lifting for your Halloween prep.
-
 ### [Bat-borne zoonoses: transmission, impact, prevention, and management.](https://doi.org/10.1136/bmj-2026-100560)
 
 - Source: `bmj_abstracts` · published `2026-10-14` · freshness `fresh`
@@ -2351,14 +2311,6 @@ Climate change and biodiversity loss are global environmental crises driving eme
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/`
 
 Bünyamin Aydın brought together Turkish heritage, rock influences, and futurism for a landmark fashion show in Cappadocia shot on iPhone 18 Pro Max.
-
-### [Check out this year’s buzziest Halloween trends.](https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/)
-
-- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
-- Reading value: `7` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp">Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…
 
 ### [Evaluation of the accuracy, completeness, and compliance of current summary reporting of adverse events to the Food and Drug Administration using the manufacturer and user facility device experience (MAUDE) database: cross sectional study.](https://doi.org/10.1136/bmj-2026-100812)
 
@@ -2391,14 +2343,6 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 Six years and more than 250 lectures after its launch as a pandemic response, Tissue Talks has reached over 50,000 attendees across more than 80 countries, offering a blueprint for how biomedical communities can maintain continuous global connection beyond the annual conference cycle.
-
-### [Guide your campaign spending with new priority and allocation features](https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/)
-
-- Source: `fitbit_google_blog` · published `2026-10-14` · freshness `fresh`
-- Reading value: `18` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waterfall_Search_Chart_01_No_Li.max-600x600.format-webp.webp">New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated
 
 ### [Healthleap Raises $38M to Expand AI Screening for Overlooked Conditions in Hospitalized Patients](https://medcitynews.com/2026/10/healthleap-raises-38m-to-expand-ai-screening-for-overlooked-conditions-in-hospitalized-patients/)
 
@@ -2624,14 +2568,6 @@ Our north star is simple yet ambitious: No one should be surprised by a natural 
 
 No summary supplied by the source.
 
-### [Labcorp to buy BioReference assets for up to $872M](https://www.medtechdive.com/news/labcorp-to-buy-bioreference-assets-for-up-to-872m/833116/)
-
-- Source: `medtech_dive_primary` · published `2026-10-15` · freshness `fresh`
-- Reading value: `67` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/labcorp-to-buy-bioreference-assets-for-up-to-872m/833116/`
-
-Labcorp has agreed to buy certain laboratory testing businesses from Opko Health subsidiary BioReference Health for $722 million, plus an additional sum of up to $150 million tied to revenue from a prostate cancer blood test. The final purchase price could be adjusted based on closing revenues, the companies said Thursday. Labcorp is acquiring businesses focused on clinical and women's health testing services, urology and diagnostic services provided to correctional institutions. The deal also adds more than 80 patient service centers to Labcorp’s network. In addition, the lab services provider is gaining BioReference Health's 4Kscore test, which has Food and Drug Administration approval to help predict the likelihood of finding aggressive prostate cancer before a biopsy decision.
-
 ### [Large Language Model–Assisted Review of Clinical Trial Informed Consent for Data Reuse: Retrieval-Augmented Generation Approach](https://medinform.jmir.org/2026/1/e95417)
 
 - Source: `jmir_medinform` · published `2026-10-15` · freshness `fresh`
@@ -2824,22 +2760,6 @@ D2C7-ATC is a recombinant antibody-toxin conjugate (ATC) targeting wild-type epi
 
 <figure><div><img src="https://imgproxy.divecdn.com/ffYG1yvEPAd2xYd_Qky3Bt7N0p8t0ON9sf3oFye5VzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbmRvcXVlc3QtcGh5c2ljaWFuLWNvbnNvbGUtdHJhbnNwYXJlbnQtd2lkZS5qcGc=.webp"/></div></figure><p>Jared Eben joins EndoQuest ahead of the anticipated launch of its flexible robotic surgery system.</p>
 
-### [GE HealthCare secures CE mark for MINItrace Magni cyclotron](https://www.medicaldevice-network.com/news/ge-ce-mark-minitrace-magni-cyclotron/)
-
-- Source: `medical_device_network` · published `2026-10-16` · freshness `fresh`
-- Reading value: `52` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ge-ce-mark-minitrace-magni-cyclotron/`
-
-<p>GE HealthCare has secured CE Mark certification for its MINItrace Magni cyclotron and broadened its PETtrace Solid Target Platform to manufacture Copper-64.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ge-ce-mark-minitrace-magni-cyclotron/">GE HealthCare secures CE mark for MINItrace Magni cyclotron</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Hospitals’ next lucrative bet — longevity clinics](https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-16` · freshness `fresh`
-- Reading value: `30` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss`
-
-On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health.
-
 ### [How AI Is Connecting MedTech’s Data Without Compromising Compliance](https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/)
 
 - Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
@@ -2872,14 +2792,6 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 
 Chronotherapy promises to improve medicine by aligning treatment with the body’s internal clock. As this idea moves into clinical trials, a high-profile retraction reveals the ups and downs of circadian medicine.
 
-### [Participant Characteristics Associated With Loneliness Reduction During a Digital Social Robot Intervention Among Older Adults Living Alone in Japan: Secondary Analysis of a Randomized Controlled Trial](https://www.jmir.org/article/view/jmir_v28i1e105549)
-
-- Source: `jmir` · published `2026-10-16` · freshness `fresh`
-- Reading value: `49` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105549`
-
-Among community-dwelling older adults living alone, less frequent preintervention social contact was associated with greater reductions in loneliness during a social robot intervention. Future trials should examine whether preintervention social contact modifies the effects of social robot interventions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/bf3646c3a59dced5fc0d62c38ba9b796" />
-
 ### [Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women](https://www.nature.com/articles/s41591-026-04687-x)
 
 - Source: `nature_medicine` · published `2026-10-16` · freshness `fresh`
@@ -2895,14 +2807,6 @@ Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substanti
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/sirona-medical-reels-in-40m-for-cloud-based-radiology-platform-scaleup/`
 
 <p>Sirona said the Series D funding tranche, led by Avidity Partners, will allow it to fund its operating plan "indefinitely".</p> <p>The post <a href="https://www.medicaldevice-network.com/news/sirona-medical-reels-in-40m-for-cloud-based-radiology-platform-scaleup/">Sirona Medical reels in $40m for cloud-based radiology platform scaleup</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [STAT+: Up and down the ladder: The latest comings and goings](https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-16` · freshness `fresh`
-- Reading value: `19` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss`
-
-From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
 ### [The Impending End of Cross-Subsidization](https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/)
 
@@ -2928,14 +2832,6 @@ Startup investors aren’t exactly hitting pause, but they did scale back on gia
 
 <strong>Background:</strong> Clinicians spend a lot of time on electronic health record (EHR) documentation, often at the expense of direct patient interaction. Ambient listening technology uses AI to passively record and summarize clinical encounters. Although early studies are promising, there is limited evidence on system performance in complex, non-English settings. <strong>Objective:</strong> This study aimed to compare the documentation performance of 3 commercially available ambient listening systems in simulated Dutch-language outpatient consultations by assessing note completeness, correctness, and conciseness under predefined linguistic and interactional challenges. <strong>Methods:</strong> Standardized audio recordings of 10 scripted physician-patient interactions across 2 specialties were used. Scenarios included multispeaker dynamics (patient companion), conversational disruptions (nurse interruption), evasive patient communication, and a regional dialect (Gronings). Three ambient listening providers (provider 1, provider 2, and provider 3) processed the audio files. Generated notes were divided into 4 note sections: patient history, physical examination, diagnostic impression, and treatment plan. For each system output, each note section was scored for completeness, conciseness, and correctness using a 5-point ordinal scale against physician-developed reference summaries. In total, 8 clinicians participated in scoring: 4 junior clinicians evaluated all outputs, and 4 senior clinicians each reviewed a subset of scenarios. Analyses were based on 351 rater-averaged section-domain scores. Interrater agreement was assessed using Gwet agreement coefficient 2 (Gwet AC-2). System-level technical characteristics were assessed alongside clinical performance to aid interpretation of between-provider differences. <strong>Results:</strong> Across 351 rater-averaged section-domain scores on a 5-point scale, overall interrater agreement was high (Gwet AC-2=0.827). Provider-level mean scores ranged from 3.82 to 4.26 (4.26, SD 0.73 for provider 3, 4.00, SD 0.90 for provider 2, and 3.82, SD 1.07 for provider 1). Mean scores were higher in otolaryngology than in surgical oncology (4.36, SD 0.56 vs 3.68, SD 1.10). Across scoring domains, correctness received the highest mean score (4.21, SD 0.98), while completeness received the lowest (3.81, SD 0.90). Variation in mean scores was observed across script scenarios. Dialect-containing scenarios had the lowest mean score overall (3.77, SD 1.21), although this pattern was not uniform across specialties and systems. Median summary generation times ranged from 13.5 seconds (IQR 12-15; provider 3) to 22.0 seconds (IQR 18-24; provider 2). <strong>Conclusions:</strong> Ambient listening systems demonstrated generally strong performance in this simulated Dutch-language evaluation, including under several common conversational challenges. However, mean scores varied across scripted scenarios, with lower scores observed in some dialect-containing and otherwise challenging interactions. Future deployment studies must prioritize linguistic equity, real-world validation of efficiency gains, and evaluation of both clinician and patient perceptions to understand how these systems influence consultation dynamics and care delivery across diverse patient populations.
 
-### [Vivos to buy 50% stake in SOD Sciences’ pseudohypoxia test](https://www.medicaldevice-network.com/news/vivos-50-sod-sciences-pseudohypoxia-test/)
-
-- Source: `medical_device_network` · published `2026-10-16` · freshness `fresh`
-- Reading value: `33` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/vivos-50-sod-sciences-pseudohypoxia-test/`
-
-<p>Vivos Therapeutics has entered into a definitive agreement for an 11% fully diluted equity interest in SOD Sciences along with a 50% undivided co-ownership stake in its pseudohypoxia early-warning diagnostic test.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/vivos-50-sod-sciences-pseudohypoxia-test/">Vivos to buy 50% stake in SOD Sciences&#8217; pseudohypoxia test</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [We’re sharing 3 tips to study smarter with Gemini Notebook.](https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/)
 
 - Source: `fitbit_google_blog` · published `2026-10-16` · freshness `fresh`
@@ -2958,7 +2854,7 @@ Startup investors aren’t exactly hitting pause, but they did scale back on gia
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/`
 
-Hacker News community signal; score 62.
+Hacker News community signal; score 69.
 
 ### [Large language models for depression assessment from brief daily diaries](https://www.nature.com/articles/s41746-026-03388-6)
 
@@ -2967,14 +2863,6 @@ Hacker News community signal; score 62.
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03388-6`
 
 Closely tracking changes in depression is important for clinical research and practice. However, intensive longitudinal depression assessment relies on self-report surveys that have major limitations. Scoring depression from natural language with large language models (LLMs) could resolve these shortcomings. This study tested the validity of depression rated by LLMs from daily video diaries. We studied 108 participants selected for mental health treatment status (45% in treatment). Participants completed a clinical interview and 14-21 days of depression surveys and video diaries. Daily depression scores were estimated by LLMs from diary transcripts. LLM ratings converged with self-report depression within-person (r = .45;95% CrI[.40, .49]) and when averaged across days for an overall depression score (r = .61;95% CrI[.43,.75]). Averaged LLM ratings correlated with depression symptom severity ascertained by clinical interview (r = .53;95% CrI[.35, .68]). LLM-rated depression and self-report had similar profiles of associations with daily functioning variables (profile r = .98 within-person; r = .94 between-person). Multivariable regression results showed LLM ratings predicted daily functioning variables (partial $$\beta s$$=|.12 | - | .28 | ) and interview-rated depression (partial $$\beta$$=.33;95% CrI[.07, .58]) over and above self-reports, suggesting LLMs capture clinically-relevant information that self-reports miss. Findings establish a strong foundation for a depression assessment approach that addresses shortcomings of self-reports while satisfying the unique demands of intensive longitudinal monitoring.
-
-### [STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded](https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-17` · freshness `fresh`
-- Reading value: `48` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss`
-
-A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab.
 
 ### [Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform](https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/)
 
@@ -3036,7 +2924,7 @@ A jury awarded $6 million in damages to scientist David Sabatini, whose career i
 
 - Source: `medcity_news` · published `2026-10-19` · freshness `fresh`
 - Reading value: `44` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/`
 
 <p><a href="https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/"><img width="600" height="337" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-1300745916-1-600x337.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-1300745916-1-600x337.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-1300745916-1-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-1300745916-1-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-1300745916-1.jpg 788w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>AdvaMed CEO Scott Whitaker outlined four policy priorities at the MedTech Conference: tariffs, FDA user fees, payment and coverage, and cybersecurity.</p> <p>The post <a href="https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/">AdvaMed’s 4 Policy Priorities, According to Its CEO</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3124,25 +3012,9 @@ Objective Structured Clinical Examinations (OSCEs) are central to competency-bas
 
 - Source: `medtech_dive_primary` · published `2026-10-19` · freshness `fresh`
 - Reading value: `75` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/fda-clears-sequels-insulin-delivery-system-in-type-2-diabetes/833317/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/fda-clears-sequels-insulin-delivery-system-in-type-2-diabetes/833317/`
 
 The Food and Drug Administration has cleared the Twiist automated insulin delivery, or AID, system for use in adults with insulin-treated Type 2 diabetes. Sequel Med Tech, which sells the device, disclosed the 510(k) clearance on Friday. The FDA granted the clearance to Deka Research and Development, Sequel’s partner on Twiist. The FDA cleared Twiist after researchers linked the AID system to reduced blood sugar and increased time in the target glycemic range in a clinical trial.
-
-### [From Cardiopulmonary Resuscitation Training to Guiding Bystanders: The Growing Role of AI in Resuscitation](https://www.jmir.org/article/view/jmir_v28i1e113397)
-
-- Source: `jmir` · published `2026-10-19` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113397`
-
-<img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e156a7436656cadf4e37948490a55773" />
-
-### [From Reactive to Proactive Care: Using AI to Detect Gender-Based Violence in Brazil](https://www.jmir.org/article/view/jmir_v28i1e112991)
-
-- Source: `jmir` · published `2026-10-19` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e112991`
-
-<img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4674436f706643429bb013c338ce42ba" />
 
 ### [GLP-1 Ads Are Everywhere. What Are They Doing to Our Body Image?](https://www.jmir.org/article/view/jmir_v28i1e113477)
 
@@ -3176,14 +3048,6 @@ The Food and Drug Administration has cleared the Twiist automated insulin delive
 
 A continued boom in late-stage and growth funding combined with a surge in seed-stage funding helped buoy venture investment in Latin America for the third quarter of 2026, Crunchbase data shows.
 
-### [Mapping Technologies, Support Functions, Evaluation Outcomes, and Safety Governance Related to Conversational AI Agents for Psychological Support of Patients With Cancer: Scoping Review](https://www.jmir.org/article/view/jmir_v28i1e105599)
-
-- Source: `jmir` · published `2026-10-19` · freshness `fresh`
-- Reading value: `58` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105599`
-
-&lt;strong&gt;Background:&lt;/strong&gt; Psychological distress and unmet psychosocial needs are common across the cancer continuum. Conversational AI agents may offer scalable support, but their technologies, support functions, evaluation approaches, and safety governance remain fragmented. &lt;strong&gt;Objective:&lt;/strong&gt; This review aimed to map the technologies, psychological support functions, evaluation outcomes, and safety governance of conversational AI used by patients with cancer and cancer survivors. &lt;strong&gt;Methods:&lt;/strong&gt; We conducted a scoping review following Joanna Briggs Institute (JBI) methodology and the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews). Thirteen databases and additional registers were searched through May 5, 2026. Eligible reports examined conversational agents in real or simulated patient-facing oncology contexts with explicit psychological or psychosocial relevance. We summarized system forms and support functions by project and other characteristics by report. No formal critical appraisal was undertaken. &lt;strong&gt;Results:&lt;/strong&gt; We included 24 reports representing 25 study units and 23 underlying projects. Large language model (LLM) or generative AI systems accounted for 39.1% (9/23) of projects. Information or education (23/23, 100%) and symptom or self-management support (n=20, 87%) were the most frequently mapped functions, although these counts included delivered, planned, simulated, co-designed, and participant-reported functions. Structured psychological or behavioral components were delivered in 21.7% (5/23) of projects. An explicit theoretical or conceptual framework was reported in 25% (6/24) of reports. Reports or plans to assess acceptability or user experience (17/24, 70.8%) and engagement (13/24, 54.2%) were more common than reports or plans to assess psychosocial clinical outcomes (8/24, 33.3%) or safety and adverse events (4/24, 16.7%). Human or expert oversight was reported in 62.5% (15/24) of reports, crisis escalation or referral in 33.3% (8/24) of reports, and user-facing AI identity disclosure in 12.5% (3/24) of reports. &lt;strong&gt;Conclusions:&lt;/strong&gt; Conversational AI research in psycho-oncology spans heterogeneous technologies and stages of development. Clinical and safety evaluation, theoretical foundations, population representation, and oversight responsibilities remain incompletely reported. These findings represent a map of reporting patterns and do not establish effectiveness or safety. Future studies should evaluate psychosocial benefit and safety prospectively and define professional oversight and referral responsibilities. &lt;strong&gt;Trial Registration:&lt;/strong&gt; OSF Registries UM65W; https://osf.io/um65w <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/80180f7e6b95a4be102120b8aa3cf4b0" />
-
 ### [Masimo’s vitals monitor scoops FDA clearance for AFib detection](https://www.medicaldevice-network.com/news/masimo-vitals-monitor-scoops-fda-clearance-for-afib-detection/)
 
 - Source: `medical_device_network` · published `2026-10-19` · freshness `fresh`
@@ -3196,9 +3060,9 @@ A continued boom in late-stage and growth funding combined with a surge in seed-
 
 - Source: `medcity_news` · published `2026-10-19` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/`
 
-<p><a href="https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/"><img width="600" height="393" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-600x393.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-600x393.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-768x503.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>The Silence Therapeutics acquisition gives Merck KGaA a drug ready for a pivotal test in the blood disorder polycythemia vera. Silence’s RNA therapy offers a different approach and a potential dosing advantage over a Takeda Pharmaceutical product recently approved in this indication. </p> <p>The post <a href="https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/">Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/"><img width="600" height="393" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-600x393.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-600x393.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268-768x503.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/10/GettyImages-94652268.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The Silence Therapeutics acquisition gives Merck KGaA a drug ready for a pivotal test in the blood disorder polycythemia vera. Silence’s RNA therapy offers a different approach and a potential dosing advantage over a Takeda Pharmaceutical product recently approved in this indication. </p> <p>The post <a href="https://medcitynews.com/2026/10/merck-kgaa-silence-therapeutics-acquisition-polycythemia-vera-divesiran-sirna-rna-interference-sln/">Merck KGaA’s $1.1B Silence Therapeutics Buyout Brings RNA Drug for Rare Blood Cancer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Methodological Principles for the Assessment of Section 5.1 of the Summary of Product Characteristics](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/methodological-principles-assessment-section-51-summary-product-characteristics_en.pdf)
 
@@ -3248,14 +3112,6 @@ Notice NOT-EB-26-005 from the NIH Guide for Grants and Contracts
 
 A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.
 
-### [Opinion: Measles is back — and becoming a midterm liability for Republicans](https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
-- Reading value: `23` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss`
-
-“Silence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,” write physicians and former GOP Reps. Larry Buchson and Michael Burgess.
-
 ### [Opinion: My mother killed herself. I wish assisted suicide had been an option](https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
@@ -3296,14 +3152,6 @@ Repetitive transcranial magnetic stimulation (rTMS), including intermittent thet
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp">We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…
 
-### [STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’](https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
-- Reading value: `26` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss`
-
-"The hardest years of my life," is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.
-
 ### [STAT+: China moves to restrict foreign biotech acquisitions](https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
@@ -3327,14 +3175,6 @@ Isomorphic Labs wants to turn its technology into an engine for new medicines. T
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss`
 
 An oral treatment from Gilead Sciences eliminated the symptoms experienced by patients with a type of inflammatory bowel disease, according to mid-stage study results reported Monday.
-
-### [STAT+: How the No Surprises Act’s nonprofit arbitrators are operating like ‘mini gods’ and getting rich doing it](https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-19` · freshness `fresh`
-- Reading value: `60` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss`
-
-A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.
 
 ### [STAT+: Pharmalittle: We’re reading about Roche investments in Germany, a Gilead bowel disease drug, and more](https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/?utm_campaign=rss)
 
@@ -3404,7 +3244,7 @@ The Republican party’s confusing messaging on vaccines is going to hurt candid
 
 - Source: `medical_device_network` · published `2026-10-19` · freshness `fresh`
 - Reading value: `23` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/uk-government-urged-to-scrap-20-vat-on-defibrillators-ahead-of-autumn-budget/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/uk-government-urged-to-scrap-20-vat-on-defibrillators-ahead-of-autumn-budget/`
 
 <p>Signed by 57 parliamentarians, an open letter to the UK chancellor argues that scrapping the 20% VAT could boost public access to defibrillators across the UK.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-government-urged-to-scrap-20-vat-on-defibrillators-ahead-of-autumn-budget/">UK government urged to scrap 20% VAT on defibrillators ahead of Autumn Budget</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3446,7 +3286,7 @@ The liver can warn us of metabolic dysfunction long before serious consequences 
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions`
 
-Hacker News community signal; score 547.
+Hacker News community signal; score 691.
 
 ### [Why teaching AI about symmetry could make prenatal diagnosis more reliable](https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019)
 
@@ -3460,23 +3300,47 @@ A model developed by researchers at MIT and Boston Children's Hospital adjusts s
 
 - Source: `medcity_news` · published `2026-10-19` · freshness `fresh`
 - Reading value: `42` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/with-5m-phantom-gi-plans-to-develop-minimally-invasive-alternative-ostomy-surgery-device/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/with-5m-phantom-gi-plans-to-develop-minimally-invasive-alternative-ostomy-surgery-device/`
 
 <p><a href="https://medcitynews.com/2026/10/with-5m-phantom-gi-plans-to-develop-minimally-invasive-alternative-ostomy-surgery-device/"><img width="600" height="480" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/04/GettyImages-637108448-600x480.jpg" class="attachment-large size-large wp-post-image" alt="funding money raise" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/04/GettyImages-637108448-600x480.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/04/GettyImages-637108448-300x240.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/04/GettyImages-637108448.jpg 661w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Phantom GI, a Tel Aviv-based medical startup, is developing the PercStoma device, a minimally invasive alternative to traditional ostomy surgery. The device would target patients with bowel obstructions who might otherwise be considered ineligible for surgery.</p> <p>The post <a href="https://medcitynews.com/2026/10/with-5m-phantom-gi-plans-to-develop-minimally-invasive-alternative-ostomy-surgery-device/">With $5M, Phantom GI Plans to Develop Minimally Invasive Alternative Ostomy Surgery Device</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [A Radical Proposal to Preserve Cell and Gene Therapy Innovation](https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/)
+
+- Source: `medcity_news` · published `2026-10-20` · freshness `fresh`
+- Reading value: `30` · status: `needs_review`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/`
+
+<p><a href="https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/"><img width="600" height="340" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-600x340.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-600x340.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-300x170.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-768x435.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207.jpg 785w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Cell and gene therapies are amazing medical breakthroughs but if we don’t find ways to pay for them, the development pipeline will fail. </p> <p>The post <a href="https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/">A Radical Proposal to Preserve Cell and Gene Therapy Innovation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Apple announces American Manufacturing Program partners for latest iPhone lineup](https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/)
 
 - Source: `apple_newsroom` · published `2026-10-20` · freshness `fresh`
 - Reading value: `20` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/`
 
 Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.
+
+### [Apple unveils the 2026 Designers of Tomorrow](https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/)
+
+- Source: `apple_newsroom` · published `2026-10-20` · freshness `fresh`
+- Reading value: `4` · status: `scored`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/`
+
+Apple’s Designers of Tomorrow showcase returns to spotlight the best in emerging talent, this time focusing on the theme of presence.
+
+### [Ask a Scientist: How can AI help doctors spend more time on collaborative care?](https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/)
+
+- Source: `fitbit_google_blog` · published `2026-10-20` · freshness `fresh`
+- Reading value: `19` · status: `needs_review`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp">AMIE, an AI system people can chat with before doctor’s appointments, securely gathers patient information, and saves doctors time.
 
 ### [Author Correction: FcRH5×CD3 bispecific antibody cevostamab in relapsed or refractory multiple myeloma: a phase 1 trial](https://www.nature.com/articles/s41591-026-04757-0)
 
 - Source: `nature_medicine` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04757-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04757-0`
 
 No summary supplied by the source.
 
@@ -3484,39 +3348,111 @@ No summary supplied by the source.
 
 - Source: `oura_blog` · published `2026-10-20` · freshness `fresh`
 - Reading value: `19` · status: `needs_review`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/cardio-effort-automatic-vo2max/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/cardio-effort-automatic-vo2max/`
 
 <p>Step count, active minutes, distance travelled—most wearable users are familiar with the standard activity stats. But more often than not, people are left asking the same questions after every workout: Was that enough? Was it too much? Do I need to change up my training plan? When you don’t have clear answers, you’re left guessing, [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/cardio-effort-automatic-vo2max/">Cardio Effort and Automatic VO2 Max: Providing More Context for All Your Oura Activities</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
+
+### [Catching the “Pink Flags”: Using Smart Devices to Spot Early Signs of Postpartum Psychosis](https://www.jmir.org/article/view/jmir_v28i1e113384)
+
+- Source: `jmir` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113384`
+
+<img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/06c490da010eebad8ee62c1f5575f358" />
+
+### [Correction: Twitter’s Role in Combating the Magnetic Vaccine Conspiracy Theory: Social Network Analysis of Tweets](https://www.jmir.org/article/view/jmir_v28i1e113278)
+
+- Source: `jmir` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113278`
+
+No summary supplied by the source.
+
+### [Cybersecurity in focus for top medtech lobby](https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/)
+
+- Source: `medtech_dive_primary` · published `2026-10-20` · freshness `fresh`
+- Reading value: `41` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/FNk5Vu8z7G5IFhHT6IJp-a9WOA6PcZyqhU-XPp1PBwU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3N0b25fY29udmVudGlvbl9jZW50ZXIuanBn.webp"/></div></figure><p>ResMed CEO Mick Farrell, chair of AdvaMed&rsquo;s board, said the group plans to come up with standards around privacy, cybersecurity and interoperability.</p>
+
+### [Discover to Deliver Pediatric Futures: Viewpoints of Future Medicine From a Pediatric Health Care System](https://www.jmir.org/article/view/jmir_v28i1e96758)
+
+- Source: `jmir` · published `2026-10-20` · freshness `fresh`
+- Reading value: `37` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e96758`
+
+Pediatric health care systems face increasing uncertainty driven by rapid technological change, workforce shifts and shortages, environmental threats, and evolving family and community needs. Pediatrics requires future-focused considerations that go beyond adult systems, including family-centered care, developmental trajectories, and long-term societal impacts on child well-being. While the future cannot be predicted, futures medicine methods offer structured approaches to anticipate change and support proactive, values-driven planning. This Viewpoint describes the application of pediatric futures methods within an academic, independent nonprofit pediatric health system and proposes a practical framework that connects future readiness to strategic decision-making and daily care delivery. Futures medicine methods are not new in pediatric health care but may not be visible from the front line of care delivery, which provides an opportunity for clinical, operational, administrative, and enterprise leaders to implement these methods in their workflows. This paper introduces the discover to deliver pediatric futures framework, a continuum that links long-range futures discovery to near-term strategic planning, operational design, implementation, and outcome demonstration, emphasizing future methods and activities for applicable use. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/29691b828f7b9967539a35fda6b4d931" />
+
+### [Expanding our defenses against financial scam ads](https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/)
+
+- Source: `fitbit_google_blog` · published `2026-10-20` · freshness `fresh`
+- Reading value: `16` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/financial_protection_US__Canada.max-600x600.format-webp.webp">We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.
 
 ### [Expertise modulates automation bias and sentinel behavior in human–AI collaborative diagnosis of neonatal pneumoperitoneum](https://www.nature.com/articles/s41746-026-03399-3)
 
 - Source: `npj_digital_medicine` · published `2026-10-20` · freshness `fresh`
 - Reading value: `68` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03399-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03399-3`
 
 Medical AI is often validated under an additive assumption that algorithmic sensitivity and clinician oversight will combine to improve care. We tested this assumption in the high-stakes diagnosis of neonatal pneumoperitoneum, a time-critical surgical emergency. In a multi-reader crossover study analyzing 1750 interpretation events, clinicians reviewed radiographs aided by either a high-reliability model or a systematically error-injected model. We found that high AI reliability paradoxically induces automation bias in trainees, who accepted 52.0% of incorrect suggestions, while offering limited gains to experts. Conversely, when challenged by flawed AI, the three participating neonatologists exhibited a “sentinel behavior” phenotype, correctly overriding 91.7% of errors (Wilson 95% CI: 83.0–96.0%) consistent with increased deliberation; given the small specialist cohort, this finding is hypothesis-generating and warrants prospective replication. We operationalize systemic resilience as the capacity to maintain diagnostic integrity under algorithmic failure and demonstrate that clinical validity depends on the human–AI team’s adversarial resilience rather than standalone accuracy. To mitigate the risk of deskilling and never-skilling, we release an open-source educational sandbox designed to inoculate clinicians against automated errors.
+
+### [FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women](http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women)
+
+- Source: `fda_press` · published `2026-10-20` · freshness `fresh`
+- Reading value: `53` · status: `scored`
+- Event: `new` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women`
+
+Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal hormone therapy patch for women with an intact uterus applied once a week.
+
+### [FDA Issues Final Guidance on Prescription Drug Apps and Software](http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software)
+
+- Source: `fda_press` · published `2026-10-20` · freshness `fresh`
+- Reading value: `59` · status: `scored`
+- Event: `new` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software`
+
+The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside their prescription medicines.
 
 ### [Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer](https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-20` · freshness `fresh`
 - Reading value: `21` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/`
 
 All told, fintech startups raised $10.6 billion globally in the third quarter of 2026, down 28.4% from $14.9 billion in Q2 2026 and 21.4% from $13.5 billion in Q3 2025.
+
+### [Formacoat continues to impress with coating technology HydroMark™](https://www.medicaldevice-network.com/sponsored/formacoat-continues-to-impress-with-coating-technology-hydromark/)
+
+- Source: `medical_device_network` · published `2026-10-20` · freshness `fresh`
+- Reading value: `23` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/sponsored/formacoat-continues-to-impress-with-coating-technology-hydromark/`
+
+<p>A new hydrophilic coating gives medical-device manufacturers greater choice, flexibility and supply-chain resilience. Learn more here:</p> <p>The post <a href="https://www.medicaldevice-network.com/sponsored/formacoat-continues-to-impress-with-coating-technology-hydromark/">Formacoat continues to impress with coating technology HydroMark™</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [How To Build A Billion-Dollar Company Without Venture Capital](https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-20` · freshness `fresh`
 - Reading value: `15` · status: `needs_review`
-- Event: `new` · identity: `url:https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/`
 
 Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De Marco, who draws on his experience bootstrapping BairesDev, to emphasize financial discipline and a lasting commitment to solving customer problems as the foundations of sustainable growth.
+
+### [How voters feel about trans rights and abortion access will soon be put to the test](https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
+- Reading value: `11` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss`
+
+How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.
 
 ### [MEDA-PKD: a dynamic, real-time analytics platform for precision care in autosomal dominant polycystic kidney disease](https://www.nature.com/articles/s41746-026-03267-0)
 
 - Source: `npj_digital_medicine` · published `2026-10-20` · freshness `fresh`
 - Reading value: `58` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03267-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03267-0`
 
 The use of medical real-world data is constrained by fragmented data infrastructures and the absence of tools integrating longitudinal clinical with molecular data at scale. Autosomal dominant polycystic kidney disease (ADPKD), the most common monogenic cause of kidney failure, exemplifies this gap given its phenotypic complexity and the need for individualized treatment decisions. We present MEDA-PKD (MEdical DAta translation service of Polycystic Kidney Disease), an interactive, near-real-time analytics platform that integrates clinical routine with research data from the German AD(H)PKD Tolvaptan Registry (NCT02497521, DRKS00008910) into a harmonized database ( https://doi.org/10.18716/adpkd_registry ). MEDA-PKD provides automated near-real-time analysis and dynamic visualization, replacing traditional static approaches to clinical cohorts. As of March 2026, MEDA-PKD visualized data from 1735 patients (mean follow-up 796 days). eGFR slope analysis of data from patients initiating tolvaptan therapy (332 patients) demonstrates the platform’s capacity to evaluate real-world therapeutic impact in real-time. Other tabs include family history, medication, lifestyle, quality of life and a wide array of lab values (20,894 entries). Besides, MEDA-PKD integrates proteomics data and allows for secure individual patient-level data access. MEDA-PKD represents a paradigm shift by transforming static cohort data into a living, actionable knowledge resource in ADPKD and will serve as a template for other diseases.
 
@@ -3524,23 +3460,79 @@ The use of medical real-world data is constrained by fragmented data infrastruct
 
 - Source: `medtech_dive_primary` · published `2026-10-20` · freshness `fresh`
 - Reading value: `49` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/GNg2mY0KeC6a3ZFQmJxda5SDnocs_URtavv5Rrz526w/g:nowe:0:84/c:960:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90LTIwMjYtMDYtMjMtYXQtMy40Mi4yMy1QTS5wbmcud2VicA==.webp"/></div></figure><p>At AdvaMed&rsquo;s The MedTech Conference, company executives said they&rsquo;re bracing for disruption by investing in inventory, scenario planning and their relationships with chip suppliers.</p>
+
+### [Medtronic’s next-gen pacemaker portfolio secures CE mark](https://www.medicaldevice-network.com/news/medtronic-next-gen-pacemaker-portfolio-secures-ce-mark/)
+
+- Source: `medical_device_network` · published `2026-10-20` · freshness `fresh`
+- Reading value: `59` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/medtronic-next-gen-pacemaker-portfolio-secures-ce-mark/`
+
+<p>All five of the pacemakers within Medtronic’s Vitalis portfolio use conduction system pacing to directly stimulate the heart’s natural electrical wiring.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/medtronic-next-gen-pacemaker-portfolio-secures-ce-mark/">Medtronic’s next-gen pacemaker portfolio secures CE mark</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [New Gemini tools for small business owners](https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/)
+
+- Source: `fitbit_google_blog` · published `2026-10-20` · freshness `fresh`
+- Reading value: `12` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp">We’re announcing new tools for Gemini — including a dedicated business landing page — to help small business owners around the world.
+
+### [Notice of Change in Application Due Date for PAR-25-032 "NHLBI Clinical Trial Pilot Studies (R34 Clinical Trial Optional)"](http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-003.html)
+
+- Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-003.html`
+
+Notice NOT-HL-27-003 from the NIH Guide for Grants and Contracts
+
+### [Notice of Change: Grants Administration Information added for NCI's Participation on PA-27-036, NIH Research Education Program - Research Experiences (Parent R25 - Clinical Trial Not Allowed)](http://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-019.html)
+
+- Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-019.html`
+
+Notice NOT-CA-26-019 from the NIH Guide for Grants and Contracts
+
+### [Notice of NHLBI Withdrawal from Participation in PA-25-305 "NIH Research Project Grant (Parent R01 Clinical Trial Required)"](http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-001.html)
+
+- Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-001.html`
+
+Notice NOT-HL-27-001 from the NIH Guide for Grants and Contracts
+
+### [Notice of NIDCR Participation in PA-25-302, NIH Small Research Grant Program (Parent R03 Clinical Trial Not Allowed)](http://grants.nih.gov/grants/guide/notice-files/NOT-DE-27-001.html)
+
+- Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-DE-27-001.html`
+
+Notice NOT-DE-27-001 from the NIH Guide for Grants and Contracts
 
 ### [Opinion: Resident physicians may lose some of their most important work hour protections](https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
 - Reading value: `30` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss`
 
 “It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman.
+
+### [Publish fake stats, get cited in LLMs](https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web)
+
+- Source: `hn_ai_health_signals` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web`
+
+Hacker News community signal; score 219.
 
 ### [Recommended submission dates for veterinary medicinal products](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/recommended-submission-dates-veterinary-medicinal-products_en.pdf)
 
 - Source: `ema_guidance` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/recommended-submission-dates-veterinary-medicinal-products_en.pdf`
+- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/recommended-submission-dates-veterinary-medicinal-products_en.pdf`
 
 Recommended submission dates for veterinary medicinal products
 
@@ -3548,15 +3540,23 @@ Recommended submission dates for veterinary medicinal products
 
 - Source: `medcity_news` · published `2026-10-20` · freshness `fresh`
 - Reading value: `44` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/`
 
-<p><a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887.jpg 683w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>A new report on third quarter M&amp;A activity in the healthcare sector found that this quarter’s hospital and health system transactions remained steady, with 2026 potentially set to be a top year for total annual transactions since pre-pandemic times. </p> <p>The post <a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/">Report: Health System M&amp;A Activity Remains Steady in Third Quarter</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887.jpg 683w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>A new report on third quarter M&amp;A activity in the healthcare sector found that this quarter’s hospital and health system transactions remained steady, with 2026 potentially set to be a top year for total annual transactions since pre-pandemic times. </p> <p>The post <a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/">Report: Health System M&amp;A Activity Remains Steady in Third Quarter</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole](https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
+- Reading value: `54` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/health-policy-news-bipartisan-group-of-lawmaker-urges-fda-to-close-peptide-loophole/?utm_campaign=rss`
+
+A bipartisan group of lawmakers is urging the FDA to plug a loophole used to import knockoff retatrutide, an investigational obesity drug made by Eli Lilly.
 
 ### [STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital](https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss`
 
 Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham.
 
@@ -3564,25 +3564,65 @@ Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a
 
 - Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
 - Reading value: `64` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss`
 
 The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022.
+
+### [STAT+: OpenEvidence’s JAMA paper leaves open questions](https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
+- Reading value: `26` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss`
+
+In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.
+
+### [STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more](https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
+- Reading value: `51` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss`
+
+The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.
+
+### [STAT+: Roche continues to look to China for new drugs](https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
+- Reading value: `55` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss`
+
+China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.
 
 ### [STAT+: The key health care ballot measures we’re watching in the midterms](https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
 - Reading value: `38` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss`
 
 State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters.
+
+### [What Patients Think of AI-Assisted Health Care Communication](https://www.jmir.org/article/view/jmir_v28i1e113476)
+
+- Source: `jmir` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113476`
+
+<img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/cd1f982b80a26cf70c23a38ba0753f21" />
 
 ### [WHO grants bioMérieux’s Ebola panel emergency listing amid ongoing Bundibugyo outbreak](https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/)
 
 - Source: `medical_device_network` · published `2026-10-20` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/`
 
 <p>BioFire is the fifth diagnostic to receive an EUL from the WHO since the Bundibugyo outbreak in Central Africa was declared a public emergency in May 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/">WHO grants bioMérieux’s Ebola panel emergency listing amid ongoing Bundibugyo outbreak</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary](https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss`
+
+A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.
 
 ---
 
