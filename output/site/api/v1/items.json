@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T17:59:18+00:00",
+  "generated_at": "2026-10-20T23:53:02+00:00",
   "as_of": "2026-10-21",
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": "pmid:42862588",
@@ -1085,6 +1085,122 @@
             },
             "support": "A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77",
             "total": 73
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+      "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+      "original_title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+      "summary": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+      "source": "FDA · 官方公告",
+      "source_type": "官方机构",
+      "published_at": "2026-10-20",
+      "topics": [
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。"
+      },
+      "reading_value_score": 73,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-20T23:54:22+00:00",
+        "input_hash": "dfe95aa494ae9b9a9c0c12ae6d110e5b55652cfb0925e28e82d8665426caa9c3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 5,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102107541589b8d093f5004ff3",
+              "seconds": 2.95,
+              "usage": {
+                "completion_tokens": 151,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 804,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 955
+              }
+            },
+            "support": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "首个同类慢乙肝疗法获FDA批准，联合现有抗病毒药物用于无肝硬化成人，是真实的监管准入事实，产业与临床读者可据此评估HBV治疗格局与准入动向。但材料仅为公告摘要，未提供疗效数据、试验设计和获批条件细节，效果主张需另行查证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610210754189d721031bea3490d",
+              "seconds": 4.15,
+              "usage": {
+                "completion_tokens": 202,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 49
+                },
+                "prompt_tokens": 804,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1006
+              }
+            },
+            "support": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+            "total": 78
           }
         ],
         "score": 73,
