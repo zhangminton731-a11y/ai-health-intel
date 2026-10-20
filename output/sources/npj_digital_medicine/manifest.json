@@ -2,19 +2,9 @@
   "checks": [
     {
       "attempt": 1,
-      "content_type": "text/plain",
-      "elapsed_ms": 1033,
-      "error_code": "http_error",
-      "final_url": "https://www.nature.com/npjdigitalmed.rss",
-      "http_status": 304,
-      "kind": "rss_fetch",
-      "retry_delay_seconds": 5.1
-    },
-    {
-      "attempt": 2,
-      "bytes_read": 16417,
+      "bytes_read": 20023,
       "content_type": "application/rss+xml",
-      "elapsed_ms": 12,
+      "elapsed_ms": 1068,
       "error_code": null,
       "final_url": "https://www.nature.com/npjdigitalmed.rss",
       "http_status": 200,
@@ -35,23 +25,23 @@
     },
     {
       "kind": "article_metadata",
-      "status": "ok"
+      "status": "cached"
     },
     {
       "kind": "article_metadata",
-      "status": "ok"
+      "status": "cached"
     },
     {
       "kind": "article_metadata",
-      "status": "ok"
+      "status": "cached"
     },
     {
       "kind": "article_metadata",
-      "status": "ok"
+      "status": "cached"
     },
     {
       "kind": "article_metadata",
-      "status": "ok"
+      "status": "cached"
     },
     {
       "count": 8,
@@ -59,13 +49,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 16971,
+  "elapsed_ms": 5684,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-20T06:01:32+00:00",
+  "generated_at": "2026-10-20T12:43:59+00:00",
   "item_count": 8,
-  "last_checked_at": "2026-10-20T06:01:32+00:00",
-  "last_success_at": "2026-10-20T06:01:32+00:00",
+  "last_checked_at": "2026-10-20T12:43:59+00:00",
+  "last_success_at": "2026-10-20T12:43:59+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
