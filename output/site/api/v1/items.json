@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T16:58:57+00:00",
+  "generated_at": "2026-10-20T00:20:50+00:00",
   "as_of": "2026-10-20",
   "count": 13,
   "items": [
@@ -16,7 +16,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -501,7 +501,7 @@
         "research",
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "annals_internal_abstracts"
@@ -622,7 +622,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
@@ -730,128 +730,6 @@
       }
     },
     {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e102768",
-      "title": "评估大型语言模型衍生的输出作为心理测量：适用于日常压力的五领域心理测量框架",
-      "original_title": "Evaluating Large Language Model–Derived Outputs as Psychological Measures: A Five-Domain Psychometric Framework With Application to Daily Stress",
-      "summary": "结论：仅预测指标不足以评估大语言模型衍生的心理测量。以测量为导向的评估揭示了一些属性，包括水平相关效应和不对称误差归因，这些属性对基于大语言模型的评估研究如何解释其结果有直接影响。对于临床使用，该措施是对现有纵向监测筛查仪器的补充，而不是独立的诊断。结果：特征显示出高重复性（平均组内相关系数 = 0.987）、结构依赖性收敛效度（Spearman ρ = 0.08 至 0.79）以及当天压力的个人跟踪（负面情绪 β = 0.68）。",
-      "url": "https://www.jmir.org/article/view/jmir_v28i1e102768",
-      "source": "Journal of Medical Internet Research",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-15",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9555de0d062011e56427d1305cd21864",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e102768"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-16T05:53:17+00:00",
-        "input_hash": "ca1c379951aa7d501ddd6863e7a48cd407303a59db122bfc72e2a6bfe11d15da",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "提供了首个针对LLM衍生心理测量输出的五域心理测量学评估框架，含3556人天的生态瞬时评估数据、跨模型复现与结构化误差归因，可直接迁移到语言数据测量研究的验证设计；局限是样本为呼叫中心员工、比较基准为词典法，泛化到临床人群仍需外部验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610161353072970c38ee0114ad4",
-              "seconds": 3.35,
-              "usage": {
-                "completion_tokens": 157,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 11
-                },
-                "prompt_tokens": 1332,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1489
-              }
-            },
-            "support": "We applied 5 psychometric evaluation domains to LLM-derived outputs to test whether measurement-oriented evaluation surfaces properties that prediction-oriented evaluation does not",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 8,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261016135314476377598c1b42ab",
-              "seconds": 7.14,
-              "usage": {
-                "completion_tokens": 183,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 17
-                },
-                "prompt_tokens": 1332,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1280
-                },
-                "total_tokens": 1515
-              }
-            },
-            "support": "Thirteen linguistic features were extracted by GPT-5.2 (OpenAI) from 3556 person-days of daily voice narratives collected from 279 call center workers over 15 days",
-            "total": 72
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
       "id": "pmid:42872914",
       "title": "术中多巴酚丁胺加去甲肾上腺素预防感染性休克术后急性肾损伤：一项随机临床试验。",
       "original_title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
@@ -864,7 +742,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -972,6 +850,127 @@
       }
     },
     {
+      "id": "pmid:42878622",
+      "title": "未经胰岛素治疗的 2 型糖尿病的连续血糖监测。",
+      "original_title": "Continuous Glucose Monitoring in Non-Insulin-Treated Type 2 Diabetes.",
+      "summary": "背景 连续血糖监测 (CGM) 已被证明对 1 型糖尿病患者和其他接受胰岛素治疗的 2 型糖尿病患者有益，但其在治疗未接受胰岛素治疗的 2 型糖尿病患者中的作用还需要进一步研究。 CGM 组的平均 (±SD) 糖化血红蛋白水平从基线时的 8.8±1.3% 降至 26 周时的 7.2±1.1%，常规护理组从 8.7±1.2% 降至 8.0±1.4%（调整后的平均差，-0.9 个百分点；95% 置信区间 [CI]，-1.1 至 -0.6；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2608571",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-14",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42878622",
+        "upstream_id": "42878622"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-20T00:22:05+00:00",
+        "input_hash": "ff48334a10428cfe9e00b4bd6b5e65db6611ed68dbea420cf854388853517ff1",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是针对非胰岛素治疗2型糖尿病人群CGM价值的多中心随机对照试验（283例、26周、HbA1c组间差异-0.9个百分点），填补了此前证据仅限胰岛素治疗人群的空白，可直接影响门诊血糖管理路径和后续研究设计。主要限制：由Dexcom资助、仅报告摘要级结果，长期获益、成本效益及依从性细节待全文验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020082157c93ec125d87f4345",
+              "seconds": 4.05,
+              "usage": {
+                "completion_tokens": 192,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 16
+                },
+                "prompt_tokens": 1109,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1301
+              }
+            },
+            "support": "we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200822013b205a570cf34ff2",
+              "seconds": 3.69,
+              "usage": {
+                "completion_tokens": 164,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1109,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1088
+                },
+                "total_tokens": 1273
+              }
+            },
+            "support": "we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks",
+            "total": 68
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.nature.com/articles/s41551-026-01812-6",
       "title": "通过持续学习重新利用成人人工智能射线照相模型进行新生儿护理：一项国际多中心研究",
       "original_title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
@@ -985,7 +984,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_biomedical_engineering"
@@ -1106,7 +1105,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -1226,7 +1225,7 @@
         "hospital",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
@@ -1344,7 +1343,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "bmj_abstracts"
@@ -1468,7 +1467,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"

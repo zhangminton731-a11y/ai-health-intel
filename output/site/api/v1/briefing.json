@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T16:58:57+00:00",
+  "generated_at": "2026-10-20T00:20:50+00:00",
   "as_of": "2026-10-20",
   "item_ids": [
     "url:http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and"
@@ -24,20 +24,20 @@
     {
       "date": "2026-10-15",
       "item_ids": [
-        "url:https://ai.jmir.org/2026/1/e81472/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e102768"
+        "url:https://ai.jmir.org/2026/1/e81472/"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-10-14",
       "item_ids": [
         "pmid:42873070",
         "pmid:42872914",
+        "pmid:42878622",
         "pmid:42872606",
         "pmid:42872917"
       ],
-      "minutes": 3
+      "minutes": 4
     },
     {
       "date": "2026-10-13",
