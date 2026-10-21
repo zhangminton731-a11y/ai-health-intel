@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T12:56:33+00:00",
-  "as_of": "2026-10-21",
+  "generated_at": "2026-10-21T18:03:01+00:00",
+  "as_of": "2026-10-22",
   "count": 23,
   "items": [
     {
@@ -985,7 +985,7 @@
         "regulation",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -1105,7 +1105,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -1582,7 +1582,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T12:56:33+00:00",
-  "as_of": "2026-10-21",
+  "generated_at": "2026-10-21T18:03:01+00:00",
+  "as_of": "2026-10-22",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -129,7 +129,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -260,7 +260,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -391,7 +391,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -519,7 +519,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -649,7 +649,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -779,7 +779,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
@@ -904,7 +904,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -1030,7 +1030,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -1162,7 +1162,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -1294,7 +1294,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -1345,7 +1345,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1476,7 +1476,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -1527,7 +1527,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1577,7 +1577,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1627,7 +1627,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1678,7 +1678,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1729,7 +1729,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1776,7 +1776,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -1910,7 +1910,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {
         "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
@@ -2042,7 +2042,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {
         "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
@@ -2092,7 +2092,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2143,7 +2143,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2195,7 +2195,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2247,7 +2247,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2296,7 +2296,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
       "historical": true
@@ -2349,858 +2349,9 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-02",
       "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04677-z",
-      "t": "黑色素瘤新辅助治疗的五年生存率：国际新辅助黑色素瘤联盟 (INMC) 的最新汇总分析",
-      "te": "Five-year survival with neoadjuvant therapy in melanoma: updated pooled analysis from the International Neoadjuvant Melanoma Consortium (INMC)",
-      "s": "新辅助免疫检查点抑制剂（ICIs）是可切除的 IIIB-D 期黑色素瘤的标准治疗方法，但在最佳治疗类型、长期生存、术后管理以及临床、组织病理学或分子亚组方面仍然存在知识差距。 57.8% 的 ICI 患者、51.4% 的 BRAF/MEK 患者和 44.6% 的 ICI + TT 患者实现了 MPR。",
-      "se": "Neoadjuvant immune checkpoint inhibitors (ICIs) are standard of care for resectable stage IIIB–D melanoma, but knowledge gaps remain regarding optimal treatment type, long-term survival, postsurgical management and clinical, histopathological or molecular subgroups. An MPR was achieved in 57.8% of patients with ICIs, 51.4% with BRAF/MEKis and 44.6% with ICI + TT.",
-      "u": "https://www.nature.com/articles/s41591-026-04677-z",
-      "image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-026-04677-z/MediaObjects/41591_2026_4677_Fig1_HTML.png",
-      "imageSource": "https://www.nature.com/articles/s41591-026-04677-z/figures/1",
-      "imageAlt": "原文图 1：不同新辅助治疗方案的生存结局",
-      "src": "Nature Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04677-z",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04677-z"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 76,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:36:34+00:00",
-        "input_hash": "d9282f475810e34cdbc0170bc3448c0cb437fcd80042df8d41194016165f80e3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "1038例、26中心的汇总分析提供了新辅助免疫治疗黑色素瘤迄今最长期的5年RFS/OS数据，且显示MPR患者术后继续辅助ICI无额外获益，直接影响术后管理决策。局限是汇总分析而非随机对照，亚组样本小，选择偏倚需谨慎解读。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041636249da10d6a2110494d",
-              "seconds": 4.88,
-              "usage": {
-                "completion_tokens": 146,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1480,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1626
-              }
-            },
-            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163630fb948ceebb63474f",
-              "seconds": 6.09,
-              "usage": {
-                "completion_tokens": 175,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 10
-                },
-                "prompt_tokens": 1480,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1655
-              }
-            },
-            "support": "An updated pooled analysis of 3-year and 5-year survival and other outcome data of 1,038 patients with melanoma treated with neoadjuvant immune checkpoint inhibitors",
-            "total": 74
-          }
-        ],
-        "score": 76,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {
-        "research": "26个国际中心、1038例患者的汇总分析提供了新辅助ICI治疗可切除IIIB–D黑色素瘤的5年RFS/OS及MPR分层长期数据，且显示MPR患者继续辅助ICI无额外获益，可直接指导临床与研究设计。主要限制为汇总分析的非随机混杂性质，亚组样本量小，结论需前瞻性试验验证。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04674-2",
-      "t": "索马鲁肽对 2 型糖尿病肾病的影响：一项随机安慰剂对照试验",
-      "te": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial",
-      "s": "GLP-1 受体激动剂索马鲁肽可保护 2 型糖尿病和慢性肾病患者的肾功能，但其潜在机制尚不清楚。该试验的结果表明，索马鲁肽的肾脏保护机制可能包括降低血管阻力、预防纤维化和改善促进内皮细胞健康的潜在分子程序。",
-      "se": "The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health.",
-      "u": "https://www.nature.com/articles/s41591-026-04674-2",
-      "image": "",
-      "src": "Nature Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04674-2",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04674-2"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T06:37:49+00:00",
-        "input_hash": "4c18b3702bacf6116bedd0001e3c12e174f224e715d85673fc510ed0f3b736ea",
-        "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143736e6ccc6b68b064ef3",
-              "seconds": 6.83,
-              "usage": {
-                "completion_tokens": 197,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 20
-                },
-                "prompt_tokens": 991,
-                "prompt_tokens_details": {
-                  "cached_tokens": 576
-                },
-                "total_tokens": 1188
-              }
-            },
-            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
-            "total": 69
-          },
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "将多参数肾脏MRI、活检病理与单核/空间转录组整合用于机制探索的随机对照试验，在共同主要影像终点阴性的情况下提示血管阻力降低、纤维化进展受抑及肾小球内皮保护等机制，方法学设计对肾病与代谢药物机制研究有直接借鉴价值；主要限制是样本量小（106例、活检33例）且机制证据多为次要终点与相关性观察。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041437436de53027628f4998",
-              "seconds": 6.41,
-              "usage": {
-                "completion_tokens": 200,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 20
-                },
-                "prompt_tokens": 991,
-                "prompt_tokens_details": {
-                  "cached_tokens": 960
-                },
-                "total_tokens": 1191
-              }
-            },
-            "support": "Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment.",
-            "total": 73
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {
-        "research": "以小型随机试验整合肾脏多参数MRI、活检组织学与单核/空间转录组学，探索司美格鲁肽肾脏保护机制，方法学与数据对机制研究者和肾脏影像团队有直接参考价值；但样本量小（n=106，活检/转录组亚组更小），共主要影像终点未达显著，阳性结果多来自次要探索性终点，机制结论需更大研究验证。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-      "t": "数据隐私问题可能会阻碍患者使用人工智能",
-      "te": "Data privacy concerns could hold patients back from using AI",
-      "s": "尽管人工智能已迅速融入我们的日常生活，但美国人表示他们越来越关心自己的健康数据。",
-      "se": "Although artificial intelligence has quickly become integrated into our daily lives, Americans say they’re becoming increasingly concerned about their health data.",
-      "u": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-      "image": "https://imgproxy.divecdn.com/BVx_y6Z9iQTJJXWVXUMxvDtiHxYobGMqAPkXVXhOFkw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/BVx_y6Z9iQTJJXWVXUMxvDtiHxYobGMqAPkXVXhOFkw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY0MzgyMjM2LmpwZw==.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "upstream_id": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e90938",
-      "t": "生成式人工智能支持的虚拟现实牙科技能培训对牙科学生学习表现、视觉行为和皮质激活的影响：分层随机对照试验",
-      "te": "Effects of Generative AI–Supported Virtual Reality Dental Skill Training on Learning Performance, Visual Behavior, and Cortical Activation Among Dental Students: Stratified Randomized Controlled Trial",
-      "s": "结论：随机接受 GenAI 辅助培训的学生比接受教师指导的学生具有更高的即时手术分数。次要的认知、行为和神经生理学发现是探索性的，并指出接受基于 VR 培训的牙科学生中 GenAI 暴露与技能获取指标变化之间存在联系。结果提供了有关 GenAI 与临床前牙科技能教育的潜在整合的初步见解。临床试验：中国临床试验注册中心ChiCTR2500110063；",
-      "se": "Conclusions: Students randomized to GenAI-assisted training had higher immediate operative scores than students receiving teacher-led instruction. Secondary cognitive, behavioral, and neurophysiological findings were exploratory and pointed toward a link between GenAI exposure and variations in skill‑acquisition metrics among dental students receiving VR-based training. The results offer preliminary insights regarding the potential integration of GenAI into preclinical dental skill education. Clinical Trial: Chinese Clinical Trial Registry ChiCTR2500110063;",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e90938",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2783e59564a352bc43854bf93721c931",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2783e59564a352bc43854bf93721c931",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e90938"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e102359",
-      "t": "医疗人工智能的精细化排除：数据正义与患者安全治理",
-      "te": "Refined Exclusion in Medical AI: Data Justice and Patient Safety Governance",
-      "s": "医疗人工智能通常使用区分度、校准和准确性的综合衡量标准进行评估。这种观点将精细排除定义为一种治理条件，在这种条件下，人工智能系统总体上看起来是成功的，而不确定性、错误或临床可靠性降低则集中在没有充分代表、测量、验证或监控的人群中。",
-      "se": "Medical AI is often evaluated using aggregate measures of discrimination, calibration, and accuracy. This viewpoint defines refined exclusion as a governance condition in which an AI system appears successful in aggregate, while uncertainty, error, or reduced clinical reliability is concentrated in populations that are insufficiently represented, measured, validated, or monitored.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e102359",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d935ab20b0ddab565373f4ed2e2dc7b7",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d935ab20b0ddab565373f4ed2e2dc7b7",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e102359"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://mhealth.jmir.org/2026/1/e95863",
-      "t": "成人糖尿病患者移动健康干预研究的报告差距：系统评价",
-      "te": "Reporting Gaps in mHealth Intervention Studies for Adults With Diabetes: Systematic Review",
-      "s": "结论：针对成人糖尿病的移动健康干预措施的实证研究在报告中表现出系统性结构缺陷，特别是在系统集成、数据安全和监管合规性方面。这些遗漏极大地破坏了数字糖尿病护理解决方案的透明度、可重复性和现实世界的可扩展性。未来的试验必须严格采用标准化报告框架，例如 mERA 检查表，以弥合临床疗效与大规模公共卫生政策转化之间的差距。结果：最终分析纳入了在 49 个国家进行的 144 项随机对照试验。 mERA 报告总体平均得分为 6.74（满分 16 分）（SD 2.71）。虽然干预措施（n=128，88.9%）和技术平台（n=117，81.3%）等基本特征得到了充分报道，但关键的系统级领域在很大程度上被忽略了。",
-      "se": "Conclusions: Empirical research on mHealth interventions for adult diabetes exhibits systemic structural flaws in reporting, particularly concerning system integration, data security, and regulatory compliance. These omissions significantly undermine the transparency, reproducibility, and real-world scalability of digital diabetes care solutions. Future trials must rigorously adopt standardized reporting frameworks such as the mERA checklist to bridge the gap between clinical efficacy and large-scale public health policy translation. Results: A total of 144 RCTs conducted across 49 countries were included in the final analysis. The mean overall mERA reporting score was 6.74 out of 16 (SD 2.71). While basic characteristics such as intervention delivery (n=128, 88.9%) and technology platform (n=117, 81.3%) were well reported, critical system-level domains were largely omitted.",
-      "u": "https://mhealth.jmir.org/2026/1/e95863",
-      "image": "",
-      "src": "JMIR mHealth and uHealth",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jmir_mhealth"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_mhealth",
-        "upstream_id": "https://mhealth.jmir.org/2026/1/e95863"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
-      "t": "FDA 批准首个旨在与儿童一起成长的心脏瓣膜",
-      "te": "FDA Approves First Heart Valve Designed to Grow with Children",
-      "s": "美国食品和药物管理局今天批准了 Autus 尺寸可调瓣膜，这是一种通过手术植入肺心瓣膜，用于患有先天性肺动脉瓣疾病的儿科患者。这种创新设备可能会减少患有心脏缺陷的儿童重复进行心脏直视手术的需要，这反映了特朗普政府致力于将突破性医疗技术尽快、安全地推向市场的承诺。 Autus 尺寸可调瓣膜是第一个设计为在手术后扩张以跟上儿童生长的心脏瓣膜，也是美国批准的第一个在其内瓣（称为小叶）使用聚合材料而不是动物源性组织的瓣膜。",
-      "se": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease. This innovative device may reduce the need for repeat open-heart surgeries in children with heart defects, reflecting the Trump Administration’s commitment to bringing breakthrough medical technologies to market as quickly and safely as possible. The Autus Size-Adjustable Valve is the first heart valve designed to be expanded after surgery to keep pace with a child’s growth, and the first valve approved in the U.S. to use polymeric material rather than animal-derived tissue for its inner flaps (called leaflets).",
-      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
-      "image": "",
-      "src": "FDA · 官方公告",
-      "role": "官方机构",
-      "cat": "官方机构",
-      "trust": 3,
-      "sourceType": "官方机构",
-      "topics": [
-        "hospital",
-        "research",
-        "business",
-        "regulation"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "regulation"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "fda_press"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "fda_press",
-        "summary_kind": "source_excerpt",
-        "summary_source": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
-        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 74,
-      "editorial": {
-        "audiences": [
-          "industry"
-        ],
-        "evaluated_at": "2026-10-04T08:37:08+00:00",
-        "input_hash": "6b726b0dd85b1d26255b442fe6d7b37a4fac73ae7807c484ddbcb67493f24821",
-        "input_scope": "source_excerpt",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 6,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "industry",
-            "reason": "FDA首次批准可随儿童生长扩张、且采用聚合物瓣叶的人工肺动脉瓣，属于已落地的监管审批与产品上市事实，器械与儿科心脏产业读者可据此判断同类创新器械的审评路径与市场机会。限制是临床证据仅来自62例、随访一年以内的单臂研究，长期扩张效果与耐久性仍待后续研究验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163658470ddf0d87b9400d",
-              "seconds": 10.2,
-              "usage": {
-                "completion_tokens": 200,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 22
-                },
-                "prompt_tokens": 2030,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 2230
-              }
-            },
-            "support": "The Autus Size-Adjustable Valve is the first heart valve designed to be expanded after surgery to keep pace with a child’s growth, and the first valve approved in the U.S. to use polymeric material ra",
-            "total": 76
-          },
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 6,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "industry",
-            "reason": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163705d24ec1117c8d48fd",
-              "seconds": 5.19,
-              "usage": {
-                "completion_tokens": 164,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 27
-                },
-                "prompt_tokens": 2030,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 2194
-              }
-            },
-            "support": "approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease",
-            "total": 73
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {
-        "industry": "这是FDA首次批准可随儿童生长扩张的聚合物瓣叶肺动脉瓣，属已落地的监管审批事实，产业读者可据此判断儿科器械创新方向及TAP/Breakthrough通道的加速价值；但临床证据仅62例、随访短，扩张长期效果尚未证实。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42820639",
-      "t": "Survodutide 每周一次用于肥胖和 2 型糖尿病成人。",
-      "te": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.",
-      "s": "背景 对于同时患有 2 型糖尿病和肥胖症的人来说，体重管理可能是治疗 2 型糖尿病最有效的疗法。根据治疗方案估计值（无论试验方案是否停止或中断，或者是否使用其他抗肥胖疗法，均评估效果），第 76 周时的平均体重变化在 3.6 mg 组中为 -8.2%（95% 置信区间 [CI]，-9.2 至 -7.2），在 6.0 mg 组中为 -9.8%（95% CI，-10.8 至 -8.8），安慰剂组为-3.9%（95% CI，-4.9至-2.9）；分别有 57.6%、64.5% 和 35.1% 的参与者体重减轻至少 5%（与安慰剂相比，P < 0.001）。",
-      "se": "Background For persons living with both type 2 diabetes and obesity, weight management may be the most effective therapy for type 2 diabetes. The mean weight change at week 76 according to the treatment-regimen estimand (which assessed effects regardless of whether the trial regimen was discontinued or interrupted or whether other antiobesity therapies were used) was -8.2% (95% confidence interval [CI], -9.2 to -7.2) in the 3.6-mg group, -9.8% (95% CI, -10.8 to -8.8) in the 6.0-mg group, and -3.9% (95% CI, -4.9 to -2.9) in the placebo group; weight reduction of at least 5% occurred in 57.6%, 64.5%, and 35.1% of the participants, respectively (P < 0.001 for all comparisons with placebo).",
-      "u": "https://doi.org/10.1056/nejmoa2607219",
-      "image": "",
-      "src": "NEJM · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42820639",
-        "upstream_id": "42820639"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 73,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:21:23+00:00",
-        "input_hash": "457ee52fca702bf4768ddb7509f9148a4a980b2fd3095b58eb6cb60c9d49665a",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041621110c8843219ac74c4a",
-              "seconds": 4.72,
-              "usage": {
-                "completion_tokens": 176,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1336,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1512
-              }
-            },
-            "support": "In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo.",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "SYNCHRONIZE-2三期双盲RCT（n=752）报告GLP-1/胰高血糖素双激动剂survodutide在肥胖合并2型糖尿病人群中76周减重显著优于安慰剂，为该新机制药物提供了直接临床证据。局限为材料为摘要级，仅有减重终点，长期心血管结局、安全性细节及与已上市GLP-1药物的头对头比较未呈现。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041621167de5db6dd6284dc6",
-              "seconds": 7.2,
-              "usage": {
-                "completion_tokens": 183,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1336,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1519
-              }
-            },
-            "support": "In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo.",
-            "total": 76
-          }
-        ],
-        "score": 73,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {
-        "research": "SYNCHRONIZE-2 三期RCT（752人、双盲、76周）给出survodutide在肥胖合并2型糖尿病人群中较安慰剂显著更大的减重数据，为GLP-1/GCG双激动剂在糖尿病人群的证据链和后续研究设计提供直接参考。主要限制为摘要未提供安全性细节及与现有GLP-1疗法的头对头比较。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42814929",
-      "t": "吉瑞德群联合依维莫司治疗晚期乳腺癌。",
-      "te": "Giredestrant plus Everolimus in Advanced Breast Cancer.",
-      "s": "背景 Giredestrant 和依维莫司分别靶向雌激素受体 (ER) 途径和磷脂酰肌醇 3-激酶 (PI3K)-蛋白激酶 B (AKT)-哺乳动物雷帕霉素靶点 (mTOR) 途径，这与内分泌治疗耐药有关。在 207 名 ESR1 突变肿瘤患者中，吉立群-依维莫司组的中位无进展生存期为 10.0 个月，而标准治疗-依维莫司组的中位无进展生存期为 5.5 个月（疾病进展或死亡的风险比，0.38；95% 置信区间 [CI]，0.27 至 0.54；P < 0.001）。",
-      "se": "Background Giredestrant and everolimus target the estrogen receptor (ER) pathway and the phosphatidylinositol 3-kinase (PI3K)-protein kinase B (AKT)-mammalian target of rapamycin (mTOR) pathway, respectively, which are implicated in endocrine-therapy resistance. Among 207 patients with ESR1 -mutated tumors, the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for disease progression or death, 0.38; 95% confidence interval [CI], 0.27 to 0.54; P < 0.001).",
-      "u": "https://doi.org/10.1056/nejmoa2602457",
-      "image": "",
-      "src": "NEJM · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42814929",
-        "upstream_id": "42814929"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:21:23+00:00",
-        "input_hash": "1e2f4376ba8c6e3d4f6649647e61b04f9bb1a2e919ec083b433d6b054500e7c3",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162111d7ca7465fc784a94",
-              "seconds": 4.42,
-              "usage": {
-                "completion_tokens": 200,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1263,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1463
-              }
-            },
-            "support": "Among 207 patients with ESR1 -mutated tumors, the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for diseas",
-            "total": 76
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "III期随机对照试验（evERA）显示全口服giredestrant联合everolimus在CDK4/6抑制剂经治的ER阳性/HER2阴性晚期乳腺癌中显著延长PFS，ESR1突变人群尤甚（HR 0.38），可直接改变内分泌耐药后的二线方案选择与后续试验设计；局限为开放标签、研究者评估PFS、总生存数据未成熟。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004162115e993b6ee65644301",
-              "seconds": 7.66,
-              "usage": {
-                "completion_tokens": 212,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 9
-                },
-                "prompt_tokens": 1263,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1475
-              }
-            },
-            "support": "the median progression-free survival was 10.0 months with giredestrant-everolimus and 5.5 months with standard therapy-everolimus (hazard ratio for disease progression or death, 0.38; 95% confidence i",
-            "total": 78
-          }
-        ],
-        "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-01",
-      "reasons": {
-        "research": "III期随机试验显示全口服giredestrant联合everolimus在ESR1突变人群中PFS几乎翻倍（10.0 vs 5.5个月，HR 0.38），为CDK4/6抑制剂经治的ER阳性晚期乳腺癌内分泌耐药策略提供直接可用的证据；局限为开放标签、以研究者评估PFS为主要终点，且获益主要限于ESR1突变亚组。"
-      },
       "historical": true
     }
   ],
@@ -3269,17 +2420,6 @@
         "url:https://www.nature.com/articles/s41591-026-04673-3",
         "url:https://ai.jmir.org/2026/1/e94109/",
         "url:https://www.jmir.org/article/view/jmir_v28i1e100710"
-      ],
-      "minutes": 3
-    },
-    {
-      "date": "2026-10-01",
-      "item_ids": [
-        "pmid:42814929",
-        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
-        "url:https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-        "url:https://www.nature.com/articles/s41591-026-04677-z",
-        "pmid:42820639"
       ],
       "minutes": 3
     }
