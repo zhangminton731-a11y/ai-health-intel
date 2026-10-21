@@ -1,11 +1,5 @@
 {
-  "url:https://www.statnews.com/2026/10/19/biotech-news-china-moves-to-restrict-foreign-biotech-acquisitons/?utm_campaign=rss": "a883478e6e424a9b857b6aafe96a424a21ef2b49adc43c40ad1133db50771e9a",
-  "url:https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss": "be422cbf18a2c6f6566ec48c99820f1336840dae02c63f7a2d4537448af2b0e3",
-  "url:https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/?utm_campaign=rss": "061a0d02fc2a4f677871f9464cb0861c22e68a60c02c502e720596434aab058d",
   "url:https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss": "8157897e14500aadac6c50a1d96ee337c421704724aca74571ad67f026705680",
-  "url:https://www.statnews.com/2026/10/19/gilead-ibs-drug-succeeds-phase-2-trial/?utm_campaign=rss": "11e9e1731fc2c6cde755af81c4aa77b04f124cd0bb78d46ef860423fb45d6e70",
-  "url:https://www.statnews.com/2026/10/19/health-news-two-former-republican-congressmen-against-gop-vaccine-liability/?utm_campaign=rss": "d74611625a601a1389d7bd0cf5cc165f85c32c4898a29af77c13293af4c9f392",
-  "url:https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/?utm_campaign=rss": "d1fd38ad9edbac741735baca1a656d80fef53c42d18049af0a8d57cb77f7268d",
   "url:https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss": "59982dc16694e86e0112065db98a1061cce1b5bdb709fc3aeae9ab01be3a6097",
   "url:https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss": "e7f19d72310e674ca5203120a4ebe158eae2329c1c9755a6635af2e6fb527d40",
   "url:https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss": "8ae5be939d2238c8106a0cde19fe94698e43d7616830ce0c514e8e5de7ae97da",
@@ -16,7 +10,13 @@
   "url:https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss": "68ba4bde031740aa134e040ec2b581b9f726d25c72a846c574c1b8181025729e",
   "url:https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss": "78545d0c5cd1df0ebca66080e07adf0572d9e27942ee2dcd6edd97e15f4c952f",
   "url:https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss": "3a1ff203ad8f85c1077e68710165edb7fcd173b34b02ed784fe33d0131ebc5a2",
-  "url:https://www.statnews.com/pharmalot/2026/10/19/roche-investments-in-germany-gilead-bowel-disease-drug/?utm_campaign=rss": "c8fe5340012a748deeef3584ee951f15fd5de2d602528babeaf1b374d58f5a68",
+  "url:https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss": "3eb662d8da96a15a15251860c2d68bb6fbea4aa3d39cbb8072ab41bcaea8944c",
+  "url:https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss": "3877ba8b0f2a7d795bf74fd5c229dc7cc8c48bbb095b22738a397391b4dbfabb",
+  "url:https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss": "62aeda81b8b796ddf43022dc17be2170c009b6b814a649fd701e32168d22c425",
+  "url:https://www.statnews.com/2026/10/21/measles-public-health-door-to-door-initiatives/?utm_campaign=rss": "c230f4be33f023b46a7e6386a978e016ac28c2aeffcf0b7f5ae25f03357d8c37",
+  "url:https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss": "d379c3101db7bb1cf3dbe97edc735038fc33b35323c34038c726d11fa1976896",
+  "url:https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/?utm_campaign=rss": "fb3536f09a13ee101f6a1b00c8e338fb429bdedf1c0041927dc5e60f8521e157",
+  "url:https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss": "9d94ceebfd5dd456f6a90bc948b45c8cf812dacb1ada4d9d97285ede2ae69faf",
   "url:https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss": "d82da33c90d58d6dc9b3e52fdc29fdd5f1d7b594af7a6711e0a76e1a0c8ff8f4",
   "url:https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss": "afb8abff6fc9cef0e34a83d3a9b2c290d9342de851d1f166dc192701474a8b93"
 }

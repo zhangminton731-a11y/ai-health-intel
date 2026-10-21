@@ -1,9 +1,141 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T06:02:34+00:00",
+  "generated_at": "2026-10-21T12:56:33+00:00",
   "as_of": "2026-10-21",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03392-w",
+      "t": "",
+      "te": "A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization",
+      "s": "",
+      "se": "We developed OUD-REY (OUD Risk Evaluator at 1 Year) - a deep learning model that uses longitudinal electronic health record (EHR) data from the All of Us research program to predict risk of OUD at one year for patients with an opioid prescription. On internal validation, OUD-REY achieved an AUROC of 91.2% and AUPRC of 77.0%. We externally validated our model on a new dataset released by All of Us that was temporally separated from our development set and on a dataset containing ~6 million patients from medical centers of the Veterans Affairs (VA) nationwide over a span of 20 years. On external validation, our model had an AUROC and AUPRC of 86.4% and 23.1% (OUD prevalence of 2.9%), respectively, on our temporally separated All of Us validation set.",
+      "u": "https://www.nature.com/articles/s41746-026-03392-w",
+      "image": "",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03392-w",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03392-w"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-20T06:02:07+00:00",
+        "input_hash": "f765092b8bcafaeb3ee1dcd774d155856a1c89cab55ea5ca1cb05e802f0dbcf2",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020140158e1d54dad0c3c4bd9",
+              "seconds": 4.87,
+              "usage": {
+                "completion_tokens": 171,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1075,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1246
+              }
+            },
+            "support": "On external validation, our model had an AUROC and AUPRC of 86.4% and 23.1% (OUD prevalence of 2.9%), respectively, on our temporally separated All of Us validation set.",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "展示了基于语言模型做跨EHR词表归一化的预测建模路径，并有时间分离与VA约600万患者的外部验证和公平性审计，对临床预测模型的泛化设计有直接参考价值；摘要未报告临床部署或干预效果，性能下降（AUPRC降至约20%）提示低患病率场景的实际效用仍需评估。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610201402036a5dc3c02d24430a",
+              "seconds": 3.71,
+              "usage": {
+                "completion_tokens": 156,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 6
+                },
+                "prompt_tokens": 1075,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1231
+              }
+            },
+            "support": "We leveraged a pretrained language model to accommodate thousands of unseen, out-of-vocabulary clinical features in a patient’s longitudinal EHR history.",
+            "total": 78
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-10-19",
+      "reasons": {
+        "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e102768",
       "t": "评估大型语言模型衍生的输出作为心理测量：适用于日常压力的五领域心理测量框架",
@@ -3073,6 +3205,13 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-10-19",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41746-026-03392-w"
+      ],
+      "minutes": 3
+    },
     {
       "date": "2026-10-15",
       "item_ids": [
