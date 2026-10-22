@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T12:58:44+00:00",
-  "as_of": "2026-10-22",
+  "generated_at": "2026-10-22T17:58:40+00:00",
+  "as_of": "2026-10-23",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -129,7 +129,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -260,7 +260,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -388,7 +388,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -519,7 +519,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -650,10 +650,141 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42862588",
+      "t": "美国捐赠者心脏分配的成人医疗紧急度评分的制定和验证。",
+      "te": "Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation.",
+      "s": "重要性 在美国，五分之一的心脏移植候选人会死亡或未经移植而被除名。目前，捐献者的心脏是由基于 6 种状态的治疗系统进行分配的，该系统因风险分层有限且容易受到博弈的影响而受到批评。目的 根据客观医疗紧急度评分制定新的心脏分配政策，根据生理学和机械循环支持之间的相互作用对候选者进行排名。使用美国器官移植系统的数据设计、设置和参与者基于登记的观察性研究。 2019年1月至2025年8月的所有成人（年龄≥18岁）心脏移植候选者均被纳入，分为训练（2019-2023）、验证（2023-2024）和测试（2024-2025）数据集。主要结果和措施 估算了不进行移植的 6 周死亡率的边际结构模型（美国候选者风险评分 [US-CRS]）。",
+      "se": "Importance One in 5 heart transplant candidates in the US die or are delisted without transplant. Donor hearts are currently allocated by a 6-status therapy-based system criticized for limited risk stratification and susceptibility to gaming. Objective To develop a new heart allocation policy based on an objective medical urgency score that ranks candidates based on the interaction between physiology and mechanical circulatory support. Design, setting, and participants Registry-based observational study using data from the US organ transplant system. All adult (aged ≥18 years) heart transplant candidates from January 2019 to August 2025 were included, split into training (2019-2023), validation (2023-2024), and test (2024-2025) datasets. Main outcomes and measures A marginal structural model of 6-week mortality without transplant was estimated (the US Candidate Risk Score [US-CRS]).",
+      "u": "https://doi.org/10.1001/jama.2026.17403",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42862588",
+        "upstream_id": "42862588"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 76,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:33+00:00",
+        "input_hash": "e66a0b2c50695596f7f27c3574b381fc609e2943ce720425b9e8a7433b55f4b4",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "US-CRS以生理学联合机械循环支持对等待名单者做连续风险分层，AUC 0.807显著优于现行6状态系统，可为移植分配政策与风险建模方法提供直接参考；但分配模拟显示首位候选者6周死亡率上升（11.2%→15.7%），提示新政策的公平性与结局权衡仍需审慎评估，且为观察性登记数据、非实施后验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100267d37fbc937ad4e6c",
+              "seconds": 3.55,
+              "usage": {
+                "completion_tokens": 176,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1312,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1488
+              }
+            },
+            "support": "US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively)",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001003081a95ee864d24483",
+              "seconds": 3.55,
+              "usage": {
+                "completion_tokens": 175,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1312,
+                "prompt_tokens_details": {
+                  "cached_tokens": 704
+                },
+                "total_tokens": 1487
+              }
+            },
+            "support": "a US-CRS-based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2%",
+            "total": 75
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-12",
+      "reasons": {
+        "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
       },
       "historical": true
     },
@@ -778,7 +909,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -908,7 +1039,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -1038,7 +1169,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
@@ -1163,7 +1294,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -1289,7 +1420,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -1421,7 +1552,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -1553,7 +1684,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -1604,7 +1735,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1735,7 +1866,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-03",
       "reasons": {
         "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
@@ -1786,7 +1917,7 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-03",
       "reasons": {},
       "historical": true
@@ -1836,780 +1967,8 @@
       "editorial": {
         "status": "legacy_unscored"
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-03",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03328-4",
-      "t": "医护人员纵向应力分布的多模态计算分析",
-      "te": "Multimodal computational analysis of longitudinal stress profiles in healthcare workers",
-      "s": "我们评估了对简短的、远程收集的应力叙述的多模态计算分析是否可以区分纵向应力分布。在保留的测试集中，该模型的 AUROC 为 0.75，优于单峰（语言嵌入；AUROC = 0.63）和双峰（语言 + 声学；AUROC = 0.70）配置。",
-      "se": "We evaluated whether multimodal computational analysis of brief, remotely collected stress narratives could distinguish longitudinal stress profiles. In a held-out test set, the model achieved an AUROC of 0.75, outperforming unimodal (linguistic embeddings; AUROC = 0.63) and bimodal (linguistic + acoustic; AUROC = 0.70) configurations.",
-      "u": "https://www.nature.com/articles/s41746-026-03328-4",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03328-4",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03328-4"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03320-y",
-      "t": "以临床医生为中心的大型语言模型生成的长期住院出院总结的评估",
-      "te": "Clinician-centered evaluation of large language model-generated discharge summaries for longer hospitalizations",
-      "s": "尽管大型语言模型 (LLM) 在生成出院摘要方面表现出了良好的前景，但其在较长住院时间中的表现仍缺乏充分研究。之前对大语言模型生成的出院摘要的评估主要涉及较短的住院时间，并且很少检查接收临床医生的优先事项或偶然发现的报告。我们比较了大语言模型生成的和人工撰写的 60 例持续 7 至 21 天的内科住院的出院摘要，并由住院医生和初级保健医生 (PCP) 进行配对评估。 95% 的临床医生审稿人更喜欢大语言模型生成的摘要，并对它们的质量、可读性、真实性和完整性给予更高的评价。 PCP 认为大语言模型生成的摘要更适合理解并向患者传达医院护理并提供后续护理。",
-      "se": "Although large language models (LLMs) have shown promise for discharge summary generation, their performance in longer hospitalizations remains less well studied. Prior evaluations of LLM-generated discharge summaries have largely involved shorter stays and have rarely examined receiving-clinician priorities or incidental finding reporting. We compared LLM-generated and human-authored discharge summaries for 60 Internal Medicine hospitalizations lasting 7 to 21 days, with paired assessment by hospitalists and primary care physicians (PCPs). Clinician reviewers preferred LLM-generated summaries for 95% of encounters and rated them higher for quality, readability, factuality and completeness. PCPs rated LLM-generated summaries as better for understanding and communicating hospital care to patients and providing follow-up care.",
-      "u": "https://www.nature.com/articles/s41746-026-03320-y",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03320-y",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03320-y"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03261-6",
-      "t": "机器学习模型预测心血管肾代谢综合征的三年死亡率",
-      "te": "Machine Learning Model Predicts Three Year Mortality in Cardiovascular Kidney Metabolic Syndrome",
-      "s": "我们开发并验证了机器学习模型，以预测来自 29 个医疗中心的 219,561 名 CKM 2-4 期住院患者的 3 年全因死亡率。 8 变量 XGBoost 模型始终优于 LASSO 模型，在推导、内部和基于中心的验证队列中，受试者工作特征曲线 [ROC-AUC] 分别为 0.831、0.826 和 0.813。",
-      "se": "We developed and validated machine learning models to predict 3-year all-cause mortality in 219,561 hospitalized patients with CKM stages 2-4 from 29 medical centers. An 8-variable XGBoost model consistently outperformed the LASSO model, achieving receiver operating characteristic curve [ROC-AUC] of 0.831, 0.826, and 0.813 in the derivation, internal, and center-based validation cohorts, respectively.",
-      "u": "https://www.nature.com/articles/s41746-026-03261-6",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03261-6",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03261-6"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03256-3",
-      "t": "低功耗无线通信技术赋能可穿戴医疗保健监控",
-      "te": "Low-power wireless communication technologies empower wearable healthcare monitoring",
-      "s": "低功耗无线通信对于长期可穿戴医疗保健监测至关重要。本综述从原理、能量机制、架构和性能方面对射频识别（RFID）、近场通信（NFC）、反向散射通信（BackCom）和超宽带（UWB）进行了结构化技术比较。我们进一步研究它们在体液和生命参数监测中的应用，确定功率、范围、集成和安全性方面的挑战，并为选择下一代可穿戴医疗系统的通信技术提供指导。",
-      "se": "Low-power wireless communication is critical for long-term wearable healthcare monitoring. This review presents a structured technical comparison of radio frequency identification (RFID), near field communication (NFC), backscatter communication (BackCom), and ultra-wideband (UWB) in terms of principles, energy mechanisms, architectures, and performance. We further examine their applications in body-fluid and vital-parameter monitoring, identify challenges in power, range, integration and security, and provide guidance for selecting communication technologies for next-generation wearable medical systems.",
-      "u": "https://www.nature.com/articles/s41746-026-03256-3",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03256-3",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03256-3"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04675-1",
-      "t": "6~23月龄儿童小量脂质营养补充剂和麻疹疫苗接种覆盖率：一项实用的整群随机试验",
-      "te": "Small quantity lipid-based nutritional supplementation and measles vaccination coverage in children aged 6−23 months: a pragmatic cluster-randomized trial",
-      "s": "在这项研究中，我们在尼日利亚北部进行了一项儿科、务实、整群随机对照试验，评估了在常规免疫服务的同时分发预防性小剂量脂质营养补充剂 (SQ-LNS) 是否可以增加疫苗接种率。 NutriVax 组中获得卡验证的 MCV1 的几率是对照组的两倍（优势比 = 2.08，95% 置信区间 (CI)：1.30−3.35，P = 0.004）。共同提供 SQ-LNS 与常规免疫大大提高了经卡验证的 MCV1 吸收率，支持可扩展的战略，以在类似环境中朝着世界卫生组织 2030 年免疫议程设定的目标取得进展。",
-      "se": "In this study, we evaluated whether distributing preventive small-quantity lipid-based nutrient supplements (SQ-LNS) alongside routine immunization services may increase vaccine uptake in a pediatric, pragmatic, cluster-randomized controlled trial in northern Nigeria. The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004). Co-delivering SQ-LNS with routine immunization substantially improved card-verified MCV1 uptake, supporting a scalable strategy to make progress toward targets set by the World Health Organizationʼs Immunization Agenda 2030 in similar settings.",
-      "u": "https://www.nature.com/articles/s41591-026-04675-1",
-      "image": "",
-      "src": "Nature Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "industry",
-        "research"
-      ],
-      "categories": {
-        "industry": [
-          "technology"
-        ],
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04675-1",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04675-1"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "industry",
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T06:34:58+00:00",
-        "input_hash": "77455886ae4e21ece17b138d947337072486509f4115fc3a69d9f7967acf19ed",
-        "input_scope": "source_summary",
-        "policy_version": "e1f0238b706e1966",
-        "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100414344632c31c133044490a",
-              "seconds": 4.14,
-              "usage": {
-                "completion_tokens": 182,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 4
-                },
-                "prompt_tokens": 1086,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1268
-              }
-            },
-            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
-            "total": 69
-          },
-          {
-            "audiences": [
-              "industry",
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "整群随机试验设计合理，提供营养补充与常规免疫联合递送提升MCV1覆盖的因果证据，对低收入地区接种策略和公卫产品布局有直接参考价值；结果来自尼日利亚单一地区，外推到其他卫生系统需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004143450a584272a249447f9",
-              "seconds": 7.62,
-              "usage": {
-                "completion_tokens": 331,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 161
-                },
-                "prompt_tokens": 1086,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1417
-              }
-            },
-            "support": "The odds of receiving card-verified MCV1 were two times higher in the NutriVax arm than in the control arm (odds ratio = 2.08, 95% confidence interval (CI): 1.30−3.35, P = 0.004)",
-            "total": 73
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {
-        "industry": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。",
-        "research": "整群随机试验以卡片核验证据显示SQ-LNS与常规免疫联合递送可使MCV1覆盖率提升约20个百分点，为营养-免疫整合策略提供了可扩展的实证支持；但单一地区、中等干预暴露率（48%），外推到其他卫生系统条件时需谨慎。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04673-3",
-      "t": "尿液游离 RNA 用于膀胱癌检测和治疗反应预测",
-      "te": "Urine cell-free RNA for bladder cancer detection and treatment response prediction",
-      "s": "尿液生物标志物有望改善泌尿生殖系统恶性肿瘤的无创检测和分子表征。该方法优于尿液肿瘤 DNA 分析，并且不受场效应突变的影响。",
-      "se": "Urine biomarkers promise to improve noninvasive detection and molecular characterization of genitourinary malignancies. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mutations.",
-      "u": "https://www.nature.com/articles/s41591-026-04673-3",
-      "image": "",
-      "src": "Nature Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-10-08T07:25:57+00:00",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04673-3",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04673-3"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:36:26+00:00",
-        "input_hash": "3897a4b3c38006583e5b11344c83b7d67840aa74a1cd2789711a0518c30ae707",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 6,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163618dc29cd585453431a",
-              "seconds": 4.39,
-              "usage": {
-                "completion_tokens": 162,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 3
-                },
-                "prompt_tokens": 1158,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1320
-              }
-            },
-            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis",
-            "total": 66
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "uRARE-seq在683例尿样中实现膀胱癌检测95%敏感/90%特异并优于尿肿瘤DNA，且基于114例开发出AUC 0.93的BCG反应预测标志物，为泌尿肿瘤液体活检与治疗分层提供了可复用的方法和较扎实的数据；主要限制为回顾性设计，作者自述需前瞻性研究验证临床效用。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610041636232f2f848024834169",
-              "seconds": 3.3,
-              "usage": {
-                "completion_tokens": 333,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 157
-                },
-                "prompt_tokens": 1158,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1491
-              }
-            },
-            "support": "uRARE-seq demonstrated 95% sensitivity at 90% specificity for detecting localized bladder cancer. The method outperformed urine tumor DNA analysis and was unaffected by the presence of field-effect mu",
-            "total": 74
-          }
-        ],
-        "score": 70,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {
-        "research": "uRARE-seq在683例尿液中实现95%敏感性/90%特异性的局限性膀胱癌检测，并建立预测BCG应答的多变量标志物（AUC 0.93），为无创检测与治疗选择提供可借鉴的液体活检方法。主要限制为回顾性队列设计，作者亦指出需前瞻性研究验证临床效用。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-      "t": "Brainomix 的 e-Lung 在 III 期试验中显示进展和治疗反应",
-      "te": "Brainomix’s e-Lung shows progression and treatment response in Phase III trial",
-      "s": "试验操作员越来越多地将成像工具和相关的基于人工智能 (AI) 的工具纳入他们的研究方案中。",
-      "se": "Trial operators are increasingly incorporating imaging tools and related artificial intelligence (AI)-based tools into their study protocols.",
-      "u": "https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-      "image": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2026/10/shutterstock_1720751053.jpg",
-      "src": "Medical Device Network",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products",
-          "technology"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2026/10/shutterstock_1720751053.jpg",
-        "observed_in_sources": [
-          "medical_device_network"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medical_device_network",
-        "upstream_id": "https://www.medicaldevice-network.com/?p=245571"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e95273",
-      "t": "探索 YouTube 上科学和伪科学健康社区的对话动态：流程挖掘和网络分析研究",
-      "te": "Exploring Conversational Dynamics in Scientific and Pseudoscientific Health Communities on YouTube: Process Mining and Network Analysis Study",
-      "s": "结论：网络分析和流程挖掘技术的应用揭示了与健康相关的 YouTube 讨论的对话动态中的不同模式。在采样的语料库中，科学讨论似乎与混合价评估和治疗相关的交流更兼容，而伪科学讨论则显示出与人际肯定和社会情感联系更一致的模式。这些初步研究结果表明，网络分析和过程挖掘是研究在线健康传播和错误信息生态系统的有前途的方法。他们还建议，公共卫生战略可能会受益于在信息提供的同时考虑参与错误信息社区的情感和社区联系维度。结果：网络分析揭示了不同的对话核心。",
-      "se": "Conclusions: The application of network analysis and process mining techniques revealed distinct patterns in the conversational dynamics of health-related YouTube discussions. Within the sampled corpora, scientific discussions appeared more compatible with mixed-valence evaluation and treatment-related exchanges, whereas pseudoscientific discussions showed patterns more consistent with interpersonal affirmation and socioemotional bonding. These preliminary findings suggest that network analysis and process mining are promising approaches for investigating online health communication and misinformation ecosystems. They also suggest that public health strategies may benefit from considering the affective and community-bonding dimensions of engagement in misinformation communities alongside information provision. Results: Network analysis revealed divergent conversational cores.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e95273",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1e8102e1cbec47d5ea259344ba4e0ebc",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1e8102e1cbec47d5ea259344ba4e0ebc",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e95273"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e89066",
-      "t": "用于标准化临床评估交互式培训的语音虚拟患者：混合方法试点研究",
-      "te": "Voice-Enabled Virtual Patients for Interactive Training in Standardized Clinical Assessment: Mixed Methods Pilot Study",
-      "s": "结论：大语言模型支持的虚拟患者模拟为培训临床医生进行标准化临床评估提供了一种有前途的、可扩展的工具。该试点研究为系统以合理的保真度生成临床相关实践场景的能力提供了初步证据。结果：在 20 次访谈中，虚拟患者表现出对其配置的临床资料的合理遵守，人类评分者的分数接近其预定义的分数配置。 MADRS 评分者评分与配置评分之间的平均项目差异为 0.52 (SD 0.75)；总分的评估者间信度为 0.90 (95% CI 0.68‐0.99)。当被要求评估虚拟患者的定性真实性和凝聚力时，专家评分者始终给出“同意”到“强烈同意”的平均评级。",
-      "se": "Conclusions: LLM-powered virtual patient simulations offered a promising, scalable tool for training clinicians in standardized clinical assessment. This pilot study provides initial evidence for the system’s ability to produce clinically relevant practice scenarios with reasonable fidelity. Results: Across 20 interviews, the virtual patients demonstrated reasonable adherence to their configured clinical profiles, with human rater scores falling near their predefined score configurations. The mean item difference between MADRS rater scores and configured scores was 0.52 (SD 0.75); interrater reliability for the total score was 0.90 (95% CI 0.68‐0.99). Expert raters consistently gave average ratings of “agree” to “strongly agree” when asked to evaluate the qualitative realism and cohesion of the virtual patients.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e89066",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/253af14d7e8fd2ed2f67b170a4703d39",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/253af14d7e8fd2ed2f67b170a4703d39",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e89066"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e87781",
-      "t": "牙周炎风险评估和预防规划：多模态大语言模型和牙周病医生评估的比较研究",
-      "te": "Periodontitis Risk Assessment and Prevention Planning: Comparative Study of Multimodal Large Language Models and Periodontist Evaluations",
-      "s": "结论：M-LLM 在牙周评估中表现出很强的推理能力。在所有模型中，不可接受的元素始终与射线照相解释错误相关，尽管改进的提示或更新的模型版本可能会改善这一点。值得注意的是，即使放射照相结果不正确并且不存在斑块保留因素，输出仍然评价良好，表明 EHR 数据本身就提供了坚实的基础。就临床适用性而言，M-LLM 的表现至少必须与牙周病医生相当，并满足牙周病专家制定的质量标准——GPT 和 Claude 似乎正在接近这一标准。结果：GPT o1 Pro 和 Claude Sonnet 4 显示出强劲的性能，86.7% 和 85.6% 的评级被认为可以接受，与牙周病医生的输出 (87.8%) 相当。",
-      "se": "Conclusions: M-LLMs demonstrated strong reasoning abilities in periodontal assessment. Across all models, unacceptable elements were consistently related to errors in radiographic interpretation, though refined prompting or newer model versions may improve this. Notably, even when radiographic findings were incorrect and plaque-retentive factors were absent, outputs were still rated well, indicating that EHR data alone provide a substantial basis. For clinical applicability, M-LLMs must at least perform comparably to a periodontist and meet the quality standards set by periodontal experts—a bar that GPT and Claude appear to approach. Results: GPT o1 Pro and Claude Sonnet 4 showed strong performance, with 86.7% and 85.6% of ratings deemed acceptable—comparable to the periodontist’s output (87.8%).",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e87781",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4dbeed025e5ddd19bf40d2e59677e0f5",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e87781"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e100710",
-      "t": "生成式人工智能操纵生物医学研究图像来改变科学结果：人类诊断研究和自动检测",
-      "te": "Biomedical Research Images Manipulated by Generative AI to Alter Scientific Outcomes: Diagnostic Study of Human and Automated Detection",
-      "s": "在对 104 个蛋白质印迹和皮下异种移植肿瘤图像进行的诊断研究中，高保真生成模型产生了可能改变研究结论的伪造品； 24 名博士级专家评审员无法可靠地区分伪造数据和真实数据（平均准确度 50.5%，SD 6.9%），而性能最好的商业 AI 检测器仅实现中等辨别（曲线下面积 0.790，95% CI 0.695-0.885），揭示了当前研究诚信保障措施中的严重漏洞。",
-      "se": "In a diagnostic study of 104 western blot and subcutaneous xenograft tumor images, a high-fidelity generative model produced forgeries that could alter the conclusions of a study; 24 PhD-level expert reviewers could not reliably distinguish the forgeries from authentic figures (mean accuracy 50.5%, SD 6.9%), while the best-performing commercial AI detector achieved only moderate discrimination (area under the curve 0.790, 95% CI 0.695-0.885), revealing critical vulnerabilities in current research-integrity safeguards.",
-      "u": "https://www.jmir.org/article/view/jmir_v28i1e100710",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/637b749ee3a96c6fcf5c68e5443d279a",
-      "src": "Journal of Medical Internet Research",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/637b749ee3a96c6fcf5c68e5443d279a",
-        "observed_in_sources": [
-          "jmir"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir",
-        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e100710"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://ai.jmir.org/2026/1/e94109/",
-      "t": "手术技能评估中人类自主团队的机器学习：范围综述",
-      "te": "Machine Learning for Human-Autonomy Teaming in Surgical Skill Assessment: Scoping Review",
-      "s": "结论：当前的人工智能技术为客观技能评估提供了坚实的基础，但尚未为自主团队做好准备。未来的发展必须优先考虑模型的稳健性、可解释性以及与临床环境的无缝集成，以从独立的评估工具过渡到有效的手术队友。试用注册：OSF 注册中心 10.17605/OSF.IO/PQWS5；  结果：我们对 92 项纳入研究的分析揭示了向多模态数据集成和深度学习架构的主导转变。虽然基准数据集经常报告高性能，但 HAT 集成仍然存在重大障碍。 TRL 分析显示，77.2% (71/92) 的研究仍处于 TRL 3（概念验证），只有 2.2% (2/92) 达到 TRL 5 或更高。",
-      "se": "Conclusions: Current AI techniques provide a robust foundation for objective skill assessment, but they are not yet ready for autonomous teaming. Future development must prioritize model robustness, interpretability, and seamless integration into clinical environments to transition from stand-alone assessment tools to effective surgical teammates. Trial Registration: OSF Registries 10.17605/OSF.IO/PQWS5; https://osf.io/pqws5 Results: Our analysis of the 92 included studies reveals a dominant shift toward multimodal data integration and deep learning architectures. While high performance is frequently reported on benchmark datasets, significant barriers to HAT integration persist. The TRL analysis shows that 77.2% (71/92) of studies remain at TRL 3 (proof-of-concept), with only 2.2% (2/92) reaching TRL 5 or above.",
-      "u": "https://ai.jmir.org/2026/1/e94109/",
-      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/c1217cf586fd8a07e918c3353d9c8eca",
-      "src": "JMIR AI",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/c1217cf586fd8a07e918c3353d9c8eca",
-        "observed_in_sources": [
-          "jmir_ai"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e94109/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-02",
       "reasons": {},
       "historical": true
     }
@@ -2640,9 +1999,10 @@
     {
       "date": "2026-10-12",
       "item_ids": [
+        "pmid:42862588",
         "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
       ],
-      "minutes": 1
+      "minutes": 2
     },
     {
       "date": "2026-10-08",
@@ -2676,17 +2036,6 @@
         "url:https://www.nature.com/articles/s41746-026-03227-8",
         "url:https://www.nature.com/articles/s41746-026-03252-7",
         "url:https://www.nature.com/articles/s41746-026-03324-8"
-      ],
-      "minutes": 3
-    },
-    {
-      "date": "2026-10-02",
-      "item_ids": [
-        "url:https://www.nature.com/articles/s41591-026-04675-1",
-        "url:https://www.medicaldevice-network.com/news/brainomix-e-lung-shows-progression-treatment-response-phase-iii-trial/",
-        "url:https://www.nature.com/articles/s41591-026-04673-3",
-        "url:https://ai.jmir.org/2026/1/e94109/",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e100710"
       ],
       "minutes": 3
     }

@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T12:58:44+00:00",
-  "as_of": "2026-10-22",
-  "count": 22,
+  "generated_at": "2026-10-22T17:58:40+00:00",
+  "as_of": "2026-10-23",
+  "count": 21,
   "items": [
     {
       "id": "pmid:42895716",
@@ -118,128 +118,6 @@
           }
         ],
         "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42862588",
-      "title": "美国捐赠者心脏分配的成人医疗紧急度评分的制定和验证。",
-      "original_title": "Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation.",
-      "summary": "重要性 在美国，五分之一的心脏移植候选人会死亡或未经移植而被除名。目前，捐献者的心脏是由基于 6 种状态的治疗系统进行分配的，该系统因风险分层有限且容易受到博弈的影响而受到批评。目的 根据客观医疗紧急度评分制定新的心脏分配政策，根据生理学和机械循环支持之间的相互作用对候选者进行排名。使用美国器官移植系统的数据设计、设置和参与者基于登记的观察性研究。 2019年1月至2025年8月的所有成人（年龄≥18岁）心脏移植候选者均被纳入，分为训练（2019-2023）、验证（2023-2024）和测试（2024-2025）数据集。主要结果和措施 估算了不进行移植的 6 周死亡率的边际结构模型（美国候选者风险评分 [US-CRS]）。",
-      "url": "https://doi.org/10.1001/jama.2026.17403",
-      "source": "JAMA · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-12",
-      "topics": [
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42862588",
-        "upstream_id": "42862588"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
-      },
-      "reading_value_score": 76,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:33+00:00",
-        "input_hash": "e66a0b2c50695596f7f27c3574b381fc609e2943ce720425b9e8a7433b55f4b4",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "US-CRS以生理学联合机械循环支持对等待名单者做连续风险分层，AUC 0.807显著优于现行6状态系统，可为移植分配政策与风险建模方法提供直接参考；但分配模拟显示首位候选者6周死亡率上升（11.2%→15.7%），提示新政策的公平性与结局权衡仍需审慎评估，且为观察性登记数据、非实施后验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610200100267d37fbc937ad4e6c",
-              "seconds": 3.55,
-              "usage": {
-                "completion_tokens": 176,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1312,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1488
-              }
-            },
-            "support": "US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively)",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 8,
-              "relevance": 7,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001003081a95ee864d24483",
-              "seconds": 3.55,
-              "usage": {
-                "completion_tokens": 175,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1312,
-                "prompt_tokens_details": {
-                  "cached_tokens": 704
-                },
-                "total_tokens": 1487
-              }
-            },
-            "support": "a US-CRS-based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2%",
-            "total": 75
-          }
-        ],
-        "score": 76,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -377,7 +255,7 @@
         "business",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2026/10/shutterstock_2789131111.jpg",
         "observed_in_sources": [
