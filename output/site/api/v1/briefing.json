@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T18:03:01+00:00",
+  "generated_at": "2026-10-22T00:00:26+00:00",
   "as_of": "2026-10-22",
   "item_ids": [
     "url:https://www.nature.com/articles/s41746-026-03211-2",
@@ -40,10 +40,9 @@
     {
       "date": "2026-10-16",
       "item_ids": [
-        "url:https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms",
-        "url:https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/"
+        "url:https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-10-15",

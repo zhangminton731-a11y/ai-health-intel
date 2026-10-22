@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T18:03:01+00:00",
+  "generated_at": "2026-10-22T00:00:26+00:00",
   "as_of": "2026-10-22",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -133,6 +133,134 @@
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/",
+      "t": "Edwards 召回 Sapien 二尖瓣输送系统导致 1 人死亡",
+      "te": "Edwards recall of Sapien mitral delivery systems tied to 1 death",
+      "s": "美国食品和药物管理局周四在一份早期警报中表示，在收到三份气球在充气过程中破裂的报告后，Edwards Lifesciences 已要求客户从库存中移除一些用于 Sapien M3 经导管二尖瓣置换术的输送系统。截至 10 月 5 日，Edwards 报告了与该问题相关的 1 人死亡和 1 人重伤，当时该设备制造商致函客户，建议他们将 Commander M 系统从使用或销售的地方移除并将其退回公司。 FDA 表示，这个问题可能会导致栓塞或阻止医生通过引导鞘取回装置，从而需要额外的干预措施，例如手术。潜在的高风险干预措施可能会带来严重的不良健康后果。",
+      "se": "Edwards Lifesciences has asked customers to remove from inventory some delivery systems used for Sapien M3 transcatheter mitral valve replacement after receiving three reports of balloons bursting during inflation, the Food and Drug Administration said Thursday in an early alert. Edwards reported one death and one serious injury associated with the problem as of Oct. 5, when the device maker sent a letter to customers recommending they remove the Commander M systems from where they are used or sold and return them to the company. The issue could lead to an embolism or prevent the physician from retrieving the device through the guide sheath, requiring an additional intervention such as surgery, the FDA said. The potentially high-risk intervention carries a risk of serious adverse health consequences.",
+      "u": "https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/",
+      "image": "https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp",
+      "src": "MedTech Dive",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 2,
+      "sourceType": "专业媒体",
+      "topics": [
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "image_url": "https://imgproxy.divecdn.com/ZralPibwV2FS7gfl92V7anvyG-GCm_2yJ_lZgP4LM4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yRENKUkI1LmpwZw==.webp",
+        "observed_in_sources": [
+          "medtech_dive_primary"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medtech_dive_primary",
+        "summary_source": "https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/",
+        "upstream_id": "https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-16T23:36:38+00:00",
+        "input_hash": "b1dc019cbbe952e05419add1df33dc733891f5c3fcd619e853e495cdb0e954d3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "Sapien M3经导管二尖瓣置换系统召回并关联一例死亡，属直接影响TAVR/TMVTR中心库存管理、采购与术者操作决策的真实监管与产业事实；信息源自FDA早期通报和公司致客户函，细节具体，但均为通报层面事实，后续召回范围扩大或整改情况尚待确认。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026101707363184430d7850c6434e",
+              "seconds": 3.86,
+              "usage": {
+                "completion_tokens": 164,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 8
+                },
+                "prompt_tokens": 912,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1076
+              }
+            },
+            "support": "Edwards reported one death and one serious injury associated with the problem as of Oct. 5, when the device maker sent a letter to customers recommending they remove the Commander M systems",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026101707363506944d5b9b9c4b5a",
+              "seconds": 3.02,
+              "usage": {
+                "completion_tokens": 153,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 10
+                },
+                "prompt_tokens": 912,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1065
+              }
+            },
+            "support": "Edwards reported one death and one serious injury associated with the problem as of Oct. 5, when the device maker sent a letter to customers recommending they remove the Commander M systems",
+            "total": 75
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
+      },
+      "when": "6 天前",
+      "date": "2026-10-16",
+      "reasons": {
+        "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
       },
       "historical": true
     },
@@ -2362,6 +2490,13 @@
         "url:https://www.nature.com/articles/s41746-026-03392-w"
       ],
       "minutes": 3
+    },
+    {
+      "date": "2026-10-16",
+      "item_ids": [
+        "url:https://www.medtechdive.com/news/edwards-recall-of-sapien-mitral-delivery-systems-tied-to-1-death/833269/"
+      ],
+      "minutes": 1
     },
     {
       "date": "2026-10-15",
