@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T06:07:40+00:00",
+  "generated_at": "2026-10-22T12:58:44+00:00",
   "as_of": "2026-10-22",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -133,6 +133,137 @@
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04692-0",
+      "t": "",
+      "te": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
+      "s": "",
+      "se": "Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models.",
+      "u": "https://www.nature.com/articles/s41591-026-04692-0",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04692-0",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04692-0"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-20T06:02:35+00:00",
+        "input_hash": "5a21ca41d53a94d5fd8888efb92e7aa8a77fae7ba969100f94db8db49aa0e15b",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多组学（基因组、转录组、甲基化）整合分析423例NDMM样本并在三个外部队列（合计1451例）独立验证MRD相关分子特征与预测模型（AUC 0.77），对骨髓瘤疗效预测研究和早期治疗决策有直接参考价值。局限是预测性能中等且为回顾性队列分析，尚需前瞻应用验证临床获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610201402268b13deb191094d16",
+              "seconds": 3.86,
+              "usage": {
+                "completion_tokens": 168,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1291,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1459
+              }
+            },
+            "support": "Postinduction MRD-negativity rates varied significantly across gene expression subtypes, with HP1/HP3 and MS groups showing superior responses compared to the MF and CD2 subtypes.",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102014023082b2df11be76413f",
+              "seconds": 4.6,
+              "usage": {
+                "completion_tokens": 159,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1291,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1450
+              }
+            },
+            "support": "A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77",
+            "total": 73
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "3 天前",
+      "date": "2026-10-19",
+      "reasons": {
+        "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
       },
       "historical": true
     },
@@ -2487,9 +2618,10 @@
     {
       "date": "2026-10-19",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41746-026-03392-w"
+        "url:https://www.nature.com/articles/s41746-026-03392-w",
+        "url:https://www.nature.com/articles/s41591-026-04692-0"
       ],
-      "minutes": 3
+      "minutes": 5
     },
     {
       "date": "2026-10-16",

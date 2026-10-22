@@ -34,6 +34,14 @@ No items.
 
 Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026 (CMS-4214-P) Background On Oct. 16, 2026, the Centers for Medicare & Medicaid Services (CMS) issued a proposed rule to implement key sections of the Consolidated Appropriations Act of 2026 including section 6220 (Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act) and section 6224 (Modernizing and Ensuring Pharmacy Benefit Manager Accountability). This rule also proposes a conforming change mandated by section 6219 of the CAA (Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals) that would reduce the generic drug copayment from $1 to $0 for full-benefit dual eligible individuals. Implementing Certain Provisions of Consolidated Appropriations Act, 2026 On February 3, 2026, the CAA of 2026, which included several changes to the MA and Part D programs, was signed into law. In this rule, we are proposing to implement the following sections: Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals (Section 6219): This proposed rule implements Section 6219 of the CAA that would reduce the generic drug copayment from $1 to $0 for full-benefit dual eligible individuals at or below 100% of the Federal Poverty Level, effective for plan years starting Jan. 1, 2028. Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act (Section 6220): CMS proposes to codify regulations to implement the REAL Health Providers Act, which establishes new provider directory verification and accuracy requirements for MA organizations beginning in contract year 2028. Specifically, CMS proposes requirements to implement this new law related to provider directory verification and maintenance standards, annual accuracy analysis and reporting, public reporting of accuracy scores, and cost-sharing protections for enrollees who rely on inaccurate provider directory information. CMS also proposes to codify the statutory requirements for contract year 2029, including that CMS must publicly display provider directory accuracy scores in a machine-readable format, and MA organizations must prominently display those scores in their provider directories. Through these proposed codifications implementing the REAL Health Providers Act, CMS seeks to promote provider directory accuracy and accountability among MA organizations to ensure that beneficiaries are provided with clear, accurate information on the network of providers available to meet their healthcare needs. Modernizing and Ensuring Pharmacy Benefit Manager Accountability (Section 6224): CMS has several proposals to implement section 6224 of the CAA, which established requirements related to pharmacy benefit managers (PBMs) and their affiliates specific to the Medicare Part D program. These proposals include new requirements governing the remuneration that PBMs and their affiliates may receive for services in connection with the utilization of Part D drugs, data reporting by PBMs to Part D prescription drug plan (PDP) sponsors and CMS, transparency in PBM price guarantee arrangements, disclosure by PBMs to PDP sponsors of the terms of certain agreements between PBMs or their affiliates and pharmaceutical manufacturers, and other requirements added by the CAA. CMS also proposes to define key terms related to such requirements and establish compliance and enforcement mechanisms, including disgorgement of funds to CMS for violations of the remuneration requirements. The proposed rule will be open for public comment for 60 days following publication in the Federal Register. View this regulation on the Federal Register . The proposed rule will be open for public comment for 60 days following publication in the Federal Register. ### CMS News and Media Group Catherine Howden, Director Media Inquiries Form 202-690-6145
 
+### [UK government confirms indefinite EU CE mark recognition](https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/)
+
+- Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
+- Reading value: `76` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/`
+
+<p>The decision effectively shelves post-Brexit plans that would have required CE-marked medtech to secure a separate tag for the UK market by 2030.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/">UK government confirms indefinite EU CE mark recognition</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
 ### [Quality Assessment and Model Training Impact of Synthetic Images in Medical Diagnostic Imaging: Systematic Review](https://ai.jmir.org/2026/1/e81472/)
 
 - Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
@@ -89,14 +97,6 @@ Evaluation of AI-generated patient communication lacks standardized frameworks, 
 - Event: `seen` · identity: `pmid:42872914`
 
 <h4>Importance</h4>International guidelines recommend dobutamine for management of septic shock and cardiac dysfunction with persistent hypoperfusion in adults based on very low-certainty evidence. Randomized trials are lacking on the effect of intraoperative dobutamine combined with norepinephrine vs norepinephrine on postoperative outcomes in patients with septic shock undergoing surgical source control.<h4>Objective</h4>To determine whether intraoperative dobutamine combined with norepinephrine reduces acute kidney injury (AKI) within 7 postoperative days in patients with septic shock undergoing surgical source control.<h4>Design, setting, and participants</h4>This randomized, open-label clinical trial in 39 tertiary hospitals in China enrolled adults with septic shock who were undergoing surgical source control between June 2024 and August 2025. Follow-up ended on November 15, 2025.<h4>Intervention</h4>Intraoperative, intravenous infusion of dobutamine (up to 5 µg/kg/min) combined with norepinephrine vs norepinephrine alone.<h4>Main outcomes and measures</h4>The primary outcome was new-onset AKI or worsening of preoperative AKI within 7 days after surgery, defined using Kidney Disease: Improving Global Outcomes (KDIGO) criteria. The 11 secondary outcomes included Sequential Organ Failure Assessment (SOFA) score on postoperative day 1 and urine output 1 hour post intervention.<h4>Results</h4>Among 584 patients (median [IQR] age, 67.5 [55.0-76.0] years; 192 [32.9%] females), new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone (adjusted risk ratio [ARR], 0.64 [95% CI, 0.49-0.83]). No significant differences were observed in 9 of the 11 secondary outcomes. SOFA scores on postoperative day 1 (adjusted difference, -0.53 [95% CI, -0.98 to -0.07]) were lower and urine output 1 hour post intervention (adjusted difference, 0.55 [95% CI, 0.03 to 1.07] mL/kg/h) was higher in the dobutamine plus norepinephrine group. Stage 2 and 3 AKI were lower in the dobutamine plus norepinephrine group compared with the norepinephrine alone group (stage 2: 4.8% vs 9.9%; ARR, 0.48 [95% CI, 0.26-0.88]; stage 3: 7.9% vs 13.6%; ARR, 0.56 [95% CI, 0.35-0.91]). Tachycardia (heart rate >100/min) occurred more frequently in patients receiving dobutamine and norepinephrine than norepinephrine alone.<h4>Conclusions and relevance</h4>Among adult patients with septic shock undergoing surgical source control, intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT06462313.
-
-### [Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy](https://www.nature.com/articles/s41591-026-04692-0)
-
-- Source: `nature_medicine` · published `2026-10-19` · freshness `fresh`
-- Reading value: `73` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04692-0`
-
-Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). However, treatment response is heterogeneous and molecular predictors are needed to guide early therapeutic decisions. We performed integrated genomic, transcriptomic and epigenomic profiling of 423 tumor samples from patients with NDMM from the MIDAS cohort to characterize molecular heterogeneity and its association with measurable residual disease (MRD) after quadruplet induction with isatuximab, carfilzomib, lenalidomide and dexamethasone (Isa-KRd). Postinduction MRD-negativity rates varied significantly across gene expression subtypes, with HP1/HP3 and MS groups showing superior responses compared to the MF and CD2 subtypes. B cell differentiation was associated with MRD positivity, while proliferation and MYC programs were associated with MRD negativity. These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort. New driver alterations were identified with independent validation across three external cohorts with multiple myeloma (MMRF, MANHATTAN and CASSIOPEIA; 1,451 cases). Genomic instability features and driver genes such as CCND1 and MYC correlated with differential MRD outcomes. DNA methylation profiling identified nine MRD-linked subgroups distinguished by the extent of hypomethylation in quiescent chromatin and cis/trans signatures of driver translocations. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models. These findings define a multiomic classification of NDMM linked to Isa-KRd response. ClinicalTrials.gov identifier: NCT04934475 . In a multiomic analysis of samples from patients with newly diagnosed multiple myeloma treated with isatuximab, carfilzomib, lenalidomide and dexamethasone induction therapy followed by consolidation treatment guided by minimal residual disease (MRD) status, baseline genomic, transcriptomic and epigenetic features are associated with MRD status after induction.
 
 ### [FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment](http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment)
 
@@ -648,14 +648,6 @@ A new study by MIT researchers shows that inhibiting caspase-1 can reduce the ri
 
 Hyperkalaemia is a common and potentially life threatening electrolyte abnormality because of its association with malignant cardiac arrhythmias and sudden cardiac arrest. This condition is frequently encountered across acute and chronic care settings and disproportionately affects patients with comorbid conditions like chronic kidney disease, heart failure, diabetes mellitus, and those receiving drugs that impair renal potassium excretion. The most frequent causes of hyperkalaemia include impaired renal potassium elimination, from chronic kidney disease or pharmacological inhibition of the renin-angiotensin-aldosterone system, and transcellular potassium shifts resulting from metabolic acidosis, tissue breakdown, insulin deficiency, or hypertonic states. Despite its prevalence and clinical importance, substantial variability exists in the approach to diagnosis and management of hyperkalaemia, reflecting differences in definitions, risk stratification, and therapeutic approaches across clinical settings. Management strategies have evolved in recent years with improved understanding of potassium physiology and the availability of newer potassium binding agents, necessitating an updated synthesis of the evidence. In this state of the art review, we summarise contemporary data on the epidemiology and pathophysiology of hyperkalaemia, identify key risk factors and diagnostic considerations, and review evidence based approaches to acute and chronic management, with particular attention to special populations and high risk clinical scenarios.
 
-### [The Science Behind Consumer Wearable Sleep Technology, According to a Sleep Scientist](https://ouraring.wpengine.com/the-science-behind-consumer-wearable-sleep-technology-according-to-a-sleep-scientist/)
-
-- Source: `oura_blog` · published `2026-08-23` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://ouraring.wpengine.com/the-science-behind-consumer-wearable-sleep-technology-according-to-a-sleep-scientist/`
-
-<p>I have spent my career believing that innovation is the engine that expands scientific knowledge and moves us closer to improving the health and wellness of humanity. So when I read the main points raised in the lawsuit filed against Oura over its sleep claims, I felt the necessity to explain the science supporting not [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/the-science-behind-consumer-wearable-sleep-technology-according-to-a-sleep-scientist/">The Science Behind Consumer Wearable Sleep Technology, According to a Sleep Scientist</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
-
 ### [Human-Led at Scale: How Oura Is Redefining Customer Experience in the AI Era](https://ouraring.wpengine.com/how-oura-uses-ai-to-measure-customer-experience/)
 
 - Source: `oura_blog` · published `2026-08-25` · freshness `stale`
@@ -1095,14 +1087,6 @@ The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and 
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/`
 
 Apple’s latest software updates introduce Siri AI and deliver helpful new Apple Intelligence features.
-
-### [Siri AI, a profoundly more capable and personal assistant, is here](https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/)
-
-- Source: `apple_newsroom` · published `2026-09-14` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/`
-
-Apple today released the next generation of Apple Intelligence.
 
 ### [A Synopsis of the 2025 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline for Lipid Management for Cardiovascular Disease Risk Reduction.](https://doi.org/10.7326/annals-26-01374)
 
@@ -2288,14 +2272,6 @@ Single-cell resolution spatial transcriptomics provides a great opportunity to e
 
 <p><a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/"><img width="600" height="392" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-600x392.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326-300x196.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/07/GettyImages-848755326.jpg 731w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Ultragenyx Pharmaceutical sold two priority review vouchers, each from an FDA approval of a gene therapy. Both therapies came from business deals and proceeds from the voucher sales put Ultragenyx in a better financial position to pursue yet another deal for a rare disease asset. </p> <p>The post <a href="https://medcitynews.com/2026/10/ultragenyx-rare-pediatric-disease-priority-review-voucher-prv/">Ultragenyx Rare Disease Voucher Sales Secure $413M for More Potential Pipeline Building</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Why Agentic AI Works in Hospitals When You Strip It Down](https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/)
-
-- Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
-- Reading value: `25` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/`
-
-<p><a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg" class="attachment-large size-large wp-post-image" alt="A digitally generated image featuring an old-style computer monitor displaying the letters “AI” with neon business crowd. The scene blends retro computing with modern business aesthetics, symbolizing the journey of artificial intelligence from its early beginnings to its growing role in today’s corporate world. Ideal for illustrating themes of digital evolution, business transformation, AI adoption, and technology-driven innovation." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI-768x432.jpg 768w" sizes="auto, (max-width: 788px) 100vw, 788px" /></a></p><p>Many hospitals are now trying to use AI to automate processes and free up staff time, running simultaneous pilots to perform as many tasks as possible. This quickly leads to pilot sprawl — a state where organizations can no longer even say which agents are still in active use.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/">Why Agentic AI Works in Hospitals When You Strip It Down</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
 - Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
@@ -2319,14 +2295,6 @@ Single-cell resolution spatial transcriptomics provides a great opportunity to e
 - Event: `seen` · identity: `url:https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015`
 
 A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.
-
-### [Android earthquake alerts now available in more than 200 regions](https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/)
-
-- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
-- Reading value: `8` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp">Android earthquake alerts are now available in more than 200 countries and regions.
 
 ### [Animal numbers are not a proxy for scientific strength](https://www.nature.com/articles/s41551-026-01825-1)
 
@@ -2376,22 +2344,6 @@ N/A <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d937230a
 
 No summary supplied by the source.
 
-### [How To Build Your Team With Autonomous Humans, Not Just Autonomous Systems](https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `13` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/ai/building-autonomous-human-team-success-francia-uniplay/`
-
-As AI enables smaller, faster teams, companies should hire curious, adaptable people who challenge established practices and can be trusted to make independent decisions, according to guest author Eric Francia, who writes that giving employees real responsibility, encouraging questions and investing in continuous learning helps teams innovate, stay engaged and retain talent.
-
-### [How we're helping the world prepare for natural disasters](https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/)
-
-- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
-- Reading value: `13` · status: `scored`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/`
-
-Our north star is simple yet ambitious: No one should be surprised by a natural disaster.
-
 ### [Keeping psychedelics in mind](https://www.nature.com/articles/s41551-026-01813-5)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
@@ -2440,14 +2392,6 @@ Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo o
 
 This letter comments on the systematic review and meta-analysis of large language models (LLMs) in mental health care by Leung and colleagues (JMIR AI 2026;5:e87730). The bivariate meta-analysis with Hartung-Knapp adjustments is methodologically sound, and its cautious conclusions are warranted. I raise an unaddressed threat to the pooled estimates: model version drift. Over the search window (November 2022 to March 2026), &quot;GPT-4&quot; did not denote a single intervention; released in March 2023, it was followed by API snapshots whose behavior differed materially, with accuracy on a prime-number identification task falling from 84% to 51% between the March and June 2023 versions. Because the review extracted only model name and model type and did not capture version or testing dates, the estimates pooled under GPT-4 (k=4) and GPT-3.5 (k=4) may each span several substantively different models, and the pooled GPT-4 estimate may correspond to no single system a clinician could deploy. This concern is distinct from the acknowledged limitation that few studies evaluated the newest variants, which concerns currency rather than comparability. I suggest reporting model version and testing date for each pooled study (consistent with TRIPOD-LLM item 6a), examining robustness to version mixing in sensitivity analyses, and qualifying the abstract comparative statements accordingly. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e770a7e6754928129106feabee847a04" />
 
-### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-15` · freshness `fresh`
-- Reading value: `28` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/startups/tech-layoffs/`
-
-Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.
-
 ### [The Role of Hospital Stewardship to Improve Outcomes and Manage Costs](https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/)
 
 - Source: `medcity_news` · published `2026-10-15` · freshness `fresh`
@@ -2487,14 +2431,6 @@ Advances in organoids, organs-on-chips and microphysiological systems are bringi
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e96828/`
 
 Background: Poststroke seizures (PSS) and poststroke epilepsy (PSE) are important neurological complications associated with poorer functional recovery, increased mortality, and reduced quality of life after stroke. Neuroimaging plays a central role in identifying patients at increased risk, and recent advances in AI have enabled the development of imaging-based prediction models that may improve individualized risk stratification. However, the current evidence remains fragmented, and the extent to which these approaches are applicable to African health care settings is unclear. Objective: This scoping review aimed to chart the existing global evidence on the development of imaging-based prediction models that can help in predicting PSS and PSE, especially AI-based ones. The purpose was to look into the imaging techniques, computational algorithms, and validation methodologies used and the representation of African populations. Methods: This scoping review was performed using the Joanna Briggs Institute methodological framework, and the results were presented based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) framework. Articles searched using databases such as PubMed, Embase, Scopus, Web of Science, IEEE Xplore, and Google Scholar involved the application of computed tomography (CT), magnetic resonance imaging (MRI), angiography imaging techniques, radiomic markers, or multimodal neuroimaging techniques in statistical and AI-based prediction models for seizure-related outcomes after stroke. Results: Twenty-three studies published between 2005 and 2026 met the eligibility criteria. The evidence demonstrated a clear methodological evolution from conventional imaging-based prediction models to radiomics, machine learning, deep learning, explainable AI, and multimodal approaches. MRI and CT were the predominant imaging modalities, with cortical involvement, lesion location, infarct volume, hemorrhagic transformation, and quantitative radiomic features emerging as the most frequently reported imaging predictors. Most AI models relied on internal validation, while relatively few underwent external validation. The evidence base was concentrated in East Asia, Europe, and North America, with no eligible imaging-based AI models having been developed or externally validated using African datasets. Conclusions: Imaging-based AI for predicting PSS and PSE has progressed rapidly, but important methodological and geographical gaps remain. Limited external validation, heterogeneous reporting, and the absence of African development and validation cohorts restrict confidence in the generalizability of existing models. Future research should prioritize the development of explainable imaging-based AI models using representative African neuroimaging datasets and their external validation in multicenter studies. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9e5693948385697cd77de32218793a32" />
-
-### [Asia’s Startup Funding At Near Record High In Q3, Driven By AI](https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-16` · freshness `fresh`
-- Reading value: `38` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/`
-
-Overall, investors put $38.5 billion into reported seed- through growth-stage financings for Asian startups in Q3, per Crunchbase data. Of that, a majority went to AI-focused companies, echoing the trends we’ve seen globally.
 
 ### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
 
@@ -2640,14 +2576,6 @@ Startup investors aren’t exactly hitting pause, but they did scale back on gia
 
 An interpretable neural network, SPACER, learns the rules of cellular recruitment directly from tissue spatial transcriptomics data. Analyses of multiple cancers reveal a role for the local antigen presentation machinery and tumour mucins in T cell recruitment to tumours, and a mouse model of severe checkpoint inhibitor-induced myocarditis identifies CD4+ T cells as key disease effectors.
 
-### [Designing for clarity before designing solutions](https://www.medicaldevice-network.com/comment/designing-for-clarity-before-designing-solutions/)
-
-- Source: `medical_device_network` · published `2026-10-19` · freshness `fresh`
-- Reading value: `21` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/designing-for-clarity-before-designing-solutions/`
-
-<p>Lucy Baldwin, head of research and strategy, and Oliver North, head of engineering at Ensera Design, reflect on the key design considerations in medical device development.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/designing-for-clarity-before-designing-solutions/">Designing for clarity before designing solutions </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Diagnosis Is Beside the Point](https://medcitynews.com/2026/10/diagnosis-is-beside-the-point/)
 
 - Source: `medcity_news` · published `2026-10-19` · freshness `fresh`
@@ -2760,6 +2688,14 @@ Notice NOT-EB-26-005 from the NIH Guide for Grants and Contracts
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp">We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…
 
+### [Startup taps underwater volcano as energy source in "proof point" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-19` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/`
+
+Hacker News community signal; score 32.
+
 ### [The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend](https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-19` · freshness `fresh`
@@ -2767,14 +2703,6 @@ Notice NOT-EB-26-005 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/`
 
 Enterprise AI companies relying on armies of forward deployed engineers are disguising labor-intensive services as scalable software, inflating recurring revenue and valuations while falling short of autonomy claims, argues Anurag Gurtu, co-founder and CEO of Airrived. In this guest commentary he urges buyers and investors to examine deployment costs and gross margins to distinguish sustainable software businesses from expensive staffing operations.
-
-### [UK government urged to scrap 20% VAT on defibrillators ahead of Autumn Budget](https://www.medicaldevice-network.com/news/uk-government-urged-to-scrap-20-vat-on-defibrillators-ahead-of-autumn-budget/)
-
-- Source: `medical_device_network` · published `2026-10-19` · freshness `fresh`
-- Reading value: `23` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/uk-government-urged-to-scrap-20-vat-on-defibrillators-ahead-of-autumn-budget/`
-
-<p>Signed by 57 parliamentarians, an open letter to the UK chancellor argues that scrapping the 20% VAT could boost public access to defibrillators across the UK.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-government-urged-to-scrap-20-vat-on-defibrillators-ahead-of-autumn-budget/">UK government urged to scrap 20% VAT on defibrillators ahead of Autumn Budget</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Variation in Medical Ethics Recommendations Across Large Language Models: Case-Based Audit Study](https://ai.jmir.org/2026/1/e102713/)
 
@@ -2912,14 +2840,6 @@ Background: Patients with cancer frequently experience complex and multidimensio
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/financial_protection_US__Canada.max-600x600.format-webp.webp">We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.
 
-### [Expertise modulates automation bias and sentinel behavior in human–AI collaborative diagnosis of neonatal pneumoperitoneum](https://www.nature.com/articles/s41746-026-03399-3)
-
-- Source: `npj_digital_medicine` · published `2026-10-20` · freshness `fresh`
-- Reading value: `68` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03399-3`
-
-Medical AI is often validated under an additive assumption that algorithmic sensitivity and clinician oversight will combine to improve care. We tested this assumption in the high-stakes diagnosis of neonatal pneumoperitoneum, a time-critical surgical emergency. In a multi-reader crossover study analyzing 1750 interpretation events, clinicians reviewed radiographs aided by either a high-reliability model or a systematically error-injected model. We found that high AI reliability paradoxically induces automation bias in trainees, who accepted 52.0% of incorrect suggestions, while offering limited gains to experts. Conversely, when challenged by flawed AI, the three participating neonatologists exhibited a “sentinel behavior” phenotype, correctly overriding 91.7% of errors (Wilson 95% CI: 83.0–96.0%) consistent with increased deliberation; given the small specialist cohort, this finding is hypothesis-generating and warrants prospective replication. We operationalize systemic resilience as the capacity to maintain diagnostic integrity under algorithmic failure and demonstrate that clinical validity depends on the human–AI team’s adversarial resilience rather than standalone accuracy. To mitigate the risk of deskilling and never-skilling, we release an open-source educational sandbox designed to inoculate clinicians against automated errors.
-
 ### [FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women](http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women)
 
 - Source: `fda_press` · published `2026-10-20` · freshness `fresh`
@@ -2992,14 +2912,6 @@ Background: Clinical practice guidelines are central instruments of evidence-bas
 
 Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De Marco, who draws on his experience bootstrapping BairesDev, to emphasize financial discipline and a lasting commitment to solving customer problems as the foundations of sustainable growth.
 
-### [How voters feel about trans rights and abortion access will soon be put to the test](https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
-- Reading value: `11` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss`
-
-How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.
-
 ### [Job Coaching and Smartphone-Based Cognitive Behavioral Techniques for Returning to Work and Coping With Unemployment (DRIVEN): Randomized Controlled Trial](https://www.jmir.org/article/view/jmir_v28i1e90873)
 
 - Source: `jmir` · published `2026-10-20` · freshness `fresh`
@@ -3007,14 +2919,6 @@ How do voters feel about trans students participating in school sports teams? Or
 - Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90873`
 
 Background: Unemployment has economic consequences and is associated with emotional distress and impairment. Joblessness is often associated with depression, leading to a vicious cycle of reduced drive to seek work, deepening financial stress, and worsening depression. Few scalable interventions exist that integrate job-search strategies with cognitive behavioral techniques. Objective: The study aimed to determine the efficacy of a Distress-Informed Return-to-Work Intervention (DRIVEN). The primary hypothesis was that DRIVEN would be more efficacious than the control condition in improving job-search behavior. Secondary analyses examined job attainment, depression, and positive affect. Methods: A randomized controlled trial was conducted from August 2023 to September 2024. Assessments were at baseline, weeks 1 through 6, and 8 and 16 weeks postintervention. Participants were a nationwide sample of unemployed job seekers aged 18 years or older who had never earned more than US $100,000 in a year. Participants received either (1) DRIVEN, which included 6 weeks of cognitive behavioral exercises in a mobile app combined with three 1-hour coaching sessions over videoconference or (2) emailed articles containing job-search advice. Primary outcome measures were subscales of a modified Job Search Behavior Scale (preparatory and active job search). Secondary outcomes included job attainment and mental health outcomes. Results: Participants were a nationwide sample (N=126; mean age 33.6, SD 6.6 y), including 62 (49.2%) females. During the acute treatment phase, mixed-effects linear models showed that for DRIVEN, preparatory job-search behavior increased by an estimated 0.053 (95% CI 0.031-0.076) units per day from baseline, which was a larger effect than in the control condition (0.011, 95% CI −0.011 to 0.033 units per day; =.008). Active job-search behavior increased by 0.061 (95% CI 0.038-0.084) units per day from baseline, which was significantly larger than in the control group (point estimate: 0.025, 95% CI 0.001-0.047; =.03). Depression decreased more in the DRIVEN group vs control (DRIVEN point estimate=−0.214, 95% CI −0.255 to −0.172 vs control group point estimate=−0.122, 95% CI −0.163 to −0.081; =.002), and participants were more likely to get a job in the DRIVEN group (68.3% vs 50.8%; =.046). Self-report outcomes did not significantly differ during the follow-up periods. Conclusions: DRIVEN was superior to emailed job-search advice for the primary outcome (job-search behavior) and secondary outcomes (job attainment, depression, and positive affect). This intervention may be beneficial for distressed unemployed individuals seeking work. Trial Registration: ClinicalTrials.gov NCT06026280; https://clinicaltrials.gov/study/NCT06026280 International Registered Report Identifier (IRRID): RR2-10.2196/62715 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/5ec83997df1904c872aa570353cfdf37" />
-
-### [MEDA-PKD: a dynamic, real-time analytics platform for precision care in autosomal dominant polycystic kidney disease](https://www.nature.com/articles/s41746-026-03267-0)
-
-- Source: `npj_digital_medicine` · published `2026-10-20` · freshness `fresh`
-- Reading value: `58` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03267-0`
-
-The use of medical real-world data is constrained by fragmented data infrastructures and the absence of tools integrating longitudinal clinical with molecular data at scale. Autosomal dominant polycystic kidney disease (ADPKD), the most common monogenic cause of kidney failure, exemplifies this gap given its phenotypic complexity and the need for individualized treatment decisions. We present MEDA-PKD (MEdical DAta translation service of Polycystic Kidney Disease), an interactive, near-real-time analytics platform that integrates clinical routine with research data from the German AD(H)PKD Tolvaptan Registry (NCT02497521, DRKS00008910) into a harmonized database ( https://doi.org/10.18716/adpkd_registry ). MEDA-PKD provides automated near-real-time analysis and dynamic visualization, replacing traditional static approaches to clinical cohorts. As of March 2026, MEDA-PKD visualized data from 1735 patients (mean follow-up 796 days). eGFR slope analysis of data from patients initiating tolvaptan therapy (332 patients) demonstrates the platform’s capacity to evaluate real-world therapeutic impact in real-time. Other tabs include family history, medication, lifestyle, quality of life and a wide array of lab values (20,894 entries). Besides, MEDA-PKD integrates proteomics data and allows for secure individual patient-level data access. MEDA-PKD represents a paradigm shift by transforming static cohort data into a living, actionable knowledge resource in ADPKD and will serve as a template for other diseases.
 
 ### [Medtech execs share secrets to building resilient supply chains](https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/)
 
@@ -3160,30 +3064,6 @@ A bipartisan group of lawmakers is urging the FDA to plug a loophole used to imp
 
 The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate&#8230;
 
-### [STAT+: OpenEvidence’s JAMA paper leaves open questions](https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
-- Reading value: `26` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss`
-
-In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.
-
-### [STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more](https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
-- Reading value: `51` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss`
-
-The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025.
-
-### [STAT+: Roche continues to look to China for new drugs](https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
-- Reading value: `55` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/biotech-news-roches-15b-hunt-for-new-drugs-in-china/?utm_campaign=rss`
-
-China's Hansoh Pharmaceutical Group has announced that it struck a massive deal with Roche to develop a portfolio of antibody-drug conjugates.
-
 ### [STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation](https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
@@ -3191,22 +3071,6 @@ China's Hansoh Pharmaceutical Group has announced that it struck a massive deal 
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss`
 
 A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.
-
-### [WHO grants bioMérieux’s Ebola panel emergency listing amid ongoing Bundibugyo outbreak](https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/)
-
-- Source: `medical_device_network` · published `2026-10-20` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/`
-
-<p>BioFire is the fifth diagnostic to receive an EUL from the WHO since the Bundibugyo outbreak in Central Africa was declared a public emergency in May 2026.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/who-grants-biomerieux-ebola-panel-emergency-listing-amid-ongoing-bundibugyo-outbreak/">WHO grants bioMérieux’s Ebola panel emergency listing amid ongoing Bundibugyo outbreak</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary](https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-20` · freshness `fresh`
-- Reading value: `19` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss`
-
-A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage.
 
 ### [A counterintuitive way to build trust in measles vaccines and public health](https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss)
 
@@ -3252,9 +3116,9 @@ Abbott said Wednesday it plans to spin out its nutrition business into an indepe
 
 - Source: `medcity_news` · published `2026-10-21` · freshness `fresh`
 - Reading value: `51` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/`
 
-<p><a href="https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/"><img width="600" height="357" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562-600x357.jpg" class="attachment-large size-large wp-post-image" alt="generative Ai" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562-600x357.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562.jpg 767w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>As generative AI moves toward performing increasingly consequential clinical functions, the American Medical Association (AMA) is urging the U.S. Food and Drug Administration to address a foundational question: Who is responsible for ensuring that these tools remain safe once they enter clinical practice?</p> <p>The post <a href="https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/">AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/"><img width="600" height="357" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562-600x357.jpg" class="attachment-large size-large wp-post-image" alt="generative Ai" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562-600x357.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562-300x178.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562.jpg 767w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>As generative AI moves toward performing increasingly consequential clinical functions, the American Medical Association (AMA) is urging the U.S. Food and Drug Administration to address a foundational question: Who is responsible for ensuring that these tools remain safe once they enter clinical practice?</p> <p>The post <a href="https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/">AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [AMA weighs in on FDA’s regulatory proposal for GenAI-based medtech](https://www.medicaldevice-network.com/news/ama-weighs-in-on-fda-regulatory-proposal-for-genai-based-medtech/)
 
@@ -3302,7 +3166,7 @@ Background: Health AI investment is accelerating across the Gulf Cooperation Cou
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/`
 
-Hacker News community signal; score 476.
+Hacker News community signal; score 548.
 
 ### [Conditions and Pathways for Integrating Smart Care Robots Into Long-Term Care Facilities: Qualitative Study From Nursing Assistants’ Perspectives](https://www.jmir.org/article/view/jmir_v28i1e97371)
 
@@ -3412,9 +3276,9 @@ This letter comments on two aspects of the study by Lin et al. We discuss how ag
 
 - Source: `medcity_news` · published `2026-10-21` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/`
 
-<p><a href="https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Judi Health launched Judi Rx Retire, an employer-sponsored Medicare Part D plan designed to improve pricing transparency and streamline benefits administration.</p> <p>The post <a href="https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/">Judi Health Launches Medicare Part D Plan for Employers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Judi Health launched Judi Rx Retire, an employer-sponsored Medicare Part D plan designed to improve pricing transparency and streamline benefits administration.</p> <p>The post <a href="https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/">Judi Health Launches Medicare Part D Plan for Employers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Making Genomic Data Actionable in Electronic Health Records: Practical Viewpoint on Standards, Governance, and Implementation](https://medinform.jmir.org/2026/1/e99130)
 
@@ -3596,9 +3460,9 @@ The reliability of emergent histopathology foundation models (Histo-FMs) for rea
 
 - Source: `hn_ai_health_signals` · published `2026-10-21` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html`
+- Event: `updated` · identity: `url:https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html`
 
-Hacker News community signal; score 47.
+Hacker News community signal; score 122.
 
 ### [When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight](https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/)
 
@@ -3624,21 +3488,157 @@ Startup acquisitions can reshape employees’ finances and careers, with individ
 
 Crunchbase News spoke with James Kim, partner at Reach Capital, about how Reach’s education roots inform its broader strategy, what it saw in AI detection company GPTZero, and why some of its best investments initially divided its own team. We also discussed how ownership stakes and secondary transactions have shaped the firm’s approach to returning capital.
 
+### [<b>Milk multi-omics links maternal health to infant growth</b>](https://www.nature.com/articles/d41591-026-00053-z)
+
+- Source: `nature_medicine` · published `2026-10-22` · freshness `fresh`
+- Reading value: `43` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00053-z`
+
+Researchers identify biomarkers that explain how maternal health is linked to mammary gland function, breast milk composition and infant growth, highlighting maternal nutrition as a public health priority.
+
 ### [A hybrid framework for Turner Syndrome facial detection: integrating deep feature learning and geometric prior knowledge under data scarcity](https://www.nature.com/articles/s41746-026-03221-0)
 
 - Source: `npj_digital_medicine` · published `2026-10-22` · freshness `fresh`
 - Reading value: `57` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03221-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03221-0`
 
 Turner Syndrome (TS) is a chromosomal disorder characterized by growth retardation and congenital ovarian dysgenesis. Given the considerable morbidity and mortality, early diagnosis and timely intervention are crucial to improving outcomes. However, the gold standard diagnostic method, karyotype analysis, is time-consuming and requires specialized laboratory expertise. Since TS patients often present distinct facial features, AI-based facial recognition could help identify patients with characteristic appearance as a screening tool. Inspired by the value-of-information principle, we propose a hybrid framework integrating deep feature learning and geometric prior knowledge under data scarcity. We retrospectively constructed this AI facial recognition model for TS detection and validated it in a prospective cohort. The proposed framework achieved 95.41% accuracy, 96.55% sensitivity, and 95.24% specificity, substantially simplifying the diagnostic process. When training was performed only on the hard subset obtained after difficulty-based stratification into three equal groups, the sensitivity reached 100.00%, indicating that all patients were correctly identified. Grad-CAM visualization of key facial regions improved model interpretability and aligned predictions with clinical insights. Our method offers a low-cost and easily accessible approach to TS screening. By allowing for an earlier detection of TS, particularly in medical resource-limited settings, this method has the potential to facilitate timely interventions. This novel paradigm also provides insight for facial recognition-aided diagnosis in other diseases.
 
-### [LLM agents play Pokemon showdown](https://olivergrabner.com/research/pokemon/)
+### [Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years](https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/)
 
-- Source: `hn_ai_health_signals` · published `2026-10-22` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://olivergrabner.com/research/pokemon/`
+- Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `53` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/`
 
-Hacker News community signal; score 26.
+A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while not puny, are still far below their former peaks.
+
+### [Developers bring incredible new app experiences to iPhone Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/)
+
+- Source: `apple_newsroom` · published `2026-10-22` · freshness `fresh`
+- Reading value: `7` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/`
+
+Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.
+
+### [Edwards secures FDA approval for tricuspid valve repair system](https://www.medicaldevice-network.com/news/edwards-fda-approval-tricuspid-valve-repair-system/)
+
+- Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
+- Reading value: `57` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/edwards-fda-approval-tricuspid-valve-repair-system/`
+
+<p>The US Food and Drug Administration (FDA) has approved Edwards Lifesciences’ tricuspid valve repair system, PASCAL Precision.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/edwards-fda-approval-tricuspid-valve-repair-system/">Edwards secures FDA approval for tricuspid valve repair system</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.](https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/)
+
+- Source: `fitbit_google_blog` · published `2026-10-22` · freshness `fresh`
+- Reading value: `10` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_.max-600x600.format-webp_5aUmqwN.webp">Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…
+
+### [Health insurance premiums jump 9%, and more Americans don’t have access to coverage](https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `50` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/?utm_campaign=rss`
+
+Working-age U.S. adults without health insurance rose in 2026. Half of all uninsured people did not seek needed care because of cost concerns, according to a new survey.
+
+### [INVEST Digital Health Celebrates Healthcare Innovation in Texas](https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/)
+
+- Source: `medcity_news` · published `2026-10-22` · freshness `fresh`
+- Reading value: `20` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/`
+
+<p><a href="https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/"><img width="600" height="337" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-600x337.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-600x337.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937.jpg 788w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>In addition to a packed conference agenda and tours of the Pegasus Park healthcare and life science innovation hub in Dallas, INVEST Digital Health also includes an innovation showcase with novel health tech and medtech offerings as well as networking opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/">INVEST Digital Health Celebrates Healthcare Innovation in Texas</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Large language models for multimodal clinical predictive modeling: a systematic review](https://www.nature.com/articles/s41746-026-03349-z)
+
+- Source: `npj_digital_medicine` · published `2026-10-22` · freshness `fresh`
+- Reading value: `62` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03349-z`
+
+The electronic health record (EHR) comprises structured and unstructured data, both of which are integral for comprehensively representing patient history. The emergence of large language models (LLMs) has enabled the incorporation of unstructured data modalities into machine learning models that leverage EHR data. In this systematic review, we characterize studies that utilize LLM-enabled multimodal predictive modeling with EHR data. Following a screening of 641 studies, 57 met inclusion criteria. We identified three strategies for LLM-based multimodal integration: embedding, extraction, and text fusion. Delineated by the format of the unstructured data at the time of fusion, all strategies yielded performance gains (average 6.4% increase) over single modality models. LLMs facilitated modeling by generating note-embeddings for downstream prediction, extracting clinically informative variables, and summarizing long text documents prior to integration. Building on our review, we identified LLM-enhanced predictive modeling considerations that include sample size, interpretability, and computational costs. This study supports the potential value of LLMs for EHR-based predictive modeling and provides a framework for future multimodal modeling tools.
+
+### [Multi-scale integration identifies an ox-LDL-autophagy-inflammasome framework linking osteoporosis and neurodegeneration](https://www.nature.com/articles/s41746-026-03371-1)
+
+- Source: `npj_digital_medicine` · published `2026-10-22` · freshness `fresh`
+- Reading value: `49` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03371-1`
+
+Osteoporosis (OP) and neurodegeneration frequently co-occur with advancing age, but the biological processes linking skeletal and neurological decline remain incompletely understood. To investigate the metabolic-inflammatory axis connecting skeletal and neurological degeneration, we integrated cross-tissue multi-omics, single-cell transcriptomics, in vitro macrophage assays, and systems-level ordinary differential equation (ODE)-based modeling. Population-level and genetically informed analyses consistently implicated metabolic burden and lipid-associated stress in both disease domains, whereas physical activity showed protective associations. Cross-tissue and single-cell analyses identified convergent autophagy- and inflammasome-related programs, while cross-tissue multi-omics highlighted a PHF23-MCL1-CLN3 autophagy-associated molecular module. In RAW264.7 macrophages, oxidized low-density lipoprotein (ox-LDL) exposure induced inflammatory activation, pro-inflammatory polarization, and autophagy-associated dysregulation, while PHF23 perturbation modified ox-LDL-induced inflammatory responses. A 12-state ODE model further provided a hypothesis-generating representation of dynamic interactions among ox-LDL-associated metabolic stress, autophagy regulation, inflammasome activation, macrophage polarization, and tissue-damage-related states. Together, these multi-scale findings provide convergent support for an ox-LDL-autophagy-inflammasome-associated framework linking metabolic dysfunction with skeletal and neurological degeneration and generate testable hypotheses for further experimental investigation.
+
+### [Opinion: The inherited disease my family called ‘it’ had a name, which changed everything](https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `19` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss`
+
+For 50 years, doctors shrugged about the disease running through Miranda Pappas’ family. Then she discovered something.
+
+### [Opinion: What I got wrong about the Affordable Care Act — and how to fix it](https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `21` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss`
+
+“The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.
+
+### [Oura Partners with Leading Virtual Care Platform MD Live to Provide Personalized Support for People Using GLP-1 Medications, Complementing Clinical Care](https://ouraring.wpengine.com/md-live-partnership/)
+
+- Source: `oura_blog` · published `2026-10-22` · freshness `fresh`
+- Reading value: `42` · status: `scored`
+- Event: `new` · identity: `url:https://ouraring.wpengine.com/md-live-partnership/`
+
+<p>We are launching a new partnership with MD Live by Evernorth – a national virtual care platform of board-certified physicians and licensed therapists providing primary care, 24/7 urgent care, behavioral health, and dermatology – to support a GLP-1 program. Eligible members enrolled in participating employer-sponsored health plans that offer MD Live Virtual Primary Care will [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/md-live-partnership/">Oura Partners with Leading Virtual Care Platform MD Live to Provide Personalized Support for People Using GLP-1 Medications, Complementing Clinical Care</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
+
+### [St Luke’s deploys hellocare.ai platform across Idaho sites in US](https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/)
+
+- Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
+- Reading value: `37` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/`
+
+<p>St Luke's Health System has selected hellocare.ai to implement AI-assisted virtual care programmes across its inpatient facilities in Idaho.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/">St Luke&#8217;s deploys hellocare.ai platform across Idaho sites in US</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction](https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `62` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss`
+
+As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.
+
+### [STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past](https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `57` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/?utm_campaign=rss`
+
+A KFF survey finds that rising healthcare costs are squeezing both employers and workers.
+
+### [The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.](https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `18` · status: `needs_review`
+- Event: `new` · identity: `url:https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/`
+
+In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight models, saying instead that lasting enterprise AI value will come from proprietary data, reliable deployment and measurable customer outcomes rather than expensive models alone.
+
+### [We are working with Voltus to build a 1-gigawatt virtual power plant.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/)
+
+- Source: `fitbit_google_blog` · published `2026-10-22` · freshness `fresh`
+- Reading value: `13` · status: `scored`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp">Google and Voltus are building a 1-gigawatt virtual power plant to boost grid reliability for 67 million people. See how this expansion works.
+
+### [Your Next Customer Might Be An Agent. Here’s How To Build Your Brand For Both Humans And AI.](https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `18` · status: `scored`
+- Event: `new` · identity: `url:https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/`
+
+As AI agents increasingly recommend and purchase products, brands must appeal to both machines and humans by documenting their voice, creating clear product descriptions and checking how AI summarizes their messaging. Guest author Toby Coulthard suggests that startups should build these practices in from the outset, preserving human appeal while measuring success through conversions and revenue rather than content volume.
 
 ---
 

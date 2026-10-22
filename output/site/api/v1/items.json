@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T06:07:40+00:00",
+  "generated_at": "2026-10-22T12:58:44+00:00",
   "as_of": "2026-10-22",
   "count": 22,
   "items": [
@@ -362,6 +362,125 @@
         "source_tier": "T1",
         "status": "scored",
         "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/",
+      "title": "UK government confirms indefinite EU CE mark recognition",
+      "original_title": "UK government confirms indefinite EU CE mark recognition",
+      "summary": "The decision effectively shelves post-Brexit plans that would have required CE-marked medtech to secure a separate tag for the UK market by 2030.",
+      "url": "https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/",
+      "source": "Medical Device Network",
+      "source_type": "专业媒体",
+      "published_at": "2026-10-22",
+      "topics": [
+        "business",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2026/10/shutterstock_2789131111.jpg",
+        "observed_in_sources": [
+          "medical_device_network"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "medical_device_network",
+        "upstream_id": "https://www.medicaldevice-network.com/?p=246156"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。"
+      },
+      "reading_value_score": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-22T13:00:46+00:00",
+        "input_hash": "405828a984e0e1f81523a28589037237a3b516a8c70b302c54fcb46527e4a403",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "industry",
+            "reason": "英国政府确认无限期承认欧盟CE标志，取消了2030年前需获取UKCA的要求，直接改变医疗器械进入英国市场的准入与合规规划，对制造商和医院采购方决策影响重大。限制在于材料信息较短，未提供具体实施细则或过渡条款细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261022210035102e8712048e4444",
+              "seconds": 5.5,
+              "usage": {
+                "completion_tokens": 134,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 804,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 938
+              }
+            },
+            "support": "The decision effectively shelves post-Brexit plans that would have required CE-marked medtech to secure a separate tag for the UK market by 2030.",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 9,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "industry",
+            "reason": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610222100401b4de85eb4d94937",
+              "seconds": 6.16,
+              "usage": {
+                "completion_tokens": 145,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 804,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 949
+              }
+            },
+            "support": "The decision effectively shelves post-Brexit plans that would have required CE-marked medtech to secure a separate tag for the UK market by 2030.",
+            "total": 74
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
       }
     },
     {
@@ -1204,128 +1323,6 @@
             },
             "support": "new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone",
             "total": 72
-          }
-        ],
-        "score": 73,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04692-0",
-      "title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-      "original_title": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-      "summary": "Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models.",
-      "url": "https://www.nature.com/articles/s41591-026-04692-0",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-19",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04692-0",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04692-0"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
-      },
-      "reading_value_score": 73,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-20T06:02:35+00:00",
-        "input_hash": "5a21ca41d53a94d5fd8888efb92e7aa8a77fae7ba969100f94db8db49aa0e15b",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "多组学（基因组、转录组、甲基化）整合分析423例NDMM样本并在三个外部队列（合计1451例）独立验证MRD相关分子特征与预测模型（AUC 0.77），对骨髓瘤疗效预测研究和早期治疗决策有直接参考价值。局限是预测性能中等且为回顾性队列分析，尚需前瞻应用验证临床获益。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610201402268b13deb191094d16",
-              "seconds": 3.86,
-              "usage": {
-                "completion_tokens": 168,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1291,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1459
-              }
-            },
-            "support": "Postinduction MRD-negativity rates varied significantly across gene expression subtypes, with HP1/HP3 and MS groups showing superior responses compared to the MF and CD2 subtypes.",
-            "total": 74
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102014023082b2df11be76413f",
-              "seconds": 4.6,
-              "usage": {
-                "completion_tokens": 159,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1291,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1280
-                },
-                "total_tokens": 1450
-              }
-            },
-            "support": "A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77",
-            "total": 73
           }
         ],
         "score": 73,
