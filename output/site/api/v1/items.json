@@ -1,9 +1,371 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T06:02:45+00:00",
+  "generated_at": "2026-10-23T12:38:05+00:00",
   "as_of": "2026-10-23",
-  "count": 19,
+  "count": 24,
   "items": [
+    {
+      "id": "pmid:42906564",
+      "title": "Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.",
+      "original_title": "Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.",
+      "summary": "Neoadjuvant immune checkpoint blockade induces high pathological response rates in patients with locally advanced mismatch repair-deficient (dMMR) colon cancer, yet long-term survival outcomes have not been established. Previously, we reported safety (a primary endpoint) and pathological response (a secondary endpoint) data from the NICHE-2 trial. Here, we report the primary efficacy endpoint of 3-year disease-free survival and the exploratory endpoint of 5-year overall survival. In this single-arm, multicentre, phase 2, NICHE-2 trial, patients with previously untreated, clinical stage 2 or 3, resectable dMMR colon cancer received a single dose of intravenous ipilimumab (1 mg per kg) on day 1, and two doses of intravenous nivolumab (3 mg per kg) on days 1 and 15, followed by surgery in one of the six participating hospitals in the Netherlands.",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01602-8",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42906564",
+        "upstream_id": "42906564"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "NICHE-2报告dMMR结肠癌新辅助免疫治疗3年DFS与5年OS均为100%的长期终点，可能改变该人群标准治疗并支持去手术化研究设计。限制在于单臂II期设计、无随机对照，且OS为事后探索性分析，结论需谨慎外推。"
+      },
+      "reading_value_score": 83,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T12:39:58+00:00",
+        "input_hash": "0e23bf2bae5816b3a11a179979e6a49776b11110b7c4023e986c691f05c3468e",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "NICHE-2报告dMMR结肠癌新辅助免疫治疗3年DFS与5年OS均为100%的长期终点，可能改变该人群标准治疗并支持去手术化研究设计。限制在于单臂II期设计、无随机对照，且OS为事后探索性分析，结论需谨慎外推。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "NICHE-2三期随访报告dMMR结肠癌新辅助双免治疗后3年DFS与5年OS均达100%，为该方案成为标准治疗提供了迄今最长期生存证据，并附ctDNA清除与病理应答的关联数据，可直接指导围手术期免疫治疗设计与生物标志物研究。限制为单臂II期设计、无对照，且由药企资助，生存率比较需谨慎解读。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261023203949470bb1a3fdda49b2",
+              "seconds": 5.43,
+              "usage": {
+                "completion_tokens": 170,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1458,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1628
+              }
+            },
+            "support": "treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%",
+            "total": 84
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "NICHE-2报告dMMR结肠癌新辅助免疫治疗3年DFS与5年OS均为100%的长期终点，可能改变该人群标准治疗并支持去手术化研究设计。限制在于单臂II期设计、无随机对照，且OS为事后探索性分析，结论需谨慎外推。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102320395409016262691a4fb0",
+              "seconds": 3.77,
+              "usage": {
+                "completion_tokens": 158,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1458,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1616
+              }
+            },
+            "support": "In patients with locally advanced dMMR colon cancer, treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%.",
+            "total": 83
+          }
+        ],
+        "score": 83,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42907095",
+      "title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+      "original_title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+      "summary": "To assess the added value of acetic acid chromoendoscopy (AAC) for the detection of dysplasia and oesophageal adenocarcinoma during Barrett's oesophagus surveillance endoscopies. AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and Barrett's oesophagus length).",
+      "url": "https://doi.org/10.1136/bmj-2026-100872",
+      "source": "The BMJ · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42907095",
+        "upstream_id": "42907095"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "这是一项18家社区医院、2267例的阶梯楔形整群随机试验，为Barrett食管监测中醋酸染色内镜提供了明确阴性结果，可直接支持研究者与消化内镜团队调整监测方案设计。主要局限是阴性结论，靶向前瞻注册但为开放标签，检测率基线较低可能影响统计效能。"
+      },
+      "reading_value_score": 78,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T12:40:24+00:00",
+        "input_hash": "80e7c8e9558c39a2eab51c79351da67ea9f5fce803292315ec0d27626571b806",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是一项18家社区医院、2267例的阶梯楔形整群随机试验，为Barrett食管监测中醋酸染色内镜提供了明确阴性结果，可直接支持研究者与消化内镜团队调整监测方案设计。主要局限是阴性结论，靶向前瞻注册但为开放标签，检测率基线较低可能影响统计效能。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是一项18家社区医院、2267例的阶梯楔形整群随机试验，为Barrett食管监测中醋酸染色内镜提供了明确阴性结果，可直接支持研究者与消化内镜团队调整监测方案设计。主要局限是阴性结论，靶向前瞻注册但为开放标签，检测率基线较低可能影响统计效能。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610232040125367606ac0ba4138",
+              "seconds": 4.17,
+              "usage": {
+                "completion_tokens": 148,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1312,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1460
+              }
+            },
+            "support": "Use of AAC did not improve detection of neoplasia in patients with Barrett's oesophagus undergoing endoscopic surveillance in routine clinical practice.",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该阶梯楔形整群随机试验以2267例真实社区医院人群给出明确阴性结果：醋酸染色内镜并未提高Barrett食管肿瘤性病变检出率（OR 0.97），对内镜监测策略和成本决策有直接指导意义；设计规范、前瞻注册、结局经病理确认，证据等级高。局限为开放标签设计且AAC依从性约82%，可能轻微稀释效应估计。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610232040167291b9f160eb4776",
+              "seconds": 8.0,
+              "usage": {
+                "completion_tokens": 222,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1312,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1534
+              }
+            },
+            "support": "AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and ",
+            "total": 82
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42904878",
+      "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
+      "original_title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
+      "summary": "Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA). At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively).",
+      "url": "https://doi.org/10.1056/nejmoa2611477",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42904878",
+        "upstream_id": "42904878"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "两项三期随机双盲安慰剂对照试验提供了retatrutide改善中重度OSA患者AHI的首个大规模剂量-反应证据（9mg差异约-24.4/-14.4事件/小时），并同步报告减重和ITT敏感性分析，对睡眠医学和GLP-1类多重激动剂研究设计均有参考价值；主要局限为药物尚未获批、以减重为中介机制未直接比较CPAP，安全性仅报告胃肠道事件为主。"
+      },
+      "reading_value_score": 78,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T12:39:48+00:00",
+        "input_hash": "59dec6be713e2716233d5d3184c0913b9fa296f571607f6d143967ec3fea75ba",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "两项三期随机双盲安慰剂对照试验提供了retatrutide改善中重度OSA患者AHI的首个大规模剂量-反应证据（9mg差异约-24.4/-14.4事件/小时），并同步报告减重和ITT敏感性分析，对睡眠医学和GLP-1类多重激动剂研究设计均有参考价值；主要局限为药物尚未获批、以减重为中介机制未直接比较CPAP，安全性仅报告胃肠道事件为主。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "两项三期随机双盲安慰剂对照试验提供了retatrutide改善中重度OSA患者AHI的首个大规模剂量-反应证据（9mg差异约-24.4/-14.4事件/小时），并同步报告减重和ITT敏感性分析，对睡眠医学和GLP-1类多重激动剂研究设计均有参考价值；主要局限为药物尚未获批、以减重为中介机制未直接比较CPAP，安全性仅报告胃肠道事件为主。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261023203940b2f0cdae9d254909",
+              "seconds": 4.0,
+              "usage": {
+                "completion_tokens": 187,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1664,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1851
+              }
+            },
+            "support": "In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项3期随机对照试验显示retatrutide显著降低OSA患者的AHI，为肥胖相关OSA的药物治疗提供新证据，试验设计和estimand处理也可供睡眠研究借鉴；结果为摘要级，长期临床结局与安全性仍需进一步验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610232039447dbc844df77a4407",
+              "seconds": 3.97,
+              "usage": {
+                "completion_tokens": 133,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1664,
+                "prompt_tokens_details": {
+                  "cached_tokens": 704
+                },
+                "total_tokens": 1797
+              }
+            },
+            "support": "In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide",
+            "total": 82
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
     {
       "id": "pmid:42895716",
       "title": "A Common CD36 Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry.",
@@ -115,6 +477,128 @@
             },
             "support": "an ancestry-specific CD36 variant contributed more to DCM burden among individuals of African ancestry than established genes for DCM, including TTN truncating variants",
             "total": 79
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04707-w",
+      "title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
+      "original_title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
+      "summary": "In patients with non-Hodgkin lymphoma (NHL) treated with chimeric antigen receptor (CAR) T cell therapy, factors associated with efficacy overlap with prognostic biomarkers. A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival (PFS; hazard ratio = 0.46, 95% confidence interval: 0.31−0.68, P = 9.8 × 10−5, high versus low naive-like T cell groups) without impacting safety. In multivariate models, the naive-like phenotype outperformed clinicopathologic features such as inflammatory markers and tumor burden, remaining significant after adjusting for product expansion. The key findings were validated in an independent cohort of 203 patients treated with axi-cel-based therapy or brexucabtagene autoleucel.",
+      "url": "https://www.nature.com/articles/s41591-026-04707-w",
+      "source": "Nature Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-23",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04707-w",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04707-w"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T12:39:19+00:00",
+        "input_hash": "072a82d4065ed70604c24b3612750bb26d6a4f13adc17eb4625f0687596d00f6",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "基于580例多试验队列加203例独立验证，明确了产品中初始样T细胞比例与CAR T疗效的关联，对细胞治疗产品质量控制、患者分层和早干预策略有直接研究价值；限制为回顾性多试验汇总分析，因果性与前瞻验证仍待确立。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261023203910e76043f3136c4a8d",
+              "seconds": 5.71,
+              "usage": {
+                "completion_tokens": 135,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1234,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1369
+              }
+            },
+            "support": "A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102320391642ff3974b50e45e3",
+              "seconds": 3.44,
+              "usage": {
+                "completion_tokens": 171,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 7
+                },
+                "prompt_tokens": 1234,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1405
+              }
+            },
+            "support": "A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival (PFS; hazard ratio = 0.46",
+            "total": 77
           }
         ],
         "score": 77,
@@ -1206,26 +1690,26 @@
       }
     },
     {
-      "id": "url:https://www.nature.com/articles/s41591-026-04660-8",
-      "title": "Global, regional and national burden of pertussis in 1990–2023: a Global Burden of Disease study",
-      "original_title": "Global, regional and national burden of pertussis in 1990–2023: a Global Burden of Disease study",
-      "summary": "Despite long-standing immunization programs, pertussis remains a major cause of vaccine-preventable mortality, particularly among infants. Here we present a primary assessment of global pertussis incidence, mortality and disability-adjusted life years across 204 countries and territories from 1990 to 2023. We show that despite short-term pandemic-period fluctuations, the dominant global pattern from 1990 to 2023 was long-term decline: age-standardized mortality decreased by 61.2% and age-standardized incidence by 41.6%. Relative to the anomalously low pandemic-period estimates, incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023. In 2023 alone, we estimated 18.9 million cases and 115,000 deaths attributable to pertussis.",
-      "url": "https://www.nature.com/articles/s41591-026-04660-8",
-      "source": "Nature Medicine",
+      "id": "pmid:42905692",
+      "title": "Childhood Cancer Risk After Assisted Reproductive Technology.",
+      "original_title": "Childhood Cancer Risk After Assisted Reproductive Technology.",
+      "summary": "Childhood cancer risk after assisted reproductive technology (ART) remains uncertain, particularly by procedure and cancer type. To examine associations between ART and childhood cancer overall and by ART modality and cancer type. Nationwide Danish cohort of 1 086 136 live-born children from 1996 to 2012, of whom 37 228 (3.4%) were conceived using ART, with follow-up through 2023. Maternal ART, classified as in vitro fertilization (IVF), intracytoplasmic sperm injection, or frozen embryo transfer. Incident childhood cancer. Cox proportional hazards models estimated hazard ratios (HRs); Poisson models estimated incidence rates. Non-ART births were the primary reference; secondary analyses used children of women with a history of infertility and children conceived using IVF as reference groups. During a median follow-up of 20 years, 3736 cancers occurred.",
+      "url": "https://doi.org/10.1001/jama.2026.18862",
+      "source": "JAMA · 摘要索引",
       "source_type": "期刊论文",
       "published_at": "2026-10-21",
       "topics": [
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "nature_medicine"
+          "jama_abstracts"
         ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04660-8",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04660-8"
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42905692",
+        "upstream_id": "42905692"
       },
       "sections": [
         "research"
@@ -1235,20 +1719,23 @@
           "papers"
         ]
       },
-      "research_stages": [],
+      "research_stages": [
+        "design",
+        "analysis"
+      ],
       "recommendation_reasons": {
-        "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
+        "research": "全国性百万级出生队列、随访约20年，按ART术式分层显示冷冻胚胎移植和ICSI与儿童癌症风险升高相关，且以不孕史和IVF为对照的二次分析提示操作相关因素值得进一步研究；主要限制为观察性设计、绝对风险低，不能确立因果。"
       },
       "reading_value_score": 73,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-21T12:58:13+00:00",
-        "input_hash": "e18ae915849601b3096242d6450b8abf07178003b76ffb119122d7c5460770f7",
+        "evaluated_at": "2026-10-23T12:40:06+00:00",
+        "input_hash": "72afcb66ec8368df59d1ea760d4cd22ef33842f5e40520eacbb66f50b839b1a4",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。",
+        "reason": "全国性百万级出生队列、随访约20年，按ART术式分层显示冷冻胚胎移植和ICSI与儿童癌症风险升高相关，且以不孕史和IVF为对照的二次分析提示操作相关因素值得进一步研究；主要限制为观察性设计、绝对风险低，不能确立因果。",
         "reviews": [
           {
             "audiences": [
@@ -1257,30 +1744,30 @@
             "axes": {
               "evidence": 8,
               "novelty": 6,
-              "relevance": 7,
+              "relevance": 8,
               "significance": 7,
               "usefulness": 6
             },
             "kind": "research",
-            "reason": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。",
+            "reason": "全国性百万级出生队列、随访约20年，按ART术式分层显示冷冻胚胎移植和ICSI与儿童癌症风险升高相关，且以不孕史和IVF为对照的二次分析提示操作相关因素值得进一步研究；主要限制为观察性设计、绝对风险低，不能确立因果。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261021205803566b1307debf4e1c",
-              "seconds": 4.66,
+              "request_id": "20261023203958ddd778731bca4e04",
+              "seconds": 3.09,
               "usage": {
-                "completion_tokens": 202,
+                "completion_tokens": 141,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 8
+                  "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1113,
+                "prompt_tokens": 1447,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1315
+                "total_tokens": 1588
               }
             },
-            "support": "incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023",
-            "total": 70
+            "support": "ART, particularly frozen embryo transfer and intracytoplasmic sperm injection, was associated with increased childhood cancer risk, but absolute risks were low.",
+            "total": 71
           },
           {
             "audiences": [
@@ -1291,28 +1778,28 @@
               "novelty": 7,
               "relevance": 8,
               "significance": 8,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "GBD 2023对百日咳1990–2023年全球、区域负担的系统估计，给出疫情后反弹（发病率回升102.6%）与死亡向撒哈拉以南非洲集中的量化证据，可支持疫苗策略与监测研究。限制为模型化估计，反弹区间较宽，需结合本地监测数据解读。",
+            "reason": "丹麦全国约109万儿童队列按ART方式分层估计儿童癌症风险，发现冷冻胚胎移植和ICSI与风险升高相关而IVF无关联，提示操作相关因素而非不孕本身；观察性设计无法确立因果，但多参照组敏感性分析增强了可信度，对生殖医学临床沟通与后续机制研究有直接价值。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610212058072cc594608c524ea4",
-              "seconds": 5.72,
+              "request_id": "2026102320400169b0d6a99af04ab5",
+              "seconds": 4.52,
               "usage": {
-                "completion_tokens": 189,
+                "completion_tokens": 156,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 15
+                  "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1113,
+                "prompt_tokens": 1447,
                 "prompt_tokens_details": {
-                  "cached_tokens": 0
+                  "cached_tokens": 1408
                 },
-                "total_tokens": 1302
+                "total_tokens": 1603
               }
             },
-            "support": "incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023",
-            "total": 77
+            "support": "Nationwide Danish cohort of 1 086 136 live-born children from 1996 to 2012, of whom 37 228 (3.4%) were conceived using ART",
+            "total": 76
           }
         ],
         "score": 73,
@@ -1567,28 +2054,27 @@
       }
     },
     {
-      "id": "url:https://www.nature.com/articles/s41551-026-01812-6",
-      "title": "通过持续学习重新利用成人人工智能射线照相模型进行新生儿护理：一项国际多中心研究",
-      "original_title": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
-      "summary": "在这里，我们对来自 20 个国家和地区 30 个新生儿重症监护病房的新生儿胸片进行了一项国际回顾性研究，评估了持续学习作为一种隐私保护方法，以将成人气管插管评估的深度学习模型应用于新生儿护理。持续学习在 30 个站点中的 29 个站点中实现了较低的解剖标志定位误差（医院特定微调为 0.67 厘米，对于仅限成人模型为 4.30 厘米），并在 30 个站点中的 27 个站点中改进了深部插管的检测。",
-      "url": "https://www.nature.com/articles/s41551-026-01812-6",
-      "source": "Nature Biomedical Engineering",
+      "id": "url:https://www.nature.com/articles/s41591-026-04734-7",
+      "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "original_title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "summary": "Camupepimut (ELI-002 7P) drives mutated KRAS (mKRAS)-specific T cell responses that correlated with disease-free survival (DFS) and overall survival (OS) in patients with mKRAS pancreatic adenocarcinoma (PDAC) in the phase 1 AMPLIFY-201 trial. Post hoc multivariate Cox regression analysis of DFS indicated an improved outcome for camupepimut (adjusted HR 0.47, P = 0.0086), a worse outcome for stage III disease (adjusted HR 2.29, P = 0.0127), an elevated baseline CA19-9 (adjusted HR 3.16, P < 0.0001) and baseline circulating tumor DNA (ctDNA) positivity (adjusted HR 5.99, P < 0.0001). In camupepimut-treated patients, mKRAS-specific T cell response >9.17-fold over baseline (82.2%, 74/90) correlated with improved DFS (HR 0.22, P < 0.0001), with the median DFS not reached versus 6.08 months for above and below 9.17-fold, respectively.",
+      "url": "https://www.nature.com/articles/s41591-026-04734-7",
+      "source": "Nature Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-10-13",
+      "published_at": "2026-10-23",
       "topics": [
         "hospital",
-        "research",
-        "regulation"
+        "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "nature_biomedical_engineering"
+          "nature_medicine"
         ],
         "retrieved_via": "rss",
-        "source_id": "nature_biomedical_engineering",
-        "summary_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41551-026-01812-6&format=json&resultType=core",
-        "upstream_id": "https://www.nature.com/articles/s41551-026-01812-6"
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04734-7",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04734-7"
       },
       "sections": [
         "research"
@@ -1599,89 +2085,88 @@
         ]
       },
       "research_stages": [
-        "data",
-        "analysis"
+        "validation"
       ],
       "recommendation_reasons": {
-        "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
+        "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
       },
-      "reading_value_score": 71,
+      "reading_value_score": 72,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-19T16:59:59+00:00",
-        "input_hash": "6c4e2c9914be2a6c5d046463254d2e58a957f6e247a21e7e0302539f21abcc68",
+        "evaluated_at": "2026-10-23T12:39:10+00:00",
+        "input_hash": "852bddb0dbd34d6d2d4387f4a45c7bca6ab7309308db23ac3098942283faf641",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
+        "reason": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。",
         "reviews": [
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 7,
+              "evidence": 8,
               "novelty": 7,
               "relevance": 8,
               "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
+            "reason": "这是mKRAS特异性淋巴结靶向疫苗camupepimut在胰腺癌辅助治疗中的随机II期试验，主要终点DFS未达标，但ctDNA阴性、既往未放疗亚组及T细胞应答倍数与DFS的关联等预设与探索性分析可指导III期人群选择和免疫监测生物标志物设计。限制在于主要终点阴性、事后多变量分析有验证性不足，效果信号不能等同于临床获益。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610200059530a3c1cf4a89f4904",
-              "seconds": 3.22,
+              "request_id": "202610232039012e4ecae8a6574af9",
+              "seconds": 5.0,
               "usage": {
-                "completion_tokens": 166,
+                "completion_tokens": 206,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 21
                 },
-                "prompt_tokens": 984,
+                "prompt_tokens": 1499,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1150
+                "total_tokens": 1705
               }
             },
-            "support": "Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling. Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29",
-            "total": 71
+            "support": "The primary DFS endpoint was not met (median 23.8 versus 21.2 months; HR 0.85, P = 0.5329). However, prespecified and exploratory analyses were informative.",
+            "total": 74
           },
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 7,
-              "novelty": 7,
+              "evidence": 6,
+              "novelty": 8,
               "relevance": 8,
               "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "多中心研究给出了持续学习在新生儿胸片中复用成人模型的具体量化结果（各站点地标定位误差对比），且采用每院50张、无需数据池化的隐私保护设计，对儿科AI部署和跨机构协作研究设计有直接参考价值；属于回顾性研究，定位误差改善不等于临床结局获益，需注意外推限制。",
+            "reason": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "2026102000595653911fa40bc44dbd",
-              "seconds": 3.46,
+              "request_id": "20261023203906424fe209ad18424d",
+              "seconds": 3.75,
               "usage": {
-                "completion_tokens": 166,
+                "completion_tokens": 185,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 20
                 },
-                "prompt_tokens": 984,
+                "prompt_tokens": 1499,
                 "prompt_tokens_details": {
-                  "cached_tokens": 960
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1150
+                "total_tokens": 1684
               }
             },
-            "support": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites",
-            "total": 71
+            "support": "The primary DFS endpoint was not met (median 23.8 versus 21.2 months; HR 0.85, P = 0.5329).",
+            "total": 70
           }
         ],
-        "score": 71,
+        "score": 72,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -2281,6 +2766,127 @@
               }
             },
             "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
+            "total": 67
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42906565",
+      "title": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.",
+      "original_title": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.",
+      "summary": "Endometrial ablation is an established and effective treatment for women with heavy menstrual bleeding, but many patients require further treatment, with approximately 10% ultimately undergoing a hysterectomy within 2 years. The insertion of a levonorgestrel-releasing intrauterine system (LNG-IUS) immediately after endometrial ablation might inactivate residual untreated endometrium or prevent its regeneration, thereby preventing recurrent symptoms necessitating a hysterectomy. The aim of the study was to assess whether LNG-IUS insertion immediately after endometrial ablation in women with heavy menstrual bleeding reduced the need for subsequent hysterectomy within 2 years compared with endometrial ablation alone. This multicentre, open-label, randomised, controlled, superiority trial was conducted in 34 hospitals in the Netherlands.",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01536-9",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42906565",
+        "upstream_id": "42906565"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
+      },
+      "reading_value_score": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T12:40:12+00:00",
+        "input_hash": "baeb09235c6a758036c335a029e00c6234f166bdab8c5340422f7414ee315402",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "34家医院715例随机对照试验显示子宫内膜消融后即刻放置LNG-IUS将2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多治疗路径提供了直接可用的临床决策证据；局限为开放标签设计及6%失访，结果仍为摘要级判断。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261023203948c4c697a60591455a",
+              "seconds": 3.92,
+              "usage": {
+                "completion_tokens": 199,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1516,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1715
+              }
+            },
+            "support": "A hysterectomy was done in 15 (4%) of 342 participants in the combined treatment group versus 34 (10%) of 331 participants in the endometrial ablation group, corresponding to a relative risk (RR) of 0",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 6,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102320395225a33cc15879488f",
+              "seconds": 19.65,
+              "usage": {
+                "completion_tokens": 205,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1516,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1472
+                },
+                "total_tokens": 1721
+              }
+            },
+            "support": "A hysterectomy was done in 15 (4%) of 342 participants in the combined treatment group versus 34 (10%) of 331 participants in the endometrial ablation group, corresponding to a relative risk (RR) of 0",
             "total": 67
           }
         ],

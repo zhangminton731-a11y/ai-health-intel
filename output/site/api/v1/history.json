@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T06:02:45+00:00",
+  "generated_at": "2026-10-23T12:38:05+00:00",
   "as_of": "2026-10-23",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -131,6 +131,132 @@
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04660-8",
+      "t": "",
+      "te": "Global, regional and national burden of pertussis in 1990–2023: a Global Burden of Disease study",
+      "s": "",
+      "se": "Despite long-standing immunization programs, pertussis remains a major cause of vaccine-preventable mortality, particularly among infants. Here we present a primary assessment of global pertussis incidence, mortality and disability-adjusted life years across 204 countries and territories from 1990 to 2023. We show that despite short-term pandemic-period fluctuations, the dominant global pattern from 1990 to 2023 was long-term decline: age-standardized mortality decreased by 61.2% and age-standardized incidence by 41.6%. Relative to the anomalously low pandemic-period estimates, incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023. In 2023 alone, we estimated 18.9 million cases and 115,000 deaths attributable to pertussis.",
+      "u": "https://www.nature.com/articles/s41591-026-04660-8",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04660-8",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04660-8"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-21T12:58:13+00:00",
+        "input_hash": "e18ae915849601b3096242d6450b8abf07178003b76ffb119122d7c5460770f7",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261021205803566b1307debf4e1c",
+              "seconds": 4.66,
+              "usage": {
+                "completion_tokens": 202,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 8
+                },
+                "prompt_tokens": 1113,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1315
+              }
+            },
+            "support": "incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "GBD 2023对百日咳1990–2023年全球、区域负担的系统估计，给出疫情后反弹（发病率回升102.6%）与死亡向撒哈拉以南非洲集中的量化证据，可支持疫苗策略与监测研究。限制为模型化估计，反弹区间较宽，需结合本地监测数据解读。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610212058072cc594608c524ea4",
+              "seconds": 5.72,
+              "usage": {
+                "completion_tokens": 189,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 15
+                },
+                "prompt_tokens": 1113,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1302
+              }
+            },
+            "support": "incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023",
+            "total": 77
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-10-21",
+      "reasons": {
+        "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
       },
       "historical": true
     },
@@ -783,6 +909,137 @@
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41551-026-01812-6",
+      "t": "通过持续学习重新利用成人人工智能射线照相模型进行新生儿护理：一项国际多中心研究",
+      "te": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
+      "s": "在这里，我们对来自 20 个国家和地区 30 个新生儿重症监护病房的新生儿胸片进行了一项国际回顾性研究，评估了持续学习作为一种隐私保护方法，以将成人气管插管评估的深度学习模型应用于新生儿护理。持续学习在 30 个站点中的 29 个站点中实现了较低的解剖标志定位误差（医院特定微调为 0.67 厘米，对于仅限成人模型为 4.30 厘米），并在 30 个站点中的 27 个站点中改进了深部插管的检测。",
+      "se": "Here we present an international retrospective study of neonatal chest radiographs from 30 neonatal intensive care units across 20 countries and territories, evaluating continual learning as a privacy-preserving approach to adapt a deep learning model for adult endotracheal tube assessment to neonatal care. Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites, with improved detection of deep intubations at 27 of 30 sites.",
+      "u": "https://www.nature.com/articles/s41551-026-01812-6",
+      "image": "",
+      "src": "Nature Biomedical Engineering",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "regulation"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_biomedical_engineering"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_biomedical_engineering",
+        "summary_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41551-026-01812-6&format=json&resultType=core",
+        "upstream_id": "https://www.nature.com/articles/s41551-026-01812-6"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T16:59:59+00:00",
+        "input_hash": "6c4e2c9914be2a6c5d046463254d2e58a957f6e247a21e7e0302539f21abcc68",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200059530a3c1cf4a89f4904",
+              "seconds": 3.22,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1150
+              }
+            },
+            "support": "Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling. Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心研究给出了持续学习在新生儿胸片中复用成人模型的具体量化结果（各站点地标定位误差对比），且采用每院50张、无需数据池化的隐私保护设计，对儿科AI部署和跨机构协作研究设计有直接参考价值；属于回顾性研究，定位误差改善不等于临床结局获益，需注意外推限制。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102000595653911fa40bc44dbd",
+              "seconds": 3.46,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1150
+              }
+            },
+            "support": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "10 天前",
+      "date": "2026-10-13",
+      "reasons": {
+        "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
       },
       "historical": true
     },
@@ -2237,9 +2494,10 @@
     {
       "date": "2026-10-21",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41746-026-03418-3"
+        "url:https://www.nature.com/articles/s41746-026-03418-3",
+        "url:https://www.nature.com/articles/s41591-026-04660-8"
       ],
-      "minutes": 3
+      "minutes": 5
     },
     {
       "date": "2026-10-20",
@@ -2267,6 +2525,13 @@
       "date": "2026-10-15",
       "item_ids": [
         "url:https://www.jmir.org/article/view/jmir_v28i1e102768"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-10-13",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41551-026-01812-6"
       ],
       "minutes": 1
     },
