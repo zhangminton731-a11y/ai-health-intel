@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-23
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 456
+> Daily status: **complete_with_warning** · sources 26/26 · items 457
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 21
+## Scan · 20
 
 ### [A Common CD36 Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry.](https://doi.org/10.1001/jama.2026.18449)
 
@@ -122,14 +122,6 @@ Despite long-standing immunization programs, pertussis remains a major cause of 
 
 <h4>Background</h4>Medicare Advantage insurers conduct in-home health risk assessments (HRAs) to identify high-risk patients and facilitate appropriate care. Critics argue this practice increases risk-adjusted payments without improving quality. Comprehensive data on use of in-home HRAs and downstream treatment are lacking.<h4>Objective</h4>To examine trends in cardiovascular conditions diagnosed during in-home HRAs, characteristics associated with HRA-based diagnoses, and treatment rates after diagnoses.<h4>Design</h4>Cohort study.<h4>Setting</h4>Population-based.<h4>Participants</h4>Medicare Advantage beneficiaries.<h4>Measurements</h4>Using 100% Medicare claims, trends in the proportion of cardiovascular conditions diagnosed during in-home HRAs (vs. facility-based visits) were examined. Multivariable logistic regression models were fit to estimate the association between beneficiary- and plan-level characteristics and HRA-based diagnoses and compare treatment rates across settings.<h4>Results</h4>Among 21 496 506 Medicare Advantage beneficiaries diagnosed with a cardiovascular risk factor or disease, the proportion diagnosed during in-home HRAs increased between 2018 and 2022 for hypertension (45.9% to 47.7%), hyperlipidemia (57.8% to 66.7%), diabetes (47.8% to 51.6%), atrial fibrillation (30.0% to 36.0%), ischemic heart disease (37.2% to 41.6%), peripheral vascular disease (64.5% to 73.9%), and heart failure (34.7% to 42.6%). Racial and ethnic minority beneficiaries and those enrolled in lower-rated plans were more likely to receive HRA-based diagnoses. Treatment rates were substantially lower after HRA-based diagnoses across all conditions.<h4>Limitations</h4>Differences in the severity of conditions between groups could not be assessed. Prescription fills were used as a proxy for management. Observed differences in the diagnosis and treatment of conditions across encounter settings may be susceptible to unmeasured confounding.<h4>Conclusion</h4>Among Medicare Advantage beneficiaries, an increasingly large share of cardiovascular conditions are being diagnosed through in-home HRAs, but treatment rates after these diagnoses are consistently lower than after facility-based encounters.<h4>Primary funding source</h4>National Heart, Lung, and Blood Institute.
 
-### [GUARD-LGG: a glioma upfront AI-driven radiotherapy response decipher for lower-grade glioma](https://www.nature.com/articles/s41746-026-03112-4)
-
-- Source: `npj_digital_medicine` · published `2026-10-20` · freshness `fresh`
-- Reading value: `72` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03112-4`
-
-Radiotherapy (RT) remains a cornerstone in managing lower-grade glioma (LGG), but its response varies widely. Reliable pre-treatment prediction of RT response could facilitate patient management but remains unavailable. Here we present GUARD-LGG, a machine learning model designed to predict early RT response in LGG before treatment. GUARD-LGG was trained on 963 patients from a major center, tested on 187 patients from seven independent institutions, and 328 patients prospectively enrolled in a registered clinical trial. GUARD-LGG achieved AUCs of 0.946 (95% CI: 0.938–0.962), 0.929 (95% CI: 0.894–0.965), 0.882 (95% CI: 0.830–0.934), and 0.913 (95% CI: 0.878–0.949) in the training, internal validation, external, and prospective test sets, respectively. Model interpretation highlighted residual tumor, age, T2-weighted texture roughness and T1-weighted contrast intensity changes as major predictors. Radiogenomic analyses suggested potential associations between predicted unfavorable RT response and enrichment of RT resistance-related pathways. Consistently, patients with predicted unfavorable RT response exhibited shorter overall survival. In conclusion, GUARD-LGG enables individualized prediction of early RT response before therapy, offering a tool for pre-treatment response stratification in LGG.
-
 ### [Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study](https://www.nature.com/articles/s41551-026-01812-6)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-13` · freshness `fresh`
@@ -182,7 +174,7 @@ The U.S. Food and Drug Administration today granted accelerated approval for a n
 
 No items.
 
-## Archive · 435
+## Archive · 437
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1680,14 +1672,6 @@ The U.S. Food and Drug Administration today approved the Autus Size-Adjustable V
 
 <h4>Importance</h4>The 2026 American College of Cardiology/American Heart Association/Multisociety Dyslipidemia Guideline newly recommends selective use of coronary artery calcium (CAC) scoring based on a 10-year risk of 3% to less than 10% estimated with the Predicting Risk of Cardiovascular Disease EVENTS (PREVENT) atherosclerotic cardiovascular disease (ASCVD) equations. However, the utility of CAC scoring alongside the PREVENT equations for ASCVD risk estimation is not known.<h4>Objective</h4>To determine the change in predictive utility when adding CAC scores to the PREVENT-ASCVD equations.<h4>Design, setting, and participants</h4>Longitudinal observational cohort study conducted at 6 sites in the United States and enrolling adult participants aged 45 to 79 years without ASCVD at baseline in the Multi-Ethnic Study of Atherosclerosis.<h4>Exposures</h4>Ten-year ASCVD risk with the PREVENT-ASCVD equations before and after adding CAC scores.<h4>Main outcomes</h4>Performance metrics for estimation of risk of fatal and nonfatal ASCVD, assessed using the Harrell C statistic, calibration, and net reclassification improvement (NRI) for newly defined ASCVD risk categories: low (<3%); borderline (3% to <5%); intermediate (5% to <10%); and high (≥10%).<h4>Results</h4>A total of 6098 participants were included. At baseline, participant mean age was 61.4 (SD, 9.6) years, 52% were female, mean estimated 10-year ASCVD risk was 6.4% (SD, 4.8%) with the PREVENT-ASCVD base equations, and 49% had a CAC score greater than 0. During 10 years of follow-up, 366 (6%) experienced an ASCVD event. The Harrell C statistic for the PREVENT-ASCVD base equations was 0.73 (95% CI, 0.70-0.75). After adding CAC to the PREVENT-ASCVD base equations, the change in Harrell C statistic was 0.02 (95% CI, 0.01-0.03), and the categorical NRI was 0.095 (95% CI, 0.053-0.137). The calibration slope for the PREVENT-ASCVD base equations was 1.09 (95% CI, 0.93-1.25), and for the PREVENT-ASCVD base plus CAC equations was 0.92 (95% CI, 0.81-1.03). Among those at borderline risk, incident ASCVD occurred in 1.9% of those with CAC score of 0, 3.9% with CAC greater than 0 and less than 100, 7.4% with CAC 100 or greater and less than 300, and 14.3% with CAC 300 or greater.<h4>Conclusions and relevance</h4>Among US adults aged 45 to 79 years, addition of CAC score to the PREVENT-ASCVD equations across all risk groups overall only modestly improved and, in some groups, did not change model discrimination and reclassification. Reclassification results support selective use of CAC in those with borderline to intermediate risk estimated by the PREVENT-ASCVD equations.
 
-### [Reporting Gaps in mHealth Intervention Studies for Adults With Diabetes: Systematic Review](https://mhealth.jmir.org/2026/1/e95863)
-
-- Source: `jmir_mhealth` · published `2026-10-01` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e95863`
-
-Background: Diabetes self-management education and support requires scalable digital solutions, making mobile health (mHealth) interventions increasingly vital. Despite their proven clinical efficacy, the real-world translation and scalability of these interventions are severely hindered by fragmented and opaque reporting. To address this methodological gap, the World Health Organization developed the mHealth evidence reporting and assessment (mERA) checklist to standardize reporting transparency. Objective: This study aimed to systematically evaluate the reporting completeness of published randomized controlled trials (RCTs) on mHealth interventions for adult diabetes using the mERA checklist; identify critical reporting gaps; analyze how these deficiencies undermine feasibility, scalability, and sustainability; and propose targeted strategies for future optimization. Methods: A PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses)–compliant systematic review was conducted. Five major databases (PubMed, Embase, Web of Science, MEDLINE, and the Cochrane Library) were systematically searched for relevant RCTs published from inception to July 2026. Data extraction and reporting completeness assessments were conducted using the 16-item mERA core checklist. Nonparametric and categorical analyses were used to evaluate factors associated with reporting completeness. Results: A total of 144 RCTs conducted across 49 countries were included in the final analysis. The mean overall mERA reporting score was 6.74 out of 16 (SD 2.71). While basic characteristics such as intervention delivery (n=128, 88.9%) and technology platform (n=117, 81.3%) were well reported, critical system-level domains were largely omitted. Specifically, interoperability (n=12, 8.3%), data security (n=28, 19.4%), compliance with guidelines (n=41, 28.5%), and intervention fidelity (n=53, 36.8%) were severely underreported. Additionally, reporting completeness was significantly higher in studies published between 2016 and 2026 (=.01) and in multicomponent interventions compared to single-component ones (=.04). Conclusions: Empirical research on mHealth interventions for adult diabetes exhibits systemic structural flaws in reporting, particularly concerning system integration, data security, and regulatory compliance. These omissions significantly undermine the transparency, reproducibility, and real-world scalability of digital diabetes care solutions. Future trials must rigorously adopt standardized reporting frameworks such as the mERA checklist to bridge the gap between clinical efficacy and large-scale public health policy translation.
-
 ### [Rheumatoid Arthritis in Adults: A Review.](https://doi.org/10.1001/jama.2026.15455)
 
 - Source: `jama_abstracts` · published `2026-10-01` · freshness `stale`
@@ -2136,14 +2120,6 @@ Apple today announced Apple Home Collection, a new lineup of smart home accessor
 
 Apple today introduced Apple HomeView, designed to be central to the home and personal to everyone in it.
 
-### [Predicting Measles Vaccination Defaulting in Uganda and Kenya: Comparative Evaluation of Custom Soft Voting and TabNet Stacked Ensemble Architectures](https://ai.jmir.org/2026/1/e95727/)
-
-- Source: `jmir_ai` · published `2026-10-13` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e95727/`
-
-Background: Measles is a major cause of death among infants despite free routine immunization (RI) in low- and middle-income countries (LMICs). Vaccination defaulting contributes to measles outbreak occurrences. Conventional immunization defaulter identification methods are expensive to implement, prone to data falsification, reactive, and overestimate uptake. Several machine learning studies leveraged the use of child and maternal characteristics as predictors of immunization defaulting, overlooking community, demographic, and socioeconomic factors. Similarly, there is limited research regarding the use of interpretable deep learning and advanced ensemble methods to improve model performance in predicting RI defaulters and establishing significant predictors at the national level in the LMIC context, like Uganda. Objective: This study predicts infants at a risk of defaulting on measles vaccination in Uganda and Kenya using advanced ensemble learning architectures. Methods: The study benchmarked classical and deep learning models using Demographic and Health Survey (DHS) datasets (2016-2022) with child, maternal, community, social-economic, and demographic characteristics as predictors. The robust modeling pipeline began with feature selection according to the literature and the expert domain. It was followed by vaccination eligibility, missing value handling, and feature elimination using the phi-k correlation framework. To mitigate class imbalance, synthetic minority over-sampling technique for nominal continuous features was used in a training pipeline after the RobustScaler. Nine baseline classifiers, including Tabular Network (TabNet), multilayer perceptron (MLP), random forest (RF), gradient boosting (GB), adaptive-boosting (AB), among others, underwent stratified k-fold cross-validation and hyperparameter optimization via grid search. Custom soft voting was evaluated alongside TabNet stack architecture for superior ensemble prediction. Models were evaluated for accuracy, precision, recall, and -score. Model explainability was decoded using Shapley additive explanations (SHAP), while Streamlit and SQLite formed the tool architecture. Results: The proposed TabNet+GB+RF custom soft voting achieved significant, nonrandom performance over tuned base models with an -score of 0.7111, area under the curve (AUC) of 0.8847 for Kenya. Conversely, for Uganda, the TabNet hybrid ensemble (GB+RF+ AB→TabNet) was the best with AUC of 0.8862 and -score of 0.6756, which was statistically insignificant. SHAP identified child’s age and vitamin A1 as universal key predictors in both countries; others varied. In Kenya, time to water source, respondents’ education, district lived previously, and current district were the most influential global features, respectively. In Uganda, Polio inactive, Pentavalent3, current district, and respondents’ education were the most influential factors to defaulting, respectively. Conclusions: The proposed advanced ensemble learning models improved the classification of measles vaccine defaulters compared to individual models. The study recommends distinct country-tailored strategies. In Kenya, outreaches are recommended to areas with low literacy, distant water sources, and mobile populations. Conversely, in Uganda, the study recommends reminders to avoid missing preceding vaccines and outreaches to high-default districts. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1ca8a17e6c670ca53851a5e7495c815c" />
-
 ### [Tablet-Based Neurocognitive Tests for Ugandan Adolescents Living With HIV: Cross-Sectional Validation Study](https://mhealth.jmir.org/2026/1/e103288)
 
 - Source: `jmir_mhealth` · published `2026-10-13` · freshness `fresh`
@@ -2207,14 +2183,6 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01816-2`
 
 Six years and more than 250 lectures after its launch as a pandemic response, Tissue Talks has reached over 50,000 attendees across more than 80 countries, offering a blueprint for how biomedical communities can maintain continuous global connection beyond the annual conference cycle.
-
-### [HealthTap Introduces Virtual Primary Care Program for DME Suppliers](https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/)
-
-- Source: `medcity_news` · published `2026-10-14` · freshness `fresh`
-- Reading value: `28` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/`
-
-<p><a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/"><img width="600" height="333" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg" class="attachment-large size-large wp-post-image" alt="telehealth virtual care" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-600x333.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-300x167.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-768x427.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-1536x853.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1218524442-2048x1138.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>HealthTap launched a virtual care program to support sleep equipment suppliers and patients using PAP therapy.</p> <p>The post <a href="https://medcitynews.com/2026/10/healthtap-introduces-virtual-primary-care-program-for-dme-suppliers/">HealthTap Introduces Virtual Primary Care Program for DME Suppliers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Isoflurane-Based Inhaled Sedation in Mechanically Ventilated Adults With Acute Hypoxemic Respiratory Failure: The SAVE-ICU Randomized Clinical Trial.](https://doi.org/10.1001/jama.2026.18471)
 
@@ -2352,14 +2320,6 @@ This letter comments on the systematic review and meta-analysis of large languag
 
 <p><a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/09/Inovalon_Oct_Webinar_Panel_2.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Panelists in the webinar, sponsored by Inovalon, will explore how near real-time surveillance, smart risk prioritization, and closed-loop intervention are shifting stewardship programs to proactive, technology-enabled decision-making that lets pharmacists work at the top of their license.</p> <p>The post <a href="https://medcitynews.com/2026/10/the-role-of-hospital-stewardship-to-improve-outcomes-and-manage-costs/">The Role of Hospital Stewardship to Improve Outcomes and Manage Costs</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Toward a Living Meta-Framework for Evaluating Generative AI in Mental Health](https://ai.jmir.org/2026/1/e89211/)
-
-- Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
-- Reading value: `41` · status: `scored`
-- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e89211/`
-
-The proliferation of evaluative approaches for generative AI tools used for mental health purposes reflects much-needed attention to safety, ethics, and emerging risks. However, limited alignment across frameworks complicates comparisons, slows progress toward shared goals, and provides little clarity for regulatory processes. The result is a fragmented field that lacks cohesive guidance as the technology and its real-world patterns of use continue to evolve. This position paper synthesizes current evaluative approaches, outlines sources of divergence across existing frameworks, and identifies shared domains that could serve as anchors for coordinated development. We advocate for a living, flexible meta-framework maintained by a global, cross-sector consortium that can harmonize criteria, support consistent evaluation across jurisdictions, and adapt alongside scientific, clinical, and technological advances. Such a structure can strengthen safety, transparency, and methodological consistency while giving researchers, clinicians, developers, and policymakers a shared foundation for assessing generative AI tools in mental health care. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/601575317a639ad96e383bd445d779a0" />
-
 ### [Towards physiologically relevant human tissue models](https://www.nature.com/articles/s41551-026-01824-2)
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
@@ -2415,14 +2375,6 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/`
 
 <p><a href="https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/"><img width="790" height="442" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap.jpg" class="attachment-large size-large wp-post-image" alt="A dynamic 3D illustration featuring a long, curved arrow with focus circles along its path, each marked with a check signifying approval and progress. On both sides of the arrow are 3D mechanical gears, also containing check marks at their centers. This design symbolizes process flow, efficiency, and successful task completion. The interconnection of the arrow and gears visually conveys the seamless interaction and synchronization of components in a workflow. Ideal for concepts such as project management, quality assurance, and operational excellence, the design&#039;s modern aesthetic and bold 3D elements make it visually compelling and informative." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap.jpg 790w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-300x168.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-768x430.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-360x200.jpg 360w" sizes="auto, (max-width: 790px) 100vw, 790px" /></a></p><p>There is no single solution to the cross-subsidization problem. But here are some strategic actions that can make a health system’s economics more sustainable. </p> <p>The post <a href="https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/">The Impending End of Cross-Subsidization</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Three Ambient Listening Systems in Simulated Dutch-Language Multispeaker and Multidialect Clinical Encounters: Comparative Study](https://medinform.jmir.org/2026/1/e94586)
-
-- Source: `jmir_medinform` · published `2026-10-16` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e94586`
-
-<strong>Background:</strong> Clinicians spend a lot of time on electronic health record (EHR) documentation, often at the expense of direct patient interaction. Ambient listening technology uses AI to passively record and summarize clinical encounters. Although early studies are promising, there is limited evidence on system performance in complex, non-English settings. <strong>Objective:</strong> This study aimed to compare the documentation performance of 3 commercially available ambient listening systems in simulated Dutch-language outpatient consultations by assessing note completeness, correctness, and conciseness under predefined linguistic and interactional challenges. <strong>Methods:</strong> Standardized audio recordings of 10 scripted physician-patient interactions across 2 specialties were used. Scenarios included multispeaker dynamics (patient companion), conversational disruptions (nurse interruption), evasive patient communication, and a regional dialect (Gronings). Three ambient listening providers (provider 1, provider 2, and provider 3) processed the audio files. Generated notes were divided into 4 note sections: patient history, physical examination, diagnostic impression, and treatment plan. For each system output, each note section was scored for completeness, conciseness, and correctness using a 5-point ordinal scale against physician-developed reference summaries. In total, 8 clinicians participated in scoring: 4 junior clinicians evaluated all outputs, and 4 senior clinicians each reviewed a subset of scenarios. Analyses were based on 351 rater-averaged section-domain scores. Interrater agreement was assessed using Gwet agreement coefficient 2 (Gwet AC-2). System-level technical characteristics were assessed alongside clinical performance to aid interpretation of between-provider differences. <strong>Results:</strong> Across 351 rater-averaged section-domain scores on a 5-point scale, overall interrater agreement was high (Gwet AC-2=0.827). Provider-level mean scores ranged from 3.82 to 4.26 (4.26, SD 0.73 for provider 3, 4.00, SD 0.90 for provider 2, and 3.82, SD 1.07 for provider 1). Mean scores were higher in otolaryngology than in surgical oncology (4.36, SD 0.56 vs 3.68, SD 1.10). Across scoring domains, correctness received the highest mean score (4.21, SD 0.98), while completeness received the lowest (3.81, SD 0.90). Variation in mean scores was observed across script scenarios. Dialect-containing scenarios had the lowest mean score overall (3.77, SD 1.21), although this pattern was not uniform across specialties and systems. Median summary generation times ranged from 13.5 seconds (IQR 12-15; provider 3) to 22.0 seconds (IQR 18-24; provider 2). <strong>Conclusions:</strong> Ambient listening systems demonstrated generally strong performance in this simulated Dutch-language evaluation, including under several common conversational challenges. However, mean scores varied across scripted scenarios, with lower scores observed in some dialect-containing and otherwise challenging interactions. Future deployment studies must prioritize linguistic equity, real-world validation of efficiency gains, and evaluation of both clinician and patient perceptions to understand how these systems influence consultation dynamics and care delivery across diverse patient populations.
 
 ### [We’re sharing 3 tips to study smarter with Gemini Notebook.](https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/)
 
@@ -2608,13 +2560,13 @@ Notice NOT-EB-26-005 from the NIH Guide for Grants and Contracts
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp">We took a look at Google Trends to see what people in seven major fashion capitals are searching for to give them that je ne sais quoi when it comes to their sartorial s…
 
-### [Startup taps underwater volcano as energy source in "proof point" test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
+### [Startup taps underwater volcano as energy source in “proof point” test](https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/)
 
 - Source: `hn_ai_health_signals` · published `2026-10-19` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/`
 
-Hacker News community signal; score 91.
+Hacker News community signal; score 122.
 
 ### [The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend](https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/)
 
@@ -2664,14 +2616,6 @@ A model developed by researchers at MIT and Boston Children's Hospital adjusts s
 
 <p><a href="https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/"><img width="600" height="340" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-600x340.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-600x340.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-300x170.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207-768x435.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/01/GettyImages-1209503207.jpg 785w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Cell and gene therapies are amazing medical breakthroughs but if we don’t find ways to pay for them, the development pipeline will fail. </p> <p>The post <a href="https://medcitynews.com/2026/10/a-radical-proposal-to-preserve-cell-and-gene-therapy-innovation/">A Radical Proposal to Preserve Cell and Gene Therapy Innovation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Adoption Strategies and Workarounds in the Evolution of Information Infrastructures Integrating Health and Social Care Providers in Scotland: Multimethod Qualitative Case Study of the Key Information Summary](https://medinform.jmir.org/2026/1/e94376)
-
-- Source: `jmir_medinform` · published `2026-10-20` · freshness `fresh`
-- Reading value: `62` · status: `scored`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e94376`
-
-<strong>Background:</strong> Summary care records are digital technologies designed to support information sharing and care coordination across fragmented health and social care systems. However, adoption and use of these technologies can vary across diverse health and care settings, with users using workarounds and other strategies to meet their specific information needs. In Scotland, the Key Information Summary (KIS) has been in use for over 13 years, sharing key patient information from general practitioners (GPs) with other health and care providers for future care planning. <strong>Objective:</strong> Using the KIS as a case study, this study examines how various adoption strategies and workarounds have shaped the evolution of regional information infrastructures integrating health and social care in Scotland over time. <strong>Methods:</strong> This multimethod qualitative study examined the various contextual factors influencing adoption and use of the KIS across diverse health and care settings. Data collection included interviews with KIS users from health and care settings, implementers, and vendors; documentary analysis of user guides, websites, reports, and policies; and observation of multidisciplinary team meetings and technology use. Data analysis involved a hybrid approach. The technology-people-organization-macroenvironment framework was applied to code interview, documentary, and observational data, followed by an inductive analysis informed by science and technology studies theories of information infrastructures, domestication, and workarounds to examine strategies and workarounds for adapting the KIS to local contexts and evolving needs. <strong>Results:</strong> Data comprised 54 qualitative interviews, 59 documents, 2 websites, and 20 hours of observational field notes collected between April 2024 and March 2025. Findings indicate that adoption of the KIS varied across settings and over time due to misalignment between system design, evolving expectations of integrated care, and national initiatives during the COVID-19 pandemic that repurposed its use. Professional roles and associated information needs shaped differing expectations of what constituted useful information, generating tensions between users who relied on the KIS and GPs responsible for maintaining it. Formal workarounds enabled the extension of the health care–centric infrastructure into nonclinical settings to facilitate information sharing with GPs and, in some cases, supported clinician access to the KIS during system outages. Across settings, informal user-driven repair practices enabled diverse professionals to adopt and realign the KIS with its intended use. <strong>Conclusions:</strong> This study demonstrates how regional information infrastructures integrating health and care evolve incrementally as they become embedded within local routines, practices, and existing systems. Adoption was shaped by professional roles, information needs, and users’ capabilities, with formal workarounds extending infrastructures into new settings and informal, user-driven repair practices supporting ongoing use and maintenance. Policymakers and vendors must recognize that workarounds and user-driven repair practices are central to infrastructural growth and sustainability, and understanding these strategies can inform future technology development and innovation.
-
 ### [Algorithmic Reflectivity in Large Language Models: Methodological Study of Linguistic Structure in Mentalization](https://ai.jmir.org/2026/1/e90750/)
 
 - Source: `jmir_ai` · published `2026-10-20` · freshness `fresh`
@@ -2719,14 +2663,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://ouraring.wpengine.com/cardio-effort-automatic-vo2max/`
 
 <p>Step count, active minutes, distance travelled—most wearable users are familiar with the standard activity stats. But more often than not, people are left asking the same questions after every workout: Was that enough? Was it too much? Do I need to change up my training plan? When you don’t have clear answers, you’re left guessing, [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/cardio-effort-automatic-vo2max/">Cardio Effort and Automatic VO2 Max: Providing More Context for All Your Oura Activities</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
-
-### [Characterizing Cancer Symptom Experiences and Related Psychosocial Concerns Through Chinese Social Media Narratives: Computational Text Analysis](https://www.jmir.org/article/view/jmir_v28i1e102862)
-
-- Source: `jmir` · published `2026-10-20` · freshness `fresh`
-- Reading value: `60` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e102862`
-
-Background: Patients with cancer frequently experience complex and multidimensional symptom burdens. Standardized patient-reported outcome measures provide structured approaches to symptom assessment but may not capture the full range of symptom-related and psychosocial concerns expressed in patients’ narratives. Patient-generated social media data offer a complementary source for examining how these concerns are expressed online. Objective: This study aimed to characterize cancer symptom–related narratives in Chinese social media posts using a conventional symptom assessment framework and to identify additional experiential themes through neural topic modeling. Methods: A computational text analysis integrating large language model (LLM) annotation and neural topic modeling was conducted. A corpus of 26,086 first-person patient narratives was collected from Xiaohongshu and Zhihu between November 2013 and February 2026 using cancer-related search terms. First-person narratives and 6 SPPADE (sleep disturbance, pain, physical function impairment, anxiety, depression, and low energy or fatigue) symptom domains were identified using GPT-4o-mini (OpenAI) and validated against independent human coding. Symptom occurrence, co-occurrence, multiplicity, and coping strategies were characterized, with exploratory stratified analyses by cancer type. BERTopic modeling was applied to identify latent themes, platform sensitivity analyses, and temporal distribution were examined. Results: For first-person narrative identification, human raters showed 89.2% agreement (Cohen κ=0.784); the LLM achieved an -score of 81.2% against the adjudicated reference standard. For SPPADE extraction, mean Cohen κ values for LLM-human agreement were 0.714 (SD 0.114) and 0.754 (SD 0.095) across the 6 symptom domains. Overall, 13,896 of 26,086 (53.3%) posts contained at least 1 identifiable symptom. Pain was the most frequently identified symptom (5783/26,086, 22.2%), followed by physical function impairment (4153/26,086, 15.9%) and depression (4050/26,086, 15.5%). Pain and physical function impairment formed the most frequent co-occurring symptom pair (n=1407). Coping strategies were described in 7104/26,086 (27.2%) posts; medication-based approaches were most prominent, particularly for pain and sleep disturbance, while social and psychological support were more common for anxiety and depression. BERTopic modeling identified 13 latent themes, including cancer treatment trajectories, health care system interaction, existential distress, family involvement, and financial burden, highlighting experiential concerns that may be underrepresented in conventional symptom assessment. The proportion of posts containing at least 1 SPPADE symptom was similar between Xiaohongshu and Zhihu (53.2% vs 54.1%; =.35), although individual symptom distributions differed across platforms. Conclusions: Chinese social media posts contained multidimensional symptom-related narratives alongside psychosocial and experiential concerns that may be less visible in structured symptom assessment. Patient-generated social media data may therefore provide a complementary source for understanding cancer symptom experiences and supportive care concerns. However, differences in platform composition, uneven temporal coverage, and the nonrepresentativeness of social media users limit generalizability, and the clinical utility of integrating such data into routine symptom assessment requires further evaluation. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a21f7285fe4491c36a595acc04ef64cb" />
 
 ### [Cybersecurity in focus for top medtech lobby](https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/)
 
@@ -2784,14 +2720,6 @@ The U.S. Food and Drug Administration today released final guidance establishing
 
 All told, fintech startups raised $10.6 billion globally in the third quarter of 2026, down 28.4% from $14.9 billion in Q2 2026 and 21.4% from $13.5 billion in Q3 2025.
 
-### [From Divergent Guidelines to Delphi-Ready Items: Tutorial for Large Language Model–Assisted Guideline Harmonization Using Penile Cancer as a Worked Example](https://www.jmir.org/article/view/jmir_v28i1e96886)
-
-- Source: `jmir` · published `2026-10-20` · freshness `fresh`
-- Reading value: `60` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e96886`
-
-Background: Clinical practice guidelines are central instruments of evidence-based care; yet, in many domains, particularly rare or complex diseases, multiple guidelines coexist and frequently offer conflicting advice. Existing strategies for resolving such divergences are often labor-intensive, opaque, and insufficiently reproducible. Objective: This tutorial aimed to develop and demonstrate a reproducible workflow for transforming divergent clinical guideline recommendations and literature-derived white areas into human-reviewed Delphi-ready candidate items. Methods: Following a step-by-step tutorial structure, we demonstrate the workflow using penile cancer as a worked example. The process comprises manual selection of clinical guidelines, a systematic PubMed search for literature-derived candidate issues potentially unaddressed by the selected guidelines, selection of 3 complementary large language models (LLMs), and execution of predefined prompts, multimodal recommendation extraction, semantic harmonization, and item-level guideline stance classification. The evaluative process combines a 3-LLM ensemble consistency check with an independent pre-Delphi appraisal by 4 penile cancer experts using a predefined 5-point suitability scale and acceptance threshold. Results: In the worked example in the field of penile cancer as a high-stakes use case, the workflow extracted 157 clinical recommendations from 5 guidelines and consolidated them into 68 harmonized guideline-derived items. Stance classification identified 15 uniformly supported items and 53 divergent, ambiguous, or incompletely addressed items. In parallel, literature processing generated 95 harmonized white-area items, of which 9 were classified as true white-area items not addressed by the included guidelines. The final methodological output was a set of 62 human-reviewed Delphi-ready candidate items for subsequent clinical consensus voting. Conclusions: This methodology provides a scalable, transparent, and transferable approach for identifying and structuring interguideline inconsistencies and evidence gaps. By combining LLM-assisted analysis with independent external expert appraisal, it supports the reproducible transformation of heterogeneous guideline content into Delphi-ready candidate items. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e23d7ad11898103d0f8ee7d33898c0e1" />
-
 ### [Get hands-free personalized help on the road with Gemini](https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/)
 
 - Source: `fitbit_google_blog` · published `2026-10-20` · freshness `fresh`
@@ -2816,14 +2744,6 @@ Background: Clinical practice guidelines are central instruments of evidence-bas
 
 Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De Marco, who draws on his experience bootstrapping BairesDev, to emphasize financial discipline and a lasting commitment to solving customer problems as the foundations of sustainable growth.
 
-### [Job Coaching and Smartphone-Based Cognitive Behavioral Techniques for Returning to Work and Coping With Unemployment (DRIVEN): Randomized Controlled Trial](https://www.jmir.org/article/view/jmir_v28i1e90873)
-
-- Source: `jmir` · published `2026-10-20` · freshness `fresh`
-- Reading value: `55` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e90873`
-
-Background: Unemployment has economic consequences and is associated with emotional distress and impairment. Joblessness is often associated with depression, leading to a vicious cycle of reduced drive to seek work, deepening financial stress, and worsening depression. Few scalable interventions exist that integrate job-search strategies with cognitive behavioral techniques. Objective: The study aimed to determine the efficacy of a Distress-Informed Return-to-Work Intervention (DRIVEN). The primary hypothesis was that DRIVEN would be more efficacious than the control condition in improving job-search behavior. Secondary analyses examined job attainment, depression, and positive affect. Methods: A randomized controlled trial was conducted from August 2023 to September 2024. Assessments were at baseline, weeks 1 through 6, and 8 and 16 weeks postintervention. Participants were a nationwide sample of unemployed job seekers aged 18 years or older who had never earned more than US $100,000 in a year. Participants received either (1) DRIVEN, which included 6 weeks of cognitive behavioral exercises in a mobile app combined with three 1-hour coaching sessions over videoconference or (2) emailed articles containing job-search advice. Primary outcome measures were subscales of a modified Job Search Behavior Scale (preparatory and active job search). Secondary outcomes included job attainment and mental health outcomes. Results: Participants were a nationwide sample (N=126; mean age 33.6, SD 6.6 y), including 62 (49.2%) females. During the acute treatment phase, mixed-effects linear models showed that for DRIVEN, preparatory job-search behavior increased by an estimated 0.053 (95% CI 0.031-0.076) units per day from baseline, which was a larger effect than in the control condition (0.011, 95% CI −0.011 to 0.033 units per day; =.008). Active job-search behavior increased by 0.061 (95% CI 0.038-0.084) units per day from baseline, which was significantly larger than in the control group (point estimate: 0.025, 95% CI 0.001-0.047; =.03). Depression decreased more in the DRIVEN group vs control (DRIVEN point estimate=−0.214, 95% CI −0.255 to −0.172 vs control group point estimate=−0.122, 95% CI −0.163 to −0.081; =.002), and participants were more likely to get a job in the DRIVEN group (68.3% vs 50.8%; =.046). Self-report outcomes did not significantly differ during the follow-up periods. Conclusions: DRIVEN was superior to emailed job-search advice for the primary outcome (job-search behavior) and secondary outcomes (job attainment, depression, and positive affect). This intervention may be beneficial for distressed unemployed individuals seeking work. Trial Registration: ClinicalTrials.gov NCT06026280; https://clinicaltrials.gov/study/NCT06026280 International Registered Report Identifier (IRRID): RR2-10.2196/62715 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/5ec83997df1904c872aa570353cfdf37" />
-
 ### [Medtech execs share secrets to building resilient supply chains](https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/)
 
 - Source: `medtech_dive_primary` · published `2026-10-20` · freshness `fresh`
@@ -2832,14 +2752,6 @@ Background: Unemployment has economic consequences and is associated with emotio
 
 <figure><div><img src="https://imgproxy.divecdn.com/GNg2mY0KeC6a3ZFQmJxda5SDnocs_URtavv5Rrz526w/g:nowe:0:84/c:960:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90LTIwMjYtMDYtMjMtYXQtMy40Mi4yMy1QTS5wbmcud2VicA==.webp"/></div></figure><p>At AdvaMed&rsquo;s The MedTech Conference, company executives said they&rsquo;re bracing for disruption by investing in inventory, scenario planning and their relationships with chip suppliers.</p>
 
-### [Medtronic wins CE mark for Vitalis portfolio of cardiac pacemakers](https://www.medtechdive.com/news/medtronic-wins-ce-mark-for-vitalis-portfolio-of-cardiac-pacemakers/833428/)
-
-- Source: `medtech_dive_primary` · published `2026-10-20` · freshness `fresh`
-- Reading value: `54` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/medtronic-wins-ce-mark-for-vitalis-portfolio-of-cardiac-pacemakers/833428/`
-
-Medtronic said Monday it has received a CE mark for its Vitalis portfolio of cardiac pacemakers. The portfolio features five devices, which Medtronic said offer a comprehensive suite of pacing options and include features for conduction system pacing therapy, or CSP. Medtronic named ReSyncra CSP as the most advanced device, highlighting its suitability for use in patients who may benefit from cardiac resynchronization therapy, or CRT, but are failed by traditional approaches to treatment.
-
 ### [Mobile AI-Assisted Oral Lesion Triage for Community Oral Cancer Screening: Prospective Field Evaluation Study](https://mhealth.jmir.org/2026/1/e101721)
 
 - Source: `jmir_mhealth` · published `2026-10-20` · freshness `fresh`
@@ -2847,14 +2759,6 @@ Medtronic said Monday it has received a CE mark for its Vitalis portfolio of car
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e101721`
 
 Background: AI-based tools for oral cancer screening have shown promising performance in curated image datasets, but their performance in real-world mobile community screening workflows remains less clear. Objective: This study evaluated the prospective field performance of a parameter-locked, mobile AI-assisted oral lesion triage system embedded in a human-supervised community oral cancer screening workflow. Methods: We conducted a prospective community-based field evaluation in eastern Taiwan from June 17 to December 31, 2025. Trained nonspecialist personnel acquired standard white-light intraoral images using handheld mobile devices during routine screening. The AI system incorporated on-site image quality assessment and lesion-level risk stratification into green, yellow, and red triage categories. Technically inadequate images after repeated acquisition attempts were classified as ungradable and excluded from performance analysis. Three board-certified oral and maxillofacial specialists established an operational clinical reference standard through structured image review and consensus adjudication. The primary outcome was lesion-level identification of high-risk lesions requiring specialist referral, defined as red versus nonred triage. Diagnostic performance was estimated with Wilson 95% CIs; precision-recall performance and preconsensus specialist agreement were also assessed. Results: Among 602 screened participants, 4283 interpretable intraoral images were included in expert adjudication and lesion-level analysis. The AI system flagged 68 red lesions; 12 (17.6%) were confirmed as high risk, and 4 additional high-risk lesions were identified during expert review, yielding 16 high-risk events for the primary red-triage analysis. For high-risk lesion identification, sensitivity was 75% (12/16; 95% CI 50.5%-89.8%) and positive predictive value was 17.6% (12/68; 95% CI 10.4%-28.4%); specificity, negative predictive value, and accuracy were 98.6% (3928/3984), 99.9% (3928/3932), and 98.5% (3940/4000), respectively. Area under the receiver operating characteristic curve values were 0.957 for red, 0.931 for yellow, and 0.964 for green triage; precision-recall analysis showed area under the precision-recall curve values of 0.8235, 0.9052, and 0.9476, respectively. Preconsensus specialist agreement was high, with a Fleiss κ of 0.921 and a Gwet AC1 of 0.981. Conclusions: This mobile AI-assisted oral lesion triage system was feasibly integrated into a real-world community screening workflow operated by trained nonspecialist personnel. In this low-prevalence field setting, red triage showed moderate sensitivity and modest positive predictive value, supporting its use as human-supervised referral-prioritization support rather than autonomous diagnosis. Further multicenter studies with blinded assessment, participant-level outcomes, workflow-efficiency measures, and longitudinal follow-up are needed before clinical impact and scalability can be determined.
-
-### [Navigating Suicide-Related Online Content in Individuals With Lived Experience of Suicidality: Cross-Sectional Survey](https://www.jmir.org/article/view/jmir_v28i1e92693)
-
-- Source: `jmir` · published `2026-10-20` · freshness `fresh`
-- Reading value: `61` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e92693`
-
-Background: Engagement with suicide-related content online is often assumed to be harmful, yet many individuals with lived experience describe such content as supportive or even life-preserving. Despite policy and clinical concerns, little is known about how people intentionally or unintentionally encounter this content, how they interpret it, and how these experiences shape perceived harm or benefit. Objective: This study aims to explore how intent and context influence the ways in which individuals with lived experience of suicidality encounter, interpret, and respond to suicide-related online content, and to identify factors associated with perceived harm and benefit. Methods: An exploratory cross-sectional survey was conducted with a convenience sample of 713 UK-based participants aged 16 to 60 years and older, 95.9% (n=684) of whom reported having lived experience of suicidality. Quantitative data were analyzed using descriptive and inferential statistics, including chi-square tests, to examine associations between engagement patterns, intent, and suicidality. Free-text responses were coded using content analysis to identify categories relating to motivations for engagement, emotional responses, and perceived impact. Results: Participants reported a broad range of experiences. While 30.0% (214/713) described suicide-related content as contributing to suicidal thoughts or attempts, others reported relief, validation, or reduced feelings of isolation, with 21.0% (150/713) attributing content to preventing an attempt. Clear differences emerged between participants who actively sought out content (“seekers”) and those who encountered it unintentionally (“stumblers”). Seekers more frequently reported positive or understanding responses, often in the context of unmet offline support needs, whereas stumblers were more likely to report shock or distress. Approximately 39.9% (151/378) of participants described their engagement as neither intentional nor accidental, potentially reflecting a blurred boundary between passive exposure and active seeking, as well as the difficulty individuals face in accurately identifying and articulating their own motivations in relation to suicidality. Conclusions: Engagement with suicide-related online content cannot be characterized as uniformly harmful. Outcomes depend on user intent, emotional state, and the context of engagement, and they may change over time. Clinical, regulatory, and policy approaches should move beyond risk-only frameworks to account for the nuanced and sometimes supportive roles such content plays in how individuals make sense of suicidal thoughts, while still protecting those at risk. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/afb7936eb93f553ea9b83ae86a048127" />
 
 ### [New Gemini tools for small business owners](https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/)
 
@@ -2944,14 +2848,6 @@ Recommended submission dates for veterinary medicinal products
 
 <p><a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>A new report on third quarter M&amp;A activity in the healthcare sector found that this quarter’s hospital and health system transactions remained steady, with 2026 potentially set to be a top year for total annual transactions since pre-pandemic times. </p> <p>The post <a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/">Report: Health System M&amp;A Activity Remains Steady in Third Quarter</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [A counterintuitive way to build trust in measles vaccines and public health](https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-21` · freshness `fresh`
-- Reading value: `31` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss`
-
-Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive.
-
 ### [A Generative AI-powered navigation system for precision CBCT-guided lung biopsies: a randomized controlled trial](https://www.nature.com/articles/s41746-026-03355-1)
 
 - Source: `npj_digital_medicine` · published `2026-10-21` · freshness `fresh`
@@ -3028,7 +2924,7 @@ Background: Health AI investment is accelerating across the Gulf Cooperation Cou
 
 - Source: `medtech_dive_primary` · published `2026-10-21` · freshness `fresh`
 - Reading value: `53` · status: `scored`
-- Event: `updated` · identity: `url:https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/yTvH1EBuszoKz58KoMH2LKkx8KKPGS0JvXRtWWVBMI4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJ2ZXJfNC5qcGc=.webp"/></div></figure><p>Dr. Michelle Tarver said the FDA&rsquo;s device center is filling positions after losing large numbers of clinical reviewers, as well as AI and digital health experts.</p>
 
@@ -3038,7 +2934,7 @@ Background: Health AI investment is accelerating across the Gulf Cooperation Cou
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/`
 
-Hacker News community signal; score 582.
+Hacker News community signal; score 587.
 
 ### [Conditions and Pathways for Integrating Smart Care Robots Into Long-Term Care Facilities: Qualitative Study From Nursing Assistants’ Perspectives](https://www.jmir.org/article/view/jmir_v28i1e97371)
 
@@ -3116,7 +3012,7 @@ Measles remains a leading cause of vaccine-preventable burden among children, pa
 
 - Source: `medcity_news` · published `2026-10-21` · freshness `fresh`
 - Reading value: `74` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/`
 
 <p><a href="https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/10/human_liver.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/10/human_liver.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/10/human_liver-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>GSK’s Hibsago brings a new mechanism of action to chronic hepatitis B, targeting the genetic instructions the virus uses to make copies of itself and viral proteins. This drug was licensed from antisense oligonucleotide specialist Ionis Pharmaceuticals. </p> <p>The post <a href="https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/">GSK Wins FDA Nod for Novel Hepatitis B Drug Offering a Potential Functional Cure</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3148,7 +3044,7 @@ This letter comments on two aspects of the study by Lin et al. We discuss how ag
 
 - Source: `medtech_dive_primary` · published `2026-10-21` · freshness `fresh`
 - Reading value: `65` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/intuitives-us-da-vinci-procedure-growth-slows-again/833555/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/intuitives-us-da-vinci-procedure-growth-slows-again/833555/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/63Gmrrp-SR5YiFiGk6V8B3Ohjn_FMC4mSRqSOSOVYmQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NVDFDQjkuanBn.webp"/></div></figure><p>Facing continued softness, Intuitive outlined opportunities to increase use of its robots in benign general surgeries.</p>
 
@@ -3156,7 +3052,7 @@ This letter comments on two aspects of the study by Lin et al. We discuss how ag
 
 - Source: `medcity_news` · published `2026-10-21` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/`
 
 <p><a href="https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Judi Health launched Judi Rx Retire, an employer-sponsored Medicare Part D plan designed to improve pricing transparency and streamline benefits administration.</p> <p>The post <a href="https://medcitynews.com/2026/10/judi-health-launches-medicare-part-d-plan-for-employers/">Judi Health Launches Medicare Part D Plan for Employers</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3175,14 +3071,6 @@ Electronic health records (EHRs) are central to patient-centered care. However, 
 - Event: `seen` · identity: `url:https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp">Get actionable insights on bidding and budgeting tools in the latest episode of Google's "Ads Decoded" podcast.
-
-### [Nigeria identifies travel-related Ebola case](https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-21` · freshness `fresh`
-- Reading value: `35` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss`
-
-Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health&#8230;
 
 ### [Notice of Change to Funding Opportunity: BRAIN Initiative Connectivity across Scales (BRAIN CONNECTS): Specialized Projects for Scalable Technologies (U01 Clinical Trial Not Allowed)](http://grants.nih.gov/grants/guide/notice-files/NOT-NS-27-002.html)
 
@@ -3248,14 +3136,6 @@ CMS is cracking down on adult day cares in New York, part of a broader focus on 
 
 GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods.
 
-### [STAT+: Mark Cuban wants to crack open the market for rare disease treatments](https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-21` · freshness `fresh`
-- Reading value: `44` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss`
-
-Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies.
-
 ### [STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more](https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-21` · freshness `fresh`
@@ -3263,14 +3143,6 @@ Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom r
 - Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss`
 
 Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines
-
-### [STAT+: Roivant says closely watched immune drug succeeded in new eye disease](https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-21` · freshness `fresh`
-- Reading value: `41` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss`
-
-An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.
 
 ### [STAT+: What’s the deal with Isomorphic Labs?](https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss)
 
@@ -3318,7 +3190,7 @@ The reliability of emergent histopathology foundation models (Histo-FMs) for rea
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html`
 
-Hacker News community signal; score 190.
+Hacker News community signal; score 200.
 
 ### [When A Startup Sells, Its Employees’ Equity Plans Can Change Overnight](https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/)
 
@@ -3372,23 +3244,47 @@ A number of companies whose names might feature on a playlist of 2021 boom-era u
 
 - Source: `medcity_news` · published `2026-10-22` · freshness `fresh`
 - Reading value: `67` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/`
 
-<p><a href="https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/"><img width="1024" height="680" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters-300x199.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>Alcon’s Neurotech Pharmaceuticals acquisition brings the rare vision disorder cell therapy Encelto as well as the platform technology that developed it. Last year, Alcon acquired a majority stake in Aurion Biotech, a startup developing a corneal cell therapy. </p> <p>The post <a href="https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/">Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/"><img width="1024" height="680" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters-300x199.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Alcon_headquarters-768x510.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>Alcon’s Neurotech Pharmaceuticals acquisition brings the rare vision disorder cell therapy Encelto as well as the platform technology that developed it. Last year, Alcon acquired a majority stake in Aurion Biotech, a startup developing a corneal cell therapy. </p> <p>The post <a href="https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/">Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Amazon, Google and Other Major Employers Back CMS Prior Auth Effort](https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/)
+
+- Source: `medcity_news` · published `2026-10-22` · freshness `fresh`
+- Reading value: `41` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/`
+
+<p><a href="https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-600x400.jpg" class="attachment-large size-large wp-post-image" alt="prior authorization request" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-1536x1024.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-2048x1365.jpg 2048w, https://medcitynews.com/wp-content/uploads/sites/7/2020/10/GettyImages-1072120552-e1601652873986.jpg 700w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Amazon, Axon Enterprise, Google, Meta and Oracle backed expanding electronic prior authorization to self-funded employer health plans.</p> <p>The post <a href="https://medcitynews.com/2026/10/amazon-google-and-other-major-employers-back-cms-prior-auth-effort/">Amazon, Google and Other Major Employers Back CMS Prior Auth Effort</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Author Correction: β-catenin confers resistance to PI3K and AKT inhibitors and subverts FOXO3a to promote metastasis in colon cancer](https://www.nature.com/articles/s41591-026-04750-7)
 
 - Source: `nature_medicine` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04750-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04750-7`
 
 No summary supplied by the source.
+
+### [Barriers and Enablers to Asynchronous Secure Messaging Use in Hospital-Based Ambulatory Specialty Clinics in Ontario, Canada: Convergent Mixed Methods Study](https://www.jmir.org/article/view/jmir_v28i1e92432)
+
+- Source: `jmir` · published `2026-10-22` · freshness `fresh`
+- Reading value: `61` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e92432`
+
+Background: The COVID-19 pandemic accelerated the adoption of virtual care, including patient-to-provider asynchronous secure messaging (ASM). However, while ASM offers access and convenience, the surge in message volume can increase physician workload and contribute to burnout. Furthermore, it has raised additional concerns about message appropriateness, medicolegal liability, and sustainability of this communication virtual care modality. Objective: This study aims to explore the experience with ASM in Ontario in specialty ambulatory care to inform current practice support strategies. We sought to characterize messaging usage quantitatively while also exploring experience with messaging, contextual barriers, and facilitators qualitatively. Methods: We used a convergent mixed methods design, analyzing aggregated electronic health record (EHR) usage and qualitative interview data. The study was conducted at a large ambulatory care hospital in Ontario, Canada, across four high-messaging specialty clinics: mental health, rheumatology, dermatology, and surgery. Quantitative data (October 2019 to Octtober 2022) included message volumes, response patterns, and timing. Semistructured interviews with physicians, nurses, administrative staff, and patients (n=19), conducted in 2022 explored ASM workflows, barriers, and facilitators. Quantitative data were analyzed descriptively, stratified by clinic. Qualitative data were analyzed using thematic analysis, informed by an interpretative phenomenological orientation. Findings from the two strands were then compared to identify areas of convergence and divergence. Results: Message volumes surged post pandemic, particularly in mental health, ranging from about 6000 in surgery, rheumatology, and dermatology to close to 13,000 messages in mental health across the study period. Message rate per patient per month was 0.6 (SD 0.2; mental health), 0.5 (SD 0.2; rheumatology), 0.2 (SD 0.2; dermatology), and 0.2 (SD 0.1; surgery). Physicians averaged 12.6 (SD 8.0) messages/month (rheumatology) and 7.6 (SD 4.4) messages/month (mental health) in clinics without nursing support. Nurses handled 27.4 (SD 11.6) messages/month (surgery) and 19.2 (SD 14.1) messages/month (dermatology). Three percent (1263/38,370) to 10% (3619/36,022) of provider messages were sent outside regular hours. The majority of conversations (2156/6859, 46% to 6913/13,615, 62%) had only a single reply. Physicians reported challenging experiences due to increased workload, lack of compensation, and poor integration into local clinical workflows. High patient-to-physician ratios and limited nursing support for message triage were associated with a poor messaging experience. Patients and administrative staff valued messaging for its convenience, accessibility, and efficiency. A key finding was insufficient engagement across all user groups in decisions about messaging implementation. Conclusions: The study highlights a disconnect between the high perceived value of ASM for patients and administrative staff and the challenging experiences of physicians. Successful implementation requires thoughtful integration into care models, clear guidelines for appropriate use, and proper triage and “channel management” to guide patients to appropriate modalities. Future research should explore triaging algorithms as part of a digital front door, specialty-specific variations, and the crucial role of nursing staff in message channel management. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/21ec5def94c0d427874fb46f4988ab56" />
+
+### [Configurations of Quality Dimensions Associated With Researcher and Patient Ratings of HIV/AIDS Mobile Health Apps in China: Fuzzy-Set Qualitative Comparative Analysis](https://mhealth.jmir.org/2026/1/e88896)
+
+- Source: `jmir_mhealth` · published `2026-10-22` · freshness `fresh`
+- Reading value: `49` · status: `scored`
+- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e88896`
+
+<strong>Background:</strong> Mobile health (mHealth) apps have become important tools for HIV/AIDS management. Although the Mobile App Rating Scale and its user version are widely used, how different stakeholder groups combine quality dimensions into overall judgments remains unclear. Discrepancies between researcher and patient evaluations may affect app adoption and clinical effectiveness. <strong>Objective:</strong> This exploratory study aimed to compare configurational pathways associated with high subjective quality ratings of HIV/AIDS apps between researchers and patients using fuzzy-set qualitative comparative analysis. <strong>Methods:</strong> Twenty-one Chinese HIV/AIDS mobile apps from early 2023 were evaluated by 3 researchers using the original Mobile App Rating Scale and 2 HIV-positive patients using the user version of the Mobile App Rating Scale. Six conditions were examined: engagement, functionality, aesthetics, information quality, privacy protection, and developer type. Necessary and sufficient configurations were identified for both groups. Wilcoxon signed-rank tests compared raw ratings between groups. Sensitivity analyses covered 4 calibration anchor sets, 4 raw-consistency cutoffs, 4 proportional reduction in inconsistency cutoffs, and multivalue operationalization of privacy protection. <strong>Results:</strong> Researcher and patient ratings differed significantly for functionality (median difference 0.50, IQR 0.00 to 0.63; <i>P</i>=.003) and engagement (−0.20, IQR −0.40 to 0.10; <i>P</i>=.04), but not for aesthetics (<i>P</i>=.16), information (<i>P</i>=.07), or subjective quality (<i>P</i>=.06). Five sufficient configurations were identified for researchers (solution consistency=0.981, coverage=0.649) and 4 for patients (solution consistency=0.998, coverage=0.796). Configurations including privacy protection appeared only among researchers; its absence appeared in 3 patient configurations, reflecting the rarity of protection in the sample (5/21 apps) rather than lower patient ratings for protected apps. For patients, functionality (0.907) and information quality (0.915) exceeded the necessity threshold but were strongly correlated (<i>r</i>=0.816), so functionality was retained on substantive grounds rather than as an independent necessary condition. Illustrative cases were Wu Ai Fang Hua and Ai Yi Jian for the researcher-oriented pathway and Chabei for the patient-oriented pathway. Sensitivity analyses left the configurations unchanged across all anchor sets and raw-consistency cutoffs; 1 researcher configuration did not survive the stricter proportional reduction in inconsistency cutoffs, and the patient necessity result was anchor-dependent. <strong>Conclusions:</strong> The 2 evaluator panels’ assessments of HIV/AIDS mHealth apps appeared to follow different configurational logic in this sample, with several equifinal pathways to high subjective quality in each group. Because the patient panel comprised 2 evaluators, and 21 apps were analyzed with 6 conditions, the findings should be read as hypothesis-generating rather than representative of people living with HIV. The findings nonetheless suggest that both expert and end-user perspectives are needed during mHealth development, and that, because privacy protection was rare and not required for a favorable patient judgment, its provision in a population highly vulnerable to disclosure-related harm needs to be ensured by developers and regulators rather than left to user demand.
 
 ### [Correction: Clinical Evaluation of a Real-Time Wearable System for Monitoring In-Hospital Ambulatory Patients With COVID-19: Retrospective Data Study](https://medinform.jmir.org/2026/1/e109596)
 
 - Source: `jmir_medinform` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e109596`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e109596`
 
 No summary supplied by the source.
 
@@ -3412,7 +3308,7 @@ Starting this Friday, iPhone Duo users can discover amazing apps and games optim
 
 - Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
 - Reading value: `74` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/eqt-acquires-diagnostics-player-qiagen-9-6bn/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/eqt-acquires-diagnostics-player-qiagen-9-6bn/`
 
 <p>The deal between EQT and Qiagen comes after a period of notable interest in the latter company from private equity firms.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/eqt-acquires-diagnostics-player-qiagen-9-6bn/">EQT to buy diagnostics player Qiagen for €9.6bn </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3420,15 +3316,23 @@ Starting this Friday, iPhone Duo users can discover amazing apps and games optim
 
 - Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
 - Reading value: `25` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/esmo26-lunit-scope-studies-highlight-ai-based-pathology-benefit/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/esmo26-lunit-scope-studies-highlight-ai-based-pathology-benefit/`
 
 <p>SCOPE was applied to a variety of studies and was applied towards varying cancer types.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/esmo26-lunit-scope-studies-highlight-ai-based-pathology-benefit/">ESMO26: Lunit SCOPE studies highlight AI-based pathology benefit</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Ethics of Telerehabilitation in Supportive Cancer Care Through a Responsible Innovation Lens](https://www.jmir.org/article/view/jmir_v28i1e94505)
+
+- Source: `jmir` · published `2026-10-22` · freshness `fresh`
+- Reading value: `45` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e94505`
+
+In recent years, remote exercise services (“telerehabilitation”) have been increasingly explored and implemented, including in supportive cancer care, on the promise of greater convenience, access independent of geographic location, reduced infection risk, and cost savings. Ethical commentary on telehealth in general is substantial, but sustained discussion of questions specific to telerehabilitation remains comparatively sparse. As contributors to PREFERBALE-II, a European Union–funded project evaluating live-remote exercise for people recovering from cancer treatment, we sought practical guidance on how to deliver such services responsibly, and found little to work with. This prompted this viewpoint, which sets out our own position as researchers and clinicians engaged in this work. We draw on a purposive sample of professional guidance documents, which were assembled through our professional networks and a supplementary web search, and on a narrative reading of qualitative studies chosen to represent accounts of benefits as well as burdens. We read these documents through an analytical lens of responsible innovation. We make 3 arguments. First, the ethical content of current telerehabilitation guidance is largely confined to the products and processes of innovation, covering safety, privacy, consent, and compliance, while the question of purpose, that is, whether, for whom, and why remote rehabilitation should be offered at all, is left largely unasked. Anticipation appears only implicitly, and reflexivity, inclusion, and responsiveness barely at all. Responsibility is repeatedly delegated to individual professionals without commensurate structural support. Second, the situated experience of users and professionals forms part of the ethics of telerehabilitation and is not merely data to be assessed. Reported benefits and burdens depend on social context, including age, digital literacy, connectivity, caregiver availability, language, and sensory or cognitive impairment, so an equity claim made for the modality in general may not hold for the individual patient. Third, the ethics of telerehabilitation consequently has to be institutionalized across 3 overlapping domains: the interpersonal and experiential quality of remote care, the legal and institutional conditions of delivery, and the positioning of telerehabilitation within health systems. We address these arguments primarily to rehabilitation professionals and the associations and standard-setting bodies that issue guidance for them, and secondarily to digital health and ethical, legal, and social implications researchers, policymakers, and health-system decision-makers who commission or implement such services. We offer an agenda for a broader ethics conversation across professional societies, curricula, and affected publics, together with observations from a consortium put forward as hypotheses for study. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/b065fd5f60ad4b080457432b43d6a136" />
 
 ### [Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout](https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
 - Reading value: `22` · status: `scored`
-- Event: `new` · identity: `url:https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/`
 
 Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, is emerging from stealth with $27 million in a seed funding round co-led by Rally Ventures and Skyward Group, it tells Crunchbase News exclusively.
 
@@ -3444,7 +3348,7 @@ Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, i
 
 - Source: `medtech_dive_primary` · published `2026-10-22` · freshness `fresh`
 - Reading value: `67` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/fda-flags-more-olympus-safety-problems-in-import-block-and-warning-letter/833730/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/fda-flags-more-olympus-safety-problems-in-import-block-and-warning-letter/833730/`
 
 <p>The FDA import alert broadens the scope of a 2025 import action covering dozens of endoscopes and comes two weeks after a new warning letter identified numerous quality system violations.</p>
 
@@ -3452,7 +3356,7 @@ Slingshot Insurance, a Minneapolis-based AI-native embedded insurance startup, i
 
 - Source: `fda_press` · published `2026-10-22` · freshness `fresh`
 - Reading value: `54` · status: `scored`
-- Event: `new` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development`
+- Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development`
 
 FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (NAIN), a new agency program aligned with the Trump Administration’s efforts to accelerate medical innovation and deliver breakthrough treatments.
 
@@ -3460,7 +3364,7 @@ FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (N
 
 - Source: `apple_newsroom` · published `2026-10-22` · freshness `fresh`
 - Reading value: `13` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/`
 
 Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.
 
@@ -3478,13 +3382,13 @@ Working-age U.S. adults without health insurance rose in 2026. Half of all unins
 - Reading value: `20` · status: `scored`
 - Event: `updated` · identity: `url:https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/`
 
-<p><a href="https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/"><img width="600" height="337" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-600x337.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-600x337.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937.jpg 788w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>In addition to a packed conference agenda and tours of the Pegasus Park healthcare and life science innovation hub in Dallas, INVEST Digital Health also includes an innovation showcase with novel health tech and medtech offerings as well as networking opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/">INVEST Digital Health Celebrates Healthcare Innovation in Texas</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/"><img width="600" height="337" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-600x337.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-600x337.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/GettyImages-1403846937.jpg 788w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>In addition to a packed conference agenda and tours of the Pegasus Park healthcare and life science innovation hub in Dallas, INVEST Digital Health also includes an innovation showcase with novel health tech and medtech offerings as well as networking opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/10/invest-digital-health-celebrates-healthcare-innovation-in-texas/">INVEST Digital Health Celebrates Healthcare Innovation in Texas</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Labcorp to buy Myriad’s prenatal health testing unit for $210M](https://www.medtechdive.com/news/labcorp-to-buy-myriads-prenatal-health-testing-unit-for-210m/833683/)
 
 - Source: `medtech_dive_primary` · published `2026-10-22` · freshness `fresh`
 - Reading value: `68` · status: `scored`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/labcorp-to-buy-myriads-prenatal-health-testing-unit-for-210m/833683/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/labcorp-to-buy-myriads-prenatal-health-testing-unit-for-210m/833683/`
 
 Labcorp said Tuesday that it has agreed to acquire Myriad Genetics’ prenatal health testing business for $210 million. The deal covers tests for assessing fetal risk of certain conditions and other aspects of prenatal care. Labcorp expects the tests to add about $160 million in revenue in year one. Evercore ISI analysts see room for Labcorp to improve the economics of the acquired business using its infrastructure and to broaden access to the tests through its provider relationships.
 
@@ -3495,6 +3399,30 @@ Labcorp said Tuesday that it has agreed to acquire Myriad Genetics’ prenatal h
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03349-z`
 
 The electronic health record (EHR) comprises structured and unstructured data, both of which are integral for comprehensively representing patient history. The emergence of large language models (LLMs) has enabled the incorporation of unstructured data modalities into machine learning models that leverage EHR data. In this systematic review, we characterize studies that utilize LLM-enabled multimodal predictive modeling with EHR data. Following a screening of 641 studies, 57 met inclusion criteria. We identified three strategies for LLM-based multimodal integration: embedding, extraction, and text fusion. Delineated by the format of the unstructured data at the time of fusion, all strategies yielded performance gains (average 6.4% increase) over single modality models. LLMs facilitated modeling by generating note-embeddings for downstream prediction, extracting clinically informative variables, and summarizing long text documents prior to integration. Building on our review, we identified LLM-enhanced predictive modeling considerations that include sample size, interpretability, and computational costs. This study supports the potential value of LLMs for EHR-based predictive modeling and provides a framework for future multimodal modeling tools.
+
+### [Large Language Models’ Simulation of Patient Comprehension of Discharge Summaries: Multimodel Evaluation Study](https://www.jmir.org/article/view/jmir_v28i1e89003)
+
+- Source: `jmir` · published `2026-10-22` · freshness `fresh`
+- Reading value: `67` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e89003`
+
+Background: Large language models (LLMs) are increasingly used to generate and evaluate patient-facing medical materials. Through persona prompting, LLMs can be instructed to simulate responses from individuals with different demographic and experiential backgrounds, offering a scalable approach for approximating patient feedback. However, it remains unclear how closely these simulated persona-based responses reflect real patient perspectives, and whether this alignment is consistent across demographic subgroups. Objective: This study assessed whether contemporary LLMs can simulate diverse patient perspectives on hospital discharge summaries when prompted with personas defined by education, gender, and health care use. We further examined whether persona-based simulation performance was equitable across subgroups by comparing LLM-generated responses with responses from a general-population human cohort under a standardized evaluation framework. Methods: We evaluated 4 contemporary LLMs, GPT-4.1, GPT-5.2, Claude Sonnet 4.5, and Opus 4.6, against responses from 99 participants recruited through Prolific (Prolific Academic Ltd). Participants answered 10 questions for discharge summaries that varied in length and medical complexity. Questions included information-based items assessing factual comprehension and perception-based items assessing subjective understanding. Model-human alignment was measured using modal mean absolute error and expected absolute ordinal distance. We also conducted a chain-of-thought sensitivity analysis for cases with the greatest divergence between LLM-generated persona and matched human responses. Results: Across LLMs, persona responses aligned more closely with human responses on information-based items than on perception-based items. Education was the most consistent stratification axis: every model aligned more closely with the high-education subgroup than with the low-education subgroup on information items, suggesting that LLMs capture broad factual-comprehension differences associated with educational background. Perception items, in which subjective understanding and uncertainty dominate human responses, were simulated less reliably. Alignment also depended on discharge summary characteristics, with short but clinically complex summaries producing the largest divergence. Gender-related differences were smaller and inconsistent in direction, reflecting item-level modal flips rather than systematic distributional bias. Chain-of-thought improved alignment on some factual items but did not recover the full range of less common human responses. Across models, LLMs underselected “I don’t know” and “Not provided” responses relative to humans, indicating a tendency to commit to determinate answers even when human participants expressed uncertainty. Conclusions: Contemporary LLMs can approximate common response patterns within demographic subgroups, particularly for factual comprehension and education-based personas. However, they are less reliable for capturing heterogeneous and perception-based patient responses. Equity performance varied substantially across models, making model selection an important design consideration. Persona-based LLM simulation should be used as an assistive screening tool for patient materials and should complement, not replace, human evaluation with subgroup validation. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8ff99d772a38eeb6feb7978c99c6aa18" />
+
+### [Large Language Model–Assisted Semiautomated Data Harmonization Pipeline for the Multiple Chronic Disease Disparities Research Consortium: Framework Development and Comparative Validation Study](https://ai.jmir.org/2026/1/e93996/)
+
+- Source: `jmir_ai` · published `2026-10-22` · freshness `fresh`
+- Reading value: `63` · status: `scored`
+- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e93996/`
+
+Background: The increasing availability of machine-readable research data has created a growing need for efficient large-scale data harmonization (DH). Although large language models (LLMs) show promise for reducing the time and labor required for DH, their effective integration into harmonization workflows remains an important methodological challenge. Objective: This study aims to develop and evaluate a semiautomated, human-in-the-loop (HITL) LLM-assisted DH workflow as a proof of concept across 8 projects within a research consortium focused on disparities in multiple chronic conditions. Methods: We developed an LLM-assisted DH workflow that combined preprocessing, semantic mapping, variable response mapping, synthetic data generation, data transformation, and iterative researcher review. Using Generative Pretrained Transformer (GPT-4o) hosted in a secure academic environment, project-specific survey items were mapped to 114 Consortium Common Data Element (CDE) semantic groups. Semantic mapping accuracy was evaluated based on the Consortium’s consensus harmonization results. Complete and incomplete semantic mappings were distinguished according to construct overlap, and incomplete mappings requiring context-dependent human judgment were excluded for mapped item pairs and CDE semantic groups with and without HITL review. Results: Following preprocessing, 884 survey items were included in the DH workflow, of which 812 were mapped to a mean of 79 CDE semantic groups per project. Mean semantic mapping accuracy for item pairs was 95.9% (SD 5.7%) with HITL review and 86.7% (SD 8.6%) without HITL review. At the CDE semantic-group level, the corresponding accuracies were 98.9% (SD 1.7%) and 94.9% (SD 4.0%), respectively. Across projects, omission of valid semantic mappings occurred more frequently than incorrect semantic mappings, particularly for heterogeneous response structures and subjective constructs measured using different instruments. Pipeline components—including concept-based preprocessing, iterative prompt refinement, and targeted HITL review—improved mapping completeness and supported variable harmonization across heterogeneous datasets. Conclusions: This proof-of-concept study demonstrates that the effectiveness of LLM-assisted DH depends more on the design of a structured HITL workflow rather than on the LLM alone. Combining preprocessing, iterative verification, and targeted human oversight improved the efficiency and reliability of DH while preserving researcher judgment for complex mapping decisions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/73dab303e7a1c55be905e262200f6a57" />
+
+### [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+
+- Source: `hn_ai_health_signals` · published `2026-10-22` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.anthropic.com/research/formal-verification`
+
+Hacker News community signal; score 12.
 
 ### [Multi-scale integration identifies an ox-LDL-autophagy-inflammasome framework linking osteoporosis and neurodegeneration](https://www.nature.com/articles/s41746-026-03371-1)
 
@@ -3508,7 +3436,7 @@ Osteoporosis (OP) and neurodegeneration frequently co-occur with advancing age, 
 
 - Source: `nih_funding` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-EY-27-004.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-EY-27-004.html`
 
 Notice NOT-EY-27-004 from the NIH Guide for Grants and Contracts
 
@@ -3516,7 +3444,7 @@ Notice NOT-EY-27-004 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-NR-27-001.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-NR-27-001.html`
 
 Notice NOT-NR-27-001 from the NIH Guide for Grants and Contracts
 
@@ -3536,6 +3464,14 @@ For 50 years, doctors shrugged about the disease running through Miranda Pappas�
 
 “The big mistake, ironically, was the ACA’s lack of focus on affordability,” writes Dana Goldman.
 
+### [Optimizing Small Local Language Models for Culturally Competent Mental Health Counseling: Comparative Evaluation With GPT-4o by Psychiatrists](https://ai.jmir.org/2026/1/e92470/)
+
+- Source: `jmir_ai` · published `2026-10-22` · freshness `fresh`
+- Reading value: `63` · status: `scored`
+- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e92470/`
+
+&lt;strong&gt;Background:&lt;/strong&gt; Large language models (LLMs) show promise for mental health counseling applications. However, their deployment faces significant challenges, including data privacy concerns requiring on-premise solutions, high operational costs, and Western-centric biases that limit cultural appropriateness for non–English-speaking populations. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to develop and evaluate culturally competent small language models (SLMs) with approximately 7 to 8 billion parameters for Korean mental health counseling and to validate a 2-stage hybrid evaluation framework combining LLM-as-a-Judge screening with expert clinical validation. &lt;strong&gt;Methods:&lt;/strong&gt; We constructed a dataset of 1558 diary-based counseling interactions from a Korean mental health mobile app (Maeumpyeonuijeom). Three Korean-optimized base models (SKT A.X 4.0 Light {7B}, LG EXAONE 3.5 {7.8B}, and Meta Llama 3.1 {8B}) were fine-tuned using an aggressive fine-tuning strategy with high-rank low-rank adaptation (&lt;i&gt;r&lt;/i&gt;=256) over 20 epochs. Inference parameters were optimized using GPT-5 (gpt-5-2025-08-07) as an LLM-as-a-Judge. The optimized SLMs and GPT-4o (gpt-4o-2024-08-06) were evaluated by 10 board-certified psychiatrists (mean clinical experience of approximately 10 years) on 50 counseling scenarios across 4 dimensions (individualization, supportiveness, cultural appropriateness, and safety) using 5-point Likert scales. Wilcoxon signed-rank tests with Holm correction were used for statistical comparison, and intraclass correlation coefficients (ICCs) assessed interrater reliability. &lt;strong&gt;Results:&lt;/strong&gt; No statistically significant difference from GPT-4o was detected for SKT A.X 4.0 Light in supportiveness (mean 3.39, SD 0.74 vs mean 3.45, SD 0.90; &lt;i&gt;P&lt;/i&gt;=.26) and cultural appropriateness (mean 3.30, SD 0.77 vs mean 3.29, SD 0.79; &lt;i&gt;P&lt;/i&gt;=.58). SKT A.X 4.0 Light ranked first in cultural appropriateness among all models. Interrater reliability analysis revealed higher agreement among psychiatrists for local SLMs (ICC=0.575 for SKT A.X 4.0 Light in cultural appropriateness) compared with GPT-4o (ICC=0.211). GPT-4o maintained significantly higher safety scores than all SLMs (&lt;i&gt;P&lt;/i&gt;&amp;lt;.001). The LLM-as-a-Judge demonstrated moderate-to-good correlation with human evaluation but exhibited a ceiling effect in safety scoring. &lt;strong&gt;Conclusions:&lt;/strong&gt; A 7 to 8-billion-parameter SLM fine-tuned on culturally specific data can achieve performance comparable to GPT-4o in supportiveness and cultural appropriateness for mental health counseling. These findings support the feasibility of locally deployable, privacy-preserving mental health AI systems based on culturally adapted SLMs. However, the safety gap necessitates human expert oversight, and success depends on the availability of high-quality language-specific base models. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/20afe95ce61e268386ede2b59a9ea535" />
+
 ### [Oura Partners with Leading Virtual Care Platform MD Live to Provide Personalized Support for People Using GLP-1 Medications, Complementing Clinical Care](https://ouraring.wpengine.com/md-live-partnership/)
 
 - Source: `oura_blog` · published `2026-10-22` · freshness `fresh`
@@ -3544,13 +3480,29 @@ For 50 years, doctors shrugged about the disease running through Miranda Pappas�
 
 <p>We are launching a new partnership with MD Live by Evernorth – a national virtual care platform of board-certified physicians and licensed therapists providing primary care, 24/7 urgent care, behavioral health, and dermatology – to support a GLP-1 program. Eligible members enrolled in participating employer-sponsored health plans that offer MD Live Virtual Primary Care will [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/md-live-partnership/">Oura Partners with Leading Virtual Care Platform MD Live to Provide Personalized Support for People Using GLP-1 Medications, Complementing Clinical Care</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
-### [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
+### [Quest Diagnostics hit by cyberattack](https://www.medtechdive.com/news/quest-diagnostics-hit-by-cyberattack/833785/)
+
+- Source: `medtech_dive_primary` · published `2026-10-22` · freshness `fresh`
+- Reading value: `49` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/quest-diagnostics-hit-by-cyberattack/833785/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/waZv5N-fljmrth7C1XszlqsEuu1OCTrrb1jpQIoKncc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwNTEzMi5qcGc=.webp"/></div></figure><p>The testing company believes an unauthorized third party accessed patient records.</p>
+
+### [Reducing Annotation Costs Using Knowledge Distillation for Label‑Efficient Negation Detection in Radiology Reports: Multisite Internal Validation Study](https://medinform.jmir.org/2026/1/e103912)
+
+- Source: `jmir_medinform` · published `2026-10-22` · freshness `fresh`
+- Reading value: `61` · status: `scored`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e103912`
+
+<strong>Background:</strong> Negation in radiology reports (eg, “no evidence of dissection”) is essential for accurately conveying diagnostic information. Clinical natural language processing systems, however, often fail to determine whether findings occur within negated or speculative contexts, leading to excessive false keyword alerts, noise in information extraction, and reduced precision in downstream clinical or research applications. Transformer models have advanced detection capabilities but require costly expert labeling. Large language models (LLMs) may provide label-efficient alternatives through few-shot prompting or knowledge distillation. <strong>Objective:</strong> This study aims to systematically evaluate LLMs and transformer models under different supervision strategies, including comparisons of expert-labeled and LLM-distilled transformers, teacher LLMs (GPT-5.3 Chat, Gemma 4, and Qwen3.6-Plus), sampling approaches, and direct few-shot LLM inference, to determine whether LLM inference or LLM-based distillation can substitute for human labeling in radiology-report negation detection while reducing annotation costs. <strong>Methods:</strong> We reused and analyzed 6000 deidentified English-language radiology reports from 3 hospital branches. Three LLMs—GPT-5.3 Chat, Gemma 4, and Qwen3.6-Plus—performed 0-, 5-, and 10-shot inference to identify negations and speculations unrelated to abnormal findings and generate pseudo-labels for transformer fine-tuning (Bio_ClinicalBERT [Bio + Clinical BERT model], BERT [Bidirectional Encoder Representations from Transformers], and ALBERT [A Lite Bidirectional Encoder Representations from Transformers]). We trained models using human-labeled or LLM-distilled supervision across 28 training data scales (n=42-4200) and 3 data sampling seeds and compared them across multiple supervision and training conditions encompassing backbone, label source, and sampling strategy. We assessed performance using keyword-level precision, recall, and F1-score with paired bootstrap tests (10,000 replicates). <strong>Results:</strong> We refined 1000 report annotations (interrater κ=0.957) and fine-tuned 1260 transformer models. Human-labeled transformers consistently outperformed distillation-labeled ones, with the largest gap at small training scales (ΔF1-score ≈0.042; adjusted <i>P</i>&lt;.001), which narrowed at larger scales (ΔF1-score ≈0.022; adjusted <i>P</i>&lt;.001). Teacher model choice had minimal effect on distilled performance. All 3 human-labeled transformer backbones (BERT, ALBERT, and Bio_ClinicalBERT) achieved high keyword-level F1-scores (0.982-0.985 under their best conditions; n=4200). In the 10-shot setting, GPT-5.3 Chat (F1-score 0.974) modestly underperformed human-labeled transformers in the large-sample range (ΔF1-score=0.009; adjusted <i>P</i>=.047) and significantly outperformed Gemma 4 (F1-score 0.957; adjusted <i>P</i>=.01) and Qwen3.6-Plus (F1-score 0.950; adjusted <i>P</i>&lt;.001) in the bootstrap analysis. GPT-5.3 Chat labeled reports at approximately US $0.018 per report and became less expensive than manual annotation when expert hourly wages exceeded US $0.64-1.50. <strong>Conclusions:</strong> Human-supervised transformers remain the strongest baseline, but frontier LLMs such as GPT-5.3 Chat offer comparable performance with minimal supervision. LLM-based distillation offers a cost-effective alternative with only minor performance loss. Dataset scale proved more influential than sampling strategy. Additionally, superior teacher performance yielded no proportional gains through distillation, as open-weight or low-cost teachers achieved comparable results. If supported by external validation, the proposed label-efficient framework could enable accurate and affordable negation detection and rapid domain adaptation.
+
+### [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 
 - Source: `hn_ai_health_signals` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/oosexgang/hackios-xnu-kernel`
+- Event: `updated` · identity: `url:https://github.com/oosexgang/hackios-xnu-kernel`
 
-Hacker News community signal; score 123.
+Hacker News community signal; score 307.
 
 ### [St Luke’s deploys hellocare.ai platform across Idaho sites in US](https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/)
 
@@ -3560,27 +3512,59 @@ Hacker News community signal; score 123.
 
 <p>St Luke's Health System has selected hellocare.ai to implement AI-assisted virtual care programmes across its inpatient facilities in Idaho.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/">St Luke&#8217;s deploys hellocare.ai platform across Idaho sites in US</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
+### [STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations](https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `47` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss`
+
+AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations.
+
 ### [STAT+: Crackdowns loom, from China to New York](https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
 - Reading value: `11` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss`
 
 Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or John_Wilkerson.07&#8230;
+
+### [STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial](https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `70` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss`
+
+A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment.
 
 ### [STAT+: FDA finalizes its guidance on apps related to drugs, pharma rejoices](https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
 - Reading value: `61` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss`
 
 In this edition of STAT Health Tech: FDA's guidance on prescription drug use-related software, and telehealth pushing GLP-1s for addiction.
+
+### [STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general](https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `61` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss`
+
+Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program
+
+### [STAT+: Nutrition experts press White House to release ultra-processed food definition](https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
+- Reading value: `30` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss`
+
+MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.
 
 ### [STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more](https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss`
 
 U.S. is poised to issue a proposed rule that would subject outbound licensing deals with Chinese biotech companies to additional scrutiny
 
@@ -3596,7 +3580,7 @@ As telehealth promotes GLP-1s for addiction, experts worry about fragmented care
 
 - Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
 - Reading value: `28` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/?utm_campaign=rss`
 
 The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect.
 
@@ -3604,7 +3588,7 @@ The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect
 
 - Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss`
 
 Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector.
 
@@ -3616,6 +3600,14 @@ Rumors are swirling that the Treasury Department this week is going to propose a
 
 A KFF survey finds that rising healthcare costs are squeezing both employers and workers.
 
+### [Stress-Symptom Interaction in Inflammatory Bowel Disease: Longitudinal Digital Phenotyping Study](https://medinform.jmir.org/2026/1/e95854)
+
+- Source: `jmir_medinform` · published `2026-10-22` · freshness `fresh`
+- Reading value: `53` · status: `scored`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e95854`
+
+Background: Stress and inflammatory bowel disease (IBD) symptoms may vary over short time scales, but these dynamics are not well captured by intermittent clinical assessments. Objective: The study aimed to characterize exploratory time-varying stress-symptom patterns using intensive longitudinal monitoring and to evaluate a transparent, patient-clustered analysis framework. Methods: A prospective longitudinal design was used with 74 patients with IBD monitored for 90 days. Daily data comprised 12 core indicators and 2 auxiliary measures. The canonical analysis used patient-level partial-correlation PCMCI (Peter and Clark Momentary Conditional Independence) with a τ of 0 to 2, patient-specific network scaling, a fixed 30-day cycle-end stress contrast, exploratory module-control, and effective-information summaries, and a secondary exploratory time-varying effect model (TVEM). Results: Mean stress was higher during cycle days 26 to 30 (mean 4.789, SD 1.079) than during nonwindow days (mean 4.160, SD 1.013), with a mean within-person difference of 0.629 (95% CI 0.550‐0.708; <.001); 71 of 74 (95.9%) participants showed a positive difference. Symptom scores had the highest mean of 9.88 (SD 0.09) and lowest dispersion, whereas stressors showed greater variability (mean 3.68, SD 0.49). The estimated network showed predominant forward connections from psychosocial factors through emotion regulation and psychophysiological amplification indicators to gut-specific symptoms. The psychophysiological amplification module had the highest micro-to-macro flow efficiency and macro-level control metric. In the TVEM analysis, the full module-control and causal-emergence models explained 64.4% and 45.6% of the deviance, respectively. Conclusions: In this longitudinal IBD patient cohort, daily monitoring identified a reproducible end-of-cycle stress comparison and an exploratory multiscale organization that links psychosocial, emotional, psychophysiological, and gut-specific symptom domains. The psychophysiological amplification module provides the most informative, comprehensive representation, although its organization varies depending on follow-up and disease status. These findings support the use of digital phenotypes to generate clinical evidence for the coordination of stress symptoms, tailored to individual situations.
+
 ### [The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.](https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
@@ -3624,13 +3616,21 @@ A KFF survey finds that rising healthcare costs are squeezing both employers and
 
 In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends that Anthropic’s rapid revenue growth does not justify its proposed $2 trillion IPO valuation, given enormous infrastructure commitments, safety concerns, customer concentration and competition from cheaper open-weight models, saying instead that lasting enterprise AI value will come from proprietary data, reliable deployment and measurable customer outcomes rather than expensive models alone.
 
+### [The Personalization-Privacy Paradox in AI-Enabled Health Care: Managing Trust and Governance Under the European Health Data Space](https://www.jmir.org/article/view/jmir_v28i1e94903)
+
+- Source: `jmir` · published `2026-10-22` · freshness `fresh`
+- Reading value: `58` · status: `scored`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e94903`
+
+AI enables increasingly personalized health care, but the data required intensifies long-standing concerns about privacy, confidentiality, and trust as the European Health Data Space (EHDS) expands the primary and secondary use of health data. This viewpoint examines how the EHDS reshapes the personalization-privacy paradox in AI-enabled health care and under what conditions it can manage, rather than resolve, this paradox. Drawing on privacy calculus theory, we analyze the patient-practitioner relationship, the flow of data from primary to secondary use, and the governance mechanisms introduced by Regulation (EU) 2025/327, including data access bodies, data permits, differentiated opt-out rights, and privacy-preserving technologies. We identify 5 governance conditions: purpose-specific governance, accessible opt-out design, practitioner-mediated transparency, privacy-preserving infrastructure, and independent oversight of secondary use actors. When these conditions are met, the EHDS can sustain trust while enabling personalization. We conclude that the EHDS does not eliminate the paradox but can provide a governance architecture to manage it, depending more on implementation quality and patient engagement than on the ambition of the framework itself. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/77c43e750a33667f3701eeab5b02bf23" />
+
 ### [Top MAHA adviser Calley Means resigns from White House days ahead of midterms](https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-22` · freshness `fresh`
-- Reading value: `42` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss`
+- Reading value: `36` · status: `needs_review`
+- Event: `updated` · identity: `url:https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss`
 
-The surprising departure comes just before an election that may serve as a referendum on the MAHA movement.
+The surprising departure of Calley Means comes just before an election that may serve as a referendum on the MAHA movement.
 
 ### [We are working with Voltus to build a 1-gigawatt virtual power plant.](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/)
 
@@ -3644,7 +3644,7 @@ The surprising departure comes just before an election that may serve as a refer
 
 - Source: `medcity_news` · published `2026-10-22` · freshness `fresh`
 - Reading value: `26` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/`
 
 <p><a href="https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg" class="attachment-large size-large wp-post-image" alt="alzheimer&#039;s, memory loss and senile dementure" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Throwing more money at SDoH programs isn’t going to magically fix them. Instead, plans should be focusing on building out these three specific capabilities that, together, can noticeably alter the playing field.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/">Why SDoH Programs Fall Short — and What It Takes to Make Them Work</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3660,9 +3660,17 @@ As AI agents increasingly recommend and purchase products, brands must appeal to
 
 - Source: `oura_blog` · published `2026-10-22` · freshness `fresh`
 - Reading value: `41` · status: `scored`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/oura-reaches-six-million-paid-members/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/oura-reaches-six-million-paid-members/`
 
 <p>ŌURA has reached six million paid members worldwide, with one million members added since the end of June, marking a new milestone in our mission to empower people to live healthier, longer. Every health journey is unique, so people come to Oura for different reasons: better sleep, a clearer picture of stress, a smarter approach [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/oura-reaches-six-million-paid-members/">ŌURA Reaches Six Million Paid Members</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
+
+### [Clinical AI governance for scalable innovation in value based healthcare systems](https://www.nature.com/articles/s41746-026-03409-4)
+
+- Source: `npj_digital_medicine` · published `2026-10-23` · freshness `fresh`
+- Reading value: `54` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03409-4`
+
+Health systems are deploying clinical artificial intelligence (AI) faster than they can govern it, and existing frameworks emphasize risk oversight over operational learning and scale. The Collaborative Technology Adoption for Care Transformation (C-TACT) framework, developed at Southern California Permanente Medical Group (SCPMG), organizes governance across three pillars (People, Process, Technology) and four lifecycle stages (Vendor Evaluation, Pilot, Scale, Maintenance), each operationalized through a domain-weighted scorecard. Scale and Maintenance scorecards incorporate business and operational execution as weighted domains, with Analytic Hierarchy Process methods (consistency ratio 0.0037). In an illustrative, retrospective application, the Pilot Score Card separated two published SCPMG AI deployments and four anonymized comparators (47.0–53.5) by approximately thirty points across three weighting schemes. This separation illustrates how the framework behaves in this comparison. It is not evidence of validated discriminative performance, because the comparator scores were reconstructed retrospectively and were not scored under blinded conditions. C-TACT is presented here as a governance framework and a methodological demonstration. Prospective, blinded validation is needed to establish its discriminative and predictive performance under real-world conditions.
 
 ---
 

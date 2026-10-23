@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T17:58:40+00:00",
+  "generated_at": "2026-10-22T23:59:20+00:00",
   "as_of": "2026-10-23",
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "id": "pmid:42895716",
@@ -1678,127 +1678,6 @@
             },
             "support": "the proportion diagnosed during in-home HRAs increased between 2018 and 2022 for hypertension (45.9% to 47.7%), hyperlipidemia (57.8% to 66.7%)",
             "total": 67
-          }
-        ],
-        "score": 72,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03112-4",
-      "title": "GUARD-LGG: a glioma upfront AI-driven radiotherapy response decipher for lower-grade glioma",
-      "original_title": "GUARD-LGG: a glioma upfront AI-driven radiotherapy response decipher for lower-grade glioma",
-      "summary": "Here we present GUARD-LGG, a machine learning model designed to predict early RT response in LGG before treatment. GUARD-LGG achieved AUCs of 0.946 (95% CI: 0.938–0.962), 0.929 (95% CI: 0.894–0.965), 0.882 (95% CI: 0.830–0.934), and 0.913 (95% CI: 0.878–0.949) in the training, internal validation, external, and prospective test sets, respectively.",
-      "url": "https://www.nature.com/articles/s41746-026-03112-4",
-      "source": "npj Digital Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-20",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03112-4",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03112-4"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
-      },
-      "reading_value_score": 72,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-20T12:44:55+00:00",
-        "input_hash": "3c9dcd40592ba608d5423a989f6a87b97a80fbfbf038efc46ab183ae6a8a74e9",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "多中心外部验证加前瞻性注册试验队列支持的治疗前放疗应答预测模型，对LGG个体化分层和后续临床验证设计有参考价值；AUC数字来自摘要级报告，临床实用性仍需在真实决策流程中检验。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261020204448e9c435cb0c314f2d",
-              "seconds": 2.82,
-              "usage": {
-                "completion_tokens": 133,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1075,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1208
-              }
-            },
-            "support": "trained on 963 patients from a major center, tested on 187 patients from seven independent institutions, and 328 patients prospectively enrolled in a registered clinical trial",
-            "total": 73
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261020204451feec1da3d63f47e9",
-              "seconds": 3.65,
-              "usage": {
-                "completion_tokens": 138,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 9
-                },
-                "prompt_tokens": 1075,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1024
-                },
-                "total_tokens": 1213
-              }
-            },
-            "support": "328 patients prospectively enrolled in a registered clinical trial. GUARD-LGG achieved AUCs of 0.946",
-            "total": 71
           }
         ],
         "score": 72,
