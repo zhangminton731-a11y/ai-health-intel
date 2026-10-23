@@ -1,14 +1,133 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T17:52:51+00:00",
+  "generated_at": "2026-10-23T23:51:34+00:00",
   "as_of": "2026-10-24",
-  "count": 22,
+  "count": 21,
   "items": [
+    {
+      "id": "pmid:42904878",
+      "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
+      "original_title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
+      "summary": "Background Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA). At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively).",
+      "url": "https://doi.org/10.1056/nejmoa2611477",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42904878",
+        "upstream_id": "42904878"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "research": "两项3期RCT（合计691例）显示retatrutide显著降低中重度OSA患者的AHI，为睡眠呼吸暂停的药物治疗提供新的3期证据，试验设计与estimand处理也值得借鉴。限制为疗效部分依赖体重下降，未报告长期心血管结局及与CPAP的联合策略。"
+      },
+      "reading_value_score": 81,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T23:53:04+00:00",
+        "input_hash": "1f477494fe5368f877eaafffd62228ca626d849fdcc420593ceb7979c3ebffda",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "两项3期RCT（合计691例）显示retatrutide显著降低中重度OSA患者的AHI，为睡眠呼吸暂停的药物治疗提供新的3期证据，试验设计与estimand处理也值得借鉴。限制为疗效部分依赖体重下降，未报告长期心血管结局及与CPAP的联合策略。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项3期RCT（合计691例）显示retatrutide显著降低中重度OSA患者的AHI，为睡眠呼吸暂停的药物治疗提供新的3期证据，试验设计与estimand处理也值得借鉴。限制为疗效部分依赖体重下降，未报告长期心血管结局及与CPAP的联合策略。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102407525888af2bb11f26445a",
+              "seconds": 2.95,
+              "usage": {
+                "completion_tokens": 143,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1669,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1812
+              }
+            },
+            "support": "two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide",
+            "total": 80
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项III期RCT（共691例）首次为三受体激动剂retatrutide治疗中重度OSA提供高质量证据，AHI较安慰剂显著下降且剂量效应清晰，对睡眠呼吸障碍药物治疗的试验设计与估计策略也有参考价值；数据来自礼莱资助的摘要级报告，长期心血管结局及对PAP使用的影响尚待验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610240753016843d4dd8b914ac9",
+              "seconds": 3.31,
+              "usage": {
+                "completion_tokens": 177,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1669,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1664
+                },
+                "total_tokens": 1846
+              }
+            },
+            "support": "The primary end point was the change in the apnea-hypopnea index (AHI, the average number of apneas and hypopneas per hour of sleep) at 80 weeks with 9 mg and 12 mg of retatrutide.",
+            "total": 82
+          }
+        ],
+        "score": 81,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
     {
       "id": "pmid:42906564",
       "title": "Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.",
       "original_title": "Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.",
-      "summary": "Neoadjuvant immune checkpoint blockade induces high pathological response rates in patients with locally advanced mismatch repair-deficient (dMMR) colon cancer, yet long-term survival outcomes have not been established. Previously, we reported safety (a primary endpoint) and pathological response (a secondary endpoint) data from the NICHE-2 trial. Here, we report the primary efficacy endpoint of 3-year disease-free survival and the exploratory endpoint of 5-year overall survival. In this single-arm, multicentre, phase 2, NICHE-2 trial, patients with previously untreated, clinical stage 2 or 3, resectable dMMR colon cancer received a single dose of intravenous ipilimumab (1 mg per kg) on day 1, and two doses of intravenous nivolumab (3 mg per kg) on days 1 and 15, followed by surgery in one of the six participating hospitals in the Netherlands.",
+      "summary": "Background Neoadjuvant immune checkpoint blockade induces high pathological response rates in patients with locally advanced mismatch repair-deficient (dMMR) colon cancer, yet long-term survival outcomes have not been established. Previously, we reported safety (a primary endpoint) and pathological response (a secondary endpoint) data from the NICHE-2 trial. Here, we report the primary efficacy endpoint of 3-year disease-free survival and the exploratory endpoint of 5-year overall survival. Methods In this single-arm, multicentre, phase 2, NICHE-2 trial, patients with previously untreated, clinical stage 2 or 3, resectable dMMR colon cancer received a single dose of intravenous ipilimumab (1 mg per kg) on day 1, and two doses of intravenous nivolumab (3 mg per kg) on days 1 and 15, followed by surgery in one of the six participating hospitals in the Netherlands.",
       "url": "https://doi.org/10.1016/s0140-6736(26)01602-8",
       "source": "The Lancet · 摘要索引",
       "source_type": "期刊论文",
@@ -16,9 +135,10 @@
       "topics": [
         "hospital",
         "research",
+        "business",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "updated",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -42,257 +162,18 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "NICHE-2报告dMMR结肠癌新辅助免疫治疗3年DFS与5年OS均为100%的长期终点，可能改变该人群标准治疗并支持去手术化研究设计。限制在于单臂II期设计、无随机对照，且OS为事后探索性分析，结论需谨慎外推。"
-      },
-      "reading_value_score": 83,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-23T12:39:58+00:00",
-        "input_hash": "0e23bf2bae5816b3a11a179979e6a49776b11110b7c4023e986c691f05c3468e",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "NICHE-2报告dMMR结肠癌新辅助免疫治疗3年DFS与5年OS均为100%的长期终点，可能改变该人群标准治疗并支持去手术化研究设计。限制在于单臂II期设计、无随机对照，且OS为事后探索性分析，结论需谨慎外推。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "NICHE-2三期随访报告dMMR结肠癌新辅助双免治疗后3年DFS与5年OS均达100%，为该方案成为标准治疗提供了迄今最长期生存证据，并附ctDNA清除与病理应答的关联数据，可直接指导围手术期免疫治疗设计与生物标志物研究。限制为单臂II期设计、无对照，且由药企资助，生存率比较需谨慎解读。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261023203949470bb1a3fdda49b2",
-              "seconds": 5.43,
-              "usage": {
-                "completion_tokens": 170,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1458,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1628
-              }
-            },
-            "support": "treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%",
-            "total": 84
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "NICHE-2报告dMMR结肠癌新辅助免疫治疗3年DFS与5年OS均为100%的长期终点，可能改变该人群标准治疗并支持去手术化研究设计。限制在于单臂II期设计、无随机对照，且OS为事后探索性分析，结论需谨慎外推。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102320395409016262691a4fb0",
-              "seconds": 3.77,
-              "usage": {
-                "completion_tokens": 158,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1458,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1616
-              }
-            },
-            "support": "In patients with locally advanced dMMR colon cancer, treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%.",
-            "total": 83
-          }
-        ],
-        "score": 83,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42907095",
-      "title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
-      "original_title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
-      "summary": "To assess the added value of acetic acid chromoendoscopy (AAC) for the detection of dysplasia and oesophageal adenocarcinoma during Barrett's oesophagus surveillance endoscopies. AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and Barrett's oesophagus length).",
-      "url": "https://doi.org/10.1136/bmj-2026-100872",
-      "source": "The BMJ · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-21",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42907095",
-        "upstream_id": "42907095"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "这是一项18家社区医院、2267例的阶梯楔形整群随机试验，为Barrett食管监测中醋酸染色内镜提供了明确阴性结果，可直接支持研究者与消化内镜团队调整监测方案设计。主要局限是阴性结论，靶向前瞻注册但为开放标签，检测率基线较低可能影响统计效能。"
+        "research": "NICHE-2长期随访报告dMMR结肠癌新辅助双免治疗3年DFS与5年OS均达100%，支持其成为潜在标准治疗，对局部晚期dMMR肠癌治疗决策和ctDNA缓解预测研究价值高；局限为单臂II期设计、无对照，OS为事后探索性分析。"
       },
       "reading_value_score": 78,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-23T12:40:24+00:00",
-        "input_hash": "80e7c8e9558c39a2eab51c79351da67ea9f5fce803292315ec0d27626571b806",
+        "evaluated_at": "2026-10-23T23:53:10+00:00",
+        "input_hash": "237e2531d75517b38d6c4adc45f1254768efa826d558d29457efba3c2cfc2df2",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "这是一项18家社区医院、2267例的阶梯楔形整群随机试验，为Barrett食管监测中醋酸染色内镜提供了明确阴性结果，可直接支持研究者与消化内镜团队调整监测方案设计。主要局限是阴性结论，靶向前瞻注册但为开放标签，检测率基线较低可能影响统计效能。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "这是一项18家社区医院、2267例的阶梯楔形整群随机试验，为Barrett食管监测中醋酸染色内镜提供了明确阴性结果，可直接支持研究者与消化内镜团队调整监测方案设计。主要局限是阴性结论，靶向前瞻注册但为开放标签，检测率基线较低可能影响统计效能。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610232040125367606ac0ba4138",
-              "seconds": 4.17,
-              "usage": {
-                "completion_tokens": 148,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1312,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1460
-              }
-            },
-            "support": "Use of AAC did not improve detection of neoplasia in patients with Barrett's oesophagus undergoing endoscopic surveillance in routine clinical practice.",
-            "total": 74
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "该阶梯楔形整群随机试验以2267例真实社区医院人群给出明确阴性结果：醋酸染色内镜并未提高Barrett食管肿瘤性病变检出率（OR 0.97），对内镜监测策略和成本决策有直接指导意义；设计规范、前瞻注册、结局经病理确认，证据等级高。局限为开放标签设计且AAC依从性约82%，可能轻微稀释效应估计。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610232040167291b9f160eb4776",
-              "seconds": 8.0,
-              "usage": {
-                "completion_tokens": 222,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 12
-                },
-                "prompt_tokens": 1312,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1280
-                },
-                "total_tokens": 1534
-              }
-            },
-            "support": "AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and",
-            "total": 82
-          }
-        ],
-        "score": 78,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42904878",
-      "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
-      "original_title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.",
-      "summary": "Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA). At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively).",
-      "url": "https://doi.org/10.1056/nejmoa2611477",
-      "source": "NEJM · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-21",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42904878",
-        "upstream_id": "42904878"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "research": "两项三期随机双盲安慰剂对照试验提供了retatrutide改善中重度OSA患者AHI的首个大规模剂量-反应证据（9mg差异约-24.4/-14.4事件/小时），并同步报告减重和ITT敏感性分析，对睡眠医学和GLP-1类多重激动剂研究设计均有参考价值；主要局限为药物尚未获批、以减重为中介机制未直接比较CPAP，安全性仅报告胃肠道事件为主。"
-      },
-      "reading_value_score": 78,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-23T12:39:48+00:00",
-        "input_hash": "59dec6be713e2716233d5d3184c0913b9fa296f571607f6d143967ec3fea75ba",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "两项三期随机双盲安慰剂对照试验提供了retatrutide改善中重度OSA患者AHI的首个大规模剂量-反应证据（9mg差异约-24.4/-14.4事件/小时），并同步报告减重和ITT敏感性分析，对睡眠医学和GLP-1类多重激动剂研究设计均有参考价值；主要局限为药物尚未获批、以减重为中介机制未直接比较CPAP，安全性仅报告胃肠道事件为主。",
+        "reason": "NICHE-2长期随访报告dMMR结肠癌新辅助双免治疗3年DFS与5年OS均达100%，支持其成为潜在标准治疗，对局部晚期dMMR肠癌治疗决策和ctDNA缓解预测研究价值高；局限为单臂II期设计、无对照，OS为事后探索性分析。",
         "reviews": [
           {
             "audiences": [
@@ -301,62 +182,62 @@
             "axes": {
               "evidence": 8,
               "novelty": 7,
-              "relevance": 7,
-              "significance": 8,
-              "usefulness": 6
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 7
             },
             "kind": "research",
-            "reason": "两项三期随机双盲安慰剂对照试验提供了retatrutide改善中重度OSA患者AHI的首个大规模剂量-反应证据（9mg差异约-24.4/-14.4事件/小时），并同步报告减重和ITT敏感性分析，对睡眠医学和GLP-1类多重激动剂研究设计均有参考价值；主要局限为药物尚未获批、以减重为中介机制未直接比较CPAP，安全性仅报告胃肠道事件为主。",
+            "reason": "NICHE-2长期随访显示dMMR结肠癌新辅助双免治疗后3年DFS与5年OS均达100%，为该人群新辅助免疫治疗成为标准治疗提供迄今最长的生存证据；局限为单臂II期设计、无对照组，OS为探索性事后分析，无法直接归因于免疫治疗相对标准手术的净获益。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261023203940b2f0cdae9d254909",
-              "seconds": 4.0,
+              "request_id": "202610240753048b1d753b45184ac2",
+              "seconds": 3.0,
               "usage": {
-                "completion_tokens": 187,
+                "completion_tokens": 167,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1664,
+                "prompt_tokens": 1465,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1851
+                "total_tokens": 1632
               }
             },
-            "support": "In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA",
-            "total": 75
+            "support": "In patients with locally advanced dMMR colon cancer, treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%.",
+            "total": 81
           },
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 8,
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 9,
               "significance": 8,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "两项3期随机对照试验显示retatrutide显著降低OSA患者的AHI，为肥胖相关OSA的药物治疗提供新证据，试验设计和estimand处理也可供睡眠研究借鉴；结果为摘要级，长期临床结局与安全性仍需进一步验证。",
+            "reason": "NICHE-2长期随访报告dMMR结肠癌新辅助双免治疗3年DFS与5年OS均达100%，支持其成为潜在标准治疗，对局部晚期dMMR肠癌治疗决策和ctDNA缓解预测研究价值高；局限为单臂II期设计、无对照，OS为事后探索性分析。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610232039447dbc844df77a4407",
-              "seconds": 3.97,
+              "request_id": "202610240753077b1f430f1fe64f27",
+              "seconds": 2.69,
               "usage": {
-                "completion_tokens": 133,
+                "completion_tokens": 151,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1664,
+                "prompt_tokens": 1465,
                 "prompt_tokens_details": {
-                  "cached_tokens": 704
+                  "cached_tokens": 1408
                 },
-                "total_tokens": 1797
+                "total_tokens": 1616
               }
             },
-            "support": "In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide",
-            "total": 82
+            "support": "treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%",
+            "total": 75
           }
         ],
         "score": 78,
@@ -846,120 +727,237 @@
       }
     },
     {
-      "id": "url:https://ai.jmir.org/2026/1/e81472/",
-      "title": "医学诊断成像中合成图像的质量评估和模型训练影响：系统评价",
-      "original_title": "Quality Assessment and Model Training Impact of Synthetic Images in Medical Diagnostic Imaging: Systematic Review",
-      "summary": "结论：与之前仅限于特定疾病、成像方式或生成架构的综述不同，这篇综述提供了合成图像质量评估和下游模型性能的跨领域定量综合。目前，合成图像作为真实训练数据的补充比作为替代品更有价值，分类性能略有改善，分割收益较小，并且仅合成训练的性能通常较差。对于研究人员、开发人员和监管机构来说，这些发现强调了在合成图像管道转化为临床人工智能应用之前需要标准化的多方法图像质量评估、完整的报告和严格的外部验证。试用注册：PROSPERO CRD42023369125；结果：总共纳入 160 项研究。",
-      "url": "https://ai.jmir.org/2026/1/e81472/",
-      "source": "JMIR AI",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-15",
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+      "title": "Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P)",
+      "original_title": "Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P)",
+      "summary": "Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P) Introduction Consistent with the President’s goal to prevent waste, fraud, and abuse, today the U.S. Department of Health and Human Services (HHS), through the Centers for Medicare & Medicaid Services (CMS), issued the Exchange Pre-Eligibility Verification Notice of Proposed Rulemaking. This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation (P.L. 119-21). The WFTC legislation amended the Internal Revenue Code to establish new eligibility requirements for the premium tax credit (PTC).",
+      "url": "https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+      "source": "CMS · 政策事实说明",
+      "source_type": "官方机构",
+      "published_at": "2026-10-23",
       "topics": [
         "hospital",
-        "research",
+        "business",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
-        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/212ba6819de06fc3350268d822897f4b",
         "observed_in_sources": [
-          "jmir_ai"
+          "cms_fact_sheets"
         ],
-        "retrieved_via": "rss",
-        "source_id": "jmir_ai",
-        "upstream_id": "https://ai.jmir.org/2026/1/e81472/"
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+        "upstream_id": ""
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "CMS正式发布Exchange资格预验证拟议规则，将改变2028计划年起医保市场补贴发放、年度重认证与州立Exchange过渡时间线，保险公司与交易平台需据此调整运营与合规规划。限制在于这是拟议规则，仍处30天公众意见征询期，最终条款可能调整。"
+      },
+      "reading_value_score": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-23T23:53:24+00:00",
+        "input_hash": "ab7283d408156c9dc97b1220104cb80307c093626a0600b5735275f1400fff59",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "CMS正式发布Exchange资格预验证拟议规则，将改变2028计划年起医保市场补贴发放、年度重认证与州立Exchange过渡时间线，保险公司与交易平台需据此调整运营与合规规划。限制在于这是拟议规则，仍处30天公众意见征询期，最终条款可能调整。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "policy",
+            "reason": "CMS正式发布Exchange资格预验证拟议规则，将改变2028计划年起医保市场补贴发放、年度重认证与州立Exchange过渡时间线，保险公司与交易平台需据此调整运营与合规规划。限制在于这是拟议规则，仍处30天公众意见征询期，最终条款可能调整。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610240753168a0ebd79f2ad4945",
+              "seconds": 2.97,
+              "usage": {
+                "completion_tokens": 147,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 2715,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2862
+              }
+            },
+            "support": "This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation (P.L. 119-21).",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "policy",
+            "reason": "这是CMS针对ACA交易所财务援助资格预核验的正式拟议规则，直接改变2028计划年起补贴发放、年度重核与州交易所转型时间表，保险机构、州交易所和医保支付相关方需据此评估合规与运营影响。局限在于尚处征求意见阶段，最终规则及实施细节可能调整。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261024075319db0aed34d97e4899",
+              "seconds": 5.63,
+              "usage": {
+                "completion_tokens": 162,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 21
+                },
+                "prompt_tokens": 2715,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2877
+              }
+            },
+            "support": "This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation",
+            "total": 77
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42907095",
+      "title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+      "original_title": "Acetic acid chromoendoscopy for detection of neoplastic Barrett's oesophagus: stepped wedge cluster randomised controlled trial (ACID-trial).",
+      "summary": "Objective To assess the added value of acetic acid chromoendoscopy (AAC) for the detection of dysplasia and oesophageal adenocarcinoma during Barrett's oesophagus surveillance endoscopies. AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and Barrett's oesophagus length).",
+      "url": "https://doi.org/10.1136/bmj-2026-100872",
+      "source": "The BMJ · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42907095",
+        "upstream_id": "42907095"
       },
       "sections": [
         "research"
       ],
       "categories": {
         "research": [
-          "papers",
-          "methods"
+          "papers"
         ]
       },
       "research_stages": [
-        "data",
-        "analysis",
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
+        "research": "18家社区医院、2267人的阶梯楔形整群随机试验提供高质量阴性证据：醋酸染色内镜并未提高Barrett食管监测中的瘤变检出率（OR 0.97, 95%CI 0.65–1.44），可直接指导监测内镜策略与后续研究设计；摘要未报告长期结局与费用数据，结论限于摘要层面。"
       },
       "reading_value_score": 75,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-15T23:43:11+00:00",
-        "input_hash": "6c341ee55bbe98b96dab5a7214ff10c1406fdd499b077608245e68da381b4330",
+        "evaluated_at": "2026-10-23T23:53:20+00:00",
+        "input_hash": "c42dc692d24f878215c1ebaffa8878894dbd18ef56c9b6ab6af80ce27342c481",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。",
+        "reason": "18家社区医院、2267人的阶梯楔形整群随机试验提供高质量阴性证据：醋酸染色内镜并未提高Barrett食管监测中的瘤变检出率（OR 0.97, 95%CI 0.65–1.44），可直接指导监测内镜策略与后续研究设计；摘要未报告长期结局与费用数据，结论限于摘要层面。",
         "reviews": [
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 7,
-              "novelty": 7,
+              "evidence": 9,
+              "novelty": 6,
               "relevance": 8,
               "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。",
+            "reason": "18家社区医院、2267人的阶梯楔形整群随机试验提供高质量阴性证据：醋酸染色内镜并未提高Barrett食管监测中的瘤变检出率（OR 0.97, 95%CI 0.65–1.44），可直接指导监测内镜策略与后续研究设计；摘要未报告长期结局与费用数据，结论限于摘要层面。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610160743040930c3d565c54fff",
-              "seconds": 3.34,
+              "request_id": "202610240753144cb8cffd85b147e1",
+              "seconds": 3.51,
               "usage": {
-                "completion_tokens": 163,
+                "completion_tokens": 193,
                 "completion_tokens_details": {
                   "reasoning_tokens": 6
                 },
-                "prompt_tokens": 1300,
+                "prompt_tokens": 1270,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
                 "total_tokens": 1463
               }
             },
-            "support": "A total of 160 studies were included. Generative adversarial network–based architectures dominated image generation (119 studies, 74.4%)",
-            "total": 71
+            "support": "AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44",
+            "total": 75
           },
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 8,
+              "evidence": 9,
               "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 8
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "160项研究的跨领域系统综述，量化了合成影像质量评估现状及其对下游模型的实际影响，给出合成数据宜作补充而非替代的定量结论，对AI医学影像研究设计与转化判断有直接参考价值。主要限制是纳入研究异质性大、偏倚风险高，只能做描述性综合。",
+            "reason": "18家社区医院、2267例的阶梯楔形整群随机试验显示醋酸染色内镜不提升Barrett食管肿瘤检出率（OR 0.97），是阴性结果且设计严谨、前瞻注册，可直接指导监测内镜实践与后续研究设计；主要局限为开放标签及依从率82%，属摘要级判断。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610160743074ead45baa11144a3",
-              "seconds": 4.39,
+              "request_id": "20261024075317b7dfe5f9bad2412a",
+              "seconds": 3.49,
               "usage": {
-                "completion_tokens": 286,
+                "completion_tokens": 180,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 145
+                  "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1300,
+                "prompt_tokens": 1270,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1280
+                  "cached_tokens": 1216
                 },
-                "total_tokens": 1586
+                "total_tokens": 1450
               }
             },
-            "support": "Synthetic-only training generally underperformed real-data training, including a median Dice similarity coefficient change of –10.2% for segmentation.",
-            "total": 79
+            "support": "AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44",
+            "total": 76
           }
         ],
         "score": 75,
@@ -1212,126 +1210,6 @@
       }
     },
     {
-      "id": "url:https://www.nature.com/articles/s41746-026-03211-2",
-      "title": "Silent evaluation reveals context-dependent validity of automated metrics for AI-generated clinical messages",
-      "original_title": "Silent evaluation reveals context-dependent validity of automated metrics for AI-generated clinical messages",
-      "summary": "Evaluation of AI-generated patient communication lacks standardized frameworks, and automated metrics may not reflect clinical utility. We leveraged a staged rollout of GPT-generated draft responses (GDRs) to patient portal messages. Thirty primary care physicians received drafts from September 2023 to August 2024 under two conditions: an intervention group where AI drafts were displayed and edited (n = 21,073), and a non-displayed group where drafts were generated but never shown to physicians, who composed responses independently (n = 45,127). We evaluated messages using BLEU, ROUGE, BERTScore, and Flesch Reading Ease, and then correlated automated metrics with blinded physician ratings of effectiveness, misunderstanding potential, and harm. In the intervention group, 2264 (11%) drafts were incorporated into final messages with high semantic alignment (BERTScore F1 = 0.93).",
-      "url": "https://www.nature.com/articles/s41746-026-03211-2",
-      "source": "npj Digital Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-21",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03211-2",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03211-2"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-21T12:57:44+00:00",
-        "input_hash": "1c7049609af94d2668b09cfe9612c77508dbd517a762cf0338c2ee9ba9a3d7f0",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "利用罕见的不显示AI草稿的对照组设计，提供了自动化指标（BLEU/BERTScore等）有效性依赖于使用情境的实证证据，对设计生成式AI临床评估方案有直接方法学价值。主要限制为单中心、患者门户消息这一窄场景，结论外推需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610212057364751714233e74d5d",
-              "seconds": 3.33,
-              "usage": {
-                "completion_tokens": 134,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1048,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1182
-              }
-            },
-            "support": "Automated metrics demonstrated context-dependent validity; they assessed editing fidelity but failed to evaluate whether AI-generated content matches independent human performance.",
-            "total": 75
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610212057407608e62da85e4b5a",
-              "seconds": 4.57,
-              "usage": {
-                "completion_tokens": 154,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1048,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1024
-                },
-                "total_tokens": 1202
-              }
-            },
-            "support": "Automated metrics demonstrated context-dependent validity; they assessed editing fidelity but failed to evaluate whether AI-generated content matches independent human performance.",
-            "total": 74
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
       "id": "pmid:42872914",
       "title": "术中多巴酚丁胺加去甲肾上腺素预防感染性休克术后急性肾损伤：一项随机临床试验。",
       "original_title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
@@ -1568,33 +1446,35 @@
       }
     },
     {
-      "id": "pmid:42905692",
-      "title": "Childhood Cancer Risk After Assisted Reproductive Technology.",
-      "original_title": "Childhood Cancer Risk After Assisted Reproductive Technology.",
-      "summary": "Childhood cancer risk after assisted reproductive technology (ART) remains uncertain, particularly by procedure and cancer type. To examine associations between ART and childhood cancer overall and by ART modality and cancer type. Nationwide Danish cohort of 1 086 136 live-born children from 1996 to 2012, of whom 37 228 (3.4%) were conceived using ART, with follow-up through 2023. Maternal ART, classified as in vitro fertilization (IVF), intracytoplasmic sperm injection, or frozen embryo transfer. Incident childhood cancer. Cox proportional hazards models estimated hazard ratios (HRs); Poisson models estimated incidence rates. Non-ART births were the primary reference; secondary analyses used children of women with a history of infertility and children conceived using IVF as reference groups. During a median follow-up of 20 years, 3736 cancers occurred.",
-      "url": "https://doi.org/10.1001/jama.2026.18862",
-      "source": "JAMA · 摘要索引",
+      "id": "url:https://www.nature.com/articles/s41746-026-03408-5",
+      "title": "Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis",
+      "original_title": "Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis",
+      "summary": "Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. We systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports represented 41 independent cohort clusters, including 40 core cohorts. Across three adjusted cohorts, clinician correctness was substantially higher with correct than incorrect automated advice (pooled OR 10.19, 95% CI 7.43–13.98; I² = 0%); a ≥ 2020 sensitivity analysis was similar but imprecise (OR 9.22, 95% CI 2.06–41.13). In four heterogeneous real-world computerized ECG studies, 26.6% of erroneous interpretations were not corrected or recognized (95% CI 6.4–65.6%; I² = 95.8%).",
+      "url": "https://www.nature.com/articles/s41746-026-03408-5",
+      "source": "npj Digital Medicine",
       "source_type": "期刊论文",
-      "published_at": "2026-10-21",
+      "published_at": "2026-10-23",
       "topics": [
+        "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "jama_abstracts"
+          "npj_digital_medicine"
         ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42905692",
-        "upstream_id": "42905692"
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03408-5",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03408-5"
       },
       "sections": [
         "research"
       ],
       "categories": {
         "research": [
-          "papers"
+          "papers",
+          "methods"
         ]
       },
       "research_stages": [
@@ -1602,51 +1482,19 @@
         "analysis"
       ],
       "recommendation_reasons": {
-        "research": "全国性百万级出生队列、随访约20年，按ART术式分层显示冷冻胚胎移植和ICSI与儿童癌症风险升高相关，且以不孕史和IVF为对照的二次分析提示操作相关因素值得进一步研究；主要限制为观察性设计、绝对风险低，不能确立因果。"
+        "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
       },
       "reading_value_score": 73,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-23T12:40:06+00:00",
-        "input_hash": "72afcb66ec8368df59d1ea760d4cd22ef33842f5e40520eacbb66f50b839b1a4",
+        "evaluated_at": "2026-10-23T23:52:21+00:00",
+        "input_hash": "74d21deaa3f70d057eb3818459ba5374c99cd35f1004be125538f7e1404d8978",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "全国性百万级出生队列、随访约20年，按ART术式分层显示冷冻胚胎移植和ICSI与儿童癌症风险升高相关，且以不孕史和IVF为对照的二次分析提示操作相关因素值得进一步研究；主要限制为观察性设计、绝对风险低，不能确立因果。",
+        "reason": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。",
         "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "全国性百万级出生队列、随访约20年，按ART术式分层显示冷冻胚胎移植和ICSI与儿童癌症风险升高相关，且以不孕史和IVF为对照的二次分析提示操作相关因素值得进一步研究；主要限制为观察性设计、绝对风险低，不能确立因果。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261023203958ddd778731bca4e04",
-              "seconds": 3.09,
-              "usage": {
-                "completion_tokens": 141,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1447,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1588
-              }
-            },
-            "support": "ART, particularly frozen embryo transfer and intracytoplasmic sperm injection, was associated with increased childhood cancer risk, but absolute risks were low.",
-            "total": 71
-          },
           {
             "audiences": [
               "research"
@@ -1656,28 +1504,60 @@
               "novelty": 7,
               "relevance": 8,
               "significance": 8,
-              "usefulness": 6
+              "usefulness": 7
             },
             "kind": "research",
-            "reason": "丹麦全国约109万儿童队列按ART方式分层估计儿童癌症风险，发现冷冻胚胎移植和ICSI与风险升高相关而IVF无关联，提示操作相关因素而非不孕本身；观察性设计无法确立因果，但多参照组敏感性分析增强了可信度，对生殖医学临床沟通与后续机制研究有直接价值。",
+            "reason": "系统综述量化了医生对错误AI建议的依从风险（错误输出下正确率大幅下降，ECG错误中约26.6%未被纠正），对临床AI部署的人机监督设计有直接参考价值；但汇集队列极少、异质性极高，结论精度有限。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "2026102320400169b0d6a99af04ab5",
-              "seconds": 4.52,
+              "request_id": "2026102407521433ce2ffdf82d4e19",
+              "seconds": 2.69,
               "usage": {
-                "completion_tokens": 156,
+                "completion_tokens": 124,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1447,
+                "prompt_tokens": 991,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1408
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1603
+                "total_tokens": 1115
               }
             },
-            "support": "Nationwide Danish cohort of 1 086 136 live-born children from 1996 to 2012, of whom 37 228 (3.4%) were conceived using ART",
-            "total": 76
+            "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261024075217bab4a592469c4e68",
+              "seconds": 4.34,
+              "usage": {
+                "completion_tokens": 169,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1160
+              }
+            },
+            "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
+            "total": 69
           }
         ],
         "score": 73,
@@ -2409,6 +2289,126 @@
       }
     },
     {
+      "id": "pmid:42905692",
+      "title": "Childhood Cancer Risk After Assisted Reproductive Technology.",
+      "original_title": "Childhood Cancer Risk After Assisted Reproductive Technology.",
+      "summary": "Importance Childhood cancer risk after assisted reproductive technology (ART) remains uncertain, particularly by procedure and cancer type. Objective To examine associations between ART and childhood cancer overall and by ART modality and cancer type. Design, setting, and population Nationwide Danish cohort of 1 086 136 live-born children from 1996 to 2012, of whom 37 228 (3.4%) were conceived using ART, with follow-up through 2023. Exposures Maternal ART, classified as in vitro fertilization (IVF), intracytoplasmic sperm injection, or frozen embryo transfer. Main outcomes and measures Incident childhood cancer. Cox proportional hazards models estimated hazard ratios (HRs); Poisson models estimated incidence rates. Non-ART births were the primary reference; secondary analyses used children of women with a history of infertility and children conceived using IVF as reference groups.",
+      "url": "https://doi.org/10.1001/jama.2026.18862",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-21",
+      "topics": [
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42905692",
+        "upstream_id": "42905692"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "analysis"
+      ],
+      "recommendation_reasons": {
+        "research": "全国性丹麦百万级队列、随访中位20年，按ART术式和癌种分层，并采用不孕史和IVF双重对照，提示冷冻胚胎移植和ICSI相关风险可能源于操作本身而非不孕，对生殖医学随访策略和后续机制研究有直接价值。局限为观察性关联、绝对风险低（ART组23.6/10万），不能确立因果。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T23:53:13+00:00",
+        "input_hash": "c57bc8f2a9c7f56fa524bd22bfdbd402b574f53280909001a12381bcfaf3f9a3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "全国性丹麦百万级队列、随访中位20年，按ART术式和癌种分层，并采用不孕史和IVF双重对照，提示冷冻胚胎移植和ICSI相关风险可能源于操作本身而非不孕，对生殖医学随访策略和后续机制研究有直接价值。局限为观察性关联、绝对风险低（ART组23.6/10万），不能确立因果。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "全国性丹麦百万级队列、随访中位20年，按ART术式和癌种分层，并采用不孕史和IVF双重对照，提示冷冻胚胎移植和ICSI相关风险可能源于操作本身而非不孕，对生殖医学随访策略和后续机制研究有直接价值。局限为观察性关联、绝对风险低（ART组23.6/10万），不能确立因果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102407530650d5026335364a1d",
+              "seconds": 3.44,
+              "usage": {
+                "completion_tokens": 173,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1467,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1640
+              }
+            },
+            "support": "children conceived using ART had higher cancer incidence (incidence rate, 23.6 per 100 000; HR, 1.26 [95% CI, 1.07-1.48])",
+            "total": 68
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "丹麦全国百万级出生队列、随访至2023年，首次较系统地按ART术式和癌症类型分层，发现冻胚移植与ICSI的关联在以不孕史及IVF人群为对照的敏感性分析中仍稳健，提示操作相关因素值得研究；主要限制是观察性设计、HR部分置信区间宽且绝对风险低。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261024075309c9d25438a0174367",
+              "seconds": 4.19,
+              "usage": {
+                "completion_tokens": 153,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1467,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1408
+                },
+                "total_tokens": 1620
+              }
+            },
+            "support": "The consistent results in secondary analyses of children with maternal infertility history or conceived via IVF suggest that procedure-related, rather than infertility-related, factors warrant further",
+            "total": 75
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "pmid:42872917",
       "title": "加压素起始阈值对感染性休克死亡率的影响：VASSPR 集群交叉随机策略试验。",
       "original_title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
@@ -2519,127 +2519,6 @@
               }
             },
             "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
-            "total": 67
-          }
-        ],
-        "score": 70,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42906565",
-      "title": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.",
-      "original_title": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.",
-      "summary": "Endometrial ablation is an established and effective treatment for women with heavy menstrual bleeding, but many patients require further treatment, with approximately 10% ultimately undergoing a hysterectomy within 2 years. The insertion of a levonorgestrel-releasing intrauterine system (LNG-IUS) immediately after endometrial ablation might inactivate residual untreated endometrium or prevent its regeneration, thereby preventing recurrent symptoms necessitating a hysterectomy. The aim of the study was to assess whether LNG-IUS insertion immediately after endometrial ablation in women with heavy menstrual bleeding reduced the need for subsequent hysterectomy within 2 years compared with endometrial ablation alone. This multicentre, open-label, randomised, controlled, superiority trial was conducted in 34 hospitals in the Netherlands.",
-      "url": "https://doi.org/10.1016/s0140-6736(26)01536-9",
-      "source": "The Lancet · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-21",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42906565",
-        "upstream_id": "42906565"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
-      },
-      "reading_value_score": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-23T12:40:12+00:00",
-        "input_hash": "baeb09235c6a758036c335a029e00c6234f166bdab8c5340422f7414ee315402",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "34家医院715例随机对照试验显示子宫内膜消融后即刻放置LNG-IUS将2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多治疗路径提供了直接可用的临床决策证据；局限为开放标签设计及6%失访，结果仍为摘要级判断。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261023203948c4c697a60591455a",
-              "seconds": 3.92,
-              "usage": {
-                "completion_tokens": 199,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1516,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1715
-              }
-            },
-            "support": "A hysterectomy was done in 15 (4%) of 342 participants in the combined treatment group versus 34 (10%) of 331 participants in the endometrial ablation group, corresponding to a relative risk (RR) of 0",
-            "total": 74
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 6,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102320395225a33cc15879488f",
-              "seconds": 19.65,
-              "usage": {
-                "completion_tokens": 205,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1516,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1472
-                },
-                "total_tokens": 1721
-              }
-            },
-            "support": "A hysterectomy was done in 15 (4%) of 342 participants in the combined treatment group versus 34 (10%) of 331 participants in the endometrial ablation group, corresponding to a relative risk (RR) of 0",
             "total": 67
           }
         ],
