@@ -1,9 +1,139 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T23:59:20+00:00",
+  "generated_at": "2026-10-23T06:02:45+00:00",
   "as_of": "2026-10-23",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03418-3",
+      "t": "",
+      "te": "Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection",
+      "s": "",
+      "se": "Pulmonary embolism (PE) is a leading cause of cardiovascular mortality, yet the real-world performance of FDA-cleared AI detection models remains incompletely characterized. Reference-standard labels were extracted from radiology reports using a validated LLM pipeline (97% accuracy, κ = 0.94). The PE model achieved 86.8% sensitivity and 99.1% specificity, with sensitivity declining from 99.3% for saddle emboli to 72.9% for subsegmental PE, and from 89.7% for acute to 65.3% for non-acute PE. The iPE model achieved 73.5% sensitivity and 99.8% specificity. Both models demonstrated lower sensitivity than FDA-clearance benchmarks while exceeding cleared specificity, with diminishing performance for peripheral and non-acute emboli mirroring known human reader limitations and underscoring the need for standardized post-market surveillance of AI-enabled medical devices.",
+      "u": "https://www.nature.com/articles/s41746-026-03418-3",
+      "image": "",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "business",
+        "regulation",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03418-3",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03418-3"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-21T12:58:02+00:00",
+        "input_hash": "d959d3a33fe20cb206d76292d56eddd829dd25284d83c359f775177d293b01ee",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610212057503754782655854d08",
+              "seconds": 5.36,
+              "usage": {
+                "completion_tokens": 154,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 5
+                },
+                "prompt_tokens": 1040,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1194
+              }
+            },
+            "support": "Both models demonstrated lower sensitivity than FDA-clearance benchmarks while exceeding cleared specificity, with diminishing performance for peripheral and non-acute emboli",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心大样本真实世界评估揭示了两个FDA获批AI肺栓塞检测模型敏感性低于审批基准且随栓子位置和急慢性程度衰减，对医院AI采购、部署阈值设定和上市后监管有直接参考价值；局限在于回顾性设计、参考标准来自放射报告文本而非独立影像 adjudication，可能低估或偏置敏感性估计。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610212057562c2e13aaa4d44b9f",
+              "seconds": 6.82,
+              "usage": {
+                "completion_tokens": 157,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 11
+                },
+                "prompt_tokens": 1040,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1197
+              }
+            },
+            "support": "Both models demonstrated lower sensitivity than FDA-clearance benchmarks while exceeding cleared specificity, with diminishing performance for peripheral and non-acute emboli",
+            "total": 74
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-10-21",
+      "reasons": {
+        "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03112-4",
       "t": "",
@@ -2104,6 +2234,13 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-10-21",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41746-026-03418-3"
+      ],
+      "minutes": 3
+    },
     {
       "date": "2026-10-20",
       "item_ids": [
