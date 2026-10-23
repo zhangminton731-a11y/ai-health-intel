@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T12:38:05+00:00",
-  "as_of": "2026-10-23",
+  "generated_at": "2026-10-23T17:52:51+00:00",
+  "as_of": "2026-10-24",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -127,7 +127,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -253,7 +253,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -383,7 +383,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
@@ -515,7 +515,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -646,7 +646,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -774,7 +774,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -905,7 +905,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -1036,10 +1036,275 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42869550",
+      "t": "报告评估医学大语言模型干预的临床试验的完整性：系统评价。",
+      "te": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review.",
+      "s": "目的 使用既定的报告指南来描述涉及大语言模型 (LLM) 干预的临床试验的报告完整性。设计系统回顾和元研究分析。数据来源 在书目数据库（Embase、Medline 和 CENTRAL）中检索试验报告和方案，在试验注册中心（ClinicalTrials.gov 和世界卫生组织国际临床试验注册平台）中检索 2017 年 1 月 1 日至 2025 年 12 月 6 日期间发布的试验注册。 资格标准 描述 LLM 医学干预临床试验的试验报告、试验方案和试验注册。",
+      "se": "Objective To characterise the reporting completeness of clinical trials involving large language model (LLM) interventions using established reporting guidelines. Design Systematic review and meta-research analysis. Data sources Bibliographic databases (Embase, Medline, and CENTRAL) were searched for trial reports and protocols, and trial registries (ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform) were searched for trial registrations published from 1 January 2017 to 6 December 2025. Eligibility criteria Trial reports, trial protocols, and trial registrations describing clinical trials of LLM interventions in medicine.",
+      "u": "https://doi.org/10.1136/bmj-2026-100855",
+      "image": "",
+      "src": "The BMJ · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "design",
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "bmj_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "bmj_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42869550",
+        "upstream_id": "42869550"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:55+00:00",
+        "input_hash": "31caba1cf49b3671026f408fd95b6fabaed334e3d789385da487d1f3bb45d622",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "系统综述量化了68份LLM临床试验报告对TRIPOD-LLM、CONSORT等指南的依从率（40%–59%），指出模型版本、推理参数、数据代码可及性和安全性报告的系统性缺失，可直接指导研究者设计LLM试验和审稿评价。主要限制是评估截至2025年的小样本早期试验，结论对方法学规范的反映多于对临床效果的判断。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001004879a90f142f364005",
+              "seconds": 3.91,
+              "usage": {
+                "completion_tokens": 179,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 6
+                },
+                "prompt_tokens": 1386,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1565
+              }
+            },
+            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 6,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100512e34710bb9034288",
+              "seconds": 3.51,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1386,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1552
+              }
+            },
+            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
+            "total": 67
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-13",
+      "reasons": {
+        "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42863122",
+      "t": "怀孕早期使用苯二氮卓类药物和先天性畸形的风险。",
+      "te": "Benzodiazepine Use Early in Pregnancy and Risk for Congenital Malformations.",
+      "s": "背景 关于妊娠期使用苯二氮卓类药物引起的畸形的现有数据是相互矛盾的。目的 评估妊娠早期接触苯二氮卓类药物导致主要先天畸形的风险。设计基于人群的美国队列研究。设置 Medicaid (2000-2018) 和 Merative MarketScan (2003-2020) 数据库。参与者 怀孕前 90 天至产后 30 天的孕妇以及出生后 90 天的活产婴儿。测量 暴露定义为在妊娠早期至少服用 1 次苯二氮卓类药物。主要结局是先前与苯二氮卓类药物暴露相关的任何主要先天性畸形和器官特异性畸形。",
+      "se": "Background Existing data on malformations associated with benzodiazepine use in pregnancy are conflicting. Objective To assess the risk for major congenital malformations from first-trimester exposure to benzodiazepines. Design Population-based U.S. cohort study. Setting Medicaid (2000-2018) and Merative MarketScan (2003-2020) databases. Participants Pregnant persons enrolled from 90 days before pregnancy to 30 days after delivery, and their live-born infants enrolled for 90 days after birth. Measurements Exposure was defined as at least 1 fill of a benzodiazepine in the first trimester. Primary outcomes were any major congenital malformation and organ-specific malformations previously associated with benzodiazepine exposure.",
+      "u": "https://doi.org/10.7326/annals-25-05148",
+      "image": "",
+      "src": "Annals of Internal Medicine · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "data"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "annals_internal_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "annals_internal_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42863122",
+        "upstream_id": "42863122"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:40+00:00",
+        "input_hash": "c03a08f90daaa0c64ba5f1a08ed06c95cb78bc70a63696446748b503fd718fb2",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项大型数据库（逾400万妊娠）的倾向评分分析给出苯二氮卓类早孕暴露与重大先天畸形无关的稳健阴性结果（合并RR 0.99），可直接支持产科用药咨询与研究设计。局限为观察性设计、暴露与结局错分可能及仅限出生时可见畸形。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010034c650fdc07c2f4384",
+              "seconds": 3.22,
+              "usage": {
+                "completion_tokens": 137,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1231,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1368
+              }
+            },
+            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03).",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100376a58384b0d074131",
+              "seconds": 2.78,
+              "usage": {
+                "completion_tokens": 149,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1231,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1380
+              }
+            },
+            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03). Associations with organ-specific malformations were not consistently observed in sensitivity analyses",
+            "total": 74
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-13",
+      "reasons": {
+        "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
       },
       "historical": true
     },
@@ -1167,7 +1432,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -1298,7 +1563,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-12",
       "reasons": {
         "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
@@ -1426,7 +1691,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -1556,7 +1821,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -1686,7 +1951,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
@@ -1811,7 +2076,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -1937,7 +2202,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -2069,7 +2334,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -2201,292 +2466,11 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
       },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03324-8",
-      "t": "临床预测模型的沙普利值解释：范围综述和指南",
-      "te": "Shapley value explanations for clinical prediction models: a scoping review and guide",
-      "s": "沙普利值解释越来越多地用于为医疗保健领域的“黑盒”预测模型提供更高的透明度。在本文中，我们对 Shapley 值解释进行了介绍性概述，并通过对 100 篇随机选择的同行评审出版物（这些出版物使用 Shapley 解释作为其临床研究的一部分）进行详细的范围综述来描述其用途。我们重点关注使用 Shapley 值解释来解释临床预测模型的预测，该模型使用表格输入特征（例如，测量血压和年龄等患者特征的预测变量）来预测个体的健康结果。在我们对文献的回顾中，我们发现用于计算沙普利值解释的方法经常被低估。",
-      "se": "Shapley value explanations are increasingly used to provide added transparency for “black-box” prediction models in healthcare. In this article, we provide an introductory overview of Shapley value explanations and describe their use through a detailed scoping review of 100 randomly selected, peer-reviewed publications that used Shapley explanations as part of their clinical research. We focus on the use of Shapley value explanations to explain the predictions of clinical prediction models that use tabular input features (e.g., predictors that measure patient characteristics like blood pressure and age) to predict health outcomes in individuals. In our review of the literature, we found that the methods used to compute Shapley value explanations were often underreported;",
-      "u": "https://www.nature.com/articles/s41746-026-03324-8",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03324-8",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03324-8"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-03",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03272-3",
-      "t": "通过多国临床验证和阅片者研究，可解释的多模态检索增强乳腺超声诊断",
-      "te": "Interpretable multimodal retrieval augmented diagnosis for breast ultrasound with multinational clinical validation and reader study",
-      "s": "我们提出了 B-RAD，一种 BI-RADS 感知的检索增强诊断框架，它反映了放射科医生检索范例、定位病变和确定 BI-RADS 类别的工作流程。我们在来自 7 个国家的 11 个队列中验证了 B-RAD，总计 8311 张图像，涵盖内部验证和三个外部队列（包括一个独立机构队列）。整个管道在该机构队列中达到了 0.952 的活检分类 AUROC，无需微调，优于现有的视觉语言模型。在一项四位读者的研究中，B-RAD 的帮助提高了准确性，将读者间的一致性从中等提高到显着，并减少了所有读者漏诊的恶性肿瘤。",
-      "se": "We propose B-RAD, a BI-RADS-aware retrieval-augmented diagnosis framework that mirrors the radiologist workflow of retrieving exemplars, localizing lesions, and determining the BI-RADS category. We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort. The full pipeline reached a biopsy triage AUROC of 0.952 on that institutional cohort without fine-tuning, outperforming existing vision-language models. In a four-reader study, B-RAD assistance improved accuracy, raised inter-reader agreement from moderate to substantial, and reduced missed malignancies across all readers.",
-      "u": "https://www.nature.com/articles/s41746-026-03272-3",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03272-3",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03272-3"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 75,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-04T08:35:59+00:00",
-        "input_hash": "9b43e32e175b93dbe164ee3de71c654f592b2d7102a11be27907b800c238ca51",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100416355055834c2293894db9",
-              "seconds": 4.55,
-              "usage": {
-                "completion_tokens": 174,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 4
-                },
-                "prompt_tokens": 1107,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1281
-              }
-            },
-            "support": "We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort.",
-            "total": 70
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "检索增强+BI-RADS感知的多模态诊断框架在7国11个队列8311张图像及四读者研究中验证，外部验证和读者研究设计较完整，对乳腺超声AI落地和缩小读片差距有实质参考价值；局限是未提供假阳性率、临床工作流整合细节及全文中更细的失败分析。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261004163555e4cc41c23a3243ec",
-              "seconds": 4.81,
-              "usage": {
-                "completion_tokens": 168,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 12
-                },
-                "prompt_tokens": 1107,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1275
-              }
-            },
-            "support": "We validated B-RAD on eleven cohorts from seven countries totaling 8311 images, spanning internal validation and three external cohorts including an independent institutional cohort.",
-            "total": 80
-          }
-        ],
-        "score": 75,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-03",
-      "reasons": {
-        "research": "摘要级看，B-RAD以检索增强方式对齐BI-RADS评估流程，在7国11个队列8311张图像上完成外部验证并附读者研究，对超声AI诊断模型的跨中心泛化与可解释性设计有直接参考价值。主要限制：摘要未提供敏感度/特异度、假阳性代价及部署细节，临床获益仍需全文审阅与前瞻验证。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03252-7",
-      "t": "OncoTagger：Web of Science 中开放获取的 AI 肿瘤学文章的可重复摘要级研究图谱",
-      "te": "OncoTagger: a reproducible abstract-level landscape of open-access AI-oncology articles in Web of Science",
-      "s": "我们开发了 OncoTagger，这是一种基于规则的抽象级证据监控管道，并将其应用于 Web of Science 核心合集中索引的英语开放获取文章语料库，并在 2019 年至 2025 年的标题、摘要、关键词和元数据级别进行分析。预测层加权语料库级别估计显示指标检测准确度为 92.3%（95% CI） 88.9–95.2%），敏感性为 89.3%（85.4–93.3%），特异性为 98.2%（94.5–100.0%）。它应该被解释为可重复的总体监测基础设施，而不是人工智能肿瘤学领域的全面普查、经过验证的文章级分类器或算法性能的比较评估。",
-      "se": "We developed OncoTagger, a rule-based abstract-level evidence-surveillance pipeline, and applied it to an English-language, open-access article corpus indexed in the Web of Science Core Collection and analyzed at the title-, abstract-, keyword-, and metadata level from 2019 to 2025. Prediction-stratum-weighted corpus-level estimates showed metric-detection accuracy of 92.3% (95% CI 88.9–95.2%), sensitivity of 89.3% (85.4–93.3%), and specificity of 98.2% (94.5–100.0%). It should be interpreted as reproducible aggregate surveillance infrastructure, not as a full census of the AI-oncology field, a validated article-level classifier, or a comparative evaluation of algorithmic performance.",
-      "u": "https://www.nature.com/articles/s41746-026-03252-7",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03252-7",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03252-7"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-03",
-      "reasons": {},
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03227-8",
-      "t": "身体质量指数的大脑特征可预测心脏代谢和呼吸系统疾病状态",
-      "te": "Brain signatures of body mass index predict cardiometabolic and respiratory disease status",
-      "s": "尽管使用神经网络的大脑生物标志物取得了进展，但体重对大脑结构的影响却被忽视了，特别是与非传染性疾病有关的影响。我们在 T1 加权 MRI 扫描上应用深度学习来预测六个独立队列的 BMI，并实现了强大的队列内表现和较低的外部表现。",
-      "se": "Despite advances in brain biomarkers using neural networks, the effects of body mass on brain structure have been neglected, particularly in connection with noncommunicable diseases. We applied deep learning on T1-weighted MRI scans to predict BMI from six independent cohorts and achieved strong within-cohort and reduced external performance.",
-      "u": "https://www.nature.com/articles/s41746-026-03227-8",
-      "image": "",
-      "src": "npj Digital Medicine",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03227-8",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03227-8"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": null,
-      "editorial": {
-        "status": "legacy_unscored"
-      },
-      "when": "20 天前",
-      "date": "2026-10-03",
-      "reasons": {},
       "historical": true
     }
   ],
@@ -2531,9 +2515,11 @@
     {
       "date": "2026-10-13",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41551-026-01812-6"
+        "pmid:42863122",
+        "url:https://www.nature.com/articles/s41551-026-01812-6",
+        "pmid:42869550"
       ],
-      "minutes": 1
+      "minutes": 2
     },
     {
       "date": "2026-10-12",
@@ -2567,16 +2553,6 @@
         "url:https://www.cms.gov/newsroom/fact-sheets/transparency-coverage-final-rules-cms-9882-f"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-10-03",
-      "item_ids": [
-        "url:https://www.nature.com/articles/s41746-026-03272-3",
-        "url:https://www.nature.com/articles/s41746-026-03227-8",
-        "url:https://www.nature.com/articles/s41746-026-03252-7",
-        "url:https://www.nature.com/articles/s41746-026-03324-8"
-      ],
-      "minutes": 3
     }
   ]
 }

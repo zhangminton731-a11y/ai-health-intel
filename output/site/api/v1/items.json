@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T12:38:05+00:00",
-  "as_of": "2026-10-23",
-  "count": 24,
+  "generated_at": "2026-10-23T17:52:51+00:00",
+  "as_of": "2026-10-24",
+  "count": 22,
   "items": [
     {
       "id": "pmid:42906564",
@@ -18,7 +18,7 @@
         "research",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -140,7 +140,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "bmj_abstracts"
@@ -236,7 +236,7 @@
                 "total_tokens": 1534
               }
             },
-            "support": "AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and ",
+            "support": "AAC use did not increase the neoplasia detection rate (7.4% (50/679) with AAC versus 7.1% (113/1588) without AAC; odds ratio 0.97, 95% confidence interval 0.65 to 1.44; adjusted for calendar time and",
             "total": 82
           }
         ],
@@ -261,7 +261,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
@@ -499,7 +499,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -963,128 +963,6 @@
           }
         ],
         "score": 75,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42863122",
-      "title": "怀孕早期使用苯二氮卓类药物和先天性畸形的风险。",
-      "original_title": "Benzodiazepine Use Early in Pregnancy and Risk for Congenital Malformations.",
-      "summary": "背景 关于妊娠期使用苯二氮卓类药物引起的畸形的现有数据是相互矛盾的。目的 评估妊娠早期接触苯二氮卓类药物导致主要先天畸形的风险。设计基于人群的美国队列研究。设置 Medicaid (2000-2018) 和 Merative MarketScan (2003-2020) 数据库。参与者 怀孕前 90 天至产后 30 天的孕妇以及出生后 90 天的活产婴儿。测量 暴露定义为在妊娠早期至少服用 1 次苯二氮卓类药物。主要结局是先前与苯二氮卓类药物暴露相关的任何主要先天性畸形和器官特异性畸形。",
-      "url": "https://doi.org/10.7326/annals-25-05148",
-      "source": "Annals of Internal Medicine · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-13",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "annals_internal_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "annals_internal_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42863122",
-        "upstream_id": "42863122"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "data"
-      ],
-      "recommendation_reasons": {
-        "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:40+00:00",
-        "input_hash": "c03a08f90daaa0c64ba5f1a08ed06c95cb78bc70a63696446748b503fd718fb2",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "两项大型数据库（逾400万妊娠）的倾向评分分析给出苯二氮卓类早孕暴露与重大先天畸形无关的稳健阴性结果（合并RR 0.99），可直接支持产科用药咨询与研究设计。局限为观察性设计、暴露与结局错分可能及仅限出生时可见畸形。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261020010034c650fdc07c2f4384",
-              "seconds": 3.22,
-              "usage": {
-                "completion_tokens": 137,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1231,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1368
-              }
-            },
-            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03).",
-            "total": 75
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610200100376a58384b0d074131",
-              "seconds": 2.78,
-              "usage": {
-                "completion_tokens": 149,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1231,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1216
-                },
-                "total_tokens": 1380
-              }
-            },
-            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03). Associations with organ-specific malformations were not consistently observed in sensitivity analyses",
-            "total": 74
-          }
-        ],
-        "score": 74,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -1701,7 +1579,7 @@
       "topics": [
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -2066,7 +1944,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -2531,131 +2409,6 @@
       }
     },
     {
-      "id": "pmid:42869550",
-      "title": "报告评估医学大语言模型干预的临床试验的完整性：系统评价。",
-      "original_title": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review.",
-      "summary": "目的 使用既定的报告指南来描述涉及大语言模型 (LLM) 干预的临床试验的报告完整性。设计系统回顾和元研究分析。数据来源 在书目数据库（Embase、Medline 和 CENTRAL）中检索试验报告和方案，在试验注册中心（ClinicalTrials.gov 和世界卫生组织国际临床试验注册平台）中检索 2017 年 1 月 1 日至 2025 年 12 月 6 日期间发布的试验注册。 资格标准 描述 LLM 医学干预临床试验的试验报告、试验方案和试验注册。",
-      "url": "https://doi.org/10.1136/bmj-2026-100855",
-      "source": "The BMJ · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-13",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42869550",
-        "upstream_id": "42869550"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
-      },
-      "reading_value_score": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:55+00:00",
-        "input_hash": "31caba1cf49b3671026f408fd95b6fabaed334e3d789385da487d1f3bb45d622",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "系统综述量化了68份LLM临床试验报告对TRIPOD-LLM、CONSORT等指南的依从率（40%–59%），指出模型版本、推理参数、数据代码可及性和安全性报告的系统性缺失，可直接指导研究者设计LLM试验和审稿评价。主要限制是评估截至2025年的小样本早期试验，结论对方法学规范的反映多于对临床效果的判断。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001004879a90f142f364005",
-              "seconds": 3.91,
-              "usage": {
-                "completion_tokens": 179,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 6
-                },
-                "prompt_tokens": 1386,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1565
-              }
-            },
-            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
-            "total": 74
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 6,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610200100512e34710bb9034288",
-              "seconds": 3.51,
-              "usage": {
-                "completion_tokens": 166,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1386,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1552
-              }
-            },
-            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
-            "total": 67
-          }
-        ],
-        "score": 70,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
       "id": "pmid:42872917",
       "title": "加压素起始阈值对感染性休克死亡率的影响：VASSPR 集群交叉随机策略试验。",
       "original_title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
@@ -2789,7 +2542,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
