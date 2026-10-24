@@ -1,24 +1,17 @@
 {
-  "checks": [
-    {
-      "count": 30,
-      "hit_count": 52,
-      "kind": "europe_pmc",
-      "query": "ISSN:0028-4793 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-07-26 TO 2026-10-24] sort_date:y"
-    }
-  ],
-  "consecutive_failures": 0,
-  "elapsed_ms": 1493,
+  "checks": [],
+  "consecutive_failures": 1,
+  "elapsed_ms": 3087,
   "enabled": true,
-  "error": "",
-  "generated_at": "2026-10-24T05:54:52+00:00",
-  "item_count": 30,
-  "last_checked_at": "2026-10-24T05:54:52+00:00",
+  "error": "RuntimeError: request failed after 3 attempts: HTTPError",
+  "generated_at": "2026-10-24T12:00:51+00:00",
+  "item_count": 0,
+  "last_checked_at": "2026-10-24T12:00:51+00:00",
   "last_success_at": "2026-10-24T05:54:52+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
   "source_id": "nejm_abstracts",
   "source_kind": "europe_pmc",
-  "status": "ok"
+  "status": "failed"
 }
