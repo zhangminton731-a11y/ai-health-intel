@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-24T12:00:51+00:00",
-  "as_of": "2026-10-24",
+  "generated_at": "2026-10-24T16:35:26+00:00",
+  "as_of": "2026-10-25",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -127,7 +127,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -256,7 +256,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
@@ -382,7 +382,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -512,7 +512,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
@@ -642,7 +642,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
@@ -774,7 +774,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -905,7 +905,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -1033,7 +1033,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -1164,7 +1164,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -1297,10 +1297,667 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42878622",
+      "t": "未经胰岛素治疗的 2 型糖尿病的连续血糖监测。",
+      "te": "Continuous Glucose Monitoring in Non-Insulin-Treated Type 2 Diabetes.",
+      "s": "背景 连续血糖监测 (CGM) 已被证明对 1 型糖尿病患者和其他接受胰岛素治疗的 2 型糖尿病患者有益，但其在治疗未接受胰岛素治疗的 2 型糖尿病患者中的作用还需要进一步研究。 CGM 组的平均 (±SD) 糖化血红蛋白水平从基线时的 8.8±1.3% 降至 26 周时的 7.2±1.1%，常规护理组从 8.7±1.2% 降至 8.0±1.4%（调整后的平均差，-0.9 个百分点；95% 置信区间 [CI]，-1.1 至 -0.6；P < 0.001）。",
+      "se": "Background Continuous glucose monitoring (CGM) has been shown to be beneficial in persons with type 1 diabetes and others with insulin-treated type 2 diabetes, but its role in the treatment of persons with type 2 diabetes not being treated with insulin has needed further study. The mean (±SD) glycated hemoglobin level decreased from 8.8±1.3% at baseline to 7.2±1.1% at 26 weeks in the CGM group and from 8.7±1.2% to 8.0±1.4% in the routine-care group (adjusted mean difference, -0.9 percentage points; 95% confidence interval [CI], -1.1 to -0.6; P < 0.001).",
+      "u": "https://doi.org/10.1056/nejmoa2608571",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42878622",
+        "upstream_id": "42878622"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-20T00:22:05+00:00",
+        "input_hash": "ff48334a10428cfe9e00b4bd6b5e65db6611ed68dbea420cf854388853517ff1",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是针对非胰岛素治疗2型糖尿病人群CGM价值的多中心随机对照试验（283例、26周、HbA1c组间差异-0.9个百分点），填补了此前证据仅限胰岛素治疗人群的空白，可直接影响门诊血糖管理路径和后续研究设计。主要限制：由Dexcom资助、仅报告摘要级结果，长期获益、成本效益及依从性细节待全文验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020082157c93ec125d87f4345",
+              "seconds": 4.05,
+              "usage": {
+                "completion_tokens": 192,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 16
+                },
+                "prompt_tokens": 1109,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1301
+              }
+            },
+            "support": "we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200822013b205a570cf34ff2",
+              "seconds": 3.69,
+              "usage": {
+                "completion_tokens": 164,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1109,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1088
+                },
+                "total_tokens": 1273
+              }
+            },
+            "support": "we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks",
+            "total": 68
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-14",
+      "reasons": {
+        "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42873070",
+      "t": "急性肾损伤的间歇或连续肾脏替代治疗。",
+      "te": "Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury.",
+      "s": "背景 危重患者急性肾损伤的首选肾脏替代治疗方法仍不确定。到第 90 天，间歇组有 203 名患者（78.1%）发生了重大肾脏不良事件，连续组有 197 名患者（71.6%）发生了重大肾脏不良事件（调整后的绝对风险差异，6.28 个百分点；95% 置信区间 [CI]，-1.22 至 13.79）。",
+      "se": "Background The preferred method of renal-replacement therapy for acute kidney injury in critically ill patients remains uncertain. A major adverse kidney event occurred by day 90 in 203 patients (78.1%) in the intermittent group and in 197 patients (71.6%) in the continuous group (adjusted absolute risk difference, 6.28 percentage points; 95% confidence interval [CI], -1.22 to 13.79).",
+      "u": "https://doi.org/10.1056/nejmoa2608397",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42873070",
+        "upstream_id": "42873070"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:07+00:00",
+        "input_hash": "4b1939dba8788e49b2440967befb824c6ccaa14dfbf37af189bbf21ac1d34bb5",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心非劣效RCT因间歇性血透死亡率高于CRRT而提前终止，直接冲击ICU急性肾损伤初始肾脏替代方式的选择。554例样本、主要结局与90天死亡率数据具体，可作为科室RRT启动策略与后续试验设计依据；局限在于开放标签设计且因提前终止对死亡率信号的解读需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001000165b326a103024bd6",
+              "seconds": 3.5,
+              "usage": {
+                "completion_tokens": 162,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1249,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1411
+              }
+            },
+            "support": "intermittent hemodialysis as the initial treatment approach was not shown to be noninferior to continuous renal-replacement therapy with respect to major adverse kidney events by day 90 and was associ",
+            "total": 79
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001000494d7eb0b60f34c85",
+              "seconds": 2.85,
+              "usage": {
+                "completion_tokens": 141,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1249,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1390
+              }
+            },
+            "support": "The trial was stopped early after sequential interim analyses showed a sustained signal of higher mortality with intermittent hemodialysis than with continuous renal-replacement therapy.",
+            "total": 70
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-14",
+      "reasons": {
+        "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42872917",
+      "t": "加压素起始阈值对感染性休克死亡率的影响：VASSPR 集群交叉随机策略试验。",
+      "te": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
+      "s": "重要性 对于感染性休克患者，开始使用第二种血管升压药的最佳升压药剂量尚不确定。干预 医院层面实施感染性休克管理策略，建议当其他血管升压药的总剂量达到去甲肾上腺素或等效物 0.1 µg/kg/min 或等效物（较低阈值策略）或其他血管升压药的总剂量达到去甲肾上腺素或等效物 0.4 µg/kg/min 时（较高阈值策略），开始固定剂量加压素。",
+      "se": "Importance The optimal vasopressor dose at which to initiate a second vasopressor in patients with septic shock is uncertain. Intervention Hospital-level implementation of septic shock management strategies recommending fixed-dose vasopressin initiation when the total dose of other vasopressors reached 0.1 µg/kg/min of norepinephrine or equivalent (lower-threshold strategy) or when the total dose of other vasopressors reached 0.4 µg/kg/min of norepinephrine or equivalent (higher-threshold strategy).",
+      "u": "https://doi.org/10.1001/jama.2026.21333",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42872917",
+        "upstream_id": "42872917"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:22+00:00",
+        "input_hash": "f86498030d9ab798eeba72bcff4ee264dfd1a9bd80dc06a4c5097122fa73cb12",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型整群交叉实用化策略试验，直接回答感染性休克中血管加压素启动阈值这一常见临床争议，阴性结果可指导救治方案与后续研究设计；摘要级信息完整，但具体亚组与细节需看全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010015eddbab48e4a94cc4",
+              "seconds": 3.21,
+              "usage": {
+                "completion_tokens": 138,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1605,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1743
+              }
+            },
+            "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 6,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001001897c9c8244f624750",
+              "seconds": 3.32,
+              "usage": {
+                "completion_tokens": 166,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1605,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1600
+                },
+                "total_tokens": 1771
+              }
+            },
+            "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
+            "total": 67
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-14",
+      "reasons": {
+        "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42872914",
+      "t": "术中多巴酚丁胺加去甲肾上腺素预防感染性休克术后急性肾损伤：一项随机临床试验。",
+      "te": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
+      "s": "重要性 基于极低确定性的证据，国际指南建议使用多巴酚丁胺来治疗成人感染性休克和伴有持续低灌注的心功能障碍。缺乏关于术中多巴酚丁胺联合去甲肾上腺素与去甲肾上腺素对接受手术感染性休克患者术后感染源控制的影响的随机试验。目的 确定术中多巴酚丁胺联合去甲肾上腺素是否可以减轻接受手术源控制的感染性休克患者术后 7 天内的急性肾损伤（AKI）。设计、设置和参与者 这项在中国 39 家三级医院开展的随机、开放标签临床试验纳入了 2024 年 6 月至 2025 年 8 月期间接受手术源控制的感染性休克成人患者。随访于 2025 年 11 月 15 日结束。",
+      "se": "Importance International guidelines recommend dobutamine for management of septic shock and cardiac dysfunction with persistent hypoperfusion in adults based on very low-certainty evidence. Randomized trials are lacking on the effect of intraoperative dobutamine combined with norepinephrine vs norepinephrine on postoperative outcomes in patients with septic shock undergoing surgical source control. Objective To determine whether intraoperative dobutamine combined with norepinephrine reduces acute kidney injury (AKI) within 7 postoperative days in patients with septic shock undergoing surgical source control. Design, setting, and participants This randomized, open-label clinical trial in 39 tertiary hospitals in China enrolled adults with septic shock who were undergoing surgical source control between June 2024 and August 2025. Follow-up ended on November 15, 2025.",
+      "u": "https://doi.org/10.1001/jama.2026.21322",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42872914",
+        "upstream_id": "42872914"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:26+00:00",
+        "input_hash": "370ae654905fda047ac93da239cdd22912e74fe964d4991aad3948f5dec14377",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多中心随机对照试验首次针对指南低证据推荐的多巴酚丁胺联合去甲肾上腺素策略，584例感染性休克手术患者显示7天内AKI风险显著降低，可直接影响围术期循环管理与后续研究设计。主要局限为开放标签设计，9/11次要终点无差异，且仅报告摘要级数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010019ac0c1ad7feec4a19",
+              "seconds": 3.16,
+              "usage": {
+                "completion_tokens": 156,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1486,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1642
+              }
+            },
+            "support": "intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100232a27fcd484b64d89",
+              "seconds": 3.5,
+              "usage": {
+                "completion_tokens": 185,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1486,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1472
+                },
+                "total_tokens": 1671
+              }
+            },
+            "support": "new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone",
+            "total": 72
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-14",
+      "reasons": {
+        "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42872606",
+      "t": "机械通气危重成年患者的液体治疗。",
+      "te": "Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
+      "s": "重要性 液体治疗在重症监护病房 (ICU) 中无处不在，但存在风险，特别是对于机械通气患者。目前全球在剂量、适应症和类型方面的实践尚不清楚。目的 描述 ICU 成人机械通气液体操作的特点。设计、设置和参与者 2024 年 4 月至 2025 年 7 月期间在六大洲 41 个国家的 206 个 ICU 中进行的国际前瞻性观察队列研究。入ICU后3天内连续接受有创机械通气且通气24小时或更长时间的成年患者。排除标准是年龄小于 16 岁并且从另一个 ICU 转入机械通气。暴露 插管后的液体量、适应症和类型。主要结局和指标 主要指标包括（1）插管后 7 天内的总输液量和每日液体平衡；",
+      "se": "Importance Fluid therapy is ubiquitous in the intensive care unit (ICU) but carries risks, especially in mechanically ventilated patients. Contemporary global practice across dose, indication, and type is unknown. Objective To characterize ICU fluid practices in mechanically ventilated adults. Design, setting, and participants International prospective observational cohort study between April 2024 and July 2025, across 206 ICUs in 41 countries on 6 continents. Consecutive adult patients receiving invasive mechanical ventilation within 3 days of ICU admission and ventilated 24 hours or more. Exclusion criteria were age younger than 16 years and transfer under mechanical ventilation from another ICU. Exposures Fluid volume, indication, and type after intubation. Main outcomes and measures Key measures included (1) total infused volume and daily fluid balance over 7 days after intubation;",
+      "u": "https://doi.org/10.1001/jama.2026.21291",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42872606",
+        "upstream_id": "42872606"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-19T17:00:28+00:00",
+        "input_hash": "6e3997d0450af1cd4d9a15bd518824d1842d5115cf4f632053fcdef09967edc2",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大规模国际前瞻性观察研究（206个ICU、2454例患者）首次系统量化机械通气患者的液体治疗实践，揭示维持与'creep'液体而非复苏液体占总入量主体，可为液体管理质量改进和后续干预试验设计提供基线；局限为观察性设计，不能推断液体策略与结局的因果关系。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102001002233eb2bfd04c647e4",
+              "seconds": 2.99,
+              "usage": {
+                "completion_tokens": 155,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1449
+              }
+            },
+            "support": "In this prospective international cohort study, fluid therapy varied widely among mechanically ventilated critically ill patients, with maintenance and creep fluids-rather than resuscitation fluids-ac",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010025dfcf58a0eb034683",
+              "seconds": 3.55,
+              "usage": {
+                "completion_tokens": 129,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1423
+              }
+            },
+            "support": "maintenance and creep fluids-rather than resuscitation fluids-accounting for most total volume",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-14",
+      "reasons": {
+        "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
       },
       "historical": true
     },
@@ -1428,7 +2085,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
@@ -1562,7 +2219,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
@@ -1693,7 +2350,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
@@ -1824,7 +2481,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -1955,7 +2612,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-12",
       "reasons": {
         "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
@@ -2083,7 +2740,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -2213,7 +2870,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -2343,7 +3000,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
@@ -2468,7 +3125,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-07",
       "reasons": {
         "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
@@ -2594,7 +3251,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-07",
       "reasons": {
         "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
@@ -2726,7 +3383,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-05",
       "reasons": {
         "industry": "CMS-9882-F 最终规则实质性修改了费率透明度机器可读文件的报告要求：改为按网络级别报告、降低网络外报销额阈值至 11 件、统一为 JSON 格式、季度更新及准确性声明，直接影响健康险支付方、医院和数据分析企业的合规与数据策略。行业读者可以据此评估合规成本（预计每年净节省约 1.745 亿美元）和数据可用性变化；限制在于这是法规摘要，具体执行细节仍需查阅《联邦公报》原文。"
@@ -2858,7 +3515,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-05",
       "reasons": {
         "research": "提供了对齐NIST AI RMF的患者模拟评估框架，并给出可复现的构念效度数据（标注者κ、概念保真度）和健康素养梯度的性能退化证据，对部署前风险评估研究设计有直接参考价值；限制是仅在抗抑郁决策 aid 单一任务上验证，外部效度待扩展。"
@@ -2906,6 +3563,17 @@
         "url:https://www.jmir.org/article/view/jmir_v28i1e102768"
       ],
       "minutes": 2
+    },
+    {
+      "date": "2026-10-14",
+      "item_ids": [
+        "pmid:42873070",
+        "pmid:42872914",
+        "pmid:42878622",
+        "pmid:42872606",
+        "pmid:42872917"
+      ],
+      "minutes": 4
     },
     {
       "date": "2026-10-13",

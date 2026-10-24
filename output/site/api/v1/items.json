@@ -1,9 +1,129 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-24T12:00:51+00:00",
-  "as_of": "2026-10-24",
-  "count": 22,
+  "generated_at": "2026-10-24T16:35:26+00:00",
+  "as_of": "2026-10-25",
+  "count": 23,
   "items": [
+    {
+      "id": "pmid:42912669",
+      "title": "Povetacicept 治疗 IgA 肾病 3 期试验的中期分析。",
+      "original_title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.",
+      "summary": "B 细胞激活因子 (BAFF) 和增殖诱导配体 (APRIL) 在产生 IgA 的 B 细胞群中具有独特的作用，并且似乎是 IgA 肾病发病机制的核心。到第36周时，povetacicept组的24小时尿蛋白与肌酐比值下降了52.0%，安慰剂组下降了4.3%（调整后的差异，-49.8个百分点；95%置信区间[CI]，-58.6至-39.2；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2608682",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-23",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42912669",
+        "upstream_id": "42912669"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "IgA肾病3期试验预设中期分析，双盲安慰剂对照、557例随机，尿蛋白/肌酐比降幅52.0%对4.3%（差异-49.8个百分点），并报告Gd-IgA1与血尿缓解等次要终点，为BAFF/APRIL双抑制机制提供较高质量证据。限制为中期分析、以蛋白尿替代终点为主，硬终点和长期安全性待最终数据。"
+      },
+      "reading_value_score": 82,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-24T16:35:47+00:00",
+        "input_hash": "81ed222b769d1752bee9adf91100d03836f6f9558258ac1c22e82bab792cc240",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "IgA肾病3期试验预设中期分析，双盲安慰剂对照、557例随机，尿蛋白/肌酐比降幅52.0%对4.3%（差异-49.8个百分点），并报告Gd-IgA1与血尿缓解等次要终点，为BAFF/APRIL双抑制机制提供较高质量证据。限制为中期分析、以蛋白尿替代终点为主，硬终点和长期安全性待最终数据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "BAFF/APRIL双靶点融合蛋白在IgA肾病3期中期分析中显示尿蛋白/肌酐比下降52%、Gd-IgA1下降77%且安全性与对照组相当，为IgA肾病致病机制靶向治疗提供了迄今较强证据；但为中期分析、以替代终点为主，硬终点与长期安全性仍需试验完成验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025003539fca6e43680cb43e1",
+              "seconds": 4.23,
+              "usage": {
+                "completion_tokens": 184,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1355,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1539
+              }
+            },
+            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points",
+            "total": 85
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "IgA肾病3期试验预设中期分析，双盲安慰剂对照、557例随机，尿蛋白/肌酐比降幅52.0%对4.3%（差异-49.8个百分点），并报告Gd-IgA1与血尿缓解等次要终点，为BAFF/APRIL双抑制机制提供较高质量证据。限制为中期分析、以蛋白尿替代终点为主，硬终点和长期安全性待最终数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025003543cb969cd8646f406d",
+              "seconds": 4.68,
+              "usage": {
+                "completion_tokens": 215,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1355,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1570
+              }
+            },
+            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -5",
+            "total": 79
+          }
+        ],
+        "score": 82,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
     {
       "id": "pmid:42904878",
       "title": "瑞他鲁肽每周一次用于治疗阻塞性睡眠呼吸暂停。",
@@ -18,14 +138,12 @@
         "consumer",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "nejm_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42904878",
         "upstream_id": "42904878"
@@ -126,6 +244,246 @@
       }
     },
     {
+      "id": "pmid:42911181",
+      "title": "Atacicept 治疗 IgA 肾病 - 3 期试验最终疗效分析。",
+      "original_title": "Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.",
+      "summary": "在先前发表的该试验 ORIGIN 3 的分析中，与安慰剂相比，Atacicept 显着降低了尿蛋白与肌酐的比率。在第 52 周，eGFR 的平均变化为每 1.73 m2 体表面积每分钟 -0.11 ml（95% 置信区间 [CI]，-1.44 至 1.22），atacicept 组为每 1.73 m2 体表面积每分钟 -5.69 ml。 m2（95% CI，-7.04 至 -4.35）与安慰剂（平均差异，每 1.73 m2 每分钟 5.58 毫升；95% CI，3.68 至 7.48；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2610103",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-22",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42911181",
+        "upstream_id": "42911181"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "III期ORIGIN 3试验最终疗效分析，431例IgA肾病患者随机对照显示atacicept显著减缓eGFR下降（年化斜率差异5.00 ml/min/1.73m²）并降低肾脏进展复合终点风险（HR 0.24），为IgA肾病慢速进展终点治疗提供高级别证据。摘要数据完整，但为药企资助的单一试验，长期硬终点与安全性随访仍有限。"
+      },
+      "reading_value_score": 80,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-24T16:35:57+00:00",
+        "input_hash": "140d03e2c39ada7c76e9758d6ffd934a55e24652e21c28e785e3b5bcfa21ccb2",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期ORIGIN 3试验最终疗效分析，431例IgA肾病患者随机对照显示atacicept显著减缓eGFR下降（年化斜率差异5.00 ml/min/1.73m²）并降低肾脏进展复合终点风险（HR 0.24），为IgA肾病慢速进展终点治疗提供高级别证据。摘要数据完整，但为药企资助的单一试验，长期硬终点与安全性随访仍有限。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "III期ORIGIN 3试验最终疗效分析，431例IgA肾病患者随机对照显示atacicept显著减缓eGFR下降（年化斜率差异5.00 ml/min/1.73m²）并降低肾脏进展复合终点风险（HR 0.24），为IgA肾病慢速进展终点治疗提供高级别证据。摘要数据完整，但为药企资助的单一试验，长期硬终点与安全性随访仍有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102500355042bf7ac0eb064462",
+              "seconds": 4.94,
+              "usage": {
+                "completion_tokens": 189,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1379,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1568
+              }
+            },
+            "support": "Atacicept slowed and stabilized the decline in the eGFR as compared with placebo. (Funded by Vera Therapeutics; ORIGIN 3 ClinicalTrials.gov number, NCT04716231.)",
+            "total": 80
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "III期试验最终eGFR斜率与硬终点数据显示atacicept显著延缓IgA肾病肾功能下降，对肾脏病研究者和试验设计者有直接参考价值；数据来自单一药企资助的试验，长期安全性仍有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610250035547d1e968d1cc047b4",
+              "seconds": 3.59,
+              "usage": {
+                "completion_tokens": 169,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 11
+                },
+                "prompt_tokens": 1379,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1344
+                },
+                "total_tokens": 1548
+              }
+            },
+            "support": "At week 52, the mean change in the eGFR was -0.11 ml per minute per 1.73 m2 of body-surface area (95% confidence interval [CI], -1.44 to 1.22) with atacicept and -5.69",
+            "total": 80
+          }
+        ],
+        "score": 80,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42911185",
+      "title": "Sibeprenlimab 治疗 IgA 肾病 - 最终 3 期试验分析。",
+      "original_title": "Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.",
+      "summary": "Sibeprenlimab 是一种人源化单克隆抗体，可选择性抑制细胞因子 A 增殖诱导配体 (APRIL)，这是 IgA 肾病的关键驱动因素。西贝普伦利单抗组 24 个月内的年化 eGFR 斜率为每年每 1.73 平方米体表面积 0.3 毫升/分钟（95% 置信区间 [CI]，-0.4 至 0.9），安慰剂组每年每分钟每 1.73 平方米为 -4.2 毫升（95% CI，-4.9 至 -3.6）（组间差异，每分钟每分钟 4.5 毫升）每年 1.73 平方米；95% CI，3.6 至 5.4；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2609127",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-22",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42911185",
+        "upstream_id": "42911185"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "IgA肾病III期VISIONARY试验的最终eGFR斜率与复合肾脏终点结果，510例随机对照数据完整，为APRIL靶向治疗延缓肾功能下降提供高质量证据，直接影响肾脏病临床试验设计与治疗决策；主要局限为安全性随访时间与长期疗效仍待观察。"
+      },
+      "reading_value_score": 80,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-24T16:35:59+00:00",
+        "input_hash": "f77761824554c61dfa0c5c286e8dc02f3b4eb9d3736cb66a903932447c3f0def",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "IgA肾病III期VISIONARY试验的最终eGFR斜率与复合肾脏终点结果，510例随机对照数据完整，为APRIL靶向治疗延缓肾功能下降提供高质量证据，直接影响肾脏病临床试验设计与治疗决策；主要局限为安全性随访时间与长期疗效仍待观察。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "IgA肾病III期VISIONARY试验的最终eGFR斜率与复合肾脏终点结果，510例随机对照数据完整，为APRIL靶向治疗延缓肾功能下降提供高质量证据，直接影响肾脏病临床试验设计与治疗决策；主要局限为安全性随访时间与长期疗效仍待观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025003547dcd81025fd3b44ad",
+              "seconds": 3.95,
+              "usage": {
+                "completion_tokens": 201,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1424,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1625
+              }
+            },
+            "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab and -4.2 ml per minute per 1.73 ",
+            "total": 79
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "VISIONARY 3期最终分析报告了此前未公布的eGFR斜率等关键次要终点：24个月安慰剂对照、510例随机，组间eGFR斜率差异4.5 ml/min/1.73m²/年，复合肾脏终点事件0.4%对11.2%，为IgA肾病延缓肾功能进展提供了高级别硬终点证据，可供肾病研究者评估APRIL抑制策略疗效与安全性。主要限制为摘要级信息，亚组、随访期长度及长期安全性细节需全文核实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610250035518542a0bcba9b4638",
+              "seconds": 7.74,
+              "usage": {
+                "completion_tokens": 254,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1424,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1678
+              }
+            },
+            "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab and -4.2 ml per minute per 1.73 ",
+            "total": 81
+          }
+        ],
+        "score": 80,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "pmid:42906564",
       "title": "荷兰错配修复缺陷型结肠癌新辅助免疫治疗后的无病生存期和总生存期：单臂、多中心、2 期 NICHE-2 试验的结果。",
       "original_title": "Disease-free survival and overall survival after neoadjuvant immunotherapy in mismatch repair-deficient colon cancer in the Netherlands: results of the single-arm, multicentre, phase 2, NICHE-2 trial.",
@@ -140,14 +498,12 @@
         "business",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "lancet_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42906564",
         "upstream_id": "42906564"
@@ -253,9 +609,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04756-1",
-      "title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
+      "title": "Relatlimab 加纳武单抗与纳武单抗治疗晚期黑色素瘤：3 期 RELATIVITY-047 试验的 5 年生存率和生物标志物分析",
       "original_title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
-      "summary": "Nivolumab plus relatlimab is approved for advanced melanoma based on the RELATIVITY-047 trial; however, long-term data are needed. In this prespecified 5-year analysis, with a minimum follow-up of 57.3 months, nivolumab plus relatlimab demonstrated continued clinically significant benefit versus nivolumab for PFS (hazard ratio = 0.77; 95% confidence interval: 0.65–0.92), OS (hazard ratio = 0.78; 95% confidence interval: 0.64–0.95), and MSS (hazard ratio = 0.71; 95% confidence interval: 0.57–0.88).",
+      "summary": "根据 RELATIVITY-047 试验，纳武单抗联合 relatlimab 被批准用于治疗晚期黑色素瘤；然而，需要长期数据。在这项预先指定的 5 年分析中，最短随访时间为 57.3 个月，纳武单抗联合 relatlimab 证明，与纳武单抗相比，在 PFS（风险比 = 0.77；95% 置信区间：0.65–0.92）、OS（风险比 = 0.78；95% 置信区间：0.64–0.95）和 MSS（风险比 = 0.71；95% 置信区间：0.57–0.88）。",
       "url": "https://www.nature.com/articles/s41591-026-04756-1",
       "source": "Nature Medicine",
       "source_type": "期刊论文",
@@ -264,7 +620,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -361,7 +717,7 @@
                 "total_tokens": 1588
               }
             },
-            "support": "In this prespecified 5-year analysis, with a minimum follow-up of 57.3 months, nivolumab plus relatlimab demonstrated continued clinically significant benefit versus nivolumab for PFS (hazard ratio = ",
+            "support": "In this prespecified 5-year analysis, with a minimum follow-up of 57.3 months, nivolumab plus relatlimab demonstrated continued clinically significant benefit versus nivolumab for PFS (hazard ratio =",
             "total": 77
           }
         ],
@@ -384,14 +740,12 @@
       "topics": [
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42895716",
         "upstream_id": "42895716"
@@ -987,14 +1341,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "bmj_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "bmj_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42907095",
         "upstream_id": "42907095"
@@ -1097,128 +1449,6 @@
       }
     },
     {
-      "id": "pmid:42873070",
-      "title": "急性肾损伤的间歇或连续肾脏替代治疗。",
-      "original_title": "Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury.",
-      "summary": "背景 危重患者急性肾损伤的首选肾脏替代治疗方法仍不确定。到第 90 天，间歇组有 203 名患者（78.1%）发生了重大肾脏不良事件，连续组有 197 名患者（71.6%）发生了重大肾脏不良事件（调整后的绝对风险差异，6.28 个百分点；95% 置信区间 [CI]，-1.22 至 13.79）。",
-      "url": "https://doi.org/10.1056/nejmoa2608397",
-      "source": "NEJM · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-14",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42873070",
-        "upstream_id": "42873070"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:07+00:00",
-        "input_hash": "4b1939dba8788e49b2440967befb824c6ccaa14dfbf37af189bbf21ac1d34bb5",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "多中心非劣效RCT因间歇性血透死亡率高于CRRT而提前终止，直接冲击ICU急性肾损伤初始肾脏替代方式的选择。554例样本、主要结局与90天死亡率数据具体，可作为科室RRT启动策略与后续试验设计依据；局限在于开放标签设计且因提前终止对死亡率信号的解读需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001000165b326a103024bd6",
-              "seconds": 3.5,
-              "usage": {
-                "completion_tokens": 162,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1249,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1411
-              }
-            },
-            "support": "intermittent hemodialysis as the initial treatment approach was not shown to be noninferior to continuous renal-replacement therapy with respect to major adverse kidney events by day 90 and was associ",
-            "total": 79
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001000494d7eb0b60f34c85",
-              "seconds": 2.85,
-              "usage": {
-                "completion_tokens": 141,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1249,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1216
-                },
-                "total_tokens": 1390
-              }
-            },
-            "support": "The trial was stopped early after sequential interim analyses showed a sustained signal of higher mortality with intermittent hemodialysis than with continuous renal-replacement therapy.",
-            "total": 70
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
       "id": "pmid:42896183",
       "title": "2026 年联邦更改儿童免疫计划对美国慢性乙型肝炎病毒感染的预计影响。",
       "original_title": "Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States.",
@@ -1231,14 +1461,12 @@
         "business",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "annals_internal_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "annals_internal_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42896183",
         "upstream_id": "42896183"
@@ -1343,29 +1571,27 @@
       }
     },
     {
-      "id": "pmid:42872914",
-      "title": "术中多巴酚丁胺加去甲肾上腺素预防感染性休克术后急性肾损伤：一项随机临床试验。",
-      "original_title": "Intraoperative Dobutamine Plus Norepinephrine to Prevent Postoperative Acute Kidney Injury in Septic Shock: A Randomized Clinical Trial.",
-      "summary": "重要性 基于极低确定性的证据，国际指南建议使用多巴酚丁胺来治疗成人感染性休克和伴有持续低灌注的心功能障碍。缺乏关于术中多巴酚丁胺联合去甲肾上腺素与去甲肾上腺素对接受手术感染性休克患者术后感染源控制的影响的随机试验。目的 确定术中多巴酚丁胺联合去甲肾上腺素是否可以减轻接受手术源控制的感染性休克患者术后 7 天内的急性肾损伤（AKI）。设计、设置和参与者 这项在中国 39 家三级医院开展的随机、开放标签临床试验纳入了 2024 年 6 月至 2025 年 8 月期间接受手术源控制的感染性休克成人患者。随访于 2025 年 11 月 15 日结束。",
-      "url": "https://doi.org/10.1001/jama.2026.21322",
+      "id": "pmid:42911562",
+      "title": "利妥昔单抗与硫唑嘌呤治疗嗜酸性肉芽肿伴多血管炎维持治疗：一项随机临床试验。",
+      "original_title": "Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.",
+      "summary": "对于嗜酸性肉芽肿性多血管炎（EGPA）患者，指南建议在缓解后考虑维持治疗。比较利妥昔单抗和硫唑嘌呤维持治疗对 EGPA 患者缓解持续时间的影响，这些患者在标准治疗（包括泼尼松逐渐减量或停药）后最近实现了血管炎缓解。",
+      "url": "https://doi.org/10.1001/jama.2026.15278",
       "source": "JAMA · 摘要索引",
       "source_type": "期刊论文",
-      "published_at": "2026-10-14",
+      "published_at": "2026-10-22",
       "topics": [
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42872914",
-        "upstream_id": "42872914"
+        "summary_source": "https://europepmc.org/article/MED/42911562",
+        "upstream_id": "42911562"
       },
       "sections": [
         "research"
@@ -1376,53 +1602,54 @@
         ]
       },
       "research_stages": [
+        "data",
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
+        "research": "首个针对EGPA维持治疗的头对头随机双盲试验，为指南中缺乏比较证据的利妥昔单抗与硫唑嘌呤选择提供了阴性结果证据，并提示利妥昔单抗组严重感染更高；但样本量98例、随访28个月，统计学把握度有限。"
       },
-      "reading_value_score": 73,
+      "reading_value_score": 74,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-19T17:00:26+00:00",
-        "input_hash": "370ae654905fda047ac93da239cdd22912e74fe964d4991aad3948f5dec14377",
+        "evaluated_at": "2026-10-24T16:36:06+00:00",
+        "input_hash": "ce60ce942f35df4ebc91716c8c539f6d08a75ce45fa4f758b8042d5a048aa1be",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。",
+        "reason": "首个针对EGPA维持治疗的头对头随机双盲试验，为指南中缺乏比较证据的利妥昔单抗与硫唑嘌呤选择提供了阴性结果证据，并提示利妥昔单抗组严重感染更高；但样本量98例、随访28个月，统计学把握度有限。",
         "reviews": [
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 8,
+              "evidence": 9,
               "novelty": 7,
               "relevance": 8,
               "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "多中心随机对照试验首次针对指南低证据推荐的多巴酚丁胺联合去甲肾上腺素策略，584例感染性休克手术患者显示7天内AKI风险显著降低，可直接影响围术期循环管理与后续研究设计。主要局限为开放标签设计，9/11次要终点无差异，且仅报告摘要级数据。",
+            "reason": "首个在EGPA维持治疗中头对头比较利妥昔单抗与硫唑嘌呤的多中心随机双盲试验，阴性主终点（缓解时长91.1 vs 96.0周）为指南制定和维持治疗选择提供关键证据；利妥昔单抗组严重感染率更高（46.9% vs 24.5%）是重要安全性信号。局限性在于以新冠为主的感染混杂及样本量中等。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261020010019ac0c1ad7feec4a19",
-              "seconds": 3.16,
+              "request_id": "20261025003559719a01b47722497e",
+              "seconds": 3.56,
               "usage": {
-                "completion_tokens": 156,
+                "completion_tokens": 179,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1486,
+                "prompt_tokens": 1597,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1642
+                "total_tokens": 1776
               }
             },
-            "support": "intraoperative dobutamine combined with norepinephrine reduced the incidence of new-onset or worsening AKI within 7 postoperative days compared with norepinephrine",
-            "total": 74
+            "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less",
+            "total": 77
           },
           {
             "audiences": [
@@ -1430,34 +1657,34 @@
             ],
             "axes": {
               "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
+              "novelty": 7,
+              "relevance": 7,
               "significance": 7,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。",
+            "reason": "首个针对EGPA维持治疗的头对头随机双盲试验，为指南中缺乏比较证据的利妥昔单抗与硫唑嘌呤选择提供了阴性结果证据，并提示利妥昔单抗组严重感染更高；但样本量98例、随访28个月，统计学把握度有限。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610200100232a27fcd484b64d89",
+              "request_id": "2026102500360313db96e3ba5a46ad",
               "seconds": 3.5,
               "usage": {
-                "completion_tokens": 185,
+                "completion_tokens": 150,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1486,
+                "prompt_tokens": 1597,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1472
+                  "cached_tokens": 1536
                 },
-                "total_tokens": 1671
+                "total_tokens": 1747
               }
             },
-            "support": "new-onset or worsening AKI within 7 postoperative days occurred in 22.8% (66/290) randomized to receive dobutamine plus norepinephrine vs 34.7% (102/294) randomized to receive norepinephrine alone",
+            "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less",
             "total": 72
           }
         ],
-        "score": 73,
+        "score": 74,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -1571,6 +1798,126 @@
             },
             "support": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
             "total": 78
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42914154",
+      "title": "活体肾脏捐赠后的妊娠结果。",
+      "original_title": "Pregnancy Outcomes After Living Kidney Donation.",
+      "summary": "尽管证据尚不清楚，但活体肾脏捐赠后怀孕的人发生妊娠相关不良后果的风险可能会增加。确定活体肾脏捐赠后的妊娠是否与非捐赠者中的匹配妊娠相比不良妊娠结局的风险更高。这项匹配队列研究使用了加拿大安大略省、不列颠哥伦比亚省和阿尔伯塔省的省级行政医疗保健数据库，纳入了年龄在 18 岁至 42 岁之间的活体女性肾脏捐献者，她们在 1992 年 7 月至 2021 年 8 月期间捐献了肾脏，随后进行了至少 20 周妊娠的单胎妊娠。这些妊娠与女性非捐赠者中妊娠至少 20 周的单胎妊娠按 1:4 进行匹配。",
+      "url": "https://doi.org/10.1001/jama.2026.21737",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-22",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42914154",
+        "upstream_id": "42914154"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design"
+      ],
+      "recommendation_reasons": {
+        "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
+      },
+      "reading_value_score": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-24T16:36:04+00:00",
+        "input_hash": "5ec6ca142086624b00aec3182a2a42e67974931045d8016a4ce23833a31f514d",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610250035575124262e61a54915",
+              "seconds": 3.58,
+              "usage": {
+                "completion_tokens": 161,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1314,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1475
+              }
+            },
+            "support": "pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大型匹配队列研究给出活体肾捐献者孕后不良结局的量化风险（妊娠高血压综合征RR 1.51、小于胎龄儿RR 1.86），可直接用于供者知情同意与产前管理；局限为行政数据库观察性设计，残余混杂和适应证偏倚仍可能存在。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025003601aadf271547794710",
+              "seconds": 3.32,
+              "usage": {
+                "completion_tokens": 152,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1314,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1466
+              }
+            },
+            "support": "pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia",
+            "total": 74
           }
         ],
         "score": 73,
@@ -1703,30 +2050,27 @@
       }
     },
     {
-      "id": "pmid:42878622",
-      "title": "未经胰岛素治疗的 2 型糖尿病的连续血糖监测。",
-      "original_title": "Continuous Glucose Monitoring in Non-Insulin-Treated Type 2 Diabetes.",
-      "summary": "背景 连续血糖监测 (CGM) 已被证明对 1 型糖尿病患者和其他接受胰岛素治疗的 2 型糖尿病患者有益，但其在治疗未接受胰岛素治疗的 2 型糖尿病患者中的作用还需要进一步研究。 CGM 组的平均 (±SD) 糖化血红蛋白水平从基线时的 8.8±1.3% 降至 26 周时的 7.2±1.1%，常规护理组从 8.7±1.2% 降至 8.0±1.4%（调整后的平均差，-0.9 个百分点；95% 置信区间 [CI]，-1.1 至 -0.6；P < 0.001）。",
-      "url": "https://doi.org/10.1056/nejmoa2608571",
+      "id": "pmid:42912700",
+      "title": "Ravulizumab 治疗 IgA 肾病 - 3 期试验的中期分析。",
+      "original_title": "Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
+      "summary": "在 IgA 肾病患者中，补体激活会导致肾小球炎症，从而导致血尿、蛋白尿和肾单位丢失。第 34 周时，与安慰剂组 (-5.6%) 相比，ravulizumab 组观察到几何平均 24 小时尿蛋白与肌酐比值显着降低 (-46.6%)，对应调整后的 ravulizumab 组几何平均 24 小时尿蛋白与肌酐比值比使用 ravulizumab 组低 43.4%（99% 置信区间，30.1 至 54.2）。安慰剂（P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2607544",
       "source": "NEJM · 摘要索引",
       "source_type": "期刊论文",
-      "published_at": "2026-10-14",
+      "published_at": "2026-10-23",
       "topics": [
         "hospital",
-        "consumer",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42878622",
-        "upstream_id": "42878622"
+        "summary_source": "https://europepmc.org/article/MED/42912700",
+        "upstream_id": "42912700"
       },
       "sections": [
         "research"
@@ -1740,18 +2084,18 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
+        "research": "III期期中分析显示ravulizumab较安慰剂显著降低IgA肾病患者尿蛋白肌酐比43.4%（485例随机、预设终点、99%CI明确），为补体靶向治疗在IgA肾病的肾脏保护证据链提供关键数据，可指导肾科临床试验与治疗决策；局限在于期中分析、终点为蛋白尿而非硬终点，长期肾功能与安全性待验证。"
       },
-      "reading_value_score": 72,
+      "reading_value_score": 73,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-20T00:22:05+00:00",
-        "input_hash": "ff48334a10428cfe9e00b4bd6b5e65db6611ed68dbea420cf854388853517ff1",
+        "evaluated_at": "2026-10-24T16:35:49+00:00",
+        "input_hash": "91e517ee15406bdf580f84d3377c4dacfcc9bce9c05daa8c246a009bda2fe147",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。",
+        "reason": "III期期中分析显示ravulizumab较安慰剂显著降低IgA肾病患者尿蛋白肌酐比43.4%（485例随机、预设终点、99%CI明确），为补体靶向治疗在IgA肾病的肾脏保护证据链提供关键数据，可指导肾科临床试验与治疗决策；局限在于期中分析、终点为蛋白尿而非硬终点，长期肾功能与安全性待验证。",
         "reviews": [
           {
             "audiences": [
@@ -1762,28 +2106,28 @@
               "novelty": 7,
               "relevance": 8,
               "significance": 8,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "这是针对非胰岛素治疗2型糖尿病人群CGM价值的多中心随机对照试验（283例、26周、HbA1c组间差异-0.9个百分点），填补了此前证据仅限胰岛素治疗人群的空白，可直接影响门诊血糖管理路径和后续研究设计。主要限制：由Dexcom资助、仅报告摘要级结果，长期获益、成本效益及依从性细节待全文验证。",
+            "reason": "IgA肾病补体靶向III期中期结果，485例随机对照显示ravulizumab较安慰剂显著降低尿蛋白肌酐比43.4%，为肾病补体通路治疗提供高质量证据，可直接参考其终点设计与安全性数据；限制为中期分析、终点为蛋白尿替代指标而非硬终点，长期肾脏结局待验证。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261020082157c93ec125d87f4345",
-              "seconds": 4.05,
+              "request_id": "202610250035390802ec86d2bd4556",
+              "seconds": 4.02,
               "usage": {
-                "completion_tokens": 192,
+                "completion_tokens": 166,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 16
+                  "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1109,
+                "prompt_tokens": 1352,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1301
+                "total_tokens": 1518
               }
             },
-            "support": "we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks.",
-            "total": 77
+            "support": "a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%)",
+            "total": 76
           },
           {
             "audiences": [
@@ -1791,34 +2135,34 @@
             ],
             "axes": {
               "evidence": 7,
-              "novelty": 6,
+              "novelty": 7,
               "relevance": 8,
               "significance": 7,
               "usefulness": 6
             },
             "kind": "research",
-            "reason": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。",
+            "reason": "III期期中分析显示ravulizumab较安慰剂显著降低IgA肾病患者尿蛋白肌酐比43.4%（485例随机、预设终点、99%CI明确），为补体靶向治疗在IgA肾病的肾脏保护证据链提供关键数据，可指导肾科临床试验与治疗决策；局限在于期中分析、终点为蛋白尿而非硬终点，长期肾功能与安全性待验证。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610200822013b205a570cf34ff2",
-              "seconds": 3.69,
+              "request_id": "2026102500354204234278ff1d4141",
+              "seconds": 6.46,
               "usage": {
-                "completion_tokens": 164,
+                "completion_tokens": 181,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1109,
+                "prompt_tokens": 1352,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1088
+                  "cached_tokens": 1344
                 },
-                "total_tokens": 1273
+                "total_tokens": 1533
               }
             },
-            "support": "we randomly assigned adults with type 2 diabetes who were not using insulin to either CGM or routine care (control). The primary outcome was the glycated hemoglobin level at 26 weeks",
-            "total": 68
+            "support": "a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%)",
+            "total": 70
           }
         ],
-        "score": 72,
+        "score": 73,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -1839,14 +2183,12 @@
         "research",
         "business"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "annals_internal_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "annals_internal_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42896184",
         "upstream_id": "42896184"
@@ -2071,128 +2413,6 @@
       }
     },
     {
-      "id": "pmid:42872606",
-      "title": "机械通气危重成年患者的液体治疗。",
-      "original_title": "Fluid Therapy in Mechanically Ventilated Critically Ill Adult Patients.",
-      "summary": "重要性 液体治疗在重症监护病房 (ICU) 中无处不在，但存在风险，特别是对于机械通气患者。目前全球在剂量、适应症和类型方面的实践尚不清楚。目的 描述 ICU 成人机械通气液体操作的特点。设计、设置和参与者 2024 年 4 月至 2025 年 7 月期间在六大洲 41 个国家的 206 个 ICU 中进行的国际前瞻性观察队列研究。入ICU后3天内连续接受有创机械通气且通气24小时或更长时间的成年患者。排除标准是年龄小于 16 岁并且从另一个 ICU 转入机械通气。暴露 插管后的液体量、适应症和类型。主要结局和指标 主要指标包括（1）插管后 7 天内的总输液量和每日液体平衡；",
-      "url": "https://doi.org/10.1001/jama.2026.21291",
-      "source": "JAMA · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-14",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42872606",
-        "upstream_id": "42872606"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design"
-      ],
-      "recommendation_reasons": {
-        "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
-      },
-      "reading_value_score": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:28+00:00",
-        "input_hash": "6e3997d0450af1cd4d9a15bd518824d1842d5115cf4f632053fcdef09967edc2",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "大规模国际前瞻性观察研究（206个ICU、2454例患者）首次系统量化机械通气患者的液体治疗实践，揭示维持与'creep'液体而非复苏液体占总入量主体，可为液体管理质量改进和后续干预试验设计提供基线；局限为观察性设计，不能推断液体策略与结局的因果关系。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001002233eb2bfd04c647e4",
-              "seconds": 2.99,
-              "usage": {
-                "completion_tokens": 155,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1294,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1449
-              }
-            },
-            "support": "In this prospective international cohort study, fluid therapy varied widely among mechanically ventilated critically ill patients, with maintenance and creep fluids-rather than resuscitation fluids-ac",
-            "total": 72
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261020010025dfcf58a0eb034683",
-              "seconds": 3.55,
-              "usage": {
-                "completion_tokens": 129,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1294,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1280
-                },
-                "total_tokens": 1423
-              }
-            },
-            "support": "maintenance and creep fluids-rather than resuscitation fluids-accounting for most total volume",
-            "total": 71
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
       "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
       "title": "FDA 批准免疫疗法可让某些直肠癌患者避免化疗、放疗和手术",
       "original_title": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
@@ -2322,14 +2542,12 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42896534",
         "upstream_id": "42896534"
@@ -2443,14 +2661,12 @@
       "topics": [
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42905692",
         "upstream_id": "42905692"
@@ -2547,129 +2763,6 @@
           }
         ],
         "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42872917",
-      "title": "加压素起始阈值对感染性休克死亡率的影响：VASSPR 集群交叉随机策略试验。",
-      "original_title": "Effect of Vasopressin Initiation Threshold on Septic Shock Mortality: The VASSPR Cluster Crossover Randomized Strategy Trial.",
-      "summary": "重要性 对于感染性休克患者，开始使用第二种血管升压药的最佳升压药剂量尚不确定。干预 医院层面实施感染性休克管理策略，建议当其他血管升压药的总剂量达到去甲肾上腺素或等效物 0.1 µg/kg/min 或等效物（较低阈值策略）或其他血管升压药的总剂量达到去甲肾上腺素或等效物 0.4 µg/kg/min 时（较高阈值策略），开始固定剂量加压素。",
-      "url": "https://doi.org/10.1001/jama.2026.21333",
-      "source": "JAMA · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-14",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retained_during_source_outage": true,
-        "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-10-24T05:54:52+00:00",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42872917",
-        "upstream_id": "42872917"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
-      },
-      "reading_value_score": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:22+00:00",
-        "input_hash": "f86498030d9ab798eeba72bcff4ee264dfd1a9bd80dc06a4c5097122fa73cb12",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "大型整群交叉实用化策略试验，直接回答感染性休克中血管加压素启动阈值这一常见临床争议，阴性结果可指导救治方案与后续研究设计；摘要级信息完整，但具体亚组与细节需看全文。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261020010015eddbab48e4a94cc4",
-              "seconds": 3.21,
-              "usage": {
-                "completion_tokens": 138,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1605,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1743
-              }
-            },
-            "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
-            "total": 73
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 6,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001001897c9c8244f624750",
-              "seconds": 3.32,
-              "usage": {
-                "completion_tokens": 166,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1605,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1600
-                },
-                "total_tokens": 1771
-              }
-            },
-            "support": "a strategy recommending initiation of vasopressin at a lower dose of other vasopressors did not reduce 28-day mortality compared with a strategy recommending vasopressin initiation at a higher dose",
-            "total": 67
-          }
-        ],
-        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",

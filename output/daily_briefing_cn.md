@@ -2,7 +2,7 @@
 这一天的 1 件 AI 医疗大事
 
 01 · 论文研究
-Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial
-Nivolumab plus relatlimab is approved for advanced melanoma based on the RELATIVITY-047 trial; however, long-term data are needed. In this prespecified 5-year analysis, with a minimum follow-up of 57.3 months, nivolumab plus relatlimab demonstrated continued clinically significant benefit versus nivolumab for PFS (hazard ratio = 0.77; 95% confidence interval: 0.65–0.92), OS (hazard ratio = 0.78; 95% confidence interval: 0.64–0.95), and MSS (hazard ratio = 0.71; 95% confidence interval: 0.57–0.88).
+Relatlimab 加纳武单抗与纳武单抗治疗晚期黑色素瘤：3 期 RELATIVITY-047 试验的 5 年生存率和生物标志物分析
+根据 RELATIVITY-047 试验，纳武单抗联合 relatlimab 被批准用于治疗晚期黑色素瘤；然而，需要长期数据。在这项预先指定的 5 年分析中，最短随访时间为 57.3 个月，纳武单抗联合 relatlimab 证明，与纳武单抗相比，在 PFS（风险比 = 0.77；95% 置信区间：0.65–0.92）、OS（风险比 = 0.78；95% 置信区间：0.64–0.95）和 MSS（风险比 = 0.71；95% 置信区间：0.57–0.88）。
 Nature Medicine · 2026-10-24
 https://www.nature.com/articles/s41591-026-04756-1
