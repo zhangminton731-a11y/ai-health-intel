@@ -2,26 +2,32 @@
   "checks": [
     {
       "attempt": 1,
-      "content_type": "text/html",
-      "elapsed_ms": 138,
-      "error_code": "http_error",
+      "bytes_read": 0,
+      "content_type": "text/plain",
+      "elapsed_ms": 181,
+      "error_code": null,
       "final_url": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
-      "http_status": 403,
-      "kind": "rss_fetch"
+      "http_status": 304,
+      "kind": "rss_fetch",
+      "response_kind": "not_modified"
+    },
+    {
+      "count": 12,
+      "kind": "rss_atom"
     }
   ],
-  "consecutive_failures": 1,
-  "elapsed_ms": 138,
+  "consecutive_failures": 0,
+  "elapsed_ms": 181,
   "enabled": true,
-  "error": "RSS http_error after 1 attempt(s)",
-  "generated_at": "2026-10-24T16:35:26+00:00",
-  "item_count": 0,
-  "last_checked_at": "2026-10-24T16:35:26+00:00",
-  "last_success_at": "2026-10-24T12:00:51+00:00",
-  "recovered": false,
+  "error": "",
+  "generated_at": "2026-10-24T23:15:21+00:00",
+  "item_count": 12,
+  "last_checked_at": "2026-10-24T23:15:21+00:00",
+  "last_success_at": "2026-10-24T23:15:21+00:00",
+  "recovered": true,
   "required": false,
   "role": "supplemental",
   "source_id": "nih_funding",
   "source_kind": "rss",
-  "status": "failed"
+  "status": "ok"
 }
