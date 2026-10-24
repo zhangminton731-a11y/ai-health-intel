@@ -2,14 +2,14 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 75577,
-      "content_type": "application/rss+xml",
-      "elapsed_ms": 136,
+      "bytes_read": 0,
+      "content_type": "text/plain",
+      "elapsed_ms": 331,
       "error_code": null,
       "final_url": "https://medcitynews.com/feed/",
-      "http_status": 200,
+      "http_status": 304,
       "kind": "rss_fetch",
-      "response_kind": "feed"
+      "response_kind": "not_modified"
     },
     {
       "count": 30,
@@ -17,13 +17,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 140,
+  "elapsed_ms": 336,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-10-23T23:51:34+00:00",
+  "generated_at": "2026-10-24T05:54:52+00:00",
   "item_count": 30,
-  "last_checked_at": "2026-10-23T23:51:34+00:00",
-  "last_success_at": "2026-10-23T23:51:34+00:00",
+  "last_checked_at": "2026-10-24T05:54:52+00:00",
+  "last_success_at": "2026-10-24T05:54:52+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",

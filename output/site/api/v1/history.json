@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-23T23:51:34+00:00",
+  "generated_at": "2026-10-24T05:54:52+00:00",
   "as_of": "2026-10-24",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03418-3",
-      "t": "",
+      "t": "商业人工智能在肺栓塞和偶发性肺栓塞检测中的多站点真实性能",
       "te": "Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection",
-      "s": "",
+      "s": "肺栓塞 (PE) 是心血管死亡的主要原因，但经 FDA 批准的人工智能检测模型的实际性能仍未完全表征。使用经过验证的 LLM 流程从放射学报告中提取参考标准标签（准确度为 97%，κ = 0.94）。 PE 模型的敏感性为 86.8%，特异性为 99.1%，敏感性从鞍部栓塞的 99.3% 下降到亚段性 PE 的 72.9%，急性 PE 的敏感性从 89.7% 下降到非急性 PE 的 65.3%。 iPE 模型的灵敏度为 73.5%，特异性为 99.8%。这两种模型的灵敏度均低于 FDA 批准的基准，但超过了批准的特异性，外周和非急性栓塞的性能不断下降，反映了已知的人类读者的局限性，并强调了对人工智能医疗设备进行标准化上市后监测的必要性。",
       "se": "Pulmonary embolism (PE) is a leading cause of cardiovascular mortality, yet the real-world performance of FDA-cleared AI detection models remains incompletely characterized. Reference-standard labels were extracted from radiology reports using a validated LLM pipeline (97% accuracy, κ = 0.94). The PE model achieved 86.8% sensitivity and 99.1% specificity, with sensitivity declining from 99.3% for saddle emboli to 72.9% for subsegmental PE, and from 89.7% for acute to 65.3% for non-acute PE. The iPE model achieved 73.5% sensitivity and 99.8% specificity. Both models demonstrated lower sensitivity than FDA-clearance benchmarks while exceeding cleared specificity, with diminishing performance for peripheral and non-acute emboli mirroring known human reader limitations and underscoring the need for standardized post-market surveillance of AI-enabled medical devices.",
       "u": "https://www.nature.com/articles/s41746-026-03418-3",
       "image": "",
@@ -136,9 +136,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03211-2",
-      "t": "",
+      "t": "无声评估揭示了人工智能生成的临床消息的自动化指标的上下文相关有效性",
       "te": "Silent evaluation reveals context-dependent validity of automated metrics for AI-generated clinical messages",
-      "s": "",
+      "s": "对人工智能生成的患者沟通的评估缺乏标准化框架，自动化指标可能无法反映临床效用。我们利用 GPT 生成的针对患者门户消息的草稿响应 (GDR) 分阶段推出。 2023 年 9 月至 2024 年 8 月，30 名初级保健医生在两种情况下收到了草稿：干预组显示和编辑人工智能草稿 (n = 21,073)，以及非显示组，生成草稿但从未向医生展示，医生独立撰写回复 (n = 45,127)。我们使用 BLEU、ROUGE、BERTScore 和 Flesch Reading Ease 评估信息，然后将自动化指标与盲法医生对有效性、误解潜力和危害的评级相关联。在干预组中，2264 (11%) 草稿被纳入具有高度语义对齐的最终消息中 (BERTScore F1 = 0.93)。",
       "se": "Evaluation of AI-generated patient communication lacks standardized frameworks, and automated metrics may not reflect clinical utility. We leveraged a staged rollout of GPT-generated draft responses (GDRs) to patient portal messages. Thirty primary care physicians received drafts from September 2023 to August 2024 under two conditions: an intervention group where AI drafts were displayed and edited (n = 21,073), and a non-displayed group where drafts were generated but never shown to physicians, who composed responses independently (n = 45,127). We evaluated messages using BLEU, ROUGE, BERTScore, and Flesch Reading Ease, and then correlated automated metrics with blinded physician ratings of effectiveness, misunderstanding potential, and harm. In the intervention group, 2264 (11%) drafts were incorporated into final messages with high semantic alignment (BERTScore F1 = 0.93).",
       "u": "https://www.nature.com/articles/s41746-026-03211-2",
       "image": "",
@@ -265,9 +265,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04660-8",
-      "t": "",
+      "t": "1990-2023 年全球、区域和国家百日咳负担：全球疾病负担研究",
       "te": "Global, regional and national burden of pertussis in 1990–2023: a Global Burden of Disease study",
-      "s": "",
+      "s": "尽管有长期的免疫计划，百日咳仍然是疫苗可预防的死亡的主要原因，特别是在婴儿中。在这里，我们对 1990 年至 2023 年 204 个国家和地区的全球百日咳发病率、死亡率和伤残调整生命年进行了初步评估。我们表明，尽管大流行期间存在短期波动，但 1990 年至 2023 年的全球主导模式是长期下降：年龄标准化死亡率下降了 61.2%，年龄标准化发病率下降了 41.6%。相对于大流行期间异常低的估计值，2020 年至 2023 年间，发病率和死亡率分别反弹了 102.6%（95% 不确定性区间，77.0-128.2%）和 66.1%（95% 不确定性区间，2.4-174.5%）。仅在 2023 年，我们估计就有 1,890 万例病例和 115,000 例死亡归因于百日咳。",
       "se": "Despite long-standing immunization programs, pertussis remains a major cause of vaccine-preventable mortality, particularly among infants. Here we present a primary assessment of global pertussis incidence, mortality and disability-adjusted life years across 204 countries and territories from 1990 to 2023. We show that despite short-term pandemic-period fluctuations, the dominant global pattern from 1990 to 2023 was long-term decline: age-standardized mortality decreased by 61.2% and age-standardized incidence by 41.6%. Relative to the anomalously low pandemic-period estimates, incidence and mortality rebounded by 102.6% (95% uncertainty interval, 77.0–128.2%) and 66.1% (95% uncertainty interval, 2.4–174.5%), respectively, between 2020 and 2023. In 2023 alone, we estimated 18.9 million cases and 115,000 deaths attributable to pertussis.",
       "u": "https://www.nature.com/articles/s41591-026-04660-8",
       "image": "",
@@ -391,9 +391,9 @@
     },
     {
       "id": "pmid:42906565",
-      "t": "",
+      "t": "荷兰月经过多女性的子宫内膜去除术加左炔诺孕酮宫内缓释系统与单独子宫内膜去除术的比较（MIRA2）：一项多中心、开放标签、随机、对照、优效性试验。",
       "te": "Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.",
-      "s": "",
+      "s": "子宫内膜去除术对于月经出血过多的女性来说是一种既定且有效的治疗方法，但许多患者需要进一步治疗，大约 10% 的患者最终在 2 年内接受了子宫切除术。子宫内膜消融后立即插入左炔诺孕酮宫内缓释系统（LNG-IUS）可能会使残留的未经治疗的子宫内膜失活或阻止其再生，从而防止需要子宫切除术的复发症状。该研究的目的是评估对于月经过多的女性，子宫内膜去除术后立即插入 LNG-IUS 与单独子宫内膜去除相比，是否可以减少 2 年内随后进行子宫切除术的需要。这项多中心、开放标签、随机、对照、优效性试验在荷兰 34 家医院进行。",
       "se": "Endometrial ablation is an established and effective treatment for women with heavy menstrual bleeding, but many patients require further treatment, with approximately 10% ultimately undergoing a hysterectomy within 2 years. The insertion of a levonorgestrel-releasing intrauterine system (LNG-IUS) immediately after endometrial ablation might inactivate residual untreated endometrium or prevent its regeneration, thereby preventing recurrent symptoms necessitating a hysterectomy. The aim of the study was to assess whether LNG-IUS insertion immediately after endometrial ablation in women with heavy menstrual bleeding reduced the need for subsequent hysterectomy within 2 years compared with endometrial ablation alone. This multicentre, open-label, randomised, controlled, superiority trial was conducted in 34 hospitals in the Netherlands.",
       "u": "https://doi.org/10.1016/s0140-6736(26)01536-9",
       "image": "",
@@ -521,9 +521,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03112-4",
-      "t": "",
+      "t": "GUARD-LGG：神经胶质瘤前期人工智能驱动的低级别神经胶质瘤放疗反应解密",
       "te": "GUARD-LGG: a glioma upfront AI-driven radiotherapy response decipher for lower-grade glioma",
-      "s": "",
+      "s": "在这里，我们提出了 GUARD-LGG，这是一种机器学习模型，旨在预测治疗前 LGG 的早期 RT 反应。 GUARD-LGG 在试验中的 AUC 分别为 0.946 (95% CI: 0.938–0.962)、0.929 (95% CI: 0.894–0.965)、0.882 (95% CI: 0.830–0.934) 和 0.913 (95% CI: 0.878–0.949)。分别是训练集、内部验证集、外部测试集和预期测试集。",
       "se": "Here we present GUARD-LGG, a machine learning model designed to predict early RT response in LGG before treatment. GUARD-LGG achieved AUCs of 0.946 (95% CI: 0.938–0.962), 0.929 (95% CI: 0.894–0.965), 0.882 (95% CI: 0.830–0.934), and 0.913 (95% CI: 0.878–0.949) in the training, internal validation, external, and prospective test sets, respectively.",
       "u": "https://www.nature.com/articles/s41746-026-03112-4",
       "image": "",
@@ -651,9 +651,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03392-w",
-      "t": "",
+      "t": "使用跨 EHR 数据协调的语言模型来预测阿片类药物使用障碍的通用深度学习模型",
       "te": "A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization",
-      "s": "",
+      "s": "我们开发了 OUD-REY（1 年 OUD 风险评估器）——一种深度学习模型，使用来自 All of Us 研究计划的纵向电子健康记录 (EHR) 数据来预测阿片类药物处方患者一年后的 OUD 风险。在内部验证中，OUD-REY 的 AUROC 为 91.2%，AUPRC 为 77.0%。我们在 All of Us 发布的新数据集（暂时与我们的开发集分离）以及包含 20 年来全国退伍军人事务部 (VA) 医疗中心约 600 万患者的数据集上对我们的模型进行了外部验证。在外部验证中，我们的模型在时间上分离的 All of Us 验证集上的 AUROC 和 AUPRC 分别为 86.4% 和 23.1%（OUD 流行率为 2.9%）。",
       "se": "We developed OUD-REY (OUD Risk Evaluator at 1 Year) - a deep learning model that uses longitudinal electronic health record (EHR) data from the All of Us research program to predict risk of OUD at one year for patients with an opioid prescription. On internal validation, OUD-REY achieved an AUROC of 91.2% and AUPRC of 77.0%. We externally validated our model on a new dataset released by All of Us that was temporally separated from our development set and on a dataset containing ~6 million patients from medical centers of the Veterans Affairs (VA) nationwide over a span of 20 years. On external validation, our model had an AUROC and AUPRC of 86.4% and 23.1% (OUD prevalence of 2.9%), respectively, on our temporally separated All of Us validation set.",
       "u": "https://www.nature.com/articles/s41746-026-03392-w",
       "image": "",
@@ -783,9 +783,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04692-0",
-      "t": "",
+      "t": "四联疗法治疗新诊断多发性骨髓瘤微小残留病的分子预测因子",
       "te": "Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy",
-      "s": "",
+      "s": "四联疗法结合了抗CD38抗体、免疫调节药物、蛋白酶体抑制剂和地塞米松，现已成为新诊断的多发性骨髓瘤（NDMM）的标准诱导治疗。这些与 MRD 相关的转录组学特征在 CASSIOPEIA 队列中得到了独立验证。全基因组测序揭示了 MMRF 队列中验证的已知（APOBEC 突变、染色体碎裂）和新的基因组不稳定表型。整合基因组、转录组和表观基因组特征的多模态随机森林模型预测诱导后的 MRD 状态，曲线下面积为 0.77，优于临床和基因组模型，同时提供相对于转录组和表观基因组模型的可比较的区分度和改进的校准。",
       "se": "Quadruplet therapy, combining anti-CD38 antibodies, immunomodulatory drugs, proteasome inhibitors and dexamethasone, is now the standard induction treatment for newly diagnosed multiple myeloma (NDMM). These MRD-associated transcriptomic features were independently validated in the CASSIOPEIA cohort. Whole-genome sequencing revealed both known (APOBEC mutagenesis, chromothripsis) and new genomic instability phenotypes validated in the MMRF cohort. A multimodal random forest model integrating genomic, transcriptomic and epigenomic features predicted MRD status after induction, with an area under the curve of 0.77, outperforming clinical and genomic models, while providing comparable discrimination and improved calibration relative to the transcriptomic and epigenomic models.",
       "u": "https://www.nature.com/articles/s41591-026-04692-0",
       "image": "",
@@ -2875,14 +2875,14 @@
         "url:https://www.nature.com/articles/s41591-026-04660-8",
         "pmid:42906565"
       ],
-      "minutes": 11
+      "minutes": 4
     },
     {
       "date": "2026-10-20",
       "item_ids": [
         "url:https://www.nature.com/articles/s41746-026-03112-4"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-10-19",
@@ -2890,7 +2890,7 @@
         "url:https://www.nature.com/articles/s41746-026-03392-w",
         "url:https://www.nature.com/articles/s41591-026-04692-0"
       ],
-      "minutes": 5
+      "minutes": 2
     },
     {
       "date": "2026-10-16",

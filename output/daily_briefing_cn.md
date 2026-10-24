@@ -2,25 +2,25 @@
 这一天的 4 件 AI 医疗大事
 
 01 · 论文研究
-Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma
-In patients with non-Hodgkin lymphoma (NHL) treated with chimeric antigen receptor (CAR) T cell therapy, factors associated with efficacy overlap with prognostic biomarkers. A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival (PFS; hazard ratio = 0.46, 95% confidence interval: 0.31−0.68, P = 9.8 × 10−5, high versus low naive-like T cell groups) without impacting safety. In multivariate models, the naive-like phenotype outperformed clinicopathologic features such as inflammatory markers and tumor burden, remaining significant after adjusting for product expansion. The key findings were validated in an independent cohort of 203 patients treated with axi-cel-based therapy or brexucabtagene autoleucel.
+淋巴瘤患者多中心、多试验队列分析中 CAR T 细胞治疗反应的决定因素
+在接受嵌合抗原受体 (CAR) T 细胞疗法治疗的非霍奇金淋巴瘤 (NHL) 患者中，与疗效相关的因素与预后生物标志物重叠。高比例的幼稚样 (CCR7+CD45RA+) T 细胞是与延长无进展生存期相关的最显着特征（PFS；风险比 = 0.46，95% 置信区间：0.31−0.68，P = 9.8 × 10−5，高幼稚样 T 细胞组与低幼稚样 T 细胞组），且不影响安全性。在多变量模型中，幼稚表型优于炎症标志物和肿瘤负荷等临床病理特征，在调整产品扩展后仍然显着。主要发现在一个由 203 名接受基于 axi-cel 的疗法或 brexucabtagene autoleucel 治疗的患者组成的独立队列中得到验证。
 Nature Medicine · 2026-10-23
 https://www.nature.com/articles/s41591-026-04707-w
 
 02 · 市场准入
-Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P)
-Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P) Introduction Consistent with the President’s goal to prevent waste, fraud, and abuse, today the U.S. Department of Health and Human Services (HHS), through the Centers for Medicare & Medicaid Services (CMS), issued the Exchange Pre-Eligibility Verification Notice of Proposed Rulemaking. This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation (P.L. 119-21). The WFTC legislation amended the Internal Revenue Code to establish new eligibility requirements for the premium tax credit (PTC).
+交易所资格预验证提议规则 (CMS 9873-P)
+交易所资格前验证拟议规则 (CMS 9873-P) 简介 与总统防止浪费、欺诈和滥用的目标相一致，美国卫生与公众服务部 (HHS) 今天通过医疗保险和医疗补助服务中心 (CMS) 发布了交易所资格前验证拟议规则通知。该规则将使交易所资格和验证法规与工作家庭减税 (WFTC) 立法 (P.L. 119-21) 规定的新要求保持一致。 WFTC 立法修订了《国内税收法》，为保费税收抵免 (PTC) 制定了新的资格要求。
 CMS · 政策事实说明 · 2026-10-23
 https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p
 
 03 · 论文研究
-Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis
-Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. We systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports represented 41 independent cohort clusters, including 40 core cohorts. Across three adjusted cohorts, clinician correctness was substantially higher with correct than incorrect automated advice (pooled OR 10.19, 95% CI 7.43–13.98; I² = 0%); a ≥ 2020 sensitivity analysis was similar but imprecise (OR 9.22, 95% CI 2.06–41.13). In four heterogeneous real-world computerized ECG studies, 26.6% of erroneous interpretations were not corrected or recognized (95% CI 6.4–65.6%; I² = 95.8%).
+对错误临床人工智能的人工监督和决策支持系统审查和荟萃分析
+人工智能 (AI) 越来越多地支持临床决策，但只有当临床医生认识到并抵制错误输出时，人类监督才具有保护作用。我们系统地回顾了临床医生对不正确的自动建议的反应的对照研究和现实世界研究。 46 份报告代表 41 个独立群组，其中包括 40 个核心群组。在三个调整后的队列中，临床医生正确的自动建议的正确性明显高于错误的自动建议（汇总 OR 10.19，95% CI 7.43–13.98；I² = 0%）； a ≥ 2020 的敏感性分析相似但不精确（OR 9.22，95% CI 2.06–41.13）。在四项异构真实世界计算机心电图研究中，26.6% 的错误解释未被纠正或识别（95% CI 6.4–65.6%；I² = 95.8%）。
 npj Digital Medicine · 2026-10-23
 https://www.nature.com/articles/s41746-026-03408-5
 
 04 · 论文研究
-Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial
-Camupepimut (ELI-002 7P) drives mutated KRAS (mKRAS)-specific T cell responses that correlated with disease-free survival (DFS) and overall survival (OS) in patients with mKRAS pancreatic adenocarcinoma (PDAC) in the phase 1 AMPLIFY-201 trial. Post hoc multivariate Cox regression analysis of DFS indicated an improved outcome for camupepimut (adjusted HR 0.47, P = 0.0086), a worse outcome for stage III disease (adjusted HR 2.29, P = 0.0127), an elevated baseline CA19-9 (adjusted HR 3.16, P < 0.0001) and baseline circulating tumor DNA (ctDNA) positivity (adjusted HR 5.99, P < 0.0001). In camupepimut-treated patients, mKRAS-specific T cell response >9.17-fold over baseline (82.2%, 74/90) correlated with improved DFS (HR 0.22, P < 0.0001), with the median DFS not reached versus 6.08 months for above and below 9.17-fold, respectively.
+胰腺癌中淋巴结靶向、mKRAS 特异性两亲疫苗：随机 2 期 AMPLIFY-7P 试验
+在 1 期 AMPLIFY-201 试验中，Camupepimut (ELI-002 7P) 驱动突变 KRAS (mKRAS) 特异性 T 细胞反应，该反应与 mKRAS 胰腺腺癌 (PDAC) 患者的无病生存 (DFS) 和总生存 (OS) 相关。 DFS 事后多变量 Cox 回归分析表明 camupepimut 的结果有所改善（调整后的 HR 0.47，P = 0.0086），III 期疾病的结果较差（调整后的 HR 2.29，P = 0.0127），基线 CA19-9 升高（调整后的 HR 3.16，P < 0.0001）和基线循环肿瘤 DNA (ctDNA) 阳性（调整后的 HR） 5.99，P < 0.0001）。在接受 camupepimut 治疗的患者中，mKRAS 特异性 T 细胞应答较基线高 9.17 倍（82.2%，74/90）与 DFS 改善相关（HR 0.22，P < 0.0001），中位 DFS 未达到，而高于和低于 9.17 倍的中位 DFS 分别为 6.08 个月。
 Nature Medicine · 2026-10-23
 https://www.nature.com/articles/s41591-026-04734-7
