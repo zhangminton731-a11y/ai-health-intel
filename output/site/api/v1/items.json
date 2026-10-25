@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T17:03:49+00:00",
+  "generated_at": "2026-10-25T23:16:53+00:00",
   "as_of": "2026-10-26",
   "count": 24,
   "items": [
@@ -125,9 +125,9 @@
     },
     {
       "id": "pmid:42925007",
-      "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
+      "title": "曲妥珠单抗 Rezetecan 治疗 ERBB2-低晚期乳腺癌：HORIZON-Breast06 随机临床试验。",
       "original_title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
-      "summary": "Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer. To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer. This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025.",
+      "summary": "Trastuzumab rezetecan (SHR-A1811) 在一项全球 1 期试验中表现出令人鼓舞的抗肿瘤活性，该试验涉及经过深度治疗的红细胞癌基因 B (ERBB2) 低转移性乳腺癌患者。比较 ERBB2 低转移性乳腺癌患者的曲妥珠单抗瑞泽替康与医生选择的化疗。这项开放标签、随机、多中心 3 期试验在中国 73 家医院进行。符合条件的患者是年龄在 18 至 75 岁之间、集中确诊为 ERBB2 低（免疫组织化学 [IHC] 1+ 或 IHC 2+/原位杂交 [ISH] 阴性）不可切除的局部复发性或转移性乳腺癌的女性，她们之前接受过 1 种或更少的转移性疾病化疗，且激素受体阳性疾病需要先行内分泌治疗。报名于2023年6月30日开始，至2025年8月20日结束。",
       "url": "https://doi.org/10.1001/jama.2026.21372",
       "source": "JAMA · 摘要索引",
       "source_type": "期刊论文",
@@ -137,7 +137,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -202,7 +202,7 @@
                 "total_tokens": 1754
               }
             },
-            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] ",
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
             "total": 77
           },
           {

@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-26
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 452
+> Daily status: **complete_with_warning** · sources 26/26 · items 453
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 - Source: `jama_abstracts` · published `2026-10-23` · freshness `fresh`
 - Reading value: `80` · status: `scored`
-- Event: `new` · identity: `pmid:42925007`
+- Event: `seen` · identity: `pmid:42925007`
 
 Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer. To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer. This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025. The last day of follow-up for the final analysis for progression-free survival in the current study was March 20, 2026. Patients were randomly assigned (1:1) to receive trastuzumab rezetecan (6.4 mg/kg intravenously every 3 weeks; n = 277) or physician's choice of chemotherapy (n = 274). The primary end point was progression-free survival assessed by blinded independent central review in chemotherapy-naive patients and the overall population. Between June 30, 2023, and August 20, 2025, a total of 551 patients were randomized, with a mean (SD) age of 54.9 (9.9) years. At the data cutoff (March 20, 2026), trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] months; hazard ratio, 0.25 [95% CI, 0.19-0.33]; P < .001) and the overall population (median, 16.4 [95% CI, 14.0-16.8] months vs 6.8 [95% CI, 5.7-6.9] months; hazard ratio, 0.27 [95% CI, 0.21-0.34]; P < .001). The benefit was consistent in hormone receptor-negative disease (median progression-free survival: 16.5 vs 6.8 months; hazard ratio, 0.34, [95% CI, 0.22-0.54]) and hormone receptor-positive disease (median progression-free survival: 16.4 vs 6.7 months; hazard ratio, 0.24 [95% CI, 0.18-0.33]). Grade 3 or greater treatment-related adverse events occurred in 84.1% of patients (232/276) with trastuzumab rezetecan and 67.9% (184/271) with chemotherapy, most commonly decreased neutrophil count (180 [65.2%] vs 147 [54.2%]). Trastuzumab rezetecan provided significant progression-free survival benefit over physician's choice of chemotherapy in patients with ERBB2-low advanced breast cancer, with benefit observed across all key subgroups. It exhibited the potential as a new treatment option with a distinct safety profile in this setting. ClinicalTrials.gov Identifier: NCT05814354.
 
@@ -206,7 +206,7 @@ The U.S. Food and Drug Administration today granted accelerated approval for a n
 
 No items.
 
-## Archive · 428
+## Archive · 429
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -2132,7 +2132,7 @@ A new computational approach reveals how cells communicate to assemble into tiss
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
 No summary supplied by the source.
 
@@ -2196,7 +2196,7 @@ This letter comments on the systematic review and meta-analysis of large languag
 
 - Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
 
 No summary supplied by the source.
 
@@ -3252,7 +3252,7 @@ Standardized patients (SPs) are central to clinical communication training but r
 
 - Source: `medcity_news` · published `2026-10-23` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/`
 
 <p><a href="https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Gilead Sciences is getting global rights to an experimental PepStar Therapeutics oral peptide designed to inhibit the IL-23 receptor to treat inflammatory bowel disease. It could compete against Johnson &amp; Johnson’s Icotyde, an oral peptide that blocks the same target and is also in development for IBD. </p> <p>The post <a href="https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/">Gilead to Pay $1.3B for Oral Peptide That Could Rival J&amp;J’s New Immunology Pill</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3524,7 +3524,7 @@ Notice NOT-OD-27-011 from the NIH Guide for Grants and Contracts
 
 - Source: `medcity_news` · published `2026-10-23` · freshness `fresh`
 - Reading value: `32` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/`
 
 <p><a href="https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart.jpg" class="attachment-large size-large wp-post-image" alt="Close-up of unrecognizable black woman holding her chest in pain" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>MedTech Conference panelists cited inflammation research, listening to women, clinical trial representation and investment as priorities for women’s cardiovascular health.</p> <p>The post <a href="https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/">Where Are the Biggest Opportunities in Women’s Cardiovascular Health?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3535,14 +3535,6 @@ Notice NOT-OD-27-011 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/`
 
 <p><a href="https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Ultimately, while clinical training teaches nurses how to care for patients within a system, business education empowers them to design, protect, and scale the system.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/">Why an Independent NP Practice Requires an Undergraduate Business Foundation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Apple Security Research Device](https://security.apple.com/research-device/)
-
-- Source: `hn_ai_health_signals` · published `2026-10-24` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://security.apple.com/research-device/`
-
-Hacker News community signal; score 182.
 
 ### [Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial](https://www.nature.com/articles/s41591-026-04740-9)
 
@@ -3572,7 +3564,7 @@ Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bl
 
 - Source: `jama_abstracts` · published `2026-10-24` · freshness `fresh`
 - Reading value: `65` · status: `scored`
-- Event: `new` · identity: `pmid:42925557`
+- Event: `seen` · identity: `pmid:42925557`
 
 In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear. To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator. PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026. Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease. Three reviewers independently extracted data and results were pooled using random-effects meta-analysis. Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin). A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001). In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.
 
@@ -3584,11 +3576,19 @@ In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor 
 
 Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.
 
+### [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
+
+- Source: `hn_ai_health_signals` · published `2026-10-25` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://lynchlab.net/llm-skin-cancer`
+
+Hacker News community signal; score 365.
+
 ### [Congress’s Patient Matching Fix Won’t Work — Here’s What Would](https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/)
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `39` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/`
 
 <p><a href="https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/"><img width="600" height="405" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005-600x405.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005-600x405.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005-300x203.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005.jpg 720w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution.</p> <p>The post <a href="https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/">Congress&#8217;s Patient Matching Fix Won&#8217;t Work — Here&#8217;s What Would</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3596,7 +3596,7 @@ Moderna and Merck's 'presidential' presentation, and other news from Day 2 of th
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/`
 
 <p><a href="https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/"><img width="600" height="375" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-300x188.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images.jpg 747w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between the clinical findings and the market’s response.</p> <p>The post <a href="https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/">Fractyl&#8217;s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3604,15 +3604,23 @@ Moderna and Merck's 'presidential' presentation, and other news from Day 2 of th
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
 
 <p><a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/"><img width="600" height="394" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-300x197.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-768x504.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. </p> <p>The post <a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/">Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
+
+- Source: `hn_ai_health_signals` · published `2026-10-25` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://minimaxir.com/2026/10/cheap-llms/`
+
+Hacker News community signal; score 53.
 
 ### [Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR](https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/)
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `35` · status: `needs_review`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
 
 <p><a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not.</p> <p>The post <a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/">Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3628,7 +3636,7 @@ After 100 years, there's finally an effective cancer vaccine. Now comes the push
 
 - Source: `stat_news_feed` · published `2026-10-25` · freshness `fresh`
 - Reading value: `35` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss`
 
 AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.
 
