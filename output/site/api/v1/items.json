@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T12:34:33+00:00",
-  "as_of": "2026-10-25",
-  "count": 23,
+  "generated_at": "2026-10-25T17:03:49+00:00",
+  "as_of": "2026-10-26",
+  "count": 24,
   "items": [
     {
       "id": "pmid:42904878",
@@ -117,6 +117,128 @@
           }
         ],
         "score": 81,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42925007",
+      "title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
+      "original_title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
+      "summary": "Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer. To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer. This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025.",
+      "url": "https://doi.org/10.1001/jama.2026.21372",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-23",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42925007",
+        "upstream_id": "42925007"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "ERBB2-low转移性乳腺癌一线化疗经治人群中，SHR-A1811三期随机对照显示PFS大幅延长（HR 0.25-0.27），亚组一致，为该ADC提供关键证据并可能改变治疗格局；但为开放标签设计，3级以上不良事件达84.1%，且尚无OS数据，安全性权衡需关注。"
+      },
+      "reading_value_score": 80,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T17:04:24+00:00",
+        "input_hash": "720217ddc5ee1d53aeb01638c147e671183838652332d5a8caed08b541434f7b",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "ERBB2-low转移性乳腺癌一线化疗经治人群中，SHR-A1811三期随机对照显示PFS大幅延长（HR 0.25-0.27），亚组一致，为该ADC提供关键证据并可能改变治疗格局；但为开放标签设计，3级以上不良事件达84.1%，且尚无OS数据，安全性权衡需关注。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "ERBB2-low转移性乳腺癌一线化疗经治人群中，SHR-A1811三期随机对照显示PFS大幅延长（HR 0.25-0.27），亚组一致，为该ADC提供关键证据并可能改变治疗格局；但为开放标签设计，3级以上不良事件达84.1%，且尚无OS数据，安全性权衡需关注。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610260104172f44ee8b5faf4559",
+              "seconds": 3.72,
+              "usage": {
+                "completion_tokens": 199,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1555,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1754
+              }
+            },
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] ",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "III期随机对照试验显示SHR-A1811在ERBB2-low转移性乳腺癌一线化疗人群中PFS显著延长（HR 0.25–0.27），可能改变该人群治疗格局；开放标签设计、中性粒细胞减少等毒性较高，且为摘要级结果、总生存数据未报告。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102601042185cd259b62044c0e",
+              "seconds": 3.78,
+              "usage": {
+                "completion_tokens": 163,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1555,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1536
+                },
+                "total_tokens": 1718
+              }
+            },
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8",
+            "total": 84
+          }
+        ],
+        "score": 80,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",

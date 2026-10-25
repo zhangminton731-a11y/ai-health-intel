@@ -1,4 +1,4 @@
-# Scientific Information Brief · 2026-10-25
+# Scientific Information Brief · 2026-10-26
 
 > Daily status: **complete_with_warning** · sources 26/26 · items 452
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 23
+## Scan · 24
 
 ### [Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.](https://doi.org/10.1056/nejmoa2611477)
 
@@ -17,6 +17,14 @@ No items.
 - Event: `seen` · identity: `pmid:42904878`
 
 <h4>Background</h4>Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA).<h4>Methods</h4>In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA and a body-mass index (the weight in kilograms divided by the square of the height in meters) of at least 27, without (TRIUMPH-1-OSA) or with (TRIUMPH-2-OSA) type 2 diabetes, to receive retatrutide (4, 9, or 12 mg) or placebo. The primary end point was the change in the apnea-hypopnea index (AHI, the average number of apneas and hypopneas per hour of sleep) at 80 weeks with 9 mg and 12 mg of retatrutide. For OSA-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy used for participants who had intercurrent events suggesting treatment failure and a treatment-policy strategy used elsewhere. We also report intention-to-treat (ITT) results.<h4>Results</h4>A total of 243 participants underwent randomization in TRIUMPH-1-OSA and 448 in TRIUMPH-2-OSA. The baseline mean AHI was 58.6 and 55.9 events per hour, respectively, and the mean body weight was 119.6 and 115.9 kg. At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively). The changes with retatrutide in TRIUMPH-2-OSA were -19.2 (4 mg), -24.7 (9 mg), and -25.4 (12 mg) events per hour, versus -10.3 with placebo (difference vs. placebo, -8.9 [95% CI, -15.9 to -2.0], -14.4 [95% CI, -21.6 to -7.2], and -15.1 [95% CI, -22.5 to -7.7]). For the ITT estimand, the corresponding differences from placebo were -13.2 (95% CI, -22.6 to -3.9), -24.7 (95% CI, -34.1 to -15.3), and -22.5 (95% CI, -31.9 to -13.1) in TRIUMPH-1-OSA and -8.8 (95% CI, -15.8 to -1.7), -13.9 (95% CI, -21.3 to -6.6), and -15.0 (95% CI, -22.5 to -7.4) in TRIUMPH-2-OSA. The mean percent change in body weight with retatrutide (key secondary end point) was -12.5 to -22.2% in TRIUMPH-1-OSA and -12.1 to -18.5% in TRIUMPH-2-OSA, versus -4.8% and -5.6% with placebo (treatment-regimen estimand). The most common adverse events were gastrointestinal.<h4>Conclusions</h4>In adults with OSA and obesity or overweight with or without type 2 diabetes, retatrutide resulted in significantly greater decreases in the AHI than placebo. (Funded by Eli Lilly; TRIUMPH-1 and -2 ClinicalTrials.gov numbers, NCT05929066 and NCT05929079.).
+
+### [Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.](https://doi.org/10.1001/jama.2026.21372)
+
+- Source: `jama_abstracts` · published `2026-10-23` · freshness `fresh`
+- Reading value: `80` · status: `scored`
+- Event: `new` · identity: `pmid:42925007`
+
+Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer. To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer. This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025. The last day of follow-up for the final analysis for progression-free survival in the current study was March 20, 2026. Patients were randomly assigned (1:1) to receive trastuzumab rezetecan (6.4 mg/kg intravenously every 3 weeks; n = 277) or physician's choice of chemotherapy (n = 274). The primary end point was progression-free survival assessed by blinded independent central review in chemotherapy-naive patients and the overall population. Between June 30, 2023, and August 20, 2025, a total of 551 patients were randomized, with a mean (SD) age of 54.9 (9.9) years. At the data cutoff (March 20, 2026), trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] months; hazard ratio, 0.25 [95% CI, 0.19-0.33]; P < .001) and the overall population (median, 16.4 [95% CI, 14.0-16.8] months vs 6.8 [95% CI, 5.7-6.9] months; hazard ratio, 0.27 [95% CI, 0.21-0.34]; P < .001). The benefit was consistent in hormone receptor-negative disease (median progression-free survival: 16.5 vs 6.8 months; hazard ratio, 0.34, [95% CI, 0.22-0.54]) and hormone receptor-positive disease (median progression-free survival: 16.4 vs 6.7 months; hazard ratio, 0.24 [95% CI, 0.18-0.33]). Grade 3 or greater treatment-related adverse events occurred in 84.1% of patients (232/276) with trastuzumab rezetecan and 67.9% (184/271) with chemotherapy, most commonly decreased neutrophil count (180 [65.2%] vs 147 [54.2%]). Trastuzumab rezetecan provided significant progression-free survival benefit over physician's choice of chemotherapy in patients with ERBB2-low advanced breast cancer, with benefit observed across all key subgroups. It exhibited the potential as a new treatment option with a distinct safety profile in this setting. ClinicalTrials.gov Identifier: NCT05814354.
 
 ### [Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.](https://doi.org/10.1056/nejmoa2608682)
 
@@ -198,7 +206,7 @@ The U.S. Food and Drug Administration today granted accelerated approval for a n
 
 No items.
 
-## Archive · 429
+## Archive · 428
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1256,14 +1264,6 @@ The U.S. Food and Drug Administration today approved Emcitate (tiratricol) table
 
 FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S. District Court for the Northern District of Texas challenging the current regulatory framework. Based on FDA’s learned experience implementing the 2021 rule, the widespread development of an illicit and unregulated market, and the pace of new product introductions, FDA intends to evaluate changes to the PMTA regulatory framework, including through initiation of new rulemaking to replace the current framework. FDA believes a modern framework that reflects current market realities and provides greater clarity and predictability is critical to maximizing the protection of public health. In the meantime, FDA will continue to process PMTA submissions, conduct premarket reviews, and issue regulatory decisions on new tobacco products in accordance with the statutory requirements established by Congress. FDA remains committed to carrying out its responsibilities under the Tobacco Control Act, including applying the statutorily appropriate standard for the protection of public health (APPH) when reviewing PMTAs. Any future changes to the regulatory framework will be undertaken consistent with applicable law and with opportunities for public input. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
 
-### [Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.](https://doi.org/10.1001/jama.2026.19747)
-
-- Source: `jama_abstracts` · published `2026-09-28` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42806496`
-
-<h4>Importance</h4>Vasoactive drugs are often given to critically ill children to treat hypotension. However, optimal mean arterial pressure (MAP) targets are unknown.<h4>Objective</h4>To evaluate whether adopting a permissive MAP target, and thereby potentially reducing exposure to vasoactive drugs, improves outcomes in hypotensive critically ill children.<h4>Design, setting, and participants</h4>This multicenter, unblinded, pragmatic randomized clinical trial was conducted in 23 pediatric intensive care units (PICUs) in 3 countries. Critically ill children receiving invasive ventilation and vasoactive drugs for hypotension were enrolled between November 2021 and May 2026. Follow-up to the 30-day outcome was completed in June 2026.<h4>Interventions</h4>Patients randomized to the intervention (n = 957) were assigned a permissive MAP target greater than the fifth percentile for age. Patients in the control group (n = 943) received usual care with MAP target set by the attending physician.<h4>Main outcomes and measures</h4>The primary outcome was a composite of mortality and duration of invasive ventilation at 30 days. Secondary outcomes included mortality at PICU discharge, time to cessation of invasive ventilation, receipt and duration of kidney replacement therapy in PICU at 30 days, and length of PICU and hospital stay.<h4>Results</h4>Of 1900 randomized patients, 910 in the permissive MAP target group and 904 in the usual care group were included for analysis of the primary outcome. Participants had a median (IQR) age of 4 (0-10) years and 44.8% were female; baseline characteristics were similar between the groups. Median (IQR) MAP while receiving vasoactive drugs was 58 (51-63) mm Hg in the permissive MAP target group and 61 (54-67) mm Hg in the usual care group. A permissive MAP target led to a 37.5% reduction in median norepinephrine-equivalent total dose compared with the usual care group. There was no significant difference between the groups in the primary outcome (probabilistic index, 0.52 [95% CI, 0.49-0.54]; P = .23). Six of the 7 secondary outcomes were similar between the groups, except median (IQR) PICU length of stay was significantly shorter in survivors in the permissive MAP target vs usual care group (159 [79-286] vs 166 [92-319] hours); probabilistic index, 0.53 [95% CI, 0.50-0.56]). Receipt of kidney replacement therapy and adverse events did not differ between the groups.<h4>Conclusions and relevance</h4>Adopting a permissive MAP target resulted in no significant difference in mortality and duration of invasive ventilation at 30 days compared with usual care.<h4>Trial registration</h4>isrctn.org Identifier: ISRCTN20609635; Swiss National Clinical Trial Portal: SNCTP000006590.
-
 ### [A trembling detour to the diagnosis of encephalitis: a neuroborreliosis case report.](https://doi.org/10.1016/s0140-6736(26)01501-1)
 
 - Source: `lancet_abstracts` · published `2026-09-29` · freshness `stale`
@@ -1367,14 +1367,6 @@ Apple today introduced updates to Apple Creator Studio, its groundbreaking colle
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees`
 
 The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent bodies that inform some of the most consequential decisions in American public health. As part of an effort to broaden and strengthen participation on its advisory committees, the FDA is publishing two Federal Register notices: one seeking qualified scientific, technical, and professional voting members across all committees with current or anticipated vacancies, and a companion notice seeking consumer representatives to ensure the public’s voice is at the table. “FDA advisory committees bring together leading scientific minds to engage with the most difficult questions in public health. We are actively inviting people from across the country who are on the forefront of their fields — clinicians, researchers, and community voices who can bring the latest science, real-world experience, and fresh perspectives to the FDA’s deliberations,” said Acting FDA Commissioner of Food and Drugs, Kyle Diamantas, J.D. “These panels provide independent expertise and rigorous scrutiny as the FDA navigates complex and rapidly evolving areas of science. The Trump Administration is deeply committed to strengthening the partnership between the FDA and the nation’s brightest minds. Advisory committees are a cornerstone of the FDA’s science-based, transparent regulatory process. These committees and panels bring together scientific experts such as physicians, researchers, biostatisticians, along with patient advocates and consumer representatives to evaluate the evidence on drugs, vaccines, biologics, medical devices, and other FDA-regulated products — providing independent recommendations that help the FDA make well-informed decisions on behalf of the American public. The FDA is recruiting qualified candidates for vacancies spanning multiple scientific domains — from oncology and cardiovascular medicine to neurology, genetics, and medical devices. Interested candidates — whether applying as scientific experts or as consumer representatives — are encouraged to begin the process through the centralized FDA Advisory Committee Membership Nomination application portal. Nominees for scientific and technical voting member positions must demonstrate subject-matter expertise relevant to one or more FDA advisory committees, the ability to interpret complex scientific and technical information, an understanding of the public health significance of issues before the committee, and the capacity to provide objective, independent advice. Nominees for consumer representative positions should have demonstrated affiliation with or active participation in consumer or community-based organizations, and the ability to analyze technical data, discuss benefits and risks, and evaluate product safety and efficacy from a public perspective. The FDA will consider nominations for current and anticipated near-term vacancies and will accept nominations on a continuing basis. To receive first consideration for current and near-term vacancies, nominations for consumer representative positions should be submitted no later than November 15, 2026, and nominations for scientific, technical, professional, and other voting-member positions should be submitted no later than November 30, 2026. Nominations received after these dates will be considered as later vacancies arise. Self-nominations are accepted. Members are invited to serve for terms of up to four years. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
-
-### [Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction-Associated Steatotic Liver Disease.](https://doi.org/10.1001/jama.2026.18491)
-
-- Source: `jama_abstracts` · published `2026-09-30` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42814439`
-
-<h4>Importance</h4>Although metabolic dysfunction-associated steatotic liver disease (MASLD) is traditionally associated with obesity, it is increasingly recognized in individuals with normal weight (ie, lean MASLD).<h4>Objective</h4>To characterize the clinical, histologic, and prognostic features of lean MASLD, and evaluate the performance of noninvasive tests for advanced fibrosis.<h4>Design, setting, and participants</h4>Multinational, retrospective observational study of adults with biopsy-confirmed MASLD from 41 countries from the Global MASLD project.<h4>Exposures</h4>Lean vs overweight/obese MASLD, defined by body mass index (BMI) and waist circumference.<h4>Main outcomes and measures</h4>Primary outcomes were all-cause mortality and clinical events (hepatocellular carcinoma, hepatic decompensation, liver transplant, death), intermediate outcomes included histologic fibrosis severity, and tests included the Fibrosis-4 (FIB-4) score and liver stiffness measurement (LSM) by transient elastography.<h4>Results</h4>Among 18 326 patients (mean [SD] age, 50.9 [13.1] years; 8714 [47.6%] male), 6.7% were lean by BMI. Among 12 202 patients with waist circumference available, 6.0% were lean by waist circumference (κ = 0.41). Lean MASLD was most prevalent in Asia (11.3% by BMI, 11.7% by waist circumference). Compared with overweight/obese MASLD, lean MASLD had lower prevalence of type 2 diabetes (38.2% vs 48.3%; difference, -10.2% [95% CI, -13.0% to -7.4%]), advanced fibrosis (29.3% vs 37.2%; difference, -7.8% [95% CI, -10.5% to -5.2%]), and Non-Alcoholic Fatty Liver Disease Activity Scores (mean [SD], 3.96 [1.81] vs 4.41 [1.68]; difference, -0.44 [95% CI, -0.56 to -0.33]). The FIB-4 demonstrated lower accuracy for predicting advanced fibrosis (F3-F4) in lean vs overweight/obese MASLD (area under the curve, 0.76 [95% CI, 0.73-0.79] vs 0.79 [95% CI, 0.78-0.80]; difference, -0.03 [95% CI, -0.06 to 0.00]), while LSM had higher accuracy (area under the curve, 0.87 [95% CI, 0.84-0.90] vs 0.83 [95% CI, 0.82-0.84]; difference, 0.04 [95% CI, 0.01-0.07]). Unadjusted rates per 100 person-years in lean vs overweight/obese MASLD were 1.08 vs 0.91 for all-cause mortality and 1.51 vs 1.43 for clinical events, respectively; lean status was not independently associated with all-cause mortality (adjusted hazard ratio [aHR], 0.90 [95% CI, 0.69-1.16]) or clinical events (aHR, 0.94 [95% CI, 0.76-1.17]). Advanced fibrosis (F3-F4) was associated with all-cause mortality (1.46 vs 0.77 per 100 person-years; aHR, 2.10 [95% CI, 1.71-2.57]) and clinical events (3.21 vs 0.89 per 100 person-years; aHR, 3.41 [95% CI, 2.90-4.03]).<h4>Conclusions and relevance</h4>Lean MASLD represents a distinct phenotype with milder histologic disease but similar clinical outcomes compared with overweight/obese MASLD. Fibrosis severity, rather than body composition, was associated with prognosis and LSM was reliable in lean individuals.
 
 ### [<i>Helicobacter pylori</i> Infection - Advances, Challenges, and the Road Ahead.](https://doi.org/10.1056/nejmra2414530)
 
@@ -2122,91 +2114,91 @@ The U.S. Food and Drug Administration, a division within the U.S. Department of 
 
 ### [400 publications are now partnering with us on our News AI pilot program.](https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/)
 
-- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
-- Reading value: `11` · status: `scored`
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp">People’s information habits are evolving quickly, and platforms and publishers of all sizes are navigating these changes. To help meet this moment, we’re evolving our pa…
 
 ### [AI model decodes the language cells use to communicate](https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015)
 
-- Source: `mit_health` · published `2026-10-15` · freshness `fresh`
-- Reading value: `35` · status: `scored`
+- Source: `mit_health` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015`
 
 A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.
 
 ### [Animal numbers are not a proxy for scientific strength](https://www.nature.com/articles/s41551-026-01825-1)
 
-- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01825-1`
 
-Judicious animal model design and selection, rather than experimental excess, is key to generating robust, informative and ethically responsible evidence in biomedical research.
+No summary supplied by the source.
 
 ### [Authors’ Reply: Same Name, Moving Target: Model Version Drift in Syntheses of Large Language Models for Mental Health](https://ai.jmir.org/2026/1/e112028/)
 
-- Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
+- Source: `jmir_ai` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e112028/`
 
 N/A <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d937230a61beb5663e585f7b7275624c" />
 
 ### [Bringing the magic: Google breaks open a bottleneck in quantum computing](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/)
 
-- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
-- Reading value: `25` · status: `scored`
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp">In a paper published in Science, Google has shown that Magic State Cultivation works on Google Quantum AI hardware.
 
 ### [Check if a text message is a scam using Circle to Search.](https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/)
 
-- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `fresh`
-- Reading value: `14` · status: `scored`
+- Source: `fitbit_google_blog` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp">Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.
 
 ### [Clinician Use of an Artificial Intelligence-Enabled Clinical Information Platform.](https://doi.org/10.1001/jama.2026.21868)
 
-- Source: `jama_abstracts` · published `2026-10-15` · freshness `fresh`
-- Reading value: `69` · status: `scored`
+- Source: `jama_abstracts` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42879271`
 
 <h4>Importance</h4>Despite growing interest in the use of artificial intelligence (AI) in medicine, empirical evidence on how clinicians use these tools is limited.<h4>Objective</h4>To characterize clinician use of an AI-enabled clinical information platform, the distribution of use across the clinical workforce, and the purpose of submitted queries.<h4>Design, setting, and participants</h4>This cross-sectional study analyzed clinicians with National Provider Identifier-verified accounts of a commonly used AI-enabled clinical information platform, OpenEvidence, from January 1, 2024, through June 30, 2026. A large language model was used to classify the clinical purpose and topic areas of a stratified random sample of 38.8 million queries.<h4>Main outcomes and measures</h4>The number of active users and clinical queries, the share of queries relative to representation in the national workforce, and the clinical purpose and topic of queries were examined.<h4>Results</h4>Overall, 952 008 clinicians (58.5% female), including 556 200 physicians, submitted 271 million queries during the 2.5-year study period. Monthly active users increased from 355 in January 2024 to 703 265 in June 2026, and average monthly queries per active user rose from 18.0 to 39.5. Nurse practitioners (44.5) and physician assistants (44.5) submitted more queries per active user-month than physicians (37.1). A higher share of queries relative to the national workforce was submitted by physicians within a decade of graduation (use ratio, 2.54) and residents and fellows (1.84). Use was also higher than average among physicians specializing in oncology and hematology (use ratio, 2.00), internal medicine (1.88), and family medicine (1.80), but lower in procedural and diagnostic specialties (ophthalmology, 0.23; radiology, 0.24; orthopedics, 0.24). Most queries addressed clinical decision-making (51.9%), particularly treatment and management (33.1%), whereas diagnosis accounted for 13.9% of queries. Queries addressing topics outside physicians' own specialties ranged from 35% among oncologists and hematologists to 88% among emergency department physicians.<h4>Conclusions and relevance</h4>Over 2.5 years, more than 950 000 US clinicians submitted greater than 270 million queries to an AI-enabled clinical information platform. Use varied across clinician types, specialties, and career stages and was frequently for treatment decisions rather than diagnostic tasks.
 
 ### [Engineering gut microbiome states overcomes hepatic accumulation of nanomedicines](https://www.nature.com/articles/s41551-026-01811-7)
 
-- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01811-7`
 
 No summary supplied by the source.
 
 ### [Open up to new possibilities with iPhone Duo](https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/)
 
-- Source: `apple_newsroom` · published `2026-10-15` · freshness `fresh`
-- Reading value: `3` · status: `needs_review`
+- Source: `apple_newsroom` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/`
 
 Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.
 
 ### [Same Name, Moving Target: Model Version Drift in Syntheses of Large Language Models for Mental Health](https://ai.jmir.org/2026/1/e111307/)
 
-- Source: `jmir_ai` · published `2026-10-15` · freshness `fresh`
-- Reading value: `62` · status: `scored`
+- Source: `jmir_ai` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e111307/`
 
 This letter comments on the systematic review and meta-analysis of large language models (LLMs) in mental health care by Leung and colleagues (JMIR AI 2026;5:e87730). The bivariate meta-analysis with Hartung-Knapp adjustments is methodologically sound, and its cautious conclusions are warranted. I raise an unaddressed threat to the pooled estimates: model version drift. Over the search window (November 2022 to March 2026), &quot;GPT-4&quot; did not denote a single intervention; released in March 2023, it was followed by API snapshots whose behavior differed materially, with accuracy on a prime-number identification task falling from 84% to 51% between the March and June 2023 versions. Because the review extracted only model name and model type and did not capture version or testing dates, the estimates pooled under GPT-4 (k=4) and GPT-3.5 (k=4) may each span several substantively different models, and the pooled GPT-4 estimate may correspond to no single system a clinician could deploy. This concern is distinct from the acknowledged limitation that few studies evaluated the newest variants, which concerns currency rather than comparability. I suggest reporting model version and testing date for each pooled study (consistent with TRIPOD-LLM item 6a), examining robustness to version mixing in sensitivity analyses, and qualifying the abstract comparative statements accordingly. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e770a7e6754928129106feabee847a04" />
 
 ### [Towards physiologically relevant human tissue models](https://www.nature.com/articles/s41551-026-01824-2)
 
-- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `fresh`
-- Reading value: `29` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
+- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
 
-Advances in organoids, organs-on-chips and microphysiological systems are bringing human tissue models closer to the physiological complexity needed to study disease, evaluate therapies and inform precision medicine.
+No summary supplied by the source.
 
 ### [AI for Poststroke Epilepsy: Scoping Review of Imaging-Based Prediction Models and Implications for African Settings](https://ai.jmir.org/2026/1/e96828/)
 
@@ -2216,22 +2208,6 @@ Advances in organoids, organs-on-chips and microphysiological systems are bringi
 
 Background: Poststroke seizures (PSS) and poststroke epilepsy (PSE) are important neurological complications associated with poorer functional recovery, increased mortality, and reduced quality of life after stroke. Neuroimaging plays a central role in identifying patients at increased risk, and recent advances in AI have enabled the development of imaging-based prediction models that may improve individualized risk stratification. However, the current evidence remains fragmented, and the extent to which these approaches are applicable to African health care settings is unclear. Objective: This scoping review aimed to chart the existing global evidence on the development of imaging-based prediction models that can help in predicting PSS and PSE, especially AI-based ones. The purpose was to look into the imaging techniques, computational algorithms, and validation methodologies used and the representation of African populations. Methods: This scoping review was performed using the Joanna Briggs Institute methodological framework, and the results were presented based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR) framework. Articles searched using databases such as PubMed, Embase, Scopus, Web of Science, IEEE Xplore, and Google Scholar involved the application of computed tomography (CT), magnetic resonance imaging (MRI), angiography imaging techniques, radiomic markers, or multimodal neuroimaging techniques in statistical and AI-based prediction models for seizure-related outcomes after stroke. Results: Twenty-three studies published between 2005 and 2026 met the eligibility criteria. The evidence demonstrated a clear methodological evolution from conventional imaging-based prediction models to radiomics, machine learning, deep learning, explainable AI, and multimodal approaches. MRI and CT were the predominant imaging modalities, with cortical involvement, lesion location, infarct volume, hemorrhagic transformation, and quantitative radiomic features emerging as the most frequently reported imaging predictors. Most AI models relied on internal validation, while relatively few underwent external validation. The evidence base was concentrated in East Asia, Europe, and North America, with no eligible imaging-based AI models having been developed or externally validated using African datasets. Conclusions: Imaging-based AI for predicting PSS and PSE has progressed rapidly, but important methodological and geographical gaps remain. Limited external validation, heterogeneous reporting, and the absence of African development and validation cohorts restrict confidence in the generalizability of existing models. Future research should prioritize the development of explainable imaging-based AI models using representative African neuroimaging datasets and their external validation in multicenter studies. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9e5693948385697cd77de32218793a32" />
 
-### [City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver](https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/)
-
-- Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
-- Reading value: `57` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/`
-
-<p><a href="https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/"><img width="600" height="397" src="https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500-600x397.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500-600x397.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500-300x198.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2016/11/GettyImages-486143500.jpg 727w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>City Therapeutics’ lead RNA interference therapy could become an alternative to blockbuster-selling anticoagulants. The company’s technology for designing RNAi drugs and delivering them to tissues throughout the body has already led to partnerships with Bausch + Lomb in eye diseases and Biogen in central nervous system disorders. </p> <p>The post <a href="https://medcitynews.com/2026/10/city-therapeutics-ipo-rna-interference-gene-silencing-rnai-sirna-cty/">City Therapeutics’ Upsized IPO Raises $200M to Bring RNAi Drugs Beyond the Liver</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [How AI Is Connecting MedTech’s Data Without Compromising Compliance](https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/)
-
-- Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
-- Reading value: `23` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/`
-
-<p><a href="https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/06/GettyImages-601157282.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The connected, agent-ready enterprise is the model that wins, where compliance and intelligence operate together.</p> <p>The post <a href="https://medcitynews.com/2026/10/how-ai-is-connecting-medtechs-data-without-compromising-compliance/">How AI Is Connecting MedTech&#8217;s Data Without Compromising Compliance </a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Insights on Postimplementation and Delivery of Telemedicine in Remote Areas of Rajasthan: Qualitative Study](https://mhealth.jmir.org/2026/1/e93146)
 
 - Source: `jmir_mhealth` · published `2026-10-16` · freshness `fresh`
@@ -2239,14 +2215,6 @@ Background: Poststroke seizures (PSS) and poststroke epilepsy (PSE) are importan
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e93146`
 
 Background: Telemedicine has emerged as a critical strategy to address health care access gaps in hard-to-reach areas, particularly in resource-constrained settings. While telemedicine services have expanded across India, evidence on post-implementation experiences, specifically regarding the integration of portable diagnostic tools, and the assisting role of frontline health care workers, remains limited. Understanding these sociotechnical dynamics is essential for optimizing digital health interventions in remote areas. Objective: This study aimed to explore perceptions, experiences, and implementation processes of an assisted telemedicine model where frontline health care workers facilitate real-time, doorstep patient-assisted-to-doctor consultations using portable diagnostics and a customized portal among health care workers and patients in hard-to-reach villages of Rajasthan, India. Methods: A qualitative descriptive study was conducted in 5 remote villages of Balotra district, Rajasthan, between December 2025 and January 2026, following a 10-month telemedicine intervention. In-depth, semistructured interviews were conducted with 28 participants, including medical officers (n=3, 10.71%), nurses, and accredited social health activists or auxiliary nurse midwives (n=10, 35.71%), and patients (n=15, 53.57%). Cadre-specific semistructured interview guides were developed using the Consolidated Framework for Implementation Research and Technology Acceptance Model. Interviews were analyzed using a reflexive thematic analysis approach, incorporating both inductive and deductive coding approaches in NVivo 15 (Lumivero). Triangulation across participant groups and analytic perspectives was used to enhance credibility and trustworthiness. Results: The analysis revealed that the assisted telemedicine model fundamentally reconfigured treatment-seeking behavior by providing doorstep care, significantly reducing travel burdens, and out-of-pocket expenditures. Frontline health care workers acted as crucial sociotechnical mediators, bridging the digital divide and fostering patient trust, particularly among women and older adults. Health care providers reported increased clinical confidence and workflow efficiency, supported by real-time vital monitoring and cross-verification via digital chatbots. However, implementation was challenged by intermittent network connectivity, diagnostic limitations for conditions requiring physical palpation, and occasional stock-outs of essential medicines. Despite these barriers, the gradual acceptance of the system was heavily facilitated by the continuous engagement and cultural mediation of local health workers. Conclusions: Telemedicine was perceived as a feasible and acceptable model for extending primary health care services in hard-to-reach areas, provided it is embedded within an assisted model supported by trained frontline workers and responsive technical systems. The findings emphasize the need to shift health care policy toward mediated-digital models, formally recognizing community health workers as digital health navigators. Future scale-up must prioritize strengthening rural digital infrastructure and ensuring a reliable supply chain for essential medicines to sustain long-term engagement and health equity. Trial Registration: Clinical Trials Registry—India (CTRI) CTRI/2024/10/076070; https://tinyurl.com/yr952847 International Registered Report Identifier (IRRID): RR2-10.2196/92996
-
-### [The Impending End of Cross-Subsidization](https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/)
-
-- Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
-- Reading value: `27` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/`
-
-<p><a href="https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/"><img width="790" height="442" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap.jpg" class="attachment-large size-large wp-post-image" alt="A dynamic 3D illustration featuring a long, curved arrow with focus circles along its path, each marked with a check signifying approval and progress. On both sides of the arrow are 3D mechanical gears, also containing check marks at their centers. This design symbolizes process flow, efficiency, and successful task completion. The interconnection of the arrow and gears visually conveys the seamless interaction and synchronization of components in a workflow. Ideal for concepts such as project management, quality assurance, and operational excellence, the design&#039;s modern aesthetic and bold 3D elements make it visually compelling and informative." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap.jpg 790w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-300x168.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-768x430.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/roadmap-360x200.jpg 360w" sizes="auto, (max-width: 790px) 100vw, 790px" /></a></p><p>There is no single solution to the cross-subsidization problem. But here are some strategic actions that can make a health system’s economics more sustainable. </p> <p>The post <a href="https://medcitynews.com/2026/10/the-impending-end-of-cross-subsidization/">The Impending End of Cross-Subsidization</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [We’re sharing 3 tips to study smarter with Gemini Notebook.](https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/)
 
@@ -3284,9 +3252,9 @@ Standardized patients (SPs) are central to clinical communication training but r
 
 - Source: `medcity_news` · published `2026-10-23` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/`
 
-<p><a href="https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Gilead Sciences is getting global rights to an experimental PepStar Therapeutics oral peptide designed to inhibit the IL-23 receptor to treat inflammatory bowel disease. It could compete against Johnson &amp; Johnson’s Icotyde, an oral peptide that blocks the same target and is also in development for IBD. </p> <p>The post <a href="https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/">Gilead to Pay $1.3B for Oral Peptide That Could Rival J&amp;J’s New Immunology Pill</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1207756224.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Gilead Sciences is getting global rights to an experimental PepStar Therapeutics oral peptide designed to inhibit the IL-23 receptor to treat inflammatory bowel disease. It could compete against Johnson &amp; Johnson’s Icotyde, an oral peptide that blocks the same target and is also in development for IBD. </p> <p>The post <a href="https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/">Gilead to Pay $1.3B for Oral Peptide That Could Rival J&amp;J’s New Immunology Pill</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Gradient-driven microfluidic framework for the screening of ratiometric drug combinations towards precision oncology in paediatric leukaemia](https://www.nature.com/articles/s41551-026-01818-0)
 
@@ -3335,14 +3303,6 @@ On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/christina-applegate-ms-misdiagnosis/?utm_campaign=rss`
 
 “I felt Christina Applegate’s disappointment as if it were my own — because not long ago, it was,” writes Lindsay Karp.
-
-### [Opinion: New Medicare policies will keep important pain relief from some patients](https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
-- Reading value: `38` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss`
-
-For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.
 
 ### [Oura Files Complaint Against Ultrahuman for Patent Infringement](https://ouraring.wpengine.com/ultrahuman-patent-infringement/)
 
@@ -3566,13 +3526,13 @@ Notice NOT-OD-27-011 from the NIH Guide for Grants and Contracts
 - Reading value: `32` · status: `scored`
 - Event: `updated` · identity: `url:https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/`
 
-<p><a href="https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart.jpg" class="attachment-large size-large wp-post-image" alt="Close-up of unrecognizable black woman holding her chest in pain" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>MedTech Conference panelists cited inflammation research, listening to women, clinical trial representation and investment as priorities for women’s cardiovascular health.</p> <p>The post <a href="https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/">Where Are the Biggest Opportunities in Women’s Cardiovascular Health?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart.jpg" class="attachment-large size-large wp-post-image" alt="Close-up of unrecognizable black woman holding her chest in pain" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/heart-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>MedTech Conference panelists cited inflammation research, listening to women, clinical trial representation and investment as priorities for women’s cardiovascular health.</p> <p>The post <a href="https://medcitynews.com/2026/10/where-are-the-biggest-opportunities-in-womens-cardiovascular-health/">Where Are the Biggest Opportunities in Women’s Cardiovascular Health?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Why an Independent NP Practice Requires an Undergraduate Business Foundation](https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/)
 
 - Source: `medcity_news` · published `2026-10-23` · freshness `fresh`
 - Reading value: `19` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/`
 
 <p><a href="https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Ultimately, while clinical training teaches nurses how to care for patients within a system, business education empowers them to design, protect, and scale the system.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-an-independent-np-practice-requires-an-undergraduate-business-foundation/">Why an Independent NP Practice Requires an Undergraduate Business Foundation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3582,7 +3542,7 @@ Notice NOT-OD-27-011 from the NIH Guide for Grants and Contracts
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://security.apple.com/research-device/`
 
-Hacker News community signal; score 179.
+Hacker News community signal; score 182.
 
 ### [Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial](https://www.nature.com/articles/s41591-026-04740-9)
 
@@ -3608,6 +3568,14 @@ Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bl
 
 “Even if Theranos had a functioning testing machine, the economic model on which is was based would result in failure,” writes a STAT reader.
 
+### [Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.](https://doi.org/10.1001/jama.2026.19921)
+
+- Source: `jama_abstracts` · published `2026-10-24` · freshness `fresh`
+- Reading value: `65` · status: `scored`
+- Event: `new` · identity: `pmid:42925557`
+
+In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear. To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator. PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026. Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease. Three reviewers independently extracted data and results were pooled using random-effects meta-analysis. Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin). A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001). In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.
+
 ### [STAT+: The ESMO presentation everyone’s been waiting for](https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-24` · freshness `fresh`
@@ -3616,21 +3584,53 @@ Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bl
 
 Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.
 
+### [Congress’s Patient Matching Fix Won’t Work — Here’s What Would](https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/)
+
+- Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
+- Reading value: `39` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/`
+
+<p><a href="https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/"><img width="600" height="405" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005-600x405.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005-600x405.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005-300x203.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/10/GettyImages-1237467005.jpg 720w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>The MATCH IT Act aims to reduce patient matching errors. But a model used by vital records systems could provide a better solution.</p> <p>The post <a href="https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/">Congress&#8217;s Patient Matching Fix Won&#8217;t Work — Here&#8217;s What Would</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
 ### [Fractyl’s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow](https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/)
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `52` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/`
 
-<p><a href="https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/"><img width="600" height="375" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-300x188.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images.jpg 747w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between the clinical findings and the market’s response.</p> <p>The post <a href="https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/">Fractyl&#8217;s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/"><img width="600" height="375" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-600x375.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images-300x188.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/arrow-decrease-champc-getty-images.jpg 747w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Fractyl Health reported positive six-month trial results from an investigation of its Revita procedure last week, but shares of Fractyl stock dropped steeply on October 16 immediately following the announcement. Despite the positive findings, the stock’s sharp decline highlighted a contrast between the clinical findings and the market’s response.</p> <p>The post <a href="https://medcitynews.com/2026/10/fractyl-healths-revita-meets-six-month-trial-goal-but-shares-fall-63/">Fractyl&#8217;s Weight Maintenance Device Meets Clinical Goal, but Shares Nosedive, Layoffs Follow</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science](https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/)
+
+- Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
+- Reading value: `59` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
+
+<p><a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/"><img width="600" height="394" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-300x197.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-768x504.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. </p> <p>The post <a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/">Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR](https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/)
+
+- Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
+- Reading value: `35` · status: `needs_review`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
+
+<p><a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not.</p> <p>The post <a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/">Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [STAT+: After a cancer vaccine’s first success, the race is on to expand the impact](https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-25` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss`
 
 After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.
+
+### [STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase](https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-25` · freshness `fresh`
+- Reading value: `35` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss`
+
+AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.
 
 ---
 
