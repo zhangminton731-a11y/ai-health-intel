@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T06:11:49+00:00",
+  "generated_at": "2026-10-25T12:34:33+00:00",
   "as_of": "2026-10-25",
   "count": 23,
   "items": [
@@ -136,7 +136,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
@@ -380,7 +380,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
@@ -863,7 +863,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
@@ -1463,7 +1463,7 @@
         "research",
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -1822,7 +1822,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -2665,7 +2665,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
