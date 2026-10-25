@@ -1,129 +1,9 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T01:14:38+00:00",
+  "generated_at": "2026-10-25T06:11:49+00:00",
   "as_of": "2026-10-25",
   "count": 23,
   "items": [
-    {
-      "id": "pmid:42912669",
-      "title": "Povetacicept 治疗 IgA 肾病 3 期试验的中期分析。",
-      "original_title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.",
-      "summary": "B 细胞激活因子 (BAFF) 和增殖诱导配体 (APRIL) 在产生 IgA 的 B 细胞群中具有独特的作用，并且似乎是 IgA 肾病发病机制的核心。到第36周时，povetacicept组的24小时尿蛋白与肌酐比值下降了52.0%，安慰剂组下降了4.3%（调整后的差异，-49.8个百分点；95%置信区间[CI]，-58.6至-39.2；P < 0.001）。",
-      "url": "https://doi.org/10.1056/nejmoa2608682",
-      "source": "NEJM · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-23",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42912669",
-        "upstream_id": "42912669"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "IgA肾病3期试验预设中期分析，双盲安慰剂对照、557例随机，尿蛋白/肌酐比降幅52.0%对4.3%（差异-49.8个百分点），并报告Gd-IgA1与血尿缓解等次要终点，为BAFF/APRIL双抑制机制提供较高质量证据。限制为中期分析、以蛋白尿替代终点为主，硬终点和长期安全性待最终数据。"
-      },
-      "reading_value_score": 82,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-24T16:35:47+00:00",
-        "input_hash": "81ed222b769d1752bee9adf91100d03836f6f9558258ac1c22e82bab792cc240",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "IgA肾病3期试验预设中期分析，双盲安慰剂对照、557例随机，尿蛋白/肌酐比降幅52.0%对4.3%（差异-49.8个百分点），并报告Gd-IgA1与血尿缓解等次要终点，为BAFF/APRIL双抑制机制提供较高质量证据。限制为中期分析、以蛋白尿替代终点为主，硬终点和长期安全性待最终数据。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 9,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "BAFF/APRIL双靶点融合蛋白在IgA肾病3期中期分析中显示尿蛋白/肌酐比下降52%、Gd-IgA1下降77%且安全性与对照组相当，为IgA肾病致病机制靶向治疗提供了迄今较强证据；但为中期分析、以替代终点为主，硬终点与长期安全性仍需试验完成验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261025003539fca6e43680cb43e1",
-              "seconds": 4.23,
-              "usage": {
-                "completion_tokens": 184,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 12
-                },
-                "prompt_tokens": 1355,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1539
-              }
-            },
-            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points",
-            "total": 85
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "IgA肾病3期试验预设中期分析，双盲安慰剂对照、557例随机，尿蛋白/肌酐比降幅52.0%对4.3%（差异-49.8个百分点），并报告Gd-IgA1与血尿缓解等次要终点，为BAFF/APRIL双抑制机制提供较高质量证据。限制为中期分析、以蛋白尿替代终点为主，硬终点和长期安全性待最终数据。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261025003543cb969cd8646f406d",
-              "seconds": 4.68,
-              "usage": {
-                "completion_tokens": 215,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1355,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1570
-              }
-            },
-            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -5",
-            "total": 79
-          }
-        ],
-        "score": 82,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
     {
       "id": "pmid:42904878",
       "title": "瑞他鲁肽每周一次用于治疗阻塞性睡眠呼吸暂停。",
@@ -244,27 +124,27 @@
       }
     },
     {
-      "id": "pmid:42911181",
-      "title": "Atacicept 治疗 IgA 肾病 - 3 期试验最终疗效分析。",
-      "original_title": "Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.",
-      "summary": "在先前发表的该试验 ORIGIN 3 的分析中，与安慰剂相比，Atacicept 显着降低了尿蛋白与肌酐的比率。在第 52 周，eGFR 的平均变化为每 1.73 m2 体表面积每分钟 -0.11 ml（95% 置信区间 [CI]，-1.44 至 1.22），atacicept 组为每 1.73 m2 体表面积每分钟 -5.69 ml。 m2（95% CI，-7.04 至 -4.35）与安慰剂（平均差异，每 1.73 m2 每分钟 5.58 毫升；95% CI，3.68 至 7.48；P < 0.001）。",
-      "url": "https://doi.org/10.1056/nejmoa2610103",
+      "id": "pmid:42912669",
+      "title": "Povetacicept 治疗 IgA 肾病 3 期试验的中期分析。",
+      "original_title": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.",
+      "summary": "背景 B 细胞激活因子 (BAFF) 和增殖诱导配体 (APRIL) 在产生 IgA 的 B 细胞群中具有独特的作用，并且似乎是 IgA 肾病发病机制的核心。到第36周时，povetacicept组的24小时尿蛋白与肌酐比值下降了52.0%，安慰剂组下降了4.3%（调整后的差异，-49.8个百分点；95%置信区间[CI]，-58.6至-39.2；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2608682",
       "source": "NEJM · 摘要索引",
       "source_type": "期刊论文",
-      "published_at": "2026-10-22",
+      "published_at": "2026-10-23",
       "topics": [
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "updated",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
         ],
         "retrieved_via": "europe_pmc",
         "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42911181",
-        "upstream_id": "42911181"
+        "summary_source": "https://europepmc.org/article/MED/42912669",
+        "upstream_id": "42912669"
       },
       "sections": [
         "research"
@@ -278,169 +158,49 @@
         "validation"
       ],
       "recommendation_reasons": {
-        "research": "III期ORIGIN 3试验最终疗效分析，431例IgA肾病患者随机对照显示atacicept显著减缓eGFR下降（年化斜率差异5.00 ml/min/1.73m²）并降低肾脏进展复合终点风险（HR 0.24），为IgA肾病慢速进展终点治疗提供高级别证据。摘要数据完整，但为药企资助的单一试验，长期硬终点与安全性随访仍有限。"
+        "research": "III期双盲安慰剂对照试验的中期分析，557例入组、199例疗效分析显示尿蛋白肌酐比下降52.0% vs 4.3%，为IgA肾病BAFF/APRIL双靶点抑制提供了高质量替代终点证据。局限为替代终点（尿蛋白）而非硬终点，且样本为疗效分析子集，长期肾脏结局待验证。"
       },
-      "reading_value_score": 80,
+      "reading_value_score": 79,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-24T16:35:57+00:00",
-        "input_hash": "140d03e2c39ada7c76e9758d6ffd934a55e24652e21c28e785e3b5bcfa21ccb2",
+        "evaluated_at": "2026-10-25T06:12:05+00:00",
+        "input_hash": "8d1491d0dc8fb8e15a9963cff6d853bc21ba9282265a3d60b89e2f86a45a9867",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "III期ORIGIN 3试验最终疗效分析，431例IgA肾病患者随机对照显示atacicept显著减缓eGFR下降（年化斜率差异5.00 ml/min/1.73m²）并降低肾脏进展复合终点风险（HR 0.24），为IgA肾病慢速进展终点治疗提供高级别证据。摘要数据完整，但为药企资助的单一试验，长期硬终点与安全性随访仍有限。",
+        "reason": "III期双盲安慰剂对照试验的中期分析，557例入组、199例疗效分析显示尿蛋白肌酐比下降52.0% vs 4.3%，为IgA肾病BAFF/APRIL双靶点抑制提供了高质量替代终点证据。局限为替代终点（尿蛋白）而非硬终点，且样本为疗效分析子集，长期肾脏结局待验证。",
         "reviews": [
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 9,
-              "novelty": 7,
+              "evidence": 8,
+              "novelty": 8,
               "relevance": 8,
               "significance": 8,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "III期ORIGIN 3试验最终疗效分析，431例IgA肾病患者随机对照显示atacicept显著减缓eGFR下降（年化斜率差异5.00 ml/min/1.73m²）并降低肾脏进展复合终点风险（HR 0.24），为IgA肾病慢速进展终点治疗提供高级别证据。摘要数据完整，但为药企资助的单一试验，长期硬终点与安全性随访仍有限。",
+            "reason": "III期双盲安慰剂对照试验的中期分析，557例入组、199例疗效分析显示尿蛋白肌酐比下降52.0% vs 4.3%，为IgA肾病BAFF/APRIL双靶点抑制提供了高质量替代终点证据。局限为替代终点（尿蛋白）而非硬终点，且样本为疗效分析子集，长期肾脏结局待验证。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "2026102500355042bf7ac0eb064462",
-              "seconds": 4.94,
+              "request_id": "20261025141156b8e203ea07534ec3",
+              "seconds": 4.45,
               "usage": {
-                "completion_tokens": 189,
+                "completion_tokens": 197,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1379,
+                "prompt_tokens": 1196,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1568
+                "total_tokens": 1393
               }
             },
-            "support": "Atacicept slowed and stabilized the decline in the eGFR as compared with placebo. (Funded by Vera Therapeutics; ORIGIN 3 ClinicalTrials.gov number, NCT04716231.)",
-            "total": 80
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "III期试验最终eGFR斜率与硬终点数据显示atacicept显著延缓IgA肾病肾功能下降，对肾脏病研究者和试验设计者有直接参考价值；数据来自单一药企资助的试验，长期安全性仍有限。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610250035547d1e968d1cc047b4",
-              "seconds": 3.59,
-              "usage": {
-                "completion_tokens": 169,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 11
-                },
-                "prompt_tokens": 1379,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1548
-              }
-            },
-            "support": "At week 52, the mean change in the eGFR was -0.11 ml per minute per 1.73 m2 of body-surface area (95% confidence interval [CI], -1.44 to 1.22) with atacicept and -5.69",
-            "total": 80
-          }
-        ],
-        "score": 80,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42911185",
-      "title": "Sibeprenlimab 治疗 IgA 肾病 - 最终 3 期试验分析。",
-      "original_title": "Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.",
-      "summary": "Sibeprenlimab 是一种人源化单克隆抗体，可选择性抑制细胞因子 A 增殖诱导配体 (APRIL)，这是 IgA 肾病的关键驱动因素。西贝普伦利单抗组 24 个月内的年化 eGFR 斜率为每年每 1.73 平方米体表面积 0.3 毫升/分钟（95% 置信区间 [CI]，-0.4 至 0.9），安慰剂组每年每分钟每 1.73 平方米为 -4.2 毫升（95% CI，-4.9 至 -3.6）（组间差异，每分钟每分钟 4.5 毫升）每年 1.73 平方米；95% CI，3.6 至 5.4；P < 0.001）。",
-      "url": "https://doi.org/10.1056/nejmoa2609127",
-      "source": "NEJM · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-22",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42911185",
-        "upstream_id": "42911185"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "IgA肾病III期VISIONARY试验的最终eGFR斜率与复合肾脏终点结果，510例随机对照数据完整，为APRIL靶向治疗延缓肾功能下降提供高质量证据，直接影响肾脏病临床试验设计与治疗决策；主要局限为安全性随访时间与长期疗效仍待观察。"
-      },
-      "reading_value_score": 80,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-24T16:35:59+00:00",
-        "input_hash": "f77761824554c61dfa0c5c286e8dc02f3b4eb9d3736cb66a903932447c3f0def",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "IgA肾病III期VISIONARY试验的最终eGFR斜率与复合肾脏终点结果，510例随机对照数据完整，为APRIL靶向治疗延缓肾功能下降提供高质量证据，直接影响肾脏病临床试验设计与治疗决策；主要局限为安全性随访时间与长期疗效仍待观察。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "IgA肾病III期VISIONARY试验的最终eGFR斜率与复合肾脏终点结果，510例随机对照数据完整，为APRIL靶向治疗延缓肾功能下降提供高质量证据，直接影响肾脏病临床试验设计与治疗决策；主要局限为安全性随访时间与长期疗效仍待观察。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261025003547dcd81025fd3b44ad",
-              "seconds": 3.95,
-              "usage": {
-                "completion_tokens": 201,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1424,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1625
-              }
-            },
-            "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab and -4.2 ml per minute per 1.73",
+            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -5",
             "total": 79
           },
           {
@@ -448,35 +208,35 @@
               "research"
             ],
             "axes": {
-              "evidence": 9,
+              "evidence": 8,
               "novelty": 7,
               "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
+              "significance": 9,
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "VISIONARY 3期最终分析报告了此前未公布的eGFR斜率等关键次要终点：24个月安慰剂对照、510例随机，组间eGFR斜率差异4.5 ml/min/1.73m²/年，复合肾脏终点事件0.4%对11.2%，为IgA肾病延缓肾功能进展提供了高级别硬终点证据，可供肾病研究者评估APRIL抑制策略疗效与安全性。主要限制为摘要级信息，亚组、随访期长度及长期安全性细节需全文核实。",
+            "reason": "IgA肾病III期随机双盲安慰剂对照试验的中期分析，557例入组、蛋白尿相对降幅52%且报道了可信区间与次要终点，对肾病临床科研和后续试验设计有直接参考价值；但为中期分析、终点为替代指标（尿蛋白肌酐比），尚未证明硬终点获益。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610250035518542a0bcba9b4638",
-              "seconds": 7.74,
+              "request_id": "20261025141200b6094a67a8754a60",
+              "seconds": 5.31,
               "usage": {
-                "completion_tokens": 254,
+                "completion_tokens": 194,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 9
                 },
-                "prompt_tokens": 1424,
+                "prompt_tokens": 1196,
                 "prompt_tokens_details": {
-                  "cached_tokens": 0
+                  "cached_tokens": 1152
                 },
-                "total_tokens": 1678
+                "total_tokens": 1390
               }
             },
-            "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab and -4.2 ml per minute per 1.73",
-            "total": 81
+            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -5",
+            "total": 80
           }
         ],
-        "score": 80,
+        "score": 79,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -598,6 +358,126 @@
             },
             "support": "treatment with ipilimumab and nivolumab before surgery resulted in a 3-year disease-free survival and 5-year overall survival of 100%",
             "total": 75
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42911185",
+      "title": "Sibeprenlimab 治疗 IgA 肾病 - 最终 3 期试验分析。",
+      "original_title": "Sibeprenlimab in IgA Nephropathy - Final Phase 3 Trial Analysis.",
+      "summary": "背景 Sibeprenlimab 是一种人源化单克隆抗体，选择性抑制细胞因子 A 增殖诱导配体 (APRIL)，这是 IgA 肾病的关键驱动因素。西贝普伦利单抗组的 24 个月年化 eGFR 斜率为每年每 1.73 m 2 体表面积 0.3 ml/分钟（95% 置信区间 [CI]，-0.4 至 0.9），而安慰剂组的年化 eGFR 斜率为每年每 1.73 m 2 体表面积 -4.2 ml/分钟（95% CI，-4.9 至 -3.6）（组间差异，每年每分钟 4.5 ml）。每年 1.73 m 2；95% CI，3.6 至 5.4；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2609127",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-22",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42911185",
+        "upstream_id": "42911185"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "VISIONARY III期最终分析提供了sibeprenlimab稳定IgA肾病患者eGFR斜率的完整24个月数据（组间差异4.5 ml/min/1.73m²/年），是IgA肾病靶向治疗的重要硬终点证据；材料为摘要级，长期肾功能获益与安全性细节需全文核实。"
+      },
+      "reading_value_score": 78,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:13+00:00",
+        "input_hash": "215ae0af029295344202f8a73062278752c777b48c86afeb64b786501e3f71e5",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "VISIONARY III期最终分析提供了sibeprenlimab稳定IgA肾病患者eGFR斜率的完整24个月数据（组间差异4.5 ml/min/1.73m²/年），是IgA肾病靶向治疗的重要硬终点证据；材料为摘要级，长期肾功能获益与安全性细节需全文核实。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "VISIONARY III期最终分析提供了sibeprenlimab稳定IgA肾病患者eGFR斜率的完整24个月数据（组间差异4.5 ml/min/1.73m²/年），是IgA肾病靶向治疗的重要硬终点证据；材料为摘要级，长期肾功能获益与安全性细节需全文核实。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141203c80cdf10778f4cef",
+              "seconds": 4.14,
+              "usage": {
+                "completion_tokens": 151,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1221,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1372
+              }
+            },
+            "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m 2 of body-surface area per year",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "VISIONARY III期最终分析显示sibeprenlimab使IgA肾病患者eGFR年下降斜率较安慰剂改善4.5 ml/min/1.73m²，是IgAN肾功能保护的重要临床证据；局限为摘要级信息，具体复合终点细节与安全性数据需查全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141208529ec08c9b1041f7",
+              "seconds": 5.64,
+              "usage": {
+                "completion_tokens": 177,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 5
+                },
+                "prompt_tokens": 1221,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1398
+              }
+            },
+            "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m 2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab",
+            "total": 80
           }
         ],
         "score": 78,
@@ -961,6 +841,126 @@
             },
             "support": "A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival (PFS; hazard ratio = 0.46",
             "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42912700",
+      "title": "Ravulizumab 治疗 IgA 肾病 - 3 期试验的中期分析。",
+      "original_title": "Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
+      "summary": "背景 在 IgA 肾病患者中，补体激活会导致肾小球炎症，从而导致血尿、蛋白尿和肾单位丢失。第 34 周时，与安慰剂组 (-5.6%) 相比，ravulizumab 组观察到几何平均 24 小时尿蛋白与肌酐比值显着降低 (-46.6%)，对应调整后的 ravulizumab 组几何平均 24 小时尿蛋白与肌酐比值比使用 ravulizumab 组低 43.4%（99% 置信区间，30.1 至 54.2）。安慰剂（P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2607544",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-23",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42912700",
+        "upstream_id": "42912700"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "补体终末抑制剂ravulizumab在IgA肾病III期中期分析中使尿蛋白肌酐比较安慰剂额外降低43.4%（99%CI 30.1–54.2），为补体通路靶向治疗IgA肾病提供了大样本随机对照证据，肾脏病研究者需关注其设计与中期结果；局限为中期分析、以替代终点尿蛋白评估，缺乏硬终点和长期数据。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:03+00:00",
+        "input_hash": "7f50515b26c930851e9a54c39a3a66e1ce49087b5ed01efc48eb281c1655a960",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "补体终末抑制剂ravulizumab在IgA肾病III期中期分析中使尿蛋白肌酐比较安慰剂额外降低43.4%（99%CI 30.1–54.2），为补体通路靶向治疗IgA肾病提供了大样本随机对照证据，肾脏病研究者需关注其设计与中期结果；局限为中期分析、以替代终点尿蛋白评估，缺乏硬终点和长期数据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "补体终末抑制剂ravulizumab在IgA肾病III期中期分析中使尿蛋白肌酐比较安慰剂额外降低43.4%（99%CI 30.1–54.2），为补体通路靶向治疗IgA肾病提供了大样本随机对照证据，肾脏病研究者需关注其设计与中期结果；局限为中期分析、以替代终点尿蛋白评估，缺乏硬终点和长期数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141156fa573346e1e3484a",
+              "seconds": 4.86,
+              "usage": {
+                "completion_tokens": 198,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1492
+              }
+            },
+            "support": "At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "IgA肾病补体终末抑制的3期中期分析，485例随机、安慰剂对照，尿蛋白肌酐比较基线相对降低43.4%，为IgAN补体靶向治疗提供新的高级别证据；但为摘要级信息，缺乏完整安全性与硬终点数据，结论需以全文及最终结果为准。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141200473aed4074b249fb",
+              "seconds": 3.26,
+              "usage": {
+                "completion_tokens": 168,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1462
+              }
+            },
+            "support": "At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%",
+            "total": 78
           }
         ],
         "score": 77,
@@ -1449,6 +1449,129 @@
       }
     },
     {
+      "id": "pmid:42915009",
+      "title": "瑞米布替尼与特立氟胺治疗复发性多发性硬化症（REMODEL-1 和 REMODEL-2）：两项随机 3 期试验。",
+      "original_title": "Remibrutinib versus teriflunomide in relapsing multiple sclerosis (REMODEL-1 and REMODEL-2): two randomised, phase 3 trials.",
+      "summary": "背景 Remibrutinib 是一种高选择性、强效、共价、中枢神经系统渗透性、口服 BTK 抑制剂。我们评估了瑞布替尼对复发性多发性硬化症成年患者的疗效和安全性。方法 REMODEL-1 和 REMODEL-2 是两项相同的、随机、双盲、双模拟、主动对照、平行组、事件驱动的 3 期试验，在 46 个国家的 407 个中心进行。通过交互式响应技术，年龄为 18-55 岁、患有复发性多发性硬化症、扩展残疾状态量表评分为 0-5·5 且有近期疾病活动证据的患者被随机分配至口服瑞布替尼 100 mg 每日两次或特立氟胺 14 mg 每日一次，以 1:1 的比例接受治疗。随机分组按地理区域、MRI 队列参与情况和多发性硬化症亚型进行分层。患者、现场调查人员和试验团队对治疗分配情况不知情。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)02058-1",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-23",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research",
+        "business"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42915009",
+        "upstream_id": "42915009"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "两项设计严谨的3期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年化复发率显著优于特立氟胺（RR约0.65-0.69），样本量大、活性对照明确，为神经免疫领域换药与治疗定位决策提供高级别证据；局限性为诺华资助、ARR差异绝对幅度小，长期安全性与残疾进展数据尚待随访。"
+      },
+      "reading_value_score": 75,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:22+00:00",
+        "input_hash": "a872eb65e40f52e85322a1335e666fd9e7ab779370ba08dc0835f5e15192984a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "两项设计严谨的3期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年化复发率显著优于特立氟胺（RR约0.65-0.69），样本量大、活性对照明确，为神经免疫领域换药与治疗定位决策提供高级别证据；局限性为诺华资助、ARR差异绝对幅度小，长期安全性与残疾进展数据尚待随访。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "两项设计严谨的3期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年化复发率显著优于特立氟胺（RR约0.65-0.69），样本量大、活性对照明确，为神经免疫领域换药与治疗定位决策提供高级别证据；局限性为诺华资助、ARR差异绝对幅度小，长期安全性与残疾进展数据尚待随访。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141213c9d9740dd9444ea6",
+              "seconds": 4.28,
+              "usage": {
+                "completion_tokens": 213,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 11
+                },
+                "prompt_tokens": 1553,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1766
+              }
+            },
+            "support": "ARR was significantly lower with remibrutinib than with teriflunomide: 0·073 versus 0·112 (rate ratio [RR] 0·648 [95% CI 0·453-0·927]; p=0·018) in REMODEL-1",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项大型III期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年复发率显著优于特立氟胺（RR约0.65-0.69）且安全性良好，为临床治疗选择和后续研究提供高级别证据；局限为摘要级信息，长期安全性和与更高效疗法对比尚缺。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141218be5b067c2a544c10",
+              "seconds": 4.84,
+              "usage": {
+                "completion_tokens": 170,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1553,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1536
+                },
+                "total_tokens": 1723
+              }
+            },
+            "support": "REMODEL-1 and REMODEL-2 are two identical, randomised, double-blind, double-dummy, active comparator-controlled, parallel-group, event-driven, phase 3 trials conducted at 407 centres in 46 countries.",
+            "total": 79
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "pmid:42896183",
       "title": "2026 年联邦更改儿童免疫计划对美国慢性乙型肝炎病毒感染的预计影响。",
       "original_title": "Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States.",
@@ -1561,127 +1684,6 @@
             },
             "support": "the deferred and shared decision-making strategies would increase chronic HBV infections in the 2026 birth cohort by 19% to 303 (95% UI, 155 to 610) and by 83% to 467 (95% UI, 209 to 1032), respective",
             "total": 75
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42911562",
-      "title": "利妥昔单抗与硫唑嘌呤治疗嗜酸性肉芽肿伴多血管炎维持治疗：一项随机临床试验。",
-      "original_title": "Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.",
-      "summary": "对于嗜酸性肉芽肿性多血管炎（EGPA）患者，指南建议在缓解后考虑维持治疗。比较利妥昔单抗和硫唑嘌呤维持治疗对 EGPA 患者缓解持续时间的影响，这些患者在标准治疗（包括泼尼松逐渐减量或停药）后最近实现了血管炎缓解。",
-      "url": "https://doi.org/10.1001/jama.2026.15278",
-      "source": "JAMA · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-22",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42911562",
-        "upstream_id": "42911562"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "首个针对EGPA维持治疗的头对头随机双盲试验，为指南中缺乏比较证据的利妥昔单抗与硫唑嘌呤选择提供了阴性结果证据，并提示利妥昔单抗组严重感染更高；但样本量98例、随访28个月，统计学把握度有限。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-24T16:36:06+00:00",
-        "input_hash": "ce60ce942f35df4ebc91716c8c539f6d08a75ce45fa4f758b8042d5a048aa1be",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "首个针对EGPA维持治疗的头对头随机双盲试验，为指南中缺乏比较证据的利妥昔单抗与硫唑嘌呤选择提供了阴性结果证据，并提示利妥昔单抗组严重感染更高；但样本量98例、随访28个月，统计学把握度有限。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "首个在EGPA维持治疗中头对头比较利妥昔单抗与硫唑嘌呤的多中心随机双盲试验，阴性主终点（缓解时长91.1 vs 96.0周）为指南制定和维持治疗选择提供关键证据；利妥昔单抗组严重感染率更高（46.9% vs 24.5%）是重要安全性信号。局限性在于以新冠为主的感染混杂及样本量中等。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261025003559719a01b47722497e",
-              "seconds": 3.56,
-              "usage": {
-                "completion_tokens": 179,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1597,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1776
-              }
-            },
-            "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "首个针对EGPA维持治疗的头对头随机双盲试验，为指南中缺乏比较证据的利妥昔单抗与硫唑嘌呤选择提供了阴性结果证据，并提示利妥昔单抗组严重感染更高；但样本量98例、随访28个月，统计学把握度有限。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102500360313db96e3ba5a46ad",
-              "seconds": 3.5,
-              "usage": {
-                "completion_tokens": 150,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1597,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1536
-                },
-                "total_tokens": 1747
-              }
-            },
-            "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less",
-            "total": 72
           }
         ],
         "score": 74,
@@ -1808,11 +1810,11 @@
       }
     },
     {
-      "id": "pmid:42914154",
-      "title": "活体肾脏捐赠后的妊娠结果。",
-      "original_title": "Pregnancy Outcomes After Living Kidney Donation.",
-      "summary": "尽管证据尚不清楚，但活体肾脏捐赠后怀孕的人发生妊娠相关不良后果的风险可能会增加。确定活体肾脏捐赠后的妊娠是否与非捐赠者中的匹配妊娠相比不良妊娠结局的风险更高。这项匹配队列研究使用了加拿大安大略省、不列颠哥伦比亚省和阿尔伯塔省的省级行政医疗保健数据库，纳入了年龄在 18 岁至 42 岁之间的活体女性肾脏捐献者，她们在 1992 年 7 月至 2021 年 8 月期间捐献了肾脏，随后进行了至少 20 周妊娠的单胎妊娠。这些妊娠与女性非捐赠者中妊娠至少 20 周的单胎妊娠按 1:4 进行匹配。",
-      "url": "https://doi.org/10.1001/jama.2026.21737",
+      "id": "pmid:42911562",
+      "title": "利妥昔单抗与硫唑嘌呤治疗嗜酸性肉芽肿伴多血管炎维持治疗：一项随机临床试验。",
+      "original_title": "Rituximab vs Azathioprine for Eosinophilic Granulomatosis With Polyangiitis Maintenance Therapy: A Randomized Clinical Trial.",
+      "summary": "重要性 对于嗜酸性肉芽肿性多血管炎 (EGPA) 患者，指南建议在缓解后考虑维持治疗。目的 比较利妥昔单抗和硫唑嘌呤维持治疗对经过标准治疗（包括泼尼松逐渐减量或停药）后最近获得血管炎缓解的 EGPA 患者缓解持续时间的影响。",
+      "url": "https://doi.org/10.1001/jama.2026.15278",
       "source": "JAMA · 摘要索引",
       "source_type": "期刊论文",
       "published_at": "2026-10-22",
@@ -1820,15 +1822,15 @@
         "hospital",
         "research"
       ],
-      "event_type": "seen",
+      "event_type": "updated",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
         "retrieved_via": "europe_pmc",
         "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42914154",
-        "upstream_id": "42914154"
+        "summary_source": "https://europepmc.org/article/MED/42911562",
+        "upstream_id": "42911562"
       },
       "sections": [
         "research"
@@ -1839,21 +1841,22 @@
         ]
       },
       "research_stages": [
-        "design"
+        "data",
+        "validation"
       ],
       "recommendation_reasons": {
-        "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
+        "research": "针对EGPA维持治疗的随机双盲试验，为利妥昔单抗 vs 硫唑嘌呤提供首个头对头证据，阴性主结局（缓解时长无差异）直接影响维持治疗策略选择；且利妥昔单抗组严重感染更多，对风险获益权衡有实际参考。局限为样本量98、缓解比例低，次要终点均未达显著。"
       },
       "reading_value_score": 73,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-24T16:36:04+00:00",
-        "input_hash": "5ec6ca142086624b00aec3182a2a42e67974931045d8016a4ce23833a31f514d",
+        "evaluated_at": "2026-10-25T06:12:30+00:00",
+        "input_hash": "af32d9cb40b46af598b0e15835634be1ef894862d828b56f50a255e3b5e71762",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。",
+        "reason": "针对EGPA维持治疗的随机双盲试验，为利妥昔单抗 vs 硫唑嘌呤提供首个头对头证据，阴性主结局（缓解时长无差异）直接影响维持治疗策略选择；且利妥昔单抗组严重感染更多，对风险获益权衡有实际参考。局限为样本量98、缓解比例低，次要终点均未达显著。",
         "reviews": [
           {
             "audiences": [
@@ -1862,62 +1865,62 @@
             "axes": {
               "evidence": 8,
               "novelty": 6,
-              "relevance": 8,
+              "relevance": 7,
               "significance": 7,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。",
+            "reason": "针对EGPA维持治疗的随机双盲试验，为利妥昔单抗 vs 硫唑嘌呤提供首个头对头证据，阴性主结局（缓解时长无差异）直接影响维持治疗策略选择；且利妥昔单抗组严重感染更多，对风险获益权衡有实际参考。局限为样本量98、缓解比例低，次要终点均未达显著。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610250035575124262e61a54915",
-              "seconds": 3.58,
+              "request_id": "20261025141221f38ec9bdcdcc49a0",
+              "seconds": 4.48,
               "usage": {
-                "completion_tokens": 161,
+                "completion_tokens": 153,
                 "completion_tokens_details": {
                   "reasoning_tokens": 0
                 },
-                "prompt_tokens": 1314,
+                "prompt_tokens": 1620,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1475
+                "total_tokens": 1773
               }
             },
-            "support": "pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia",
-            "total": 72
+            "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months",
+            "total": 70
           },
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 8,
+              "evidence": 9,
               "novelty": 7,
               "relevance": 8,
               "significance": 7,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "大型匹配队列研究给出活体肾捐献者孕后不良结局的量化风险（妊娠高血压综合征RR 1.51、小于胎龄儿RR 1.86），可直接用于供者知情同意与产前管理；局限为行政数据库观察性设计，残余混杂和适应证偏倚仍可能存在。",
+            "reason": "这是首个比较利妥昔单抗与硫唑嘌呤作为EGPA维持治疗的随机双盲试验，结果为阴性——两组缓解持续时间无差异且利妥昔单抗组严重感染更多，直接挑战将RTX作为维持治疗的惯例。98例多中心设计和94%完成率使证据可信，可作为维持治疗决策和后续研究设计的关键参照。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "20261025003601aadf271547794710",
-              "seconds": 3.32,
+              "request_id": "20261025141225c92e7a7f30e340c5",
+              "seconds": 5.08,
               "usage": {
-                "completion_tokens": 152,
+                "completion_tokens": 172,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 9
                 },
-                "prompt_tokens": 1314,
+                "prompt_tokens": 1620,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1280
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1466
+                "total_tokens": 1792
               }
             },
-            "support": "pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia",
-            "total": 74
+            "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less",
+            "total": 76
           }
         ],
         "score": 73,
@@ -2040,126 +2043,6 @@
             },
             "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
             "total": 69
-          }
-        ],
-        "score": 73,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42912700",
-      "title": "Ravulizumab 治疗 IgA 肾病 - 3 期试验的中期分析。",
-      "original_title": "Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
-      "summary": "在 IgA 肾病患者中，补体激活会导致肾小球炎症，从而导致血尿、蛋白尿和肾单位丢失。第 34 周时，与安慰剂组 (-5.6%) 相比，ravulizumab 组观察到几何平均 24 小时尿蛋白与肌酐比值显着降低 (-46.6%)，对应调整后的 ravulizumab 组几何平均 24 小时尿蛋白与肌酐比值比使用 ravulizumab 组低 43.4%（99% 置信区间，30.1 至 54.2）。安慰剂（P < 0.001）。",
-      "url": "https://doi.org/10.1056/nejmoa2607544",
-      "source": "NEJM · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-23",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nejm_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "nejm_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42912700",
-        "upstream_id": "42912700"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "III期期中分析显示ravulizumab较安慰剂显著降低IgA肾病患者尿蛋白肌酐比43.4%（485例随机、预设终点、99%CI明确），为补体靶向治疗在IgA肾病的肾脏保护证据链提供关键数据，可指导肾科临床试验与治疗决策；局限在于期中分析、终点为蛋白尿而非硬终点，长期肾功能与安全性待验证。"
-      },
-      "reading_value_score": 73,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-24T16:35:49+00:00",
-        "input_hash": "91e517ee15406bdf580f84d3377c4dacfcc9bce9c05daa8c246a009bda2fe147",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "III期期中分析显示ravulizumab较安慰剂显著降低IgA肾病患者尿蛋白肌酐比43.4%（485例随机、预设终点、99%CI明确），为补体靶向治疗在IgA肾病的肾脏保护证据链提供关键数据，可指导肾科临床试验与治疗决策；局限在于期中分析、终点为蛋白尿而非硬终点，长期肾功能与安全性待验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "IgA肾病补体靶向III期中期结果，485例随机对照显示ravulizumab较安慰剂显著降低尿蛋白肌酐比43.4%，为肾病补体通路治疗提供高质量证据，可直接参考其终点设计与安全性数据；限制为中期分析、终点为蛋白尿替代指标而非硬终点，长期肾脏结局待验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610250035390802ec86d2bd4556",
-              "seconds": 4.02,
-              "usage": {
-                "completion_tokens": 166,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1352,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1518
-              }
-            },
-            "support": "a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%)",
-            "total": 76
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "III期期中分析显示ravulizumab较安慰剂显著降低IgA肾病患者尿蛋白肌酐比43.4%（485例随机、预设终点、99%CI明确），为补体靶向治疗在IgA肾病的肾脏保护证据链提供关键数据，可指导肾科临床试验与治疗决策；局限在于期中分析、终点为蛋白尿而非硬终点，长期肾功能与安全性待验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102500354204234278ff1d4141",
-              "seconds": 6.46,
-              "usage": {
-                "completion_tokens": 181,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1352,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1533
-              }
-            },
-            "support": "a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%)",
-            "total": 70
           }
         ],
         "score": 73,
@@ -2760,6 +2643,126 @@
             },
             "support": "The consistent results in secondary analyses of children with maternal infertility history or conceived via IVF suggest that procedure-related, rather than infertility-related, factors warrant further",
             "total": 75
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42911181",
+      "title": "Atacicept 治疗 IgA 肾病 - 3 期试验最终疗效分析。",
+      "original_title": "Atacicept in IgA Nephropathy - Phase 3 Trial Final Efficacy Analysis.",
+      "summary": "背景 在此试验 ORIGIN 3 之前发表的分析中，与安慰剂相比，Atacicept 导致尿蛋白与肌酐比值显着降低。第 52 周时，eGFR 的平均变化为每 1.73 m 2 体表面积每分钟 -0.11 ml（95% 置信区间 [CI]，-1.44 至 1.22），atacicept 组和每分钟 -5.69 ml 体表面积。 1.73 m 2 （95% CI，-7.04 至 -4.35）与安慰剂（平均差异，每 1.73 m 2 每分钟 5.58 ml；95% CI，3.68 至 7.48；P < 0.001）。",
+      "url": "https://doi.org/10.1056/nejmoa2610103",
+      "source": "NEJM · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-22",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42911181",
+        "upstream_id": "42911181"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "III期试验最终eGFR分析显示atacicept组年均eGFR斜率较安慰剂改善约5 ml/min/1.73m²，为IgA肾病的肾功能硬终点提供了新的关键证据。局限为仅摘要级信息、次要终点结果且经费来自企业，需关注完整安全性数据与长期获益。"
+      },
+      "reading_value_score": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:13+00:00",
+        "input_hash": "70c0752a3c324ba60a3f203228dc7e5b8deecb40ce346ba62dd4c387ea4f1c55",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期试验最终eGFR分析显示atacicept组年均eGFR斜率较安慰剂改善约5 ml/min/1.73m²，为IgA肾病的肾功能硬终点提供了新的关键证据。局限为仅摘要级信息、次要终点结果且经费来自企业，需关注完整安全性数据与长期获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "III期ORIGIN 3最终分析显示atacicept 150 mg较安慰剂显著减缓IgA肾病患者eGFR下降（年化斜率差异约5.0 ml/min/1.73m²），431例随机、预设终点加层级检验，是肾功能硬终点的关键证据。摘要数据完整支持主要结论，但为药企资助的单一试验，长期肾功能获益与安全性仍需更多随访。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610251412058fc6b0e9fa94413e",
+              "seconds": 4.13,
+              "usage": {
+                "completion_tokens": 228,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1189,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1417
+              }
+            },
+            "support": "At week 52, the mean change in the eGFR was -0.11 ml per minute per 1.73 m 2 of body-surface area (95% confidence interval [CI], -1.44 to 1.22) with atacicept and -5.69 ml per minute per 1.73 m 2 (95%",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "III期试验最终eGFR分析显示atacicept组年均eGFR斜率较安慰剂改善约5 ml/min/1.73m²，为IgA肾病的肾功能硬终点提供了新的关键证据。局限为仅摘要级信息、次要终点结果且经费来自企业，需关注完整安全性数据与长期获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610251412098c1d37150afe4f40",
+              "seconds": 4.11,
+              "usage": {
+                "completion_tokens": 137,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1189,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1326
+              }
+            },
+            "support": "Atacicept slowed and stabilized the decline in the eGFR as compared with placebo.",
+            "total": 71
           }
         ],
         "score": 71,

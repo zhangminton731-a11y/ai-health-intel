@@ -1,9 +1,138 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T01:14:38+00:00",
+  "generated_at": "2026-10-25T06:11:49+00:00",
   "as_of": "2026-10-25",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "pmid:42914154",
+      "t": "活体肾脏捐赠后的妊娠结果。",
+      "te": "Pregnancy Outcomes After Living Kidney Donation.",
+      "s": "尽管证据尚不清楚，但活体肾脏捐赠后怀孕的人发生妊娠相关不良后果的风险可能会增加。确定活体肾脏捐赠后的妊娠是否与非捐赠者中的匹配妊娠相比不良妊娠结局的风险更高。这项匹配队列研究使用了加拿大安大略省、不列颠哥伦比亚省和阿尔伯塔省的省级行政医疗保健数据库，纳入了年龄在 18 岁至 42 岁之间的活体女性肾脏捐献者，她们在 1992 年 7 月至 2021 年 8 月期间捐献了肾脏，随后进行了至少 20 周妊娠的单胎妊娠。这些妊娠与女性非捐赠者中妊娠至少 20 周的单胎妊娠按 1:4 进行匹配。",
+      "se": "People who become pregnant after living kidney donation may be at increased risk of pregnancy-related adverse outcomes, although the evidence is unclear. To determine whether pregnancies after living kidney donation are associated with a higher risk of adverse pregnancy outcomes than matched pregnancies among nondonors. This matched cohort study used provincial administrative health care databases from Ontario, British Columbia, and Alberta, Canada, and included living female kidney donors aged 18 to 42 years who donated a kidney between July 1992 and August 2021 and subsequently had singleton pregnancies of at least 20 weeks' gestation. These pregnancies were matched 1:4 with singleton pregnancies of at least 20 weeks' gestation among female nondonors.",
+      "u": "https://doi.org/10.1001/jama.2026.21737",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42914154",
+        "upstream_id": "42914154"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-24T16:36:04+00:00",
+        "input_hash": "5ec6ca142086624b00aec3182a2a42e67974931045d8016a4ce23833a31f514d",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610250035575124262e61a54915",
+              "seconds": 3.58,
+              "usage": {
+                "completion_tokens": 161,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1314,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1475
+              }
+            },
+            "support": "pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大型匹配队列研究给出活体肾捐献者孕后不良结局的量化风险（妊娠高血压综合征RR 1.51、小于胎龄儿RR 1.86），可直接用于供者知情同意与产前管理；局限为行政数据库观察性设计，残余混杂和适应证偏倚仍可能存在。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025003601aadf271547794710",
+              "seconds": 3.32,
+              "usage": {
+                "completion_tokens": 152,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1314,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1466
+              }
+            },
+            "support": "pregnancy after living kidney donation was associated with a higher risk of the composite outcome of hospitalization with a diagnosis of gestational hypertension, preeclampsia, or eclampsia",
+            "total": 74
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "3 天前",
+      "date": "2026-10-22",
+      "reasons": {
+        "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03418-3",
       "t": "商业人工智能在肺栓塞和偶发性肺栓塞检测中的多站点真实性能",
@@ -3524,6 +3653,13 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-10-22",
+      "item_ids": [
+        "pmid:42914154"
+      ],
+      "minutes": 1
+    },
     {
       "date": "2026-10-21",
       "item_ids": [
