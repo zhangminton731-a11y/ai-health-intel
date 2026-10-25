@@ -2420,7 +2420,7 @@ Background: Depression is a common mental disorder that seriously affects mental
 
 - Source: `nih_funding` · published `2026-10-19` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-091.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-091.html`
 
 Notice NOT-OD-26-091 from the NIH Guide for Grants and Contracts
 
@@ -2428,7 +2428,7 @@ Notice NOT-OD-26-091 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-19` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-TW-26-002.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-TW-26-002.html`
 
 Notice NOT-TW-26-002 from the NIH Guide for Grants and Contracts
 
@@ -2436,7 +2436,7 @@ Notice NOT-TW-26-002 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-19` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-EB-26-005.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-EB-26-005.html`
 
 Notice NOT-EB-26-005 from the NIH Guide for Grants and Contracts
 
@@ -2620,7 +2620,7 @@ Background: AI-based tools for oral cancer screening have shown promising perfor
 
 - Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-002.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-002.html`
 
 Notice NOT-HL-27-002 from the NIH Guide for Grants and Contracts
 
@@ -2628,7 +2628,7 @@ Notice NOT-HL-27-002 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-003.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-003.html`
 
 Notice NOT-HL-27-003 from the NIH Guide for Grants and Contracts
 
@@ -2636,7 +2636,7 @@ Notice NOT-HL-27-003 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-019.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-CA-26-019.html`
 
 Notice NOT-CA-26-019 from the NIH Guide for Grants and Contracts
 
@@ -2644,7 +2644,7 @@ Notice NOT-CA-26-019 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-001.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-HL-27-001.html`
 
 Notice NOT-HL-27-001 from the NIH Guide for Grants and Contracts
 
@@ -2652,7 +2652,7 @@ Notice NOT-HL-27-001 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-20` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-DE-27-001.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-DE-27-001.html`
 
 Notice NOT-DE-27-001 from the NIH Guide for Grants and Contracts
 
@@ -2820,7 +2820,7 @@ Electronic health records (EHRs) are central to patient-centered care. However, 
 
 - Source: `nih_funding` · published `2026-10-21` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-NS-27-002.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-NS-27-002.html`
 
 Notice NOT-NS-27-002 from the NIH Guide for Grants and Contracts
 
@@ -3060,7 +3060,7 @@ Osteoporosis (OP) and neurodegeneration frequently co-occur with advancing age, 
 
 - Source: `nih_funding` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-EY-27-004.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-EY-27-004.html`
 
 Notice NOT-EY-27-004 from the NIH Guide for Grants and Contracts
 
@@ -3068,7 +3068,7 @@ Notice NOT-EY-27-004 from the NIH Guide for Grants and Contracts
 
 - Source: `nih_funding` · published `2026-10-22` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-NR-27-001.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-NR-27-001.html`
 
 Notice NOT-NR-27-001 from the NIH Guide for Grants and Contracts
 
@@ -3588,7 +3588,7 @@ It was another interesting week for AI-related startup funding, with a number of
 
 - Source: `nih_funding` · published `2026-10-23` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-011.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-011.html`
 
 Notice NOT-OD-27-011 from the NIH Guide for Grants and Contracts
 
@@ -3614,7 +3614,7 @@ Notice NOT-OD-27-011 from the NIH Guide for Grants and Contracts
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://security.apple.com/research-device/`
 
-Hacker News community signal; score 169.
+Hacker News community signal; score 172.
 
 ### [Neoadjuvant nivolumab with or without visugromab in muscle-invasive bladder cancer: the phase 2a GDFATHER-NEO trial](https://www.nature.com/articles/s41591-026-04740-9)
 
@@ -3644,7 +3644,7 @@ Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bl
 
 - Source: `stat_news_feed` · published `2026-10-24` · freshness `fresh`
 - Reading value: `40` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss`
 
 Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.
 
