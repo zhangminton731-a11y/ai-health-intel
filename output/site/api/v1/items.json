@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T10:08:13+00:00",
-  "as_of": "2026-10-26",
-  "count": 25,
+  "generated_at": "2026-10-26T16:47:49+00:00",
+  "as_of": "2026-10-27",
+  "count": 23,
   "items": [
     {
       "id": "pmid:42904878",
@@ -501,7 +501,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "updated",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -566,7 +566,7 @@
                 "total_tokens": 1552
               }
             },
-            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] ",
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
             "total": 78
           },
           {
@@ -598,7 +598,7 @@
                 "total_tokens": 1535
               }
             },
-            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] ",
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
             "total": 79
           }
         ],
@@ -851,128 +851,6 @@
       }
     },
     {
-      "id": "url:https://www.nature.com/articles/s41591-026-04707-w",
-      "title": "淋巴瘤患者多中心、多试验队列分析中 CAR T 细胞治疗反应的决定因素",
-      "original_title": "Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma",
-      "summary": "在接受嵌合抗原受体 (CAR) T 细胞疗法治疗的非霍奇金淋巴瘤 (NHL) 患者中，与疗效相关的因素与预后生物标志物重叠。高比例的幼稚样 (CCR7+CD45RA+) T 细胞是与延长无进展生存期相关的最显着特征（PFS；风险比 = 0.46，95% 置信区间：0.31−0.68，P = 9.8 × 10−5，高幼稚样 T 细胞组与低幼稚样 T 细胞组），且不影响安全性。在多变量模型中，幼稚表型优于炎症标志物和肿瘤负荷等临床病理特征，在调整产品扩展后仍然显着。主要发现在一个由 203 名接受基于 axi-cel 的疗法或 brexucabtagene autoleucel 治疗的患者组成的独立队列中得到验证。",
-      "url": "https://www.nature.com/articles/s41591-026-04707-w",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-23",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04707-w",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04707-w"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "analysis",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
-      },
-      "reading_value_score": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-23T12:39:19+00:00",
-        "input_hash": "072a82d4065ed70604c24b3612750bb26d6a4f13adc17eb4625f0687596d00f6",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "基于580例多试验队列加203例独立验证，明确了产品中初始样T细胞比例与CAR T疗效的关联，对细胞治疗产品质量控制、患者分层和早干预策略有直接研究价值；限制为回顾性多试验汇总分析，因果性与前瞻验证仍待确立。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261023203910e76043f3136c4a8d",
-              "seconds": 5.71,
-              "usage": {
-                "completion_tokens": 135,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1234,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1369
-              }
-            },
-            "support": "A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102320391642ff3974b50e45e3",
-              "seconds": 3.44,
-              "usage": {
-                "completion_tokens": 171,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 7
-                },
-                "prompt_tokens": 1234,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1405
-              }
-            },
-            "support": "A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival (PFS; hazard ratio = 0.46",
-            "total": 77
-          }
-        ],
-        "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
       "id": "pmid:42912700",
       "title": "Ravulizumab 治疗 IgA 肾病 - 3 期试验的中期分析。",
       "original_title": "Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
@@ -1106,7 +984,7 @@
         "research",
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -1209,124 +1087,6 @@
           }
         ],
         "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms",
-      "title": "医疗保险计划； 2026 年《综合拨款法》第 6219、6220 和 6224 条的实施 (CMS-4214-P)",
-      "original_title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026 (CMS-4214-P)",
-      "summary": "医疗保险计划；实施 2026 年综合拨款法 (CMS-4214-P) 第 6219、6220 和 6224 条 背景 2026 年 10 月 16 日，医疗保险和医疗补助服务中心 (CMS) 发布了一项拟议规则，以实施 2026 年综合拨款法的关键部分，包括第 6220 条（要求加强和(REAL) 医疗服务提供者法案的准确列表）和第 6224 条（现代化并确保药房福利经理责任）。要求增强和准确的（真实）健康提供者法案列表（第 6220 条）：CMS 提议编纂法规以实施真实健康提供者法案，该法案从 2028 年合同年开始为 MA 组织制定了新的提供者目录验证和准确性要求。",
-      "url": "https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms",
-      "source": "CMS · 政策事实说明",
-      "source_type": "官方机构",
-      "published_at": "2026-10-16",
-      "topics": [
-        "regulation"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "cms_fact_sheets"
-        ],
-        "retrieved_via": "cms_facts",
-        "source_id": "cms_fact_sheets",
-        "summary_kind": "source_excerpt",
-        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms",
-        "upstream_id": ""
-      },
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "regulation"
-        ]
-      },
-      "research_stages": [],
-      "recommendation_reasons": {
-        "industry": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。"
-      },
-      "reading_value_score": 76,
-      "editorial": {
-        "audiences": [
-          "industry"
-        ],
-        "evaluated_at": "2026-10-16T23:37:10+00:00",
-        "input_hash": "68777ebf265ccab90467d1b29ca04991552a6d310e97045b0e307cda3412b261",
-        "input_scope": "source_excerpt",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "industry",
-            "reason": "CMS针对PBM报酬限制与披露、MA提供方目录核验及低收入人群Part D共付调整的拟议规则，直接影响PBM、PDP计划方和MA组织的合规与商业模式，且为提案阶段可参与60天公开意见征询。限制在于为拟议规则，具体要求在最终规则中可能调整。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261017073702d90dc4bcc37c414d",
-              "seconds": 3.66,
-              "usage": {
-                "completion_tokens": 162,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 15
-                },
-                "prompt_tokens": 1557,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1719
-              }
-            },
-            "support": "These proposals include new requirements governing the remuneration that PBMs and their affiliates may receive for services in connection with the utilization of Part D drugs",
-            "total": 78
-          },
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 6
-            },
-            "kind": "industry",
-            "reason": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026101707370578f54270fa80450a",
-              "seconds": 4.83,
-              "usage": {
-                "completion_tokens": 167,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 27
-                },
-                "prompt_tokens": 1557,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1536
-                },
-                "total_tokens": 1724
-              }
-            },
-            "support": "The proposed rule will be open for public comment for 60 days following publication in the Federal Register",
-            "total": 74
-          }
-        ],
-        "score": 76,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
