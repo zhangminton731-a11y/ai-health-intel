@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T01:18:18+00:00",
+  "generated_at": "2026-10-26T10:08:13+00:00",
   "as_of": "2026-10-26",
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "id": "pmid:42904878",
@@ -117,128 +117,6 @@
           }
         ],
         "score": 81,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:42925007",
-      "title": "曲妥珠单抗 Rezetecan 治疗 ERBB2-低晚期乳腺癌：HORIZON-Breast06 随机临床试验。",
-      "original_title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
-      "summary": "Trastuzumab rezetecan (SHR-A1811) 在一项全球 1 期试验中表现出令人鼓舞的抗肿瘤活性，该试验涉及经过深度治疗的红细胞癌基因 B (ERBB2) 低转移性乳腺癌患者。比较 ERBB2 低转移性乳腺癌患者的曲妥珠单抗瑞泽替康与医生选择的化疗。这项开放标签、随机、多中心 3 期试验在中国 73 家医院进行。符合条件的患者是年龄在 18 至 75 岁之间、集中确诊为 ERBB2 低（免疫组织化学 [IHC] 1+ 或 IHC 2+/原位杂交 [ISH] 阴性）不可切除的局部复发性或转移性乳腺癌的女性，她们之前接受过 1 种或更少的转移性疾病化疗，且激素受体阳性疾病需要先行内分泌治疗。报名于2023年6月30日开始，至2025年8月20日结束。",
-      "url": "https://doi.org/10.1001/jama.2026.21372",
-      "source": "JAMA · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-23",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42925007",
-        "upstream_id": "42925007"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "ERBB2-low转移性乳腺癌一线化疗经治人群中，SHR-A1811三期随机对照显示PFS大幅延长（HR 0.25-0.27），亚组一致，为该ADC提供关键证据并可能改变治疗格局；但为开放标签设计，3级以上不良事件达84.1%，且尚无OS数据，安全性权衡需关注。"
-      },
-      "reading_value_score": 80,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-25T17:04:24+00:00",
-        "input_hash": "720217ddc5ee1d53aeb01638c147e671183838652332d5a8caed08b541434f7b",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "ERBB2-low转移性乳腺癌一线化疗经治人群中，SHR-A1811三期随机对照显示PFS大幅延长（HR 0.25-0.27），亚组一致，为该ADC提供关键证据并可能改变治疗格局；但为开放标签设计，3级以上不良事件达84.1%，且尚无OS数据，安全性权衡需关注。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "ERBB2-low转移性乳腺癌一线化疗经治人群中，SHR-A1811三期随机对照显示PFS大幅延长（HR 0.25-0.27），亚组一致，为该ADC提供关键证据并可能改变治疗格局；但为开放标签设计，3级以上不良事件达84.1%，且尚无OS数据，安全性权衡需关注。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610260104172f44ee8b5faf4559",
-              "seconds": 3.72,
-              "usage": {
-                "completion_tokens": 199,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1555,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1754
-              }
-            },
-            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 8,
-              "relevance": 9,
-              "significance": 9,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "III期随机对照试验显示SHR-A1811在ERBB2-low转移性乳腺癌一线化疗人群中PFS显著延长（HR 0.25–0.27），可能改变该人群治疗格局；开放标签设计、中性粒细胞减少等毒性较高，且为摘要级结果、总生存数据未报告。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102601042185cd259b62044c0e",
-              "seconds": 3.78,
-              "usage": {
-                "completion_tokens": 163,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1555,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1536
-                },
-                "total_tokens": 1718
-              }
-            },
-            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8",
-            "total": 84
-          }
-        ],
-        "score": 80,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -600,6 +478,128 @@
             },
             "support": "The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m 2 of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab",
             "total": 80
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42925007",
+      "title": "曲妥珠单抗 Rezetecan 治疗 ERBB2-低晚期乳腺癌：HORIZON-Breast06 随机临床试验。",
+      "original_title": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
+      "summary": "重要性 Trastuzumab rezetecan (SHR-A1811) 在一项全球 1 期试验中显示出令人鼓舞的抗肿瘤活性，该试验涉及经过大量预处理的红细胞癌基因 B (ERBB2) 低转移性乳腺癌患者。目的 比较 ERBB2 低转移性乳腺癌患者的曲妥珠单抗瑞泽替康与医生选择的化疗方案。设计、设置和参与者 这项开放标签、随机、多中心 3 期试验在中国 73 家医院进行。符合条件的患者是年龄在 18 至 75 岁之间、集中确诊为 ERBB2 低（免疫组织化学 [IHC] 1+ 或 IHC 2+/原位杂交 [ISH] 阴性）不可切除的局部复发性或转移性乳腺癌的女性，她们之前接受过 1 种或更少的转移性疾病化疗，且激素受体阳性疾病需要先行内分泌治疗。",
+      "url": "https://doi.org/10.1001/jama.2026.21372",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-23",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42925007",
+        "upstream_id": "42925007"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "曲妥珠单抗rezetecan（SHR-A1811）III期随机对照试验显示ERBB2-low晚期乳腺癌一线/低经治人群中PFS显著延长（16.6 vs 6.8个月，HR 0.25），可能改变该人群治疗格局。开放标签设计、摘要未提供OS与完整安全性细节，效果证据以摘要级为准。"
+      },
+      "reading_value_score": 78,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-26T10:09:26+00:00",
+        "input_hash": "569f2f8d860893f3996a0889a60b575c6b63c1dab1873f9744fffd8ff9bff117",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "曲妥珠单抗rezetecan（SHR-A1811）III期随机对照试验显示ERBB2-low晚期乳腺癌一线/低经治人群中PFS显著延长（16.6 vs 6.8个月，HR 0.25），可能改变该人群治疗格局。开放标签设计、摘要未提供OS与完整安全性细节，效果证据以摘要级为准。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "曲妥珠单抗rezetecan（SHR-A1811）III期随机对照试验显示ERBB2-low晚期乳腺癌一线/低经治人群中PFS显著延长（16.6 vs 6.8个月，HR 0.25），可能改变该人群治疗格局。开放标签设计、摘要未提供OS与完整安全性细节，效果证据以摘要级为准。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261026180918fa4d726bc9a949a0",
+              "seconds": 4.0,
+              "usage": {
+                "completion_tokens": 215,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1337,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1552
+              }
+            },
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] ",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "SHR-A1811在ERBB2低表达晚期乳腺癌一线/低经治人群的III期随机对照结果（HR 0.25）为该靶点ADC提供了明确的新证据，直接影响临床研究布局与治疗线序设计；摘要级判断，OS及完整安全性数据待全文验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102618092280441d10a65547d4",
+              "seconds": 4.36,
+              "usage": {
+                "completion_tokens": 198,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1337,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1535
+              }
+            },
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] ",
+            "total": 79
           }
         ],
         "score": 78,
@@ -1083,6 +1083,129 @@
             },
             "support": "At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%",
             "total": 78
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:42925880",
+      "title": "14 天与 28 天三氟尿苷-替匹拉西加贝伐单抗治疗难治性转移性结直肠癌 (PRABITAS)：一项在日本进行的实用、多中心、开放标签、随机、3 期非劣效性试验。",
+      "original_title": "14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.",
+      "summary": "背景曲氟尿苷-替吡嘧啶 (FTD-TPI) 联合贝伐珠单抗是难治性转移性结直肠癌的标准治疗方法。然而，常规方案经常与血液学和胃肠道毒性相关，这具有临床意义并且与患者相关。已提出简化的 14 天治疗方案以减少毒性，但随机试验尚未确定这种治疗是否能保留生存。因此，我们的目的是评估 14 天的计划是否不劣于传统的总生存期计划。方法 PRABITAS 是一项在日本 178 家医院进行的务实、多中心、开放标签、随机、3 期非劣效性试验。",
+      "url": "https://doi.org/10.1016/s0140-6736(26)01782-4",
+      "source": "The Lancet · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-10-24",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42925880",
+        "upstream_id": "42925880"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "随机III期非劣效试验（972例）显示14天给药方案总生存不劣于标准28天方案且显著降低中性粒细胞减少等毒性，可直接影响难治性转移性结直肠癌的处方实践和后续研究设计。局限为开放标签设计、日本单国实施，两例治疗相关死亡需关注。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-26T10:09:18+00:00",
+        "input_hash": "f8d4dedaa54bbe49735f6769582ea56e6d8c91fb957e28f10b2b55cd9773c0c8",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "随机III期非劣效试验（972例）显示14天给药方案总生存不劣于标准28天方案且显著降低中性粒细胞减少等毒性，可直接影响难治性转移性结直肠癌的处方实践和后续研究设计。局限为开放标签设计、日本单国实施，两例治疗相关死亡需关注。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "随机III期非劣效试验（972例）显示14天给药方案总生存不劣于标准28天方案且显著降低中性粒细胞减少等毒性，可直接影响难治性转移性结直肠癌的处方实践和后续研究设计。局限为开放标签设计、日本单国实施，两例治疗相关死亡需关注。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102618091062f51332cff94fe0",
+              "seconds": 3.9,
+              "usage": {
+                "completion_tokens": 162,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 4
+                },
+                "prompt_tokens": 1646,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1808
+              }
+            },
+            "support": "A 14-day schedule of FTD-TPI plus bevacizumab was non-inferior to the conventional 28-day schedule for overall survival, while reducing haematological and gastrointestinal toxicity.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "972例随机III期非劣效试验，直接支持将14天FTD-TPI+贝伐方案确立为难治性转移性结直肠癌新标准，毒性显著降低（3级以上中性粒细胞减少13%对39%）。为临床实践与指南更新提供高质量证据；限制为开放标签设计且非劣效界值较宽（HR上限1.08接近1.25边界），两例治疗相关死亡需关注。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610261809148958ed70a66b4a01",
+              "seconds": 3.94,
+              "usage": {
+                "completion_tokens": 180,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1646,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1600
+                },
+                "total_tokens": 1826
+              }
+            },
+            "support": "A 14-day schedule of FTD-TPI plus bevacizumab was non-inferior to the conventional 28-day schedule for overall survival, while reducing haematological and gastrointestinal toxicity",
+            "total": 77
           }
         ],
         "score": 77,

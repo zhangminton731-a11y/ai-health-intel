@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 24
+## Scan · 25
 
 ### [Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.](https://doi.org/10.1056/nejmoa2611477)
 
@@ -17,14 +17,6 @@ No items.
 - Event: `seen` · identity: `pmid:42904878`
 
 <h4>Background</h4>Retatrutide, an investigational triple agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors, may be useful for treating obstructive sleep apnea (OSA).<h4>Methods</h4>In two phase 3, double-blind, randomized, placebo-controlled trials nested within larger basket trials of once-weekly subcutaneous retatrutide, we assigned adults with moderate-to-severe OSA and a body-mass index (the weight in kilograms divided by the square of the height in meters) of at least 27, without (TRIUMPH-1-OSA) or with (TRIUMPH-2-OSA) type 2 diabetes, to receive retatrutide (4, 9, or 12 mg) or placebo. The primary end point was the change in the apnea-hypopnea index (AHI, the average number of apneas and hypopneas per hour of sleep) at 80 weeks with 9 mg and 12 mg of retatrutide. For OSA-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy used for participants who had intercurrent events suggesting treatment failure and a treatment-policy strategy used elsewhere. We also report intention-to-treat (ITT) results.<h4>Results</h4>A total of 243 participants underwent randomization in TRIUMPH-1-OSA and 448 in TRIUMPH-2-OSA. The baseline mean AHI was 58.6 and 55.9 events per hour, respectively, and the mean body weight was 119.6 and 115.9 kg. At 80 weeks, the mean changes in the AHI (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OSA were -22.9 (4 mg), -34.3 (9 mg), and -31.7 (12 mg) events per hour, versus -9.9 with placebo (difference vs. placebo, -13.0 [95% confidence interval {CI}, -23.0 to -3.0], -24.4 [95% CI, -34.1 to -14.7], and -21.9 [95% CI, -32.2 to -11.5], respectively). The changes with retatrutide in TRIUMPH-2-OSA were -19.2 (4 mg), -24.7 (9 mg), and -25.4 (12 mg) events per hour, versus -10.3 with placebo (difference vs. placebo, -8.9 [95% CI, -15.9 to -2.0], -14.4 [95% CI, -21.6 to -7.2], and -15.1 [95% CI, -22.5 to -7.7]). For the ITT estimand, the corresponding differences from placebo were -13.2 (95% CI, -22.6 to -3.9), -24.7 (95% CI, -34.1 to -15.3), and -22.5 (95% CI, -31.9 to -13.1) in TRIUMPH-1-OSA and -8.8 (95% CI, -15.8 to -1.7), -13.9 (95% CI, -21.3 to -6.6), and -15.0 (95% CI, -22.5 to -7.4) in TRIUMPH-2-OSA. The mean percent change in body weight with retatrutide (key secondary end point) was -12.5 to -22.2% in TRIUMPH-1-OSA and -12.1 to -18.5% in TRIUMPH-2-OSA, versus -4.8% and -5.6% with placebo (treatment-regimen estimand). The most common adverse events were gastrointestinal.<h4>Conclusions</h4>In adults with OSA and obesity or overweight with or without type 2 diabetes, retatrutide resulted in significantly greater decreases in the AHI than placebo. (Funded by Eli Lilly; TRIUMPH-1 and -2 ClinicalTrials.gov numbers, NCT05929066 and NCT05929079.).
-
-### [Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.](https://doi.org/10.1001/jama.2026.21372)
-
-- Source: `jama_abstracts` · published `2026-10-23` · freshness `fresh`
-- Reading value: `80` · status: `scored`
-- Event: `seen` · identity: `pmid:42925007`
-
-Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer. To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer. This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025. The last day of follow-up for the final analysis for progression-free survival in the current study was March 20, 2026. Patients were randomly assigned (1:1) to receive trastuzumab rezetecan (6.4 mg/kg intravenously every 3 weeks; n = 277) or physician's choice of chemotherapy (n = 274). The primary end point was progression-free survival assessed by blinded independent central review in chemotherapy-naive patients and the overall population. Between June 30, 2023, and August 20, 2025, a total of 551 patients were randomized, with a mean (SD) age of 54.9 (9.9) years. At the data cutoff (March 20, 2026), trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] months; hazard ratio, 0.25 [95% CI, 0.19-0.33]; P < .001) and the overall population (median, 16.4 [95% CI, 14.0-16.8] months vs 6.8 [95% CI, 5.7-6.9] months; hazard ratio, 0.27 [95% CI, 0.21-0.34]; P < .001). The benefit was consistent in hormone receptor-negative disease (median progression-free survival: 16.5 vs 6.8 months; hazard ratio, 0.34, [95% CI, 0.22-0.54]) and hormone receptor-positive disease (median progression-free survival: 16.4 vs 6.7 months; hazard ratio, 0.24 [95% CI, 0.18-0.33]). Grade 3 or greater treatment-related adverse events occurred in 84.1% of patients (232/276) with trastuzumab rezetecan and 67.9% (184/271) with chemotherapy, most commonly decreased neutrophil count (180 [65.2%] vs 147 [54.2%]). Trastuzumab rezetecan provided significant progression-free survival benefit over physician's choice of chemotherapy in patients with ERBB2-low advanced breast cancer, with benefit observed across all key subgroups. It exhibited the potential as a new treatment option with a distinct safety profile in this setting. ClinicalTrials.gov Identifier: NCT05814354.
 
 ### [Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.](https://doi.org/10.1056/nejmoa2608682)
 
@@ -49,6 +41,14 @@ Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activit
 - Event: `seen` · identity: `pmid:42911185`
 
 <h4>Background</h4>Sibeprenlimab, a humanized monoclonal antibody, selectively inhibits the cytokine A proliferation-inducing ligand (APRIL), a key driver of IgA nephropathy. Preliminary trial results with regard to the primary end point of the 24-hour urinary protein-to-creatinine ratio at 9 months after treatment as compared with baseline have been reported, but secondary end points, including outcomes regarding estimated glomerular filtration rate (eGFR), have not.<h4>Methods</h4>We randomly assigned adults with IgA nephropathy to receive subcutaneous sibeprenlimab (at a dose of 400 mg) or placebo every 4 weeks. The key secondary end point was the annualized slope of the eGFR over 24 months. Other secondary end points included the change in eGFR from baseline to 24 months, a composite kidney end point of kidney-function decline or kidney failure, and pharmacodynamic and safety end points.<h4>Results</h4>A total of 510 patients underwent randomization - 259 to receive sibeprenlimab and 251 to receive placebo. The annualized eGFR slope over 24 months was 0.3 ml per minute per 1.73 m<sup>2</sup> of body-surface area per year (95% confidence interval [CI], -0.4 to 0.9) with sibeprenlimab and -4.2 ml per minute per 1.73 m<sup>2</sup> per year (95% CI, -4.9 to -3.6) with placebo (between-group difference, 4.5 ml per minute per 1.73 m<sup>2</sup> per year; 95% CI, 3.6 to 5.4; P<0.001). The least-squares mean treatment difference for the change in eGFR from baseline to 24 months was 9.2 ml per minute per 1.73 m<sup>2</sup> (95% CI, 7.1 to 11.4; P<0.001). A composite kidney end-point event occurred in 1 patient (0.4%) in the sibeprenlimab group and in 28 patients (11.2%) in the placebo group (adjusted difference, -10.8 percentage points; hazard ratio, 0.029; 95% CI, 0.004 to 0.214; P<0.001). Adverse events occurred in 235 patients (90.7%) in the sibeprenlimab group and 226 patients (90.0%) in the placebo group; serious adverse events occurred in 21 patients (8.1%) and 32 patients (12.7%), respectively; and serious infections in 5 patients (1.9%) and 10 patients (4.0%). No deaths were reported.<h4>Conclusions</h4>Among patients with IgA nephropathy, treatment with sibeprenlimab stabilized the eGFR slope over 24 months, a finding consistent with a reduced risk of kidney-function decline. (Funded by Otsuka Pharmaceutical Development and Commercialization; VISIONARY ClinicalTrials.gov number, NCT05248646.).
+
+### [Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.](https://doi.org/10.1001/jama.2026.21372)
+
+- Source: `jama_abstracts` · published `2026-10-23` · freshness `fresh`
+- Reading value: `78` · status: `scored`
+- Event: `updated` · identity: `pmid:42925007`
+
+<h4>Importance</h4>Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer.<h4>Objective</h4>To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer.<h4>Design, setting, and participants</h4>This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease. Enrollment began on June 30, 2023, and ended on August 20, 2025. The last day of follow-up for the final analysis for progression-free survival in the current study was March 20, 2026.<h4>Interventions</h4>Patients were randomly assigned (1:1) to receive trastuzumab rezetecan (6.4 mg/kg intravenously every 3 weeks; n = 277) or physician's choice of chemotherapy (n = 274).<h4>Main outcomes and measures</h4>The primary end point was progression-free survival assessed by blinded independent central review in chemotherapy-naive patients and the overall population.<h4>Results</h4>Between June 30, 2023, and August 20, 2025, a total of 551 patients were randomized, with a mean (SD) age of 54.9 (9.9) years. At the data cutoff (March 20, 2026), trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0] months; hazard ratio, 0.25 [95% CI, 0.19-0.33]; P < .001) and the overall population (median, 16.4 [95% CI, 14.0-16.8] months vs 6.8 [95% CI, 5.7-6.9] months; hazard ratio, 0.27 [95% CI, 0.21-0.34]; P < .001). The benefit was consistent in hormone receptor-negative disease (median progression-free survival: 16.5 vs 6.8 months; hazard ratio, 0.34, [95% CI, 0.22-0.54]) and hormone receptor-positive disease (median progression-free survival: 16.4 vs 6.7 months; hazard ratio, 0.24 [95% CI, 0.18-0.33]). Grade 3 or greater treatment-related adverse events occurred in 84.1% of patients (232/276) with trastuzumab rezetecan and 67.9% (184/271) with chemotherapy, most commonly decreased neutrophil count (180 [65.2%] vs 147 [54.2%]).<h4>Conclusions and relevance</h4>Trastuzumab rezetecan provided significant progression-free survival benefit over physician's choice of chemotherapy in patients with ERBB2-low advanced breast cancer, with benefit observed across all key subgroups. It exhibited the potential as a new treatment option with a distinct safety profile in this setting.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT05814354.
 
 ### [Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial](https://www.nature.com/articles/s41591-026-04756-1)
 
@@ -81,6 +81,14 @@ In patients with non-Hodgkin lymphoma (NHL) treated with chimeric antigen recept
 - Event: `seen` · identity: `pmid:42912700`
 
 <h4>Background</h4>In patients with IgA nephropathy, complement activation drives glomerular inflammation, which leads to hematuria, proteinuria, and nephron loss. Ravulizumab is a terminal complement inhibitor that prevents formation of C5a and C5b-9.<h4>Methods</h4>In this phase 3 trial, we enrolled adults with IgA nephropathy who had an estimated glomerular filtration rate of at least 30 ml per minute per 1.73 m<sup>2</sup> of body-surface area and proteinuria (24-hour urinary protein-to-creatinine ratio [with protein and creatinine both measured in grams] of ≥0.75 or total urinary protein excretion of ≥1.0 g per day), despite standard therapy. Patients were randomly assigned in a 1:1 ratio to receive an intravenous infusion of either ravulizumab or placebo every 8 weeks. In the prespecified interim analysis, the primary efficacy end point was the change from baseline in the 24-hour urinary protein-to-creatinine ratio at week 34. Safety was also assessed.<h4>Results</h4>In all, 485 patients underwent randomization, with 240 patients assigned to the ravulizumab group and 245 to the placebo group; 352 patients (176 in each group) were included in the interim analysis. In the ravulizumab group, the geometric mean 24-hour urinary protein-to-creatinine ratio at baseline and at week 34 was 1.56 and 0.83, respectively; in the placebo group, it was 1.60 and 1.48, respectively. At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%), corresponding to an adjusted geometric mean 24-hour urinary protein-to-creatinine ratio that was 43.4% (99% confidence interval, 30.1 to 54.2) lower with ravulizumab than with placebo (P<0.001). Adverse events occurred in 69.5% of the patients receiving ravulizumab and in 75.8% of those receiving placebo; serious adverse events occurred in 4.6% and 9.0%, respectively. No meningococcal infections or deaths occurred.<h4>Conclusions</h4>In adults with IgA nephropathy, ravulizumab resulted in a significantly greater reduction in the protein-to-creatinine ratio than placebo at week 34. (Funded by Alexion, AstraZeneca Rare Disease Unit; I CAN ClinicalTrials.gov number, NCT06291376; EU Clinical Trials number, 2023-507851-31-00.).
+
+### [14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.](https://doi.org/10.1016/s0140-6736(26)01782-4)
+
+- Source: `lancet_abstracts` · published `2026-10-24` · freshness `fresh`
+- Reading value: `77` · status: `scored`
+- Event: `new` · identity: `pmid:42925880`
+
+<h4>Background</h4>Trifluridine-tipiracil (FTD-TPI) plus bevacizumab is the standard treatment for refractory metastatic colorectal cancer. However, the conventional schedule is frequently associated with haematological and gastrointestinal toxicity, which is clinically significant and relevant to patients. A simplified 14-day schedule has been proposed to reduce toxicity, but whether this treatment preserves survival has not been established in a randomised trial. We therefore aimed to assess whether the 14-day schedule is non-inferior to the conventional schedule for overall survival.<h4>Methods</h4>PRABITAS was a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial conducted in 178 hospitals in Japan. Patients with refractory metastatic colorectal cancer were randomly assigned (1:1) using a minimisation algorithm, stratified by Eastern Cooperative Oncology Group performance status, RAS mutational status, and institution, to FTD-TPI (35 mg/m<sup>2</sup> orally twice daily) plus bevacizumab (5 mg/kg intravenously) on either a conventional 28-day (FTD-TPI on days 1-5 and 8-12; bevacizumab on days 1 and 15) or 14-day schedule (FTD-TPI on days 1-5; bevacizumab on day 1). Eligibility criteria were broadened compared with those of conventional explanatory trials, and trial procedures were aligned with routine clinical practice. The primary endpoint was overall survival, analysed in the intention-to-treat population, with a prespecified non-inferiority margin of 1·25. Safety was assessed in all patients who received at least one dose. Missing data were not imputed. This trial is registered with the Japan Registry of Clinical Trials, jRCTs041230120, and is closed to enrolment.<h4>Findings</h4>Between Dec 26, 2023, and May 20, 2025, we randomly assigned 972 patients, of whom 970 (99%) constituted the intention-to-treat population after two were excluded because they were randomly assigned before site approval (486 [50%] to the 28-day treatment group, 292 [60%] men and 194 [40%] women]; and 484 [50%] to the 14-day treatment group, 264 [55%] men and 220 [45%] women). Median follow-up was 17·9 months (IQR 14·3-22·6). Median overall survival was 10·3 months (95% CI 9·5-11·6) in the 28-day group and 11·3 months (10·2-12·5) in the 14-day group (stratified hazard ratio 0·93 [95% CI 0·80-1·08]). The 12-month overall survival rates were 44·0% (95% CI 39·5-48·5) in the 28-day group and 47·5% (42·9-52·0) in the 14-day group. Neutropenia grade 3 or worse was reduced in the 14-day group (13% vs 39%; absolute difference 25 percentage points [95% CI 20-31]), as was anorexia grade 2 or worse (15% vs 26%; absolute difference 11 percentage points [6-16]). Two treatment-related deaths occurred in the 14-day group and none in the 28-day group.<h4>Interpretation</h4>A 14-day schedule of FTD-TPI plus bevacizumab was non-inferior to the conventional 28-day schedule for overall survival, while reducing haematological and gastrointestinal toxicity. These findings support this simplified schedule as the new standard for FTD-TPI plus bevacizumab in refractory metastatic colorectal cancer.<h4>Funding</h4>Japan Society for the Promotion of Science KAKENHI Grant-in-Aid for Challenging Research (Pioneering).
 
 ### [Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026 (CMS-4214-P)](https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms)
 
@@ -206,7 +214,7 @@ The U.S. Food and Drug Administration today granted accelerated approval for a n
 
 No items.
 
-## Archive · 429
+## Archive · 428
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -807,14 +815,6 @@ The U.S. Food and Drug Administration today announced it is taking action, consi
 - Event: `seen` · identity: `pmid:42697586`
 
 After qualifying in medicine, two members of the Darwin family, each of whom had received some of their medical education in the Edinburgh Medical School in the second half of the 18<sup>th</sup> century, set up in medical practice, Erasmus Darwin in Lichfield and his son Robert Waring Darwin in Shrewsbury. William Withering, who had also graduated from the Edinburgh Medical School, was at the same time practising in Birmingham. None of the three had been contemporaries in Edinburgh. In 1788 Withering was consulted by an apothecary in Wellington, Shropshire, about the case of a woman, Mrs Houlston, whom Robert Darwin had attended the day before. Withering thought that Darwin's prescription had been inappropriate and changed it. This led to a series of vituperative epistolary exchanges between the two. Erasmus, Robert's father, may have been involved in the affair, by urging his son to attack Withering and by helping him to write his letters.
-
-### [Wealth redistribution policies to mitigate the impact of development assistance defunding: a retrospective evaluation and forecasting analysis up to 2030.](https://doi.org/10.1016/s0140-6736(26)00975-x)
-
-- Source: `lancet_abstracts` · published `2026-09-07` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42705250`
-
-<h4>Background</h4>The ongoing decline in funding for humanitarian and development assistance stands in stark contrast to the global rise in wealth concentration and widening socioeconomic inequalities. This study aimed to assess whether the implementation of wealth redistribution policies-proposed in recent high-level international agreements to support development-could mitigate the health impact of the current official development assistance (ODA) defunding crisis.<h4>Methods</h4>We conducted an integrated retrospective impact evaluation and forecasting analysis using longitudinal panel data from 59 low-income and lower-middle-income countries. First, we estimated the association between per-capita ODA and mortality outcomes from 2002 to 2021 using two-way fixed-effects multivariable Poisson regression models with robust standard errors, adjusting for key demographic, socioeconomic, and health-system covariates. We did extensive sensitivity and triangulation analyses to assess the robustness and plausibility of the findings. We then evaluated ten wealth redistribution policies with validated country-level microsimulation models to forecast mortality outcomes under alternative wealth redistribution scenarios versus the current defunding scenario from 2026 to 2030.<h4>Findings</h4>In comparison with the baseline ODA category, high ODA funding was associated with a 24% reduction in age-standardised all-cause mortality (rate ratio [RR] 0·76; 95% CI 0·67-0·87) and a 33% reduction in under-5 mortality (0·67; 0·50-0·89). Forecasting analyses showed that, in comparison with the current ODA funding reductions in the 59 selected low-income and lower-middle-income countries, all ten wealth redistribution policies were associated with millions of averted deaths by 2030: overall, the lowest number of averted deaths was 6 591 984 (95% uncertainty interval 4 884 075-8 374 138) for a 3% crypto tax applied to the top 10 000 holders, while the highest number of averted deaths was 29 509 934 (20 273 842-38 603 961) for a 3% wealth tax on ultra-high-net-worth individuals; in children younger than 5 years, the corresponding numbers of averted deaths were 1 312 912 (802 926-1 785 121) for a 3% crypto tax applied to the top 10 000 holders and 3 464 607 (1 235 930-5 609 331) for a 3% wealth tax on ultra-high-net-worth individuals.<h4>Interpretation</h4>The implementation of wealth redistribution policies proposed in recent high-level international agreements could mitigate the health consequences of the current ODA defunding crisis, avert millions of deaths, and support the achievement of the UN Sustainable Development Goals, particularly those related to health.<h4>Funding</h4>Spanish Ministry of Science and Innovation.
 
 ### [Association Between Blood Hemoglobin Concentration and Mortality by Age and Sex : A Prospective Cohort Study.](https://doi.org/10.7326/annals-26-00057)
 
@@ -2616,14 +2616,6 @@ Recommended submission dates for veterinary medicinal products
 
 <p><a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/GettyImages-153155887.jpg 683w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>A new report on third quarter M&amp;A activity in the healthcare sector found that this quarter’s hospital and health system transactions remained steady, with 2026 potentially set to be a top year for total annual transactions since pre-pandemic times. </p> <p>The post <a href="https://medcitynews.com/2026/10/health-system-ma-activity-remains-steady-in-q3-2026-vizient-report-shows/">Report: Health System M&amp;A Activity Remains Steady in Third Quarter</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Abbott plans to spin out its nutrition business](https://www.medtechdive.com/news/abbott-plans-to-spin-out-its-nutrition-business/833601/)
-
-- Source: `medtech_dive_primary` · published `2026-10-21` · freshness `fresh`
-- Reading value: `73` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/abbott-plans-to-spin-out-its-nutrition-business/833601/`
-
-Abbott said Wednesday it plans to spin out its nutrition business into an independent, publicly traded company. The business has approximately $8.5 billion in annual sales and includes brands like Pedialyte, Similac and Ensure. In Abbott’s third quarter, nutrition brought in revenue of $2.26 billion, representing year-over-year growth of about 5%. Abbott’s nutrition business has been at the center of lawsuits as well as a federal investigation into the manufacturing and handling of a recall of powdered infant formula in 2022 due to potential contamination. In September, the company announced a $385 million settlement with the Department of Justice to resolve claims as well as lawsuits filed by certain relators and the attorneys general in several states.
-
 ### [AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation](https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/)
 
 - Source: `medcity_news` · published `2026-10-21` · freshness `fresh`
@@ -2664,14 +2656,6 @@ Background: Cross-domain chest radiograph report generation may produce formally
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp">Ready to turn your daily commute into a high-octane joyride? Waze is bringing the connoisseur of happy chaos to your passenger seat for the arrival of The Cat in the Hat…
 
-### [Enabling surgical precision: Force feedback and coreless BLDC motors in robotic surgery](https://www.medicaldevice-network.com/comment/enabling-surgical-precision-force-feedback-and-coreless-bldc-motors-in-robotic-surgery/)
-
-- Source: `medical_device_network` · published `2026-10-21` · freshness `fresh`
-- Reading value: `24` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/enabling-surgical-precision-force-feedback-and-coreless-bldc-motors-in-robotic-surgery/`
-
-<p>Matthew Dean, head of medical business unit, maxon UK & Ireland, explains how force feedback optimises control in robotic surgery, and why it matters.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/enabling-surgical-precision-force-feedback-and-coreless-bldc-motors-in-robotic-surgery/">Enabling surgical precision: Force feedback and coreless BLDC motors in robotic surgery</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Endometrial ablation plus levonorgestrel-releasing intrauterine system versus endometrial ablation alone in women with heavy menstrual bleeding in The Netherlands (MIRA2): a multicentre, open-label, randomised, controlled, superiority trial.](https://doi.org/10.1016/s0140-6736(26)01536-9)
 
 - Source: `lancet_abstracts` · published `2026-10-21` · freshness `fresh`
@@ -2679,14 +2663,6 @@ Background: Cross-domain chest radiograph report generation may produce formally
 - Event: `seen` · identity: `pmid:42906565`
 
 <h4>Background</h4>Endometrial ablation is an established and effective treatment for women with heavy menstrual bleeding, but many patients require further treatment, with approximately 10% ultimately undergoing a hysterectomy within 2 years. The insertion of a levonorgestrel-releasing intrauterine system (LNG-IUS) immediately after endometrial ablation might inactivate residual untreated endometrium or prevent its regeneration, thereby preventing recurrent symptoms necessitating a hysterectomy. The aim of the study was to assess whether LNG-IUS insertion immediately after endometrial ablation in women with heavy menstrual bleeding reduced the need for subsequent hysterectomy within 2 years compared with endometrial ablation alone.<h4>Methods</h4>This multicentre, open-label, randomised, controlled, superiority trial was conducted in 34 hospitals in the Netherlands. Women younger than 60 years with heavy menstrual bleeding who were eligible for endometrial ablation were included and randomly assigned (1:1) to combined treatment comprising endometrial ablation plus LNG-IUS or to standard care comprising endometrial ablation alone (stratified by dysmenorrhoea and age). Masking was not applied. Endometrial ablation was done using electrical radiofrequency ablation or by transcervical resection of the endometrium. In participants allocated to combined treatment, intrauterine insertion of an LNG-IUS containing a total of 52 mg of levonorgestrel (releasing 20 μg per day in the first year) was done immediately after the ablative procedure. The primary outcome was the incidence of hysterectomy within 2 years, analysed on a modified intention-to-treat basis in all participants with available data. Serious adverse events were systematically assessed at 6 weeks, 12 months, and 24 months after the intervention. This study was registered on the International Clinical Trials Registry Platform (NL-OMON54839) and is complete.<h4>Findings</h4>Between Nov 19, 2019, and April 5, 2023, 715 participants were randomly assigned to combined treatment (n=359) or endometrial ablation alone (n=356). The median age of all participants was 45 years (IQR 40-48). 42 (6%) participants had missing data for the primary outcome at 2 years of follow-up. A hysterectomy was done in 15 (4%) of 342 participants in the combined treatment group versus 34 (10%) of 331 participants in the endometrial ablation group, corresponding to a relative risk (RR) of 0·43 (95% CI 0·24 to 0·77; p=0·0050), with a risk difference of -0·06 (95% CI -0·10 to -0·02; p=0·0040). Serious adverse events were reported in 27 (8%) of 346 participants in the combined treatment group and 26 (8%) of 327 participants in the endometrial ablation alone group (RR 0·98, 95% CI 0·59-1·65; p=0·94), and there were no treatment-related deaths.<h4>Interpretation</h4>The combination of endometrial ablation and LNG-IUS significantly reduced the incidence of hysterectomy compared with endometrial ablation alone. The combined treatment appears to be a safe adjunctive strategy for heavy menstrual bleeding that does not increase the risk of complications.<h4>Funding</h4>The Netherlands Organization for Health Research and Development.
-
-### [Gen AI policy is a White House priority, CDRH digital health leader says](https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/)
-
-- Source: `medtech_dive_primary` · published `2026-10-21` · freshness `fresh`
-- Reading value: `41` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/4Q0ARDxj9w2TJL1NXxMRx2AEd-Qyl2NiBTnhl704ujw/g:nowe:0:270/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BZHZhbWVkX0FJX3BhbmVsXzEuanBn.webp"/></div></figure><p>Rick Abramson, director of the FDA&rsquo;s Digital Health Center of Excellence, said to expect draft guidance in the coming months.</p>
 
 ### [GSK Wins FDA Nod for Novel Hepatitis B Drug Offering a Potential Functional Cure](https://medcitynews.com/2026/10/gsk-chronic-hepatitis-b-fda-approval-bepirovirsen-hibsago-functional-cure-ionis-aso-ions/)
 
@@ -2807,22 +2783,6 @@ Startup acquisitions can reshape employees’ finances and careers, with individ
 - Event: `seen` · identity: `url:https://news.crunchbase.com/venture/ai-edtech-healthcare-reach-capital-qa-kim/`
 
 Crunchbase News spoke with James Kim, partner at Reach Capital, about how Reach’s education roots inform its broader strategy, what it saw in AI detection company GPTZero, and why some of its best investments initially divided its own team. We also discussed how ownership stakes and secondary transactions have shaped the firm’s approach to returning capital.
-
-### [<b>Milk multi-omics links maternal health to infant growth</b>](https://www.nature.com/articles/d41591-026-00053-z)
-
-- Source: `nature_medicine` · published `2026-10-22` · freshness `fresh`
-- Reading value: `43` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00053-z`
-
-Researchers identify biomarkers that explain how maternal health is linked to mammary gland function, breast milk composition and infant growth, highlighting maternal nutrition as a public health priority.
-
-### [A hybrid framework for Turner Syndrome facial detection: integrating deep feature learning and geometric prior knowledge under data scarcity](https://www.nature.com/articles/s41746-026-03221-0)
-
-- Source: `npj_digital_medicine` · published `2026-10-22` · freshness `fresh`
-- Reading value: `57` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03221-0`
-
-Turner Syndrome (TS) is a chromosomal disorder characterized by growth retardation and congenital ovarian dysgenesis. Given the considerable morbidity and mortality, early diagnosis and timely intervention are crucial to improving outcomes. However, the gold standard diagnostic method, karyotype analysis, is time-consuming and requires specialized laboratory expertise. Since TS patients often present distinct facial features, AI-based facial recognition could help identify patients with characteristic appearance as a screening tool. Inspired by the value-of-information principle, we propose a hybrid framework integrating deep feature learning and geometric prior knowledge under data scarcity. We retrospectively constructed this AI facial recognition model for TS detection and validated it in a prospective cohort. The proposed framework achieved 95.41% accuracy, 96.55% sensitivity, and 95.24% specificity, substantially simplifying the diagnostic process. When training was performed only on the hard subset obtained after difficulty-based stratification into three equal groups, the sensitivity reached 100.00%, indicating that all patients were correctly identified. Grad-CAM visualization of key facial regions improved model interpretability and aligned predictions with clinical insights. Our method offers a low-cost and easily accessible approach to TS screening. By allowing for an earlier detection of TS, particularly in medical resource-limited settings, this method has the potential to facilitate timely interventions. This novel paradigm also provides insight for facial recognition-aided diagnosis in other diseases.
 
 ### [Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years](https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/)
 
@@ -2975,14 +2935,6 @@ The electronic health record (EHR) comprises structured and unstructured data, b
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e93996/`
 
 Background: The increasing availability of machine-readable research data has created a growing need for efficient large-scale data harmonization (DH). Although large language models (LLMs) show promise for reducing the time and labor required for DH, their effective integration into harmonization workflows remains an important methodological challenge. Objective: This study aims to develop and evaluate a semiautomated, human-in-the-loop (HITL) LLM-assisted DH workflow as a proof of concept across 8 projects within a research consortium focused on disparities in multiple chronic conditions. Methods: We developed an LLM-assisted DH workflow that combined preprocessing, semantic mapping, variable response mapping, synthetic data generation, data transformation, and iterative researcher review. Using Generative Pretrained Transformer (GPT-4o) hosted in a secure academic environment, project-specific survey items were mapped to 114 Consortium Common Data Element (CDE) semantic groups. Semantic mapping accuracy was evaluated based on the Consortium’s consensus harmonization results. Complete and incomplete semantic mappings were distinguished according to construct overlap, and incomplete mappings requiring context-dependent human judgment were excluded for mapped item pairs and CDE semantic groups with and without HITL review. Results: Following preprocessing, 884 survey items were included in the DH workflow, of which 812 were mapped to a mean of 79 CDE semantic groups per project. Mean semantic mapping accuracy for item pairs was 95.9% (SD 5.7%) with HITL review and 86.7% (SD 8.6%) without HITL review. At the CDE semantic-group level, the corresponding accuracies were 98.9% (SD 1.7%) and 94.9% (SD 4.0%), respectively. Across projects, omission of valid semantic mappings occurred more frequently than incorrect semantic mappings, particularly for heterogeneous response structures and subjective constructs measured using different instruments. Pipeline components—including concept-based preprocessing, iterative prompt refinement, and targeted HITL review—improved mapping completeness and supported variable harmonization across heterogeneous datasets. Conclusions: This proof-of-concept study demonstrates that the effectiveness of LLM-assisted DH depends more on the design of a structured HITL workflow rather than on the LLM alone. Combining preprocessing, iterative verification, and targeted human oversight improved the efficiency and reliability of DH while preserving researcher judgment for complex mapping decisions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/73dab303e7a1c55be905e262200f6a57" />
-
-### [Multi-scale integration identifies an ox-LDL-autophagy-inflammasome framework linking osteoporosis and neurodegeneration](https://www.nature.com/articles/s41746-026-03371-1)
-
-- Source: `npj_digital_medicine` · published `2026-10-22` · freshness `fresh`
-- Reading value: `49` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03371-1`
-
-Osteoporosis (OP) and neurodegeneration frequently co-occur with advancing age, but the biological processes linking skeletal and neurological decline remain incompletely understood. To investigate the metabolic-inflammatory axis connecting skeletal and neurological degeneration, we integrated cross-tissue multi-omics, single-cell transcriptomics, in vitro macrophage assays, and systems-level ordinary differential equation (ODE)-based modeling. Population-level and genetically informed analyses consistently implicated metabolic burden and lipid-associated stress in both disease domains, whereas physical activity showed protective associations. Cross-tissue and single-cell analyses identified convergent autophagy- and inflammasome-related programs, while cross-tissue multi-omics highlighted a PHF23-MCL1-CLN3 autophagy-associated molecular module. In RAW264.7 macrophages, oxidized low-density lipoprotein (ox-LDL) exposure induced inflammatory activation, pro-inflammatory polarization, and autophagy-associated dysregulation, while PHF23 perturbation modified ox-LDL-induced inflammatory responses. A 12-state ODE model further provided a hypothesis-generating representation of dynamic interactions among ox-LDL-associated metabolic stress, autophagy regulation, inflammasome activation, macrophage polarization, and tissue-damage-related states. Together, these multi-scale findings provide convergent support for an ox-LDL-autophagy-inflammasome-associated framework linking metabolic dysfunction with skeletal and neurological degeneration and generate testable hypotheses for further experimental investigation.
 
 ### [Notice of NEI Participation in PAR-27-077 NIH Science Education Partnership Award (SEPA) (R25 - Clinical Trial Not Allowed)](http://grants.nih.gov/grants/guide/notice-files/NOT-EY-27-004.html)
 
@@ -3192,6 +3144,14 @@ Human trials in dietary and cosmetic domains generate large volumes of multimoda
 
 Over the last 2 decades, a large global marketplace has emerged in which businesses use direct-to-consumer advertising to sell putative stem cell treatments that are unsupported by convincing scientific evidence of safety and efficacy. It is common for such purported stem cell therapies not to have been reviewed and approved by national regulatory authorities, even though they are supposed to undergo rigorous premarketing review by regulatory bodies responsible for evaluating such medical products and determining whether they are backed by sufficient evidence to warrant approval. The marketing claims, commercial activities, and clinical practices of such businesses have resulted in patients experiencing serious harms, including loss of life, physical injuries, financial losses, and avoidable delays in accessing evidence-based treatments. Such businesses are also responsible for collective harms, including diverting patients from participating in legitimate stem cell clinical studies, damaging the field of credible stem cell research, and contributing to public confusion and misunderstandings about how to distinguish evidence-based stem cell therapies from stem cell interventions that are not backed by robust data. Researchers in bioethics, health law, the social sciences, and other academic fields have made important contributions to the critical analysis of direct-to-consumer digital marketing claims made by businesses selling unproven and unapproved stem cell interventions. Scholars studying such marketing representations have documented the use of persuasive “tokens of legitimacy” to make advertised stem cell interventions seem credible, trustworthy, and backed by current scientific evidence. Acknowledging the value of such scholarship, there is a growing need for the development of best practices in research methods and data-archiving practices. In particular, there is a need for increased digital archiving of online marketing claims made by businesses selling supposed stem cell treatments. Numerous parties can benefit from increased digital archiving of such problematic marketing representations. However, analyzing, archiving, and critiquing the marketing claims, business operations, and clinical practices of such businesses must be done in a careful, rigorous, and evidence-based manner that is attentive to the intimidating tactics some of these businesses use when responding to public criticism. Researchers need to document the marketing representations made by businesses selling unapproved and unproven stem cell interventions in ways that minimize exposure to legal threats and other efforts to suppress critical analysis. Using the Wayback Machine or other comparable archiving tools to create digital repositories of such marketing representations is one way to mitigate such threats, by capturing the exact claims such businesses make when promoting putative stem cell therapies. Archiving such digital marketing representations is important for academic research and can play a valuable role in other contexts, such as in legal actions taken against businesses using purportedly deceptive marketing claims to sell unproven and unapproved stem cell-based interventions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/57750c7523501afd27939aef8ed3b530" />
 
+### [Edwards wins FDA approval for tricuspid valve repair device](https://www.medtechdive.com/news/edwards-wins-fda-approval-for-tricuspid-valve-repair-device/833815/)
+
+- Source: `medtech_dive_primary` · published `2026-10-23` · freshness `fresh`
+- Reading value: `68` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/edwards-wins-fda-approval-for-tricuspid-valve-repair-device/833815/`
+
+Edwards Lifesciences has won Food and Drug Administration approval for its Pascal Precision system for tricuspid valve repair, the company said Wednesday. Pascal’s expanded label covers use in patients with symptomatic severe tricuspid regurgitation. Edwards previously received FDA approval for the device in degenerative mitral regurgitation. The approval should expand the group of tricuspid repair patients that Edwards can treat, Leerink Partners said in a note to investors.
+
 ### [Electrocardiogram Embeddings Beyond Chronological Age for Prediagnostic Cognitive Impairment and Dementia: Development and External Validation Study](https://www.jmir.org/article/view/jmir_v28i1e108392)
 
 - Source: `jmir` · published `2026-10-23` · freshness `fresh`
@@ -3239,6 +3199,14 @@ Background: Major adverse renal and cardiovascular events (MARCE) have been prop
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03372-0`
 
 Standardized patients (SPs) are central to clinical communication training but remain constrained by cost, scalability, and reliance on trained actors. We present AI standardized patients (AI-SPs), large language model–driven patient simulators built on a three-layer information architecture that adaptively modulates information disclosure according to learner skill. In Phase 1, blinded expert assessment of 350 simulated consultations generated by five frontier LLMs showed that, under a common architecture, learner skill level accounted for more of the observed performance variation than model choice (η2&nbsp;=&nbsp;0.31 vs. 0.06); whether this reflects the architecture itself cannot be determined without comparing models with and without it. In Phase 1b, analysis of 155 live student consultations identified systematic failures to elicit safety-critical information, enabling automated curriculum diagnostics without expert observation. In a Phase 2 three-arm pilot randomized study (n&nbsp;=&nbsp;58), OSCE performance gains with AI-SP training did not differ significantly from those with human SP training; the trial was designed to estimate effect sizes for a future confirmatory study, not to demonstrate equivalence. Self-efficacy gains were numerically largest with AI-SP training, but this exploratory difference did not survive correction for multiple comparisons. These findings suggest that architecture-driven AI-SPs could provide a scalable, model-portable approach to clinical communication training.
+
+### [GE HealthCare’s SOFIE deal deepens a complicated relationship with Lantheus](https://www.medicaldevice-network.com/analyst-comment/ge-healthcare-sofie-deal-lantheus/)
+
+- Source: `medical_device_network` · published `2026-10-23` · freshness `fresh`
+- Reading value: `63` · status: `scored`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/analyst-comment/ge-healthcare-sofie-deal-lantheus/`
+
+<p>GE HealthCare’s planned $945m acquisition of SOFIE Biosciences has been read as a move to protect supply for Flyrcado, its cardiac PET agent</p> <p>The post <a href="https://www.medicaldevice-network.com/analyst-comment/ge-healthcare-sofie-deal-lantheus/">GE HealthCare’s SOFIE deal deepens a complicated relationship with Lantheus</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Gilead to Pay $1.3B for Oral Peptide That Could Rival J&J’s New Immunology Pill](https://medcitynews.com/2026/10/gilead-sciences-oral-peptide-il-23-inhibitor-pepstar-immunology-inflammation-ibd-gild/)
 
@@ -3360,14 +3328,6 @@ This week on the “The Readout LOUD” podcast, we remember our beloved colleag
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp">See how five builders are putting Gemini 4 Argon to work — and get inspired for your next build.
 
-### [STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion](https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
-- Reading value: `59` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss`
-
-AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.
-
 ### [STAT+: Diabetes association says ‘threat’ preceded members’ ejections, but admits policies were unclear](https://www.statnews.com/2026/10/23/ada-new-orleans-convention-new-report-on-controversial-june-ejections/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
@@ -3408,22 +3368,6 @@ An MS treatment from Novartis cut by a third the rates of relapses compared to a
 
 Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?
 
-### [STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more](https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
-- Reading value: `51` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss`
-
-A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment
-
-### [STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes](https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
-- Reading value: `42` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss`
-
-What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.
-
 ### [STAT+: Tango builds on Revolution Medicines’ pancreatic cancer success](https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
@@ -3431,22 +3375,6 @@ What state officials scrambling to implement Medicaid work requirements shared b
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/?utm_campaign=rss`
 
 As the ESMO conference kicks off, Tango's pancreatic cancer combination shows striking promise and detailed data on Moderna and Merck's cancer vaccine is released early.
-
-### [STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer](https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
-- Reading value: `58` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss`
-
-An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.
-
-### [STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector](https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-23` · freshness `fresh`
-- Reading value: `70` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss`
-
-A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals.
 
 ### [STAT+: Up and down the ladder: The latest comings and goings](https://www.statnews.com/pharmalot/2026/10/23/up-and-down-ladder-pharma-jobs-callio/?utm_campaign=rss)
 
@@ -3555,10 +3483,10 @@ Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bl
 ### [Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.](https://doi.org/10.1001/jama.2026.19921)
 
 - Source: `jama_abstracts` · published `2026-10-24` · freshness `fresh`
-- Reading value: `65` · status: `scored`
-- Event: `seen` · identity: `pmid:42925557`
+- Reading value: `63` · status: `scored`
+- Event: `updated` · identity: `pmid:42925557`
 
-In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear. To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator. PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026. Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease. Three reviewers independently extracted data and results were pooled using random-effects meta-analysis. Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin). A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001). In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.
+<h4>Importance</h4>In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear.<h4>Objective</h4>To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator.<h4>Data sources</h4>PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026.<h4>Study selection</h4>Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease.<h4>Data extraction and synthesis</h4>Three reviewers independently extracted data and results were pooled using random-effects meta-analysis.<h4>Main outcomes and measures</h4>Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin).<h4>Results</h4>A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001).<h4>Conclusions and relevance</h4>In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.
 
 ### [STAT+: The ESMO presentation everyone’s been waiting for](https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss)
 
@@ -3574,13 +3502,13 @@ Moderna and Merck's 'presidential' presentation, and other news from Day 2 of th
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://lynchlab.net/llm-skin-cancer`
 
-Hacker News community signal; score 420.
+Hacker News community signal; score 559.
 
 ### [CareValidate Launches Expanded HRT Offering](https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/)
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `27` · status: `scored`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/`
 
 <p><a href="https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/"><img width="600" height="298" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-600x298.jpg" class="attachment-large size-large wp-post-image" alt="menopause women" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-600x298.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-300x149.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-768x381.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549.jpg 838w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>CareValidate expanded its HRT offering for telehealth companies, combining hormone therapy with provider access, pharmacy services and AI-powered care coordination.</p> <p>The post <a href="https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/">CareValidate Launches Expanded HRT Offering</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3604,7 +3532,7 @@ Hacker News community signal; score 420.
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
 
 <p><a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/"><img width="600" height="394" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-300x197.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-768x504.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. </p> <p>The post <a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/">Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3614,13 +3542,13 @@ Hacker News community signal; score 420.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://minimaxir.com/2026/10/cheap-llms/`
 
-Hacker News community signal; score 126.
+Hacker News community signal; score 313.
 
 ### [Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR](https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/)
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `35` · status: `needs_review`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
 
 <p><a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not.</p> <p>The post <a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/">Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3639,6 +3567,78 @@ After 100 years, there's finally an effective cancer vaccine. Now comes the push
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss`
 
 AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.
+
+### [Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable non-small-cell lung cancer: the phase 2 MDT-BRIDGE trial](https://www.nature.com/articles/s41591-026-04742-7)
+
+- Source: `nature_medicine` · published `2026-10-26` · freshness `fresh`
+- Reading value: `60` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04742-7`
+
+The phase 2 MDT-BRIDGE study is investigating perioperative durvalumab plus neoadjuvant chemotherapy (AEGEAN regimen) in resectable and borderline resectable non-small-cell lung cancer and chemoradiotherapy (CRT) followed by consolidation durvalumab (PACIFIC regimen) in patients who become unresectable after neoadjuvant chemoimmunotherapy guided by multidisciplinary team assessments during the neoadjuvant period. The primary endpoint was the overall resection rate (descriptive with no formal hypothesis testing). Secondary endpoints included event-free survival, progression-free survival, pathological complete response rate (resectable patients cohort), circulating tumor DNA clearance between baseline and presurgery/pre-CRT and safety. Overall, 142 patients received neoadjuvant treatment; 64.8% and 35.2% were deemed resectable and borderline resectable at baseline, respectively. The overall resection rate (95% confidence interval) was 74.6% (66.7‒81.6) in a population that included more than one-third of patients with borderline resectable disease. R0 resection rate was 96.2% (90.6‒99.0) in those who underwent surgery. Overall, 131 (92.3%) patients had surgery (n = 106) or CRT (n = 25) after neoadjuvant treatment, and 117 (82.4%) patients received adjuvant (n = 94) or consolidation (n = 23) durvalumab. During adjuvant or consolidation durvalumab, maximum grade 3/4 adverse events occurred in 7.4% of resected patients and 17.4% of CRT-treated patients, with 8.5% and 13.0% discontinuing treatment due to adverse events. This multidisciplinary team-guided approach was feasible and enabled delivery of curative-intent treatment (surgery or CRT), followed by durvalumab in most patients, and demonstrated encouraging preliminary efficacy with a manageable adjuvant or consolidation safety profile that was consistent with prior studies. ClinicalTrials.gov identifier: NCT05925530 . As presented at the ESMO Congress 2026: In the global phase 2 MDT-BRIDGE trial, neoadjuvant durvalumab plus chemotherapy in patients with resectable and borderline resectable non-small-cell lung cancer, followed by multidisciplinary reassessment, enabled surgery in most patients, leading to encouraging pathological complete response rates, and no additional safety concerns were reported when patients with unresectable tumors continued with chemoradiotherapy and consolidative durvalumab.
+
+### [Opinion: Could long-term AI use lead to isolation? We need to find out — but researchers need better access to data](https://www.statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-26` · freshness `fresh`
+- Reading value: `29` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing/?utm_campaign=rss`
+
+“What we don’t know is whether people are disconnecting from one another, gradually, over months of interacting with chatbots,” researchers write.
+
+### [Opinion: How bad is healthy supposed to feel?](https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-26` · freshness `fresh`
+- Reading value: `15` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss`
+
+“We shouldn't confuse illness and the hardships that come with living,” writes family nurse practitioner Kirsten Balin.
+
+### [Reshoring prompts crucial decisions for medical device manufacturers](https://www.medtechdive.com/spons/reshoring-prompts-crucial-decisions-for-medical-device-manufacturers/833068/)
+
+- Source: `medtech_dive_primary` · published `2026-10-26` · freshness `fresh`
+- Reading value: `43` · status: `scored`
+- Event: `new` · identity: `url:https://www.medtechdive.com/spons/reshoring-prompts-crucial-decisions-for-medical-device-manufacturers/833068/`
+
+<p>For medical device manufacturers, reshoring has been discussed for years. Now, many are putting it into action and hitting familiar capacity challenges along the way.</p>
+
+### [STAT+: Moderna CEO on what’s next after success in cancer vaccine](https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-26` · freshness `fresh`
+- Reading value: `35` · status: `scored`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss`
+
+Moderna's CEO Stéphane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.
+
+### [STAT+: NIH’s new vaccine injury center has broad goals beyond RFK Jr.’s focus on shots](https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-26` · freshness `fresh`
+- Reading value: `44` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss`
+
+The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.
+
+### [Systemwide adoption patterns of ambient AI scribe technology in an integrated academic health system](https://www.nature.com/articles/s41746-026-03326-6)
+
+- Source: `npj_digital_medicine` · published `2026-10-26` · freshness `fresh`
+- Reading value: `58` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03326-6`
+
+Ambient artificial intelligence (AI) scribes may reduce documentation burden, but little is known about their adoption during enterprise-scale ambulatory rollout. We conducted a retrospective observational cohort study of 2901 ambulatory clinicians at an integrated academic health system using linked electronic health record and vendor usage data from December 2024 through May 2025. Clinician adoption was defined as any use during the study period, and monthly visit-level uptake as the proportion of eligible ambulatory visits in which the ambient AI scribe was used. Adoption and uptake varied substantially across practice settings, specialties, and clinician types. Clinician-level adoption was highest in community internal medicine (67%), community general pediatrics (69%), and academic neurology (53%), and lowest in academic general surgery (16%), obstetrics and gynecology (18%), and psychiatry (19%). Community attending physicians and advanced practice providers showed marked increases in median visit-level uptake, reaching approximately 80%-90% in some groups by May 2025. Distinct longitudinal patterns included slow and steady adoption, early use followed by discontinuation, transient use, and late adoption. These findings suggest that implementation support and evaluation strategies should be tailored to local practice context rather than applied uniformly across a health system.
+
+### [The 4 stages of women’s heart health: Experts present new framework](https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-26` · freshness `fresh`
+- Reading value: `31` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss`
+
+New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.
+
+### [Visual-affective decoding enhances neurofunctional objective and generalizable signatures in unseen adolescent depression diagnosis](https://www.nature.com/articles/s41746-026-03413-8)
+
+- Source: `npj_digital_medicine` · published `2026-10-26` · freshness `fresh`
+- Reading value: `69` · status: `scored`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03413-8`
+
+Adolescent major depressive disorder is a highly prevalent and debilitating condition, yet objective and generalizable neurofunctional signatures remain elusive. Existing neuroimaging approaches largely rely on resting-state fMRI, or controlled tasks often lack ecological validity and generalizable signatures of depression-related neural dysfunctions. This study proposes a Visual–Affective Decoding (VAD) framework integrating cross-subject visual and affective decoding from whole-brain fMRI acquired during naturalistic movie viewing. A dual-pathway anomaly detection model trained exclusively on healthy controls establishes normative brain function and identifies MDD through deviations from this norm. In 200 adolescents (112 MDD, 88 HC), VAD achieved an AUC of 0.87, 95.56% sensitivity, 83.89% accuracy, and 72.22% specificity. Using the same anomaly threshold, it generalized to an independent external adolescent cohort (70 MDD, 68 HC), achieving an AUC of 0.81 with an accuracy of 75.36%, supporting its cross-site generalizability. VAD further revealed interpretable neurofunctional signatures, including blunted emotional reactivity, attenuated visual representation, and affective patterns consistent with emotional rumination. Region-level contribution analyses identified dissociable visual- and affective-sensitive cortical regions, consistent with dysfunctions in visual, default-mode, salience, and higher-order associative networks. These findings demonstrate that VAD provides objective, interpretable, and generalizable neurofunctional signatures for adolescent depression diagnosis and clinically relevant biomarker development.
 
 ---
 
