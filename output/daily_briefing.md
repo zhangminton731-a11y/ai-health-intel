@@ -2224,14 +2224,6 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp">Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.
 
-### [Why Epic Is Launching a Prescription Price Comparison Tool](https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/)
-
-- Source: `medcity_news` · published `2026-10-16` · freshness `fresh`
-- Reading value: `35` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/`
-
-<p><a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/05/healthcare-prescription-costs-cagkansayin.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Epic will launch a tool in summer 2027 to help patients compare prescription cash prices and insurance costs across pharmacies.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-epic-is-launching-a-prescription-price-comparison-tool/">Why Epic Is Launching a Prescription Price Comparison Tool</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform](https://medcitynews.com/2026/10/allswell-raises-7m-to-grow-lgbtq-behavioral-health-platform/)
 
 - Source: `medcity_news` · published `2026-10-18` · freshness `fresh`
@@ -3580,9 +3572,17 @@ Moderna and Merck's 'presidential' presentation, and other news from Day 2 of th
 
 - Source: `hn_ai_health_signals` · published `2026-10-25` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://lynchlab.net/llm-skin-cancer`
+- Event: `updated` · identity: `url:https://lynchlab.net/llm-skin-cancer`
 
-Hacker News community signal; score 365.
+Hacker News community signal; score 420.
+
+### [CareValidate Launches Expanded HRT Offering](https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/)
+
+- Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
+- Reading value: `27` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/`
+
+<p><a href="https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/"><img width="600" height="298" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-600x298.jpg" class="attachment-large size-large wp-post-image" alt="menopause women" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-600x298.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-300x149.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549-768x381.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/10/GettyImages-1396004549.jpg 838w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>CareValidate expanded its HRT offering for telehealth companies, combining hormone therapy with provider access, pharmacy services and AI-powered care coordination.</p> <p>The post <a href="https://medcitynews.com/2026/10/carevalidate-launches-expanded-hrt-offering/">CareValidate Launches Expanded HRT Offering</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Congress’s Patient Matching Fix Won’t Work — Here’s What Would](https://medcitynews.com/2026/10/congresss-patient-matching-fix-wont-work-heres-what-would/)
 
@@ -3604,25 +3604,25 @@ Hacker News community signal; score 365.
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/`
 
-<p><a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/"><img width="600" height="394" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-300x197.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-768x504.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. </p> <p>The post <a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/">Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/"><img width="600" height="394" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-300x197.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-768x504.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1.jpg 1024w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. </p> <p>The post <a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/">Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
 
 - Source: `hn_ai_health_signals` · published `2026-10-25` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://minimaxir.com/2026/10/cheap-llms/`
+- Event: `updated` · identity: `url:https://minimaxir.com/2026/10/cheap-llms/`
 
-Hacker News community signal; score 53.
+Hacker News community signal; score 126.
 
 ### [Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR](https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/)
 
 - Source: `medcity_news` · published `2026-10-25` · freshness `fresh`
 - Reading value: `35` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/`
 
-<p><a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not.</p> <p>The post <a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/">Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/12/GettyImages-177052337.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>In most organizations the default access model was built for patient care, not for protecting colleagues. A nurse on another unit, a resident who rotated with them, a department administrator: any of them may technically be able to open the record, even when policy says they should not.</p> <p>The post <a href="https://medcitynews.com/2026/10/physician-mental-health-and-health-system-privacy-why-doctors-avoid-their-own-ehr/">Physician Mental Health and Health System Privacy: Why Doctors Avoid Their Own EHR</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [STAT+: After a cancer vaccine’s first success, the race is on to expand the impact](https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss)
 
