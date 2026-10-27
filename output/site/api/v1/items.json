@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T13:12:55+00:00",
-  "as_of": "2026-10-27",
-  "count": 21,
+  "generated_at": "2026-10-27T18:42:09+00:00",
+  "as_of": "2026-10-28",
+  "count": 20,
   "items": [
     {
       "id": "pmid:42904878",
@@ -1807,128 +1807,6 @@
             },
             "support": "rituximab was not superior to azathioprine for improving the duration of total remission during 28 months while taking prednisone at 7.5 mg/d or less",
             "total": 76
-          }
-        ],
-        "score": 73,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41746-026-03408-5",
-      "title": "对错误临床人工智能的人工监督和决策支持系统审查和荟萃分析",
-      "original_title": "Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis",
-      "summary": "人工智能 (AI) 越来越多地支持临床决策，但只有当临床医生认识到并抵制错误输出时，人类监督才具有保护作用。我们系统地回顾了临床医生对不正确的自动建议的反应的对照研究和现实世界研究。 46 份报告代表 41 个独立群组，其中包括 40 个核心群组。在三个调整后的队列中，临床医生正确的自动建议的正确性明显高于错误的自动建议（汇总 OR 10.19，95% CI 7.43–13.98；I² = 0%）； a ≥ 2020 的敏感性分析相似但不精确（OR 9.22，95% CI 2.06–41.13）。在四项异构真实世界计算机心电图研究中，26.6% 的错误解释未被纠正或识别（95% CI 6.4–65.6%；I² = 95.8%）。",
-      "url": "https://www.nature.com/articles/s41746-026-03408-5",
-      "source": "npj Digital Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-23",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "npj_digital_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "npj_digital_medicine",
-        "summary_source": "https://www.nature.com/articles/s41746-026-03408-5",
-        "upstream_id": "https://www.nature.com/articles/s41746-026-03408-5"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "analysis"
-      ],
-      "recommendation_reasons": {
-        "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
-      },
-      "reading_value_score": 73,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-23T23:52:21+00:00",
-        "input_hash": "74d21deaa3f70d057eb3818459ba5374c99cd35f1004be125538f7e1404d8978",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "系统综述量化了医生对错误AI建议的依从风险（错误输出下正确率大幅下降，ECG错误中约26.6%未被纠正），对临床AI部署的人机监督设计有直接参考价值；但汇集队列极少、异质性极高，结论精度有限。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102407521433ce2ffdf82d4e19",
-              "seconds": 2.69,
-              "usage": {
-                "completion_tokens": 124,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 991,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1115
-              }
-            },
-            "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261024075217bab4a592469c4e68",
-              "seconds": 4.34,
-              "usage": {
-                "completion_tokens": 169,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 991,
-                "prompt_tokens_details": {
-                  "cached_tokens": 960
-                },
-                "total_tokens": 1160
-              }
-            },
-            "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
-            "total": 69
           }
         ],
         "score": 73,

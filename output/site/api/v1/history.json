@@ -1,9 +1,140 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T13:12:55+00:00",
-  "as_of": "2026-10-27",
+  "generated_at": "2026-10-27T18:42:09+00:00",
+  "as_of": "2026-10-28",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03408-5",
+      "t": "对错误临床人工智能的人工监督和决策支持系统审查和荟萃分析",
+      "te": "Human oversight of erroneous clinical AI and decision support a systematic review and meta analysis",
+      "s": "人工智能 (AI) 越来越多地支持临床决策，但只有当临床医生认识到并抵制错误输出时，人类监督才具有保护作用。我们系统地回顾了临床医生对不正确的自动建议的反应的对照研究和现实世界研究。 46 份报告代表 41 个独立群组，其中包括 40 个核心群组。在三个调整后的队列中，临床医生正确的自动建议的正确性明显高于错误的自动建议（汇总 OR 10.19，95% CI 7.43–13.98；I² = 0%）； a ≥ 2020 的敏感性分析相似但不精确（OR 9.22，95% CI 2.06–41.13）。在四项异构真实世界计算机心电图研究中，26.6% 的错误解释未被纠正或识别（95% CI 6.4–65.6%；I² = 95.8%）。",
+      "se": "Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. We systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports represented 41 independent cohort clusters, including 40 core cohorts. Across three adjusted cohorts, clinician correctness was substantially higher with correct than incorrect automated advice (pooled OR 10.19, 95% CI 7.43–13.98; I² = 0%); a ≥ 2020 sensitivity analysis was similar but imprecise (OR 9.22, 95% CI 2.06–41.13). In four heterogeneous real-world computerized ECG studies, 26.6% of erroneous interpretations were not corrected or recognized (95% CI 6.4–65.6%; I² = 95.8%).",
+      "u": "https://www.nature.com/articles/s41746-026-03408-5",
+      "image": "",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "design",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03408-5",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03408-5"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T23:52:21+00:00",
+        "input_hash": "74d21deaa3f70d057eb3818459ba5374c99cd35f1004be125538f7e1404d8978",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "系统综述量化了医生对错误AI建议的依从风险（错误输出下正确率大幅下降，ECG错误中约26.6%未被纠正），对临床AI部署的人机监督设计有直接参考价值；但汇集队列极少、异质性极高，结论精度有限。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102407521433ce2ffdf82d4e19",
+              "seconds": 2.69,
+              "usage": {
+                "completion_tokens": 124,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1115
+              }
+            },
+            "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261024075217bab4a592469c4e68",
+              "seconds": 4.34,
+              "usage": {
+                "completion_tokens": 169,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 991,
+                "prompt_tokens_details": {
+                  "cached_tokens": 960
+                },
+                "total_tokens": 1160
+              }
+            },
+            "support": "Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety.",
+            "total": 69
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "5 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04734-7",
       "t": "胰腺癌中淋巴结靶向、mKRAS 特异性两亲疫苗：随机 2 期 AMPLIFY-7P 试验",
@@ -126,7 +257,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
@@ -257,7 +388,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
@@ -385,7 +516,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-22",
       "reasons": {
         "industry": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。"
@@ -514,7 +645,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
@@ -644,7 +775,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -773,7 +904,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
@@ -899,7 +1030,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -1029,7 +1160,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
@@ -1159,7 +1290,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
@@ -1291,7 +1422,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -1422,7 +1553,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -1550,7 +1681,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -1677,7 +1808,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。"
@@ -1808,7 +1939,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -1941,7 +2072,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
@@ -2073,7 +2204,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
@@ -2204,7 +2335,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
@@ -2336,7 +2467,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
@@ -2467,7 +2598,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
@@ -2598,7 +2729,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
@@ -2729,7 +2860,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
@@ -2863,7 +2994,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
@@ -2994,7 +3125,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
@@ -3125,7 +3256,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -3256,7 +3387,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-12",
       "reasons": {
         "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
@@ -3384,7 +3515,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-08",
       "reasons": {
         "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
@@ -3514,7 +3645,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
@@ -3644,261 +3775,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-08",
       "reasons": {
         "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
-      "t": "苹果被责令向 Masimo 支付 1.84 亿美元专利损害利息",
-      "te": "Apple ordered to pay Masimo $184M in interest on patent damages",
-      "s": "美国地区法院已下令苹果公司就陪审团去年裁定的损害赔偿金向 Masimo 支付 1.842 亿美元利息。该利息涵盖陪审团一年前要求苹果公司向 Masimo 支付 6.34 亿美元的赔偿金。苹果公司收到该命令是因为其 Apple Watch 产品侵犯了脉搏血氧饱和度专利。美国加利福尼亚州中区地方法院周一在利息裁决中站在 Masimo 一边，使苹果公司需要支付的总额超过 8.18 亿美元。丹纳赫 6 月份以 99 亿美元收购了 Masimo。",
-      "se": "A U.S. district court has ordered Apple to pay Masimo $184.2 million in interest on the damages a jury awarded last year. The interest covers the $634 million in damages that a jury ordered Apple to pay Masimo one year ago. Apple received the order because its Apple Watch product infringed a pulse oximetry patent. A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million. Danaher bought Masimo for $9.9 billion in June.",
-      "u": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
-      "image": "https://imgproxy.divecdn.com/DEgf2z3E8dtHSbz8ET23QBxDk3r3j-es0pZ2MzUVHR0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1MjgxNjY3LmpwZw==.webp",
-      "src": "MedTech Dive",
-      "role": "专业媒体",
-      "cat": "专业媒体",
-      "trust": 2,
-      "sourceType": "专业媒体",
-      "topics": [],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "products"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "image_url": "https://imgproxy.divecdn.com/DEgf2z3E8dtHSbz8ET23QBxDk3r3j-es0pZ2MzUVHR0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1MjgxNjY3LmpwZw==.webp",
-        "observed_in_sources": [
-          "medtech_dive_primary"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "medtech_dive_primary",
-        "summary_source": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
-        "upstream_id": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 76,
-      "editorial": {
-        "audiences": [
-          "industry"
-        ],
-        "evaluated_at": "2026-10-08T01:01:46+00:00",
-        "input_hash": "4f3ab2044fa3a137042256cd75496a6f3fb79ddeaca288c8778dbe763355b34e",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 5
-            },
-            "kind": "industry",
-            "reason": "这是已发生的法院裁决事实：Apple Watch因侵犯Masimo血氧专利被判6.34亿美元赔偿，加上1.842亿美元利息合计超8.18亿美元，对可穿戴健康传感器的专利布局与合规风险评估有直接参考价值；但材料为简短报道，未披露裁决细节及后续禁售或和解影响。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026100809013804821c8723ae4618",
-              "seconds": 4.23,
-              "usage": {
-                "completion_tokens": 169,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 6
-                },
-                "prompt_tokens": 940,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1109
-              }
-            },
-            "support": "A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million.",
-            "total": 80
-          },
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 5
-            },
-            "kind": "industry",
-            "reason": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261008090143555d6e726b7e4b02",
-              "seconds": 3.91,
-              "usage": {
-                "completion_tokens": 132,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 940,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 1072
-              }
-            },
-            "support": "A judge for the U.S. District Court for the Central District of California sided with Masimo in a ruling on interest Monday, bringing the total Apple needs to pay to more than $818 million.",
-            "total": 72
-          }
-        ],
-        "score": 76,
-        "selected": true,
-        "source_tier": "T2",
-        "status": "scored",
-        "threshold": 76
-      },
-      "when": "20 天前",
-      "date": "2026-10-07",
-      "reasons": {
-        "industry": "产业读者可据此判断Apple Watch血氧专利诉讼的成本走向及对可穿戴健康硬件知识产权策略的影响。限制是判决细节和后续上诉安排未提供，属既有诉讼的追加裁定。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42843853",
-      "t": "怀孕前四价人乳头瘤病毒疫苗接种和妊娠结局：全国范围内基于人群的病例对照研究。",
-      "te": "Quadrivalent human papillomavirus vaccination before pregnancy and pregnancy outcomes: nationwide, population based case-control study.",
-      "s": "目的 评估孕前四价人乳头瘤病毒疫苗接种与随后不良妊娠结局风险之间的关联。设计全国范围内基于人群的匹配病例对照研究。设置瑞典人口，2006年1月1日至2023年12月31日。参与者2006年至2023年间瑞典16-35岁未生育妇女中有624 713名单胎婴儿； 92 620 名（14.8%）女性在怀孕前接受了四价人乳头瘤病毒疫苗接种。",
-      "se": "Objective To evaluate the association between quadrivalent human papillomavirus vaccination before pregnancy and subsequent risk of adverse pregnancy outcomes. Design Nationwide, population based matched case-control study. Setting Population of Sweden, from 1 January 2006 to 31 December 2023. Participants 624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy.",
-      "u": "https://doi.org/10.1136/bmj-2026-100739",
-      "image": "",
-      "src": "The BMJ · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42843853",
-        "upstream_id": "42843853"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-16T17:26:18+00:00",
-        "input_hash": "0faa19339bbceacb86a9e8dbf17da2770efc57f71b47708a41479309a37cca59",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "全国性大样本病例对照研究为孕前四价HPV疫苗与妊娠结局提供了高质量安全性证据，但观察性设计提示关联不等于因果，阴性混杂方向需谨慎解读。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610170126143b21580fd9774ba3",
-              "seconds": 2.32,
-              "usage": {
-                "completion_tokens": 140,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 986,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1126
-              }
-            },
-            "support": "624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy.",
-            "total": 72
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261017012616d671425fea184bcd",
-              "seconds": 2.56,
-              "usage": {
-                "completion_tokens": 167,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 3
-                },
-                "prompt_tokens": 986,
-                "prompt_tokens_details": {
-                  "cached_tokens": 960
-                },
-                "total_tokens": 1153
-              }
-            },
-            "support": "624 713 singleton births among nulliparous women aged 16-35 years in Sweden between 2006 and 2023; 92 620 (14.8%) women had received quadrivalent human papillomavirus vaccination before pregnancy",
-            "total": 70
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-07",
-      "reasons": {
-        "research": "基于瑞典全国62万余例单胎出生的大样本匹配病例对照研究，为孕前四价HPV疫苗与不良妊娠结局（尤其早产）提供人群级证据，可支撑疫苗安全性咨询指南；但为观察性设计，自选接种人群可能存在残余混杂，相关性不能直接推断因果。"
       },
       "historical": true
     }
@@ -3908,6 +3788,7 @@
       "date": "2026-10-23",
       "item_ids": [
         "url:https://www.nature.com/articles/s41591-026-04707-w",
+        "url:https://www.nature.com/articles/s41746-026-03408-5",
         "url:https://www.nature.com/articles/s41591-026-04734-7"
       ],
       "minutes": 3
@@ -3997,14 +3878,6 @@
         "pmid:42849489"
       ],
       "minutes": 3
-    },
-    {
-      "date": "2026-10-07",
-      "item_ids": [
-        "pmid:42843853",
-        "url:https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/"
-      ],
-      "minutes": 2
     }
   ]
 }
