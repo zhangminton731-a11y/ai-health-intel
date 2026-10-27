@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-27
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 442
+> Daily status: **complete_with_warning** · sources 26/26 · items 441
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -8,7 +8,7 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 22
+## Scan · 21
 
 ### [Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea.](https://doi.org/10.1056/nejmoa2611477)
 
@@ -81,14 +81,6 @@ Nivolumab plus relatlimab is approved for advanced melanoma based on the RELATIV
 - Event: `seen` · identity: `pmid:42925880`
 
 <h4>Background</h4>Trifluridine-tipiracil (FTD-TPI) plus bevacizumab is the standard treatment for refractory metastatic colorectal cancer. However, the conventional schedule is frequently associated with haematological and gastrointestinal toxicity, which is clinically significant and relevant to patients. A simplified 14-day schedule has been proposed to reduce toxicity, but whether this treatment preserves survival has not been established in a randomised trial. We therefore aimed to assess whether the 14-day schedule is non-inferior to the conventional schedule for overall survival.<h4>Methods</h4>PRABITAS was a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial conducted in 178 hospitals in Japan. Patients with refractory metastatic colorectal cancer were randomly assigned (1:1) using a minimisation algorithm, stratified by Eastern Cooperative Oncology Group performance status, RAS mutational status, and institution, to FTD-TPI (35 mg/m<sup>2</sup> orally twice daily) plus bevacizumab (5 mg/kg intravenously) on either a conventional 28-day (FTD-TPI on days 1-5 and 8-12; bevacizumab on days 1 and 15) or 14-day schedule (FTD-TPI on days 1-5; bevacizumab on day 1). Eligibility criteria were broadened compared with those of conventional explanatory trials, and trial procedures were aligned with routine clinical practice. The primary endpoint was overall survival, analysed in the intention-to-treat population, with a prespecified non-inferiority margin of 1·25. Safety was assessed in all patients who received at least one dose. Missing data were not imputed. This trial is registered with the Japan Registry of Clinical Trials, jRCTs041230120, and is closed to enrolment.<h4>Findings</h4>Between Dec 26, 2023, and May 20, 2025, we randomly assigned 972 patients, of whom 970 (99%) constituted the intention-to-treat population after two were excluded because they were randomly assigned before site approval (486 [50%] to the 28-day treatment group, 292 [60%] men and 194 [40%] women]; and 484 [50%] to the 14-day treatment group, 264 [55%] men and 220 [45%] women). Median follow-up was 17·9 months (IQR 14·3-22·6). Median overall survival was 10·3 months (95% CI 9·5-11·6) in the 28-day group and 11·3 months (10·2-12·5) in the 14-day group (stratified hazard ratio 0·93 [95% CI 0·80-1·08]). The 12-month overall survival rates were 44·0% (95% CI 39·5-48·5) in the 28-day group and 47·5% (42·9-52·0) in the 14-day group. Neutropenia grade 3 or worse was reduced in the 14-day group (13% vs 39%; absolute difference 25 percentage points [95% CI 20-31]), as was anorexia grade 2 or worse (15% vs 26%; absolute difference 11 percentage points [6-16]). Two treatment-related deaths occurred in the 14-day group and none in the 28-day group.<h4>Interpretation</h4>A 14-day schedule of FTD-TPI plus bevacizumab was non-inferior to the conventional 28-day schedule for overall survival, while reducing haematological and gastrointestinal toxicity. These findings support this simplified schedule as the new standard for FTD-TPI plus bevacizumab in refractory metastatic colorectal cancer.<h4>Funding</h4>Japan Society for the Promotion of Science KAKENHI Grant-in-Aid for Challenging Research (Pioneering).
-
-### [UK government confirms indefinite EU CE mark recognition](https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/)
-
-- Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
-- Reading value: `76` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/`
-
-<p>The decision effectively shelves post-Brexit plans that would have required CE-marked medtech to secure a separate tag for the UK market by 2030.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/">UK government confirms indefinite EU CE mark recognition</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P)](https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p)
 
@@ -1000,14 +992,6 @@ The U.S. Food and Drug Administration today issued a direct final rule that upda
 
 Preliminary Calendar Year (CY) 2027 Medicare Clinical Laboratory Fee Schedule Payment Rates The Centers for Medicare & Medicaid Services (CMS) posted preliminary weighted median private payor rates for certain clinical diagnostic laboratory test codes, marking a key step toward setting Medicare's calendar year (CY) 2027 payment rates under the Clinical Laboratory Fee Schedule (CLFS). This preliminary data reflects the second full data collection and reporting cycle for most tests required under the Protecting Access to Medicare Act of 2014 (PAMA), and CMS is inviting public comment before finalizing CY 2027 rates. Protecting Access to Medicare Act of 2014 (PAMA) Section 216(a) of PAMA changed how Medicare sets payment rates for clinical diagnostic laboratory tests. Before PAMA, tests generally were paid the lesser of billed charges, the fee schedule established by the Medicare contractor or the national limitation amount, which is a percentage of the median of the local fee schedule amounts as described in section 1833(h) of the Social Security Act (the Act). PAMA moved CMS to a market-based payment system that ties Medicare payment rates to the rates private payors actually pay for the same tests. Under PAMA, as implemented in section 1834A of the Act and CLFS regulations, most laboratories that meet certain revenue thresholds — known as “applicable laboratories” — must collect and report certain private payor rate and volume data to CMS during defined data collection and data reporting periods. CMS uses this data to calculate weighted median private payor rates, which is generally the basis for Medicare's CLFS payment rates for most tests. Section 1834A of the Act includes different requirements for new clinical diagnostic laboratory tests and advanced diagnostic laboratory tests. The first round of PAMA-based data collection took place in 2016, which was reported in 2017 and which generally became the basis of Medicare’s CLFS payment rates in 2018. Congress enacted several laws delaying the next full reporting cycle. Most recently, the Consolidated Appropriations Act, 2026 revised the data reporting period, data collection period, and requirements for the phase-in of payment reductions , requiring the second round of data reporting to occur in 2026. CMS used data reported during the 2026 reporting period to establish the preliminary CY 2027 rates. Clinical Laboratory Fee Schedule (CLFS) The CLFS is the payment system Medicare uses to pay laboratories for clinical diagnostic laboratory tests, such as blood tests, urinalysis, and molecular and genomic tests. Payment rates are set annually and updated under the framework established in section 1834A of the Act, which generally requires that CLFS rates for most tests be based on the weighted median of private payor rates for each test, weighted by test volume. Additionally, there are procedures for determining the basis for, and amount of, payment for new tests as described in 18333(h)(8) of the Act. Data Reporting Requirements Under the CLFS, reporting entities generally submit “applicable information” collected during a data collection period on behalf of their component applicable laboratories. This information includes private payor rates, the volume of tests paid at each rate, and the specific Healthcare Common Procedure Code System (HCPCS) code for each test. The data collection and reporting timeline for this round (as established by the Consolidated Appropriations Act, 2026 and reflected in section 1834A of the Act): Data collection period: January 1, 2025 – June 30, 2025 Data reporting period: May 1, 2026 – July 31, 2026 Methodology The weighted median is calculated by arraying the distribution of all private payor rates, weighted by the volume for each payor and each laboratory. CMS took quality control measures to address potentially unreliable private payor data. The following records were removed from the calculation: Duplicate records: Reported records where the TIN, NPI, HCPCS code, payment rate, and volume (if greater than 1) exactly match another record. Outlier records: Records where the reported payment rate exceeds 100 times the CY 2026 CLFS payment rate for that test. For transparency, CMS is publishing the preliminary payment rates with and without these exclusions and is requesting public comment on whether this approach is appropriate for calculating the final weighted median private payor rates. Key Statistics From This Data Reporting Cycle Measure Result Laboratories (NPIs) that submitted data 6,411 Applicable laboratories used after exclusions 6,304 Total applicable HCPCS codes 1,947 Codes with a weighted median from private payor data 1,528 (78.5%) Average potential change to CY 2026 CLFS rates ~16% lower Of the approximately 1,500 codes with a weighted median from private payor data: 186 codes have a higher weighted median compared to the CY 2026 CLFS rate. 169 codes have an equal weighted median compared to the CY 2026 CLFS rate. 1,171 codes have a lower weighted median compared to the CY 2026 CLFS rate. Note: Two HCPCS codes that have a weighted median from private payor data do not have a comparable CY 2026 CLFS rate. Results by Test Category Category Number of Codes Potential Weighted Rate Change Chemistry 387 -16% Molecular Pathology 211 -22% Genomic Sequencing 42 -23% Microbiology 224 -19.3% Proprietary Laboratory Analysis 151 -2.4% Immunology 205 -19.3% Growth in Data Reporting Participation Since 2017 The mix of reporting applicable laboratory types has shifted substantially since the first PAMA data reporting cycle, with total reporting laboratories increasing 230 percent overall. Specifically, while hospital labs made up only 1.1% of reporting applicable labs in 2017, in the 2026 reporting period, hospital labs account for approximately 13.6% of reporting applicable labs. Laboratory Type First Reporting (2017) Current Reporting (2026) Change Hospital 21 875 +4,067% Physician Office Laboratory 1,106 3,262 +195% Independent 658 775 +18% Other/Unknown (incl. FQHC, Urgent Care) 157 1,499 +855% Total 1,942 6,411 +230% Phase-In of Payment Reductions CLFS payment rate reductions will not take effect all at once. The Consolidated Appropriations Act, 2026 amended section 1834A of the Act to provide for a phase-in from calendar years 2027 through 2029; payment for a test may not be reduced by more than 15% per year compared with the amount established for that test in the preceding year. Tests With No Applicable Information For existing clinical diagnostic laboratory tests for which CMS received no applicable information, CMS held a public meeting September 15–16, 2026, 1 to gather public input on the appropriate payment methodology—crosswalking or gapfilling—for these tests. As required under section 1834(f), an expert panel of laboratory professionals provided recommendations on how rates for these tests should be set. 2 Additional CLFS Materials Published Concurrently Alongside the preliminary CY 2027 weighted median private payor rates, CMS is also publishing: Preliminary crosswalk and gapfill determinations for new 2026 clinical diagnostic laboratory tests. Final Medicare Administrative Contractor (MAC) recommendations for gapfill rates for laboratory tests new in 2025. To view the preliminary CY 2027 Clinical Laboratory Fee Schedule rates and data, visit https://www.cms.gov/medicare/payment/fee-schedules/clinical-laboratory-fee-schedule-clfs . 2019 Regulatory Changes to “Applicable Laboratory” In the CY 2019 Physician Fee Schedule final rule (83 FR 59667-59681), CMS made three revisions effective January 1, 2019: Medicare Advantage plan revenues are excluded from total Medicare revenues in the denominator of the majority-of-Medicare-revenues threshold. Hospitals billing for nonpatient laboratory services use Medicare revenues from Form CMS-1450 14x Type of Bill to determine whether their hospital outreach laboratories meet the majority-of-Medicare-revenues and low-expenditure thresholds. CMS also allowed reporting entities to condense certain applicable information at the TIN level, rather than reporting separately for each applicable laboratory at the NPI level. We believe these regulatory revisions provided for more hospital reporting in 2026. How to Submit Comments In accordance with confidentiality requirements in section 1834A(a)(10) of the Social Security Act and 42 C.F.R. 414.504(f), CMS is releasing raw data for HCPCS codes reported by 10 or more reporting entities to support public review. The public has 30 days after publication to review and submit comments on the preliminary CY 2027 CLFS rates and supporting data files. Written comments should be submitted electronically to CMS’ CLFS dedicated email box at CLFS_Annual_Public_Meeting@cms.hhs.gov . CMS will publish final CY 2027 CLFS rates on the CMS website in November 2026. ### 91 FR 23418-23421 Centers for Medicare & Medicaid Services, “CLFS Advisory Panel,” last modified September 16, 2026, https://www.cms.gov/medicare/payment/fee-schedules/clinical-laboratory-fee-schedule-clfs/clfs-advisory-panel CMS News and Media Group Catherine Howden, Director Media Inquiries Form 202-690-6145
 
-### [Apple opens Apple Music Hall, a state-of-the-art live music venue in London](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/)
-
-- Source: `apple_newsroom` · published `2026-09-22` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/`
-
-Apple Music Hall, a state-of-the-art live music venue in London’s storied Battersea Power Station, is now open.
-
 ### [Current advancements in the care of peripheral arterial disease: modern approaches to medical, endovascular, and surgical treatment.](https://doi.org/10.1016/s0140-6736(26)00845-7)
 
 - Source: `lancet_abstracts` · published `2026-09-22` · freshness `stale`
@@ -1047,14 +1031,6 @@ This is the third paper in the peripheral arterial disease (PAD) Series. The fir
 - Event: `seen` · identity: `url:https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922`
 
 Patricia and James Poitras ’63 provide fellowships for graduate students and postdocs who will shape the future of mental health research.
-
-### [The new Mac mini and Mac Studio are available today](https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/)
-
-- Source: `apple_newsroom` · published `2026-09-22` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/`
-
-Customers can now shop for Mac mini with M6 and M5 Pro, and Mac Studio with M5 Max and M5 Ultra, at Apple Store locations, online, and in the Apple Store app.
 
 ### [Tobacco Use Treatment: Synopsis of the 2026 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.](https://doi.org/10.7326/annals-26-01499)
 
@@ -1159,14 +1135,6 @@ FDA is carefully reviewing its experience implementing the Premarket Tobacco Pro
 - Event: `seen` · identity: `pmid:42810373`
 
 In this Clinical Rounds, we present a case of neuroborreliosis in a man aged 59 years who initially complained of headache, tremor, and hiccups. Diagnosis was delayed, partly due to an atypical presentation but mainly because subtle MRI findings were overlooked. There is emerging recognition that radial and patchy hyperintensities in cerebral peduncles, mesencephalon, and pons is a distinct MRI feature of neuroborreliosis. Dissemination of this knowledge could contribute to more timely and efficient diagnoses in future patients.
-
-### [Apple releases new guide to help families build healthy digital habits](https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/)
-
-- Source: `apple_newsroom` · published `2026-09-29` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/`
-
-Today, in partnership with the American Academy of Pediatrics, Apple released a new guide to help families create healthy digital habits.
 
 ### [Exercise Therapy and Education for Young Adults With Persistent Knee Problems After Anterior Cruciate Ligament Reconstruction : A Randomized Clinical Trial.](https://doi.org/10.7326/annals-26-02460)
 
@@ -2040,14 +2008,6 @@ No summary supplied by the source.
 
 Beginning Friday, October 16, at 5 a.m. PT, customers can pre-order iPhone Duo on apple.com and in the Apple Store app.
 
-### [Towards physiologically relevant human tissue models](https://www.nature.com/articles/s41551-026-01824-2)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-15` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01824-2`
-
-No summary supplied by the source.
-
 ### [AI for Poststroke Epilepsy: Scoping Review of Imaging-Based Prediction Models and Implications for African Settings](https://ai.jmir.org/2026/1/e96828/)
 
 - Source: `jmir_ai` · published `2026-10-16` · freshness `stale`
@@ -2071,14 +2031,6 @@ Background: Telemedicine has emerged as a critical strategy to address health ca
 - Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/medicare-program-implementation-sections-6219-6220-6224-consolidated-appropriations-act-2026-cms`
 
 Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026 (CMS-4214-P) Background On Oct. 16, 2026, the Centers for Medicare & Medicaid Services (CMS) issued a proposed rule to implement key sections of the Consolidated Appropriations Act of 2026 including section 6220 (Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act) and section 6224 (Modernizing and Ensuring Pharmacy Benefit Manager Accountability). This rule also proposes a conforming change mandated by section 6219 of the CAA (Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals) that would reduce the generic drug copayment from $1 to $0 for full-benefit dual eligible individuals. Implementing Certain Provisions of Consolidated Appropriations Act, 2026 On February 3, 2026, the CAA of 2026, which included several changes to the MA and Part D programs, was signed into law. In this rule, we are proposing to implement the following sections: Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals (Section 6219): This proposed rule implements Section 6219 of the CAA that would reduce the generic drug copayment from $1 to $0 for full-benefit dual eligible individuals at or below 100% of the Federal Poverty Level, effective for plan years starting Jan. 1, 2028. Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act (Section 6220): CMS proposes to codify regulations to implement the REAL Health Providers Act, which establishes new provider directory verification and accuracy requirements for MA organizations beginning in contract year 2028. Specifically, CMS proposes requirements to implement this new law related to provider directory verification and maintenance standards, annual accuracy analysis and reporting, public reporting of accuracy scores, and cost-sharing protections for enrollees who rely on inaccurate provider directory information. CMS also proposes to codify the statutory requirements for contract year 2029, including that CMS must publicly display provider directory accuracy scores in a machine-readable format, and MA organizations must prominently display those scores in their provider directories. Through these proposed codifications implementing the REAL Health Providers Act, CMS seeks to promote provider directory accuracy and accountability among MA organizations to ensure that beneficiaries are provided with clear, accurate information on the network of providers available to meet their healthcare needs. Modernizing and Ensuring Pharmacy Benefit Manager Accountability (Section 6224): CMS has several proposals to implement section 6224 of the CAA, which established requirements related to pharmacy benefit managers (PBMs) and their affiliates specific to the Medicare Part D program. These proposals include new requirements governing the remuneration that PBMs and their affiliates may receive for services in connection with the utilization of Part D drugs, data reporting by PBMs to Part D prescription drug plan (PDP) sponsors and CMS, transparency in PBM price guarantee arrangements, disclosure by PBMs to PDP sponsors of the terms of certain agreements between PBMs or their affiliates and pharmaceutical manufacturers, and other requirements added by the CAA. CMS also proposes to define key terms related to such requirements and establish compliance and enforcement mechanisms, including disgorgement of funds to CMS for violations of the remuneration requirements. The proposed rule will be open for public comment for 60 days following publication in the Federal Register. View this regulation on the Federal Register . The proposed rule will be open for public comment for 60 days following publication in the Federal Register. ### CMS News and Media Group Catherine Howden, Director Media Inquiries Form 202-690-6145
-
-### [4 tips for styling outfits with Gemini](https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/)
-
-- Source: `fitbit_google_blog` · published `2026-10-19` · freshness `fresh`
-- Reading value: `12` · status: `needs_review`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp">Here’s how athlete stylist Sydney Bordonaro uses Gemini to build looks for clients — and how you can build your own, too.
 
 ### [AdvaMed’s 4 Policy Priorities, According to Its CEO](https://medcitynews.com/2026/10/advameds-4-policy-priorities-according-to-its-ceo/)
 
@@ -2440,14 +2392,6 @@ Electronic health records (EHRs) are central to patient-centered care. However, 
 
 <p><a href="https://medcitynews.com/2026/10/your-product-works-so-why-does-it-still-fail-in-the-real-world/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/failure.jpg" class="attachment-large size-large wp-post-image" alt="Wooden Jigsaw Puzzle About to Be Finished With a Blank Area Close-up Full Frame View." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/failure.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/failure-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>A patient&#8217;s automated risk score was reassuringly green. Pulling from a sparse medical record and infrequent acute visits, the model flagged him as low risk and routed him to the default, low-touch outpatient pathway — so why was the patient actively deteriorating?</p> <p>The post <a href="https://medcitynews.com/2026/10/your-product-works-so-why-does-it-still-fail-in-the-real-world/">Your Product Works — So Why Does It Still Fail in the Real World?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Acquirers Are Snapping Up Boom-Era Startups That Haven’t Raised Funding In Years](https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
-- Reading value: `53` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/`
-
-A number of companies whose names might feature on a playlist of 2021 boom-era unicorns have sold to acquirers in recent months, including one-time highfliers like Airtable, Headspace and Miro. In many cases, companies are selling at valuations which, while not puny, are still far below their former peaks.
-
 ### [Alcon Expands Its Cell Therapy Ambitions With $550M Neurotech Pharma Acquisition](https://medcitynews.com/2026/10/alcon-expands-its-cell-therapy-ambitions-with-550m-neurotech-pharma-acquisition/)
 
 - Source: `medcity_news` · published `2026-10-22` · freshness `fresh`
@@ -2487,14 +2431,6 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/`
 
 Starting this Friday, iPhone Duo users can discover amazing apps and games optimized for the first foldable iPhone.
-
-### [Edwards secures FDA approval for tricuspid valve repair system](https://www.medicaldevice-network.com/news/edwards-fda-approval-tricuspid-valve-repair-system/)
-
-- Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
-- Reading value: `57` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/edwards-fda-approval-tricuspid-valve-repair-system/`
-
-<p>The US Food and Drug Administration (FDA) has approved Edwards Lifesciences’ tricuspid valve repair system, PASCAL Precision.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/edwards-fda-approval-tricuspid-valve-repair-system/">Edwards secures FDA approval for tricuspid valve repair system</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [EQT to buy diagnostics player Qiagen for €9.6bn](https://www.medicaldevice-network.com/news/eqt-acquires-diagnostics-player-qiagen-9-6bn/)
 
@@ -2616,14 +2552,6 @@ Background: The increasing availability of machine-readable research data has cr
 
 <strong>Background:</strong> Negation in radiology reports (eg, “no evidence of dissection”) is essential for accurately conveying diagnostic information. Clinical natural language processing systems, however, often fail to determine whether findings occur within negated or speculative contexts, leading to excessive false keyword alerts, noise in information extraction, and reduced precision in downstream clinical or research applications. Transformer models have advanced detection capabilities but require costly expert labeling. Large language models (LLMs) may provide label-efficient alternatives through few-shot prompting or knowledge distillation. <strong>Objective:</strong> This study aims to systematically evaluate LLMs and transformer models under different supervision strategies, including comparisons of expert-labeled and LLM-distilled transformers, teacher LLMs (GPT-5.3 Chat, Gemma 4, and Qwen3.6-Plus), sampling approaches, and direct few-shot LLM inference, to determine whether LLM inference or LLM-based distillation can substitute for human labeling in radiology-report negation detection while reducing annotation costs. <strong>Methods:</strong> We reused and analyzed 6000 deidentified English-language radiology reports from 3 hospital branches. Three LLMs—GPT-5.3 Chat, Gemma 4, and Qwen3.6-Plus—performed 0-, 5-, and 10-shot inference to identify negations and speculations unrelated to abnormal findings and generate pseudo-labels for transformer fine-tuning (Bio_ClinicalBERT [Bio + Clinical BERT model], BERT [Bidirectional Encoder Representations from Transformers], and ALBERT [A Lite Bidirectional Encoder Representations from Transformers]). We trained models using human-labeled or LLM-distilled supervision across 28 training data scales (n=42-4200) and 3 data sampling seeds and compared them across multiple supervision and training conditions encompassing backbone, label source, and sampling strategy. We assessed performance using keyword-level precision, recall, and F1-score with paired bootstrap tests (10,000 replicates). <strong>Results:</strong> We refined 1000 report annotations (interrater κ=0.957) and fine-tuned 1260 transformer models. Human-labeled transformers consistently outperformed distillation-labeled ones, with the largest gap at small training scales (ΔF1-score ≈0.042; adjusted <i>P</i>&lt;.001), which narrowed at larger scales (ΔF1-score ≈0.022; adjusted <i>P</i>&lt;.001). Teacher model choice had minimal effect on distilled performance. All 3 human-labeled transformer backbones (BERT, ALBERT, and Bio_ClinicalBERT) achieved high keyword-level F1-scores (0.982-0.985 under their best conditions; n=4200). In the 10-shot setting, GPT-5.3 Chat (F1-score 0.974) modestly underperformed human-labeled transformers in the large-sample range (ΔF1-score=0.009; adjusted <i>P</i>=.047) and significantly outperformed Gemma 4 (F1-score 0.957; adjusted <i>P</i>=.01) and Qwen3.6-Plus (F1-score 0.950; adjusted <i>P</i>&lt;.001) in the bootstrap analysis. GPT-5.3 Chat labeled reports at approximately US $0.018 per report and became less expensive than manual annotation when expert hourly wages exceeded US $0.64-1.50. <strong>Conclusions:</strong> Human-supervised transformers remain the strongest baseline, but frontier LLMs such as GPT-5.3 Chat offer comparable performance with minimal supervision. LLM-based distillation offers a cost-effective alternative with only minor performance loss. Dataset scale proved more influential than sampling strategy. Additionally, superior teacher performance yielded no proportional gains through distillation, as open-weight or low-cost teachers achieved comparable results. If supported by external validation, the proposed label-efficient framework could enable accurate and affordable negation detection and rapid domain adaptation.
 
-### [St Luke’s deploys hellocare.ai platform across Idaho sites in US](https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/)
-
-- Source: `medical_device_network` · published `2026-10-22` · freshness `fresh`
-- Reading value: `37` · status: `scored`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/`
-
-<p>St Luke's Health System has selected hellocare.ai to implement AI-assisted virtual care programmes across its inpatient facilities in Idaho.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/st-lukes-hellocare-ai-platform/">St Luke&#8217;s deploys hellocare.ai platform across Idaho sites in US</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Stress-Symptom Interaction in Inflammatory Bowel Disease: Longitudinal Digital Phenotyping Study](https://medinform.jmir.org/2026/1/e95854)
 
 - Source: `jmir_medinform` · published `2026-10-22` · freshness `fresh`
@@ -2656,14 +2584,6 @@ In this guest article from Airrived co-founder and CEO Anurag Gurtu, he contends
 
 <p><a href="https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg" class="attachment-large size-large wp-post-image" alt="alzheimer&#039;s, memory loss and senile dementure" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/dementia-alzheimers-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Throwing more money at SDoH programs isn’t going to magically fix them. Instead, plans should be focusing on building out these three specific capabilities that, together, can noticeably alter the playing field.</p> <p>The post <a href="https://medcitynews.com/2026/10/why-sdoh-programs-fall-short-and-what-it-takes-to-make-them-work/">Why SDoH Programs Fall Short — and What It Takes to Make Them Work</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Your Next Customer Might Be An Agent. Here’s How To Build Your Brand For Both Humans And AI.](https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-22` · freshness `fresh`
-- Reading value: `18` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/`
-
-As AI agents increasingly recommend and purchase products, brands must appeal to both machines and humans by documenting their voice, creating clear product descriptions and checking how AI summarizes their messaging. Guest author Toby Coulthard suggests that startups should build these practices in from the outset, preserving human appeal while measuring success through conversions and revenue rather than content volume.
-
 ### [ŌURA Reaches Six Million Paid Members](https://ouraring.wpengine.com/oura-reaches-six-million-paid-members/)
 
 - Source: `oura_blog` · published `2026-10-22` · freshness `fresh`
@@ -2679,14 +2599,6 @@ As AI agents increasingly recommend and purchase products, brands must appeal to
 - Event: `seen` · identity: `url:https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/`
 
 From teaching robots to do everyday household chores to using lasers to track satellites in space, this month's crop of interesting startup deals spans some decidedly different corners of tech.
-
-### [<b>Putting conversational AI to the test in primary care</b>](https://www.nature.com/articles/d41591-026-00054-y)
-
-- Source: `nature_medicine` · published `2026-10-23` · freshness `fresh`
-- Reading value: `38` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00054-y`
-
-A patient-facing conversational AI showed promising feasibility and safety in a single-center primary care setting, providing a basis for larger-scale evaluation.
 
 ### [Autologous erythrocyte microparticles drive antitumour T cell immunity via haem-mediated dendritic cell activation](https://www.nature.com/articles/s41551-026-01795-4)
 
@@ -2912,22 +2824,6 @@ Background: A central concern in ecological momentary assessment (EMA) research 
 
 The ethics of autonomous clinical AI are controversial. Traditional ethics assessments have focused on AI model performance rather than health system outcomes. Nichol and colleagues translate established research ethics principles into 9 practical recommendations for trials of autonomous clinical AI. Their findings support an evolution in clinical trial design. The accuracy and performance of the model is important, but the ethical unit of evaluation should be the complete care pathway, with prespecified obligations for subgroup performance, follow-up care, system failures, and model change. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4c8f52b76f61ddbadf7552e03b0a60e3" />
 
-### [The human microbiome and chronic disease: ten strategic priorities for research and public health](https://www.nature.com/articles/s41591-026-04730-x)
-
-- Source: `nature_medicine` · published `2026-10-23` · freshness `fresh`
-- Reading value: `38` · status: `scored`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04730-x`
-
-The human microbiome has emerged as one of the most consequential frontiers in biomedical science. An international group of leading microbiome scientists, convened by the US Department of Health and Human Services, presents a strategic vision for realizing its potential to transform public health.
-
-### [The Impact of Telemedicine Interventions on Maternal and Fetal Outcomes in Women With Gestational Diabetes: Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://www.jmir.org/article/view/jmir_v28i1e103569)
-
-- Source: `jmir` · published `2026-10-23` · freshness `fresh`
-- Reading value: `62` · status: `scored`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e103569`
-
-Background: Gestational diabetes mellitus (GDM) has a rising global prevalence and brings short-term and long-term adverse risks for mothers and fetuses. Conventional in-person GDM care is limited by time and geographic barriers, often resulting in suboptimal compliance and delayed individualized interventions. Telemedicine is increasingly applied in GDM management; however, randomized controlled trial (RCT) evidence remains inconsistent. Objective: The study aims to pool data from RCTs to quantify the effects of telemedicine on glycemic control and pregnancy-related outcomes in women with GDM and to inform optimized clinical management. Methods: We searched PubMed, Embase, Cochrane Library, Web of Science, and Scopus up to August 16, 2026. Two reviewers independently performed study screening and data extraction. Risk of bias was assessed using RoB 2. Meta-analyses were conducted in Stata 18.0. For heterogeneous outcomes, 95% prediction intervals (PIs) were calculated to estimate effect ranges for future studies. Heterogeneity was explored via leave-one-out sensitivity, meta-regression, and subgroup analyses. The GRADE (Grading of Recommendations Assessment, Development, and Evaluation) framework rated evidence certainty. Publication bias was evaluated for outcomes reported in ≥10 studies. Results: Twenty-three RCTs (3055 women with GDM) were included. Pooled estimates suggested that telemedicine may reduce fasting glucose (mean difference [MD] −0.26, 95% CI −0.42 to −0.09, 95% PI −0.93 to 0.42; =.002), 2-hour postprandial glucose (MD −0.50, 95% CI −0.87 to −0.14, 95% PI −1.84 to 0.84; =.007), and gestational weight gain (MD −0.78, 95% CI −1.40 to −0.17, 95% PI −2.83 to 1.26; =.01). Telemedicine was also associated with lower risks of cesarean section, emergency cesarean section, macrosomia, neonatal hypoglycemia, and neonatal respiratory distress. No significant differences were found for hemoglobin A, preterm birth, or neonatal intensive care unit admission. Notably, fasting glucose, 2-hour postprandial glucose, and gestational weight gain exhibited very high unexplained heterogeneity (²&gt;90%), with their 95% PIs crossing the null value despite statistically significant pooled effects. The GRADE certainty of evidence was very low to low across all assessed outcomes. Conclusions: Telemedicine may improve selected glycemic and perinatal outcomes for women with GDM and may serve as a promising supplementary option for prenatal care, particularly in resource-limited settings where routine in-person follow-up is difficult to implement. Nevertheless, the apparent benefits for glycemic control and gestational weight gain remain tentative due to extreme, unexplained between-study heterogeneity and 95% PIs crossing the null. Based on current evidence, telemedicine should not completely replace standard antenatal care. Future well-designed, large-sample RCTs are warranted; such trials should adopt standardized definitions for telemedicine interventions, fully report intervention components, and conduct long-term follow-up to verify sustained maternal and neonatal clinical benefits. Trial Registration: PROSPERO CRD420261403669; https://www.crd.york.ac.uk/PROSPERO/view/CRD420261403669 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/94f0f71111a8230fc759f1db91f598d2" />
-
 ### [The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings](https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/)
 
 - Source: `crunchbase_news_feed` · published `2026-10-23` · freshness `fresh`
@@ -2984,14 +2880,6 @@ It was another interesting week for AI-related startup funding, with a number of
 
 Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bladder cancer (MIBC) and was recently identified as a potential therapeutic target to overcome resistance to programmed cell death protein 1/programmed death ligand 1 (PDL1) blockade. We investigated the safety and efficacy of GDF-15 blockade in an exploratory, stratified, placebo-controlled, single-blinded, nonrandomized phase 2a trial (GDFATHER-NEO). Thirty-one cisplatin-ineligible or cisplatin-refusing patients with newly diagnosed MIBC (clinical T2–T4aN0M0) were stratified by tumor stage and PDL1 combined positive score (CPS) and allocated sequentially to receive three cycles of neoadjuvant nivolumab (N, 480 mg 4-weekly) plus the GDF-15-neutralizing antibody visugromab (V, 20 mg kg−1 4-weekly; n = 16) or placebo (P, n = 15), followed by radical cystectomy or repeat transurethral resection of the bladder tumor. Locally assessed pathologic complete response (pCR, ypT0N0/x) and Response Evaluation Criteria in Solid Tumors v1.1-based radiographic response served as dual primary endpoints. pCR was 33% (5 of 15, 95% confidence interval (CI) 12–62%) in patients receiving N + V versus 8% (1 of 13, 95% CI 0–36%) for N + P; major pathologic response was 60% (95% CI 32–84%) versus 23% (95% CI 5–54%), and radiographic overall response rate was 60% (95% CI 32–84%) versus 15% (95% CI 2–45%), respectively. Responses to N + V were associated with higher baseline densities of total and proliferating (Ki-67+) CD8+ T cells, but independent of CPS and baseline GDF-15 levels in serum and tumor. There were no treatment-related discontinuations or treatment-related delays to surgery; grade 3–4 treatment-related adverse events occurred in two (13%) and three (20%) patients treated with N + V or N + P, respectively. These findings support further evaluation of visugromab in MIBC. ClinicalTrials.gov identifier: NCT06059547 . As presented at the ESMO Congress 2026: In this exploratory, nonrandomized phase 2a trial, treatment of patients with immune checkpoint inhibitor-naive muscle-invasive bladder cancer with the GDF-15-neutralizing antibody visugromab and nivolumab produced encouraging pathological complete response and radiographic response rates with no new safety signals, supporting further evaluation in larger randomized studies.
 
-### [Opinion: Christina Applegate puts a face on one of the most consequential challenges in neurology](https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-24` · freshness `fresh`
-- Reading value: `24` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss`
-
-“The goal is not simply to diagnose MS faster. It is to get the diagnosis right,” writes Bruce Bebo.
-
 ### [Sodium-Glucose Cotransporter 2 Inhibitor Use and Levels of Hemoglobin, Markers of Iron Metabolism, and Erythropoiesis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials.](https://doi.org/10.1001/jama.2026.19921)
 
 - Source: `jama_abstracts` · published `2026-10-24` · freshness `fresh`
@@ -2999,14 +2887,6 @@ Growth differentiation factor-15 (GDF-15) is overexpressed in muscle-invasive bl
 - Event: `seen` · identity: `pmid:42925557`
 
 <h4>Importance</h4>In randomized clinical trials, sodium-glucose cotransporter 2 (SGLT2) inhibitor use was associated with increased hemoglobin and hematocrit compared with placebo. However, the magnitude and importance of this association remain unclear.<h4>Objective</h4>To evaluate the associations between SGLT2 inhibitor use and levels of hemoglobin, hematocrit, and markers of iron metabolism and erythropoiesis compared with placebo or active comparator.<h4>Data sources</h4>PubMed, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from inception to July 22, 2026.<h4>Study selection</h4>Randomized, double-masked clinical trials comparing SGLT2 inhibitor use with placebo or active comparators in patients with 1 or more of the following conditions: cardiovascular disease, diabetes, heart failure, and chronic kidney disease.<h4>Data extraction and synthesis</h4>Three reviewers independently extracted data and results were pooled using random-effects meta-analysis.<h4>Main outcomes and measures</h4>Primary outcomes were changes in hemoglobin and hematocrit. Secondary outcomes were changes in red blood cell concentration, erythropoietin (EPO), and iron measures (serum iron, ferritin, transferrin saturation, and hepcidin).<h4>Results</h4>A total of 85 randomized clinical trials were analyzed (median [IQR] duration, 24 [12-32] weeks), including 70 543 participants (mean [SD] age, 62.4 [9.4] years; 25 334 female [35.9%]). Mean (SD) baseline hemoglobin was 13.6 (1.5) g/dL; baseline hematocrit was 41.5% (4.9). Seventy-eight clinical trials (67 208 participants) compared SGLT2 inhibitors with placebo, and 7 clinical trials (3335 participants) used active comparators, most commonly sitagliptin (2 trials [1158 participants]). From baseline to follow-up, hemoglobin changed by 0.55 g/dL (95% CI, 0.49 to 0.61 g/dL; P < .001) in the SGLT2 inhibitor group, and -0.08 g/dL (95% CI, -0.13 to -0.03 g/dL; P = .003) in the control group (difference, 0.60 g/dL; 95% CI, 0.55 to 0.66 g/dL; P < .001). From baseline to follow-up, hematocrit changed by 2.17% (95% CI, 1.95% to 2.39%; P < .001) in the SGLT2 inhibitor group and -0.13% (95% CI, -0.28% to 0.01%; P = .07) in the control group (difference, 2.36%; 95% CI, 2.19% to 2.52%; P < .001). Of the 6 secondary outcomes, 4 showed significant associations with SGLT2 inhibitors, including increased EPO (2.35 mIU/mL in SGLT2 inhibitor group vs 0.04 mIU/mL in control group; difference, 2.11 mIU/mL [95% CI, 0.5-3.71 mIU/mL]; P = .01) and decreased transferrin saturation (-2.2% in SGLT2 inhibitor group vs -0.10% in control group; difference, -0.84% [95% CI, -1.21% to -0.47%]; P < .001).<h4>Conclusions and relevance</h4>In a meta-analysis of randomized clinical trials, compared with control, SGLT2 inhibitor use was associated with small statistically significant increases in hemoglobin and hematocrit levels. The clinical significance of these findings is unclear.
-
-### [STAT+: The ESMO presentation everyone’s been waiting for](https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-24` · freshness `fresh`
-- Reading value: `40` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss`
-
-Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.
 
 ### [Tarlatamab-Durvalumab Maintenance for Extensive-Stage Small-Cell Lung Cancer.](https://doi.org/10.1056/nejmoa2609482)
 
@@ -3056,14 +2936,6 @@ Moderna and Merck's 'presidential' presentation, and other news from Day 2 of th
 
 <p><a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/"><img width="600" height="394" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-600x394.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-300x197.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1-768x504.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/03/GettyImages-1231222171-1.jpg 1024w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Lycia Therapeutics’ protein-degrading drugs are based on the research of Carolyn Bertozzi, a Stanford chemistry professor and Nobel laureate. Lycia’s lead drug candidate is in development for food allergy, where it could compete against the blockbuster Roche drug Xolair. </p> <p>The post <a href="https://medcitynews.com/2026/10/lycia-ipo-protein-degradation-food-allergy-immunology-inflammation-ige-lyca/">Lycia Lands a $317M IPO for Inflammation Drugs Based on Nobel Prize-Winning Science</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/)
-
-- Source: `hn_ai_health_signals` · published `2026-10-25` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://minimaxir.com/2026/10/cheap-llms/`
-
-Hacker News community signal; score 422.
-
 ### [Osimertinib-Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy.](https://doi.org/10.1056/nejmoa2611335)
 
 - Source: `nejm_abstracts` · published `2026-10-25` · freshness `fresh`
@@ -3087,22 +2959,6 @@ Hacker News community signal; score 422.
 - Event: `seen` · identity: `pmid:42929694`
 
 <h4>Background</h4>Pembrolizumab plus chemotherapy with a platinum-based agent and pemetrexed is a widely used standard first-line treatment option for patients with programmed death ligand 1 (PD-L1)-negative advanced nonsquamous non-small-cell lung cancer (NSCLC) without targetable genomic alterations, but outcomes remain suboptimal.<h4>Methods</h4>In this phase 3, open-label, randomized trial, we evaluated sacituzumab tirumotecan plus pembrolizumab in patients with previously untreated locally advanced or metastatic nonsquamous NSCLC without targetable genomic alterations and a PD-L1 tumor proportion score of less than 1%. Patients were randomly assigned in a 1:1 ratio to receive sacituzumab tirumotecan plus pembrolizumab or chemotherapy plus pembrolizumab. The primary end point was progression-free survival as assessed by blinded independent central review. Overall survival was a secondary end point. This report presents the results of the prespecified interim analysis.<h4>Results</h4>A total of 455 patients were randomly assigned to receive sacituzumab tirumotecan plus pembrolizumab (229 patients) or chemotherapy plus pembrolizumab (226 patients). After a median follow-up of 9.7 months, the median progression-free survival was significantly longer with sacituzumab tirumotecan plus pembrolizumab than with chemotherapy plus pembrolizumab (15.0 months vs. 5.7 months; hazard ratio for disease progression or death, 0.49; 95% confidence interval [CI], 0.36 to 0.65; P<0.001). An objective response occurred in 50.2% and 47.3% of the patients, respectively, and the median duration of response was 13.6 months and 6.8 months. Overall survival data were immature; the hazard ratio for death was 0.58 (95% CI, 0.38 to 0.88). Adverse events of grade 3 or higher that occurred after the start of treatment were reported in 47.6% of the patients assigned to receive sacituzumab tirumotecan plus pembrolizumab and in 60.6% of those assigned to receive chemotherapy plus pembrolizumab. Stomatitis was common with sacituzumab tirumotecan plus pembrolizumab, but the events were predominantly grade 1 or 2.<h4>Conclusions</h4>Among patients with PD-L1-negative advanced nonsquamous NSCLC without targetable genomic alterations, first-line treatment with sacituzumab tirumotecan plus pembrolizumab led to significantly longer progression-free survival than chemotherapy plus pembrolizumab. (Funded by Sichuan Kelun-Biotech Biopharmaceutical; OptiTROP-Lung06 ClinicalTrials.gov number, NCT06711900.).
-
-### [STAT+: After a cancer vaccine’s first success, the race is on to expand the impact](https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-25` · freshness `fresh`
-- Reading value: `46` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/25/mrna-cancer-vaccine-merck-moderna-esmo-intismeran-next-applications/?utm_campaign=rss`
-
-After 100 years, there's finally an effective cancer vaccine. Now comes the push to get them to work in more tumor types.
-
-### [STAT+: At ESMO, AstraZeneca’s cancer pursuits get a showcase](https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-25` · freshness `fresh`
-- Reading value: `35` · status: `scored`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/25/esmo-astrazeneca-adcs-lung-gastric-cancer/?utm_campaign=rss`
-
-AstraZeneca has seen major momentum in oncology in recent years. It got a big showcase at Europe's top cancer conference.
 
 ### [15 college students share their favorite Gemini features](https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/)
 
@@ -3214,7 +3070,7 @@ California companies have scooped up more than three-fourths of all U.S. startup
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm`
 
-Hacker News community signal; score 161.
+Hacker News community signal; score 166.
 
 ### [Generative Large Language Models for Psychiatric Concept Detection in Spanish-Language Electronic Health Records: Development and Evaluation Study](https://www.jmir.org/article/view/jmir_v28i1e93328)
 
@@ -3374,7 +3230,7 @@ No summary supplied by the source.
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://github.com/FrigadeHQ/hob`
 
-Hacker News community signal; score 136.
+Hacker News community signal; score 151.
 
 ### [Siri AI is available in more languages starting today](https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/)
 
@@ -3544,13 +3400,149 @@ Adolescent major depressive disorder is a highly prevalent and debilitating cond
 
 False claims about customers, revenue and AI capabilities can expose founders to personal securities-fraud liability, with D&#038;O insurance offering limited protection against established misconduct. Guest author Kyle Jeziorski of Founder Shield shares three policy provisions that need close attention from founders.
 
+### [A possible treatment for brain-eating amoebas, found in the sea](https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss`
+
+Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.
+
+### [Abbott commercially rolls out Oncodetect MRD assay](https://www.medicaldevice-network.com/news/abbott-rolls-out-oncodetect-mrd-assay/)
+
+- Source: `medical_device_network` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/abbott-rolls-out-oncodetect-mrd-assay/`
+
+<p>Abbott has commercially launched its next-generation Oncodetect MRD assay, which identifies traces of cancer in patients with solid tumours.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/abbott-rolls-out-oncodetect-mrd-assay/">Abbott commercially rolls out Oncodetect MRD assay</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Apple Creator Studio adds powerful new AI features and even more creative tools](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/)
+
+- Source: `apple_newsroom` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/`
+
+Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.
+
+### [Apple introduces the new 14-inch MacBook Pro with M6](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
+
+- Source: `apple_newsroom` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/`
+
+Apple today announced the new 14-inch MacBook Pro with M6, delivering more performance, powerful on-device AI capabilities, and faster connectivity.
+
+### [Apple unveils new iMac with M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/)
+
+- Source: `apple_newsroom` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/`
+
+Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.
+
+### [Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation](https://www.nature.com/articles/s41551-026-01819-z)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01819-z`
+
+Healthy articular cartilage maintains ultralow friction through the lipid/hyaluronic acid/lubricin complex lubrication layer, in which the zwitterionic lipids mediate lubrication and the hyaluronic acid and lubricin anchor to cartilage matrix. However, in osteoarthritis this lubrication system is progressively degraded, leading to increased cartilage wear and joint dysfunction. Therefore, early and lubrication-based intervention is urgently needed. Here we present biomimetic polyzwitterionic coacervates (pZCOs) that recapitulate both the lubrication and cartilage-binding functionalities of the natural boundary lubrication layer. pZCOs exhibit strong binding affinity to fibronectin, establish a stable and ultralow-friction lubrication layer on the cartilage surface, facilitate the sustained release of anti-inflammatory drugs, and preserve the viability and anti-inflammatory paracrine secretion of encapsulated mesenchymal stem cells. In both rat and mini-pig models of osteoarthritis, intra-articular administration of drug/MSC-laden pZCOs effectively reduces cartilage degradation, suppresses inflammation and promotes cartilage integrity, outperforming clinical hyaluronic acid lubricants in lubrication performance, in vivo retention and therapeutic efficacy. These findings highlight the translational potential of engineered biomimetic coacervates as next-generation joint lubricants for integrated management of osteoarthritis. Polyzwitterionic coacervates with therapeutic payload delivery, mimicking physiological lubrication and cartilage-binding functionalities, reduce joint friction and inflammation in rat and mini-pig osteoarthritis models.
+
+### [Crunchbase Data Shows Q3 Robotics Startup Funding Jumps 185% As US And China Lead Physical AI Push](https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/`
+
+Venture funding to robotics startups has soared in 2026, with the bulk of investment going to companies based in China and the U.S., Crunchbase data shows. All told, global venture funding to robotics startups totaled $9.9 billion in Q3, more than double the $4.3 billion invested in Q3 2025, per Crunchbase data.
+
+### [Fitbit Edge: Premium design for an active life](https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/)
+
+- Source: `fitbit_google_blog` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp">With a reimagined screen, refined mechanics, and elevated style, Fitbit Edge looks as good as it performs, year after year.
+
+### [Implementing Digital Care Pathways and Changes in Contact Volume, Contact Distribution, and Outpatient Costs in Specialized Health Care: Retrospective Longitudinal Observational Study](https://www.jmir.org/article/view/jmir_v28i1e97853)
+
+- Source: `jmir` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e97853`
+
+&lt;strong&gt;Background:&lt;/strong&gt; Health care systems increasingly promote patient engagement and self-management through digital health services. Digital care pathways, which support coordinated care delivery across the patient journey, have emerged as a promising approach, although evidence regarding their impact on resource use and costs remains limited. &lt;strong&gt;Objective:&lt;/strong&gt; The aim of this study was to examine the implementation and impact of digital care pathways specifically designed to reduce or replace physical contacts or phone consultations in specialized health care. &lt;strong&gt;Methods:&lt;/strong&gt; We analyzed the 10 most widely used digital care pathways by user volume. The selection criteria were (1) more than 1500 users per digital care pathway and (2) the aim of replacing or reducing in-person contacts. Descriptive analyses quantified digital contact volumes, average contacts and costs per patient, and inflation-adjusted expenditures using the consumer price index, both overall and by patient group. Ecologic group-level correlations were examined to assess whether the 2024 proportion of digital contacts was associated with changes in physical contacts and total costs from 2018 to 2024. &lt;strong&gt;Results:&lt;/strong&gt; Digital care pathways were progressively adopted between 2018 and 2024, increasing from no use to accounting for 19.1% (34,837/182,188) of all outpatient contacts among the studied patient groups. Physical visits declined from 74.8% (99,201/132,622) to 54.1% (98,642/182,188), while contacts per patient rose by 7.6% on average. Conditions with the highest uptake of digital pathways showed the strongest reductions in the share of physical visits per patient, with declines of up to 39.7% (0.73/0.44). Average outpatient costs per patient decreased by 18.2% (€421/€515; €1=US $1.12 as of Oct 16, 2026) in real terms, with a 39.3% (€233/€384) reduction in the costs of physical contacts and a 15.4% (€135/€117) increase in the costs of phone visits. Digital pathway contacts accounted for 12.6% (€53/€421 per patient) of total outpatient costs in 2024; however, only 8.8% of the variance in total cost levels was explained by digital pathway adoption, suggesting that the shift toward digital care pathways did not substantially drive overall cost changes. &lt;strong&gt;Conclusions:&lt;/strong&gt; Digital care pathways expanded rapidly, reaching nearly one-fifth of all outpatient contacts by 2024 in the included patient groups and contributing to a notable reduction in physical visits. However, their overall cost impact remains uncertain, as there have also been other factors impacting the development of outpatient costs. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/cf4795ec9b9f78506e2f6fd053acda8f" />
+
+### [Metabolic heterogeneity of obesity](https://www.nature.com/articles/s41591-026-04718-7)
+
+- Source: `nature_medicine` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04718-7`
+
+Multi-organ-system insulin resistance is the key pathogenic driver of obesity-related metabolic complications and diseases, such as atherogenic dyslipidemia, metabolic dysfunction-associated steatotic liver disease and type 2 diabetes. However, there is considerable heterogeneity in insulin sensitivity among people with obesity. Some are considered to have metabolically healthy obesity, with normal insulin sensitivity in conjunction with normal fasting blood glucose, oral glucose tolerance, plasma lipid profile and intrahepatic triglyceride content. In this Review, we discuss metabolic differences at the cellular, organ-system and systemic levels between people with metabolically healthy and metabolically unhealthy obesity; we also discuss heterogeneity in the therapeutic effects of weight reduction. A better understanding of the differences between metabolically divergent groups and the physiological responses to weight loss can help identify the factors responsible for the link between excess adiposity and metabolic dysfunction and disease. This Review examines the cellular, organ-level and whole-body differences between metabolically healthy and metabolically unhealthy obesity, as well as variations in response to weight loss—with the goal of improving strategies for preventing and treating obesity-related metabolic disorders.
+
+### [Opinion: Cancer vaccines are finally here. How do we get them to patients?](https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss`
+
+“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki.
+
+### [Opinion: Emergency pediatric care is now in permanent crisis mode](https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/27/pediatric-emergency-care-rural-hospital-closures/?utm_campaign=rss`
+
+“In 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,” write Jonathan Kohler and Mary King.
+
+### [Persistent and compartmentalized T cell immunity in ALS](https://www.nature.com/articles/s41591-026-04728-5)
+
+- Source: `nature_medicine` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04728-5`
+
+Amyotrophic lateral sclerosis is a fatal neurodegenerative disease increasingly linked to T cell responses, although the mechanisms driving T cell activation and disease progression remain unclear. Here we used single-cell RNA and T cell receptor sequencing, longitudinal immune profiling and imaging flow cytometry to identify long-lived intrathecal clonotypes and antigen-presenting cell–T cell complexes displaying features of immunological synapse formation, consistent with intrathecal antigen presentation. Higher frequencies of CD4+ effector, CD4+ regulatory and CD8+ T cells in cerebrospinal fluid (CSF) were associated with slower disease progression, whereas increased circulating CD4+ effector and regulatory T cells were associated with faster progression. T cell clonotypes shared between blood and CSF exhibited distinct transcriptional states. Finally, frequencies of cytomegalovirus-specific T cells in CSF and anticytomegalovirus serum antibodies were correlated with faster progression and shorter survival in sporadic amyotrophic lateral sclerosis. These findings reveal compartmentalized immune dynamics, largely contrasting protective intrathecal responses with harmful systemic activation. In ALS, persistent T cell responses relate to disease outcome differently in blood than in cerebrospinal fluid, with both intrathecal antigen presentation and cytomegalovirus-specific immunity linked to worse clinical outcomes.
+
 ### [Radiographer fracture detection with and without AI assistance in prospective emergency department use](https://www.nature.com/articles/s41746-026-03313-x)
 
 - Source: `npj_digital_medicine` · published `2026-10-27` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03313-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03313-x`
 
 Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 2496 consecutive musculoskeletal examinations (one radiographer per examination), reviewed output from a commercial deep-learning system, then recorded a final decision, giving 2496 paired reads against a radiologist reference standard. Standalone AI sensitivity was 75.6%, falling to 46.2% for subtle fractures, below the radiographers’ baseline sensitivity of 91.6%. Radiographers’ baseline accuracy was high (97.6%; specificity 99.0%) and improved modestly with AI assistance (98.0%; exact McNemar p = 0.0064). With AI assistance, radiographers corrected 11 errors and introduced 1, a net gain of 10 cases. Subgroup gains were directionally consistent but not significant after correction. Radiographers changed their decision in only 11 of 729 discordant cases, and most negative interactions were correct AI recommendations not adopted. No or incomplete AI output was returned for 8.8% of acquired examinations. AI assistance delivered a small, selective benefit arising from complementary rather than superior algorithmic performance. Operational reliability proved as consequential as diagnostic accuracy, and behavioural inferences rest on few events. Downstream clinical outcomes were not measured.
+
+### [RadNet acquires ONRAD in $355m deal to broaden radiology provision](https://www.medicaldevice-network.com/news/radnet-acquires-onrad-in-355m-deal-to-broaden-radiology-provision/)
+
+- Source: `medical_device_network` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/radnet-acquires-onrad-in-355m-deal-to-broaden-radiology-provision/`
+
+<p>RadNet said that inheriting ONRAD’s teleradiology and hospital-based radiology services platform gives it the ability to address the ‘full range’ of imaging care settings.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/radnet-acquires-onrad-in-355m-deal-to-broaden-radiology-provision/">RadNet acquires ONRAD in $355m deal to broaden radiology provision</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Senseonics begins first human trial of Freedom CGM](https://www.medicaldevice-network.com/news/senseonics-begins-freedom-cgm-trial/)
+
+- Source: `medical_device_network` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/senseonics-begins-freedom-cgm-trial/`
+
+<p>Senseonics Holdings has begun a first-in-human clinical study to assess Freedom, its investigational CGM system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/senseonics-begins-freedom-cgm-trial/">Senseonics begins first human trial of Freedom CGM</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own](https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss`
+
+A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice.
+
+### [Your AI Agents Need A Chief Operating Officer, Too](https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/)
+
+- Source: `crunchbase_news_feed` · published `2026-10-27` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/`
+
+Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they should start with tasks governed by established rules, adjust autonomy to each workflow’s risks, and regularly review results before expanding agents’ authority.
 
 ---
 

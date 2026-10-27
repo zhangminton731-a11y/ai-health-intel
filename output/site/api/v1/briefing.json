@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T06:17:20+00:00",
+  "generated_at": "2026-10-27T13:12:55+00:00",
   "as_of": "2026-10-27",
   "item_ids": [
     "url:https://www.nature.com/articles/s41591-026-04756-1",
@@ -30,11 +30,10 @@
       "date": "2026-10-22",
       "item_ids": [
         "pmid:42911185",
-        "url:https://www.medicaldevice-network.com/news/uk-government-confirms-indefinite-eu-ce-mark-recognition/",
         "pmid:42911562",
         "pmid:42911181"
       ],
-      "minutes": 3
+      "minutes": 2
     },
     {
       "date": "2026-10-21",

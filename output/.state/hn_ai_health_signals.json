@@ -1,5 +1,4 @@
 {
-  "url:https://github.com/FrigadeHQ/hob": "cc0d40e1cd0fe207bfa664d7a7324e326f1a649d8ad36af0b75bf4ce97f537e1",
-  "url:https://minimaxir.com/2026/10/cheap-llms/": "1193dfe23150382d78966a9e08e69212949f281958b960fa0a77ee588fc5fb32",
-  "url:https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": "d135473350a2fece0d2047058e873e67dec10f9980d284e38a2ff34d0f3de005"
+  "url:https://github.com/FrigadeHQ/hob": "e365322aabbf2b15ea7cdcaa1e9dc0d7619dbfdc383361c1275039720864adbb",
+  "url:https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": "8425e3653e08c7ea59d9a4e8af2d642a0935ae94797a81c3ed6261e73c299a78"
 }
