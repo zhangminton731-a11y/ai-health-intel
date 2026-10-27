@@ -1,9 +1,138 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T16:47:49+00:00",
+  "generated_at": "2026-10-27T00:26:07+00:00",
   "as_of": "2026-10-27",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04734-7",
+      "t": "胰腺癌中淋巴结靶向、mKRAS 特异性两亲疫苗：随机 2 期 AMPLIFY-7P 试验",
+      "te": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+      "s": "在 1 期 AMPLIFY-201 试验中，Camupepimut (ELI-002 7P) 驱动突变 KRAS (mKRAS) 特异性 T 细胞反应，该反应与 mKRAS 胰腺腺癌 (PDAC) 患者的无病生存 (DFS) 和总生存 (OS) 相关。 DFS 事后多变量 Cox 回归分析表明 camupepimut 的结果有所改善（调整后的 HR 0.47，P = 0.0086），III 期疾病的结果较差（调整后的 HR 2.29，P = 0.0127），基线 CA19-9 升高（调整后的 HR 3.16，P < 0.0001）和基线循环肿瘤 DNA (ctDNA) 阳性（调整后的 HR） 5.99，P < 0.0001）。在接受 camupepimut 治疗的患者中，mKRAS 特异性 T 细胞应答较基线高 9.17 倍（82.2%，74/90）与 DFS 改善相关（HR 0.22，P < 0.0001），中位 DFS 未达到，而高于和低于 9.17 倍的中位 DFS 分别为 6.08 个月。",
+      "se": "Camupepimut (ELI-002 7P) drives mutated KRAS (mKRAS)-specific T cell responses that correlated with disease-free survival (DFS) and overall survival (OS) in patients with mKRAS pancreatic adenocarcinoma (PDAC) in the phase 1 AMPLIFY-201 trial. Post hoc multivariate Cox regression analysis of DFS indicated an improved outcome for camupepimut (adjusted HR 0.47, P = 0.0086), a worse outcome for stage III disease (adjusted HR 2.29, P = 0.0127), an elevated baseline CA19-9 (adjusted HR 3.16, P < 0.0001) and baseline circulating tumor DNA (ctDNA) positivity (adjusted HR 5.99, P < 0.0001). In camupepimut-treated patients, mKRAS-specific T cell response >9.17-fold over baseline (82.2%, 74/90) correlated with improved DFS (HR 0.22, P < 0.0001), with the median DFS not reached versus 6.08 months for above and below 9.17-fold, respectively.",
+      "u": "https://www.nature.com/articles/s41591-026-04734-7",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04734-7",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04734-7"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-23T12:39:10+00:00",
+        "input_hash": "852bddb0dbd34d6d2d4387f4a45c7bca6ab7309308db23ac3098942283faf641",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是mKRAS特异性淋巴结靶向疫苗camupepimut在胰腺癌辅助治疗中的随机II期试验，主要终点DFS未达标，但ctDNA阴性、既往未放疗亚组及T细胞应答倍数与DFS的关联等预设与探索性分析可指导III期人群选择和免疫监测生物标志物设计。限制在于主要终点阴性、事后多变量分析有验证性不足，效果信号不能等同于临床获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610232039012e4ecae8a6574af9",
+              "seconds": 5.0,
+              "usage": {
+                "completion_tokens": 206,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 21
+                },
+                "prompt_tokens": 1499,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1705
+              }
+            },
+            "support": "The primary DFS endpoint was not met (median 23.8 versus 21.2 months; HR 0.85, P = 0.5329). However, prespecified and exploratory analyses were informative.",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261023203906424fe209ad18424d",
+              "seconds": 3.75,
+              "usage": {
+                "completion_tokens": 185,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 20
+                },
+                "prompt_tokens": 1499,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1684
+              }
+            },
+            "support": "The primary DFS endpoint was not met (median 23.8 versus 21.2 months; HR 0.85, P = 0.5329).",
+            "total": 70
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "4 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04707-w",
       "t": "淋巴瘤患者多中心、多试验队列分析中 CAR T 细胞治疗反应的决定因素",
@@ -3650,9 +3779,10 @@
     {
       "date": "2026-10-23",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41591-026-04707-w"
+        "url:https://www.nature.com/articles/s41591-026-04707-w",
+        "url:https://www.nature.com/articles/s41591-026-04734-7"
       ],
-      "minutes": 1
+      "minutes": 3
     },
     {
       "date": "2026-10-22",
