@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T06:51:57+00:00",
+  "generated_at": "2026-10-28T14:01:39+00:00",
   "as_of": "2026-10-28",
-  "count": 20,
+  "count": 19,
   "items": [
     {
       "id": "pmid:42904878",
@@ -600,127 +600,6 @@
             },
             "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
             "total": 79
-          }
-        ],
-        "score": 78,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41591-026-04756-1",
-      "title": "Relatlimab 加纳武单抗与纳武单抗治疗晚期黑色素瘤：3 期 RELATIVITY-047 试验的 5 年生存率和生物标志物分析",
-      "original_title": "Relatlimab plus nivolumab versus nivolumab for advanced melanoma: 5-year survival and biomarker analyses of the phase 3 RELATIVITY-047 trial",
-      "summary": "根据 RELATIVITY-047 试验，纳武单抗联合 relatlimab 被批准用于治疗晚期黑色素瘤；然而，需要长期数据。在这项预先指定的 5 年分析中，最短随访时间为 57.3 个月，纳武单抗联合 relatlimab 证明，与纳武单抗相比，在 PFS（风险比 = 0.77；95% 置信区间：0.65–0.92）、OS（风险比 = 0.78；95% 置信区间：0.64–0.95）和 MSS（风险比 = 0.71；95% 置信区间：0.57–0.88）。",
-      "url": "https://www.nature.com/articles/s41591-026-04756-1",
-      "source": "Nature Medicine",
-      "source_type": "期刊论文",
-      "published_at": "2026-10-24",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_medicine"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_medicine",
-        "summary_source": "https://www.nature.com/articles/s41591-026-04756-1",
-        "upstream_id": "https://www.nature.com/articles/s41591-026-04756-1"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。"
-      },
-      "reading_value_score": 78,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-24T12:01:19+00:00",
-        "input_hash": "0d12f4e99923bc8e04e5011561278aad18cf80a3d765025b4c981edc39e31913",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "该III期试验5年预设分析提供了纳武利尤单抗联合雷拉替尼在晚期黑色素瘤的长期PFS/OS/MSS获益及LAG-3生物标志物与原发/获得性耐药的关联数据，对免疫联合治疗研究和生物标志物策略设计有直接参考价值；局限是LAG-3机制假设主要基于探索性事后分析，需谨慎解读因果关系。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261024200109b0ceb546b5bb492b",
-              "seconds": 5.92,
-              "usage": {
-                "completion_tokens": 240,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 10
-                },
-                "prompt_tokens": 1364,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1604
-              }
-            },
-            "support": "nivolumab plus relatlimab demonstrated continued clinically significant benefit versus nivolumab for PFS (hazard ratio = 0.77; 95% confidence interval: 0.65–0.92), OS (hazard ratio = 0.78; 95% confide",
-            "total": 80
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261024200115d02e4f3e94874b9c",
-              "seconds": 4.53,
-              "usage": {
-                "completion_tokens": 224,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 22
-                },
-                "prompt_tokens": 1364,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1588
-              }
-            },
-            "support": "In this prespecified 5-year analysis, with a minimum follow-up of 57.3 months, nivolumab plus relatlimab demonstrated continued clinically significant benefit versus nivolumab for PFS (hazard ratio =",
-            "total": 77
           }
         ],
         "score": 78,
