@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T14:01:39+00:00",
-  "as_of": "2026-10-28",
+  "generated_at": "2026-10-29T00:57:33+00:00",
+  "as_of": "2026-10-29",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -127,7 +127,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-10-24",
       "reasons": {
         "research": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。"
@@ -258,7 +258,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
@@ -387,7 +387,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
@@ -518,7 +518,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
@@ -646,7 +646,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-22",
       "reasons": {
         "industry": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。"
@@ -775,7 +775,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
@@ -905,7 +905,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -1034,7 +1034,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
@@ -1160,7 +1160,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -1290,7 +1290,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
@@ -1420,7 +1420,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
@@ -1552,7 +1552,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -1683,7 +1683,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -1811,7 +1811,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -1938,7 +1938,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。"
@@ -2069,7 +2069,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -2202,7 +2202,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
@@ -2334,7 +2334,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
@@ -2465,7 +2465,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
@@ -2597,7 +2597,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
@@ -2728,7 +2728,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
@@ -2859,7 +2859,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
@@ -2990,7 +2990,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
@@ -3124,7 +3124,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
@@ -3255,7 +3255,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
@@ -3386,7 +3386,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -3517,398 +3517,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-12",
       "reasons": {
         "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
-      "t": "2027 年 Medicare Advantage 和 D 部分星级评级",
-      "te": "2027 Medicare Advantage and Part D Star Ratings",
-      "s": "2027 年 Medicare Advantage 和 D 部分星级 注：本情况说明书中包含的信息基于 2026 年 10 月 8 日在 Medicare Plan Finder 上发布的 2027 年 Medicare Advantage (MA) 和 D 部分星级评级。有关 MA 和 D 部分星级评级方法的详细信息，请参阅 2027 年 C 部分和 D 部分星级评级技术说明。确保 Medicare 为老年人和残疾人提供服务，并确保 Medicare 受益人能够获得强大、稳定、高质量和负担得起的选择来满足他们所需的保险范围，这是 Medicare 和 Medicaid 服务中心 (CMS) 的首要任务。",
-      "se": "2027 Medicare Advantage and Part D Star Ratings Note: The information included in this Fact Sheet is based on the 2027 Medicare Advantage (MA) and Part D Star Ratings published on the Medicare Plan Finder on Oct. 8, 2026. For details on the methodology of the MA and Part D Star Ratings, please refer to the 2027 Part C & D Star Ratings Technical Notes available at http://go.cms.gov/partcanddstarratings . Ensuring that Medicare works for seniors and people with disabilities and that people with Medicare have access to robust, stable, high-quality, and affordable options for the coverage they need are top priorities for the Centers for Medicare & Medicaid Services (CMS).",
-      "u": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
-      "image": "",
-      "src": "CMS · 政策事实说明",
-      "role": "官方机构",
-      "cat": "官方机构",
-      "trust": 3,
-      "sourceType": "官方机构",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "industry"
-      ],
-      "categories": {
-        "industry": [
-          "overview"
-        ]
-      },
-      "stages": [],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "cms_fact_sheets"
-        ],
-        "retrieved_via": "cms_facts",
-        "source_id": "cms_fact_sheets",
-        "summary_kind": "source_excerpt",
-        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
-        "upstream_id": ""
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 78,
-      "editorial": {
-        "audiences": [
-          "industry"
-        ],
-        "evaluated_at": "2026-10-09T01:15:19+00:00",
-        "input_hash": "96bc56a8c75115299b5fac5c565ac47b06adcc0a1e2205bc42cb3851a17c85c6",
-        "input_scope": "source_excerpt",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。",
-        "reviews": [
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "industry",
-            "reason": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610090915100de11a77cb3c40c9",
-              "seconds": 4.13,
-              "usage": {
-                "completion_tokens": 160,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 29
-                },
-                "prompt_tokens": 4323,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 4483
-              }
-            },
-            "support": "will impact 2028 MA quality bonus payments",
-            "total": 73
-          },
-          {
-            "audiences": [
-              "industry"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 9,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "industry",
-            "reason": "CMS官方发布2027年MA与Part D星级评分结果及方法论变更（新增COB、Poly-ACH等指标、权重调整），直接影响2028年质量奖金支付与2027年开放注册，是美国医保计划准入与质量战略的关键决策依据。限制在于这是例行年度发布，具体措施级得分与合同明细需查阅技术说明，且评分不直接证明临床获益。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610090915156a127df138d94248",
-              "seconds": 5.19,
-              "usage": {
-                "completion_tokens": 214,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 30
-                },
-                "prompt_tokens": 4323,
-                "prompt_tokens_details": {
-                  "cached_tokens": 64
-                },
-                "total_tokens": 4537
-              }
-            },
-            "support": "The 2027 Star Ratings announced today appear on Medicare Plan Finder for 2027 Open Enrollment, which begins on October 15, 2026 and runs through December 7, 2026, and will impact 2028 MA quality bonus",
-            "total": 83
-          }
-        ],
-        "score": 78,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-08",
-      "reasons": {
-        "industry": "这是CMS官方发布的2027年MA与Part D星评级事实清单，直接决定2028年质量奖金支付，并披露新增COB、Poly-ACH等措施、权重变化及各合同评级分布，产业读者可据此判断计划绩效、奖金资格与产品布局。限制为官方汇总性数据，无第三方分析或策略结论。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42849489",
-      "t": "口服 deucrictibant 用于按需治疗遗传性血管性水肿发作：一项 3 期、多中心、随机、双盲、安慰剂对照交叉试验。",
-      "te": "Oral deucrictibant for on-demand treatment of hereditary angioedema attacks: a phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial.",
-      "s": "背景 在遗传性血管性水肿（一种罕见的缓激肽介导的疾病）中，促进迅速给药并提供快速、持续缓解和缓解发作的口服按需治疗仍然很少。我们研究了 deucrictibant（一种口服缓激肽 B2 受体拮抗剂）用于按需治疗遗传性血管性水肿发作的疗效和安全性。方法 RAPIDe-3 是一项 3 期、双盲、2 × 2 交叉试验，受试者为患有遗传性血管水肿的青少年和成人参与者（年龄分别为 ≥12 岁至 < 18 岁和年龄 ≥18 至≤75 岁），在六大洲 24 个国家的 59 个地点进行。",
-      "se": "Background In hereditary angioedema, a rare bradykinin-mediated condition, oral on-demand treatments facilitating prompt administration and providing rapid, sustained relief and attack resolution remain scant. We investigated the efficacy and safety of deucrictibant, an oral bradykinin B2 receptor antagonist, for on-demand treatment of hereditary angioedema attacks. Methods RAPIDe-3 was a phase 3, double-blind, 2 × 2 crossover trial in adolescent and adult participants (aged ≥12 to < 18 years and aged ≥18 to ≤75 years, respectively) with hereditary angioedema, at 59 sites across 24 countries on six continents.",
-      "u": "https://doi.org/10.1016/s0140-6736(26)01296-1",
-      "image": "",
-      "src": "The Lancet · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "lancet_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42849489",
-        "upstream_id": "42849489"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-16T17:26:02+00:00",
-        "input_hash": "fba053074672aab7a064da7edd03d828cf051a775b5eb3f4d17aea1edb97aa46",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 6,
-              "significance": 7,
-              "usefulness": 5
-            },
-            "kind": "research",
-            "reason": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026101701255678c3ebb141de41b1",
-              "seconds": 2.99,
-              "usage": {
-                "completion_tokens": 170,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 18
-                },
-                "prompt_tokens": 1220,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1390
-              }
-            },
-            "support": "phase 3, multicentre, randomised, double-blind, placebo-controlled crossover trial",
-            "total": 70
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 6,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "III期双盲交叉试验报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作的疗效（症状缓解中位时间1.28小时 vs 安慰剂>12小时），为潜在首个口服药提供关键证据；主要局限为交叉设计中配对分析仅纳入88名参与者，且为药企资助的单项试验结果。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261017012559783db7fe3ddc4e93",
-              "seconds": 2.96,
-              "usage": {
-                "completion_tokens": 171,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 13
-                },
-                "prompt_tokens": 1220,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1216
-                },
-                "total_tokens": 1391
-              }
-            },
-            "support": "Onset of symptom relief occurred significantly faster with deucrictibant than placebo, with median times of 1·28 h",
-            "total": 71
-          }
-        ],
-        "score": 70,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-08",
-      "reasons": {
-        "research": "III期双盲交叉RCT报告口服缓激肽B2受体拮抗剂deucrictibant按需治疗遗传性血管性水肿发作显著缩短症状缓解时间，填补该罕见病口服按需治疗的证据空白，对罕见病临床试验设计（交叉设计、发作水平分析）亦有参考价值；但摘要数据被截断，完整终点与安全性细节需查原文，且为药企资助研究。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42848371",
-      "t": "烟酰胺核苷治疗早期帕金森病患者：NOPARK 随机临床试验。",
-      "te": "Nicotinamide Riboside for Patients With Early-Stage Parkinson Disease: The NOPARK Randomized Clinical Trial.",
-      "s": "重要性 烟酰胺核苷是一种烟酰胺腺嘌呤二核苷酸前体，根据临床前和早期研究，已被提议作为帕金森病的潜在疾病缓解疗法。长期口服烟酰胺核苷是否可以改善帕金森病的临床结果尚不清楚。目的 确定与安慰剂相比，烟酰胺核苷是否可以改善帕金森病的临床结果。设计、设置和参与者 在挪威 11 个中心进行的随机、双盲、安慰剂对照 3 期临床试验。符合资格的参与者是年龄35岁或以上、入组前2年内诊断出患有帕金森病、Hoehn和Yahr疾病分期小于3、异常多巴胺转运蛋白闪烁扫描结果证实多巴胺能黑质纹状体去神经以及入组前接受稳定多巴胺能治疗的患者。",
-      "se": "Importance Nicotinamide riboside, a nicotinamide adenine dinucleotide precursor, has been proposed as a potential disease-modifying therapy for Parkinson disease based on preclinical and early studies. Whether prolonged oral nicotinamide riboside improves clinical outcomes in Parkinson disease is unknown. Objective To determine whether nicotinamide riboside improves clinical outcomes in Parkinson disease compared with placebo. Design, setting, and participants Randomized, double-blind, placebo-controlled, phase 3 clinical trial conducted at 11 centers in Norway. Eligible participants were patients aged 35 years or older with Parkinson disease diagnosed within 2 years before enrollment, Hoehn and Yahr disease stage less than 3, abnormal dopamine transporter scintigraphy findings confirming dopaminergic nigrostriatal denervation, and stable dopaminergic treatment before enrollment.",
-      "u": "https://doi.org/10.1001/jama.2026.18828",
-      "image": "",
-      "src": "JAMA · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42848371",
-        "upstream_id": "42848371"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 77,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-16T17:26:13+00:00",
-        "input_hash": "9d8da330d50bb0e84ec01d83e6e61d92254326a34e29d152edaf19c5f39f7004",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261017012606874f9216adb948e7",
-              "seconds": 3.98,
-              "usage": {
-                "completion_tokens": 143,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1519,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1662
-              }
-            },
-            "support": "Among patients with early Parkinson disease, nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo.",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这是NAD前体烟酰胺核糖治疗早期帕金森病的III期随机双盲安慰剂对照试验（410例、52周），结果为阴性且主要结局反而劣于安慰剂，对补充剂类疾病修饰疗法的研发方向有直接纠正价值。限制为主要结局组间差异仅2.72分、处于临床意义边界附近，结论宜谨慎外推。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261017012610ac5beb15fec84bdc",
-              "seconds": 3.28,
-              "usage": {
-                "completion_tokens": 155,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1519,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1472
-                },
-                "total_tokens": 1674
-              }
-            },
-            "support": "nicotinamide riboside treatment for 52 weeks did not improve clinical outcomes and was associated with worse clinical outcomes than placebo",
-            "total": 77
-          }
-        ],
-        "score": 77,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-08",
-      "reasons": {
-        "research": "高质量的III期RCT以阴性结果否定了烟酰胺核糖对早期帕金森病的疾病修饰作用，且提示非运动症状负担加重，对NAD前体类研究设计和补充剂宣称有直接校准价值；结论基于摘要级信息，全文细节与亚组分析尚未核实。"
       },
       "historical": true
     }
@@ -4006,15 +3618,6 @@
         "url:https://www.medtechdive.com/news/stryker-enters-soft-tissue-robotics-with-400m-investment-in-cmr-surgical/832751/"
       ],
       "minutes": 2
-    },
-    {
-      "date": "2026-10-08",
-      "item_ids": [
-        "pmid:42848371",
-        "url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings",
-        "pmid:42849489"
-      ],
-      "minutes": 3
     }
   ]
 }
