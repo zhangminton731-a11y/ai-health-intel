@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-30
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 441
+> Daily status: **complete_with_warning** · sources 26/26 · items 442
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -142,7 +142,7 @@ FDA today approved Hibsago (bepirovirsen) injection, in combination with existin
 
 No items.
 
-## Archive · 425
+## Archive · 426
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1020,9 +1020,9 @@ The U.S. Food and Drug Administration today approved the Autus Size-Adjustable V
 
 - Source: `nejm_abstracts` · published `2026-10-01` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42950203`
+- Event: `updated` · identity: `pmid:42950203`
 
-The rapid worldwide spread of antimicrobial resistance among gram-negative bacteria is driven by a complex interplay of human, environmental, and health care-associated factors and accelerated by mobile genetic elements that facilitate the dissemination of resistance genes. Resistance in gram-negative bacteria arises primarily through reduced drug entry, active drug efflux, modification of antibiotic targets, and enzymatic drug inactivation, most notably through β-lactamase production. Clinically important resistant pathogens include extended-spectrum β-lactamase-producing Enterobacterales, carbapenem-resistant Enterobacterales, Pseudomonas aeruginosa with difficult-to-treat resistance, and carbapenem-resistant Acinetobacter baumannii. Limited access to effective antibiotics and the continued emergence of resistance to available agents pose substantial challenges to the management of these infections. Appropriate management requires timely and accurate diagnostics, targeted use of newer β-lactam agents, effective source control, and judicious selection of treatment durations.
+The rapid worldwide spread of antimicrobial resistance among gram-negative bacteria is driven by a complex interplay of human, environmental, and health care-associated factors and accelerated by mobile genetic elements that facilitate the dissemination of resistance genes. Resistance in gram-negative bacteria arises primarily through reduced drug entry, active drug efflux, modification of antibiotic targets, and enzymatic drug inactivation, most notably through β-lactamase production. Clinically important resistant pathogens include extended-spectrum β-lactamase-producing Enterobacterales, carbapenem-resistant Enterobacterales, <i>Pseudomonas aeruginosa</i> with difficult-to-treat resistance, and carbapenem-resistant <i>Acinetobacter baumannii</i>. Limited access to effective antibiotics and the continued emergence of resistance to available agents pose substantial challenges to the management of these infections. Appropriate management requires timely and accurate diagnostics, targeted use of newer β-lactam agents, effective source control, and judicious selection of treatment durations.
 
 ### [Ianalumab for the Treatment of Patients with Sjögren's Disease.](https://doi.org/10.1056/nejmoa2601088)
 
@@ -1156,7 +1156,7 @@ The rapid worldwide spread of antimicrobial resistance among gram-negative bacte
 
 - Source: `oura_blog` · published `2026-10-01` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/wear-your-best-life-oura-challenge-au/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/wear-your-best-life-oura-challenge-au/`
 
 <p>Official Rules – Australian Residents NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN THIS CHALLENGE. YOU HAVE NOT YET WON. A PURCHASE WILL NOT IMPROVE YOUR CHANCES OF WINNING. THIS CHALLENGE IS INTENDED FOR ELIGIBLE RESIDENTS OF AUSTRALIA ONLY AND WILL BE GOVERNED BY THE LAWS OF AUSTRALIA. DO NOT [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/wear-your-best-life-oura-challenge-au/">Wear Your Best Life Oura Challenge — AU</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -2588,9 +2588,9 @@ Background: Publicly accessible, internet-based AI chatbots have emerged as unre
 
 - Source: `nejm_abstracts` · published `2026-10-27` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42950222`
+- Event: `updated` · identity: `pmid:42950222`
 
-Although international guidelines recommend intrauterine insemination (IUI) with ovarian stimulation as first-line treatment for unexplained infertility, evidence from comparisons of this method with in vitro fertilization (IVF) is limited. We conducted a sequential, multicenter, randomized, controlled trial involving couples with unexplained infertility. Stage 1 was a noninferiority comparison between IUI with ovarian stimulation (up to four cycles) and IVF (one complete cycle, with transfer of all embryos). After 7 months, couples without live birth or ongoing pregnancy could proceed to stage 2: couples in the IUI group could undergo up to two IVF cycles, and those in the IVF group could undergo one further IVF cycle. The primary outcome was the cumulative live-birth rate resulting from stage 1. Couples who were in stage 1 during lockdowns due to coronavirus disease 2019 were omitted from the analysis of the primary outcome. A secondary outcome was the cumulative live-birth rate resulting from stages 1 and 2. Live births were included in analyses if day 1 of the treatment cycle that led to pregnancy or day 1 of the last menstrual period before conception occurred within 7 months (stage 1) or 20 months (stage 2) after randomization. The noninferiority margin for the primary outcome was a between-group difference of 10 percentage points. A total of 737 couples underwent randomization: 365 couples were assigned to undergo IUI with ovarian stimulation before IVF, and 372 were assigned to undergo first-line IVF (1 couple in the IVF group withdrew consent for the use of data). The primary-outcome analysis included 585 couples (288 in the IUI group and 297 in the IVF group). The cumulative live-birth rate from stage 1 was 31% (89 births among 288 couples) with IUI with ovarian stimulation and 55% (164 births among 297 couples) with IVF (adjusted risk difference, -24 percentage points; 95% confidence interval [CI], -31 to -16). The cumulative live-birth rate from stages 1 and 2 among all the couples who had undergone randomization and provided consent was 70% (257 births among 365 couples) and 71% (265 births among 371 couples), respectively (adjusted risk difference, 0 percentage points; 99% CI, -9 to 8). Overall, serious adverse events occurred in 6 couples in the IUI group and in 14 couples in the IVF group; most serious adverse events were related to oocyte retrieval or hyperstimulation. In couples with unexplained infertility, treatment with four cycles of IUI with ovarian stimulation was not noninferior to treatment with one complete cycle of IVF with respect to the cumulative live-birth rate. (Funded by the Health Research Council of New Zealand and others; FIIX Australian New Zealand Clinical Trials Registry number, ACTRN12619001003167.).
+<h4>Background</h4>Although international guidelines recommend intrauterine insemination (IUI) with ovarian stimulation as first-line treatment for unexplained infertility, evidence from comparisons of this method with in vitro fertilization (IVF) is limited.<h4>Methods</h4>We conducted a sequential, multicenter, randomized, controlled trial involving couples with unexplained infertility. Stage 1 was a noninferiority comparison between IUI with ovarian stimulation (up to four cycles) and IVF (one complete cycle, with transfer of all embryos). After 7 months, couples without live birth or ongoing pregnancy could proceed to stage 2: couples in the IUI group could undergo up to two IVF cycles, and those in the IVF group could undergo one further IVF cycle. The primary outcome was the cumulative live-birth rate resulting from stage 1. Couples who were in stage 1 during lockdowns due to coronavirus disease 2019 were omitted from the analysis of the primary outcome. A secondary outcome was the cumulative live-birth rate resulting from stages 1 and 2. Live births were included in analyses if day 1 of the treatment cycle that led to pregnancy or day 1 of the last menstrual period before conception occurred within 7 months (stage 1) or 20 months (stage 2) after randomization. The noninferiority margin for the primary outcome was a between-group difference of 10 percentage points.<h4>Results</h4>A total of 737 couples underwent randomization: 365 couples were assigned to undergo IUI with ovarian stimulation before IVF, and 372 were assigned to undergo first-line IVF (1 couple in the IVF group withdrew consent for the use of data). The primary-outcome analysis included 585 couples (288 in the IUI group and 297 in the IVF group). The cumulative live-birth rate from stage 1 was 31% (89 births among 288 couples) with IUI with ovarian stimulation and 55% (164 births among 297 couples) with IVF (adjusted risk difference, -24 percentage points; 95% confidence interval [CI], -31 to -16). The cumulative live-birth rate from stages 1 and 2 among all the couples who had undergone randomization and provided consent was 70% (257 births among 365 couples) and 71% (265 births among 371 couples), respectively (adjusted risk difference, 0 percentage points; 99% CI, -9 to 8). Overall, serious adverse events occurred in 6 couples in the IUI group and in 14 couples in the IVF group; most serious adverse events were related to oocyte retrieval or hyperstimulation.<h4>Conclusions</h4>In couples with unexplained infertility, treatment with four cycles of IUI with ovarian stimulation was not noninferior to treatment with one complete cycle of IVF with respect to the cumulative live-birth rate. (Funded by the Health Research Council of New Zealand and others; FIIX Australian New Zealand Clinical Trials Registry number, ACTRN12619001003167.).
 
 ### [Laparoscopic Versus Open Liver Resection for Colorectal Liver Metastases : An Individual Participant Data Meta-analysis of Four Randomized Clinical Trials.](https://doi.org/10.7326/annals-26-02171)
 
@@ -2844,9 +2844,9 @@ No summary supplied by the source.
 
 - Source: `bmj_abstracts` · published `2026-10-28` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42951276`
+- Event: `updated` · identity: `pmid:42951276`
 
-To test the efficacy and cost effectiveness of high volume injections with and without corticosteroid versus sham injection for midportion Achilles tendinopathy. Single centred, participant and assessor masked, three arm randomised controlled trial (Inject trial). Community. From 5 December 2019 and 24 July 2022, 192 adults (18 years or older) diagnosed with midportion Achilles tendinopathy were randomly assigned (1:1:1) to sham (n=64), high volume injection without corticosteroid (n=63), or high volume injection with corticosteroid (n=65). Participants were allocated to sham injection (2-3 mL 0.5% bupivacaine hydrochloride), high volume injection with corticosteroid (50 mL saline and 0.5% bupivacaine with 25 mg hydrocortisone in the first 10 mL), or high volume injection with no corticosteroid (same solution but without hydrocortisone). They received the same exercise programme, education, and activity modification advice. The primary clinical outcome was pain and disability using the validated VISA-A and the primary endpoint was at 52 weeks. The economic outcome was cost per quality-adjusted life-years from a societal perspective. VISA-A data were obtained from 181 (94%) of 192 participants at 12 months. No clear differences were noted between sham and high volume injection either with (-3.5 (98.33% confidence interval -12.0 to 5.0)) or without corticosteroid (4.0 (-4.2 to 12.3)), and between the two injections (-7.5 (-15.3 to 0.3)), at 12 months. The point estimate was closest to the target difference for the comparison between injections and favoured the arm without steroid. The only differences observed on VISA-A at intermediate time points were a benefit for high volume with corticosteroid versus sham at six weeks (9.2 (1.5 to 16.9)) but worse outcomes for high volume injection with corticosteroid versus high volume injection with no corticosteroid at 26 weeks (-8.6 (-16.4 to -0.7)). The health economic analysis found high volume injection with corticosteroid to be less costly than the sham with similar effectiveness based on quality-adjusted life-years (>0.90 probability of being cost effective at $AUD50 000 and $100 000 willingness-to-pay thresholds). No serious trial related adverse events were recorded. High volume injections with or without corticosteroids did not improve pain or disability compared with sham at 12 months. Although high volume injections with corticosteroid showed short term clinical benefit and potential reduction in healthcare costs over a year, they were associated with worse longer term clinical outcomes. The clinical data do not support routine use for high volume injections with corticosteroid for midportion Achilles tendinopathy. Australian New Zealand Clinical Trials Registry ACTRN12619001455156.
+<h4>Objective</h4>To test the efficacy and cost effectiveness of high volume injections with and without corticosteroid versus sham injection for midportion Achilles tendinopathy.<h4>Design</h4>Single centred, participant and assessor masked, three arm randomised controlled trial (Inject trial).<h4>Setting</h4>Community.<h4>Participants</h4>From 5 December 2019 and 24 July 2022, 192 adults (18 years or older) diagnosed with midportion Achilles tendinopathy were randomly assigned (1:1:1) to sham (n=64), high volume injection without corticosteroid (n=63), or high volume injection with corticosteroid (n=65).<h4>Interventions</h4>Participants were allocated to sham injection (2-3 mL 0.5% bupivacaine hydrochloride), high volume injection with corticosteroid (50 mL saline and 0.5% bupivacaine with 25 mg hydrocortisone in the first 10 mL), or high volume injection with no corticosteroid (same solution but without hydrocortisone). They received the same exercise programme, education, and activity modification advice.<h4>Main outcome measures</h4>The primary clinical outcome was pain and disability using the validated VISA-A and the primary endpoint was at 52 weeks. The economic outcome was cost per quality-adjusted life-years from a societal perspective.<h4>Results</h4>VISA-A data were obtained from 181 (94%) of 192 participants at 12 months. No clear differences were noted between sham and high volume injection either with (-3.5 (98.33% confidence interval -12.0 to 5.0)) or without corticosteroid (4.0 (-4.2 to 12.3)), and between the two injections (-7.5 (-15.3 to 0.3)), at 12 months. The point estimate was closest to the target difference for the comparison between injections and favoured the arm without steroid. The only differences observed on VISA-A at intermediate time points were a benefit for high volume with corticosteroid versus sham at six weeks (9.2 (1.5 to 16.9)) but worse outcomes for high volume injection with corticosteroid versus high volume injection with no corticosteroid at 26 weeks (-8.6 (-16.4 to -0.7)). The health economic analysis found high volume injection with corticosteroid to be less costly than the sham with similar effectiveness based on quality-adjusted life-years (>0.90 probability of being cost effective at $AUD50 000 and $100 000 willingness-to-pay thresholds). No serious trial related adverse events were recorded.<h4>Conclusion</h4>High volume injections with or without corticosteroids did not improve pain or disability compared with sham at 12 months. Although high volume injections with corticosteroid showed short term clinical benefit and potential reduction in healthcare costs over a year, they were associated with worse longer term clinical outcomes. The clinical data do not support routine use for high volume injections with corticosteroid for midportion Achilles tendinopathy.<h4>Trial registration</h4>Australian New Zealand Clinical Trials Registry ACTRN12619001455156.
 
 ### [Eli Lilly’s ‘Triple-G’ Drug Tops Ozempic in Head-to-Head Type 2 Diabetes Trial](https://medcitynews.com/2026/10/eli-lilly-retatrutide-type-2-diabetes-glp-1-gip-glucagon-metabolic-ozempic-lly/)
 
@@ -2916,9 +2916,9 @@ Background: Hypothyroidism is a prevalent endocrine disorder characterized by an
 
 - Source: `bmj_abstracts` · published `2026-10-28` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42951282`
+- Event: `updated` · identity: `pmid:42951282`
 
-To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status. Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025. Ontario, Canada. Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period. Exposure to measles virus associated with the Ontario outbreak and related transmission chains. Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries. The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24). These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.
+<h4>Objective</h4>To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status.<h4>Design</h4>Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025.<h4>Setting</h4>Ontario, Canada.<h4>Participants</h4>Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period.<h4>Exposure</h4>Exposure to measles virus associated with the Ontario outbreak and related transmission chains.<h4>Main outcome measures</h4>Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries.<h4>Results</h4>The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24).<h4>Conclusions</h4>These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.
 
 ### [Indie Games Fund in Africa: Meet the selected studios](https://blog.google/products-and-platforms/platforms/google-pay/indie-games-fund-africa-selected-studios/)
 
@@ -2932,9 +2932,9 @@ To describe the epidemiological characteristics, public health response, and evi
 
 - Source: `jama_abstracts` · published `2026-10-28` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42949742`
+- Event: `updated` · identity: `pmid:42949742`
 
-For patients with atrioventricular block requiring high-burden ventricular pacing, the optimal pacing strategy to reduce heart failure (HF) and all-cause mortality remains uncertain. Robust comparative evidence on the clinical outcomes of left bundle-branch area pacing (LBBAP) vs right ventricular pacing (RVP) in this population is needed. To compare 24-month clinical outcomes of LBBAP vs RVP in patients with atrioventricular block and preserved left ventricular ejection fraction (LVEF; ≥50%). The LEAP-Block study was a prospective, multicenter, randomized, controlled, superiority trial conducted across 14 Chinese hospitals from January 2021 to August 2025, with last follow-up on June 3, 2025. Of 551 patients with LVEF 50% or greater requiring ventricular pacing who underwent eligibility assessment, 499 with anticipated ventricular pacing greater than 40% were randomized. Patients were randomized in a 1:1 ratio to LBBAP (n = 249) or RVP (n = 250). The primary end point was a composite of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. Secondary end points included pacing-induced cardiomyopathy and device-related complications. The primary analysis included 482 patients (LBBAP, n = 242; RVP, n = 240; mean age, 67 years; 46% female). Acute procedure success was comparable between the 2 groups (LBBAP, 237/242 [97.9%] vs RVP, 239/240 [99.6%]; P = .22), with left bundle-branch capture confirmed in 188 of 236 patients (79.7%). LBBAP significantly reduced the primary end point vs RVP (2.4% vs 12.5%, respectively; absolute risk difference, -10.1% [95% CI, -16.8% to -3.4%]; P = .003). Among secondary outcomes, the LBBAP group had fewer HF events (3.4% vs 11.3%; -7.9% [95% CI, -13.0% to -2.8%]). No significant differences were observed in all-cause death, biventricular pacing upgrade, device-related complications, or pacing-induced cardiomyopathy. The 24-month Kaplan-Meier estimated cumulative incidence of the primary end point was 5.0% for LBBAP vs 13.2% for RVP (hazard ratio, 0.37 [95% CI, 0.19 to 0.73]; P = .004). LBBAP superiority was consistent across all prespecified subgroups. Among patients with atrioventricular block and preserved LVEF requiring high-burden ventricular pacing, LBBAP was superior to RVP in reducing the risk of the composite end point of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. ClinicalTrials.gov Identifier: NCT04730921.
+<h4>Importance</h4>For patients with atrioventricular block requiring high-burden ventricular pacing, the optimal pacing strategy to reduce heart failure (HF) and all-cause mortality remains uncertain. Robust comparative evidence on the clinical outcomes of left bundle-branch area pacing (LBBAP) vs right ventricular pacing (RVP) in this population is needed.<h4>Objective</h4>To compare 24-month clinical outcomes of LBBAP vs RVP in patients with atrioventricular block and preserved left ventricular ejection fraction (LVEF; ≥50%).<h4>Design, setting, and participants</h4>The LEAP-Block study was a prospective, multicenter, randomized, controlled, superiority trial conducted across 14 Chinese hospitals from January 2021 to August 2025, with last follow-up on June 3, 2025. Of 551 patients with LVEF 50% or greater requiring ventricular pacing who underwent eligibility assessment, 499 with anticipated ventricular pacing greater than 40% were randomized.<h4>Interventions</h4>Patients were randomized in a 1:1 ratio to LBBAP (n = 249) or RVP (n = 250).<h4>Main outcomes and measures</h4>The primary end point was a composite of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. Secondary end points included pacing-induced cardiomyopathy and device-related complications.<h4>Results</h4>The primary analysis included 482 patients (LBBAP, n = 242; RVP, n = 240; mean age, 67 years; 46% female). Acute procedure success was comparable between the 2 groups (LBBAP, 237/242 [97.9%] vs RVP, 239/240 [99.6%]; P = .22), with left bundle-branch capture confirmed in 188 of 236 patients (79.7%). LBBAP significantly reduced the primary end point vs RVP (2.4% vs 12.5%, respectively; absolute risk difference, -10.1% [95% CI, -16.8% to -3.4%]; P = .003). Among secondary outcomes, the LBBAP group had fewer HF events (3.4% vs 11.3%; -7.9% [95% CI, -13.0% to -2.8%]). No significant differences were observed in all-cause death, biventricular pacing upgrade, device-related complications, or pacing-induced cardiomyopathy. The 24-month Kaplan-Meier estimated cumulative incidence of the primary end point was 5.0% for LBBAP vs 13.2% for RVP (hazard ratio, 0.37 [95% CI, 0.19 to 0.73]; P = .004). LBBAP superiority was consistent across all prespecified subgroups.<h4>Conclusions and relevance</h4>Among patients with atrioventricular block and preserved LVEF requiring high-burden ventricular pacing, LBBAP was superior to RVP in reducing the risk of the composite end point of all-cause death, HF events, or upgrade to biventricular pacing at 24 months.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT04730921.
 
 ### [Notice of Informational Webinar on the Predoctoral to Postdoctoral Transition Award (F99/K00)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-009.html)
 
@@ -2996,7 +2996,7 @@ Background: The rapid rise of secure patient messaging has transformed ophthalmi
 
 - Source: `medcity_news` · published `2026-10-28` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/`
 
 <p><a href="https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-827659070-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-827659070-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-827659070-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-827659070-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-827659070-1536x1024.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/05/GettyImages-827659070-2048x1365.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Democratic senators are investigating 10 insurers’ role in the Trump administration’s termination of 760,000 ACA enrollees’ coverage over suspected fraud.</p> <p>The post <a href="https://medcitynews.com/2026/10/senators-investigate-insurers-role-in-removing-thousands-from-aca-coverage/">Senators Investigate Insurers’ Role in Removing Thousands from ACA Coverage</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3056,6 +3056,14 @@ Abdul El-Sayed has made headlines for his progressive politics and stance on Isr
 
 In this edition of AI Prognosis: A new investigation into how Epic's market dominance is impacting health tech innovation and AI adoption.
 
+### [Study: Schoolwide phone bans show no significant impact on mental health](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858)
+
+- Source: `hn_ai_health_signals` · published `2026-10-28` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858`
+
+Hacker News community signal; score 61.
+
 ### [Supporting Video-Based Psychotherapy While Asking Who Benefits and Who Remains in Treatment](https://www.jmir.org/article/view/jmir_v28i1e113178)
 
 - Source: `jmir` · published `2026-10-28` · freshness `fresh`
@@ -3068,9 +3076,9 @@ Meyer-Keirath and colleagues found no significant difference in posttreatment sy
 
 - Source: `lancet_abstracts` · published `2026-10-28` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42950876`
+- Event: `updated` · identity: `pmid:42950876`
 
-For the French, Arabic, Spanish, Brazilian-Portuguese and Mandarin translations of the abstract see Supplementary Materials section.
+<h4>Translations</h4>For the French, Arabic, Spanish, Brazilian-Portuguese and Mandarin translations of the abstract see Supplementary Materials section.
 
 ### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
 
@@ -3108,7 +3116,7 @@ Revenue growth does not guarantee a larger exit, as declining valuation multiple
 
 - Source: `medcity_news` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/`
 
 <p><a href="https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/"><img width="1024" height="969" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-1024x969.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-1024x969.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-300x284.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-768x726.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover.png 1480w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Pregnancy and NICU admissions are among the most complex areas in healthcare. A new report from ProgenyHealth highlights how the company can work with Medicaid and commercial health plans to uncover insights and hidden risks critical to improving maternal and infant care and reducing costs.</p> <p>The post <a href="https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/">3 Ways ProgenyHealth Can Transform Maternity and Infant Health, Claims Management</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3132,7 +3140,7 @@ Preclinical analysis and a phase 1 trial support VG-3927 as a promising drug can
 
 - Source: `nature_medicine` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00056-w`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00056-w`
 
 Researchers developed a digital twin framework to safely evaluate the effects of drugs on the immune system and time to labor, which could enable personalized interventions to prevent preterm births.
 
@@ -3148,7 +3156,7 @@ Despite their considerable promise, many current medical foundation models remai
 
 - Source: `jmir` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e95603`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e95603`
 
 Background: Large language models (LLMs) are increasingly being used for text-based emotional support. However, general-purpose LLMs may not consistently recognize emotional cues, adapt supportive strategies to contexts, or generate responses aligned with psychologically informed communication. The limited availability of large-scale, structured Chinese counseling data further constrains the development of models for context-sensitive emotional support. Objective: We developed and evaluated YuanChat, a family of specialized LLMs for context-sensitive emotional support; assessed whether E-URIAL improved response quality; and compared YuanChat with base LLMs. Methods: We constructed 2 datasets from anonymized real-world counseling sessions: ECD-3 (104,897 counselor response turns) for fine-tuning and (9413 manually annotated counselor responses). Annotations covered emotional support conversation stages (exploration, comfort, and action), counseling techniques (clarification, support, and challenge), and empathic effects. We developed 2 YuanChat variants using GLM-4-9B-Chat and Huozi 3.5 as backbone models using parameter-efficient fine-tuning with low-rank adaptation (LoRA). We then developed E-URIAL, an inference-time framework combining predicted emotion and support strategy labels with retrieved labeled exemplars. Given the dialogue history through the help seeker’s latest utterance, each model generated a counselor-style response. We compared YuanChat with GPT-4, ERNIE 4.0, CharacterGLM, GLM-4-9B-Chat, and Huozi 3.5. The evaluation comprised (1) automatic evaluation on in-domain and external datasets, assessing empathy identification and empathic expression; (2) evaluation of empathy-related situational reasoning using an expert-developed multiple-choice benchmark; (3) evaluation by clinical experts (n=8) of empathic attunement, support strategy appropriateness, perceived helpfulness, and safety and professional boundary adherence; and (4) a complementary evaluation by volunteer master’s students in clinical and counseling psychology (n=50) of response fluency, empathy, and perceived helpfulness. Results: Fine-tuning increased YuanChat-Huozi3.5’s empathic expression score from 0.57 to 0.68; empathy identification score increased from 0.54 to 0.59. In expert evaluation, YuanChat-Huozi3.5 received a higher empathic attunement score than the base Huozi3.5 model (1.279 vs 0.327; mean difference 0.952, 95% CI 0.746‐1.152). Using professional counselor responses as the reference, the mean differences for YuanChat-Huozi3.5 were 0.148, 0.079, 0.039, and 0.002 in empathic attunement, supportive appropriateness, perceived helpfulness, and safety and professional boundary adherence, respectively. No statistically significant differences were detected between YuanChat-Huozi3.5 and the counselor references (all Holm-adjusted ≥.29). Higher scores were observed when E-URIAL was applied. When E-URIAL was applied with 3 retrieved exemplars, YuanChat-Huozi3.5 achieved an empathy identification score of 0.69 versus 0.59 without E-URIAL, an empathic expression score of 0.79 versus 0.68, and a perceived helpfulness score of 0.74 versus 0.61. Conclusions: The findings indicate that fine-tuning on real-world counseling data and annotating models with structured emotional support labels improved context-sensitive empathic responding in LLMs. Without updating model parameters, E-URIAL further improved empathy identification and empathic expression across multiple models. Together, these methods provide a scalable, theory-informed approach to enhancing the emotional support capabilities of LLMs. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/b19b96599a801d9536ac422b4a8f6dba" />
 
@@ -3156,7 +3164,7 @@ Background: Large language models (LLMs) are increasingly being used for text-ba
 
 - Source: `medtech_dive_primary` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/abbott-grows-cardiac-portfolio-with-amplatzer-approval-for-valve-leaks/873163/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/abbott-grows-cardiac-portfolio-with-amplatzer-approval-for-valve-leaks/873163/`
 
 Abbott said Wednesday it received Food and Drug Administration approval for a transcatheter device designed to close a small gap that can develop between the heart tissue and a new valve after replacement surgery, causing blood to leak. Such paravalvular leaks occur in 7% to 17% of mitral valve replacements and 5% to 10% of aortic valve replacements, the company said. The Amplatzer Paraclose PVL Occluder is the first minimally invasive device approved in the U.S. to close paravalvular leaks around surgical replacement heart valves and offers an alternative to additional open-heart surgery for addressing the problem.
 
@@ -3172,7 +3180,7 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 
 - Source: `jmir` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93840`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93840`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Digital health technologies are transforming health care by improving access, efficiency, and quality of care. However, recent studies highlight that digitalization can unintentionally reinforce or deepen existing social and health inequalities, as not all population groups benefit equally from digital progress. The concept of digital determinants of health (DDoH) has emerged to better capture how digital factors shape health opportunities and outcomes. The systematic incorporation of DDoH and other health determinants shaped by digitalization into strategic planning remains limited. As a result, health systems may lack structured approaches to identify them and anticipate their equity implications. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to identify which health determinants are considered most important in the Catalan context and to qualitatively explore their inclusion in existing regional strategies and policy frameworks in Catalonia. &lt;strong&gt;Methods:&lt;/strong&gt; We conducted a modified Delphi study with experts from the Catalan health and digital ecosystem. The list of determinants was derived from a scoping review, which identified 127 determinants that emerged or changed with digitalization. Experts living and working in Catalonia, with experience in digital health, public health, health care delivery, social or DDoH, or health equity, were recruited using snowball sampling. Participants rated each determinant for importance using a 5-point Likert scale across 2 rounds, followed by a final online consensus meeting. For each determinant, the median (IQR) and the proportion of experts rating it as 4 or 5 were calculated, and items were classified into high, moderate, or low relevance according to predefined consensus criteria. &lt;strong&gt;Results:&lt;/strong&gt; A total of 43 experts participated in the first Delphi round, and 31 completed the second round. Of the 127 assessed determinants, 20 (15.7%) reached high relevance for the Catalan context, including 15 digital, 4 social, and 1 political determinant. Overall, the most important determinants focused on enabling the effective and equitable use of digital health, particularly access, skills, system-level digital capacity and governance, inclusive design, and the responsible use of AI. Comparison with the original global Delphi study showed substantial overlap, but also revealed context-specific priorities. &lt;strong&gt;Conclusions:&lt;/strong&gt; This study demonstrates the value of systematically contextualizing DDoH and other health determinants shaped by digitalization to inform strategic health planning in digitally mature public health systems. The findings show that international digital health agendas require regional reprioritization to reflect local infrastructure, governance arrangements and equity challenges. The results suggest that, beyond technological capacity, governance and equity considerations should become central to digital health planning. The proposed approach offers a replicable framework to support more anticipatory, coordinated and equity-oriented digital health strategies. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d5bfe88d2d050befcde0860fdb4618ed" />
 
@@ -3180,7 +3188,7 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 
 - Source: `medcity_news` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/`
 
 <p><a href="https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/"><img width="600" height="398" src="https://medcitynews.com/wp-content/uploads/sites/7/2019/12/GettyImages-473791680-600x398.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2019/12/GettyImages-473791680-600x398.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2019/12/GettyImages-473791680-300x199.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2019/12/GettyImages-473791680.jpg 726w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Scientific progress only really matters if it changes what life looks like for those living with OCD. That’s because for someone who has spent years losing hours to their obsessions and compulsions, meaningful progress should mean a significant change in their lives. </p> <p>The post <a href="https://medcitynews.com/2026/10/beyond-a-score-putting-the-patient-experience-at-the-heart-of-ocd-innovation/">Beyond a Score: Putting The Patient Experience at the Heart of OCD Innovation</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3188,7 +3196,7 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 
 - Source: `medcity_news` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/`
 
 <p><a href="https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>BioMarin gains rights to a Fabry disease enzyme replacement therapy with potential dosing advantages over products from Sanofi and Chiesi Group. BioMarin’s new clinical-stage asset could reach patients ineligible for the Fabry drug that came with its Amicus Therapeutics acquisition earlier this year. </p> <p>The post <a href="https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/">BioMarin Expands Again in Enzyme Replacement, Paying $70M for Long-Acting Fabry Drug</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3196,7 +3204,7 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 
 - Source: `medical_device_network` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/`
 
 <p>While a total of £290m was pledged to address winter pressures in the NHS and advance medical robotics, the BMA noted that NHS outlay was lower than in recent years.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/">BMA laments low NHS investment in UK’s Autumn Budget</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3204,7 +3212,7 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 
 - Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp">Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos. Try these festive tricks to perfect your Halloween snaps today.
 
@@ -3212,7 +3220,7 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 
 - Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01784-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01784-7`
 
 After spinal cord injury, clinicians raise blood pressure to protect tissue without directly monitoring the effect on the cord, exposing patients to harm. We designed a closed-loop controller that adjusts drug infusion in response to ultrasonography-based measurements of spinal cord blood flow, stabilizing perfusion at the injury site and preserving neurological function in animals.
 
@@ -3220,7 +3228,7 @@ After spinal cord injury, clinicians raise blood pressure to protect tissue with
 
 - Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp">Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.
 
@@ -3228,7 +3236,7 @@ After spinal cord injury, clinicians raise blood pressure to protect tissue with
 
 - Source: `medtech_dive_primary` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/`
 
 Albert White is stepping down as president and CEO of Cooper Companies effective immediately, the company said Tuesday. Walter Rosebrough Jr. will assume direct oversight of day-to-day operations until a permanent CEO is appointed. Cooper has elected Rosebrough, an independent director on its board, as executive chair. The changes come weeks after an activist investor called for the contact lens and fertility company to immediately start an external search for a new CEO and appoint a new board chair.
 
@@ -3236,7 +3244,7 @@ Albert White is stepping down as president and CEO of Cooper Companies effective
 
 - Source: `jmir_medinform` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e99638`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e99638`
 
 <strong>Background:</strong> Electronic health record–derived process measures such as vital-sign record density are used for quality monitoring, risk prediction, and cross-system benchmarking, but whether they retain consistent meaning across sites and data streams is rarely tested. <strong>Objective:</strong> This study aimed to determine whether vital-sign record density varies primarily by data stream, database, contributing site, or care unit, and what follows for comparative use. <strong>Methods:</strong> We retrospectively analyzed the Medical Information Mart for Intensive Care IV (MIMIC-IV) version 3.1 and the eICU Collaborative Research Database (eICU-CRD) version 2.0. Record density and timing metrics were computed for the first 24 intensive care unit hours from nurse-charted streams and, in eICU-CRD, from the monitor stream. Heart rate was primary; oxygen saturation and respiratory rate were replication variables. Variance was decomposed by database, hospital, and unit using η<sup>2</sup> with hospital-clustered bootstrap inference and mixed-effects sensitivity analyses. A hospital-level plausibility floor of 12 nurse-charted heart rate observations per 24 hours was applied for the principal analysis; unrestricted and alternative-floor analyses are reported as sensitivities. <strong>Results:</strong> A pooled-item MIMIC-IV heart rate count included alarm-limit documentation events, so label-based pooling mixes the two. In 117,572 eICU-CRD stays present in both streams, nurse- and monitor-derived counts were almost unrelated (Spearman ρ=0.024), with bottom-decile overlap at chance. Between-database η<sup>2</sup> for record count was 0.960 against the eICU monitor stream and 0.026 against the nurse stream. Eight of 68 eICU-CRD hospitals fell below the plausibility floor and were excluded from principal estimates, a restriction introduced during review. Among the remaining 60 hospitals (88,560 stays), hospital η<sup>2</sup> for record count was 0.354 (95% CI 0.259-0.450) against unit-within-hospital η<sup>2</sup> of 0.043; for the interval-structure metrics, the hospital and unit components were not separable. For record count, the hospital component fell from 0.441 unrestricted to 0.321 at an hourly floor. A negative-binomial mixed model gave latent-scale hospital and unit variance-partition coefficients of 0.348 (95% CI 0.252-0.457) and 0.112 (0.078-0.163), equivalent to 0.318 and 0.110 observed. A pooled bottom-decile rule agreed with hospital-specific rules on 52.5% (4726/9006) of flagged stays, with 6 hospitals supplying half the pooled decile. The hospital component for record count replicated at 0.322 for oxygen saturation and 0.333 for respiratory rate. <strong>Conclusions:</strong> Within a multisite nurse-charted stream, vital-sign record volume varied more across contributing sites than across care units within hospitals; for the interval-structure metrics, the site and unit components were not separable at this cohort size. Apparent cross-database differences were reproduced by source-table choice, and site-level variation remained after excluding the most evident contribution-completeness outliers. Comparative use therefore requires specifying the generating stream, enforcing the analytic window, and explicitly modeling site-level variation; the residual site component should not be interpreted as documentation practice alone.
 
@@ -3244,7 +3252,7 @@ Albert White is stepping down as president and CEO of Cooper Companies effective
 
 - Source: `jmir` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e99464`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e99464`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Digital health interventions, including mobile health apps, increasingly complement outpatient mental health care. In Germany, certified digital health applications (DiGA [Digitale Gesundheitsanwendungen]) can be prescribed and reimbursed in the statutory health care system. However, real-world evidence on patient-reported use of DiGA for mental disorders remains limited. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to analyze usage patterns and experiences among DiGA users and expectations among nonusers. Among users, we examined duration of active use, self-reported completion, and experienced reasons for discontinuation; among nonusers, whether DiGA use would be an option and the perceived relevance of hypothetical reasons for discontinuation. &lt;strong&gt;Methods:&lt;/strong&gt; We conducted an anonymous cross-sectional mixed-mode survey among adults insured by Techniker Krankenkasse, Germany’s largest statutory insurer. Random samples of 2000 individuals per group were invited in April 2024, and data collection ended in September 2024. Users received an activation code for a DiGA authorized for mental disorders. Nonusers had a documented diagnosis for which a DiGA was available but had no prior use. Analyses were descriptive, using available cases, frequencies, and medians with IQRs for ordinal Likert-type items. Actual and intended use were treated as distinct. Exploratory subgroup analyses were conducted. &lt;strong&gt;Results:&lt;/strong&gt; Overall, 1413 participants were included in the analysis (769 of 2000 invited users; 644 of 2000 invited nonusers), with response rates of 38.5% (95% CI 36.3%-40.6%) and 32.2% (95% CI 30.2%-34.3%), respectively. A total of 840 of 1249 (67.3%; 95% CI 64.6%-69.8%) participants were female. Nonusers were older and more often lived in rural areas. Among users, 487 of 687 (70.9%; 95% CI 67.4%-74.2%) reported active use for at least 5 weeks; 409 of 700 (58.4%; 95% CI 54.7%-62.0%) reported completion of their DiGA program. The proportion of reported completions increased from 111 of 250 (44.4%; 95% CI 38.4%-50.6%) among those aged 18-40 years to 85 of 112 (75.9%; 95% CI 67.2%-82.9%) among those aged 61 years and older. The most frequently endorsed reasons for discontinuation among users reporting noncompletion were lack of motivation (151/272, 55.5%; 95% CI 49.6%-61.3%) and insufficient personalization (114/255, 44.7%; 95% CI 38.7%-50.8%). Among nonusers, the most frequently endorsed hypothetical reasons for discontinuation were mismatch with their condition (431/540, 79.8%; 95% CI 76.2%-83.0%) and technical difficulties (432/545, 79.3%; 95% CI 75.7%-82.5%). &lt;strong&gt;Conclusions:&lt;/strong&gt; This study provides patient-reported real-world evidence on certified and reimbursable digital mental health interventions. Many users reported weeks of active use, but noncompletion remained common and was more frequent among younger users. Lack of motivation as a frequently reported reason for discontinuation suggests that supporting continued engagement may be important during DiGA use. Beyond Germany, these findings may support implementation of digital mental health interventions in other health care systems. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/cac96a12ace8b0b31c965ae5b890d044" />
 
@@ -3284,7 +3292,7 @@ Background: Emerging evidence indicates that immersive virtual reality can be us
 
 - Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp">Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.
 
@@ -3300,7 +3308,7 @@ Background: Emerging evidence indicates that immersive virtual reality can be us
 
 - Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp">Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.
 
@@ -3308,7 +3316,7 @@ Background: Emerging evidence indicates that immersive virtual reality can be us
 
 - Source: `jmir` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e104511`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e104511`
 
 Background: Addressing the burnout epidemic among health care providers remains one of the foremost challenges of modern health care systems. Past researchers have turned to passively gathered biometric data from wearable devices to identify key variables that predict burnout. However, this has resulted in limited success. Objective: This pilot and feasibility study aimed to test the feasibility and accuracy of developing an Extreme Gradient Boosting machine learning model to classify health care providers as being at higher or lower risk of burnout based on their biometric data. Methods: We conducted a 3-month pilot and feasibility study where health care providers self-reported burnout every 6 weeks and wore a Garmin Venu 3 smartwatch to collect continuous biometric data. Participants were recruited from 3 pediatric urgent care sites and an inpatient hospitalist division of a pediatric health care system. We had a final sample of 41 participants who met our inclusion criteria requiring completion of burnout measurements at 2 of the 3 time points and having worn the watch for at least 70% of the study period. Participants were asked to wear the Garmin watch continuously over the course of the study. Burnout self-report surveys were delivered via email. Our main outcome was burnout as measured using the Maslach Burnout Inventory–Human Services Survey. The measure consists of 3 subscales that together constitute burnout: emotional exhaustion, depersonalization, and reduced personal efficacy. Results: First, we found evidence of feasibility for wearable watches to be used in situ for health care providers to gather data passively for the purposes of classifying burnout. A total of 82% (51/62) of participants met our criteria of wearing the watch 70% of the time, with 66% (41/62) having corresponding burnout scores to be included in analyses. Second, our machine learning model achieved strong overall performance in identifying risk of burnout, with strong sensitivity and specificity, demonstrating that biometric data collected using wearable devices can accurately predict burnout. Conclusions: Our evidence of feasibility offers promising results for a passive method of data collection to be used for classifying burnout risk in other health care settings. Furthermore, the strong performance of our machine learning model provides a foundational step toward improving an organization’s ability to respond and mitigate burnout through thoughtful intervention strategies. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1252a11aef07721bf300898bbfe85e30" />
 
@@ -3332,9 +3340,9 @@ AI megarounds are masking a shrinking Series A market, leaving seed founders fac
 
 - Source: `hn_ai_health_signals` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://martinfowler.com/bliki/LLM-Voice.html`
+- Event: `updated` · identity: `url:https://martinfowler.com/bliki/LLM-Voice.html`
 
-Hacker News community signal; score 334.
+Hacker News community signal; score 431.
 
 ### [Martin Kulldorff critiques scientific gatekeepers at NIH lecture](https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss)
 
@@ -3348,7 +3356,7 @@ Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, ins
 
 - Source: `jmir` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e114831`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e114831`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/ff69a3364adfa5c097f529089b47e074" />
 
@@ -3396,7 +3404,7 @@ After spinal cord injury, clinical management aims to support tissue perfusion, 
 
 - Source: `medical_device_network` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-boston-scientific-on-the-growing-importance-of-clinical-evidence-in-cardiology/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-boston-scientific-on-the-growing-importance-of-clinical-evidence-in-cardiology/`
 
 <p>Boston has a growing body of evidence across AF and stroke prevention with studies, including CHAMPION-AF, BEAT AF, OPTION, and AVANT GUARD.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/podcast-boston-scientific-on-the-growing-importance-of-clinical-evidence-in-cardiology/">Podcast: Boston Scientific on the growing importance of clinical evidence in cardiology</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3428,17 +3436,17 @@ Crunchbase data shows that so far this year, investors have poured around $48 bi
 
 - Source: `hn_ai_health_signals` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://chengela.substack.com/p/should-a-medical-diagnosis-reshape`
+- Event: `updated` · identity: `url:https://chengela.substack.com/p/should-a-medical-diagnosis-reshape`
 
-Hacker News community signal; score 17.
+Hacker News community signal; score 31.
 
 ### [Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)
 
 - Source: `hn_ai_health_signals` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/johncassil/dontallow`
+- Event: `updated` · identity: `url:https://github.com/johncassil/dontallow`
 
-Hacker News community signal; score 94.
+Hacker News community signal; score 122.
 
 ### [STAT+: Biopharma industry at odds over impact of Treasury’s new China rule](https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss)
 
@@ -3460,7 +3468,7 @@ Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against
 
 - Source: `stat_news_feed` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss`
 
 A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues.
 
@@ -3476,7 +3484,7 @@ Great news for peptide fans: The Trump administration is giving the peptide craz
 
 - Source: `stat_news_feed` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss`
 
 RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.
 
@@ -3492,7 +3500,7 @@ A new atlas of colorectal tumors sheds light on why cancers in young people are 
 
 - Source: `stat_news_feed` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss`
 
 A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private.
 
@@ -3508,7 +3516,7 @@ HHS released a policy that will temporarily allow compounding pharmacies to manu
 
 - Source: `stat_news_feed` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss`
 
 In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI.
 
@@ -3524,7 +3532,7 @@ Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is be
 
 - Source: `jmir` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e108250`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e108250`
 
 Background: AI is a broad field encompassing various techniques, which include algorithms that learn from data to perform automated tasks without explicit human programming. Public health aims to protect and improve the health of communities and populations at the local, regional, national, and global levels, but it typically has limited resources. While AI may lead to improved efficiency or effectiveness of public health interventions, the adoption of AI interventions should be informed by evidence of effective use in practice. Objective: This review aims to summarize how AI-assisted interventions are currently used by public health professionals. Methods: We conducted a scoping review to identify the current uses of AI in public health. We searched MEDLINE (Ovid), Embase (Ovid), Web of Science (Core Collection), and Scopus for relevant reports published between January 1, 2020, and July 24, 2025. Two reviewers independently screened reports. Eligible reports were primary studies (experimental or observational), commentaries, and editorials that discussed how AI tools have been used in practice in public health contexts relevant to high-income countries, excluding outbreaks. Data were extracted by one reviewer and checked by a second. Results: We screened 5400 records and 155 full texts, including 8 reports. These reports discussed a variety of uses of AI tools across public health domains: 3 reports used chatbots in different settings, 1 report used machine learning to forecast health service demand, 2 reports used AI for symptom checking, and 2 reports used AI for evidence synthesis. While assessing the effectiveness of AI tools for public health was beyond the scope of this review, and most reports did not robustly evaluate effectiveness, the evidence for the effectiveness of AI tools was nonetheless mixed. One report described a chatbot that users found helpful, while another found a specific chatbot to be ineffective, highlighting its potential to undermine trust in the organization that developed it. Another report highlighted both benefits and drawbacks of a large language model used to communicate with socially isolated individuals. The main finding of this review was that even with a comprehensive search across multiple databases, there were few reports of how AI tools are being used in practice in public health contexts. Conclusions: The lack of evidence from public health practice, excluding outbreaks, makes it difficult to know which uses of AI, if any, would be useful to incorporate into practice in high-income countries. In the absence of evidence, new interventions, including those using AI, should be evaluated to ensure they are effective (and cost-effective). These evaluations should be widely and accessibly disseminated to create an evidence base that other public health teams could use to inform their own decisions around AI tools. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/53e7e0a29c12c5328178278d01684286" />
 
@@ -3532,7 +3540,7 @@ Background: AI is a broad field encompassing various techniques, which include a
 
 - Source: `medcity_news` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/`
 
 <p><a href="https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/"><img width="1024" height="584" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Screenshot-2026-10-29-at-5.02.13-PM-1024x584.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Screenshot-2026-10-29-at-5.02.13-PM-1024x584.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Screenshot-2026-10-29-at-5.02.13-PM-300x171.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Screenshot-2026-10-29-at-5.02.13-PM-768x438.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Screenshot-2026-10-29-at-5.02.13-PM-1536x876.png 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/Screenshot-2026-10-29-at-5.02.13-PM.png 1698w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>At MedCity INVEST Digital Health, experts from Jona, Labcorp and Evvy discussed the drivers of consumer diagnostics.</p> <p>The post <a href="https://medcitynews.com/2026/10/whats-driving-the-rise-of-consumer-diagnostics/">What’s Driving the Rise of Consumer Diagnostics?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3540,7 +3548,7 @@ Background: AI is a broad field encompassing various techniques, which include a
 
 - Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp">Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.
 
