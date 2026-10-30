@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-29T14:20:42+00:00",
-  "as_of": "2026-10-29",
+  "generated_at": "2026-10-30T01:00:13+00:00",
+  "as_of": "2026-10-30",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -127,7 +127,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "5 天前",
+      "when": "6 天前",
       "date": "2026-10-24",
       "reasons": {
         "research": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。"
@@ -258,7 +258,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
@@ -387,7 +387,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
@@ -518,7 +518,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
@@ -646,7 +646,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-22",
       "reasons": {
         "industry": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。"
@@ -775,7 +775,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
@@ -905,7 +905,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -1034,7 +1034,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
@@ -1160,7 +1160,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -1290,7 +1290,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
@@ -1420,7 +1420,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
@@ -1552,7 +1552,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -1683,10 +1683,394 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "t": "FDA 批准免疫疗法可让某些直肠癌患者避免化疗、放疗和手术",
+      "te": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+      "s": "美国食品和药物管理局今天加速批准免疫疗法 Jemperli (dostarlimab-gxly) 的新用途，该疗法可能使一些局部晚期直肠癌患者避免对其日常生活产生持久影响的常见治疗。",
+      "se": "The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally advanced rectal cancer to avoid common treatments that can have a lasting impact on their daily life.",
+      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "image": "",
+      "src": "FDA · 官方公告",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-19T17:01:00+00:00",
+        "input_hash": "7468327e1d4233cbe391c9bf26d6d296b66fda36ca6fbabc9475bb98a73e6971",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 4,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610200100534c331baf615b4883",
+              "seconds": 2.8,
+              "usage": {
+                "completion_tokens": 159,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 5
+                },
+                "prompt_tokens": 829,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 988
+              }
+            },
+            "support": "granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally advanced rectal cancer to avoid common treatments",
+            "total": 67
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA已对Jemperli（dostarlimab）授予局部晚期直肠癌新适应症的加速批准，是已发生的监管准入事实，标志免疫治疗实现器官保留策略的正式落地，医院与药企可据此评估诊疗路径与市场变化。限制在于为加速批准，需验证性试验确认长期获益，材料未提供关键试验数据细节。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261020010056e9b0330f68e6446c",
+              "seconds": 3.49,
+              "usage": {
+                "completion_tokens": 178,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 21
+                },
+                "prompt_tokens": 829,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1007
+              }
+            },
+            "support": "The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly)",
+            "total": 76
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-19",
+      "reasons": {
+        "industry": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42896534",
+      "t": "对接受选择性腹部大手术的高危患者进行个体化心脏指数引导的血流动力学治疗：PELICAN 随机临床试验。",
+      "te": "Individualized Cardiac Index-Guided Hemodynamic Therapy in High-Risk Patients Undergoing Elective Major Abdominal Surgery: The PELICAN Randomized Clinical Trial.",
+      "s": "重要性 目前尚不清楚术中血流动力学治疗是否应以心脏指数为指导。目的 评估个体化心脏指数引导的血流动力学治疗与常规血流动力学治疗相比是否可以改善接受择期腹部大手术的高危患者的预后。设计、设置和参与者这项多中心、单盲、优效性随机临床试验招募了2023年10月8日至2025年10月25日期间在奥地利、捷克共和国、丹麦、德国和西班牙的12个大学医疗中心接受选择性腹部大手术的高危患者。最后一次随访的日期是 2026 年 1 月 15 日。 干预措施 患者被随机分配接受以患者术前静息心脏指数为目标的个体化心脏指数指导血流动力学治疗与常规血流动力学治疗（采用盲法心脏指数监测）。",
+      "se": "Importance It remains unclear if intraoperative hemodynamic therapy should be guided by cardiac index. Objective To evaluate whether individualized cardiac index-guided hemodynamic therapy vs routine hemodynamic therapy improves outcomes in high-risk patients undergoing elective major abdominal surgery. Design, setting, and participants This multicenter, single-blind, superiority randomized clinical trial enrolled high-risk patients undergoing elective major abdominal surgery between October 8, 2023, and October 25, 2025, at 12 university medical centers in Austria, the Czech Republic, Denmark, Germany, and Spain. The date of last follow-up was January 15, 2026. Interventions Patients were randomized to individualized cardiac index-guided hemodynamic therapy targeting the patient's preoperative resting cardiac index vs routine hemodynamic therapy (with blinded cardiac index monitoring).",
+      "u": "https://doi.org/10.1001/jama.2026.18574",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42896534",
+        "upstream_id": "42896534"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-21T06:02:56+00:00",
+        "input_hash": "a95ad1ccc059b775f0d21bdcd64e24ea3aacb4bda2b3f768d78f29b8021fb5e6",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "多中心随机对照试验（12家欧洲中心、1095例分析）显示以个体化心脏指数为目标的术中血流动力学治疗未降低高危腹部大术后7天复合结局发生率（RR 0.94, P=.38），为围术期血流动力学优化策略提供了明确的阴性证据。限制为复合结局及7天随访窗口，未评估远期结局。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 6,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多中心随机对照试验（12家欧洲中心、1095例分析）显示以个体化心脏指数为目标的术中血流动力学治疗未降低高危腹部大术后7天复合结局发生率（RR 0.94, P=.38），为围术期血流动力学优化策略提供了明确的阴性证据。限制为复合结局及7天随访窗口，未评估远期结局。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261021140248d1a78ff3c9e4492c",
+              "seconds": 4.48,
+              "usage": {
+                "completion_tokens": 152,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1252,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1404
+              }
+            },
+            "support": "individualized cardiac index-guided hemodynamic therapy targeting the patient's preoperative resting cardiac index did not reduce the incidence of a composite outcome",
+            "total": 67
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "多中心随机对照试验（1095例）阴性结果直接回答了个体化心脏指数指导血流动力学治疗能否改善高危腹部手术预后这一争议问题，对围术期目标导向治疗策略和后续试验设计有实质参考价值；结论限于摘要级信息，具体干预细节和亚组分析需查阅全文。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610211402521f8fd8856a1e4732",
+              "seconds": 3.9,
+              "usage": {
+                "completion_tokens": 140,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1252,
+                "prompt_tokens_details": {
+                  "cached_tokens": 704
+                },
+                "total_tokens": 1392
+              }
+            },
+            "support": "individualized cardiac index-guided hemodynamic therapy targeting the patient's preoperative resting cardiac index did not reduce the incidence of a composite outcome",
+            "total": 76
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-19",
+      "reasons": {
+        "research": "多中心随机对照试验（12家欧洲中心、1095例分析）显示以个体化心脏指数为目标的术中血流动力学治疗未降低高危腹部大术后7天复合结局发生率（RR 0.94, P=.38），为围术期血流动力学优化策略提供了明确的阴性证据。限制为复合结局及7天随访窗口，未评估远期结局。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42895716",
+      "t": "常见的 CD36 变异和非洲血统个体扩张型心肌病的遗传景观。",
+      "te": "A Common CD36 Variant and the Genetic Landscape of Dilated Cardiomyopathy in Individuals of African Ancestry.",
+      "s": "重要性扩张型心肌病 (DCM) 是心力衰竭的一个主要原因，对非洲血统的个体影响尤为严重，其中与欧洲血统的个体相比，疾病的家族聚集性更为明显。 TTN（编码肌节蛋白肌联蛋白）的截短变异是 DCM 最常见的单基因原因。一种在非洲血统个体中丰富的常见 CD36 无义变异也已被证明是 DCM 的重大负担。目的 比较 CD36 无义变异与 TTN 截短变异以及其他已确定的 DCM 基因中的致病或可能致病变异对 DCM 风险的贡献。",
+      "se": "Importance Dilated cardiomyopathy (DCM) is a major cause of heart failure that disproportionately affects individuals of predominantly African ancestry, among whom familial clustering of disease is more pronounced relative to those of predominantly European ancestry. Truncating variants in TTN, which encodes the sarcomeric protein titin, are the most common established monogenic cause of DCM. A common CD36 nonsense variant enriched among individuals of African ancestry has also been shown to account for a substantial burden of DCM. Objective To compare the contribution of a CD36 nonsense variant to DCM risk with that of truncating variants in TTN and pathogenic or likely pathogenic variants in other established genes for DCM.",
+      "u": "https://doi.org/10.1001/jama.2026.18449",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42895716",
+        "upstream_id": "42895716"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-21T06:03:04+00:00",
+        "input_hash": "b3b6396b26af2529cd9d5d6b3d1642c9e609aef9293e2bb6dfc9a68d5847e83a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "四大队列约8.2万非裔人群的全外显子数据表明常见CD36 Y325*变异对扩张型心肌病的人群归因分数（9.0%）超过TTN截断变异（3.7%），直接改变该人群的基因检测与遗传咨询优先级；主要限制为观察性关联设计，效应估计依赖队列代表性，临床级基因检测落地仍需验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "四大队列约8.2万非裔人群的全外显子数据表明常见CD36 Y325*变异对扩张型心肌病的人群归因分数（9.0%）超过TTN截断变异（3.7%），直接改变该人群的基因检测与遗传咨询优先级；主要限制为观察性关联设计，效应估计依赖队列代表性，临床级基因检测落地仍需验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261021140256e5315ac1fd5d4324",
+              "seconds": 4.58,
+              "usage": {
+                "completion_tokens": 191,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 6
+                },
+                "prompt_tokens": 1521,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1712
+              }
+            },
+            "support": "the population attributable fraction for CD36 (9.0% [6.2% for heterozygous carriers and 2.8% for homozygous carriers]) surpassed the population attributable fraction for TTN truncating variants (3.7%)",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "多队列、逾8万非洲裔样本量化了CD36 Y325*对扩张型心肌病的人群归因分数（9.0%）超过TTN截断变异，可能改变该人群基因检测与遗传咨询的优先级。限制为观察性关联研究，且样本限于美国队列，外推性需谨慎。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102114030112851709bf264877",
+              "seconds": 3.85,
+              "usage": {
+                "completion_tokens": 146,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1521,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1472
+                },
+                "total_tokens": 1667
+              }
+            },
+            "support": "an ancestry-specific CD36 variant contributed more to DCM burden among individuals of African ancestry than established genes for DCM, including TTN truncating variants",
+            "total": 79
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-19",
+      "reasons": {
+        "research": "四大队列约8.2万非裔人群的全外显子数据表明常见CD36 Y325*变异对扩张型心肌病的人群归因分数（9.0%）超过TTN截断变异（3.7%），直接改变该人群的基因检测与遗传咨询优先级；主要限制为观察性关联设计，效应估计依赖队列代表性，临床级基因检测落地仍需验证。"
       },
       "historical": true
     },
@@ -1811,7 +2195,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -1938,7 +2322,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。"
@@ -2069,7 +2453,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -2202,7 +2586,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
@@ -2334,7 +2718,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
@@ -2465,7 +2849,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
@@ -2597,7 +2981,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
@@ -2728,7 +3112,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
@@ -2859,7 +3243,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
@@ -2990,7 +3374,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
@@ -3124,7 +3508,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
@@ -3255,7 +3639,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
@@ -3386,7 +3770,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -3517,7 +3901,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-12",
       "reasons": {
         "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
@@ -3570,10 +3954,13 @@
     {
       "date": "2026-10-19",
       "item_ids": [
+        "pmid:42895716",
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
         "url:https://www.nature.com/articles/s41746-026-03392-w",
-        "url:https://www.nature.com/articles/s41591-026-04692-0"
+        "url:https://www.nature.com/articles/s41591-026-04692-0",
+        "pmid:42896534"
       ],
-      "minutes": 2
+      "minutes": 4
     },
     {
       "date": "2026-10-16",
