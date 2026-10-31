@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-30T14:09:21+00:00",
-  "as_of": "2026-10-30",
+  "generated_at": "2026-10-31T00:48:02+00:00",
+  "as_of": "2026-10-31",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -127,7 +127,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-10-24",
       "reasons": {
         "research": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。"
@@ -258,7 +258,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
@@ -387,7 +387,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
@@ -518,7 +518,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
@@ -646,7 +646,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-22",
       "reasons": {
         "industry": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。"
@@ -775,7 +775,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
@@ -905,7 +905,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -1034,7 +1034,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
@@ -1160,7 +1160,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -1290,7 +1290,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
@@ -1420,10 +1420,398 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+      "t": "FDA 批准首个慢性乙型肝炎治疗药物",
+      "te": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+      "s": "FDA 今天批准 Hibsago（贝匹罗韦森）注射液与现有的抗病毒治疗相结合，用于治疗某些无肝硬化成人的慢性乙型肝炎病毒（HBV）感染。",
+      "se": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+      "image": "",
+      "src": "FDA · 官方公告",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-20T23:54:22+00:00",
+        "input_hash": "dfe95aa494ae9b9a9c0c12ae6d110e5b55652cfb0925e28e82d8665426caa9c3",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 5,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102107541589b8d093f5004ff3",
+              "seconds": 2.95,
+              "usage": {
+                "completion_tokens": 151,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 804,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 955
+              }
+            },
+            "support": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "首个同类慢乙肝疗法获FDA批准，联合现有抗病毒药物用于无肝硬化成人，是真实的监管准入事实，产业与临床读者可据此评估HBV治疗格局与准入动向。但材料仅为公告摘要，未提供疗效数据、试验设计和获批条件细节，效果主张需另行查证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610210754189d721031bea3490d",
+              "seconds": 4.15,
+              "usage": {
+                "completion_tokens": 202,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 49
+                },
+                "prompt_tokens": 804,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1006
+              }
+            },
+            "support": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+            "total": 78
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-20",
+      "reasons": {
+        "industry": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42896184",
+      "t": "Medicare Advantage 家庭健康风险评估中心血管疾病的诊断和治疗。",
+      "te": "Diagnosis and Treatment of Cardiovascular Conditions in Medicare Advantage In-Home Health Risk Assessments.",
+      "s": "背景 Medicare Advantage 保险公司进行家庭健康风险评估 (HRA)，以识别高风险患者并促进适当的护理。批评者认为，这种做法增加了风险调整后的付款，却没有提高质量。缺乏有关家用 HRA 的使用和下游处理的综合数据。目的 研究家庭 HRA 期间诊断出的心血管疾病的趋势、与基于 HRA 的诊断相关的特征以及诊断后的治疗率。设计队列研究。设置基于人口。参与者 Medicare Advantage 受益人。测量 使用 100% 医疗保险索赔，检查了在家 HRA（与基于机构的就诊）期间诊断出的心血管疾病比例的趋势。",
+      "se": "Background Medicare Advantage insurers conduct in-home health risk assessments (HRAs) to identify high-risk patients and facilitate appropriate care. Critics argue this practice increases risk-adjusted payments without improving quality. Comprehensive data on use of in-home HRAs and downstream treatment are lacking. Objective To examine trends in cardiovascular conditions diagnosed during in-home HRAs, characteristics associated with HRA-based diagnoses, and treatment rates after diagnoses. Design Cohort study. Setting Population-based. Participants Medicare Advantage beneficiaries. Measurements Using 100% Medicare claims, trends in the proportion of cardiovascular conditions diagnosed during in-home HRAs (vs. facility-based visits) were examined.",
+      "u": "https://doi.org/10.7326/annals-26-01366",
+      "image": "",
+      "src": "Annals of Internal Medicine · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "data",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "annals_internal_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "annals_internal_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42896184",
+        "upstream_id": "42896184"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-21T06:03:14+00:00",
+        "input_hash": "cc338fbafb19d3f8dc02fd21b449caf3965ab96d5375e2670e8649ec0bb58f08",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "基于2100余万Medicare Advantage受益人全量理赔数据，量化了居家健康风险评估诊断心血管疾病的趋势及后续治疗率显著偏低，对研究风险调整支付与诊断行为有直接价值；作者亦承认组间病情严重程度差异与未测混杂无法排除，属观察性推断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于全量Medicare索赔的大规模队列研究，直接回应了居家健康风险评估（HRA）增加风险调整支付但未改善诊疗质量的争议，发现HRA确诊占比持续上升而治疗后处理率显著更低，对支付政策与风险评估诊断规范研究有实质参考价值；局限在于未能校正病情严重程度且处方数据仅作管理代理指标。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261021140304f3fc7608a97e486c",
+              "seconds": 4.74,
+              "usage": {
+                "completion_tokens": 176,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 10
+                },
+                "prompt_tokens": 1192,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1368
+              }
+            },
+            "support": "the proportion diagnosed during in-home HRAs increased between 2018 and 2022 for hypertension (45.9% to 47.7%), hyperlipidemia (57.8% to 66.7%)",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于2100余万Medicare Advantage受益人全量理赔数据，量化了居家健康风险评估诊断心血管疾病的趋势及后续治疗率显著偏低，对研究风险调整支付与诊断行为有直接价值；作者亦承认组间病情严重程度差异与未测混杂无法排除，属观察性推断。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610211403092dc1a0f39d2e4720",
+              "seconds": 4.76,
+              "usage": {
+                "completion_tokens": 180,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 25
+                },
+                "prompt_tokens": 1192,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1372
+              }
+            },
+            "support": "the proportion diagnosed during in-home HRAs increased between 2018 and 2022 for hypertension (45.9% to 47.7%), hyperlipidemia (57.8% to 66.7%)",
+            "total": 67
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-20",
+      "reasons": {
+        "research": "基于2100余万Medicare Advantage受益人全量理赔数据，量化了居家健康风险评估诊断心血管疾病的趋势及后续治疗率显著偏低，对研究风险调整支付与诊断行为有直接价值；作者亦承认组间病情严重程度差异与未测混杂无法排除，属观察性推断。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42896183",
+      "t": "2026 年联邦更改儿童免疫计划对美国慢性乙型肝炎病毒感染的预计影响。",
+      "te": "Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States.",
+      "s": "背景 美国最近提议修改儿童乙型肝炎病毒 (HBV) 疫苗接种建议。目的 预测疫苗政策变化（如果全面实施）对慢性乙型肝炎病毒感染的影响。设计围产期和儿童 HBV 感染的马尔可夫队列状态转换模型。数据来源 已发表的数据涉及孕产妇乙型肝炎病毒感染率 (0.4%) 和乙型肝炎表面抗原检测（敏感性 99.5%）、儿童疫苗接种完成情况（通用出生剂量策略：91.1%；延迟策略：87.1%；共同决策策略：50.0%）以及慢性乙型肝炎病毒感染的年龄分层风险。目标人群 美国出生婴儿的一年出生队列（n = 360 万）。时间跨度20年。干预措施 普遍出生剂量疫苗接种、延期（2 个月）疫苗接种以及通过共同决策进行疫苗接种。",
+      "se": "Background The United States recently proposed changes to the recommendations for childhood hepatitis B virus (HBV) vaccination. Objective To project the effect of vaccine policy changes, if fully implemented, on chronic HBV infections. Design Markov cohort state transition model of perinatal and childhood HBV infection. Data sources Published data on maternal HBV prevalence (0.4%) and hepatitis B surface antigen testing (99.5% sensitivity), childhood vaccine completion (universal birth-dose strategy: 91.1%; deferred strategy: 87.1%; shared decision-making strategy: 50.0%), and age-stratified risk for chronic HBV infection. Target population One-year birth cohort of U.S.-born infants ( n = 3.6 million). Time horizon 20 years. Intervention Universal birth-dose vaccination, deferred (2-month) vaccination, and vaccination through shared decision making.",
+      "u": "https://doi.org/10.7326/annals-26-02135",
+      "image": "",
+      "src": "Annals of Internal Medicine · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "business",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "data",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "annals_internal_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "annals_internal_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42896183",
+        "upstream_id": "42896183"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-21T06:03:20+00:00",
+        "input_hash": "1332b1c39c991ad4c0bce8f2b91ee4d612e7e1d2ac912c1076739a98c5d97f77",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "针对美国拟调整儿童乙肝疫苗接种建议的Markov队列模型预测，量化延迟接种与共同决策策略将使2026年出生队列慢性HBV感染增加19%–83%，为免疫规划政策评估提供直接证据。限制在于水平传播风险假设存在不确定性，结论依赖模型而非实证观察。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "针对美国拟调整儿童乙肝疫苗接种建议的Markov队列模型预测，量化延迟接种与共同决策策略将使2026年出生队列慢性HBV感染增加19%–83%，为免疫规划政策评估提供直接证据。限制在于水平传播风险假设存在不确定性，结论依赖模型而非实证观察。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610211403080877be7f4c054a64",
+              "seconds": 7.39,
+              "usage": {
+                "completion_tokens": 313,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 152
+                },
+                "prompt_tokens": 1270,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1583
+              }
+            },
+            "support": "Compared with the universal birth-dose strategy (255 childhood infections [95% UI, 130 to 530]), the deferred and shared decision-making strategies would increase chronic HBV infections in the 2026 bi",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "针对2026年美国儿童乙肝疫苗政策变更的Markov队列模型，量化了延迟接种和共同决策策略将分别使慢性HBV感染增加19%和83%，为免疫规划政策讨论提供了可核查的模型证据。局限在于水平传播风险参数不确定性较大，且为预测而非实证结果。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102114031571965cb2ddc44648",
+              "seconds": 4.62,
+              "usage": {
+                "completion_tokens": 172,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1270,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1216
+                },
+                "total_tokens": 1442
+              }
+            },
+            "support": "the deferred and shared decision-making strategies would increase chronic HBV infections in the 2026 birth cohort by 19% to 303 (95% UI, 155 to 610) and by 83% to 467 (95% UI, 209 to 1032), respective",
+            "total": 75
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-20",
+      "reasons": {
+        "research": "针对美国拟调整儿童乙肝疫苗接种建议的Markov队列模型预测，量化延迟接种与共同决策策略将使2026年出生队列慢性HBV感染增加19%–83%，为免疫规划政策评估提供直接证据。限制在于水平传播风险假设存在不确定性，结论依赖模型而非实证观察。"
       },
       "historical": true
     },
@@ -1552,7 +1940,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -1683,7 +2071,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -1809,7 +2197,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-19",
       "reasons": {
         "industry": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。"
@@ -1938,7 +2326,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多中心随机对照试验（12家欧洲中心、1095例分析）显示以个体化心脏指数为目标的术中血流动力学治疗未降低高危腹部大术后7天复合结局发生率（RR 0.94, P=.38），为围术期血流动力学优化策略提供了明确的阴性证据。限制为复合结局及7天随访窗口，未评估远期结局。"
@@ -2067,7 +2455,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "四大队列约8.2万非裔人群的全外显子数据表明常见CD36 Y325*变异对扩张型心肌病的人群归因分数（9.0%）超过TTN截断变异（3.7%），直接改变该人群的基因检测与遗传咨询优先级；主要限制为观察性关联设计，效应估计依赖队列代表性，临床级基因检测落地仍需验证。"
@@ -2195,7 +2583,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -2322,7 +2710,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。"
@@ -2453,7 +2841,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -2586,7 +2974,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "15 天前",
+      "when": "16 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
@@ -2718,7 +3106,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
@@ -2849,7 +3237,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
@@ -2981,7 +3369,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
@@ -3112,7 +3500,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
@@ -3243,7 +3631,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "16 天前",
+      "when": "17 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
@@ -3374,7 +3762,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
@@ -3508,7 +3896,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
@@ -3639,7 +4027,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-13",
       "reasons": {
         "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
@@ -3770,7 +4158,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-12",
       "reasons": {
         "industry": "Stryker以4亿美元投资CMR Surgical并成为其美国独家分销商，是软组织手术机器人竞争格局的直接产业事实，产业读者可据此评估Intuitive、J&J、Medtronic之外的竞争态势与渠道布局。限制在于材料未披露交易条款细节及CMR商业化进展对回报的影响。"
@@ -3901,7 +4289,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-12",
       "reasons": {
         "research": "基于近6.5年全美注册数据的连续队列与模拟匹配分析，给出了可直接比较的US-CRS评分、AUC（0.807 vs 0.693）及分配政策的真实权衡（首位候选者6周死亡率升至15.7%），对器官分配研究设计和政策模拟有直接参考价值；局限为注册数据观察性研究，结果为模拟而非真实实施效果。"
@@ -3947,9 +4335,12 @@
     {
       "date": "2026-10-20",
       "item_ids": [
+        "pmid:42896183",
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+        "pmid:42896184",
         "url:https://www.nature.com/articles/s41746-026-03112-4"
       ],
-      "minutes": 1
+      "minutes": 3
     },
     {
       "date": "2026-10-19",
