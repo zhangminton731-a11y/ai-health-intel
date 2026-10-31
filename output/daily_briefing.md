@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-10-31
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 442
+> Daily status: **complete_with_warning** · sources 26/26 · items 443
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -118,7 +118,7 @@ Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P) Introduction Co
 
 No items.
 
-## Archive · 429
+## Archive · 430
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -996,7 +996,7 @@ Men occupy a privileged position within gender power relations: the male body ha
 
 - Source: `lancet_abstracts` · published `2026-10-01` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `pmid:42956772`
+- Event: `seen` · identity: `pmid:42956772`
 
 <h4>Background</h4>The advent of regulatory-approved pharmacological treatments for metabolic dysfunction-associated steatotic liver disease (MASLD) calls for precise, non-invasive biomarkers that facilitate early diagnosis, support therapy selection, and aid clinical trial enrolment. The European multicentre LITMUS study aimed to evaluate the diagnostic performance of a broad range of non-invasive biomarkers for identifying patients with metabolic dysfunction-associated steatohepatitis (MASH), at-risk MASH, advanced fibrosis, and cirrhosis.<h4>Methods</h4>In this prospective, multicentre, diagnostic accuracy study, adults with biopsy-confirmed MASLD were prospectively recruited across 13 countries in Europe and the USA. We assessed 12 single markers and 18 multimarker panels. The reference standard was centrally scored liver histology according to the non-alcoholic steatohepatitis Clinical Research Network Scoring System. Target conditions included MASH (Non-Alcoholic Fatty Liver Disease Activity Score ≥4 with ≥1 point per component), at-risk MASH (MASH plus significant fibrosis [fibrosis stage F≥2]), advanced fibrosis (F≥3), and cirrhosis (F4). Performance was evaluated by area-under-the-receiver operating characteristic curve (AUC), with the minimum acceptable criterion (MAC) of AUC higher than 0·80 to indicate potential biopsy replacement.<h4>Findings</h4>Between Jan 1, 2018, and June 30, 2023, we analysed data from 1590 participants with centrally scored liver biopsies and at least one biomarker measurement; 609 (38%) had biopsy-confirmed at-risk MASH, 678 (43%) had MASH, 585 (37%) had advanced fibrosis, and 164 (10%) had cirrhosis. For detecting at-risk MASH, SomaSignal showed the highest diagnostic performance (AUC 0·83 [95% CI 0·80-0·85]), significantly exceeding MAC, whereas no other test reached the MAC for MASH only. For advanced fibrosis, SomaSignal showed the highest performance (AUC 0·92 [0·90-0·94]), followed by FibroMeter-VCTE (AUC 0·87 [0·83-0·92]), Agile 3+ and TSP2 (both AUC 0·84 [0·82-0·86]), and NIS4 (0·82 [0·80-0·85]). For cirrhosis, FibroMeter-VCTE showed the highest diagnostic performance (AUC 0·94 [0·90-0·97]) followed by SomaSignal (AUC 0·92 [0·90-0·94]), followed by Agile 3+ (0·88 [0·85-0·91]), Agile 4 (0·87 [0·84-0·90]), ADAPT (0·85 [0·81-0·88]), and ELF, LSM-VCTE, and TSP2 (all 0·84 [0·81-0·87]). Sequential two-step approaches using gamma-glutamyl transferase as a first-line test met the MAC for both advanced fibrosis and at-risk MASH.<h4>Interpretation</h4>Although single markers resulted in variable and limited performance when compared to histology for detecting at-risk MASH, multimarker panels showed great potential, with a proteomic panel showing strong diagnostic performance. These findings could support the selection and implementation of non-invasive testing strategies in MASLD and inform future clinical guidelines, regulatory evaluation, and clinical trial design.<h4>Funding</h4>Innovative Medicines Initiative 2 Joint Undertaking.
 
@@ -1052,7 +1052,7 @@ Men occupy a privileged position within gender power relations: the male body ha
 
 - Source: `lancet_abstracts` · published `2026-10-01` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `pmid:42956771`
+- Event: `seen` · identity: `pmid:42956771`
 
 <h4>Background</h4>Data on prone positioning and high-frequency oscillatory ventilation (HFOV) used separately or in combination in patients with paediatric acute respiratory distress syndrome (PARDS) are inconclusive, leading to wide practice variability. We aimed to compare the effects of prone positioning with supine positioning and the effects of HFOV with conventional mechanical ventilation on ventilator-free days in children with early, moderate-to-severe PARDS.<h4>Methods</h4>PROSpect was an international, two-by-two factorial, response-adaptive, phase 3, randomised controlled trial done in 75 paediatric intensive care units in 18 countries. Eligible patients were aged 2 weeks to 20 years, and were intubated and mechanically ventilated for less than 96 h before meeting criteria for moderate-to-severe PARDS. Patients were centrally randomly assigned using a web-based system to supine positioning and conventional mechanical ventilation, prone positioning and conventional mechanical ventilation, supine positioning and HFOV, or prone positioning and HFOV. Initially, the allocation was 1:1:1:1 stratified by age group and direct or indirect lung injury using a permuted block design with blocks of four and eight. Response-adaptive randomisation updates were planned to adjust allocation probabilities 28 days after 300 patients were randomly assigned and then 28 days after every 100 additional patients. Given the nature of the interventions, masking was not possible. The primary outcome was ventilator-free days through to day 28 among all randomly assigned participants. Safety was assessed prospectively by daily monitoring for the occurrence of prespecified adverse events. This study was registered with ClinicalTrials.gov (NCT03896763) and is closed to enrolment.<h4>Findings</h4>Between May 1, 2019 and Jan 13, 2026, 1045 patients were eligible for enrolment. The trial was stopped early for futility and slow enrolment after 424 of 600 planned patients were recruited. 126 patients were randomly assigned to the supine and conventional mechanical ventilation group, 130 to the prone and conventional mechanical ventilation group, 90 to the supine and HFOV group, and 78 to the prone and HFOV group. Median age was 3·3 years (IQR 1·1-10·1), 211 (50%) patients were female, and 213 (50%) were male. There were no significant differences in ventilator-free days between prone and supine positioning (median 17·9 days [IQR 8·9-21·3] vs 17·4 days [6·4-21·9]; Hodges-Lehmann location shift adjusting for ventilation 0·0 [95% CI -0·8 to 1·0]) or between HFOV and conventional mechanical ventilation (17·3 [5·7-21·6] vs 18·0 [9·9-21·5]; Hodges-Lehmann location shift adjusting for positioning -0·3 [95% CI -1·5 to 0·5]). 41 (10%) patients had died at day 28, without group differences. Plugging or obstruction of the artificial airway occurred more frequently with prone than supine positioning (14 events in 12 [6%] of 188 patients vs three events in three [2%] of 197 patients; 0·74 [95% CI 0·44-1·26] vs 0·15 [0·05-0·47] events per 100 artificial airway days; rate ratio 4·83 [95% CI 1·38-16·82]). Stage 2 or worse immobility-related pressure injuries also occurred more frequently with prone versus supine positioning (12 [6%] vs two [1%]; relative risk 6·13 [95% CI 1·45-25·97]). Haemodynamic instability occurred more frequently with HFOV than conventional mechanical ventilation (41 events in 19 [13%] of 141 patients vs 38 events in 22 [9%] of 244 patients; 2·21 [95% CI 1·63-3·00] vs 1·22 [0·89-1·68] events per 100 paediatric intensive care unit days; rate ratio 1·84 [95% CI 1·18-2·87]). One serious adverse event, an unwitnessed self-extubation followed by cardiopulmonary arrest, occurred in a patient in the prone and conventional mechanical ventilation group.<h4>Interpretation</h4>We found no evidence to support prone positioning or HFOV as first-line strategies to improve ventilator-free days in patients with early, moderate-to-severe PARDS. Thus, the routine use of these strategies in this population is not recommended.<h4>Funding</h4>US National Institutes of Health/National Heart, Lung, and Blood Institute.
 
@@ -2400,14 +2400,6 @@ Background: Cardiovascular disease (CVD) remains the leading cause of death worl
 
 <p><a href="https://medcitynews.com/2026/10/artiva-cell-therapy-natural-killer-nk-allogeneic-allonk-fludarabine-autoimmune-diseaseartv/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c-768x576.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c-632x474.jpg 632w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c-536x402.jpg 536w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/51630111330_c9ab8e1376_c.jpg 800w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Artiva Biotherapeutics attributed one of the fatalities to a drug used to prepare patients for cell therapy and not to the cell therapy itself. But Artiva’s setbacks follow safety signals reported for autoimmune disease cell therapy programs from Novartis and Bristol Myers Squibb. </p> <p>The post <a href="https://medcitynews.com/2026/10/artiva-cell-therapy-natural-killer-nk-allogeneic-allonk-fludarabine-autoimmune-diseaseartv/">Patient Deaths and Data Shortfall Spell the End for Cell Therapy Biotech Artiva</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Radiographer fracture detection with and without AI assistance in prospective emergency department use](https://www.nature.com/articles/s41746-026-03313-x)
-
-- Source: `npj_digital_medicine` · published `2026-10-27` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03313-x`
-
-Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 2496 consecutive musculoskeletal examinations (one radiographer per examination), reviewed output from a commercial deep-learning system, then recorded a final decision, giving 2496 paired reads against a radiologist reference standard. Standalone AI sensitivity was 75.6%, falling to 46.2% for subtle fractures, below the radiographers’ baseline sensitivity of 91.6%. Radiographers’ baseline accuracy was high (97.6%; specificity 99.0%) and improved modestly with AI assistance (98.0%; exact McNemar p = 0.0064). With AI assistance, radiographers corrected 11 errors and introduced 1, a net gain of 10 cases. Subgroup gains were directionally consistent but not significant after correction. Radiographers changed their decision in only 11 of 729 discordant cases, and most negative interactions were correct AI recommendations not adopted. No or incomplete AI output was returned for 8.8% of acquired examinations. AI assistance delivered a small, selective benefit arising from complementary rather than superior algorithmic performance. Operational reliability proved as consequential as diagnostic accuracy, and behavioural inferences rest on few events. Downstream clinical outcomes were not measured.
-
 ### [Real-Time Medical Record Quality Control System (MRQCS): Development and Retrospective Longitudinal Observational Study](https://medinform.jmir.org/2026/1/e97456)
 
 - Source: `jmir_medinform` · published `2026-10-27` · freshness `fresh`
@@ -2439,14 +2431,6 @@ Stryker said Monday it has closed its takeover of ZuriMED, adding a device for t
 - Event: `seen` · identity: `url:https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/`
 
 Scaling AI agents requires treating them like employees in regulated roles, with written rules, clearly defined responsibilities and a named human manager accountable for their performance. Guest author Rick Folgmann, COO at Get Covered, tells companies they should start with tasks governed by established rules, adjust autonomy to each workflow’s risks, and regularly review results before expanding agents’ authority.
-
-### [A physics-informed peripheral hemodynamic digital twin for personalized estimation of arterial stiffness](https://www.nature.com/articles/s41746-026-03431-6)
-
-- Source: `npj_digital_medicine` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03431-6`
-
-Arterial stiffness, commonly assessed by pulse wave velocity (PWV), is an important biomarker of cardiovascular risk, yet conventional PWV measurements require dual-site recordings that limit scalability in clinical settings. Here we introduce a physics-informed peripheral hemodynamic digital twin framework for estimating central-brachial arterial stiffness from a single brachial pressure waveform. Using our laboratory-developed cuff device, high-resolution brachial pulse waveforms were collected in a cohort of 118 subjects. The digital twin then personalizes a reduced-order wave propagation model through PDE-constrained optimization, generating a compact parameter space that encodes ventricular–vascular characteristics relevant to stiffness. Incorporating digital-twin-derived parameters improved PWV estimation on a blind test cohort (r = 0.67, RMSE = 1.12 m/s) compared with a baseline model using only age and blood pressure (r = 0.22, RMSE = 1.90 m/s). These results indicate that physics-informed digital twins can enable scalable, noninvasive assessment of vascular aging from accessible peripheral waveforms.
 
 ### [Adapt your ad strategy to meet the way people search today.](https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/)
 
@@ -2644,9 +2628,9 @@ Background: Hypothyroidism is a prevalent endocrine disorder characterized by an
 
 - Source: `hn_ai_health_signals` · published `2026-10-28` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397`
+- Event: `updated` · identity: `url:https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397`
 
-Hacker News community signal; score 20.
+Hacker News community signal; score 45.
 
 ### [Notice of Informational Webinar on the Predoctoral to Postdoctoral Transition Award (F99/K00)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-009.html)
 
@@ -2726,7 +2710,7 @@ Professor Michael Yaffe and six MIT alumni are honored for their outstanding pro
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/`
 
-Hacker News community signal; score 210.
+Hacker News community signal; score 234.
 
 ### [The 2026 report of the Lancet Countdown on health and climate change: a decade of escalating health harms and a decisive moment for all.](https://doi.org/10.1016/s0140-6736(26)01779-4)
 
@@ -3028,7 +3012,7 @@ After spinal cord injury, clinical management aims to support tissue perfusion, 
 
 - Source: `lancet_abstracts` · published `2026-10-29` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `pmid:42956796`
+- Event: `seen` · identity: `pmid:42956796`
 
 <h4>Background</h4>In patients with suspected myocardial infarction, the 0/1 h pathway (blood draws at 0 h and 1 h) is recommended in current guidelines for early risk stratification. However, individual trials used different safety outcomes, and efficacy outcomes were inconclusive or not assessed. We conducted a systematic review and individual participant data meta-analysis of all randomised controlled trials to synthesise the totality of the evidence, assess heterogeneity across trials, and evaluate clinically relevant outcomes using harmonised definitions across trials.<h4>Methods</h4>In this systematic review and individual participant data meta-analysis, we searched PubMed, Cochrane Central Register of Controlled Trials, Scopus, and the International Clinical Trials Registry Platform from inception to July 6, 2026, without language restrictions, for randomised trials comparing the safety and efficacy of 0/1 h versus 0/3 h pathways (blood draws at 0 h and 3 h, ie, standard care). Individual participant data were obtained and outcome definitions were harmonised. The primary analysis used a two-stage random-effects meta-analysis. After receipt of the individual participant data but before data harmonisation or analysis, the primary safety outcome was refined to a composite of all-cause death or new type 1 myocardial infarction within 30 days, from the originally specified composite of all-cause death or any new myocardial infarction. The primary efficacy outcomes were emergency department length of stay and direct discharge from the emergency department. This meta-analysis is registered with PROSPERO (CRD420261383452).<h4>Findings</h4>Our systematic review identified five randomised trials, all of which provided individual participant data. Among these, the definition of the primary safety outcome varied, and in four trials emergency department length of stay was not reported for the whole analysis population. We included 110 933 patient presentations (55 489 managed with the 0/1 h pathway and 55 444 managed with the 0/3 h pathway). Within 30 days, all-cause death or new type 1 myocardial infarction occurred in 446 patient presentations (0·8%) with the 0/1 h pathway versus 562 patient presentations (1·0%) with the 0/3 h pathway (random-effects pooled odds ratio [OR] 0·83 [95% CI 0·45-1·53]; I<sup>2</sup>=62·9%; τ<sup>2</sup>=0·143). Emergency department length of stay was 314 min (IQR 211-481) in the 0/1 h pathway group versus 308 min (209-453) in the 0/3 h pathway group (random-effects pooled geometric mean ratio 1·03 [95% CI 0·85-1·25]; I<sup>2</sup>=99·2%; τ<sup>2</sup>=0·024). Direct discharge from the emergency department occurred in 37 190 patient presentations (67·0%) with the 0/1 h pathway versus 36 485 patient presentations (65·8%) with the 0/3 h pathway (random-effects pooled OR 1·31 [95% CI 0·79-2·16]; I<sup>2</sup>=97·8%; τ<sup>2</sup>=0·156).<h4>Interpretation</h4>Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account.<h4>Funding</h4>Swiss National Science Foundation, Swiss Heart Foundation, University Hospital Basel, University of Basel, and Foundation for Cardiovascular Research Basel.
 
@@ -3087,14 +3071,6 @@ Great news for peptide fans: The Trump administration is giving the peptide craz
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss`
 
 RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement.
-
-### [STAT+: New atlas of colorectal tumors sheds light on why cancers in young people are more dangerous](https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/29/early-onset-colorectal-cancer-dana-farber-study-qa-kimmie-ng/?utm_campaign=rss`
-
-A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous.
 
 ### [STAT+: New federal rule will require prescription drug middlemen to share secret payments data](https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss)
 
@@ -3244,7 +3220,7 @@ Climate change threatens decades of progress toward malaria elimination across t
 
 - Source: `jmir` · published `2026-10-30` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e110851`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e110851`
 
 Background: Limited data availability and privacy constraints hinder the development of robust survival prediction models for personalized treatment. Synthetic data offers a promising solution, preserving the statistical properties of real clinical data. Objective: This study aimed to quantitatively assess the feasibility of using synthetic data for survival prediction by evaluating model transfer performance to real-world hospital data, with a focus on model transfer strategies. Methods: We developed and validated colorectal cancer survival prediction models using the National Cancer Data Center (NCDC) synthetic data (30,683 patients from 3 Korean institutions) for pretraining and real hospital data (2170 patients from Hwasun Jeonnam University Hospital) for external validation. We evaluated 3 model transfer strategies—domain adaptation, zero-shot, and ensemble—using extreme gradient boosting (XGBoost) and light gradient boosting machine (LightGBM). In total, 48 model configurations were tested, defined by the combination of algorithms (LightGBM and XGBoost), sampling technique (no-sampling, random undersampling [RUS], and synthetic minority oversampling technique combined with edited nearest neighbors [SMOTEENN]), model type (baseline, domain adaptation, zero-shot, and ensemble), and optimization objective (area under the precision-recall curve [AUPRC] and ). The outcome was 7-year overall survival, evaluated using the AUPRC and Brier scores. Performance was compared against a hospital-only baseline using absolute values and deltas (ΔAUPRC and ΔBrier). Differences and corresponding 95% CIs were estimated on the held-out test set using 2000 bootstrap samples. Results: Zero-shot application reduced the AUPRC in most settings, and any marginal improvements observed in the remaining settings were not statistically significant. In contrast, the domain adaptation model improved AUPRC in 8/12 combinations, with 4 statistically significant gains; the best setting (XGBoost+RUS+ optimization) achieved AUPRC=0.5391 (Δ+0.1474; &lt;.001). The soft ensemble increased AUPRC in 7/12 combinations, with 3 statistically significant gains; the best setting (XGBoost+RUS+AUPRC optimization) achieved AUPRC=0.5060 (+0.1258, =.002). For calibration, Brier scores improved in most domain adaptation and ensemble combinations, with a substantial proportion reaching statistical significance. Conclusions: When domain adaptation using local hospital data was applied, the model pretrained on synthetic data exhibited similar performance to the hospital-only baseline across various settings. This study demonstrates the methodological utility of a model transfer approach using NCDC synthetic data in a setting with limited data sharing. At the same time, it clarifies that while synthetic data can serve as a complement to local clinical data, it is not a substitute for real-world clinical models.
 
@@ -3544,13 +3520,45 @@ Background: While AI has existed for decades, the introduction of generative AI 
 
 <img src="https://i.ytimg.com/vi_webp/epqzfAi16us/maxresdefault.webp">This week, we reached our "Hello World" milestone: the first-ever AI response from a data center class TPU in orbit.
 
+### [AI startup hacks Anthropic, gains access to employee details, internal messages](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
+
+- Source: `hn_ai_health_signals` · published `2026-10-31` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26`
+
+Hacker News community signal; score 8.
+
 ### [Interpretability-driven feature engineering enables compact and accurate multi-outcome risk stratification at hospitalization for chronic hepatitis B](https://www.nature.com/articles/s41746-026-03439-y)
 
 - Source: `npj_digital_medicine` · published `2026-10-31` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03439-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03439-y`
 
 Clinical artificial intelligence (AI) often trades predictive performance against interpretability. This study develops an interpretability-driven feature engineering framework for multi-outcome risk stratification at hospitalization for chronic hepatitis B. A total of 36,024 hospitalization records from 22,001 patients were included. The framework integrating SHapley Additive exPlanations (SHAP)-based main and interaction effects was used to construct compact machine learning models for classifying disease non-progression, liver cirrhosis (LC), and hepatocellular carcinoma (HCC). SHAP main effects selected the top 15 features per outcome; TreeSHAP interactions selected four pairwise terms. Performance was evaluated using patient-level data splitting, temporal validation, and independent external validation, with calibration and decision-curve analyses. The full-feature models achieved superior discrimination (AUCs: 0.927, 0.897, and 0.899) for classifying hospitalization-recorded disease non-progression, LC, and HCC, respectively. The corresponding compact models maintained strong discrimination (AUCs: 0.911, 0.882, and 0.890) with 80.8% fewer features. Interaction models yielded subtle AUC shifts (AUCs: 0.912, 0.881, and 0.891) while characterizing potential clinical joint-effect patterns. Temporal validation yielded AUCs of 0.863, 0.827, and 0.847, while external validation yielded AUCs of 0.829, 0.865, and 0.827, respectively. The framework produced compact and transparent models for contemporaneous risk stratification in clinical practice, seamlessly uniting predictive accuracy with multi-level interpretability.
+
+### [Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach](https://www.nature.com/articles/s41746-026-03449-w)
+
+- Source: `npj_digital_medicine` · published `2026-10-31` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03449-w`
+
+Persistent fever after initiating intravenous antibiotics is common in hospitalized patients with cancer and often leads to additional imaging and antimicrobial escalation. Early identification of patients unlikely to remain febrile could provide additional information during clinical reassessment. We developed and externally validated machine learning models to predict persistent fever 48–72 h after antibiotic initiation using electronic health records from two academic hospitals. Adult cancer patients with fever within 24–48 h of treatment were included. Models incorporated demographics, comorbidities, laboratory results, vital signs, and temperature patterns. The best-performing model achieved an AUROC of 0.82 (95% CI 0.79–0.84) internally and 0.78 (95% CI 0.77–0.79) externally. Temperature-related variables were the dominant predictors. Decision curve analysis demonstrated positive net benefit across much of the evaluated threshold range. Retrospective assessment suggested that approximately one quarter of antibiotic escalations and chest CT scans occurred in patients correctly predicted not to remain febrile, highlighting the potential contextual value of fever predictions. These findings indicate that short-term fever persistence can be predicted with clinically meaningful accuracy using routine data. However, clinical use should be limited to an adjunctive role rather than standalone rule-out decision-making, and prospective studies are required to evaluate safety, clinician uptake, and real-world impact.
+
+### [STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in](https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-10-31` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss`
+
+No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.
+
+### [Understanding clinical reasoning variability in medical large language models: a mechanistic interpretability study](https://www.nature.com/articles/s41746-026-03423-6)
+
+- Source: `npj_digital_medicine` · published `2026-10-31` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03423-6`
+
+Medical large language models achieving high benchmark accuracy exhibit unexplained variability in clinical tasks, producing errors that clinicians cannot safeguard against. We evaluated clinical reasoning stability in GPT-5, MedGemma-27B-Text-IT, and OpenBioLLM-Llama3-70B using 3035 systematic perturbations from physician-validated oncology SOAP, brief vignette, and MIMIC cases. We trained sparse autoencoders on 1 billion tokens from 50,000 MIMIC-IV clinical notes to decompose their internal representation. We find models exhibit dramatic reasoning instability, shifting staging accuracy by over 50% based solely on prompt format, or generating definitive staging in clinically insufficient scenarios. Sparse autoencoder analysis revealed hierarchical encoding in MedGemma, where high-magnitude features encode lexical identity and low-magnitude features encode contextual meaning. OpenBioLLM distributes information uniformly. We demonstrate that these internal encoding structures differentially affect retrieval and reasoning interventions, suggesting interventions effective for one architecture may harm another. These results motivate architecture-specific safety validation as a component of pre-deployment evaluation for medical LLMs.
 
 ---
 
