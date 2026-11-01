@@ -2630,7 +2630,7 @@ Background: Hypothyroidism is a prevalent endocrine disorder characterized by an
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397`
 
-Hacker News community signal; score 63.
+Hacker News community signal; score 66.
 
 ### [Notice of Informational Webinar on the Predoctoral to Postdoctoral Transition Award (F99/K00)](http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-009.html)
 
@@ -2710,7 +2710,7 @@ Professor Michael Yaffe and six MIT alumni are honored for their outstanding pro
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/`
 
-Hacker News community signal; score 252.
+Hacker News community signal; score 256.
 
 ### [The 2026 report of the Lancet Countdown on health and climate change: a decade of escalating health harms and a decisive moment for all.](https://doi.org/10.1016/s0140-6736(26)01779-4)
 
@@ -3516,7 +3516,7 @@ Background: While AI has existed for decades, the introduction of generative AI 
 
 - Source: `npj_digital_medicine` · published `2026-10-31` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03438-z`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03438-z`
 
 Generating medical synthetic text represents an effective solution for clinical NLP issues like sparsity and privacy. This paper conducts a systematic review on synthetic clinical text generation by formulating quantitative analysis to three research questions concerning the generation’s purpose, generation techniques, and the evaluation methods. We searched four databases including PubMed, Scopus, ScienceDirect and Web of Science for publications associated with the topic and identified 87 relevant articles out of 1148. Results showed that the generation purposes were dedicated to Trustworthy, Medical Assistance, and Language Resource themes. Prompting LLMs was the main source of synthetic text (40 articles). GPTs were the main predominant technique used to generate the text (63 articles), especially ChatGPT (47 articles). Additionally, there were four main aspects of evaluation, including similarity, privacy, structure, and utility, where utility was the prevailing method for assessment (52 articles). The synthetic medical text empowered data augmentation and clinical documentation. Using text alteration, controlling real text portions, and federated learning, generative models can produce privacy-preserving medical text. This accelerates the development of new digital health applications.
 
@@ -3532,9 +3532,9 @@ Clinical artificial intelligence (AI) often trades predictive performance agains
 
 - Source: `hn_ai_health_signals` · published `2026-10-31` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/`
+- Event: `updated` · identity: `url:https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/`
 
-Hacker News community signal; score 228.
+Hacker News community signal; score 244.
 
 ### [Predicting persistent fever in patients with cancer receiving antibiotics: a machine learning approach](https://www.nature.com/articles/s41746-026-03449-w)
 
@@ -3544,11 +3544,11 @@ Hacker News community signal; score 228.
 
 Persistent fever after initiating intravenous antibiotics is common in hospitalized patients with cancer and often leads to additional imaging and antimicrobial escalation. Early identification of patients unlikely to remain febrile could provide additional information during clinical reassessment. We developed and externally validated machine learning models to predict persistent fever 48–72 h after antibiotic initiation using electronic health records from two academic hospitals. Adult cancer patients with fever within 24–48 h of treatment were included. Models incorporated demographics, comorbidities, laboratory results, vital signs, and temperature patterns. The best-performing model achieved an AUROC of 0.82 (95% CI 0.79–0.84) internally and 0.78 (95% CI 0.77–0.79) externally. Temperature-related variables were the dominant predictors. Decision curve analysis demonstrated positive net benefit across much of the evaluated threshold range. Retrospective assessment suggested that approximately one quarter of antibiotic escalations and chest CT scans occurred in patients correctly predicted not to remain febrile, highlighting the potential contextual value of fever predictions. These findings indicate that short-term fever persistence can be predicted with clinically meaningful accuracy using routine data. However, clinical use should be limited to an adjunctive role rather than standalone rule-out decision-making, and prospective studies are required to evaluate safety, clinician uptake, and real-world impact.
 
-### [STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in](https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss)
+### [STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts](https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-31` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss`
+- Event: `updated` · identity: `url:https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss`
 
 No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.
 
