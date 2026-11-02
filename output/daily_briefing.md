@@ -3488,6 +3488,14 @@ No matter what happens on Election Day, the midterms will have sweeping implicat
 
 Medical large language models achieving high benchmark accuracy exhibit unexplained variability in clinical tasks, producing errors that clinicians cannot safeguard against. We evaluated clinical reasoning stability in GPT-5, MedGemma-27B-Text-IT, and OpenBioLLM-Llama3-70B using 3035 systematic perturbations from physician-validated oncology SOAP, brief vignette, and MIMIC cases. We trained sparse autoencoders on 1 billion tokens from 50,000 MIMIC-IV clinical notes to decompose their internal representation. We find models exhibit dramatic reasoning instability, shifting staging accuracy by over 50% based solely on prompt format, or generating definitive staging in clinically insufficient scenarios. Sparse autoencoder analysis revealed hierarchical encoding in MedGemma, where high-magnitude features encode lexical identity and low-magnitude features encode contextual meaning. OpenBioLLM distributes information uniformly. We demonstrate that these internal encoding structures differentially affect retrieval and reasoning interventions, suggesting interventions effective for one architecture may harm another. These results motivate architecture-specific safety validation as a component of pre-deployment evaluation for medical LLMs.
 
+### [In LLM era, can software startup survive?](https://news.ycombinator.com/item?id=50331001)
+
+- Source: `hn_ai_health_signals` · published `2026-11-01` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://news.ycombinator.com/item?id=50331001`
+
+Hacker News community signal; score 18.
+
 ### [Machine Learning Classification of Bipolar Disorder Across Mood States Using Natural Language Processing and Speech Analysis: Observational Study](https://www.jmir.org/article/view/jmir_v28i1e98094)
 
 - Source: `jmir` · published `2026-11-01` · freshness `fresh`
@@ -3500,7 +3508,7 @@ Background: Bipolar disorder (BP) affects 1% to 3% of adults worldwide, with dia
 
 - Source: `medcity_news` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/`
 
 <p><a href="https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth.jpg" class="attachment-large size-large wp-post-image" alt="money growth fundraise" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/money-growth-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Midstream&#8217;s Series A round was led by Valtruis, and included participation from Andreessen Horowitz (a16z), Foundry and CommonSpirit Ventures.</p> <p>The post <a href="https://medcitynews.com/2026/11/midstream-health-snags-20m-to-provide-health-systems-more-financial-stability/">Midstream Health Snags $20M to Provide Health Systems More Financial Stability</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3511,14 +3519,6 @@ Background: Bipolar disorder (BP) affects 1% to 3% of adults worldwide, with dia
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/`
 
 <p><a href="https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/"><img width="600" height="601" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-600x601.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-600x601.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-300x301.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-150x150.jpg 150w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-768x769.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-1533x1536.jpg 1533w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-1472x1472.jpg 1472w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-1104x1104.jpg 1104w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-912x912.jpg 912w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-550x550.jpg 550w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664-470x470.jpg 470w, https://medcitynews.com/wp-content/uploads/sites/7/2021/06/GettyImages-500048664.jpg 1730w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Medical Microinstruments (MMI) has raised $125 million in Series D financing to expand the reach of its Symani Surgical System and investigate new applications for microsurgery, including an experimental approach to treat Alzheimer’s disease.</p> <p>The post <a href="https://medcitynews.com/2026/11/mmi-raises-125m-to-expand-robotic-microsurgery-and-explore-new-treatments/">MMI Raises $125M to Expand Robotic Microsurgery and Explore New Treatments</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
-
-- Source: `hn_ai_health_signals` · published `2026-11-01` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://nurse.org/news/uber-for-nursing-gig-apps-report/`
-
-Hacker News community signal; score 157.
 
 ### [Prestige Is a Business Model](https://medcitynews.com/2026/11/prestige-is-a-business-model/)
 
@@ -3532,7 +3532,7 @@ Hacker News community signal; score 157.
 
 - Source: `medcity_news` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/`
 
 <p><a href="https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1401958587-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1401958587-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1401958587-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1401958587-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1401958587-1536x1024.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2023/07/GettyImages-1401958587-2048x1365.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Setara Biosciences’ lead program is a potential treatment for the rare neuromuscular disorder Charcot-Marie-Tooth disease type 2C and the prevalent condition overactive bladder. This small molecule came from Actio Biosciences, which was recently acquired by Jazz Pharmaceuticals. </p> <p>The post <a href="https://medcitynews.com/2026/11/setara-biosciences-startup-jazz-actio-charcot-marie-tooth-cmt2c-overactive-bladder-trvp4-ion-channel/">Rare Disease Biotech Setara Starts Out With $90M and a Lead Drug in the Clinic</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3540,7 +3540,7 @@ Hacker News community signal; score 157.
 
 - Source: `medcity_news` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/`
 
 <p><a href="https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/"><img width="600" height="225" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1267153109-600x225.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1267153109-600x225.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1267153109-300x112.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1267153109-768x288.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/01/GettyImages-1267153109.jpg 966w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>One question on everyone’s mind is what the impact of the midterm elections will be on the US healthcare system in the near and long term &#8211; here are 3 possible outcomes</p> <p>The post <a href="https://medcitynews.com/2026/11/what-the-midterms-mean-for-healthcare-and-the-investors-betting-on-it/">What the Midterms Mean for Healthcare and the Investors Betting on It</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
