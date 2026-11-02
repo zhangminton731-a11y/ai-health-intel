@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-02T07:41:08+00:00",
-  "as_of": "2026-11-02",
+  "generated_at": "2026-11-02T20:22:08+00:00",
+  "as_of": "2026-11-03",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
@@ -127,7 +127,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-10-24",
       "reasons": {
         "research": "RELATIVITY-047 的 5 年预设分析提供了迄今最长的双免随访数据，PFS/OS/MSS 均有生存曲线分离且附带 LAG-3 相关生物标志物探索，对黑色素瘤免疫治疗策略与耐药机制研究有实质参考价值；主要限制是生物标志物为探索性/事后分析，因果解释需谨慎，摘要级信息不足以评估亚组分析细节。"
@@ -258,7 +258,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "系统综述与meta分析首次量化'人类监督'在AI出错时并非可靠防线：正确 vs 错误自动建议下临床医生正确率差异巨大（OR 10.19），真实世界心电AI错误中约26.6%未被纠正，对AI临床部署与人机协同研究设计均有直接参考。局限在于仅三个调整后队列纳入主分析、真实世界研究异质性极高（I²=95.8%），且不良事件证据仅来自单个回顾性队列。"
@@ -387,7 +387,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "该随机2期试验报告mKRAS疫苗主终点DFS未达（HR 0.85, P=0.53），但提供了完整的预设亚组、ctDNA与T细胞应答相关性分析，对胰腺癌辅助免疫治疗的3期设计和生物标志物富集策略有直接参考价值。主要限制是多项阳性信号来自post hoc与探索性分析，不能视为疗效证明。"
@@ -518,10 +518,661 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-10-23",
       "reasons": {
         "research": "基于580例多试验队列并经203例独立队列验证，提示输注前CAR T产品中初始样CCR7+CD45RA+ T细胞比例与PFS显著相关且独立于临床病理特征，对疗效预测标志物开发和早期干预时机决策有直接参考价值；主要局限为回顾性多试验汇总分析，因果关系尚未经前瞻性干预验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+      "t": "交易所资格预验证提议规则 (CMS 9873-P)",
+      "te": "Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P)",
+      "s": "交易所资格前验证拟议规则 (CMS 9873-P) 简介 与总统防止浪费、欺诈和滥用的目标相一致，美国卫生与公众服务部 (HHS) 今天通过医疗保险和医疗补助服务中心 (CMS) 发布了交易所资格前验证拟议规则通知。该规则将使交易所资格和验证法规与工作家庭减税 (WFTC) 立法 (P.L. 119-21) 规定的新要求保持一致。 WFTC 立法修订了《国内税收法》，为保费税收抵免 (PTC) 制定了新的资格要求。",
+      "se": "Exchange Pre-Eligibility Verification Proposed Rule (CMS 9873-P) Introduction Consistent with the President’s goal to prevent waste, fraud, and abuse, today the U.S. Department of Health and Human Services (HHS), through the Centers for Medicare & Medicaid Services (CMS), issued the Exchange Pre-Eligibility Verification Notice of Proposed Rulemaking. This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation (P.L. 119-21). The WFTC legislation amended the Internal Revenue Code to establish new eligibility requirements for the premium tax credit (PTC).",
+      "u": "https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+      "image": "",
+      "src": "CMS · 政策事实说明",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "business",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "cms_fact_sheets"
+        ],
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+        "upstream_id": ""
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-10-23T23:53:24+00:00",
+        "input_hash": "ab7283d408156c9dc97b1220104cb80307c093626a0600b5735275f1400fff59",
+        "input_scope": "source_excerpt",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "CMS正式发布Exchange资格预验证拟议规则，将改变2028计划年起医保市场补贴发放、年度重认证与州立Exchange过渡时间线，保险公司与交易平台需据此调整运营与合规规划。限制在于这是拟议规则，仍处30天公众意见征询期，最终条款可能调整。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "policy",
+            "reason": "CMS正式发布Exchange资格预验证拟议规则，将改变2028计划年起医保市场补贴发放、年度重认证与州立Exchange过渡时间线，保险公司与交易平台需据此调整运营与合规规划。限制在于这是拟议规则，仍处30天公众意见征询期，最终条款可能调整。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "202610240753168a0ebd79f2ad4945",
+              "seconds": 2.97,
+              "usage": {
+                "completion_tokens": 147,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 2715,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2862
+              }
+            },
+            "support": "This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation (P.L. 119-21).",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "policy",
+            "reason": "这是CMS针对ACA交易所财务援助资格预核验的正式拟议规则，直接改变2028计划年起补贴发放、年度重核与州交易所转型时间表，保险机构、州交易所和医保支付相关方需据此评估合规与运营影响。局限在于尚处征求意见阶段，最终规则及实施细节可能调整。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261024075319db0aed34d97e4899",
+              "seconds": 5.63,
+              "usage": {
+                "completion_tokens": 162,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 21
+                },
+                "prompt_tokens": 2715,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 2877
+              }
+            },
+            "support": "This rule would align Exchange eligibility and verification regulations with new requirements specified under the Working Families Tax Cuts (WFTC) legislation",
+            "total": 77
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "industry": "CMS正式发布Exchange资格预验证拟议规则，将改变2028计划年起医保市场补贴发放、年度重认证与州立Exchange过渡时间线，保险公司与交易平台需据此调整运营与合规规划。限制在于这是拟议规则，仍处30天公众意见征询期，最终条款可能调整。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42925007",
+      "t": "曲妥珠单抗 Rezetecan 治疗 ERBB2-低晚期乳腺癌：HORIZON-Breast06 随机临床试验。",
+      "te": "Trastuzumab Rezetecan in ERBB2-Low Advanced Breast Cancer: The HORIZON-Breast06 Randomized Clinical Trial.",
+      "s": "重要性 Trastuzumab rezetecan (SHR-A1811) 在一项全球 1 期试验中显示出令人鼓舞的抗肿瘤活性，该试验涉及经过大量预处理的红细胞癌基因 B (ERBB2) 低转移性乳腺癌患者。目的 比较 ERBB2 低转移性乳腺癌患者的曲妥珠单抗瑞泽替康与医生选择的化疗方案。设计、设置和参与者 这项开放标签、随机、多中心 3 期试验在中国 73 家医院进行。符合条件的患者是年龄在 18 至 75 岁之间、集中确诊为 ERBB2 低（免疫组织化学 [IHC] 1+ 或 IHC 2+/原位杂交 [ISH] 阴性）不可切除的局部复发性或转移性乳腺癌的女性，她们之前接受过 1 种或更少的转移性疾病化疗，且激素受体阳性疾病需要先行内分泌治疗。",
+      "se": "Importance Trastuzumab rezetecan (SHR-A1811) has demonstrated encouraging antitumor activity in a global phase 1 trial involving heavily pretreated patients with erythroblastic oncogene B (ERBB2)-low metastatic breast cancer. Objective To compare trastuzumab rezetecan vs physician's choice of chemotherapy in patients with ERBB2-low metastatic breast cancer. Design, setting, and participants This open-label, randomized, multicenter phase 3 trial was conducted at 73 hospitals across China. Eligible patients were females aged 18 to 75 years with centrally confirmed ERBB2-low (immunohistochemistry [IHC] 1+ or IHC 2+/in-situ hybridization [ISH]-negative) unresectable locally recurrent or metastatic breast cancer who had received 1 or fewer prior lines of chemotherapy for metastatic disease, with prior endocrine therapy required for hormone receptor-positive disease.",
+      "u": "https://doi.org/10.1001/jama.2026.21372",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42925007",
+        "upstream_id": "42925007"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 78,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-26T10:09:26+00:00",
+        "input_hash": "569f2f8d860893f3996a0889a60b575c6b63c1dab1873f9744fffd8ff9bff117",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "曲妥珠单抗rezetecan（SHR-A1811）III期随机对照试验显示ERBB2-low晚期乳腺癌一线/低经治人群中PFS显著延长（16.6 vs 6.8个月，HR 0.25），可能改变该人群治疗格局。开放标签设计、摘要未提供OS与完整安全性细节，效果证据以摘要级为准。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "曲妥珠单抗rezetecan（SHR-A1811）III期随机对照试验显示ERBB2-low晚期乳腺癌一线/低经治人群中PFS显著延长（16.6 vs 6.8个月，HR 0.25），可能改变该人群治疗格局。开放标签设计、摘要未提供OS与完整安全性细节，效果证据以摘要级为准。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261026180918fa4d726bc9a949a0",
+              "seconds": 4.0,
+              "usage": {
+                "completion_tokens": 215,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1337,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1552
+              }
+            },
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "SHR-A1811在ERBB2低表达晚期乳腺癌一线/低经治人群的III期随机对照结果（HR 0.25）为该靶点ADC提供了明确的新证据，直接影响临床研究布局与治疗线序设计；摘要级判断，OS及完整安全性数据待全文验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "2026102618092280441d10a65547d4",
+              "seconds": 4.36,
+              "usage": {
+                "completion_tokens": 198,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1337,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1535
+              }
+            },
+            "support": "trastuzumab rezetecan significantly prolonged progression-free survival compared with chemotherapy in the chemotherapy-naive patients (median, 16.6 [95% CI, 14.0-19.4] months vs 6.8 [95% CI, 5.7-7.0]",
+            "total": 79
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "research": "曲妥珠单抗rezetecan（SHR-A1811）III期随机对照试验显示ERBB2-low晚期乳腺癌一线/低经治人群中PFS显著延长（16.6 vs 6.8个月，HR 0.25），可能改变该人群治疗格局。开放标签设计、摘要未提供OS与完整安全性细节，效果证据以摘要级为准。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42915009",
+      "t": "瑞米布替尼与特立氟胺治疗复发性多发性硬化症（REMODEL-1 和 REMODEL-2）：两项随机 3 期试验。",
+      "te": "Remibrutinib versus teriflunomide in relapsing multiple sclerosis (REMODEL-1 and REMODEL-2): two randomised, phase 3 trials.",
+      "s": "背景 Remibrutinib 是一种高选择性、强效、共价、中枢神经系统渗透性、口服 BTK 抑制剂。我们评估了瑞布替尼对复发性多发性硬化症成年患者的疗效和安全性。方法 REMODEL-1 和 REMODEL-2 是两项相同的、随机、双盲、双模拟、主动对照、平行组、事件驱动的 3 期试验，在 46 个国家的 407 个中心进行。通过交互式响应技术，年龄为 18-55 岁、患有复发性多发性硬化症、扩展残疾状态量表评分为 0-5·5 且有近期疾病活动证据的患者被随机分配至口服瑞布替尼 100 mg 每日两次或特立氟胺 14 mg 每日一次，以 1:1 的比例接受治疗。随机分组按地理区域、MRI 队列参与情况和多发性硬化症亚型进行分层。患者、现场调查人员和试验团队对治疗分配情况不知情。",
+      "se": "Background Remibrutinib is a highly selective, potent, covalent, CNS-penetrant, oral BTK inhibitor. We assessed the efficacy and safety of remibrutinib in adult patients with relapsing multiple sclerosis. Methods REMODEL-1 and REMODEL-2 are two identical, randomised, double-blind, double-dummy, active comparator-controlled, parallel-group, event-driven, phase 3 trials conducted at 407 centres in 46 countries. Patients aged 18-55 years with relapsing multiple sclerosis, an Expanded Disability Status Scale score of 0-5·5, and evidence of recent disease activity were randomly assigned 1:1 to oral remibrutinib 100 mg twice daily or teriflunomide 14 mg once daily via interactive response technology. Randomisation was stratified by geographical region, MRI cohort participation, and multiple sclerosis subtype. Patients, site investigators, and trial team were masked to treatment allocation.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)02058-1",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42915009",
+        "upstream_id": "42915009"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 75,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:22+00:00",
+        "input_hash": "a872eb65e40f52e85322a1335e666fd9e7ab779370ba08dc0835f5e15192984a",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "两项设计严谨的3期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年化复发率显著优于特立氟胺（RR约0.65-0.69），样本量大、活性对照明确，为神经免疫领域换药与治疗定位决策提供高级别证据；局限性为诺华资助、ARR差异绝对幅度小，长期安全性与残疾进展数据尚待随访。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "两项设计严谨的3期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年化复发率显著优于特立氟胺（RR约0.65-0.69），样本量大、活性对照明确，为神经免疫领域换药与治疗定位决策提供高级别证据；局限性为诺华资助、ARR差异绝对幅度小，长期安全性与残疾进展数据尚待随访。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141213c9d9740dd9444ea6",
+              "seconds": 4.28,
+              "usage": {
+                "completion_tokens": 213,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 11
+                },
+                "prompt_tokens": 1553,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1766
+              }
+            },
+            "support": "ARR was significantly lower with remibrutinib than with teriflunomide: 0·073 versus 0·112 (rate ratio [RR] 0·648 [95% CI 0·453-0·927]; p=0·018) in REMODEL-1",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "两项大型III期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年复发率显著优于特立氟胺（RR约0.65-0.69）且安全性良好，为临床治疗选择和后续研究提供高级别证据；局限为摘要级信息，长期安全性和与更高效疗法对比尚缺。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141218be5b067c2a544c10",
+              "seconds": 4.84,
+              "usage": {
+                "completion_tokens": 170,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1553,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1536
+                },
+                "total_tokens": 1723
+              }
+            },
+            "support": "REMODEL-1 and REMODEL-2 are two identical, randomised, double-blind, double-dummy, active comparator-controlled, parallel-group, event-driven, phase 3 trials conducted at 407 centres in 46 countries.",
+            "total": 79
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "research": "两项设计严谨的3期头对头试验显示BTK抑制剂remibrutinib在复发型多发性硬化中年化复发率显著优于特立氟胺（RR约0.65-0.69），样本量大、活性对照明确，为神经免疫领域换药与治疗定位决策提供高级别证据；局限性为诺华资助、ARR差异绝对幅度小，长期安全性与残疾进展数据尚待随访。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42912700",
+      "t": "Ravulizumab 治疗 IgA 肾病 - 3 期试验的中期分析。",
+      "te": "Ravulizumab in IgA Nephropathy - Interim Analysis of a Phase 3 Trial.",
+      "s": "背景 在 IgA 肾病患者中，补体激活会导致肾小球炎症，从而导致血尿、蛋白尿和肾单位丢失。第 34 周时，与安慰剂组 (-5.6%) 相比，ravulizumab 组观察到几何平均 24 小时尿蛋白与肌酐比值显着降低 (-46.6%)，对应调整后的 ravulizumab 组几何平均 24 小时尿蛋白与肌酐比值比使用 ravulizumab 组低 43.4%（99% 置信区间，30.1 至 54.2）。安慰剂（P < 0.001）。",
+      "se": "Background In patients with IgA nephropathy, complement activation drives glomerular inflammation, which leads to hematuria, proteinuria, and nephron loss. At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%), corresponding to an adjusted geometric mean 24-hour urinary protein-to-creatinine ratio that was 43.4% (99% confidence interval, 30.1 to 54.2) lower with ravulizumab than with placebo (P < 0.001).",
+      "u": "https://doi.org/10.1056/nejmoa2607544",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42912700",
+        "upstream_id": "42912700"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:03+00:00",
+        "input_hash": "7f50515b26c930851e9a54c39a3a66e1ce49087b5ed01efc48eb281c1655a960",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "补体终末抑制剂ravulizumab在IgA肾病III期中期分析中使尿蛋白肌酐比较安慰剂额外降低43.4%（99%CI 30.1–54.2），为补体通路靶向治疗IgA肾病提供了大样本随机对照证据，肾脏病研究者需关注其设计与中期结果；局限为中期分析、以替代终点尿蛋白评估，缺乏硬终点和长期数据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "补体终末抑制剂ravulizumab在IgA肾病III期中期分析中使尿蛋白肌酐比较安慰剂额外降低43.4%（99%CI 30.1–54.2），为补体通路靶向治疗IgA肾病提供了大样本随机对照证据，肾脏病研究者需关注其设计与中期结果；局限为中期分析、以替代终点尿蛋白评估，缺乏硬终点和长期数据。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141156fa573346e1e3484a",
+              "seconds": 4.86,
+              "usage": {
+                "completion_tokens": 198,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 12
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1492
+              }
+            },
+            "support": "At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "IgA肾病补体终末抑制的3期中期分析，485例随机、安慰剂对照，尿蛋白肌酐比较基线相对降低43.4%，为IgAN补体靶向治疗提供新的高级别证据；但为摘要级信息，缺乏完整安全性与硬终点数据，结论需以全文及最终结果为准。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141200473aed4074b249fb",
+              "seconds": 3.26,
+              "usage": {
+                "completion_tokens": 168,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1294,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1462
+              }
+            },
+            "support": "At week 34, a significant reduction in the geometric mean 24-hour urinary protein-to-creatinine ratio was observed with ravulizumab (-46.6%) as compared with the reduction observed with placebo (-5.6%",
+            "total": 78
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "research": "补体终末抑制剂ravulizumab在IgA肾病III期中期分析中使尿蛋白肌酐比较安慰剂额外降低43.4%（99%CI 30.1–54.2），为补体通路靶向治疗IgA肾病提供了大样本随机对照证据，肾脏病研究者需关注其设计与中期结果；局限为中期分析、以替代终点尿蛋白评估，缺乏硬终点和长期数据。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:42912669",
+      "t": "Povetacicept 治疗 IgA 肾病 3 期试验的中期分析。",
+      "te": "Interim Analysis of a Phase 3 Trial of Povetacicept in IgA Nephropathy.",
+      "s": "背景 B 细胞激活因子 (BAFF) 和增殖诱导配体 (APRIL) 在产生 IgA 的 B 细胞群中具有独特的作用，并且似乎是 IgA 肾病发病机制的核心。到第36周时，povetacicept组的24小时尿蛋白与肌酐比值下降了52.0%，安慰剂组下降了4.3%（调整后的差异，-49.8个百分点；95%置信区间[CI]，-58.6至-39.2；P < 0.001）。",
+      "se": "Background B-cell activating factor (BAFF) and a proliferation-inducing ligand (APRIL) have distinct roles in IgA-producing B-cell populations and appear to be central to the pathogenesis of IgA nephropathy. The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -58.6 to -39.2; P < 0.001).",
+      "u": "https://doi.org/10.1056/nejmoa2608682",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42912669",
+        "upstream_id": "42912669"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 79,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-10-25T06:12:05+00:00",
+        "input_hash": "8d1491d0dc8fb8e15a9963cff6d853bc21ba9282265a3d60b89e2f86a45a9867",
+        "input_scope": "source_summary",
+        "policy_version": "26b6dbc3481e046c",
+        "reason": "III期双盲安慰剂对照试验的中期分析，557例入组、199例疗效分析显示尿蛋白肌酐比下降52.0% vs 4.3%，为IgA肾病BAFF/APRIL双靶点抑制提供了高质量替代终点证据。局限为替代终点（尿蛋白）而非硬终点，且样本为疗效分析子集，长期肾脏结局待验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "III期双盲安慰剂对照试验的中期分析，557例入组、199例疗效分析显示尿蛋白肌酐比下降52.0% vs 4.3%，为IgA肾病BAFF/APRIL双靶点抑制提供了高质量替代终点证据。局限为替代终点（尿蛋白）而非硬终点，且样本为疗效分析子集，长期肾脏结局待验证。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141156b8e203ea07534ec3",
+              "seconds": 4.45,
+              "usage": {
+                "completion_tokens": 197,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 0
+                },
+                "prompt_tokens": 1196,
+                "prompt_tokens_details": {
+                  "cached_tokens": 0
+                },
+                "total_tokens": 1393
+              }
+            },
+            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -5",
+            "total": 79
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 9,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "IgA肾病III期随机双盲安慰剂对照试验的中期分析，557例入组、蛋白尿相对降幅52%且报道了可信区间与次要终点，对肾病临床科研和后续试验设计有直接参考价值；但为中期分析、终点为替代指标（尿蛋白肌酐比），尚未证明硬终点获益。",
+            "receipt": {
+              "model": "glm-5.3-flash",
+              "request_id": "20261025141200b6094a67a8754a60",
+              "seconds": 5.31,
+              "usage": {
+                "completion_tokens": 194,
+                "completion_tokens_details": {
+                  "reasoning_tokens": 9
+                },
+                "prompt_tokens": 1196,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1390
+              }
+            },
+            "support": "The 24-hour urinary protein-to-creatinine ratio decreased by 52.0% with povetacicept and by 4.3% with placebo by week 36 (adjusted difference, -49.8 percentage points; 95% confidence interval [CI], -5",
+            "total": 80
+          }
+        ],
+        "score": 79,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "11 天前",
+      "date": "2026-10-23",
+      "reasons": {
+        "research": "III期双盲安慰剂对照试验的中期分析，557例入组、199例疗效分析显示尿蛋白肌酐比下降52.0% vs 4.3%，为IgA肾病BAFF/APRIL双靶点抑制提供了高质量替代终点证据。局限为替代终点（尿蛋白）而非硬终点，且样本为疗效分析子集，长期肾脏结局待验证。"
       },
       "historical": true
     },
@@ -646,7 +1297,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-22",
       "reasons": {
         "industry": "英国政府确认无限期承认欧盟CE标志，直接影响器械企业对英国市场的准入规划，可据此取消单独UKCA认证的合规预算与时间表。材料为政策确认本身，但仅是简讯摘要，缺少具体法规条文与过渡期细节。"
@@ -775,7 +1426,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "大样本匹配队列（385例捐肾者妊娠对1540例对照）量化了活体供肾后妊娠的高血压疾病及小于胎龄儿风险（RR 1.51和1.86），对供者知情同意与产前管理有直接指导价值；属观察性数据，且多数妊娠结局良好，不宜外推为因果。"
@@ -905,7 +1556,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "针对EGPA维持治疗的随机双盲试验，为利妥昔单抗 vs 硫唑嘌呤提供首个头对头证据，阴性主结局（缓解时长无差异）直接影响维持治疗策略选择；且利妥昔单抗组严重感染更多，对风险获益权衡有实际参考。局限为样本量98、缓解比例低，次要终点均未达显著。"
@@ -1034,7 +1685,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "VISIONARY III期最终分析提供了sibeprenlimab稳定IgA肾病患者eGFR斜率的完整24个月数据（组间差异4.5 ml/min/1.73m²/年），是IgA肾病靶向治疗的重要硬终点证据；材料为摘要级，长期肾功能获益与安全性细节需全文核实。"
@@ -1163,7 +1814,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-10-22",
       "reasons": {
         "research": "III期试验最终eGFR分析显示atacicept组年均eGFR斜率较安慰剂改善约5 ml/min/1.73m²，为IgA肾病的肾功能硬终点提供了新的关键证据。局限为仅摘要级信息、次要终点结果且经费来自企业，需关注完整安全性数据与长期获益。"
@@ -1293,7 +1944,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "大规模多中心真实世界评估提供了FDA已获批AI肺栓塞检测模型的具体敏感度/特异度及按亚型、急性程度的分层衰减数据，对医院AI采购验证和上市后监测研究设计均有直接参考价值；但为单中心商业平台回顾性研究，参考标准基于放射报告抽取，存在标签偏倚，不能等同于临床结局获益。"
@@ -1422,7 +2073,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "利用静默对照设计提供了少见的高通量真实场景数据（66k+消息），实证显示BLEU/ROUGE/BERTScore等自动指标仅在AI草稿被展示编辑时有效，无法反映AI独立生成质量或医生偏好，对临床生成式AI评测方法设计有直接警示价值。主要限制是单一机构、初级保健场景，相关性结论依赖该 rollout 语境。"
@@ -1548,7 +2199,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "GBD 2023对百日咳的全球评估提供了204个国家1990–2023年的发病率、死亡率与DALY新数据，2020–2023年反弹（发病率回升102.6%）对疫苗策略和监测优先级有直接参考价值；但为模型估计，不确定性区间较宽（死亡率反弹UI达2.4–174.5%），解读时需注意 pandemic-period 基线异常。"
@@ -1677,7 +2328,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "18家社区医院、2267人的阶梯楔形整群随机试验提供高质量阴性证据：醋酸染色内镜并未提高Barrett食管监测中的瘤变检出率（OR 0.97, 95%CI 0.65–1.44），可直接指导监测内镜策略与后续研究设计；摘要未报告长期结局与费用数据，结论限于摘要层面。"
@@ -1807,7 +2458,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "多中心随机对照试验（34家医院、715例）显示子宫内膜消融后即刻置入LNG-IUS可使2年内子宫切除率从10%降至4%（RR 0.43），且不增加严重不良事件，为月经过多的治疗策略提供高等级证据；局限为开放标签设计及6%主要结局缺失，摘要级信息尚不足以评估长期结局。"
@@ -1940,7 +2591,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "NICHE-2长期随访报告dMMR结肠癌新辅助双免治疗3年DFS与5年OS均达100%，支持其成为潜在标准治疗，对局部晚期dMMR肠癌治疗决策和ctDNA缓解预测研究价值高；局限为单臂II期设计、无对照，OS为事后探索性分析。"
@@ -2069,7 +2720,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "全国性丹麦百万级队列、随访中位20年，按ART术式和癌种分层，并采用不孕史和IVF双重对照，提示冷冻胚胎移植和ICSI相关风险可能源于操作本身而非不孕，对生殖医学随访策略和后续机制研究有直接价值。局限为观察性关联、绝对风险低（ART组23.6/10万），不能确立因果。"
@@ -2197,7 +2848,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-10-21",
       "reasons": {
         "research": "两项3期RCT（合计691例）显示retatrutide显著降低中重度OSA患者的AHI，为睡眠呼吸暂停的药物治疗提供新的3期证据，试验设计与estimand处理也值得借鉴。限制为疗效部分依赖体重下降，未报告长期心血管结局及与CPAP的联合策略。"
@@ -2327,7 +2978,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "LGG放疗前预测模型含328例前瞻注册试验和多中心外部验证，为放疗反应分层提供了可参考的开发与验证路径；但材料仅为摘要级信息，AUC与生存关联需结合原文确认特征工程、影像协议与偏倚控制细节。"
@@ -2452,7 +3103,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-20",
       "reasons": {
         "industry": "FDA已实际批准bepirovirsen用于无肝硬化慢乙肝成人的联合治疗，属监管准入事实，产业读者可据此判断HBV功能性治愈赛道的竞争格局与准入路径；但材料仅公告批准动作，未提供疗效数据与人群细节，无法评估临床获益程度。"
@@ -2584,7 +3235,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "基于2100余万Medicare Advantage受益人全量理赔数据，量化了居家健康风险评估诊断心血管疾病的趋势及后续治疗率显著偏低，对研究风险调整支付与诊断行为有直接价值；作者亦承认组间病情严重程度差异与未测混杂无法排除，属观察性推断。"
@@ -2715,7 +3366,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "13 天前",
+      "when": "14 天前",
       "date": "2026-10-20",
       "reasons": {
         "research": "针对美国拟调整儿童乙肝疫苗接种建议的Markov队列模型预测，量化延迟接种与共同决策策略将使2026年出生队列慢性HBV感染增加19%–83%，为免疫规划政策评估提供直接证据。限制在于水平传播风险假设存在不确定性，结论依赖模型而非实证观察。"
@@ -2847,7 +3498,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "提供了跨机构EHR风险预测的完整外部验证链条（时间分离的All of Us与约600万VA患者数据），并报告低患病率下AUPRC显著下降的具体数值，对构建可泛化临床预测模型的研究者有直接参考价值；限制是摘要未说明临床决策阈值与前瞻性部署效果，且为摘要级判断。"
@@ -2978,7 +3629,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多组学分析结合423例外加多队列外部验证（合计1451例），建立了NDMM四联诱导后MRD状态的多组学分型与预测模型（AUC 0.77），对骨髓瘤疗效异质性研究和早期治疗决策具有直接参考价值；局限是预测性能中等且为回顾性关联分析，临床应用尚需前瞻验证。"
@@ -3104,7 +3755,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-19",
       "reasons": {
         "industry": "这是已发生的监管审批事实：Jemperli获FDA加速批准用于局部晚期直肠癌新辅助免疫治疗，可能使部分患者免于放化疗和手术，直接影响肿瘤科室的诊疗路径与药物准入决策。限制在于加速批准基于早期终点，材料未提供生存获益证据，长期疗效仍待确认。"
@@ -3233,7 +3884,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "多中心随机对照试验（12家欧洲中心、1095例分析）显示以个体化心脏指数为目标的术中血流动力学治疗未降低高危腹部大术后7天复合结局发生率（RR 0.94, P=.38），为围术期血流动力学优化策略提供了明确的阴性证据。限制为复合结局及7天随访窗口，未评估远期结局。"
@@ -3362,7 +4013,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "14 天前",
+      "when": "15 天前",
       "date": "2026-10-19",
       "reasons": {
         "research": "四大队列约8.2万非裔人群的全外显子数据表明常见CD36 Y325*变异对扩张型心肌病的人群归因分数（9.0%）超过TTN截断变异（3.7%），直接改变该人群的基因检测与遗传咨询优先级；主要限制为观察性关联设计，效应估计依赖队列代表性，临床级基因检测落地仍需验证。"
@@ -3490,7 +4141,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "Sapien M3经导管二尖瓣置换系统的输送系统召回并关联1例死亡，属于已发生的监管警示与产品安全事件，医院和器械相关方可据此核查库存与临床使用风险。限制在于信息来自FDA早期警报，召回范围和根本原因尚未完整披露。"
@@ -3617,7 +4268,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "17 天前",
+      "when": "18 天前",
       "date": "2026-10-16",
       "reasons": {
         "industry": "CMS 发布正式拟议规则，直接落地 PBM 报酬限制与透明化、服务商目录核验、低收入人群 Part D 零共付等条款，MA 计划和药企可据此评估 2028 年起的合规成本与支付方谈判变化。需注意这是拟议规则，60 天公开征求意见后细节可能调整。"
@@ -3748,7 +4399,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "提供了首个面向测量学的五维度框架评估LLM派生心理测量输出，区分个体内/个体间效应、参照标签局限等预测导向评估无法揭示的问题，可直接迁移到纵向监测与数字表型研究设计。主要限制是单一样本（呼叫中心员工15天语音数据）、对照仅为LIWC，且作者自认仅作筛查补充而非诊断工具。"
@@ -3881,7 +4532,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "18 天前",
+      "when": "19 天前",
       "date": "2026-10-15",
       "reasons": {
         "research": "覆盖160项研究的跨领域系统综述，量化了合成图像在医学影像AI训练中的实际增益与风险（如合成数据单独训练性能下降、Dice中位变化-10.2%），对训练数据策略和研究设计有直接参考价值；但受限于原始研究的异质性与偏倚风险（仅38%低风险），结论为描述性综合而非确证性证据。"
@@ -4013,7 +4664,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "这是CGM用于非胰岛素治疗2型糖尿病的随机对照试验（145 vs 138例、26周、主要终点HbA1c组间差-0.9个百分点），为CGM拓展至基层非胰岛素人群提供了较高级别证据，可支持院内监测方案与后续研究设计；局限为单一厂商资助、未报告长期结局与行为机制细节。"
@@ -4144,7 +4795,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "多中心随机非劣效试验因连续治疗组生存优势信号提前终止，为AKI起始透析方式选择提供迄今重要的直接证据，可影响ICU临床实践和试验设计；但试验为开放标签、因病提前停止，主要终点非劣效未达而次要终点差异为主，解释需谨慎。"
@@ -4276,7 +4927,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大型整群交叉实用策略试验（3959例）直接回答血管加压素启动阈值这一临床争议问题：低阈值策略未降低28天死亡率（aOR 0.98），为脓毒性休克升压方案和后续指南提供阴性证据。主要限制是固定剂量策略设计、无盲法及地区限于两州，未评估剂量个体化方案。"
@@ -4407,7 +5058,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "584例多中心RCT直接挑战指南中低证据的多巴酚丁胺推荐，显示术中多巴酚丁胺联合去甲肾上腺素使术后7天AKI从34.7%降至22.8%，为脓毒性休克围术期循环管理提供可改变实践的证据；局限性为开放标签设计及次要结局多数无差异，心动过速增加需权衡。"
@@ -4538,406 +5189,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "19 天前",
+      "when": "20 天前",
       "date": "2026-10-14",
       "reasons": {
         "research": "大规模国际前瞻性观察提供了机械通气患者液体治疗的当代基线数据，揭示维持与creep液体而非复苏液体占总量主体及显著中心间差异，可为研究者设计液体管理的质量改进或干预试验提供基线和对照参照。局限在于观察性设计不能建立因果，也不能直接指导个体化处方。"
-      },
-      "historical": true
-    },
-    {
-      "id": "url:https://www.nature.com/articles/s41551-026-01812-6",
-      "t": "通过持续学习重新利用成人人工智能射线照相模型进行新生儿护理：一项国际多中心研究",
-      "te": "Repurposing adult AI radiograph models for neonatal care through continual learning: an international multicentre study",
-      "s": "在这里，我们对来自 20 个国家和地区 30 个新生儿重症监护病房的新生儿胸片进行了一项国际回顾性研究，评估了持续学习作为一种隐私保护方法，以将成人气管插管评估的深度学习模型应用于新生儿护理。持续学习在 30 个站点中的 29 个站点中实现了较低的解剖标志定位误差（医院特定微调为 0.67 厘米，对于仅限成人模型为 4.30 厘米），并在 30 个站点中的 27 个站点中改进了深部插管的检测。",
-      "se": "Here we present an international retrospective study of neonatal chest radiographs from 30 neonatal intensive care units across 20 countries and territories, evaluating continual learning as a privacy-preserving approach to adapt a deep learning model for adult endotracheal tube assessment to neonatal care. Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites, with improved detection of deep intubations at 27 of 30 sites.",
-      "u": "https://www.nature.com/articles/s41551-026-01812-6",
-      "image": "",
-      "src": "Nature Biomedical Engineering",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "regulation"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "data",
-        "analysis"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "nature_biomedical_engineering"
-        ],
-        "retrieved_via": "rss",
-        "source_id": "nature_biomedical_engineering",
-        "summary_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1038%2Fs41551-026-01812-6&format=json&resultType=core",
-        "upstream_id": "https://www.nature.com/articles/s41551-026-01812-6"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 71,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T16:59:59+00:00",
-        "input_hash": "6c4e2c9914be2a6c5d046463254d2e58a957f6e247a21e7e0302539f21abcc68",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610200059530a3c1cf4a89f4904",
-              "seconds": 3.22,
-              "usage": {
-                "completion_tokens": 166,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 984,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1150
-              }
-            },
-            "support": "Each hospital contributed 50 radiographs for sequential model retraining without centralized data pooling. Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29",
-            "total": 71
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "多中心研究给出了持续学习在新生儿胸片中复用成人模型的具体量化结果（各站点地标定位误差对比），且采用每院50张、无需数据池化的隐私保护设计，对儿科AI部署和跨机构协作研究设计有直接参考价值；属于回顾性研究，定位误差改善不等于临床结局获益，需注意外推限制。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102000595653911fa40bc44dbd",
-              "seconds": 3.46,
-              "usage": {
-                "completion_tokens": 166,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 984,
-                "prompt_tokens_details": {
-                  "cached_tokens": 960
-                },
-                "total_tokens": 1150
-              }
-            },
-            "support": "Continual learning achieved lower anatomical landmark localization error (0.67 cm versus 1.29 cm for hospital-specific fine-tuning and 4.30 cm for adult-only models) at 29 of 30 sites",
-            "total": 71
-          }
-        ],
-        "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-13",
-      "reasons": {
-        "research": "30家NICU、20个国家的多中心回顾性研究提供了 continual learning 在不共享数据前提下将成人气管插管评估模型迁移到新生儿的具体量化结果（定位误差0.67 vs 4.30 cm），对儿科AI部署的方法选择有直接参考价值。主要限制为回顾性设计、每院仅50张影像，且为方法验证而非前瞻临床获益证据。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42869550",
-      "t": "报告评估医学大语言模型干预的临床试验的完整性：系统评价。",
-      "te": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review.",
-      "s": "目的 使用既定的报告指南来描述涉及大语言模型 (LLM) 干预的临床试验的报告完整性。设计系统回顾和元研究分析。数据来源 在书目数据库（Embase、Medline 和 CENTRAL）中检索试验报告和方案，在试验注册中心（ClinicalTrials.gov 和世界卫生组织国际临床试验注册平台）中检索 2017 年 1 月 1 日至 2025 年 12 月 6 日期间发布的试验注册。 资格标准 描述 LLM 医学干预临床试验的试验报告、试验方案和试验注册。",
-      "se": "Objective To characterise the reporting completeness of clinical trials involving large language model (LLM) interventions using established reporting guidelines. Design Systematic review and meta-research analysis. Data sources Bibliographic databases (Embase, Medline, and CENTRAL) were searched for trial reports and protocols, and trial registries (ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform) were searched for trial registrations published from 1 January 2017 to 6 December 2025. Eligibility criteria Trial reports, trial protocols, and trial registrations describing clinical trials of LLM interventions in medicine.",
-      "u": "https://doi.org/10.1136/bmj-2026-100855",
-      "image": "",
-      "src": "The BMJ · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "consumer",
-        "research"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers",
-          "methods"
-        ]
-      },
-      "stages": [
-        "design",
-        "data",
-        "analysis",
-        "validation"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "bmj_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "bmj_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42869550",
-        "upstream_id": "42869550"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:55+00:00",
-        "input_hash": "31caba1cf49b3671026f408fd95b6fabaed334e3d789385da487d1f3bb45d622",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 8
-            },
-            "kind": "research",
-            "reason": "系统综述量化了68份LLM临床试验报告对TRIPOD-LLM、CONSORT等指南的依从率（40%–59%），指出模型版本、推理参数、数据代码可及性和安全性报告的系统性缺失，可直接指导研究者设计LLM试验和审稿评价。主要限制是评估截至2025年的小样本早期试验，结论对方法学规范的反映多于对临床效果的判断。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "2026102001004879a90f142f364005",
-              "seconds": 3.91,
-              "usage": {
-                "completion_tokens": 179,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 6
-                },
-                "prompt_tokens": 1386,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1565
-              }
-            },
-            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
-            "total": 74
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 6,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610200100512e34710bb9034288",
-              "seconds": 3.51,
-              "usage": {
-                "completion_tokens": 166,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1386,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1344
-                },
-                "total_tokens": 1552
-              }
-            },
-            "support": "Mean reporting completeness was modest across eligible trial reports (TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%)",
-            "total": 67
-          }
-        ],
-        "score": 70,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-13",
-      "reasons": {
-        "research": "系统评估了68份LLM临床试验报告及方案、注册信息对TRIPOD-LLM、CONSORT-AI等指南的报告完整度，揭示了模型版本、推理参数、数据与代码可及性及安全性报告的系统性缺失，对AI临床试验的设计、报告和审稿有直接参照价值。局限在于属于元研究报告质量分析，不涉及临床效果证据本身。"
-      },
-      "historical": true
-    },
-    {
-      "id": "pmid:42863122",
-      "t": "怀孕早期使用苯二氮卓类药物和先天性畸形的风险。",
-      "te": "Benzodiazepine Use Early in Pregnancy and Risk for Congenital Malformations.",
-      "s": "背景 关于妊娠期使用苯二氮卓类药物引起的畸形的现有数据是相互矛盾的。目的 评估妊娠早期接触苯二氮卓类药物导致主要先天畸形的风险。设计基于人群的美国队列研究。设置 Medicaid (2000-2018) 和 Merative MarketScan (2003-2020) 数据库。参与者 怀孕前 90 天至产后 30 天的孕妇以及出生后 90 天的活产婴儿。测量 暴露定义为在妊娠早期至少服用 1 次苯二氮卓类药物。主要结局是先前与苯二氮卓类药物暴露相关的任何主要先天性畸形和器官特异性畸形。",
-      "se": "Background Existing data on malformations associated with benzodiazepine use in pregnancy are conflicting. Objective To assess the risk for major congenital malformations from first-trimester exposure to benzodiazepines. Design Population-based U.S. cohort study. Setting Medicaid (2000-2018) and Merative MarketScan (2003-2020) databases. Participants Pregnant persons enrolled from 90 days before pregnancy to 30 days after delivery, and their live-born infants enrolled for 90 days after birth. Measurements Exposure was defined as at least 1 fill of a benzodiazepine in the first trimester. Primary outcomes were any major congenital malformation and organ-specific malformations previously associated with benzodiazepine exposure.",
-      "u": "https://doi.org/10.7326/annals-25-05148",
-      "image": "",
-      "src": "Annals of Internal Medicine · 摘要索引",
-      "role": "期刊论文",
-      "cat": "期刊论文",
-      "trust": 3,
-      "sourceType": "期刊论文",
-      "topics": [
-        "hospital",
-        "research",
-        "business"
-      ],
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "stages": [
-        "design",
-        "data"
-      ],
-      "event": "seen",
-      "provenance": {
-        "observed_in_sources": [
-          "annals_internal_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "annals_internal_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42863122",
-        "upstream_id": "42863122"
-      },
-      "tier": "skim",
-      "freshness": "fresh",
-      "rel": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-10-19T17:00:40+00:00",
-        "input_hash": "c03a08f90daaa0c64ba5f1a08ed06c95cb78bc70a63696446748b503fd718fb2",
-        "input_scope": "source_summary",
-        "policy_version": "26b6dbc3481e046c",
-        "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "两项大型数据库（逾400万妊娠）的倾向评分分析给出苯二氮卓类早孕暴露与重大先天畸形无关的稳健阴性结果（合并RR 0.99），可直接支持产科用药咨询与研究设计。局限为观察性设计、暴露与结局错分可能及仅限出生时可见畸形。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "20261020010034c650fdc07c2f4384",
-              "seconds": 3.22,
-              "usage": {
-                "completion_tokens": 137,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1231,
-                "prompt_tokens_details": {
-                  "cached_tokens": 0
-                },
-                "total_tokens": 1368
-              }
-            },
-            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03).",
-            "total": 75
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 9,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。",
-            "receipt": {
-              "model": "glm-5.3-flash",
-              "request_id": "202610200100376a58384b0d074131",
-              "seconds": 2.78,
-              "usage": {
-                "completion_tokens": 149,
-                "completion_tokens_details": {
-                  "reasoning_tokens": 0
-                },
-                "prompt_tokens": 1231,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1216
-                },
-                "total_tokens": 1380
-              }
-            },
-            "support": "The pooled adjusted RR was 0.99 (95% CI, 0.96 to 1.03). Associations with organ-specific malformations were not consistently observed in sensitivity analyses",
-            "total": 74
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      },
-      "when": "20 天前",
-      "date": "2026-10-13",
-      "reasons": {
-        "research": "基于Medicaid与MarketScan近420万妊娠的大样本队列，为孕早期苯二氮卓暴露与重大先天畸形风险提供一致的阴性结果证据，可直接指导孕产期用药咨询与临床指南修订。局限在于依赖行政数据的暴露/结局误分类可能，且仅纳入出生时可见畸形。"
       },
       "historical": true
     }
@@ -4953,11 +5208,13 @@
     {
       "date": "2026-10-23",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41591-026-04707-w",
-        "url:https://www.nature.com/articles/s41746-026-03408-5",
-        "url:https://www.nature.com/articles/s41591-026-04734-7"
+        "pmid:42912669",
+        "url:https://www.cms.gov/newsroom/fact-sheets/exchange-pre-eligibility-verification-proposed-rule-cms-9873-p",
+        "pmid:42925007",
+        "pmid:42912700",
+        "url:https://www.nature.com/articles/s41591-026-04707-w"
       ],
-      "minutes": 3
+      "minutes": 4
     },
     {
       "date": "2026-10-22",
@@ -5028,15 +5285,6 @@
         "pmid:42872917"
       ],
       "minutes": 4
-    },
-    {
-      "date": "2026-10-13",
-      "item_ids": [
-        "pmid:42863122",
-        "url:https://www.nature.com/articles/s41551-026-01812-6",
-        "pmid:42869550"
-      ],
-      "minutes": 2
     }
   ]
 }
