@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-11-03
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 440
+> Daily status: **complete_with_warning** · sources 26/26 · items 441
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 439
+## Archive · 440
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -543,14 +543,6 @@ The U.S. Food and Drug Administration today announced the final design of the Ex
 - Event: `seen` · identity: `pmid:42778221`
 
 <h4>Objective</h4>To compare the risk of renal deterioration under treatment with glucagon-like peptide-1 (GLP-1) receptor agonists or sodium-glucose contransporter-2 (SGLT-2) inhibitors versus other second line treatments in people with type 2 diabetes with and without albuminuria (albumin to creatinine ratio ≥30 mg/g).<h4>Design</h4>Target trial emulation.<h4>Settings</h4>Linkage of electronic health records and claims data from 10 health systems and two national health insurance plans-data from BESTMED (observational evaluation of second line therapy medications in diabetes) study.<h4>Participants</h4>People with type 2 diabetes and moderate cardiovascular risk and estimated glomerular filtration rate ≥45 mL/min/1.73 m<sup>2</sup> on metformin monotherapy who started treatment with a GLP-1 receptor agonist or SGLT-2 inhibitor, a sulfonylurea, or a dipeptidyl peptidase-4 (DPP-4) inhibitor after metformin between 2014 and 2022.<h4>Main outcome measure</h4>Deterioration of kidney function defined as doubling of serum creatinine or estimated glomerular filtration rate <15 mL/min/1.73 m<sup>2</sup>.<h4>Results</h4>Among 75 455 eligible people (61 583 (81.76%) without albuminuria), median age was 60 years (interquartile range 51-68), 36 231 (48%) were women, median haemoglobin A<sub>1c</sub> was 7.8% (interquartile range 7.3-8.5%), and median estimated glomerular filtration rate was 92 mL/min/1.73 m<sup>2</sup> (interquartile range 77-102). People were followed for a median of 32 months (interquartile range 18-57). The estimated five year risk of the renal outcome was 2.4% (95% confidence interval 2.1% to 2.7%) for people taking GLP-1 receptor agonists or SGLT-2 inhibitors versus 2.1% (1.8% to 2.6%) for people taking DPP-4 inhibitors among those without albuminuria; and 3.2% (2.3% to 4.1%) versus 5.4% (4.2% to 6.7%), respectively, among people with albuminuria. The estimated five year risk ratio comparing the GLP-1 receptor agonist or SGLT-2 inhibitor group with the DPP-4 inhibitor group was 1.10 (95% confidence interval 0.90 to 1.38) among people without albuminuria and 0.60 (0.42 to 0.82) among people with albuminuria.<h4>Conclusions</h4>Compared with DPP-4 inhibitors, GLP-1 receptor agonists and SGLT-2 inhibitors reduce the risk of deterioration of renal function in people with albuminuria. Little evidence of renal benefit among people without albuminuria was observed over the study follow-up period.
-
-### [Short or Long Antibiotic Regimens in Orthopedics.](https://doi.org/10.1056/nejmoa2506756)
-
-- Source: `nejm_abstracts` · published `2026-09-16` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42748421`
-
-<h4>Background</h4>Orthopedic infection is usually managed with surgery and prolonged systemic antibiotic therapy. Whether local antibiotics delivered by a product implanted at the infection site during surgery can reduce the duration of systemic antibiotic therapy is unclear.<h4>Methods</h4>In a multicenter, open-label, noninferiority trial, we randomly assigned, in a 1:1 ratio, adults who had undergone surgery for orthopedic infection and implantation of a local-antibiotic carrier to receive postoperative systemic antibiotic therapy for a long (≥4 weeks) or short (≤7 days) duration. The primary outcome was definite treatment failure by 12 months, assessed according to protocol-defined criteria by a clinical end-point committee whose members were unaware of the trial-group assignments. The noninferiority margin was 10 percentage points.<h4>Results</h4>A total of 500 patients underwent randomization, of whom 475 were assessed in the primary analysis. Definite treatment failure occurred in 34 of 241 patients (14.1%) in the long-duration group and in 26 of 234 patients (11.1%) in the short-duration group (risk difference [negative values favor the short duration], -3.0 percentage points; 95% confidence interval [CI], -9.0 to 3.0), which met the prespecified noninferiority margin. In sensitivity analyses in the included population (497 patients) and the per-protocol population (457 patients), results were consistent with those of the primary analysis (risk difference, -2.4 percentage points [95% CI, -8.2 to 3.5] and -2.7 percentage points [95% CI, -8.8 to 3.4], respectively). By week 6 after surgery, symptoms potentially related to treatment had occurred in 45.2% of the patients in the long-duration group and in 17.2% of those in the short-duration group (risk difference, -28.0 percentage points; 95% CI, -36.4 to -19.6).<h4>Conclusions</h4>Among patients who had undergone orthopedic surgery and received local antibiotics, a short course of systemic antibiotics was noninferior to a long course with respect to definite treatment failure by 12 months. (Funded by the European Bone and Joint Infection Society and others; SOLARIO ClinicalTrials.gov number, NCT03806166.).
 
 ### [FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A](http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type)
 
@@ -2048,14 +2040,6 @@ Apple unveils the all-new iPad mini, featuring an OLED display in a thinner desi
 
 <h4>Background</h4>Izalontamab brengitecan (iza-bren) is a first-in-class bispecific antibody-drug conjugate targeting epidermal growth factor receptor (EGFR) and human epidermal growth factor receptor 3 (HER3) and has shown antitumour activity in EGFR-mutated non-small-cell lung cancer (NSCLC). We compared iza-bren with platinum-based chemotherapy in participants with EGFR-mutated advanced non-squamous NSCLC after progression on third-generation EGFR tyrosine kinase inhibitors (TKIs).<h4>Methods</h4>In this multicentre, randomised, open-label, phase 3 trial (PANKU-Lung01) conducted at 73 sites in China, eligible participants had EGFR-mutated locally advanced or metastatic non-squamous NSCLC, disease progression after third-generation EGFR TKIs, and had received no previous chemotherapy for advanced disease. Participants were randomly assigned (1:1) to receive iza-bren (2·5 mg/kg intravenously on days 1 and 8 of each 3-week cycle) or pemetrexed plus carboplatin or cisplatin for four to six cycles, with pemetrexed maintenance permitted in participants without progression. The primary endpoint was progression-free survival assessed by blinded independent central review (BICR). The primary analysis included all randomly assigned participants who received at least one dose of study treatment (modified intention-to-treat population). We report the prespecified final progression-free survival and interim overall survival analyses. This trial is registered with ClinicalTrials.gov, NCT06382116.<h4>Findings</h4>Between May 22, 2024, and Sept 1, 2025, we screened 654 participants. After 222 (34%) were excluded, 432 (66%) participants were randomly assigned to iza-bren (n=217 [50%]) or chemotherapy (n=215 [50%]); 422 (98%) received study treatment (216 [51%] in the iza-bren group and 206 [49%] in the chemotherapy group) and comprised the modified intention-to-treat population. At the data cutoff (July 15, 2026; median follow-up for progression-free survival 14·6 months [95% CI 12·9-16·7] in the iza-bren group vs 15·2 months [11·2-18·2] in the chemotherapy group), median BICR-assessed progression-free survival was 11·1 months (9·2-12·7) with iza-bren versus 5·7 months (5·5-5·9) with chemotherapy (hazard ratio [HR] 0·40 [95% CI 0·31-0·51]; one-sided p<0·0001). Treatment-related adverse events of grade 3 or worse occurred in 170 (79%) of 216 participants in the iza-bren group and 128 (62%) of 206 in the chemotherapy group (predominantly haematological); treatment-related adverse events led to permanent discontinuation of at least one study-treatment component in four (2%) participants in each group and treatment-related deaths occurred in one participant in each group. Treatment-related interstitial lung disease occurred in two (1%) participants in the iza-bren group and none in the chemotherapy group.<h4>Interpretation</h4>In participants with EGFR-mutated advanced non-squamous NSCLC after progression on third-generation EGFR TKIs, iza-bren significantly prolonged progression-free survival, although treatment-related adverse events of grade 3 or worse were more frequent than with chemotherapy. To our knowledge, these findings provide the first phase 3 evidence for a bispecific antibody-drug conjugate and support iza-bren as a potential treatment option in this population.<h4>Funding</h4>Baili-Bio (Chengdu) Pharmaceutical.
 
-### [Retraction Note: Engineered outer membrane vesicles enhance solid tumour CAR-T cell therapy](https://www.nature.com/articles/s41551-026-01838-w)
-
-- Source: `nature_biomedical_engineering` · published `2026-10-26` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01838-w`
-
-No summary supplied by the source.
-
 ### [Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cell lung cancer progressing after EGFR tyrosine kinase inhibitor therapy (HERON-Lung01): interim analysis of a randomised, open-label, phase 3 trial in China.](https://doi.org/10.1016/s0140-6736(26)01899-4)
 
 - Source: `lancet_abstracts` · published `2026-10-26` · freshness `fresh`
@@ -2344,14 +2328,6 @@ Numeracle, a McLean, Virginia-based company that verifies businesses and links t
 
 After living as a monk while managing Graves’ disease, a former Facebook engineer left Big Tech to pursue meaningful work, eventually founding government software startup FSH Technologies which aims to improve processes such as school food services and public records management through the use of artificial intelligence.
 
-### [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
-
-- Source: `fitbit_google_blog` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp">Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.
-
 ### [Harnessing AI for Hypothyroidism Monitoring Using Wearable-Derived Heart Rate Data: Retrospective Cohort Study](https://ai.jmir.org/2026/1/e86030/)
 
 - Source: `jmir_ai` · published `2026-10-28` · freshness `fresh`
@@ -2448,14 +2424,6 @@ Revenue growth does not guarantee a larger exit, as declining valuation multiple
 
 <p><a href="https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-1536x1024.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-2048x1365.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>By using existing data to better understand members and implementing retention strategies, plans can remain sustainable and members can get the care they need.</p> <p>The post <a href="https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/">Work Requirements Put New Pressure On Medicaid Member Retention</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [XREAL AURA: Wired XR glasses to watch, work, and play](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
-
-- Source: `fitbit_google_blog` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/android/xreal-aura/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp">XREAL AURA, the first wired XR glasses powered by Android XR, lets you work, watch, and play anywhere with Gemini by your side.
-
 ### [3 highlights from EY’s report on 2026 medtech trends](https://www.medtechdive.com/news/3-highlights-from-eys-report-on-2026-medtech-trends/873197/)
 
 - Source: `medtech_dive_primary` · published `2026-10-29` · freshness `fresh`
@@ -2472,14 +2440,6 @@ Revenue growth does not guarantee a larger exit, as declining valuation multiple
 
 <p><a href="https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/"><img width="1024" height="969" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-1024x969.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-1024x969.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-300x284.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover-768x726.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/ProgenyHealth-report-cover.png 1480w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] Pregnancy and NICU admissions are among the most complex areas in healthcare. A new report from ProgenyHealth highlights how the company can work with Medicaid and commercial health plans to uncover insights and hidden risks critical to improving maternal and infant care and reducing costs.</p> <p>The post <a href="https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/">3 Ways ProgenyHealth Can Transform Maternity and Infant Health, Claims Management</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [5-year outcomes of chemotherapy de-escalation in HER2-positive early breast cancer and exploratory circulating tumor DNA analyses from the randomized phase 2 PHERGain trial](https://www.nature.com/articles/s41591-026-04723-w)
-
-- Source: `nature_medicine` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04723-w`
-
-PHERGain was a randomized, non-comparative phase 2 trial evaluating a positron 18F-fluorodeoxyglucose-positron emission tomography (18F-FDG-PET)-guided, pathological complete response (pCR)-adapted strategy to omit chemotherapy in HER2-positive early breast cancer. Female patients with HER2-positive stages I–IIIA operable breast cancer (tumor size ≥ 1.5 cm) were randomized to receive chemotherapy plus trastuzumab and pertuzumab (HP; group A) or HP ± endocrine therapy (group B). In group B, treatment was adapted according to 18F-FDG-PET response after two cycles and pCR, with chemotherapy administered to nonresponders or patients without pCR. We previously reported that this de-escalation approach revealed a 3-year invasive disease-free survival (iDFS) of 94.3% (95% confidence interval (CI): 90.9 to 96.8) in group B. Here we report the prespecified secondary endpoint, 5-year iDFS and exploratory circulating tumor DNA (ctDNA) findings. After a median follow-up of 5.6 years, the 5-year iDFS was 89.5% (95% CI: 85.7 to 93.4) in group B (n = 267) and 92.4% (95% CI: 86.7 to 98.5) among 18F-FDG-PET responders achieving pCR without chemotherapy (n = 86), with one distant recurrence. The latter estimate describes a long-term outcome in a post-randomization subgroup defined by 18F-FDG-PET response and pCR and should be interpreted as descriptive rather than as causal effects of omitting chemotherapy. Detectable ctDNA at baseline or during treatment was associated with inferior iDFS, whereas ctDNA clearance correlated with higher pCR rates and improved long-term outcomes. These findings continue to support the clinical validity of an 18F-FDG-PET-guided, pCR-adapted approach and suggest a potential role for ctDNA in refining treatment individualization. ClinicalTrials.gov identifier: NCT03161353 . A 5-year secondary analysis of the phase 2 PHERGain trial supports the clinical utility of a PET-guided adaptive strategy for treatment de-escalation in HER2-positive early breast cancer and provides circulating tumor DNA insights that could inform further treatment approaches.
-
 ### [<b>A small-molecule TREM2 agonist for Alzheimer’s disease</b>](https://www.nature.com/articles/d41591-026-00055-x)
 
 - Source: `nature_medicine` · published `2026-10-29` · freshness `fresh`
@@ -2495,14 +2455,6 @@ Preclinical analysis and a phase 1 trial support VG-3927 as a promising drug can
 - Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00056-w`
 
 Researchers developed a digital twin framework to safely evaluate the effects of drugs on the immune system and time to labor, which could enable personalized interventions to prevent preterm births.
-
-### [A clinical multimodal vision language foundation model with fine-grain explainability](https://www.nature.com/articles/s41591-026-04655-5)
-
-- Source: `nature_medicine` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04655-5`
-
-Despite their considerable promise, many current medical foundation models remain modality specific and lack transparent reasoning, limiting clinical adoption. To address this gap, we introduce Explainable Vision Language Foundation Model for Medicine (EVLF-FM), a multimodal vision language foundation model that combines broad diagnostic capabilities with fine-grained explainability. The development and testing of EVLF-FM encompassed more than 1.3 million total samples from 18 global datasets across 10 imaging modalities related to six clinical specialties: dermatology, hepatology, ophthalmology, pathology, pulmonology and radiology. External validation employed 13,443 independent test samples from 17 additional datasets across 10 imaging modalities. EVLF-FM supports disease diagnosis, visual question answering and pixel-level visual grounding with reasoning capabilities. In internal validation for disease diagnostics, EVLF-FM achieved the highest average accuracy, 0.895, outperforming leading generalist and specialist models. In medical visual grounding, EVLF-FM also achieved reasonable performance across nine modalities with average accuracy at 0.5 intersection over union (Acc@0.5) of 0.842. External testing further confirmed consistent zero-shot and few-shot performance, with competitive F1 scores despite a smaller model size. A hybrid training strategy combining supervised and visual reinforcement fine-tuning enables EVLF-FM to generate clinically interpretable explanations aligned with visual evidence. Human evaluation of these reasoning outputs using the S.C.O.R.E. framework yielded a high overall mean score of 4.25/5, supporting their clinical interpretability. Current limitations include the need for additional validation across diverse healthcare settings. Prospective clinical studies are required to evaluate the safety, effectiveness and clinical utility of EVLF-FM before routine clinical deployment. A multimodal vision language foundation model, EVLF-FM, integrates extensive clinical data and advanced training techniques, achieving superior diagnostic accuracy and explainability across diverse imaging modalities, enhancing clinical decision-making through robust reasoning and interpretability.
 
 ### [Abbott grows cardiac portfolio with Amplatzer approval for valve leaks](https://www.medtechdive.com/news/abbott-grows-cardiac-portfolio-with-amplatzer-approval-for-valve-leaks/873163/)
 
@@ -2527,14 +2479,6 @@ Abbott said Wednesday it received Food and Drug Administration approval for a tr
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/`
 
 <p><a href="https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/12/BioMarin_Pharmaceutical-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>BioMarin gains rights to a Fabry disease enzyme replacement therapy with potential dosing advantages over products from Sanofi and Chiesi Group. BioMarin’s new clinical-stage asset could reach patients ineligible for the Fabry drug that came with its Amicus Therapeutics acquisition earlier this year. </p> <p>The post <a href="https://medcitynews.com/2026/10/biomarin-fabry-subcutaneous-enzyme-replacement-hanmi-gc-biopharma-gb3-bmrn/">BioMarin Expands Again in Enzyme Replacement, Paying $70M for Long-Acting Fabry Drug</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [BMA laments low NHS investment in UK’s Autumn Budget](https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/)
-
-- Source: `medical_device_network` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/`
-
-<p>While a total of £290m was pledged to address winter pressures in the NHS and advance medical robotics, the BMA noted that NHS outlay was lower than in recent years.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/bma-laments-low-nhs-investment-in-uk-autumn-budget/">BMA laments low NHS investment in UK’s Autumn Budget</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Celebrate Halloween with these tricks in Google Photos.](https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/)
 
@@ -2583,14 +2527,6 @@ Albert White is stepping down as president and CEO of Cooper Companies effective
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_Gn2Gz2.max-600x600.format-webp.webp">Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients.
-
-### [GE HealthCare raises 2026 outlook after positive Q3](https://www.medicaldevice-network.com/news/ge-healthcare-raises-2026-outlook-after-positive-q3/)
-
-- Source: `medical_device_network` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ge-healthcare-raises-2026-outlook-after-positive-q3/`
-
-<p>In Q3, GE HealthCare reported notable growth in PDx, a segment it moved to strengthen earlier this month with the $945m acquisition of SOFIE Biosciences.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ge-healthcare-raises-2026-outlook-after-positive-q3/">GE HealthCare raises 2026 outlook after positive Q3</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Gemini Notebook makes hundreds of textbooks available to help students learn even more.](https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/)
 
@@ -2655,14 +2591,6 @@ After spinal cord injury, clinical management aims to support tissue perfusion, 
 - Event: `seen` · identity: `pmid:42956796`
 
 <h4>Background</h4>In patients with suspected myocardial infarction, the 0/1 h pathway (blood draws at 0 h and 1 h) is recommended in current guidelines for early risk stratification. However, individual trials used different safety outcomes, and efficacy outcomes were inconclusive or not assessed. We conducted a systematic review and individual participant data meta-analysis of all randomised controlled trials to synthesise the totality of the evidence, assess heterogeneity across trials, and evaluate clinically relevant outcomes using harmonised definitions across trials.<h4>Methods</h4>In this systematic review and individual participant data meta-analysis, we searched PubMed, Cochrane Central Register of Controlled Trials, Scopus, and the International Clinical Trials Registry Platform from inception to July 6, 2026, without language restrictions, for randomised trials comparing the safety and efficacy of 0/1 h versus 0/3 h pathways (blood draws at 0 h and 3 h, ie, standard care). Individual participant data were obtained and outcome definitions were harmonised. The primary analysis used a two-stage random-effects meta-analysis. After receipt of the individual participant data but before data harmonisation or analysis, the primary safety outcome was refined to a composite of all-cause death or new type 1 myocardial infarction within 30 days, from the originally specified composite of all-cause death or any new myocardial infarction. The primary efficacy outcomes were emergency department length of stay and direct discharge from the emergency department. This meta-analysis is registered with PROSPERO (CRD420261383452).<h4>Findings</h4>Our systematic review identified five randomised trials, all of which provided individual participant data. Among these, the definition of the primary safety outcome varied, and in four trials emergency department length of stay was not reported for the whole analysis population. We included 110 933 patient presentations (55 489 managed with the 0/1 h pathway and 55 444 managed with the 0/3 h pathway). Within 30 days, all-cause death or new type 1 myocardial infarction occurred in 446 patient presentations (0·8%) with the 0/1 h pathway versus 562 patient presentations (1·0%) with the 0/3 h pathway (random-effects pooled odds ratio [OR] 0·83 [95% CI 0·45-1·53]; I<sup>2</sup>=62·9%; τ<sup>2</sup>=0·143). Emergency department length of stay was 314 min (IQR 211-481) in the 0/1 h pathway group versus 308 min (209-453) in the 0/3 h pathway group (random-effects pooled geometric mean ratio 1·03 [95% CI 0·85-1·25]; I<sup>2</sup>=99·2%; τ<sup>2</sup>=0·024). Direct discharge from the emergency department occurred in 37 190 patient presentations (67·0%) with the 0/1 h pathway versus 36 485 patient presentations (65·8%) with the 0/3 h pathway (random-effects pooled OR 1·31 [95% CI 0·79-2·16]; I<sup>2</sup>=97·8%; τ<sup>2</sup>=0·156).<h4>Interpretation</h4>Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account.<h4>Funding</h4>Swiss National Science Foundation, Swiss Heart Foundation, University Hospital Basel, University of Basel, and Foundation for Cardiovascular Research Basel.
-
-### [Podcast: Boston Scientific on the growing importance of clinical evidence in cardiology](https://www.medicaldevice-network.com/comment/podcast-boston-scientific-on-the-growing-importance-of-clinical-evidence-in-cardiology/)
-
-- Source: `medical_device_network` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-boston-scientific-on-the-growing-importance-of-clinical-evidence-in-cardiology/`
-
-<p>Boston has a growing body of evidence across AF and stroke prevention with studies, including CHAMPION-AF, BEAT AF, OPTION, and AVANT GUARD.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/podcast-boston-scientific-on-the-growing-importance-of-clinical-evidence-in-cardiology/">Podcast: Boston Scientific on the growing importance of clinical evidence in cardiology</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Series B Funding Is Up, But Fewer Deals Are Getting Done](https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/)
 
@@ -2824,22 +2752,6 @@ The Food and Drug Administration has published an early alert about Medline bran
 
 Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks.
 
-### [Implementation strategies for digital relapse prevention in schizophrenia identified during a randomized controlled trial](https://www.nature.com/articles/s41746-026-03435-2)
-
-- Source: `npj_digital_medicine` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03435-2`
-
-Digital mental health technologies hold promise, yet their integration into routine care remains challenging. This study reports findings from an implementation workshop conducted midway through an ongoing multi-site randomized controlled trial (RCT) evaluating a smartphone-based relapse prevention app for patients with schizophrenia and schizoaffective disorder. Sixteen stakeholders, including developers, researchers, and clinicians, discussed experiences and barriers using a semi-structured agenda, incorporating prior feedback from three focus groups with people with lived experience, and analyzed the discussions using an adopted R(E)-AIM framework (Reach, Adoption, Implementation, and Maintenance). Findings highlight the need for structural, technical, and personnel adjustments to support sustainable implementation. Key recommendations include integrating digital tools into discharge planning, enhancing interdisciplinary collaboration, delegating digital responsibilities, and streamlining technical workflows to facilitate seamless adoption. These insights inform feasibility considerations and strategic requirements for digital interventions in severe mental illness, offering guidance for future RCTs and practice-oriented integration of digital therapeutics in psychiatric care.
-
-### [Interpretable graph learning of spatial TME patterns in digital pathology for gastric cancer prognosis](https://www.nature.com/articles/s41746-026-03398-4)
-
-- Source: `npj_digital_medicine` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03398-4`
-
-Current gastric cancer (GC) risk stratification, based on TNM staging and molecular subtypes, often fails to capture intratumoral heterogeneity driving variable outcomes. Although the tumor microenvironment (TME) spatial architecture within histopathological images holds critical prognostic value, quantifying these interactions remains challenging. We present the Graph-based Tumor Microenvironment Aggregation (GTMA) framework, an interpretable deep learning approach modeling whole-slide images as spatial graphs to decipher tissue interactions. Validated in a large cohort (n = 1871) and TCGA-STAD dataset (n = 213), the GTMA-derived Risk Score (RS) provided prognostic information complementary to TNM staging and clinical models. Notably, the RS stratified patients into distinct risk groups within identical TNM stages and molecular subtypes, identifying high-risk patients traditionally overlooked. Integrative analysis revealed high-RS tumors feature a fibroblast-dominant, immune-excluded phenotype and distinct stromal spatial patterns. By linking digital pathology to biological TME patterns, GTMA offers a robust, interpretable AI tool for individualized prognostic risk stratification and precision oncology in GC.
-
 ### [It’s A TRAP! Employer Concerns for Tuition Reimbursement and Other Employee Repayment Agreements](https://medcitynews.com/2026/10/its-a-trap-employer-concerns-for-tuition-reimbursement-and-other-employee-repayment-agreements/)
 
 - Source: `medcity_news` · published `2026-10-30` · freshness `fresh`
@@ -2879,14 +2791,6 @@ Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for C
 - Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e95283`
 
 Background: Chronic disease and comorbid mental health problems disproportionately affect rural and underserved populations. Digital self-management programs are potentially scalable, but evaluations often focus on narrow outcomes. Objective: This study examined 12-month longitudinal changes in psychological and multidomain outcomes among Pictou County Patient Empowerment Program participants and explored co-occurring changes and psychological moderators. Methods: This single-arm prospective interventional study enrolled 182 community-dwelling adults with ≥1 chronic condition in Pictou County, Nova Scotia, between October 2023 and August 2025 through community-based outreach. Median age was 60 (IQR 51‐68) years, 155 of 182 (85.2%) participants were women, and the median number of chronic conditions was 3 (IQR 1‐3). The initial 6-month digital intervention delivered brief daily modules targeting physical activity, nutrition, stress regulation, sleep, habit formation, and social connection, followed by a 6-month lower-intensity maintenance period during which monthly group videoconference sessions continued to be offered. Outcomes were assessed at baseline, 6 months, and 12 months. Primary outcomes were illness perceptions (Brief Illness Perception Questionnaire), perceived stress (10-item Perceived Stress Scale [PSS-10]), disease-related worry (10-item Questionnaire on Distress in Cancer Patients), life satisfaction (Satisfaction With Life Scale), and mental well-being (World Health Organization-Five Well-Being Index [WHO-5]). Secondary outcomes assessed the physical, behavioral, and psychosocial domains. Generalized estimating equations estimated population-averaged longitudinal changes, adjusted for age, sex, relationship status, comorbidity burden, and baseline depression or anxiety medication use. Exploratory models examined co-occurring changes and moderation. Tests were 2-sided with =.05. Results: Across outcomes and follow-up assessments, completion ranged from 58.2% (95% CI 51.0%-65.2%; 106/182) to 65.4% (95% CI 58.2%‐71.9%; 119/182). At 12 months, illness perceptions decreased (β=−7.3, 95% CI −9.7 to −4.9), perceived stress decreased (β=−2.4, 95% CI −3.5 to −1.3), disease-related worry decreased (β=−6.3, 95% CI −7.8 to −4.7), life satisfaction increased (β=2.5, 95% CI 1.4‐3.5), and mental well-being increased (β=10.4, 95% CI 7.2‐13.5; all <.001). Secondary outcomes improved across fatigue, sleep, diet quality, sedentary behavior, spiritual well-being, mental health–related quality of life, weight, and BMI. Exploratory analyses showed that improvements in fatigue, sleep quality, and illness perceptions co-occurred with greater well-being and life satisfaction and lower perceived stress and disease-related worry at both follow-up assessment points. Clinically meaningful stress improvement (≥4-point PSS-10 reduction) was achieved by 36.4% (95% CI 27.3%-45.6%, 39/107) and 43.4% (95% CI 34.0%-52.8%, 46/106) participants at 6 and 12 months, respectively. At 12 months, 43.5% (95% CI 34.2%-52.9%, 47/108) participants reported clinically meaningful improvement in mental well-being (≥10-point WHO-5 increase). Conclusions: Participation in this low-bandwidth, home-based digital self-management program was associated with sustained psychological, physical, and behavioral improvements among rural adults with chronic conditions. These multidomain findings support randomized controlled evaluation of scalable digital self-management approaches as adjuncts to rural chronic disease care. Trial Registration: ClinicalTrials.gov NCT06064110; https://clinicaltrials.gov/study/NCT06064110
-
-### [Opinion: What a mother’s 1834 letter about measles tells us about MAHA](https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss`
-
-An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian.
 
 ### [Plan Year 2027 Marketplace Plans and Prices Fact Sheet](https://www.cms.gov/newsroom/fact-sheets/plan-year-2027-marketplace-plans-prices-fact-sheet-0)
 
@@ -2928,14 +2832,6 @@ Travel demand appears to be holding up, but at the same time, investor appetite 
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp">Run a quick Google Security Checkup and protect your email with three quick and easy steps.
 
-### [STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings](https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss`
-
-Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI.
-
 ### [STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more](https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-10-30` · freshness `fresh`
@@ -2952,14 +2848,6 @@ AstraZeneca has launched a three-year cost-cutting program that aims to slice of
 
 From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
-### [StimCardio secures $30m in Series A round for wearable AF therapy](https://www.medicaldevice-network.com/news/stimcardio-30m-wearable-af-therapy/)
-
-- Source: `medical_device_network` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/stimcardio-30m-wearable-af-therapy/`
-
-<p>StimCardio Medical has completed an oversubscribed $30m Series A funding round to advance its non-invasive wearable, Rhyvive, for AF.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/stimcardio-30m-wearable-af-therapy/">StimCardio secures $30m in Series A round for wearable AF therapy</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Stryker lowers 2026 guidance after slowdown in hip, knee procedures](https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/)
 
 - Source: `medtech_dive_primary` · published `2026-10-30` · freshness `fresh`
@@ -2967,14 +2855,6 @@ From new hires to departures, promotions and transfers, here are the latest comi
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/epOZSCyL3atoV5eMuueQilqBFSC3g1RnXxAzDQtTk68/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9oaXBfcmVwbGFjZW1lbnQuanBn.webp"/></div></figure><p>CEO Kevin Lobo said the slowdown in hip and knee procedures is tied to broader economic concerns. The outgoing CEO also detailed the company&rsquo;s decision to partner with CMR Surgical.</p>
-
-### [The health care issues STAT reporters are watching in the midterms](https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss`
-
-In this week's "STATus Report," STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview.
 
 ### [The Mediating Role of Sleep Quality in Associations of Smartphone Addiction and Time-Specific Use With Prenatal Depression and Anxiety: Cross-Sectional Observational Study](https://mhealth.jmir.org/2026/1/e100064)
 
@@ -3056,6 +2936,14 @@ No matter what happens on Election Day, the midterms will have sweeping implicat
 
 Medical large language models achieving high benchmark accuracy exhibit unexplained variability in clinical tasks, producing errors that clinicians cannot safeguard against. We evaluated clinical reasoning stability in GPT-5, MedGemma-27B-Text-IT, and OpenBioLLM-Llama3-70B using 3035 systematic perturbations from physician-validated oncology SOAP, brief vignette, and MIMIC cases. We trained sparse autoencoders on 1 billion tokens from 50,000 MIMIC-IV clinical notes to decompose their internal representation. We find models exhibit dramatic reasoning instability, shifting staging accuracy by over 50% based solely on prompt format, or generating definitive staging in clinically insufficient scenarios. Sparse autoencoder analysis revealed hierarchical encoding in MedGemma, where high-magnitude features encode lexical identity and low-magnitude features encode contextual meaning. OpenBioLLM distributes information uniformly. We demonstrate that these internal encoding structures differentially affect retrieval and reasoning interventions, suggesting interventions effective for one architecture may harm another. These results motivate architecture-specific safety validation as a component of pre-deployment evaluation for medical LLMs.
 
+### [Coronary CT Angiography versus Intravascular Ultrasound Guidance for PCI.](https://doi.org/10.1056/nejmoa2610771)
+
+- Source: `nejm_abstracts` · published `2026-11-01` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `pmid:42969897`
+
+<h4>Background</h4>Intravascular ultrasound (IVUS)-guided percutaneous coronary intervention (PCI) improves clinical outcomes. Coronary computed tomographic angiography (CCTA) provides anatomical and physiological information before cardiac catheterization that may enable PCI planning. Data regarding the use of CCTA-guided PCI as compared with IVUS-guided PCI with respect to clinical outcomes are lacking.<h4>Methods</h4>In this investigator-initiated, international, open-label, randomized, noninferiority trial with blinded end-point adjudication, we randomly assigned patients with a clinical indication for revascularization, at least one epicardial lesion with a diameter stenosis of more than 70%, and a fractional flow reserve derived from CCTA of 0.80 or less in a 1:1 ratio to a CCTA-guided or IVUS-guided PCI strategy. The primary end point was target-vessel failure, defined as a composite of death from cardiac causes, target-vessel myocardial infarction, or ischemia-driven target-vessel revascularization, at 12 months. The noninferiority margin for the absolute risk difference was 4.5 percentage points, with a prespecified hierarchical testing strategy for superiority.<h4>Results</h4>A total of 1105 patients underwent randomization: 556 to the CCTA-guided PCI group and 549 to the IVUS-guided PCI group. The median age of the patients was 65 years, and 21.7% were women. At 12 months, target-vessel failure had occurred in 23 patients (4.1%) in the CCTA-guided PCI group and in 25 patients (4.6%) in the IVUS-guided PCI group (risk difference, -0.42 percentage points; 95% confidence interval, -2.82 to 1.99; P<0.001 for noninferiority; P = 0.73 for superiority). A total of 6 patients in the CCTA-guided PCI group and 9 patients in the IVUS-guided PCI group had clinical procedural complications.<h4>Conclusions</h4>A CCTA-guided PCI strategy was noninferior to IVUS-guided PCI with respect to target-vessel failure at 12 months. (Funded by GE HealthCare and Heartflow; P4 ClinicalTrials.gov number, NCT05253677.).
+
 ### [Machine Learning Classification of Bipolar Disorder Across Mood States Using Natural Language Processing and Speech Analysis: Observational Study](https://www.jmir.org/article/view/jmir_v28i1e98094)
 
 - Source: `jmir` · published `2026-11-01` · freshness `fresh`
@@ -3108,15 +2996,15 @@ Background: Bipolar disorder (BP) affects 1% to 3% of adults worldwide, with dia
 
 - Source: `hn_ai_health_signals` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://arxiv.org/abs/2610.40269`
+- Event: `updated` · identity: `url:https://arxiv.org/abs/2610.40269`
 
-Hacker News community signal; score 19.
+Hacker News community signal; score 20.
 
 ### [4 Notable Health Tech Funding Announcements in October](https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/)
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/`
 
 <p><a href="https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg" class="attachment-large size-large wp-post-image" alt="Little pink ceramic piggy bank pattern on the left side on yellow background. Concept of saving money, savings." style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Health tech companies made several major funding announcements in October. Here is a list of some of the biggest funding rounds.</p> <p>The post <a href="https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/">4 Notable Health Tech Funding Announcements in October</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3124,7 +3012,7 @@ Hacker News community signal; score 19.
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/`
 
 <p><a href="https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The federal government is testing whether artificial intelligence can help Medicare identify unnecessary medical care, speed up the prior authorization process, and reduce healthcare spending. But a new report based on evidence recovered from a lawsuit raises concerns about the AI experiment.</p> <p>The post <a href="https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/">7 Potential Problems with Medicare’s AI Prior Authorization Experiment </a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3156,7 +3044,7 @@ Abbott has started a pivotal clinical trial of its investigational Cephea mitral
 
 - Source: `jmir` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e76494`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e76494`
 
 Background: Adolescence is a critical period for mental health prevention; yet, many young people face barriers to help-seeking, including stigma, limited mental health literacy, and restricted access to services. Preventive digital mental health interventions (DMHIs) offer a scalable, low-threshold approach to early support, but uptake and sustained engagement remain limited. Existing research has predominantly relied on quantitative methods and has only partly captured adolescents’ perspectives. Qualitative research is therefore needed to inform the design and implementation of preventive DMHIs. Objective: This study aimed to explore adolescents’ perspectives on factors influencing the anticipated uptake, expected engagement, and implementation of preventive transdiagnostic DMHIs across person, intervention, and system levels. Methods: This qualitative study was conducted in Switzerland using a single-interview design in the predesign phase of the development of a transdiagnostic preventive DMHI. Adolescents aged 12‐21 years were recruited through voluntary response sampling via social media and the project website. Semistructured interviews explored experiences with online help-seeking, factors influencing DMHI anticipated uptake and expected engagement, and recommendations for implementation. Interviews were conducted in person or via video call between January and June 2022, audio-recorded, transcribed verbatim, and analyzed using a hybrid deductive-inductive qualitative content analysis. Intercoder agreement was assessed using Cohen κ (κ=0.72). Results: A total of 48 adolescents (mean age 16.52, SD 2.67 years; 32/48, 72.9% female) participated. In total, 8 main topics and multiple subtopics were identified across person, intervention, system, and cross levels. Person-level factors highlighted the importance of mental health literacy, preuptake communication, and relevance of social networks. Intervention-level factors emphasized usability, personalization, and privacy, while system-level findings reflected expectations for adaptive, integrated, and low-threshold mental health services. Trust and support emerged as cross-level factors for engagement. In addition, participants described several discrepancies between desired intervention characteristics and practical implementation, particularly regarding personalization, anonymity, peer exchange, and human support. Conclusions: Adolescents’ perspectives highlight that successful implementation of preventive DMHIs requires attention beyond intervention design to preuptake communication strategies, mental health literacy promotion, and integration within adaptive care systems. The tension between adolescents’ desire for immediate human-delivered support and the self-guided nature of preventive DMHIs underscores the need for clear clinical boundaries and explicit escalation pathways. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/5342d7d6cb247ea64b49c123750d82c5" />
 
@@ -3172,7 +3060,7 @@ Background: Adolescence is a critical period for mental health prevention; yet, 
 
 - Source: `apple_newsroom` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/`
 
 Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.
 
@@ -3196,7 +3084,7 @@ No summary supplied by the source.
 
 - Source: `jmir` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115418`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115418`
 
 No summary supplied by the source.
 
@@ -3204,7 +3092,7 @@ No summary supplied by the source.
 
 - Source: `jmir` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115520`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115520`
 
 No summary supplied by the source.
 
@@ -3212,7 +3100,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/cms-is-regulating-the-wrong-thing-heres-how-to-fix-remote-patient-monitoring-without-losing-the-care/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/cms-is-regulating-the-wrong-thing-heres-how-to-fix-remote-patient-monitoring-without-losing-the-care/`
 
 <p><a href="https://medcitynews.com/2026/11/cms-is-regulating-the-wrong-thing-heres-how-to-fix-remote-patient-monitoring-without-losing-the-care/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-816887330-600x400.jpg" class="attachment-large size-large wp-post-image" alt="CMS medicare medicaid" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-816887330-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-816887330-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-816887330.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Why should Medicare determine who is qualified to provide remote monitoring by asking who employs the nurse, rather than who is accountable for the patient&#8217;s care?</p> <p>The post <a href="https://medcitynews.com/2026/11/cms-is-regulating-the-wrong-thing-heres-how-to-fix-remote-patient-monitoring-without-losing-the-care/">CMS Is Regulating the Wrong Thing — Here’s How to Fix Remote Patient Monitoring Without Losing the Care</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3220,7 +3108,7 @@ No summary supplied by the source.
 
 - Source: `jmir_medinform` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e94249`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e94249`
 
 Background: Kidney Disease: Improving Global Outcomes (KDIGO) classifies chronic kidney disease (CKD) using categories based on both glomerular filtration rate and albuminuria. Structured measures remain essential but may not capture contextual clinical concerns documented in narrative records. Objective: This study examined whether text-derived clinical-status language features in clinician notes were associated with deterioration in renal function in independent Greek- and English-language clinical cohorts. Methods: We retrospectively analyzed a Greek general-nephrology cohort (314 patients; 10,306 estimated glomerular filtration rate [eGFR] measurements) and an independent English-language Medical Information Mart for Intensive Care IV (MIMIC-IV) replication cohort. The Greek primary analysis used a linear mixed effects model over a follow-up period of up to 1797 days. The MIMIC-IV primary analysis used a 90-day, patient-level fixed-horizon competing-outcome model (N=87,533). Separate analyses of Greek and MIMIC-IV data evaluated discrimination, calibration, and sensitivity to alternative feature specifications. Results: In the Greek cohort, a 1-SD higher negativity was associated with lower eGFR (=−3.273 mL/min/1.73 m², 95% CI −5.049 to −1.498; <.001) and a more negative time trajectory (time-by-score =−1.324, 95% CI −2.553 to −0.096; =.035). In MIMIC-IV, a 1-SD higher negative-vs-reassuring polarity contrast was associated with renal deterioration (relative risk ratio [RRR]=1.090, 95% CI 1.070‐1.110; <.001). Within eGFR G categories, polarity-score areas under the curve (AUCs) were 0.506 to 0.552 using discharge eGFR and 0.518 to 0.534 using the worst observed eGFR. Discrimination for renal deterioration remained modest (one-vs-rest AUC=0.6134, 95% CI 0.6092‐0.6175), and adding both natural language processing (NLP) features to the clinical model increased AUC by only 0.0018 (95% CI 0.0010‐0.0025). Conclusions: Independently constructed clinical-language measures were associated with renal function deterioration across two languages and health care settings. The findings support cross-language replication of an association signal, not formal external validation, measurement equivalence, or clinically useful stand-alone prediction.
 
@@ -3260,7 +3148,7 @@ No summary supplied by the source.
 
 - Source: `jmir_medinform` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e94282`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e94282`
 
 Background: Continuous patient monitoring generates vast volumes of high-frequency monitoring data, such as electrocardiogram, electroencephalography, and invasive blood pressure tracings, that are often persisted in heterogeneous, noninteroperable formats, limiting integration with electronic health records and secondary use. Although Fast Healthcare Interoperability Resources (FHIR) supports general health data exchange, native support for high-frequency medical monitoring data, including associated metadata and data quality metrics, remains limited. Objective: This study aims to develop a modality-agnostic FHIR package implementing a pattern to enable scalable, semantically precise representation of high-frequency medical monitoring data, decoupling structured clinical metadata from raw signal storage. Methods: This study provides the FHIR package Time Series Integration and Data in Endpoints (TIDE), a collection of FHIR Release 4 artifacts for interoperable exchange and the standardization of high-frequency monitoring clinical data, using electroencephalography as the primary use case while remaining applicable to generic medical monitoring data. The core TIDE profile separates technical metadata and analytical summaries stored directly in FHIR from high-volume raw data referenced via resources. Quantitative results are standardized with pattern slicing, including sampling frequency, statistical summaries, and data quality metrics. Semantic interoperability was achieved through a hybrid terminology binding, using Systematized Nomenclature of Medicine Clinical Terms, Logical Observation Identifiers Names and Codes for modalities, and custom for technical metadata, waveform modalities, channel identifiers, and connection types not covered by standard terminologies. All profiles were authored in FHIR Shorthand and compiled with SUSHI to produce a validated Implementation Guide conformant with the FHIR Release 4 core specification. Results: The resulting framework provides a modality-agnostic structure for high-frequency monitoring data, comprising 7 primary FHIR artifacts that define 16 distinct component slices for metadata and signal analysis results. resources reference associated and instances, encapsulate acquisition parameters, and link to full-time-series repositories. Controlled vocabularies ensure unambiguous exchange, thereby enabling downstream use in research and decision support. The architecture decouples the metadata layer from the storage layer via a standardized extension, enabling efficient querying of signals without retrieving large amounts of raw high-frequency monitoring data. Conclusions: TIDE provides a reusable, standards-compliant framework for integrating continuous high-frequency monitoring data into FHIR-based ecosystems. By separating semantically rich, queryable metadata from raw signal storage, TIDE enables longitudinal patient monitoring and automated signal quality-based triage without requiring modification of existing signal storage infrastructure.
 
@@ -3300,7 +3188,7 @@ Background: The European Health Dataspace (EHDS) expands health data sharing bey
 
 - Source: `jmir` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e80373`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e80373`
 
 &lt;strong&gt;Background:&lt;/strong&gt; To cope with the challenges of digital transformation in health and well-being, people need digital health literacy (DHL), namely the competencies to access, understand, appraise, and apply digital health–related information and services for their own and others’ health and well-being. So far, however, there have been no data on the level of DHL in Switzerland. &lt;strong&gt;Objective:&lt;/strong&gt; As part of the international Health Literacy Survey 2019-2021 (HLS&lt;sub&gt;19&lt;/sub&gt;), this study aimed to close this gap by investigating DHL, the population groups particularly affected by low DHL, its health-related consequences, as well as use of digital information sources in the general population in Switzerland. &lt;strong&gt;Methods:&lt;/strong&gt; Participants were recruited from the Swiss Federal Statistical Office sampling frame using stratification by linguistic region, age, and gender. Of the 4764 individuals contacted, 2554 completed the survey (response rate: 53.6%). Responses from 52 participants were excluded because fewer than 80% of the general health literacy items had been completed. Additionally, 168 participants from the overall study sample were excluded from the calculation of the digital health literacy score (HL-DIGI) because of insufficient completion of the DHL items. DHL of 2334 people was assessed between March and April 2020 with an online questionnaire. Descriptive statistical analysis, Pearson chi-square tests, Spearman rank correlations, and multivariable linear regression analyses were performed to examine DHL and its associations with sociodemographic characteristics, health-related consequences, and use of digital information sources. &lt;strong&gt;Results:&lt;/strong&gt; Most of the respondents report inadequate (1034/2334, 44.3%) or problematic (651/2334, 27.9%) DHL levels. DHL resulted to be negatively associated with older age (B=−0.278, 95% CI −0.371 to −0.185), greater financial deprivation (B=−0.101, 95% CI −0.148 to −0.054) and migration background (B=−5.992, 95% CI −8.990 to −2.994), and positively associated with education in the health sector (B=11.337, 95% CI 7.720 to 14.953) and social support (B=1.109, 95% CI 0.308 to 1.909). In addition, lower educational attainment was associated with lower DHL scores compared with having a master’s degree or higher. Higher DHL was associated with better self-assessed general health status (odds ratio [OR] 1.005, 95% CI 1.003-1.007), improved self-management (OR 0.989, 95% CI 0.984-0.993), and lower likelihood of experiencing restrictions of usual activities due to health problems (OR 1.004, 95% CI 1.001-1.007). Furthermore, people with higher DHL tend to rely more on face-to-face information from health care professionals and to use digital sources less frequently. &lt;strong&gt;Conclusions:&lt;/strong&gt; This study offers first insights into the DHL of the population in Switzerland and indicates that almost three-quarters (72.2%) of the population have low DHL. These results are in line with those of other European countries and clearly show the urgency of measures to improve DHL, especially among vulnerable population groups. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/70918901f969958f54291f84f709326e" />
 
@@ -3308,7 +3196,7 @@ Background: The European Health Dataspace (EHDS) expands health data sharing bey
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/`
 
 <p><a href="https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/"><img width="1024" height="1024" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1.png" class="attachment-large size-large wp-post-image" alt="BTK Inhibitor" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-300x300.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-150x150.png 150w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-768x768.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-70x70.png 70w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] BTK inhibitor has become an important treatment option for certain B-cell malignancies.</p> <p>The post <a href="https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/">How Innovation in BTK Inhibitor Development Is Improving Treatment Outcomes</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3316,7 +3204,7 @@ Background: The European Health Dataspace (EHDS) expands health data sharing bey
 
 - Source: `jmir` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115030`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115030`
 
 No summary supplied by the source.
 
@@ -3324,7 +3212,7 @@ No summary supplied by the source.
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/`
 
 <p><a href="https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/"><img width="747" height="467" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Human_papilloma_virus_HPV.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Human_papilloma_virus_HPV.jpg 747w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Human_papilloma_virus_HPV-300x188.jpg 300w" sizes="(max-width: 747px) 100vw, 747px" /></a></p><p>Inovio’s Voceryq will compete with a Precigen product that last year became the first FDA-approved drug for recurrent respiratory papillomatosis, or RRP. While the two immunotherapies carry the same $460,000 list price, Inovio executives claim their product has another competitive advantage. </p> <p>The post <a href="https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/">Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3340,7 +3228,7 @@ Clinical AI governance has advanced rapidly in technical validation, regulatory 
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/`
 
 <p><a href="https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/49887380166_7a2e7cfdfb_c-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2022/02/49887380166_7a2e7cfdfb_c-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/49887380166_7a2e7cfdfb_c-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/49887380166_7a2e7cfdfb_c-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2022/02/49887380166_7a2e7cfdfb_c.jpg 799w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>As health system dealmaking stays steady in 2026, Integris Health is joining Risant Health to accelerate value-based care. The partnership represents an integration of Risant Health&#8217;s capabilities into Integris&#8217; existing system, rather than a traditional merger.</p> <p>The post <a href="https://medcitynews.com/2026/11/integris-health-to-join-risant-health-as-health-system-dealmaking-stays-active/">Integris Health to Join Risant Health as Health System Dealmaking Stays Active</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3364,15 +3252,15 @@ Background: In health systems, AI is increasingly being implemented as a form of
 
 - Source: `hn_ai_health_signals` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/`
+- Event: `updated` · identity: `url:https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/`
 
-Hacker News community signal; score 36.
+Hacker News community signal; score 66.
 
 ### [Machine Learning–Based Detection of Prophylactic Indication Mentions for Stress-Related Mucosal Disease in Chinese Clinical Progress Notes: Text Classification Study](https://medinform.jmir.org/2026/1/e103192)
 
 - Source: `jmir_medinform` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e103192`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e103192`
 
 Background: Machine learning has been extensively applied in medical prediction; however, existing machine-assisted pharmacotherapy review systems predominantly rely on structured, codifiable data while neglecting unstructured natural language clinical narratives, thereby allowing latent medication risks to remain undetected. Objective: To address the limitations of structured data–based review, this study proposes and validates a machine learning framework grounded in text classification for the automated identification of “prophylactic” vs “nonprophylactic” medication indications within clinical narratives. As a result, it aims to assist in the automated detection of prophylactic indication mentions for stress-related mucosal disease in clinical narratives as a preliminary step toward comprehensive medication-use review. Methods: A total of 3695 progress notes were independently annotated by 2 clinical pharmacists to construct a binary dataset for classifying prophylactic medication indication for stress-related mucosal disease, yielding an interannotator agreement κ of 0.8934. Comparative experiments were conducted using traditional machine learning models, including logistic regression, support vector machine, random forest, CatBoost, and LightGBM, alongside TextCNN and a Chinese pretrained BERT model. The dataset was split into training, validation, and test sets on a patient-wise basis, and model evaluation was conducted on the independent test set. SHAP (Shapley additive explanations) analysis was used to achieve model interpretability and elucidate decision-making processes, ultimately enabling automated indication detection of prophylactic proton pump inhibitor administration. Results: All models and strategies demonstrated efficacy in medical text classification tasks. In a single-center cohort of 66 patients (3695 notes, 11.0% positive), the CatBoost model with balanced class weights achieved a note-level -score of 0.727 (precision=0.693; recall=0.765) and a patient-level -score of 0.889 (precision=0.800; recall=1.000) on the independent test set. At the note level, CatBoost achieved a higher -score than TextCNN (-score=0.718) and BERT (-score=0.628). Conclusions: In summary, the text classifier constructed through machine learning and natural language processing effectively extracts prophylactic medication indications for stress-related mucosal disease from unstructured progress notes. Combined with patient-level data partitioning, standardized annotation protocols, and an ethics-compliant framework, this approach provides an interpretable preliminary screening tool for identifying potential prophylactic indications to support subsequent pharmacist adjudication. Trial Registration: Chinese Clinical Trial Registry ChiCTR2600126317; https://tinyurl.com/yjzjd443
 
@@ -3380,7 +3268,7 @@ Background: Machine learning has been extensively applied in medical prediction;
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/`
 
 <p><a href="https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode, we’re joined by Dr. Rani Aravamudhan, senior medical director of Artemis at Nomi Health. We discuss Nomi Health’s new research on endometriosis.</p> <p>The post <a href="https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/">MedCity FemFwd: The Gaps in Endometriosis Care</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3512,11 +3400,19 @@ Health care affordability is a major issue for voters, and a new kind of medical
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp">Here are Google’s latest AI updates from October 2026
 
+### [UK Biobank study initiated to assess early indicators of neurodegeneration](https://www.medicaldevice-network.com/news/uk-biobank-study-initiated-to-assess-early-indicators-of-neurodegeneration/)
+
+- Source: `medical_device_network` · published `2026-11-02` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/uk-biobank-study-initiated-to-assess-early-indicators-of-neurodegeneration/`
+
+<p>The UK Biobank blood sample study aims to create one of the largest resources for understanding the early indicators of neurodegeneration.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-biobank-study-initiated-to-assess-early-indicators-of-neurodegeneration/">UK Biobank study initiated to assess early indicators of neurodegeneration</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
 ### [Washington state resident dies from bird flu following exposure to infected cattle](https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss`
 
 A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.
 
@@ -3528,13 +3424,125 @@ A person in Washington state has died from complications of the bird flu, the fi
 
 Pioneering IVF technique to reduce the risk of children inheriting mitochondrial diseases is being marketed as a fertility procedure for older women, despite little evidence it works.
 
+### [A live biotherapeutic product for adult allogeneic hematopoietic cell transplantation recipients: a partially randomized, placebo-controlled phase 1b trial](https://www.nature.com/articles/s41591-026-04686-y)
+
+- Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04686-y`
+
+Gastrointestinal (GI) microbiome disruption and impaired GI barrier integrity increase the risk of bloodstream infection (BSI) following allogeneic hematopoietic cell transplant. Here we report results from a two-cohort (open-label, n = 15; randomized, placebo-controlled, n = 45) phase 1b study of SER-155, an investigational, cultivated, multi-strain, oral live biotherapeutic designed to address GI microbiome disruption GI epithelial barrier integrity in allogeneic hematopoietic cell transplant recipients. In cohort 2, 34 of 45 participants received either SER-155 treatment (n = 20, SER-155 following microbiome conditioning with oral vancomycin), or placebo (n = 14), and subsequently received transplant. For the primary safety endpoint, SER-155 was well tolerated, with a safety profile comparable to placebo, no treatment-related serious adverse events and no infections with SER-155 species; the most common adverse events were diarrhea and nausea. Four participants in cohort 1 and four participants in cohort 2 (two participants in the SER-155 arm and two in the placebo arm) died during the study; none was attributable to SER-155. For the primary pharmacokinetic endpoint, engraftment was detected for 16 of 16 SER-155 strains, with a median of 11.5 strains detected after the first treatment course. The key secondary efficacy endpoint revealed a significantly lower incidence of BSI with SER-155 versus placebo (10.0% versus 43%; OR 0.15; 95% CI 0.01–1.13; P = 0.0423; 77% relative risk reduction). Other secondary efficacy endpoints (GI infection, acute graft-versus-host disease ≥grade 2, febrile neutropenia and a composite endpoint of BSI, GI infection or acute graft-versus-host disease) were not statistically significant. The secondary pharmacodynamic endpoint of GI domination by Enterococcus and Enterobacteriaceae spp. was not achieved. ClinicalTrials.gov identifier: NCT04995653 . In a phase 1b study that included an open-label and randomized-controlled cohorts of allogeneic hematopoietic cell transplantation recipients, treatment with the investigational, cultivated, multi-strain bacterial oral live biotherapeutic product, SER-155, was found to have a similar safety profile to placebo and resulted in fewer bloodstream infections, indicating further clinical investigation of this therapeutic is warranted.
+
+### [Abbott’s Amulet 360 demonstrates strong one-year outcomes in AFib patients](https://www.medicaldevice-network.com/news/abbott-amulet-360-demonstrates-strong-one-year-outcomes-in-afib-patients/)
+
+- Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/abbott-amulet-360-demonstrates-strong-one-year-outcomes-in-afib-patients/`
+
+<p>By closing off the left atrial appendage (LAA), Abbott's Amulet 360 is designed to reduce stroke risk in AFib patients unsuitable for blood-thinning medication regimens.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/abbott-amulet-360-demonstrates-strong-one-year-outcomes-in-afib-patients/">Abbott’s Amulet 360 demonstrates strong one-year outcomes in AFib patients</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Advancing research and partnering with universities in Singapore](https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/)
+
+- Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_hero_owiy2Mr.max-600x600.format-webp.webp">Google is investing in new research grants and capacity-building initiatives to advance AI for science and support the next generation of scientific leaders in Singapore.
+
+### [Boston Scientific and Blackstone agree on $455m VITALYST heart pump deal](https://www.medicaldevice-network.com/news/boston-scientific-blackstone-vitalyst/)
+
+- Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/boston-scientific-blackstone-vitalyst/`
+
+<p>Boston Scientific and Blackstone Life Sciences (BXLS) have entered a $455m co-funding collaboration for the VITALYST heart pump programme.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/boston-scientific-blackstone-vitalyst/">Boston Scientific and Blackstone agree on $455m VITALYST heart pump deal</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Cost-effectiveness analysis of digital medicine support models for alcohol use disorder](https://www.nature.com/articles/s41746-026-03422-7)
+
+- Source: `npj_digital_medicine` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03422-7`
+
+Alcohol use disorder (AUD) is a major public health issue yet often under-addressed in primary care. Digital health interventions offer scalable support, but health systems require economic data to guide implementation decision-making. In a randomized clinical trial involving 558 participants registered at clinicaltrials.gov (NCT04011644; July 3, 2019), we compared three support models built on a shared digital medicine platform: self-monitored use (SM), peer-supported use (PS), and clinically integrated use (CI). We estimated delivery costs and effectiveness based on reductions in heavy drinking days. Annualized reductions in heavy drinking days were 42.4, 40.2, and 48.3 days per patient for SM, PS, and CI models, with per-patient costs of $162, $524, and $802, respectively. Average cost-effectiveness was $3.8 (SM), $13.0 (PS), and $16.6 (CI); PS was dominated, and the ICER for CI versus SM was $107.9. When downstream healthcare utilization was included, results suggested that more intensive support may be economically advantageous. Modeling implementation at scale showed that PS becomes cost-efficient for large patient populations. These findings highlight that no single model is universally optimal: health systems may benefit from offering multiple support levels to match patient preferences and organizational capacity.
+
+### [Heterogeneity of microbiome responses to menopausal hormone therapy among perimenopausal women](https://www.nature.com/articles/s41591-026-04737-4)
+
+- Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04737-4`
+
+Menopausal hormone therapy (MHT) alleviates climacteric symptoms, yet its microbiome-wide effects and efficacy determinants remain unclear. Here we show that oral estradiol/dydrogesterone, given for 6 months to 356 perimenopausal women, improved neuroendocrine, metabolic and symptom outcomes and induced site-specific microbial remodeling. Vaginocervical and urinary niches showed the most pronounced restructuring, with moderate oral and minimal gut changes. MHT increased vaginocervical Lactobacillus crispatus and reduced Gardnerella vaginalis. Higher baseline vaginocervical L. crispatus predicted greater postintervention vaginocervical and urinary colonization and superior Female Sexual Function Index improvement. Baseline vaginocervical community types determined differential outcomes: G. vaginalis-dominated individuals shifted most toward healthier communities, whereas diversified individuals improved least. MHT efficacy also varied according to baseline gut community type: Phocaeicola vulgatus-dominated women exhibited greater hormonal responsiveness, superior clinical outcomes and were more likely to achieve 4-week rapid clinical remission than Prevotella copri-dominated women. These findings support a precision MHT framework integrating gut and vaginocervical community typing for personalized care. Chictr.org.cn ID: ChiCTR2100049768 . In this study, the gut, oral, urinary and vaginocervical microbiomes of women receiving menopausal hormone therapy were studied over 6 months, shedding light on how system metagenomics can inform clinical response and care.
+
+### [HistoSonics gains Singapore approval for Edison histotripsy system](https://www.medicaldevice-network.com/news/histosonics-singapore-approval-edison/)
+
+- Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/histosonics-singapore-approval-edison/`
+
+<p>HistoSonics has secured regulatory clearance in Singapore for its Edison histotripsy system from the Health Sciences Authority (HSA).</p> <p>The post <a href="https://www.medicaldevice-network.com/news/histosonics-singapore-approval-edison/">HistoSonics gains Singapore approval for Edison histotripsy system</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Mass attempted replication of old findings of LLMs with new models](https://zou-group.github.io/llm-claims-shelf-life/)
+
+- Source: `hn_ai_health_signals` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://zou-group.github.io/llm-claims-shelf-life/`
+
+Hacker News community signal; score 11.
+
+### [Non-invasive oral magnetoelectric vagus nerve neuromodulation for Parkinson’s disease therapy](https://www.nature.com/articles/s41551-026-01829-x)
+
+- Source: `nature_biomedical_engineering` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01829-x`
+
+Vagus nerve stimulation has shown promising neuroprotective and anti-inflammatory effects in progressive neurodegenerative disorders such as Parkinson’s disease. However, its invasive nature introduces procedural and device-related risks. Here we introduce a magnetoelectric particulate system for oral delivery and non-invasive vagus nerve stimulation through the gut. The system comprises a magneto-responsive nickel ferrite core and a piezoelectric barium titanate shell, conjugated with capsaicin to specifically target TRPV1 receptors, ensuring effective adherence to the stomach lining after oral administration. Upon magnetic field stimulation, the particles generate electrical pulses that activate vagal afferent fibres, engaging the nucleus tractus solitarius in the brainstem via the gut−brain axis. This activation enhances norepinephrine production in the locus coeruleus and dopamine synthesis in the substantia nigra. Vagal efferent activation triggers the cholinergic anti-inflammatory pathway, mitigating both neuroinflammation and systemic inflammation. This non-invasive approach demonstrates potential for alleviating motor symptoms and non-motor anxiety in Parkinson’s disease, offering valuable insights into its mechanisms and clinical applications. Orally delivered magnetoelectric particles activate vagal afferent fibres in the gut−brain axis and influence neurodegeneration and neuroinflammation in mouse models of Parkinson’s disease.
+
+### [Opinion: How meditation helped me become a better doctor overnight](https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss`
+
+“The inner work of meditation and self-inquiry can support the outer work of patient care,” writes a physician.
+
+### [Opinion: What the 2024 electoral map reveals about America’s mortality divide](https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss`
+
+Leading drivers of mortality look different according to political geography, experts write.
+
 ### [Predicting different dimensions of fatigue from speech data: a longitudinal study in shift workers](https://www.nature.com/articles/s41746-026-03437-0)
 
 - Source: `npj_digital_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03437-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03437-0`
 
 Shift work, or working outside of normal circadian cycles, is associated with both experience of fatigue and poorer long-term physical and mental health. However, current methods for assessing fatigue present several barriers to building understanding of how these risks develop over time within individuals. Here, we explore the potential of momentary speech activity-based fatigue measurement in a large, multi-lingual cohort of shift workers, using an intensive longitudinal study design (twice-daily measurement over two weeks in N = 1197 individuals from six different countries). Paralinguistic speech features were used to predict different aspects of acute and chronic fatigue at each study time-point, with performance assessed in unseen (held-out) data. In the cross-sectional analysis, good (close to or exceeding current state-of-the-art) performance was achieved for both current sleep deprivation and self-reported sleepiness levels. The within-user analysis revealed robust increases in performance, yielding the ability to detect more subjective aspects of fatigue such as pervasive physical and mental exhaustion. These findings offer preliminary support for the utility of using brief momentary speech samples as a low-burden, acceptable, and reliable measure of different aspects of fatigue in high-risk populations such as shift workers.
+
+### [The TEMPO program and the future of digital mental health regulation in the US](https://www.nature.com/articles/s41746-026-03464-x)
+
+- Source: `npj_digital_medicine` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03464-x`
+
+The high burden of traditional FDA clearance drives many novel, AI-enabled mental health devices into unregulated consumer markets. The new FDA-CMS TEMPO pilot program establishes a vital regulatory middle ground, allowing companies to commercialize using a Quality Management System without immediate premarket authorization. This commentary explores how TEMPO serves as a sandbox for real-world data, offering a blueprint to reshape the future of US digital health regulation.
+
+### [Working collaboratively to fight scams in Asia Pacific](https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/)
+
+- Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp">Google combines built-in protections with local partnerships and education to tackle scams in APAC.
+
+### [‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts](https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss`
+
+Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.
 
 ---
 
