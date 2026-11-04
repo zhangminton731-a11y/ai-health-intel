@@ -2,9 +2,9 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 59640,
+      "bytes_read": 20931,
       "content_type": "application/rss+xml",
-      "elapsed_ms": 1295,
+      "elapsed_ms": 33,
       "error_code": null,
       "final_url": "https://www.nature.com/nm.rss",
       "http_status": 200,
@@ -17,7 +17,11 @@
     },
     {
       "kind": "article_metadata",
-      "status": "ok"
+      "status": "cached"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "cached"
     },
     {
       "kind": "article_metadata",
@@ -26,10 +30,6 @@
     {
       "kind": "article_metadata",
       "status": "unavailable"
-    },
-    {
-      "kind": "article_metadata",
-      "status": "ok"
     },
     {
       "kind": "article_metadata",
@@ -49,13 +49,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 9886,
+  "elapsed_ms": 6747,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-11-04T12:09:04+00:00",
+  "generated_at": "2026-11-04T20:25:51+00:00",
   "item_count": 8,
-  "last_checked_at": "2026-11-04T12:09:04+00:00",
-  "last_success_at": "2026-11-04T12:09:04+00:00",
+  "last_checked_at": "2026-11-04T20:25:51+00:00",
+  "last_success_at": "2026-11-04T20:25:51+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",

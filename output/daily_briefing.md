@@ -1,4 +1,4 @@
-# Scientific Information Brief · 2026-11-04
+# Scientific Information Brief · 2026-11-05
 
 > Daily status: **complete_with_warning** · sources 26/26 · items 440
 
@@ -14,7 +14,7 @@ No items.
 
 - Source: `jama_abstracts` · published `2026-11-01` · freshness `fresh`
 - Reading value: `72` · status: `scored`
-- Event: `new` · identity: `pmid:42804178`
+- Event: `seen` · identity: `pmid:42804178`
 
 <h4>Importance</h4>Patent protection allows pharmaceutical companies to charge high prices for prescription drugs during periods of market exclusivity, and their expiration usually defines when generic competitors can enter the US market. Patents on drug active ingredients are classified as primary patents, while patents on formulations, methods of use, and delivery devices are nonprimary.<h4>Objective</h4>To evaluate how pharmaceutical patent portfolios for US Food and Drug Administration (FDA)-approved drugs have evolved over time.<h4>Evidence review</h4>Patents on small-molecule drugs approved by the FDA from 1990 to 2019 were examined and assessed for changes in the number and types of patents per product. The additional duration of total patent exclusivity associated with each patent type was quantified, and how often patents of each type were enforced against generic manufacturers in litigation was determined.<h4>Findings</h4>The FDA approved 1981 small-molecule drugs during the study period, and manufacturers listed 10 940 patents on these drugs. The mean number of patents per drug increased from 2.1 in 1990 to 6.9 in 2019, driven primarily by nonprimary patents. The mean number of nonprimary patents per drug rose from 1.2 in 1990 to 5.6 in 2019. Nonprimary patents represented majorities of FDA-listed patents (84% [9236/10 940]) and litigated patents (87% [4586/5253]). Nearly all patents listed after drug approval were nonprimary (96% [4874/5064]), and these patents extended market exclusivity by a mean of 6.1 years (SD, 5.8 years) and a median of 4.7 years (IQR, 0.2-10.1 years).<h4>Conclusions and relevance</h4>Pharmaceutical patent portfolios have grown over the last 2 decades. These portfolios have largely been built on nonprimary patents, which are then enforced against generic firms at higher rates than primary patents. Large patent portfolios can complicate routine generic competition and prolong periods of high drug prices.
 
@@ -607,14 +607,6 @@ The U.S. Food and Drug Administration today approved Emcitate (tiratricol) table
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework`
 
 FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S. District Court for the Northern District of Texas challenging the current regulatory framework. Based on FDA’s learned experience implementing the 2021 rule, the widespread development of an illicit and unregulated market, and the pace of new product introductions, FDA intends to evaluate changes to the PMTA regulatory framework, including through initiation of new rulemaking to replace the current framework. FDA believes a modern framework that reflects current market realities and provides greater clarity and predictability is critical to maximizing the protection of public health. In the meantime, FDA will continue to process PMTA submissions, conduct premarket reviews, and issue regulatory decisions on new tobacco products in accordance with the statutory requirements established by Congress. FDA remains committed to carrying out its responsibilities under the Tobacco Control Act, including applying the statutorily appropriate standard for the protection of public health (APPH) when reviewing PMTAs. Any future changes to the regulatory framework will be undertaken consistent with applicable law and with opportunities for public input. Media:FDA Request for Comment202-690-6343 Consumer:888-INFO-FDA ### The FDA, an agency within the U.S. Department of Health and Human Services, protects the public health by assuring the safety, effectiveness, and security of human and veterinary drugs, vaccines and other biological products for human use, and medical devices. The agency also is responsible for the safety and security of our nation’s food supply, cosmetics, dietary supplements, radiation-emitting electronic products, and for regulating tobacco products.
-
-### [A trembling detour to the diagnosis of encephalitis: a neuroborreliosis case report.](https://doi.org/10.1016/s0140-6736(26)01501-1)
-
-- Source: `lancet_abstracts` · published `2026-09-29` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42810373`
-
-In this Clinical Rounds, we present a case of neuroborreliosis in a man aged 59 years who initially complained of headache, tremor, and hiccups. Diagnosis was delayed, partly due to an atypical presentation but mainly because subtle MRI findings were overlooked. There is emerging recognition that radial and patchy hyperintensities in cerebral peduncles, mesencephalon, and pons is a distinct MRI feature of neuroborreliosis. Dissemination of this knowledge could contribute to more timely and efficient diagnoses in future patients.
 
 ### [FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme](http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug)
 
@@ -1802,24 +1794,24 @@ On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple
 
 ### [Divarasib as Compared with Sotorasib or Adagrasib in <i>KRAS</i> G12C-Mutated NSCLC.](https://doi.org/10.1056/nejmoa2605703)
 
-- Source: `nejm_abstracts` · published `2026-10-25` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `nejm_abstracts` · published `2026-10-25` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42929675`
 
 <h4>Background</h4>Divarasib, a next-generation, oral KRAS G12C inhibitor, is more potent and selective in vitro than the first-generation KRAS G12C inhibitors sotorasib and adagrasib.<h4>Methods</h4>In this phase 3, international, open-label trial, patients with previously treated <i>KRAS</i> G12C-mutated advanced or metastatic non-small-cell lung cancer (NSCLC) were randomly assigned to receive divarasib orally at a dose of 400 mg once daily or control treatment (sotorasib orally at a dose of 960 mg once daily or adagrasib orally at a dose of 600 mg twice daily) until the occurrence of disease progression, unacceptable adverse events, loss of clinical benefit, withdrawal of consent, death, or trial termination. The primary end point was progression-free survival as assessed by blinded independent central review. Secondary end points included overall survival, confirmed overall response, duration of response, patient-reported outcomes, and safety.<h4>Results</h4>A total of 338 patients received divarasib (167 patients) or control treatment (171 patients; 156 received sotorasib and 15 received adagrasib). The median follow-up was 14.3 months. The median progression-free survival was 9.8 months with divarasib and 5.7 months with control treatment (hazard ratio for disease progression or death, 0.58; 95% confidence interval [CI], 0.44 to 0.76; P<0.001). The median overall survival was 17.7 months with divarasib and 12.0 months with control treatment (hazard ratio for death, 0.56; 95% CI, 0.41 to 0.78; P<0.001). Of the 328 patients who could be evaluated for response, a confirmed response occurred in 58.4% in the divarasib group and in 32.3% in the control group. The median duration of response was 11.9 months with divarasib and 6.9 months with control treatment. Fewer grade 3 or 4 treatment-related adverse events were noted with divarasib (24.6%) than with control treatment (34.5%).<h4>Conclusions</h4>Among patients with previously treated <i>KRAS</i> G12C-mutated advanced or metastatic NSCLC, divarasib led to significantly longer progression-free and overall survival than control treatment. (Supported by F. Hoffmann-La Roche; Krascendo 1 ClinicalTrials.gov number, NCT06497556.).
 
 ### [Osimertinib-Savolitinib in Advanced NSCLC after Progression during EGFR-TKI Therapy.](https://doi.org/10.1056/nejmoa2611335)
 
-- Source: `nejm_abstracts` · published `2026-10-25` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `nejm_abstracts` · published `2026-10-25` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42929693`
 
 <h4>Background</h4>Savolitinib is an oral, potent, highly selective MET-tyrosine kinase inhibitor (TKI). Combination therapy with savolitinib and osimertinib, an epidermal growth factor receptor (EGFR)-TKI, has shown activity in patients with <i>EGFR</i>-mutated, advanced non-small-cell lung cancer (NSCLC) with MET overexpression, <i>MET</i> amplification, or both, after progression during EGFR-TKI therapy.<h4>Methods</h4>In this international, phase 3, open-label trial, we randomly assigned, in a 1:1 ratio, patients with <i>EGFR</i>-mutated, locally advanced or metastatic NSCLC with MET overexpression (staining intensity of 3+ for MET in ≥90% of tumor cells on immunohistochemical analysis), <i>MET</i> amplification (≥10 gene copies on fluorescence in situ hybridization), or both whose disease had progressed during osimertinib therapy to receive osimertinib (at a dose of 80 mg once daily) plus savolitinib (300 mg twice daily) or intravenous platinum-pemetrexed. The primary end point was progression-free survival, as assessed by blinded independent central review. Secondary end points included overall survival and safety.<h4>Results</h4>Of the 1746 patients screened, 338 were randomly assigned to receive osimertinib-savolitinib (171 patients) or platinum-pemetrexed (167 patients). Osimertinib-savolitinib led to significantly longer progression-free survival than platinum-pemetrexed (hazard ratio for disease progression or death, 0.55; 95% confidence interval [CI], 0.42 to 0.72; P<0.001), as well as significantly longer overall survival (hazard ratio for death, 0.68; 95% CI, 0.50 to 0.91; P = 0.01; final analysis). The Kaplan-Meier estimate of 12-month progression-free survival was 36% in the osimertinib-savolitinib group and 10% in the platinum-pemetrexed group, and the estimate of 12-month overall survival was 70% and 53%, respectively. The most frequently reported adverse events that occurred during treatment in the osimertinib-savolitinib group were peripheral edema (in 49% of the patients), anemia (in 26%), and diarrhea (in 26%). Grade 3 or higher adverse events during treatment were reported in 64% of the patients in the osimertinib-savolitinib group and in 63% of those in the platinum-pemetrexed group.<h4>Conclusions</h4>Osimertinib-savolitinib led to significantly longer progression-free and overall survival than platinum-pemetrexed among patients with <i>EGFR</i>-mutated, locally advanced or metastatic NSCLC with MET overexpression, <i>MET</i> amplification, or both that had progressed during osimertinib therapy (Funded by AstraZeneca; SAFFRON ClinicalTrials.gov number, NCT05261399.).
 
 ### [Sacituzumab Tirumotecan plus Pembrolizumab in PD-L1-Negative Advanced NSCLC.](https://doi.org/10.1056/nejmoa2611280)
 
-- Source: `nejm_abstracts` · published `2026-10-25` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `nejm_abstracts` · published `2026-10-25` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42929694`
 
 <h4>Background</h4>Pembrolizumab plus chemotherapy with a platinum-based agent and pemetrexed is a widely used standard first-line treatment option for patients with programmed death ligand 1 (PD-L1)-negative advanced nonsquamous non-small-cell lung cancer (NSCLC) without targetable genomic alterations, but outcomes remain suboptimal.<h4>Methods</h4>In this phase 3, open-label, randomized trial, we evaluated sacituzumab tirumotecan plus pembrolizumab in patients with previously untreated locally advanced or metastatic nonsquamous NSCLC without targetable genomic alterations and a PD-L1 tumor proportion score of less than 1%. Patients were randomly assigned in a 1:1 ratio to receive sacituzumab tirumotecan plus pembrolizumab or chemotherapy plus pembrolizumab. The primary end point was progression-free survival as assessed by blinded independent central review. Overall survival was a secondary end point. This report presents the results of the prespecified interim analysis.<h4>Results</h4>A total of 455 patients were randomly assigned to receive sacituzumab tirumotecan plus pembrolizumab (229 patients) or chemotherapy plus pembrolizumab (226 patients). After a median follow-up of 9.7 months, the median progression-free survival was significantly longer with sacituzumab tirumotecan plus pembrolizumab than with chemotherapy plus pembrolizumab (15.0 months vs. 5.7 months; hazard ratio for disease progression or death, 0.49; 95% confidence interval [CI], 0.36 to 0.65; P<0.001). An objective response occurred in 50.2% and 47.3% of the patients, respectively, and the median duration of response was 13.6 months and 6.8 months. Overall survival data were immature; the hazard ratio for death was 0.58 (95% CI, 0.38 to 0.88). Adverse events of grade 3 or higher that occurred after the start of treatment were reported in 47.6% of the patients assigned to receive sacituzumab tirumotecan plus pembrolizumab and in 60.6% of those assigned to receive chemotherapy plus pembrolizumab. Stomatitis was common with sacituzumab tirumotecan plus pembrolizumab, but the events were predominantly grade 1 or 2.<h4>Conclusions</h4>Among patients with PD-L1-negative advanced nonsquamous NSCLC without targetable genomic alterations, first-line treatment with sacituzumab tirumotecan plus pembrolizumab led to significantly longer progression-free survival than chemotherapy plus pembrolizumab. (Funded by Sichuan Kelun-Biotech Biopharmaceutical; OptiTROP-Lung06 ClinicalTrials.gov number, NCT06711900.).
@@ -1992,14 +1984,6 @@ Background: Cardiovascular disease (CVD) remains the leading cause of death worl
 
 <h4>Background</h4>Obesity and early-onset cancer are both increasing among young adults, yet evidence remains limited.<h4>Objective</h4>To assess associations between obesity and early-onset cancer risk in young adults.<h4>Design</h4>Nationwide population-based cohort study.<h4>Setting</h4>Korean National Health Insurance Service database, 2009 to 2021.<h4>Patients</h4>6 313 338 adults aged 20 to 39 years without prior cancer, from a national health screening program.<h4>Measurements</h4>Body mass index (BMI) was categorized into 5 groups (underweight to class II obesity) according to Asian-specific criteria. The outcome was incident cancer.<h4>Results</h4>During a mean follow-up of 11.2 years, 151 893 cancer cases occurred. Ten-year cumulative incidence ranged from 1.84% (95% CI, 1.83% to 1.86%) in the normal-weight group to 2.24% (CI, 2.22% to 2.27%) in class I obesity and 2.62% (CI, 2.56% to 2.68%) in class II obesity, with absolute risk differences of 0.40% (CI, 0.39% to 0.41%) and 0.78% (CI, 0.73% to 0.82%). The relative association was more pronounced in men, and absolute risk differences were greater in women. In combined BMI-waist circumference analyses, people with class I obesity based on BMI and with abdominal obesity had higher 10-year cumulative incidence (2.45% [CI, 2.41% to 2.50%]) than those without abdominal obesity (2.13% [CI, 2.10% to 2.16%]), exceeding that of those with class II obesity without abdominal obesity (2.20% [CI, 2.03% to 2.36%]). The highest cumulative incidence was observed for thyroid, endometrial, and ovarian cancer. Obesity was not associated with higher risk for breast cancer diagnosed by age 50 years.<h4>Limitations</h4>Observational design; nonrepresentative sample limited to screening participants; and unmeasured confounding, including smoking burden.<h4>Conclusion</h4>Obesity in young Korean adults, measured by BMI and waist circumference, is associated with higher early-onset cancer risk persisting into midlife, with patterns varying by cancer type. Early weight management may be important for prevention.<h4>Primary funding source</h4>None.
 
-### [Ahead of Midterms, HFMA Calls for Cross-Sector Action on Healthcare Affordability](https://medcitynews.com/2026/10/ahead-of-midterms-hfma-calls-for-cross-sector-action-on-healthcare-affordability/)
-
-- Source: `medcity_news` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/ahead-of-midterms-hfma-calls-for-cross-sector-action-on-healthcare-affordability/`
-
-<p><a href="https://medcitynews.com/2026/10/ahead-of-midterms-hfma-calls-for-cross-sector-action-on-healthcare-affordability/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2183185410-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>With healthcare affordability set to influence voters’ decisions in next week’s midterm elections, the Healthcare Financial Management Association is calling on healthcare leaders to move beyond finger-pointing and work together to address rising costs. HFMA is urging financial leaders across healthcare to sign its Declaration on Healthcare Affordability and Sustainability. </p> <p>The post <a href="https://medcitynews.com/2026/10/ahead-of-midterms-hfma-calls-for-cross-sector-action-on-healthcare-affordability/">Ahead of Midterms, HFMA Calls for Cross-Sector Action on Healthcare Affordability</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Apple unveils groundbreaking MacBook Pro with PROLED XDR Display](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/)
 
 - Source: `apple_newsroom` · published `2026-10-28` · freshness `fresh`
@@ -2056,14 +2040,6 @@ Numeracle, a McLean, Virginia-based company that verifies businesses and links t
 
 Background: Hypothyroidism is a prevalent endocrine disorder characterized by an insidious onset and nonspecific symptoms, often leading to significant diagnostic delays. While biochemical thyroid function tests (TFTs) are the gold standard, their invasive nature and cost make them impractical for continuous, proactive screening of at-risk populations. Thyroid hormones exert direct chronotropic effects on the cardiovascular system, and their levels are closely correlated with heart rate (HR). Wearable devices capable of continuous HR monitoring offer a novel opportunity for noninvasive, digital phenotype–based detection. Objective: This study aimed to develop and validate an AI-assisted system that uses wearable-derived sleep HR data as a digital monitoring tool for individuals at risk of hypothyroidism, helping identify those who warrant further confirmatory thyroid testing. Methods: This retrospective cohort study used 1677 paired observations consisting of sleep HR data and serum TFT results, including free thyroxine (T4) and thyroid-stimulating hormone levels, from 413 participants (mean age 43.1, SD 9.7 y; women: n=314, 76%). Participants wore consumer-grade wearables (Fitbit) that recorded HR and sleep data. Each TFT result was paired with sleep HR data extracted from the 15 consecutive nights preceding the blood test. An AI system was developed using a gradient boosting algorithm (LightGBM) to classify thyroid status by integrating baseline TFT results with statistical and temporal HR features. The model’s performance was evaluated using patient-level leave-one-out cross-validation. To examine the benefit of longitudinal data, performance was compared using 1, 2, or 3 prior paired observations as reference points. Results: To ensure clinical relevance and avoid performance inflation from hyperthyroid cases, we prioritized the analysis of a subset containing only euthyroid and hypothyroid data (n=744 paired observations). In this clinically challenging subset, the system achieved an accuracy of 74.6%, with a sensitivity of 82% and a specificity of 73.5% using a single-reference data pair. Incorporating longitudinal HR patterns further enhanced performance; using 3 reference pairs improved accuracy to 78.1% (sensitivity 81.8% and specificity 77.7%). In the overall dataset (n=1677 paired observations), the system demonstrated an accuracy of 80.8%, with a sensitivity of 82% and a specificity of 80.8% using a single-reference pair. Notably, the system achieved high clinical safety by detecting 96.3% of severe overt hypothyroidism cases (free T4 &lt;0.5 ng/dL). Conclusions: This AI-assisted system demonstrates the feasibility of a sensitive, noninvasive longitudinal monitoring tool for hypothyroidism, robustly identifying a high proportion of hypothyroid cases—particularly severe ones—to prioritize at-risk individuals for confirmatory blood tests. Given the predominantly female iatrogenic-withdrawal cohort, prospective sex-balanced validation in primary hypothyroidism is warranted. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a987102a2705d0b3e60602b091360ef2" />
 
-### [How Can Hospitals and Pharmacists Collaborate on Effective Stewardship Programs for Opioids and Antibiotics?](https://medcitynews.com/2026/10/how-can-hospitals-and-pharmacists-collaborate-on-effective-stewardship-programs-for-opioids-and-antibiotics/)
-
-- Source: `medcity_news` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/how-can-hospitals-and-pharmacists-collaborate-on-effective-stewardship-programs-for-opioids-and-antibiotics/`
-
-<p><a href="https://medcitynews.com/2026/10/how-can-hospitals-and-pharmacists-collaborate-on-effective-stewardship-programs-for-opioids-and-antibiotics/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2181751578-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Group of people collaborate" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2181751578-1024x683.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2181751578-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2181751578-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2181751578-1536x1024.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2025/08/GettyImages-2181751578-2048x1365.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] A webinar sponsored by Inovalon explored how hospitals and pharmacies can work together to generate the best outcomes for patients while improving patient safety.</p> <p>The post <a href="https://medcitynews.com/2026/10/how-can-hospitals-and-pharmacists-collaborate-on-effective-stewardship-programs-for-opioids-and-antibiotics/">How Can Hospitals and Pharmacists Collaborate on Effective Stewardship Programs for Opioids and Antibiotics?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.](https://doi.org/10.1136/bmj-2026-101123)
 
 - Source: `bmj_abstracts` · published `2026-10-28` · freshness `fresh`
@@ -2111,30 +2087,6 @@ Professor Michael Yaffe and six MIT alumni are honored for their outstanding pro
 - Event: `seen` · identity: `pmid:42950876`
 
 <h4>Translations</h4>For the French, Arabic, Spanish, Brazilian-Portuguese and Mandarin translations of the abstract see Supplementary Materials section.
-
-### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-28` · freshness `fresh`
-- Reading value: `28` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/startups/tech-layoffs/`
-
-Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.
-
-### [The Invisible Graph: How Companies Grow Revenue And Still Lose Value](https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/)
-
-- Source: `crunchbase_news_feed` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/`
-
-Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest author Itay Sagie suggests that founders and boards should track valuation alongside financial performance, model the effects of delaying a sale, and begin M&#038;A preparation while the business is strong and buyer interest is favorable.
-
-### [Work Requirements Put New Pressure On Medicaid Member Retention](https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/)
-
-- Source: `medcity_news` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/`
-
-<p><a href="https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-768x512.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-1536x1024.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2021/04/GettyImages-802421284-2048x1365.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>By using existing data to better understand members and implementing retention strategies, plans can remain sustainable and members can get the care they need.</p> <p>The post <a href="https://medcitynews.com/2026/10/work-requirements-put-new-pressure-on-medicaid-member-retention/">Work Requirements Put New Pressure On Medicaid Member Retention</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [3 Ways ProgenyHealth Can Transform Maternity and Infant Health, Claims Management](https://medcitynews.com/2026/10/3-ways-progenyhealth-can-transform-maternity-and-infant-health-claims-management/)
 
@@ -2184,14 +2136,6 @@ After spinal cord injury, clinicians raise blood pressure to protect tissue with
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp">Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here.
 
-### [Cooper Companies CEO steps down after activist investor pressure](https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/)
-
-- Source: `medtech_dive_primary` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/cooper-companies-ceo-steps-down-after-activist-investor-pressure/873142/`
-
-Albert White is stepping down as president and CEO of Cooper Companies effective immediately, the company said Tuesday. Walter Rosebrough Jr. will assume direct oversight of day-to-day operations until a permanent CEO is appointed. Cooper has elected Rosebrough, an independent director on its board, as executive chair. The changes come weeks after an activist investor called for the contact lens and fertility company to immediately start an external search for a new CEO and appoint a new board chair.
-
 ### [Equipping healthcare professionals with practical AI skills](https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate/)
 
 - Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
@@ -2207,22 +2151,6 @@ Albert White is stepping down as president and CEO of Cooper Companies effective
 - Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp">Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog.
-
-### [How Gemini is helping students and teachers in the classroom](https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/)
-
-- Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp">New studies from the UK and Italy show how Gemini can boost student learning and help teachers facilitate more active learning in the classroom.
-
-### [How to use Gemini to update your resume](https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/)
-
-- Source: `fitbit_google_blog` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp">Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details.
 
 ### [Irritable bowel syndrome and related disorders of gut-brain interaction.](https://doi.org/10.1016/s0140-6736(26)01500-x)
 
@@ -2296,14 +2224,6 @@ Crunchbase data shows that so far this year, investors have poured around $48 bi
 
 Gastrointestinal fistulas (GFs) represent one of the main causes of morbidity and mortality. While endoscopic techniques provide a minimally invasive approach to GF repair, offering advantages over conventional surgical approaches, the integration of endoscopic delivery with hydrogel sealants in user-friendly and easy processes approaches remains a great challenge. Here we develop a thermoresponsive positively charged poly(N-isopropylacrylamide) (PNIPAM)/Ga3+ (PGaIII) hydrogel sealant, formed by slug-inspired biomimetic self-assembly. The PGaIII integrated injectability and single-step-formed Janus-type adhesion to tissues, simultaneously featuring excellent biocompatibility, water/acid resistance, active shrinkage and antibacterial properties, enabling its effective ready-to-use biological sealant for endoscopic repair of GFs and prevention of postoperative adhesions. To validate the efficacy of PGaIII in treating GFs, we demonstrate its effectiveness in repairing GFs and its convenience in non-invasive endoscopic surgery in living Sprague–Dawley rat and Bama miniature pig models. The proposed PGaIII holds potential for the repair of fistulas in other organs in vivo, thereby promoting the establishment of safer and more effective clinical treatment options for related diseases. A thermoresponsive hydrogel sealant, prepared in a user-friendly and single-step process, and featuring Janus-type adhesion, is injected endoscopically and repairs gastrointestinal fistulas in rat and minipig models.
 
-### [Admission Mechanisms for Scalable Federated Health Data Collaboration: Design and Proof-of-Concept Study](https://medinform.jmir.org/2026/1/e89685)
-
-- Source: `jmir_medinform` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e89685`
-
-Background: Many digital health and AI initiatives show promising results in pilot settings but do not progress to sustainable services. Pilots can operate within a predefined collaboration, whereas operational services must accommodate changes in participating organizations, available resources, and analytical capabilities while preserving established governance and technical arrangements. Objective: This study examines the pilot-to-service transition as a problem of governed federation evolution and evaluates whether Open Health can admit new forms of participation while preserving bounded capabilities, organizational sovereignty, and auditable decision evidence. Methods: Open Health applies federated computing (FC) as a governance model separated from the analytical runtime. A governed federation context is established before execution, participants receive holder-bound capabilities, and an admission gateway produces explicit ALLOW or DENY decisions before requested operations proceed. The proof of concept uses the Flower federated learning framework and the Pathology Modified National Institute of Standards and Technology (PathMNIST) dataset from the MedMNIST collection with an initial federation comprising hospitals A and B. Mode 1A introduces hospital C as a sponsored contributor permitted to submit locally computed training updates but not invoke the resulting federated model for inference. Mode 1B examines bounded AI-agent participation, where restricted results may be transformed through policy-authorized operations into derivatives whose consumption is governed independently from the source. Evaluation considers admission conformance, signed decision evidence, analytical effects of the additional contribution, and admission overhead. Results: The demonstrator admitted valid member operations and hospital C’s sponsored contribution (mode 1A) while denying model consumption outside hospital C’s capability, scope violations, holder-binding mismatch, and federation-envelope mismatch. Mode 1B extended the same bounded-governance pattern to AI-agent participation, admitting bounded inference and governed transformation but denying unauthorized source consumption and privileged governance access. Under matched training conditions, cancer-related macro recall increased from 50.2% in the A+B control to 67.4% in A+B+C (+17.2 percentage points), while noncancer macro recall changed from 85.5% to 86.3% (+0.8 percentage points). Recall increased from 19.5% to 39.9% for cancer-associated stroma and from 80.9% to 94.9% for colorectal adenocarcinoma epithelium. Median (IQR) full admission latency was 1.210 (1.141-1.333) ms for ALLOW, 1.195 (1.136-1.273) ms for capability-scope DENY, and 0.884 (0.837-0.921) ms for holder-binding DENY. Each evaluated request generated signed decision evidence recording the decision, reason, participant and request bindings, governance context, and related model run. Conclusions: Open Health demonstrates how a federated health-data collaboration can evolve through differentiated participation while preserving membership boundaries and bounded capability relations. The principal contribution is an executable governance boundary preserving capability relations and producing independently verifiable decision evidence separately from the federated-learning runtime. The analytical experiment showed that governed admission of an additional contributor produced a measurable effect on the intended cancer-related classes while preserving noncancer performance. The proof of concept establishes governance behavior under controlled conditions; clinical effectiveness and production-scale performance require further evaluation.
-
 ### [Bambusa IPO Brings In $169M to Break Immunology’s ‘Therapeutic Ceiling’](https://medcitynews.com/2026/10/bambusa-ipo-immunology-inflammation-bispecific-antibody-atopic-dermatitis-bbtx-aspen-neuroscience-cell-therapy-parkinsons-aspe/)
 
 - Source: `medcity_news` · published `2026-10-30` · freshness `fresh`
@@ -2343,14 +2263,6 @@ In the ongoing AI boom—now supercharged by large language models and generativ
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis`
 
 The U.S. Food and Drug Administration today granted accelerated approval for Voceryq (doruxapapogene ralaplasmid and lalikinogene sifuplasmid-gxfd) for treatment of adults with recurrent respiratory papillomatosis (RRP).
-
-### [FDA posts alert about Medline beds linked to 2 deaths](https://www.medtechdive.com/news/fda-posts-alert-about-medline-beds-linked-to-2-deaths/873280/)
-
-- Source: `medtech_dive_primary` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/fda-posts-alert-about-medline-beds-linked-to-2-deaths/873280/`
-
-The Food and Drug Administration has published an early alert about Medline brand beds linked to two deaths and 16 serious injuries. In an alert published Thursday, the FDA communicated Medline’s plans to discontinue the beds and associated products and exit the market. Medline contacted customers about the plans on Oct. 14 and issued an updated notice with modified recommendations for users on Oct. 24.
 
 ### [Google Fitbit Edge: On shelves now](https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/)
 
@@ -2440,14 +2352,6 @@ Travel demand appears to be holding up, but at the same time, investor appetite 
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp">Run a quick Google Security Checkup and protect your email with three quick and easy steps.
 
-### [Stryker lowers 2026 guidance after slowdown in hip, knee procedures](https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/)
-
-- Source: `medtech_dive_primary` · published `2026-10-30` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medtechdive.com/news/stryker-lowers-2026-guidance-after-slowdown-in-hip-knee-procedures/873309/`
-
-<figure><div><img src="https://imgproxy.divecdn.com/epOZSCyL3atoV5eMuueQilqBFSC3g1RnXxAzDQtTk68/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9oaXBfcmVwbGFjZW1lbnQuanBn.webp"/></div></figure><p>CEO Kevin Lobo said the slowdown in hip and knee procedures is tied to broader economic concerns. The outgoing CEO also detailed the company&rsquo;s decision to partner with CMR Surgical.</p>
-
 ### [The Mediating Role of Sleep Quality in Associations of Smartphone Addiction and Time-Specific Use With Prenatal Depression and Anxiety: Cross-Sectional Observational Study](https://mhealth.jmir.org/2026/1/e100064)
 
 - Source: `jmir_mhealth` · published `2026-10-30` · freshness `fresh`
@@ -2500,7 +2404,7 @@ Medical large language models achieving high benchmark accuracy exhibit unexplai
 
 - Source: `jama_abstracts` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42734953`
+- Event: `seen` · identity: `pmid:42734953`
 
 <h4>Importance</h4>Cesarean delivery is the most common surgery in the US and the most significant risk factor for postpartum infection. Although trial evidence demonstrated that adjunctive azithromycin use at the time of birth reduces postpartum infection in pregnant persons who undergo an unscheduled cesarean delivery, use of azithromycin outside that trial has not been reported.<h4>Objective</h4>To determine the adoption of trial evidence in clinical practice and describe postpartum infection trends among US pregnant persons undergoing unscheduled cesarean delivery.<h4>Design, setting, and participants</h4>Data from Epic Cosmos were used to conduct a difference-in-differences analysis including pregnant individuals who received prenatal care, labored, and gave birth to a liveborn singleton infant at 24 to 43 weeks' gestation from 2013 to 2024. Cesarean birth was considered the treatment group and vaginal birth was considered the control group. The analysis was conducted from July 2025 to June 2026.<h4>Exposure</h4>Relative to the publication of trial evidence in 2016, births that occurred from January 1, 2013, to September 28, 2016, were compared with births that occurred from January 1, 2017, to December 31, 2024.<h4>Main outcomes and measures</h4>The primary outcomes were perioperative administration of azithromycin and postpartum infection within 6 weeks of delivery. Patient-level linear regression was used to obtain the difference-in-differences estimate.<h4>Results</h4>Of the 1 663 441 infant deliveries included in the analysis, there were 202 234 cesarean births and 1 461 207 vaginal births (mean age of pregnant individuals, 29.3 [SD, 5.7] years; median body mass index at time of delivery, 31.8 [IQR, 28.2-36.5]). From January 1, 2013, to September 28, 2016, azithromycin was administered during 2.2% of cesarean births (721/32 970) vs 0.01% of vaginal births (15/261 624) compared with 39.6% (67 094/169 264) vs 0.04% (421/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, 37.6 percentage points [95% CI, 33.1 to 42.2]). From January 1, 2013, to September 28, 2016, postpartum infection occurred after 9.2% of cesarean births (3048/32 970) vs 2.0% of vaginal births (5311/261 624) compared with 8.0% (13 555/169 264) vs 2.7% (32 581/1 199 583), respectively, from January 1, 2017, to December 31, 2024 (adjusted difference-in-differences estimate, -2.0 percentage points [95% CI, -2.6 to -1.4]).<h4>Conclusions and relevance</h4>After publication of the trial evidence in 2016, azithromycin use for pregnant persons undergoing unscheduled cesarean delivery increased and postpartum infection rates decreased in the US.
 
@@ -2516,7 +2420,7 @@ Medical large language models achieving high benchmark accuracy exhibit unexplai
 
 - Source: `jama_abstracts` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42667613`
+- Event: `seen` · identity: `pmid:42667613`
 
 <h4>Importance</h4>Statin nonadherence is a leading, addressable driver of preventable cardiovascular events. Although health systems routinely use outreach to promote preventive care, most strategies are static and lack evidence from randomized clinical trials.<h4>Objective</h4>To determine whether an adaptive, sequential digital outreach strategy improves short-term statin refill vs usual communication among adults with established atherosclerotic cardiovascular disease (ASCVD) or high ASCVD risk and recent nonadherence within a rapidly implemented, health system-embedded randomized clinical trial.<h4>Design, setting, and participants</h4>Pragmatic, health system-embedded, prospective randomized open blinded end point (PROBE) clinical trial using a 2-stage sequential, multiple assignment, randomized trial (SMART) design. The trial was conducted via Kaiser Permanente Northern California, an integrated health care delivery system serving more than 4.6 million members. Eligible participants were adults 18 years or older with established ASCVD or high ASCVD risk, recent statin nonadherence, and eligibility for all study communication modalities.<h4>Interventions</h4>Participants were randomized 1:1:1:1 to receive secure portal messaging, SMS/text messaging, nonsecure email, or usual communication. Initial nonresponders within 14 days underwent prespecified second-stage randomization to repeat the same outreach, switch communication modality, or receive usual communication.<h4>Main outcomes and measures</h4>Rates of 14-day statin refill following each randomization, with 28-day follow-up.<h4>Results</h4>Among 20 604 participants (mean [SD] age, 54.8 [9.0] years; 40.9% female; 27.8% Asian, 10.9% Black, 33.6% Hispanic; 15.3% with established ASCVD), initial digital outreach increased 14-day statin refill vs usual communication (14.4% vs 12.0%; adjusted risk difference, 2.3 percentage points [95% CI, 1.3-3.4]; adjusted risk ratio, 1.20 [95% CI, 1.10-1.30]). Among initial nonresponders, second-stage outreach further increased refill (13.0% vs 10.4%; adjusted risk difference, 2.5 percentage points [95% CI, 1.3-3.7]; adjusted risk ratio, 1.25 [95% CI, 1.11-1.39]). Switching communication modalities did not improve refill vs repeating the same modality (13.2% vs 12.5%; adjusted risk ratio, 1.06 [95% CI, 0.94-1.17]). Cumulative statin refill through 28 days was higher in those receiving any digital outreach vs usual communication (24.9% vs 21.2%; adjusted hazard ratio, 1.21 [95% CI, 1.13-1.30]). Results were consistent across prespecified subgroups.<h4>Conclusions and relevance</h4>Among adults with a statin indication and recent statin nonadherence, adaptive outreach improved short-term refill vs usual communication. A second outreach produced additional gains among initial nonresponders, although switching communication modalities provided no additional benefit. These findings support adaptive, sequential health system outreach strategies to improve cardiovascular prevention when integrated into population health programs.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT07522645.
 
@@ -2556,7 +2460,7 @@ Medical large language models achieving high benchmark accuracy exhibit unexplai
 
 - Source: `jama_abstracts` · published `2026-11-01` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42776543`
+- Event: `seen` · identity: `pmid:42776543`
 
 <h4>Importance</h4>Whether intravenous tenecteplase before endovascular thrombectomy (EVT) improves outcomes in patients with basilar artery occlusion presenting 4.5 to 24 hours after stroke onset remains uncertain.<h4>Objective</h4>To evaluate the efficacy and safety of intravenous tenecteplase before EVT vs EVT alone in patients with moderate to severe basilar artery occlusion admitted within 4.5 to 24 hours from stroke onset.<h4>Design, setting, and participants</h4>This multicenter, open-label, blinded end point, randomized clinical trial was conducted at 40 stroke centers in China. Between March 16, 2023, and February 4, 2025, a total of 330 patients with moderate to severe basilar artery occlusion (National Institutes of Health Stroke Scale score ≥10) presenting within 4.5 to 24 hours from stroke onset to EVT-capable centers were enrolled. Final follow-up was completed on May 4, 2025.<h4>Interventions</h4>Patients were randomized 1:1 via a centralized web server using a minimization method to receive either intravenous tenecteplase (bolus injection, 0.25 mg/kg; maximum, 25 mg) followed by EVT (n = 166) or EVT alone (n = 164).<h4>Main outcomes and measures</h4>The primary outcome was functional independence (modified Rankin Scale score, 0-2) at 90 days. Safety outcomes included symptomatic intracranial hemorrhage and 90-day mortality.<h4>Results</h4>Among 332 patients randomized, 2 withdrew consent. Of the remaining 330 patients (mean [SD] age, 66 [11] years; 241 males [73%]; 89 females [27%]), 329 completed 90-day follow-up. Of whom, 50 of 165 (30%) in the tenecteplase plus EVT group and 50 of 164 (30%) in the EVT alone group achieved functional independence (adjusted rate ratio, 0.92 [95% CI, 0.67 to 1.25]; risk difference, -0.18% [95% CI, -10.13% to 9.76%]). Symptomatic intracranial hemorrhage occurred in 8 patients (5%) in the tenecteplase plus EVT group and 6 (4%) in the EVT alone group. Mortality at 90 days was similar between the groups (66 [40%] vs 70 [43%], respectively).<h4>Conclusions and relevance</h4>Among patients with moderate to severe basilar artery occlusion admitted directly to EVT-capable centers who presented 4.5 to 24 hours after stroke onset, the addition of intravenous tenecteplase before EVT did not result in improved functional outcomes compared with EVT alone.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT05701956.
 
@@ -2572,7 +2476,7 @@ Medical large language models achieving high benchmark accuracy exhibit unexplai
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/`
 
 <p><a href="https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg" class="attachment-large size-large wp-post-image" alt="Little pink ceramic piggy bank pattern on the left side on yellow background. Concept of saving money, savings." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/investment-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Health tech companies made several major funding announcements in October. Here is a list of some of the biggest funding rounds.</p> <p>The post <a href="https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/">4 Notable Health Tech Funding Announcements in October</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2583,14 +2487,6 @@ Medical large language models achieving high benchmark accuracy exhibit unexplai
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/`
 
 <p><a href="https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1056103192.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The federal government is testing whether artificial intelligence can help Medicare identify unnecessary medical care, speed up the prior authorization process, and reduce healthcare spending. But a new report based on evidence recovered from a lawsuit raises concerns about the AI experiment.</p> <p>The post <a href="https://medcitynews.com/2026/11/7-potential-problems-with-medicares-ai-prior-authorization-experiment/">7 Potential Problems with Medicare’s AI Prior Authorization Experiment </a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [A STAT reporter on covering MRT as an experimental fertility treatment](https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss`
-
-Inside the global fertility industry using women as "guinea pigs":
 
 ### [Abbott starts pivotal trial for mitral valve replacement device](https://www.medtechdive.com/news/abbott-starts-pivotal-trial-for-mitral-valve-replacement-device/873409/)
 
@@ -2620,7 +2516,7 @@ Abbott has started a pivotal clinical trial of its investigational Cephea mitral
 
 - Source: `jama_abstracts` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970643`
+- Event: `seen` · identity: `pmid:42970643`
 
 <h4>Importance</h4>Following a left atrial appendage closure (LAAC) procedure, antithrombotic therapy is administered to safely allow time for device endothelialization. However, the optimal postimplant antithrombotic regimen is unknown.<h4>Objective</h4>To determine if either reduced-dose non-vitamin K oral anticoagulants (NOACs) or aspirin alone are noninferior to dual antiplatelet therapy (DAPT) for the composite clinical end point of death, stroke, systemic embolism, or major bleeding through 6 months post LAAC.<h4>Design, setting, and participants</h4>This open-label, 3-group, multicenter clinical trial randomized 1857 patients between October 2024 and December 2025 at 87 US investigational sites, with the final 6-month follow-up in July 2026. Enrolled patients had nonvalvular atrial fibrillation, underwent successful LAAC, and were eligible for all 3 regimens.<h4>Interventions</h4>Patients were randomly allocated 1:1:1 to DAPT for 6 months followed by aspirin (n = 624), a reduced-dose NOAC for 3 months followed by aspirin (n = 620), or aspirin alone for 12 months (n = 613).<h4>Main outcomes and measures</h4>The primary outcome was the 6-month composite of all-cause death, stroke, systemic embolism, or major bleeding. Noninferiority was tested in the primary analysis population with a 1-sided Farrington-Manning test (α = .025). Bleeding and 45-day device-related thrombus rates were exploratory without multiplicity adjustment.<h4>Results</h4>The cohort had a mean age of 76 (SD, 8) years, 42.9% were female, the mean CHA2DS2-VASc score was 4.2 (SD, 1.3), and 68.0% had paroxysmal atrial fibrillation. The primary outcome occurred in 41 patients (6.9%) with DAPT vs 31 (5.1%) with a reduced-dose NOAC (risk ratio, 0.75 [95% CI, 0.48-1.18]; risk difference, -1.7 percentage points; 97.5% upper bound, 1.2) and 20 (3.3%) with aspirin alone (risk ratio, 0.49 [95% CI, 0.29-0.82]; risk difference, -3.5 percentage points; 97.5% upper bound, -0.8). Both monotherapy strategies met noninferiority criteria (P < .001 for noninferiority for both). Major bleeding was 4.5% with DAPT, 2.7% with reduced-dose NOACs, and 1.7% with aspirin alone; clinically relevant nonmajor bleeding was 8.7%, 4.8%, and 3.8%, respectively. Device-related thrombus was observed in 3.4%, 0.9%, and 2.7%, respectively.<h4>Conclusions and relevance</h4>Both reduced-dose NOACs and aspirin alone were noninferior to DAPT for 6-month outcomes after uncomplicated LAAC.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT06521463.
 
@@ -2632,27 +2528,11 @@ Abbott has started a pivotal clinical trial of its investigational Cephea mitral
 
 Apple today announced financial results for its fiscal 2026 fourth quarter ended September 26, 2026.
 
-### [Are you pursuing MRT as a treatment for infertility? Tell us about your experience](https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss`
-
-Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you
-
 ### [Author Correction: Intravascularly infused extracellular matrix as a biomaterial for targeting and treating inflamed tissues](https://www.nature.com/articles/s41551-026-01842-0)
 
 - Source: `nature_biomedical_engineering` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01842-0`
-
-No summary supplied by the source.
-
-### [Can AI Help Repurpose Drugs to Fight Against Antibiotic Resistance?](https://www.jmir.org/article/view/jmir_v28i1e115418)
-
-- Source: `jmir` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115418`
 
 No summary supplied by the source.
 
@@ -2704,14 +2584,6 @@ Background: Continuous patient monitoring generates vast volumes of high-frequen
 
 The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making sure their products meet potency standards.
 
-### [Global, regional and national burden of cervical cancer in 1990–2023 with forecasts to 2050: a Global Burden of Disease study](https://www.nature.com/articles/s41591-026-04729-4)
-
-- Source: `nature_medicine` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04729-4`
-
-Although highly preventable, cervical cancer remains one of the most common malignancies among women worldwide. As part of the Global Burden of Disease study, we estimated cervical cancer incidence, mortality and disability-adjusted life-years (DALYs) across 204 countries and territories from 1990 to 2023, with forecasts to 2050. In 2023, 887,000 new cases (95% uncertainty interval 682,000–1,170,000), 369,000 deaths (292,000–475,000) and 13.3 million DALYs (10.1–17.4) were estimated globally. Age-standardized incidence rate (ASIR) and age-standardized mortality rates (ASMR) were more than four and seven times higher in low- versus high-income countries. Between 1990 and 2023, global ASIR was largely stable (−0.4% (–26.6 to 34.7)), whereas ASMR changed by −17.5% (–36.2 to 13.4). All cervical cancer DALYs were attributable to human papillomavirus infection, with tobacco use contributing 5.9% (3.2–9.3) globally. By 2050, global ASIR and ASMR are forecast to change by −12.5% (–25.7 to 3.5) and −9.0% (–21.5 to 6.6) from 2024, yet absolute cases and deaths are forecast to rise by 20.2% (4.6–38.5) and 39.3% (23.6–57.3). ASIR and ASMR are forecast to remain highest in low-income countries. Intensified action is needed to accelerate progress. Analyses of the Global Burden of Disease study reported 887,000 new cases and 369,000 deaths from cervical cancer worldwide in 2023, which are forecasted to rise by 2050.
-
 ### [Google Messages, Phone by Google, and Google Contacts get new, updated icons.](https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/)
 
 - Source: `fitbit_google_blog` · published `2026-11-02` · freshness `fresh`
@@ -2740,15 +2612,15 @@ Background: The European Health Dataspace (EHDS) expands health data sharing bey
 
 - Source: `jmir` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115030`
+- Event: `updated` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115030`
 
-No summary supplied by the source.
+<img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/ac0e460aff43c954bdeb77814f5a8652" />
 
 ### [Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor](https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/)
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/`
 
 <p><a href="https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/"><img width="747" height="467" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Human_papilloma_virus_HPV.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Human_papilloma_virus_HPV.jpg 747w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Human_papilloma_virus_HPV-300x188.jpg 300w" sizes="auto, (max-width: 747px) 100vw, 747px" /></a></p><p>Inovio’s Voceryq will compete with a Precigen product that last year became the first FDA-approved drug for recurrent respiratory papillomatosis, or RRP. While the two immunotherapies carry the same $460,000 list price, Inovio executives claim their product has another competitive advantage. </p> <p>The post <a href="https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/">Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2772,7 +2644,7 @@ Background: Machine learning has been extensively applied in medical prediction;
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/`
 
 <p><a href="https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode, we’re joined by Dr. Rani Aravamudhan, senior medical director of Artemis at Nomi Health. We discuss Nomi Health’s new research on endometriosis.</p> <p>The post <a href="https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/">MedCity FemFwd: The Gaps in Endometriosis Care</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2808,43 +2680,11 @@ There is an urgent global need for affordable, large-scale health screening to e
 
 The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.
 
-### [STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries](https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss`
-
-The FDA has approved a generic HIV prevention shot, a key step in widening access for dozens of lower-income countries.
-
-### [STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more](https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss`
-
-Four big drugmakers allegedly paid tens of millions of dollars to middlemen to supply lifesaving drugs to Russian government entities
-
-### [STAT+: Psilocybin’s lasting benefits prove elusive in mice](https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss`
-
-Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:
-
-### [STAT+: The health care affordability midterms, and billing urgent care as ER](https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss`
-
-Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills.
-
 ### [TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.](https://doi.org/10.1056/nejmoa2607326)
 
 - Source: `nejm_abstracts` · published `2026-11-02` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970708`
+- Event: `seen` · identity: `pmid:42970708`
 
 <h4>Background</h4>For patients with moderate aortic stenosis, current guidelines recommend clinical surveillance with echocardiographic assessment every 1 or 2 years. Whether transcatheter aortic-valve replacement (TAVR) will improve outcomes in these patients remains unknown.<h4>Methods</h4>We conducted an international, open-label, randomized trial to evaluate whether TAVR will result in better outcomes than clinical surveillance among patients with moderate aortic stenosis with at least one at-risk feature (i.e., a symptom or structural or functional abnormality that has been shown to be associated with faster disease progression or adverse cardiovascular outcomes). The patients were assigned in a 1:1 ratio to undergo transfemoral TAVR with a balloon-expandable valve or clinical surveillance. The primary effectiveness end point was a composite of death from any cause or a heart-failure event with or without hospitalization at 2 years. Superiority testing was performed in the intention-to-treat population.<h4>Results</h4>A total of 744 patients underwent randomization: 373 patients were assigned to the TAVR group and 371 to the clinical-surveillance group. The mean age of patients was 78 years, 39.1% were women, and 45.6% were at low surgical risk. The mean aortic-valve area was 1.2 cm<sup>2</sup>, and the mean aortic-valve peak velocity was 3.3 m per second. At 2 years, the Kaplan-Meier estimate of the percentage of patients with a primary effectiveness end-point event was 16.7% in the TAVR group and 23.9% in the clinical-surveillance group (risk difference, -7.2 percentage points; 95% confidence interval, -13.1 to -1.3; P = 0.02 for superiority). The Kaplan-Meier estimate of the percentage of patients who died from any cause was 8.4% in the TAVR group and 7.3% in the clinical-surveillance group; the estimates for a heart-failure event were 10.8% and 19.0%, respectively. The incidence of procedure-related adverse events did not differ meaningfully between the patients in the TAVR group and those in the clinical-surveillance group who underwent aortic-valve replacement.<h4>Conclusions</h4>Among patients with moderate aortic stenosis and at-risk features, a strategy of TAVR was superior to clinical surveillance in lowering the incidence of death or a heart-failure event at 2 years. (Funded by Edwards Lifesciences; PROGRESS ClinicalTrials.gov number, NCT04889872.).
 
@@ -2856,19 +2696,11 @@ Health care affordability is a major issue for voters, and a new kind of medical
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp">Here are Google’s latest AI updates from October 2026
 
-### [Washington state resident dies from bird flu following exposure to infected cattle](https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss`
-
-A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.
-
 ### [1nhaler raises £2.2m to take pop-up dry-powder inhaler to the clinic](https://www.medicaldevice-network.com/news/1nhaler-raises-2-m-to-take-pop-up-dry-powder-inhaler-to-the-clinic/)
 
 - Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/1nhaler-raises-2-m-to-take-pop-up-dry-powder-inhaler-to-the-clinic/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/1nhaler-raises-2-m-to-take-pop-up-dry-powder-inhaler-to-the-clinic/`
 
 <p>The funding is intended to support 1nhaler's advance towards a regulatory filing for its DPI in 2027.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/1nhaler-raises-2-m-to-take-pop-up-dry-powder-inhaler-to-the-clinic/">1nhaler raises £2.2m to take pop-up dry-powder inhaler to the clinic</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -2884,17 +2716,9 @@ Gastrointestinal (GI) microbiome disruption and impaired GI barrier integrity in
 
 - Source: `npj_digital_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03412-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03412-9`
 
 Clinical management of age-related macular degeneration (AMD) requires longitudinal decisions on disease activity, treatment response, and anti-VEGF injection intervals. These decisions depend on integrating multimodal retinal imaging findings across visits, yet manual synthesis is time-consuming and may omit relevant information, limiting transparency and consistency in follow-up planning. Large language models (LLMs) have been explored to summarize longitudinal AMD information, but existing approaches may lack explicit quantitative grounding and evidence attribution, reducing their auditability in clinical decision support. To address these limitations, we developed AMDagent, an evidence-grounded clinical agent that integrates quantitative imaging analysis with guideline retrieval to generate structured, clinician-facing decision-support outputs. The system links longitudinal imaging findings to actionable management considerations while preserving traceable evidence sources. In a 20-case proof-of-concept evaluation of curated longitudinal AMD cases, AMDagent was rated clinically appropriate in 92.0% of predefined decision-support units under expert adjudication. In addition, 83.3% of audited major clinical claims were explicitly grounded in tool-derived quantitative measurements and/or retrieved guideline evidence, enabling clinician verification. These preliminary findings suggest that evidence-grounded, clinician-facing agents may support more transparent and auditable longitudinal AMD decision support, although larger prospective multi-center studies are needed to assess generalizability and clinical utility.
-
-### [Abbott’s Amulet 360 demonstrates strong one-year outcomes in AFib patients](https://www.medicaldevice-network.com/news/abbott-amulet-360-demonstrates-strong-one-year-outcomes-in-afib-patients/)
-
-- Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/abbott-amulet-360-demonstrates-strong-one-year-outcomes-in-afib-patients/`
-
-<p>By closing off the left atrial appendage (LAA), Abbott's Amulet 360 is designed to reduce stroke risk in AFib patients unsuitable for blood-thinning medication regimens.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/abbott-amulet-360-demonstrates-strong-one-year-outcomes-in-afib-patients/">Abbott’s Amulet 360 demonstrates strong one-year outcomes in AFib patients</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Advancing research and partnering with universities in Singapore](https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/)
 
@@ -2908,7 +2732,7 @@ Clinical management of age-related macular degeneration (AMD) requires longitudi
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970794`
+- Event: `seen` · identity: `pmid:42970794`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Hematology: [Formula: see text].
 
@@ -2916,7 +2740,7 @@ Clinical management of age-related macular degeneration (AMD) requires longitudi
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970808`
+- Event: `seen` · identity: `pmid:42970808`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text].
 
@@ -2924,7 +2748,7 @@ Clinical management of age-related macular degeneration (AMD) requires longitudi
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970800`
+- Event: `seen` · identity: `pmid:42970800`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Hematology: [Formula: see text].
 
@@ -2932,7 +2756,7 @@ Clinical management of age-related macular degeneration (AMD) requires longitudi
 
 - Source: `jmir_ai` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e101944/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e101944/`
 
 Background: Despite growing recognition that AI-driven systems offer transformative benefits for diagnostic imaging, insufficient evidence exists regarding how medical imaging workforces adapt to AI technology to support workforce sustainability. Objective: The aim of this study is to systematically review the existing literature on perceptions and attitudes toward AI adoption in medical imaging, postadoption adaptation behaviors within the workforce, and the implications of these processes for workforce sustainability. Methods: Following the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, a systematic search was carried out across 7 databases. Thematic analysis was used to systematically identify, analyze, and interpret patterns across the literature, providing a comprehensive understanding of workforce perceptions and adaptation behaviors. Results: A total of 69 peer-reviewed articles were included for thematic synthesis. The findings produced 6 critical factors that were identified as themes associated with AI adoption: perceived benefits, trust, readiness to change, autonomy and control, perceived threat to professional identity, and attitudes and intentions toward AI adoption and use. Four key facets of effective cognitive and behavioral adaptation were identified: training and skills development, task performance during AI-assisted practice, reduction of mental health burden and work strain, and policy compliance. The influence of work engagement and job satisfaction on workforce sustainability was also conceptualized. The findings were integrated into a framework describing the radiology workforce perspectives on AI adoption, adaptation behaviors, and workforce sustainability. Conclusions: The findings have potential implications for policy, particularly in strengthening AI-equipped medical imaging systems, fostering trust in AI-driven technologies, and supporting workforce training and upskilling, while considering professional autonomy and role identity. The review highlights a research gap, emphasizing the need for further investigation into postadoption adaptation processes and informing policy development that links AI integration with long-term workforce sustainability in medical imaging. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/1dcbfae43b76673e4d87401d7841b7ab" />
 
@@ -2940,7 +2764,7 @@ Background: Despite growing recognition that AI-driven systems offer transformat
 
 - Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp">Read announcements from Google’s 2026 AI in the Learning Era event.
 
@@ -2948,7 +2772,7 @@ Background: Despite growing recognition that AI-driven systems offer transformat
 
 - Source: `medtech_dive_primary` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873558/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/ai-vendors-health-systems-join-physicians-in-liability-for-clinical-ai/873558/`
 
 Physicians, artificial intelligence developers and healthcare organizations that deploy clinical AI tools all bear distinct responsibilities for ensuring the tools do not cause patient harm, the American Medical Association said in an issue brief released last week. While physicians remain responsible for exercising their clinical judgment, developers are accountable for designing safe AI tools, the physician advocacy group said. At the same time, deployers are responsible for selecting the right tool for clinical scenarios, providing physicians' training and monitoring the AI's performance. Currently, physicians are being asked to become a safety net to protect against clinical AI failures that could harm patients, but that means they may be held accountable for risks that they cannot control and, "in some cases, may not even be able to identify," Jennifer Goldsack, head of the AMA Center on Digital Health and AI, said in an interview.
 
@@ -2956,39 +2780,23 @@ Physicians, artificial intelligence developers and healthcare organizations that
 
 - Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04786-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04786-9`
 
 No summary supplied by the source.
-
-### [Boston Scientific and Blackstone agree on $455m VITALYST heart pump deal](https://www.medicaldevice-network.com/news/boston-scientific-blackstone-vitalyst/)
-
-- Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/boston-scientific-blackstone-vitalyst/`
-
-<p>Boston Scientific and Blackstone Life Sciences (BXLS) have entered a $455m co-funding collaboration for the VITALYST heart pump programme.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/boston-scientific-blackstone-vitalyst/">Boston Scientific and Blackstone agree on $455m VITALYST heart pump deal</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
 ### [Bracco invests $230M to build US plant for injectable contrast media](https://www.medtechdive.com/news/bracco-invests-230m-to-build-us-plant-for-injectable-contrast-media/873539/)
 
 - Source: `medtech_dive_primary` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/bracco-invests-230m-to-build-us-plant-for-injectable-contrast-media/873539/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/bracco-invests-230m-to-build-us-plant-for-injectable-contrast-media/873539/`
 
 Bracco is investing $230 million to construct its first U.S. manufacturing facility for injectable contrast media, the company said last week. Bracco will build the facility in Sanford, North Carolina. The company expects to create 200 jobs and could receive a $2.9 million grant over 12 years. Adding U.S. production capacity could enhance the resilience of the supply chain, which failed to meet demand for iodinated contrast media during a pandemic-related lockdown in 2022.
-
-### [Child dies of measles in New York’s first such death in 30 years](https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss`
-
-A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.
 
 ### [China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October](https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/)
 
 - Source: `crunchbase_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/`
 
 Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15.9 billion funding round for China’s DeepSeek.
 
@@ -2996,7 +2804,7 @@ Global venture funding in October totaled $59 billion, a 45% jump from a year ea
 
 - Source: `jmir_mhealth` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e91720`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e91720`
 
 Background: Early childhood caries (ECC) is a prevalent yet preventable disease that significantly impacts young children’s health and quality of life. The World Health Organization’s highlights the potential of mobile health programs to enhance engagement and support sustained oral health behavior change. Objective: The aim of this study was to assess the effectiveness of the SmilesUp 12-week SMS text messaging–based education and support program to improve parents’ management of their children’s oral health behaviors compared to standard clinical care. Methods: We conducted a multisite, assessor-blinded, parallel-design randomized controlled trial among parents of children aged 0 to 6 years who had an ECC diagnosis and attended 1 of 6 public dental clinics in metropolitan, regional, and rural New South Wales, Australia. Participants were randomly assigned to either an intervention group receiving the fully automated 12-week SmilesUp program (3 SMS text messages weekly) or a control group. Both groups continued to receive usual standard dental clinical treatment. The primary behavioral outcome was parent-reported twice-daily toothbrushing with fluoride toothpaste. Secondary outcomes included adherence to oral health–promoting bedtime routines and child consumption of sugar-sweetened foods and beverages. Oral health self-efficacy was measured using 6 behavioral theory–mapped items across oral hygiene, diet, and bedtime routines. Results: A total of 154 participants were enrolled and randomized (n=78, 50.6% in the control group; n=76, 49.4% in the intervention group) across 6 sites, with 80.5% (124/154) completing the follow-up assessment. High program adherence was observed, with 96.1% (73/76) of intervention participants completing the program. At 12 weeks, a greater proportion of SmilesUp participants reported brushing their children’s teeth twice daily (45/61, 73.8% vs 42/63, 66.7%; adjusted odds ratio [aOR] 2.45, 95% CI 0.95-6.74; =.07), though this difference was not statistically significant. Significant improvements were observed in adherence to bedtime routines (54/61, 88.5% vs 45/63, 71.4%; aOR 3.25, 95% CI 1.15-10.18; =.03) as well as oral health knowledge on toothbrushing (46/50, 92.0% vs 41/52, 78.8%; aOR 5.47, 95% CI 1.48-25.19; =.02). No statistically significant differences were found in sugar-sweetened food (10/61, 16.4% vs 4/63, 6.3%; aOR 3.72, 95% CI 1.02-17.14; =.06) or beverage (25/61, 41.0% vs. 27/63, 42.9%; aOR 1.08, 95% CI 0.49-2.30; =.85) consumption. Conclusions: These findings suggest that co-designed SMS text messaging–based programs show promise and may represent a feasible strategy for oral health behavior change. However, larger-scale and longer-term studies are needed to confirm sustained effectiveness using clinical outcomes. Future research should also explore ways mobile health can be scaled and cost-effectively embedded into comprehensive, interdisciplinary primary models of care. Trial Registration: Australian New Zealand Clinical Trials Registry ACTRN12623000325606; https://anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12623000325606 International Registered Report Identifier (IRRID): RR2-10.1371/journal.pone.0310561
 
@@ -3004,7 +2812,7 @@ Background: Early childhood caries (ECC) is a prevalent yet preventable disease 
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e99718`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e99718`
 
 Background: Illicit substance use disorders (SUDs) are escalating globally; yet, social stigma and legal barriers restrict access to conventional treatment, and existing research remains skewed toward alcohol and nicotine. Digital interventions incorporating cognitive behavioral therapy (CBT) offer a discreet, scalable alternative. Objective: This scoping review maps how CBT-based digital interventions for illicit SUDs are designed and delivered across platforms, identifying their theoretical frameworks, functional components, outcome indicators, and reported methodological limitations. Methods: We followed the Joanna Briggs Institute (JBI) scoping review methodology and reported in accordance with PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews). Six databases (PubMed/MEDLINE, Embase, APA PsycINFO, Web of Science Core Collection, Cochrane Library, and CINAHL) were searched from inception to June 28, 2026, without language, date, or study design limits, supplemented by backward and forward citation searching (July 3, 2026). Eligible studies were empirical primary studies quantitatively evaluating digital interventions incorporating CBT for illicit or nonprescribed substance use; alcohol- or nicotine-only populations were excluded. Three reviewers independently screened and charted all studies, with disagreements resolved by consensus or adjudication. Data were synthesized narratively, with tables, figures, and an evidence gap map. Results: Fifty-six studies published between 2008 and 2026, drawn from 47 distinct participant samples, met the eligibility criteria. Most were conducted in North America (40/56, 71.4%) and used randomized controlled designs (39/56, 69.6%). Polysubstance-using populations were most frequently targeted (32/56, 57.1%), followed by cannabis (13/56, 23.2%), opioids (6/56, 10.7%), and stimulants (5/56, 8.9%). Interventions were delivered mainly via web (24/56, 42.9%) or app (24/56, 42.9%) platforms, and most (49/56, 87.5%) were grounded in traditional CBT, most often combined with contingency management (18/56, 32.1%) or motivational interviewing (17/56, 30.4%). Core functional components included therapeutic intervention (55/56, 98.2%), self-tracking and notification (25/56, 44.6%), reward (24/56, 42.9%), and support and feedback (21/56, 37.5%). Primary outcomes focused on substance use and abstinence (41/56, 73.2%), retention/feasibility (16/56, 28.6%), and mental health status or coping skills (14/56, 25%). Author-reported limitations were predominantly participant-level (52/56, 92.9%), measurement-level (43/56, 76.8%), study-level (34/56, 60.7%), and intervention-level (25/56, 44.6%) domains. Conclusions: Unlike previous reviews confined to a single substance or delivery platform, this review is innovative in mapping CBT-based digital interventions across the full spectrum of illicit substances, including polysubstance use, and in linking their functional components to intended therapeutic mechanisms. It thereby contributes to the development of these technologies and, by synthesizing author-reported limitations, proposes methodological improvements for their future evaluation. At present, CBT-based digital interventions are best positioned as adjuncts that extend the reach and continuity of existing addiction care rather than as stand-alone substitutes for it; substance-specific customization, objective outcome measures, and modular trial designs are needed to establish them as scalable clinical tools. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/d4001338462537328420290fda329085" />
 
@@ -3012,7 +2820,7 @@ Background: Illicit substance use disorders (SUDs) are escalating globally; yet,
 
 - Source: `jmir_ai` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e93862/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e93862/`
 
 Background: Repurposing approved drugs offers a time- and cost-effective alternative to traditional drug development. However, in silico prediction of repurposing candidates is challenging and requires the effective collaboration of specialists in various fields, including pharmacology, medicine, biology, and bioinformatics. Fragmented, specialized algorithms and tools often address only narrow aspects of the overall problem. Heterogeneous, unstructured data landscapes require the expertise of specialized users. Hence, diverse data sources might not integrate smoothly across workflows. Objective: We aimed to develop an integrated, natural language–driven system that enables domain experts to conduct complex network-based drug repurposing analyses by integrating heterogeneous biomedical data sources and specialized bioinformatics methods within a unified workflow. Methods: With ChatDRex, we present a conversation-based, multi-agent system that facilitates the execution of complex bioinformatic analyses aiming for network-based drug repurposing prediction. It builds on the integrated systems medicine knowledge graph NeDRexDB. ChatDRex provides natural language access to its extensive biomedical knowledge base. It integrates bioinformatics agents for network analysis, literature mining, and drug repurposing. These are complemented by agents that evaluate functional coherence for in silico validation. Its flexible multi-agent design assigns specific tasks to specialized agents, including query routing, data retrieval, algorithm execution, and result visualization. A dedicated reasoning module keeps the user in the loop and allows for hallucination detection. Results: ChatDRex operationalizes complex network-based drug repurposing workflows through conversational interaction, integrating biomedical knowledge access with algorithm execution and validation-oriented assessments. Its modular multi-agent architecture enables scalable task specialization across retrieval, analysis, validation, and visualization, while the reasoning module provides transparency and safeguards against unreliable outputs. Conclusions: By enabling researchers with limited computational expertise to control complex analyses with natural language, ChatDRex could democratize access to bioinformatics as an important resource for drug repurposing. It could enable clinical experts to generate hypotheses and explore drug repurposing opportunities, ultimately accelerating the discovery of novel therapies and advancing personalized medicine and translational research. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/45665983e293bdd6857436d37c12b1ec" />
 
@@ -3028,7 +2836,7 @@ Alcohol use disorder (AUD) is a major public health issue yet often under-addres
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970804`
+- Event: `seen` · identity: `pmid:42970804`
 
 <h4>Background</h4>Randomized trials have shown limited benefits and increased risks of adding spinal fusion surgery to decompression for degenerative spondylolisthesis. Decompression with fusion has increasingly been used in the United States.<h4>Objective</h4>To examine the comparative effectiveness of decompression with fusion versus decompression alone for patient subgroups.<h4>Design</h4>Cohort study using the target trial framework.<h4>Setting</h4>Norwegian Registry for Spine Surgery and nested NORDSTEN-DS (Norwegian degenerative spondylolisthesis and spinal stenosis) randomized trial.<h4>Patients</h4>Adults aged 18 to 80 years with lumbar degenerative spondylolisthesis and symptomatic back or leg pain lasting at least 3 months.<h4>Intervention</h4>Lumbar spinal decompression surgery with fusion versus lumbar spinal decompression surgery alone.<h4>Measurements</h4>The primary outcomes were Oswestry Disability Index (ODI) score and reoperation at 12 months. Linear regression models with inverse probability weighting to control for baseline confounding were used to obtain effect estimates with 95% CIs for decompression with fusion versus decompression alone for prespecified subgroups, including sex, age, smoking, body mass index (BMI), back pain intensity, and American Society of Anesthesiologists (ASA) grade.<h4>Results</h4>Of 2252 patients, 236 were in the NORDSTEN-DS randomized trial. The mean age was 66 years, and 1576 (70%) women were included. A total of 1446 patients had decompression alone, and 806 had decompression with fusion; respective unadjusted baseline ODI scores were 38.9 (SD, 14.9) and 41.4 (SD, 14.7). At 12 months, the ODI score was 22.3 (95% CI, 15.5 to 29.1) for decompression alone and 20.0 (CI, 13.9 to 26.2) for decompression with fusion; the mean difference was 2.2 (CI, -1.6 to 6.1). In exploratory analyses, the ODI score was worse for decompression with fusion for men with BMI of 30 kg/m<sup>2</sup> or higher. Reoperation risk at 12 months did not differ.<h4>Limitation</h4>Possible residual confounding.<h4>Conclusion</h4>Patient subgroups did not have differential effects from the addition of fusion to decompression at 12 months.<h4>Primary funding source</h4>Research Council of Norway.
 
@@ -3036,7 +2844,7 @@ Alcohol use disorder (AUD) is a major public health issue yet often under-addres
 
 - Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Designing_responsible_AI_for_le.max-600x600.format-webp.webp">We’re bringing Guided Learning capabilities to Search and Google Classroom, and evolving our approach to school controls.
 
@@ -3044,7 +2852,7 @@ Alcohol use disorder (AUD) is a major public health issue yet often under-addres
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100728`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100728`
 
 Background: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), including semaglutide and tirzepatide, are highly effective for weight management; however, long-term outcomes depend on sustained behavioral engagement. Digital health tools may enhance these behavioral components, but evidence regarding their real-world benefit alongside pharmacotherapy remains limited. Objective: This study aims to evaluate whether augmenting a direct-to-consumer GLP-1 RA program with a behavioral support smartphone app improves weight-loss outcomes compared with medication alone, and to identify which app features are associated with weight loss over time. Methods: A retrospective observational cohort study was conducted using data from 6113 adults (older than 18 years) in Australia who self-enrolled into the Mosh direct-to-consumer weight-loss program between July 1, 2024, and August 13, 2025, with their weight data recorded at baseline and at least 1 other timepoint. Participants received semaglutide or tirzepatide, with optional access to a smartphone app and clinician support. Logistic regression models examined achievement of ≥5%, ≥10%, and ≥15% weight-loss thresholds at 60, 120, and 180 days. Linear mixed-effects models interacting with app feature use, with linear and quadratic time terms, assessed the association of different features with percentage weight loss trajectories over time. Both models adjusted for medication type, gender, ethnicity, age, and baseline BMI. Results: Participants using the program plus medication had higher odds of achieving clinically significant weight loss than those using medication only. Adjusted odds ratio point estimates for day 60, 120, and 180 (±10) days indicated they were 1.38 (95% CI 1.09-1.75) times to 2.22 (95% CI 1.40-3.45) times more likely to achieve ≥5% weight loss across timepoints, 1.67 (95% CI 1.33-2.10) times to 1.97 (95% CI 1.35-2.90) times more likely to achieve ≥10% weight loss by day 120 and 180, and 1.99 (95% CI 1.26-3.29) times more likely to achieve ≥15% weight loss by 180 days. Mixed-effects modeling demonstrated that progress logging was associated with more rapid weight loss over time (β=.26 percentage-point additional weight lost per 30 days, SE 0.06; =4.46; 95% CI 0.14-0.38; &lt;.001). No other app features were consistently associated with changes in weight-loss trajectories. Conclusions: Augmenting GLP-1 RA treatment with a behavioral smartphone app was associated with a higher likelihood of achieving clinically significant weight loss, although differences in overall weight-loss trajectories were modest. Progress logging emerged as the primary behavioral predictor of improved outcomes. While not causal effects, these findings are consistent with the positive value of integrating digital tools with pharmacotherapy for weight loss. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/77e17aeb23bce8319c278be8a83ac593" />
 
@@ -3052,7 +2860,7 @@ Background: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), including sem
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e98625`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e98625`
 
 Background: Subjective cognitive decline (SCD) and mild cognitive impairment (MCI) represent critical windows for early neurocognitive intervention, although access to timely, personalized rehabilitation remains limited. Digital health technologies offer opportunities to deliver scalable and individualized cognitive care; however, their successful implementation depends on an understanding of users’ needs, expectations, and barriers. Within a human-centered design (HCD) framework, actively involving end users during the earliest stages of development is essential to ensure that digital rehabilitation is acceptable, usable, and responsive to real-world rehabilitation needs. Objective: This study explores the experiences, rehabilitation needs, perceptions, and challenges of individuals with SCD and MCI regarding cognitive telerehabilitation. The findings are intended to inform the early-stage co-creation and human-centered development of digital rehabilitation solutions. Methods: The study is framed within an HCD perspective to inform the user-centered development of digital rehabilitation solutions. A convergent mixed methods design was adopted to integrate quantitative assessments with qualitative interviews. The semistructured interview explored 4 thematic domains: neurocognitive abilities, network support, user experience and engagement, and digital divide. Twenty-three individuals with SCD or MCI completed the interview together with measures including the Montreal Cognitive Assessment (MoCA), Cognitive Failures Questionnaire (CFQ), and an ad hoc Technological Expertise questionnaire. Qualitative interview data were analyzed using directed content analysis based on 4 predefined thematic domains by 2 independent raters, with interrater agreement assessed using Cohen κ. Qualitative and quantitative findings were subsequently integrated through exploratory Mann-Whitney tests. Results: Twenty-three participants (n=16 female participants; mean age 74.3, SD 7.35 y) were included. Participants reported preserved cognitive performance (MoCA: mean 24.9, SD 3.23), low-to-moderate perceived cognitive difficulties (CFQ: mean 22.4, SD 9.48), and moderate technological familiarity. Qualitative findings revealed memory (n=12, 52.2%), attention/executive (n=6, 26.1%), and language (n=4, 17.4%) difficulties during everyday activities, together with widespread use of compensatory strategies. Participants also described emotional vulnerability, social withdrawal, and feelings of misunderstanding, as well as delayed rehabilitation access despite reporting cognitive concerns to health care professionals. Although most participants had limited prior knowledge of telerehabilitation, they expressed a positive attitude toward home-based rehabilitation, valuing its convenience, flexibility, autonomy, and accessibility when appropriate technological and clinical support was available. Concerns mainly related to limited supervision, technical barriers, and digital literacy. Mixed methods integration showed that perceived technology-related barriers were associated with lower technological competence (median 1.88, IQR 1.69‐2.56 vs median 3.06, IQR 2.75‐3.59; =.002), while no other significant differences emerged. Conclusions: These findings highlight that effective digital rehabilitation should be developed through iterative, user-informed HCD processes that simultaneously address cognitive, emotional, social, and technological dimensions of early neurocognitive decline. Integrated findings highlight the importance of addressing individual needs and incorporating users’ perspectives from the earliest design phases to support usable, engaging, and accessible digital rehabilitation solutions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/34608bd260c0c8db267ac2e5a44259e0" />
 
@@ -3060,7 +2868,7 @@ Background: Subjective cognitive decline (SCD) and mild cognitive impairment (MC
 
 - Source: `npj_digital_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03393-9`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03393-9`
 
 Pure data-driven artificial intelligence (AI) is insufficient for clinical adoption. This editorial summarizes 31 papers showing that precision medicine requires integrating structural domain knowledge before model training. We identify three necessary transitions: anchoring algorithms in biological laws for mechanistic interpretability; designing collaborative, human-centered clinical interfaces; and scaling equitable, population-level interventions. These shifts advance medical AI from technical novelty toward trustworthy, clinically grounded, and ethically deployed foundational science.
 
@@ -3068,31 +2876,23 @@ Pure data-driven artificial intelligence (AI) is insufficient for clinical adopt
 
 - Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp">A celebration of educator stories from Malaysia, India, Philippines, and the UK, plus new GES sessions and expansion into Spain, Brazil, Australia, and Sub- Saharan Afri…
-
-### [First U.S. bird flu death of the year after cattle exposure](https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss`
-
-A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It’s the first such death this year in the U.S., and the third&#8230;
 
 ### [Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines](https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/)
 
 - Source: `medcity_news` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/`
 
-<p><a href="https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Flagship Pioneering unveiled Etcelera, a new startup formed by combining three of the firm’s portfolio companies. Etcelera&#8217;s approach to drug R&amp;D focuses on “causal intelligence,” which Flagship defines as predicting and understanding cause and effect in biology. </p> <p>The post <a href="https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/">Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Flagship Pioneering unveiled Etcelera, a new startup formed by combining three of the firm’s portfolio companies. Etcelera&#8217;s approach to drug R&amp;D focuses on “causal intelligence,” which Flagship defines as predicting and understanding cause and effect in biology. </p> <p>The post <a href="https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/">Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Generating Population-Linked Case Vignettes From Nationwide Triage Data: Framework Development and Validation Study](https://medinform.jmir.org/2026/1/e104801)
 
 - Source: `jmir_medinform` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e104801`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e104801`
 
 Background: Digital decision-support tools such as triage systems and symptom checkers support millions of health-related decisions each year. Their quality and safety are commonly evaluated using textual patient cases, known as case vignettes. However, expert-written vignette sets cover only a limited spectrum of real-world patient presentations and lack population weights, which would allow extrapolating evaluation results to the underlying patient population. Objective: This study aimed to develop a data-driven framework for automatically generating a human-manageable set of case vignettes from nationwide triage data that capture broad presentation diversity and link each vignette to a quantitative weight reflecting the number of underlying patient assessments. Methods: From 3.2 million triage assessments conducted over 1 year using structured triage software in the German medical on-call service (telephone triage and online self-triage) and at joint contact points of the outpatient emergency care service and hospital emergency departments, we randomly sampled 50,000 cases. Triage questionnaires were converted into semantic embeddings using a German Sentence Transformer model and grouped by agglomerative clustering. For clusters containing sufficient assessments, we generated one representative assessment using a 2-phase simulated annealing optimization that minimized the distance from the cluster centroid while maximizing the number of answered triage questions. Each representative assessment was assigned the size of its source cluster as its sample-based weight. A similarity-based sensitivity analysis assessed whether these weights were preserved in the full 1-year population. Finally, question-answer pairs of the representative assessments were converted into textual case vignettes using controlled prompting of a large language model. Results: The cluster analysis yielded 514 included clusters covering 96.8% of the sampled 50,000 assessments. The generated representatives showed strong agreement with the majority treatment urgency recommendation of their source cluster (Spearman ρ=0.78; <.001) and contained, on average, 4.3 more answered triage questions than the original assessments within their clusters. When weighted by cluster size, the representatives approximated the sample distributions of treatment urgency, demographics, and symptoms, although some systematic deviations remained, most notably an overrepresentation of female cases (13.5%), patients aged 14‐49 (8.0%) years, and the urgency category “As soon as possible” (6.6%). Of 121 recorded symptoms, 101 (83.5%) were covered by the representatives; the rest each occurred in <0.5% of the sample. Cluster-based vignette weights were strongly correlated with similarity-based population weights (Spearman ρ=0.77; <.001), and 90.1% of assessments in the full 1-year population matched at least one vignette. Conclusions: We present a data-driven framework for deriving a manageable set of population-weighted case vignettes from nationwide triage data. The resulting vignettes captured broad presentation diversity, approximated key sample characteristics, and provided an explicit quantitative link to the number of underlying assessments. After medical expert review and refinement, the vignettes may support more population-aware evaluation and quality assurance of digital decision-support tools.
 
@@ -3100,9 +2900,9 @@ Background: Digital decision-support tools such as triage systems and symptom ch
 
 - Source: `medcity_news` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/`
 
-<p><a href="https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg" class="attachment-large size-large wp-post-image" alt="Close-up of caregiver holding senior client hand. Support from nurse to patient, taking care of elderly man in hospital. Emotional support and care in healthcare, hospice care." style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Rebuilding trust across a fragmented healthcare landscape demands that payers and providers alike move beyond transactional relationships and prioritize transparency, empathy, and tailored communication.</p> <p>The post <a href="https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/">Healthcare&#8217;s Trust Crisis Is an Experience Crisis</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg" class="attachment-large size-large wp-post-image" alt="Close-up of caregiver holding senior client hand. Support from nurse to patient, taking care of elderly man in hospital. Emotional support and care in healthcare, hospice care." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Rebuilding trust across a fragmented healthcare landscape demands that payers and providers alike move beyond transactional relationships and prioritize transparency, empathy, and tailored communication.</p> <p>The post <a href="https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/">Healthcare&#8217;s Trust Crisis Is an Experience Crisis</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Heterogeneity of microbiome responses to menopausal hormone therapy among perimenopausal women](https://www.nature.com/articles/s41591-026-04737-4)
 
@@ -3112,19 +2912,11 @@ Background: Digital decision-support tools such as triage systems and symptom ch
 
 Menopausal hormone therapy (MHT) alleviates climacteric symptoms, yet its microbiome-wide effects and efficacy determinants remain unclear. Here we show that oral estradiol/dydrogesterone, given for 6 months to 356 perimenopausal women, improved neuroendocrine, metabolic and symptom outcomes and induced site-specific microbial remodeling. Vaginocervical and urinary niches showed the most pronounced restructuring, with moderate oral and minimal gut changes. MHT increased vaginocervical Lactobacillus crispatus and reduced Gardnerella vaginalis. Higher baseline vaginocervical L. crispatus predicted greater postintervention vaginocervical and urinary colonization and superior Female Sexual Function Index improvement. Baseline vaginocervical community types determined differential outcomes: G. vaginalis-dominated individuals shifted most toward healthier communities, whereas diversified individuals improved least. MHT efficacy also varied according to baseline gut community type: Phocaeicola vulgatus-dominated women exhibited greater hormonal responsiveness, superior clinical outcomes and were more likely to achieve 4-week rapid clinical remission than Prevotella copri-dominated women. These findings support a precision MHT framework integrating gut and vaginocervical community typing for personalized care. Chictr.org.cn ID: ChiCTR2100049768 . In this study, the gut, oral, urinary and vaginocervical microbiomes of women receiving menopausal hormone therapy were studied over 6 months, shedding light on how system metagenomics can inform clinical response and care.
 
-### [HistoSonics gains Singapore approval for Edison histotripsy system](https://www.medicaldevice-network.com/news/histosonics-singapore-approval-edison/)
-
-- Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/histosonics-singapore-approval-edison/`
-
-<p>HistoSonics has secured regulatory clearance in Singapore for its Edison histotripsy system from the Health Sciences Authority (HSA).</p> <p>The post <a href="https://www.medicaldevice-network.com/news/histosonics-singapore-approval-edison/">HistoSonics gains Singapore approval for Edison histotripsy system</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [How should the FDA regulate generative AI in medtech? Here are 5 takes](https://www.medtechdive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873608/)
 
 - Source: `medtech_dive_primary` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873608/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/how-should-the-fda-regulate-generative-ai-in-medtech-here-are-5-takes/873608/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/88pXye_BonuI47zwYTyHKjgCMOWHWUSGp6wV3s7CPdU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwLmpwZw==.webp"/></div></figure><p>Patients, providers and medtech firms submitted hundreds of comments to the Food and Drug Administration on how the agency should approach generative AI in medical devices.</p>
 
@@ -3132,7 +2924,7 @@ Menopausal hormone therapy (MHT) alleviates climacteric symptoms, yet its microb
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105987`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105987`
 
 Background: Digital decision-support tools, such as the Stroke Triage App (STA), may enhance prehospital triage and clinical decision-making for suspected patients with stroke. However, implementation of decision-support tools and their impact on clinical practice remains insufficiently studied. Objective: This study aimed to investigate paramedics’ experiences with the implementation of the STA in prehospital practice by evaluating the implementation process, the implementation outcomes, and its impact on clinical workflows, while considering contextual factors that may have influenced these dimensions. Methods: STA implementation was evaluated among paramedics in 2 emergency medical services regions in the Netherlands using a sequential mixed methods approach. Actual usage data were extracted from the STA dashboard. Usability, perceived impact, and contextual factors were explored using an online survey and semistructured interviews. Results: Monthly triages ranged from 52 to 153 (median 120, IQR 107‐131). Paramedics’ individual STA use ranged from 1 to 47 times (median 7, IQR 3‐13). Out of 246 paramedics with an account, 76 (31%) completed the survey, and 9 (4%) participated in semistructured interviews. The STA was generally well accepted, supporting structured neurological assessment and communication. Swift technical support, frequent promotion, and use of local ambassadors facilitated STA use. Clinical urgency, poor workflow integration, and limited perceived added value hampered STA use. Users recommended improvements in mobile interface, login features, and additional explanation with triage advice. Conclusions: This study demonstrates that the STA achieved substantial reach and initial adoption within the prehospital setting. However, widespread acceptance did not consistently translate into routine integration in daily practice. Successful implementation depends as much on addressing organizational and human factors as on technical performance. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2fa17e3d848c017b008250810e10c88e" />
 
@@ -3140,7 +2932,7 @@ Background: Digital decision-support tools, such as the Stroke Triage App (STA),
 
 - Source: `jmir_medinform` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e96245`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e96245`
 
 Background: AI scribing tools to assist health care providers by generating clinical notes are rapidly spreading across health care settings. Although these tools may reduce documentation burden, successful implementation depends on the contextual factors influencing their integration into clinical practice. Implementation evaluations are needed to inform practice integration, guide future adoption, and enhance effective use of this novel technology. Objective: This study aims to explore contextual factors influencing the implementation of an AI scribe for physicians in the ambulatory setting. Methods: This study was a single-site qualitative implementation evaluation at a metropolitan university health system where the AI scribe was available across primary and specialty care clinics. The Practical, Robust Implementation and Sustainability Model (PRISM) and the Sociotechnical Systems framework guided the evaluation. Using maximum variation sampling, we recruited attending physicians with varied levels of AI scribe use. Semistructured interviews were conducted with attending physicians working in the ambulatory setting. Data collection and analysis occurred iteratively until thematic saturation was achieved. Interviews were analyzed using thematic analysis with a constant comparative method, incorporating both deductive and inductive coding. Resulting subthemes were mapped onto corresponding domains of the PRISM and Sociotechnical Systems frameworks. Results: A total of 25 physicians were interviewed, including 7 who had never used the AI scribe, 9 who used it minimally, and 9 who used it frequently. Participants represented a broad range of specialties. A total of 5 themes and 15 subthemes emerged. First, workflow integration influenced adoption. Limitations in customization were a barrier to adoption, while flexibility among users was critical to fit. Second, ease of tool usability facilitated initial adoption, whereby users tried the tool without paying close attention to training materials. However, this lack of training engagement hindered widespread sustained use due to limited knowledge of advanced functionalities. Third, attending physicians balanced trust and confidence in AI-generated documentation with mistrust and professional accountability. Many described a “trust but verify” approach. Also, some concerns about others’ inadequate review of AI-generated content weakened physician-physician trust. Fourth, attending physicians viewed the ubiquitous presence of AI scribing as inevitable, driven by organizational priorities related to productivity, cost, and burnout. Interviewees disagreed about the appropriate use of AI scribes by trainees. Finally, identical mechanisms were viewed as both benefits and drawbacks. Increased efficiency from AI documentation was perceived by some as reducing burden and cognitive load, but perceived by others as potentially intensifying workload expectations. Similarly, some thought AI scribes facilitated more patient-centered communication, while others thought it had the opposite impact. Conclusions: Implementation of AI scribes in ambulatory care is shaped by complex sociotechnical and contextual factors. Adoption is influenced by workflow alignment, trust, and preexisting beliefs about the tool’s benefits and drawbacks, illustrating how clinical context affects AI scribe implementation.
 
@@ -3148,7 +2940,7 @@ Background: AI scribing tools to assist health care providers by generating clin
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e92384`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e92384`
 
 Background: People living with long-term physical health conditions who are also experiencing subthreshold depression are at risk of developing major depression. In partnership with lived experience experts, clinicians, and software developers, we co-designed CommonGround, an online peer support and psychoeducation platform. CommonGround’s Theory of Change (ToC) was also conceptualized to outline the intermediate outcomes (and associated indicators of whether such outcomes are achieved) needed to improve the mental health of the target population. Objective: This qualitative study, informed by the ToC, aimed to examine the acceptability, usability, and intervention mechanisms of CommonGround and ultimately refine the ToC and corresponding intervention design ahead of definitive evaluation. Methods: A nested qualitative study was conducted within a remote, 12-week feasibility randomized controlled trial comparing CommonGround (intervention group) to signposting to National Health Service (NHS) web pages (control group). Thirty-nine participants were purposively sampled and interviewed within 6 weeks postintervention about their experiences of CommonGround and trial participation. The interview schedule and thematic framework analysis were rooted in a pretrial ToC while being responsive to emergent themes. Results: Evaluating the assumptions and intermediate outcomes (via their indicators) refined our understanding of how CommonGround may support mental well-being. Overall, participants viewed CommonGround as an appropriate, safe space to access self-management information and support from others with a unique shared understanding of chronic illness. However, many participants felt more time was needed for genuine social relations to form and community culture to evolve. Anonymity helped foster a sense of safety but, for some participants, limited the formation of genuine connections. Other factors contributing to low engagement included personal circumstances (eg, limited time). Key suggestions for future development included creating a mobile app that would be easier and more intuitive to access and navigate. Conclusions: CommonGround was considered an acceptable and appropriate space to access peer support, with the potential to positively impact psychological well-being by fostering shared understanding, support, and knowledge exchange. Beyond informing the future evaluation of CommonGround in a definitive trial, the refined ToC identifies the key preconditions, intermediate outcomes, and associated indicators, and assumptions that may underpin the acceptability and usability of digital peer support interventions in achieving their intended outcomes. We also demonstrate how evaluating and refining components of the ToC after the intervention had been implemented in the trial enabled a more nuanced understanding of how and why the intervention may work, for whom, under what circumstances, and informed changes to improve the co-designed intervention. Trial Registration: ClinicalTrials.gov NCT06222346; https://clinicaltrials.gov/study/NCT06222346 International Registered Report Identifier (IRRID): RR2-10.2196/71513 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/e166b3dca457bc414db4b6e4da34c857" />
 
@@ -3156,7 +2948,7 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970806`
+- Event: `seen` · identity: `pmid:42970806`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Endocrinology: [Formula: see text].
 
@@ -3164,7 +2956,7 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970795`
+- Event: `seen` · identity: `pmid:42970795`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Allerg & Immunol: [Formula: see text] Dermatology: [Formula: see text].
 
@@ -3172,7 +2964,7 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970797`
+- Event: `seen` · identity: `pmid:42970797`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Cardiology: [Formula: see text] Nephrology: [Formula: see text].
 
@@ -3180,7 +2972,7 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970796`
+- Event: `seen` · identity: `pmid:42970796`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Hematology: [Formula: see text].
 
@@ -3188,7 +2980,7 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970798`
+- Event: `seen` · identity: `pmid:42970798`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Endocrinology: [Formula: see text].
 
@@ -3196,7 +2988,7 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970805`
+- Event: `seen` · identity: `pmid:42970805`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Endocrinology: [Formula: see text].
 
@@ -3204,15 +2996,23 @@ Background: People living with long-term physical health conditions who are also
 
 - Source: `jmir_medinform` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e113778`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e113778`
 
 Biomedical and health informatics (BMHI) has traditionally focused on human-centric clinical data to support individual patient care and health systems. However, contemporary health challenges driven by climate change, biodiversity loss, and ecological degradation demand an expanded paradigm that addresses interdependencies among human, animal, and environmental health. This editorial introduces a new JMIR Medical Informatics section on “Planetary Health Informatics” (PHI), an essential evolution extending informatics praxis beyond human healthcare toward Earth’s interconnected systems. JMIR Medical Informatics is launching a call for papers for a new section dedicated to advancing PHI theory, methods, and applications for a sustainable future shaped by human impact on Earth. We invite authors to submit work that explores how PHI integrates species, ecosystem, and geophysical data to address critical global challenges, including metagenomic disease surveillance, climate-related hazard forecasting, environmental pollution monitoring, and health infrastructure decarbonization. By synthesizing broader ecological frameworks, we present a roadmap for transforming fragmented data streams into planetary-scale intelligence.
+
+### [Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.](https://doi.org/10.1016/s0140-6736(26)02104-5)
+
+- Source: `lancet_abstracts` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `pmid:42976899`
+
+Percutaneous coronary intervention (PCI) with drug-eluting stents has been widely used to treat patients with left main coronary artery disease; however, long-term comparative outcomes versus coronary artery bypass grafting (CABG) in real-world populations remain poorly characterised. We aimed to compare long-term all-cause mortality after PCI or CABG in Asian patients with unprotected left main coronary artery disease. We analysed prospectively collected data from the multicentre IRIS-MAIN registry, conducted at 46 hospitals in South Korea, India, Japan, Indonesia, and Malaysia. The registry enrolled adults aged 18 years or older with unprotected left main coronary artery disease (defined as a stenosis diameter of ≥50% as visually estimated on angiography), who had been treated with PCI, CABG, or medical therapy alone. The primary outcome was all-cause mortality. We used a target trial emulation framework to compare the long-term risk of all-cause mortality between PCI with drug-eluting stents and isolated CABG. We used propensity-score overlap weighting to adjust for measured baseline covariates. The IRIS-MAIN Registry study is registered with ClinicalTrials.gov (NCT01341327). Between Jan 1, 2003, and Dec 31, 2024, 6900 patients were enrolled in the IRIS-MAIN registry, of whom 5379 (78·0%) underwent coronary revascularisation through either PCI with drug-eluting stents (3836 [71·3%]) or CABG (1543 [28·7%]) and were included in the analysis. The median duration of follow-up for all patients was 10·0 years (IQR 5·0-16·7). In the overlap-weighted population, no statistically detectable difference in 10-year weighted Kaplan-Meier rates of all-cause mortality was observed between PCI and CABG (24·0% vs 22·9%; overlap-weighted hazard ratio 1·00 [95% CI 0·87-1·14]; p=0·99). The confidence interval does not exclude a mortality benefit or harm with either strategy. In this non-randomised registry analysis of patients with left main coronary artery disease, there was no statistically detectable difference in all-cause mortality between PCI and CABG. For patients considered suitable for either strategy, multidisciplinary Heart Team discussion might help patients and clinicians weigh potential trade-offs in the choice between PCI and CABG. These findings are observational and cannot establish causal treatment effects or equivalence in survival. The CardioVascular Research Foundation (South Korea).
 
 ### [Looser Health IT Certification Requirements Shift Oversight to Health Systems](https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/)
 
 - Source: `medcity_news` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/`
 
 <p><a href="https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/"><img width="591" height="591" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399.jpg 591w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-300x300.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-150x150.jpg 150w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-550x550.jpg 550w, https://medcitynews.com/wp-content/uploads/sites/7/2021/08/GettyImages-1219954399-470x470.jpg 470w" sizes="auto, (max-width: 591px) 100vw, 591px" /></a></p><p>The U.S. Department of Health and Human Services (HHS) is rolling back several health IT certification requirements that could reduce certification costs for technology developers. But they may leave hospitals and health systems holding more responsibility for evaluating the safety and performance of the AI tools they purchase.</p> <p>The post <a href="https://medcitynews.com/2026/11/looser-health-it-certification-requirements-shift-oversight-to-health-systems/">Looser Health IT Certification Requirements Shift Oversight to Health Systems</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3220,7 +3020,7 @@ Biomedical and health informatics (BMHI) has traditionally focused on human-cent
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970799`
+- Event: `seen` · identity: `pmid:42970799`
 
 Measles is reemerging, with cases and outbreaks increasing across the United States and other countries where measles had previously been eliminated. Most U.S. physicians have no experience with treating measles. However, the increasing likelihood of encountering not only children but also adults with measles requires a clinical review of the epidemiology, prevention, diagnosis, and management of this previously uncommon infection for general internal medicine physicians and hospitalists who care for adults in settings with measles reemergence. Prompt clinical suspicion, infection control measures, and notification of public health departments support timely diagnosis and disease control.
 
@@ -3228,7 +3028,7 @@ Measles is reemerging, with cases and outbreaks increasing across the United Sta
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93373`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93373`
 
 &lt;strong&gt;Background:&lt;/strong&gt; In Vietnam, antibiotic use without involvement of health care professionals is common in the community, despite the legal requirement for a prescription. In low- and middle-income countries, mobile health (mHealth) is perceived as having the potential to improve community health care at low cost. &lt;strong&gt;Objective:&lt;/strong&gt; In this study, we aimed to explore the relationship between mobile phone ownership and health-seeking behaviors among caregivers of children aged 5 years or younger to inform the design of an mHealth intervention to improve antibiotic use practices in the community. &lt;strong&gt;Methods:&lt;/strong&gt; A convergent mixed methods approach combined a cross-sectional household survey and in-depth interviews (IDIs). We surveyed 450 households with children aged 5 years or younger and interviewed caregivers about their health-seeking behaviors and how they engage with mobile technology to inform their health care decisions and antibiotic use. Qualitative data were collected through IDIs and focus group discussions (FGDs) with a purposive sample of household survey respondents. Data collection was conducted between June and September 2023 at 2 sites: 1 urban and 1 rural area in a northern province of Vietnam. Factors associated with using mobile phones to seek health care information were identified through multivariable logistic regression and thematic analysis. Quantitative and qualitative findings were then integrated to provide contextual insights. &lt;strong&gt;Results:&lt;/strong&gt; For the quantitative household survey, 450 of 460 approached households completed the survey. For the qualitative component, 38 of 60 approached caregivers participated in 4 FGDs and 6 IDIs. Almost all households had an internet connection (444/450, 98.7%, 95% CI 97.1%-99.4%). While 80.2% (308/384, 95% CI 75.9%-83.9%) of caregivers used mobile devices to access child health care information, only 27.1% (29/107, 95% CI 19.6%-36.2%) reported using the internet to obtain antibiotic-related information. Older caregivers (adjusted odds ratio [aOR] 0.65, 95% CI 0.43-0.99) and caregivers living in the urban area (aOR 0.45, 95% CI 0.24-0.85) were less likely to seek health-related information online using mobile devices than younger or rural caregivers, respectively. In contrast, a higher level of caregiver education was significantly associated with more favorable engagement in online health information–seeking behavior (aOR 2.73, 95% CI 1.61-4.61). Caregivers demonstrated highly active and intentional online information-seeking behaviors, driven by a strong desire to enhance their knowledge and confidence in making childcare and treatment decisions. Qualitative findings highlighted a need for trustworthy, professionally supported digital health platforms tailored to child health and antibiotic use. &lt;strong&gt;Conclusions:&lt;/strong&gt; This study highlights caregivers’ health care information–seeking behaviors and engagement with digital technologies for antibiotic-related information, demonstrating the potential of mobile phones to support antibiotic-related decision-making and improve antibiotic use practices. These findings provide insights to inform the design of context-appropriate mHealth interventions to support caregivers in making decisions about antibiotic use. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/b1d7ad5467066637035087ee798cc63c" />
 
@@ -3236,7 +3036,7 @@ Measles is reemerging, with cases and outbreaks increasing across the United Sta
 
 - Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp">New research shows Guided Learning drives higher learning gains, plus new features for Google Classroom.
 
@@ -3252,31 +3052,15 @@ Vagus nerve stimulation has shown promising neuroprotective and anti-inflammator
 
 - Source: `nih_funding` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-025.html`
+- Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-025.html`
 
 Notice NOT-MH-27-025 from the NIH Guide for Grants and Contracts
-
-### [Opinion: How meditation helped me become a better doctor overnight](https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/traumatic-eye-injuries-ophthalmologist-meditation-psychology/?utm_campaign=rss`
-
-“The inner work of meditation and self-inquiry can support the outer work of patient care,” writes a physician.
-
-### [Opinion: What the 2024 electoral map reveals about America’s mortality divide](https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/electoral-map-reveals-red-state-blue-state-mortality-gap/?utm_campaign=rss`
-
-Leading drivers of mortality look different according to political geography, experts write.
 
 ### [Podcast: the outpatient centre care shift](https://www.medicaldevice-network.com/comment/podcast-the-outpatient-centre-care-shift/)
 
 - Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-the-outpatient-centre-care-shift/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-the-outpatient-centre-care-shift/`
 
 <p>Oath Surgical currently operates three outpatient surgical centres in Oregon and Arizona.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/podcast-the-outpatient-centre-care-shift/">Podcast: the outpatient centre care shift</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3292,7 +3076,7 @@ Shift work, or working outside of normal circadian cycles, is associated with bo
 
 - Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/sponsored/prevention-monitoring-devices-for-preventative-care-in-cardiovascular-patients/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/sponsored/prevention-monitoring-devices-for-preventative-care-in-cardiovascular-patients/`
 
 <p>Advanced monitoring devices provide preventative care that effectively manages CVD risks and improves patient outcomes.</p> <p>The post <a href="https://www.medicaldevice-network.com/sponsored/prevention-monitoring-devices-for-preventative-care-in-cardiovascular-patients/">Prevention: Monitoring devices for preventative care in cardiovascular patients</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3300,7 +3084,7 @@ Shift work, or working outside of normal circadian cycles, is associated with bo
 
 - Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04792-x`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04792-x`
 
 No summary supplied by the source.
 
@@ -3308,7 +3092,7 @@ No summary supplied by the source.
 
 - Source: `apple_newsroom` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/`
 
 Apple announced expanded language support for the redesigned Health app, bringing personalized health insights to millions of people worldwide.
 
@@ -3316,7 +3100,7 @@ Apple announced expanded language support for the redesigned Health app, bringin
 
 - Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04743-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04743-6`
 
 Amsokigene autoleucel (amsoki-cel, OBX-115) is a tumor-infiltrating lymphocyte (TIL) cell therapy engineered to express acetazolamide (ACZ)-regulatable membrane-bound interleukin-15, abrogating the need for interleukin-2. In two single-arm trials (completed phase 1 single-center first-in-human (FIH) and ongoing phase 1/2 multicenter Agni-01), patients with immune checkpoint inhibitor (ICI)-resistant advanced melanoma received lymphodepletion and varying doses and schedules of amsoki-cel and ACZ. The primary objective of FIH and Agni-01 phase 1 was safety, tolerability and recommended phase 2 dose (RP2D); the primary objective of Agni-01 phase 2 was objective response rate (ORR) at the RP2D. The first patient treated experienced rapid lymphocyte expansion and vasogenic edema of a previously irradiated brain metastasis, prompting protocol modifications and dose deescalation in FIH, including 80% reduction in maximum amsoki-cel dose and 75% reduction in ACZ dose. After preliminary demonstration of safety at the lower dose, doses were increased in FIH, and reescalation was initiated in Agni-01. Across studies, 37 patients were treated (FIH, n = 17; Agni-01, n = 20). Post hoc pooled analysis demonstrated no dose-limiting toxicities, ICU care or treatment-related mortality. Most common grade 3 or higher treatment-emergent adverse events (TEAEs) included neutropenia (64.9% (24/37)), leukopenia/lymphopenia (56.8% (21/37) each) and anemia/thrombocytopenia (37.8% (14/37) each). Serious TEAEs were reported for 10 patients, including eight patients with grade 3 or higher events (non-hematologic, 13.5% (5/37); hematologic, 13.5% (5/37)). RP2D was selected based on overall safety and tolerability as well as preliminary anti-tumor activity in Agni-01 phase 1. The phase 2 preliminary ORR was 66.7% (6/9). In total, 15 patients were treated at RP2D and comprise the Key Efficacy Set (Agni-01: phase 1, n = 6; phase 2, n = 9), of which 10 patients (66.7%; 95% confidence interval 38−88%) achieved objective responses (including two complete responses). Amsoki-cel demonstrated favorable safety and promising early clinical activity in patients with ICI-resistant melanoma. A separate phase 2 pivotal Agni-01 cohort is ongoing. ClinicalTrials.gov identifiers: NCT05470283 and NCT06060613 . As presented at the Society for Immunotherapy of Cancer 2026 Annual Meeting, in a non-prespecified pooled analysis of two trials, amsokigene autoleucel, an autologous tumor-infiltrating lymphocyte therapy engineered to eliminate the need for IL-2, was successfully manufactured and well tolerated and showed a preliminary clinical efficacy signal in patients with immune checkpoint inhibitor-refractory melanoma.
 
@@ -3324,7 +3108,7 @@ Amsokigene autoleucel (amsoki-cel, OBX-115) is a tumor-infiltrating lymphocyte (
 
 - Source: `npj_digital_medicine` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03426-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03426-3`
 
 Medical artificial intelligence (AI) holds considerable promise across a wide range of ophthalmic tasks, offering a practical path to patient-level diagnostic support. Foundation models further extend this potential by learning generalizable representations from large-scale unlabeled data, alleviating the burden of extensive manual annotation. However, existing ophthalmic foundation models largely rely on single-modality or modality-specific encoders, failing to capture patient-level cross-modal correspondence in real-world multimodal clinical workflows. To address these gaps, we propose RETBind, a patient-level multimodal foundation model with a unified encoder that explicitly learns cross-modal correspondence from paired clinical imaging using patient-level paired optical coherence tomography (OCT) and ultra-widefield (UWF) fundus imaging. This patient-level paired pretraining strategy enables the model to learn unified cross-modal representations of complementary information, improv-ing performance and robustness beyond single-modality approaches. Across nine benchmark datasets spanning ocular disease classification and segmentation tasks, RETBind achieved consistent improvements, particularly enhancing AUPR in clinically relevant imbalanced settings. Exploratory analyses further examined the potential of RETBind for systemic disease prediction from retinal imaging, collectively highlighting its ability to learn unified cross-modal representations within a single shared encoder, enabling direct interaction between modalities and supporting transfer across diverse retinal imaging tasks.
 
@@ -3332,7 +3116,7 @@ Medical artificial intelligence (AI) holds considerable promise across a wide ra
 
 - Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/roche-cobas-eplex-rp3-respiratory-infection-test-fda-clearance/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/roche-cobas-eplex-rp3-respiratory-infection-test-fda-clearance/`
 
 <p>This FDA clearance adds another panel to Roche's respiratory testing portfolio, which includes diagnostic and laboratory-based options.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/roche-cobas-eplex-rp3-respiratory-infection-test-fda-clearance/">Roche lands FDA clearance for respiratory testing panel </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3340,15 +3124,15 @@ Medical artificial intelligence (AI) holds considerable promise across a wide ra
 
 - Source: `hn_ai_health_signals` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://uncracked.city/`
+- Event: `updated` · identity: `url:https://uncracked.city/`
 
-Hacker News community signal; score 78.
+Hacker News community signal; score 119.
 
 ### [Spinal cord stimulator lawsuits surge: what is going wrong?](https://www.medicaldevice-network.com/features/spinal-cord-stimulator-lawsuits-surge-what-is-going-wrong/)
 
 - Source: `medical_device_network` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/features/spinal-cord-stimulator-lawsuits-surge-what-is-going-wrong/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/features/spinal-cord-stimulator-lawsuits-surge-what-is-going-wrong/`
 
 <p>Despite FDA approval and strong efficacy data, the leading SCS manufacturers are currently all facing personal injury lawsuits.</p> <p>The post <a href="https://www.medicaldevice-network.com/features/spinal-cord-stimulator-lawsuits-surge-what-is-going-wrong/">Spinal cord stimulator lawsuits surge: what is going wrong?</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3356,7 +3140,7 @@ Hacker News community signal; score 78.
 
 - Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/mass-general-brigham-layoffs-ceo-letter-staff-anxiety/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/mass-general-brigham-layoffs-ceo-letter-staff-anxiety/?utm_campaign=rss`
 
 A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs.
 
@@ -3364,7 +3148,7 @@ A cryptic email sent to Mass General Brigham employees by the health system's CE
 
 - Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/?utm_campaign=rss`
 
 In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more.
 
@@ -3372,7 +3156,7 @@ In this edition of STAT Health Tech: Federal officials look to work with states 
 
 - Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/03/generic-hiv-prevention-shot-lonza-buying-facilities-in-us/?utm_campaign=rss`
 
 The FDA gave tentative approval to Dr. Reddy’s Laboratories to make a generic version of a groundbreaking HIV prevention medicine
 
@@ -3380,7 +3164,7 @@ The FDA gave tentative approval to Dr. Reddy’s Laboratories to make a generic 
 
 - Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss`
 
 Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment.
 
@@ -3388,7 +3172,7 @@ Servier reports a surprise setback for a drug being tested for a form of muscula
 
 - Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/midterm-election-health-care-issues-dc-diagnosis-newsletter/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/midterm-election-health-care-issues-dc-diagnosis-newsletter/?utm_campaign=rss`
 
 STAT unpacks what the midterms mean for health policy, MAHA, and health insurance.
 
@@ -3396,7 +3180,7 @@ STAT unpacks what the midterms mean for health policy, MAHA, and health insuranc
 
 - Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss`
 
 The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit&#8230;
 
@@ -3404,7 +3188,7 @@ The biotech Compass Pathways has been seen as one of the frontrunners in the rac
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e83637`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e83637`
 
 Background: Social media and search engine tech companies, such as Google, use the wealth of data at their disposal to create algorithms to predict suicide risk and provide interventions based on company policies and outputs from these algorithms. Neither the details of these algorithms nor their accuracy in risk prediction are shared with the public; thus, research is needed to verify whether algorithms applied to search engine data can accurately predict suicide risk in a platform user. This paper provides new information about the methodological challenges in studying the value of search engine data for suicide prediction. Objective: This paper describes the study methods and experiences regarding recruiting and retaining participants in a year-long, fully remote prospective cohort study of suicide prediction in people with variable risk of suicide, using Google Search data. Methods: We aimed to recruit 1000 United States–dwelling and English-speaking adults with current suicidal ideation who fell into 1 of 3 categories: participants with a suicide attempt in the past year, participants with a lifetime suicide attempt but not one in the past year, and participants with no suicide attempt in their lifetime. Recruitment sources included online advertisements hosted on various websites, to differing levels of success. Participants completed online surveys and an interview via Zoom to enroll in the study and then were sent follow-up surveys every 2 weeks for the year following initial enrollment. Recruitment was conducted from March 2022 to January 2024, with follow-up data being collected through February 2025. Results: Of 15,120 records created in our Research Electronic Data Capture (REDCap) survey system, 485 participants were eligible to participate in the prospective year of the study. Recruitment challenges were mainly due to participant dropout across all enrollment time points, with 63.7% (9636/15,120) of the prescreening sample dropping out or refusing. Other issues included the difficulty of downloading Google Search data (446/3277, 13.6%) and not having enough data to meet the inclusion criteria among those who were able to successfully donate (252/3277, 7.7%). Lastly, the study encountered fraudulent behavior, with 489 of 15,120 records (3.2%) being identified as fraudulent over the course of the study. Conclusions: Despite past success with remote clinical research methods, we found that recruitment can be significantly hampered by fraudulent participation, despite the use of state-of-the-art methods to mitigate this problem. Further, the ability to acquire useful Google Search data is extremely challenging and necessitates the use of technical assistance and continuous monitoring of Google Takeout data structure to ensure accurate and complete data donations. The solutions we provide for this type of research should be helpful for future endeavors. However, research is still limited by the barriers to obtaining data from technology companies. These limitations have significant implications in detecting the accuracy and utility of suicide prediction from search engine data. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/5cf3127adadf95f7da1c8232e18e4da2" />
 
@@ -3412,7 +3196,7 @@ Background: Social media and search engine tech companies, such as Google, use t
 
 - Source: `jmir` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e95241`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e95241`
 
 Head and neck squamous cell carcinoma (HNSCC) represents a significant public health challenge. Its treatment is characterized by high anatomical complexity and a critical need for functional preservation of speech, swallowing, and respiration. While multimodality care, including surgery, radiotherapy, and systemic therapy, has substantially improved patient survival, there are still high rates of life-altering toxicities and low response rates to immunotherapy. Current clinical decision-making largely relies on “digital snapshots”—static representations derived from population-based statistics and time point–specific imaging—which usually fail to account for the rapid anatomical and biological change during the course of treatment. Digital twins hold great promise in accelerating scientific breakthroughs and transforming oncology treatment and precision medicine through the creation of high-fidelity virtual patient representations that integrate real-time biological, anatomical, and clinical data. In this viewpoint, we propose 3 interconnected digital twins to establish a conceptual framework for the HNSCC digital twin. These digital twins include the anatomical twin, using virtual surgical planning and augmented reality for geometric precision; the dosimetric twin, using daily imaging and synthetic computed tomography generation for automated adaptive radiotherapy; and the biological twin, integrating deep phenotyping, radiomics, and mechanistic omics to simulate individualized therapeutic trajectories. Beyond acute care, we explore the clinical utility of digital twins in navigating the “de-escalation dilemma” for human papillomavirus–associated disease and improving survivorship through digital phenotyping. With the advent of longitudinal data from medical-grade Internet-of-Things sensors and circulating tumor DNA kinetics, digital twins can serve as active sentinels, detecting functional decline or subclinical events months before clinical manifestation. Furthermore, the implementation of synthetic control arms via virtual populations offers an avenue to accelerate clinical trials and address ethical issues in rare molecular subtypes. Despite this potential, substantial barriers to implementation remain, including profound anatomical instability during treatment, the “black box” nature of deep learning algorithms, and the challenges of multiscale data integration. We provide a technical roadmap for the development of “morphing” digital twins—dynamic systems capable of continuous geometric and biological auditing. By bridging the gap between the macroscopic world of radiation physics and the microscopic world of cellular evolution, digital twins may help shift the management of HNSCC from population-based statistical probability toward more individualized, biologically informed decision-making, with the goal of optimizing HNSCC management while preserving essential patient functions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/66e3555fac25db22dd305d6a69f0b7a7" />
 
@@ -3420,9 +3204,9 @@ Head and neck squamous cell carcinoma (HNSCC) represents a significant public he
 
 - Source: `medcity_news` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/`
 
-<p><a href="https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/lawsuit.jpg" class="attachment-large size-large wp-post-image" alt="Judge gavel with Justice lawyers, Businessman" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/lawsuit.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/lawsuit-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>The FTC sent warning letters to 25 health plan marketers over potentially deceptive marketing practices, following its earlier letters to healthcare services companies about price transparency.</p> <p>The post <a href="https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/">The FTC Is Flexing Its Muscle in Healthcare</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/lawsuit.jpg" class="attachment-large size-large wp-post-image" alt="Judge gavel with Justice lawyers, Businessman" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/lawsuit.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/lawsuit-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>The FTC sent warning letters to 25 health plan marketers over potentially deceptive marketing practices, following its earlier letters to healthcare services companies about price transparency.</p> <p>The post <a href="https://medcitynews.com/2026/11/the-ftc-is-flexing-its-muscle-in-healthcare/">The FTC Is Flexing Its Muscle in Healthcare</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [The TEMPO program and the future of digital mental health regulation in the US](https://www.nature.com/articles/s41746-026-03464-x)
 
@@ -3436,7 +3220,7 @@ The high burden of traditional FDA clearance drives many novel, AI-enabled menta
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `pmid:42970801`
+- Event: `seen` · identity: `pmid:42970801`
 
 <h4>Background</h4>Long COVID (LC) is widespread; however, limited information has been reported on the likelihood that symptoms remit over time.<h4>Objective</h4>To evaluate the likelihood of improvement among persons with likely LC.<h4>Design</h4>Prospective, multisite cohort study (RECOVER-Adult [Researching COVID to Enhance Recovery]).<h4>Setting</h4>83 U.S.-based sites across 33 states; Washington, DC; and Puerto Rico.<h4>Participants</h4>1019 persons in RECOVER-Adult with likely LC (LC Research Index [LCRI] ≥11) 12 months after first SARS-CoV-2 infection.<h4>Measurements</h4>The primary outcome was time until 2 consecutive study visits with LCRI less than 11. Secondary outcomes were time until LCRI measure reduced 50% or more and quality of life was good or better, and LCRI decreased to 0. Unadjusted estimates of cumulative incidence and adjusted marginal cumulative incidence by age, sex, SARS-CoV-2 wave, and LC subtype were reported across all follow-up time points.<h4>Results</h4>An estimated 36.2% (95% CI, 33.0% to 39.5%) met the primary outcome by 24 months after infection, and 50.1% (CI, 46.1% to 54.0%) met the primary outcome by 36 months. An estimated 56.4% (CI, 52.2% to 60.4%) and 26.9% (CI, 23.3% to 30.5%), respectively, met the 2 secondary outcomes by 36 months. Among persons who still reported likely LC at 18 months and 24 months after first infection, relative timing of subsequent symptom improvement was similar.<h4>Limitation</h4>Findings in this observational cohort are interpretable in a population with prevalent likely LC and do not address causal relationships between individual characteristics and symptom improvement.<h4>Conclusion</h4>Among persons with likely LC 12 months after initial SARS-CoV-2 infection, one half experience meaningful reductions in symptoms by 36 months, whereas a quarter experience complete remission of symptoms. These findings underscore both the potential for natural recovery and the urgent need for placebo-controlled therapeutic intervention trials.<h4>Primary funding source</h4>National Institutes of Health.
 
@@ -3444,7 +3228,7 @@ The high burden of traditional FDA clearance drives many novel, AI-enabled menta
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `pmid:42970803`
+- Event: `seen` · identity: `pmid:42970803`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text].
 
@@ -3452,7 +3236,7 @@ The high burden of traditional FDA clearance drives many novel, AI-enabled menta
 
 - Source: `fitbit_google_blog` · published `2026-11-03` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp">Google.org is funding five organizations to build AI tools for teachers. See how these initiatives support educators and students. Get the details.
 
@@ -3464,35 +3248,75 @@ The high burden of traditional FDA clearance drives many novel, AI-enabled menta
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp">Google combines built-in protections with local partnerships and education to tackle scams in APAC.
 
-### [‘Three-parent IVF’ was supposed to prevent mitochondrial disease. Studies are raising doubts](https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss)
+### [3 takeaways from TCT 2026](https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/)
 
-- Source: `stat_news_feed` · published `2026-11-03` · freshness `fresh`
+- Source: `medtech_dive_primary` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/three-parent-ivf-safety-ethics-questions-mitochondrial-replacement-technology/?utm_campaign=rss`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/`
 
-Scientists and ethicists are rethinking the potential risks and benefits of a technology to prevent babies from inheriting rare mitochondrial diseases.
+<figure><div><img src="https://imgproxy.divecdn.com/4Ggk5Koq3I3o5twdrhgwfZFWRQuXyMETkmSc2DhIHMA/g:nowe:0:25/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc0MjY5NjMuanBn.webp"/></div></figure><p>Edwards&rsquo; TAVR device in moderate aortic stenosis drew applause from meeting attendees, while Medtronic&rsquo;s renal denervation and Abbott&rsquo;s left atrial appendage closure devices also produced positive study results.</p>
 
 ### [A tumor transcriptomic atlas across eight decades of life reveals distinct features of early-onset colorectal cancer](https://www.nature.com/articles/s41591-026-04771-2)
 
 - Source: `nature_medicine` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04771-2`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04771-2`
 
 The incidence of early-onset colorectal cancer is rising, but whether it is biologically distinct from average-onset disease is unclear. Mapping of the transcriptome of colorectal tumors across the age continuum shows that tumors in younger adults contain more stromal cells and have increased expression of long non-coding RNAs and genes associated with epithelial-to-mesenchymal transition.
+
+### [Breast Cancer Survivorship Is a Menopause Problem Nobody Owns](https://medcitynews.com/2026/11/breast-cancer-survivorship-is-a-menopause-problem-nobody-owns/)
+
+- Source: `medcity_news` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/breast-cancer-survivorship-is-a-menopause-problem-nobody-owns/`
+
+<p><a href="https://medcitynews.com/2026/11/breast-cancer-survivorship-is-a-menopause-problem-nobody-owns/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/07/GettyImages-1165309517-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/07/GettyImages-1165309517-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/07/GettyImages-1165309517-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/07/GettyImages-1165309517.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>For all the pink ribbons we see, women with breast cancer are abandoning one of the most effective treatments they have because of symptoms no one in their care team is clearly responsible for.</p> <p>The post <a href="https://medcitynews.com/2026/11/breast-cancer-survivorship-is-a-menopause-problem-nobody-owns/">Breast Cancer Survivorship Is a Menopause Problem Nobody Owns</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Correction: Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case Studies and Social Media Data](https://www.jmir.org/article/view/jmir_v28i1e114623)
+
+- Source: `jmir` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e114623`
+
+This is a correction of &quot;Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case Studies and Social Media Data&quot;.
+
+### [Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States](https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/)
+
+- Source: `crunchbase_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/`
+
+So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years’ past due to five states shifting to purple in the most recent election.
 
 ### [GE HealthCare adds new capabilities for Vscan Air ultrasound system](https://www.medicaldevice-network.com/news/ge-healthcare-capabilities-vscan-air-system/)
 
 - Source: `medical_device_network` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/ge-healthcare-capabilities-vscan-air-system/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ge-healthcare-capabilities-vscan-air-system/`
 
 <p>GE HealthCare has introduced two AI-assisted features, AutoAS and Lung Guidance, for its Vscan Air handheld ultrasound system.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ge-healthcare-capabilities-vscan-air-system/">GE HealthCare adds new capabilities for Vscan Air ultrasound system</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Global temperature-related mortality associated with El-Nino Southern Oscillation](https://www.nature.com/articles/s41591-026-04793-w)
+
+- Source: `nature_medicine` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04793-w`
+
+El Niño-Southern Oscillation (ENSO) influences the global climate through interconnected atmospheric processes, yet its impact on global and regional temperature-related mortality burden remains unquantified. Here, we integrate global temperature and mortality databases with epidemiological models to assess temperature-related mortality associated with ENSO variability and intensity. During very strong El Niño years, the large amounts of heat released into the atmosphere are associated with an increase in global heat-related mortality of +28.87% (+107,035 annual deaths; 95% eCI: 27,336 to 176,312), and a decrease in global cold-related mortality of −3.70% (−112,681 annual deaths; 95% eCI: -207,619 to -22,203). Increase in heat-related mortality was concentrated in low and medium HDI countries, which accounted for 67.65% of the global increase, with the largest increase in medium HDI countries (+61,863 annual deaths; 95% eCI: 19,939 to 105,888), while point estimates of the combined heat and cold burden suggest a shift of the total burden from high toward lower HDI countries. In a context of continuously warming temperatures, our results indicate that forthcoming El Niño events have the potential to represent new public health challenges, underscoring the need for climate-informed preparedness actions. Epidemiological estimates suggest that global heat-related mortality increased by 29% during very strong El Niño years, with the greatest burdens occurring in low- and medium- Human Development Index regions.
+
+### [Impact of Ambient Scribes on Primary Care Communication Pathways: Qualitative Observation and Interview Study](https://medinform.jmir.org/2026/1/e104647)
+
+- Source: `jmir_medinform` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e104647`
+
+<strong>Background:</strong> The administrative burden of manual documentation has been a primary driver of physician burnout and a barrier to patient-centered care. Ambient scribes have emerged as a promising solution that uses passive audio capture and natural language processing to automate clinical note-taking. While their impact on clinical efficiency is frequently studied, there is a lack of research on how these tools have impacted interpersonal communication during clinical encounters. <strong>Objective:</strong> This study investigates the communication pathways and interactional shifts that occur when ambient scribes are integrated into primary care, with a focus on how physicians adapt their behavior to accommodate an ambient digital listener. <strong>Methods:</strong> We conducted a qualitative study with 17 licensed family practice physicians in the Greater Toronto Area who use ambient scribes in their daily practice. Data collection included observations from in-person clinical shadowing (n=5) and think-aloud walk-throughs (n=12), each followed by semistructured interviews; reported findings are predominantly drawn from interview data. We analyzed the combined dataset using iterative thematic analysis and open coding to identify affordances and constraints along 3 communication pathways: physician-to-patient, physician-to-patient-and-scribe, and physician-to-note. <strong>Results:</strong> Along the physician-to-patient pathway, participants reported that ambient scribes increased their capacity to demonstrate active listening, with some reporting greater attentiveness to nonverbal cues, yet introducing the technology to patients to obtain consent consumed limited consultation time, particularly when addressing sensitive health concerns. Along the physician-to-patient-and-scribe pathway, participants appreciated how ambient scribes acted as a forcing function for physicians to verbalize their clinical reasoning to enhance patient comprehension, as well as their scribes’ ability to follow and organize nonlinear conversations. However, they reported that scribes frequently omitted implicit information (eg, deictic gestures) or created unintended documentation artifacts (eg, casual remarks about family members) that required post hoc corrections. Along the physician-to-note pathway, participants reported that scribes optimized their note-taking workflows and enabled note manipulation via spoken words for some physicians but recalling patient information to fix transcription errors and support patient follow-ups proved challenging. <strong>Conclusions:</strong> Integrating ambient scribes introduces a triadic interactional dynamic into traditionally dyadic patient consultations. Clinicians must continuously navigate the boundaries between patient-facing empathy and scribe-facing precision, deciding when to articulate clinical reasoning aloud and when to exercise verbal discretion regarding sensitive disclosures. While ambient scribes effectively reduce in-encounter computer screen time, they do not eliminate documentation overhead—they redistribute it from real-time typing to postencounter cognitive recall and verbal note curation. To prevent delayed cognitive fatigue from postencounter error verification, we suggest that future ambient scribes should move beyond passive transcription to incorporate interactive recall scaffolding and context-aware error prevention.
 
 ### [Most Venture Capital Is Going To Companies That Are Founded Or Led By Billionaires](https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/)
 
 - Source: `crunchbase_news_feed` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/`
 
 More than half of all seed- through growth-stage venture capital raised in the U.S. so far in 2026 went to seven companies founded or led by men who are already billionaires. Together, these companies raised more than $260 billion in equity funding in the first 10 months of the year.
 
@@ -3500,7 +3324,7 @@ More than half of all seed- through growth-stage venture capital raised in the U
 
 - Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/?utm_campaign=rss`
 
 “To be honest, in Malta, I pay for medical care all the time. I just pay differently,” writes Mariska Breland.
 
@@ -3508,23 +3332,135 @@ More than half of all seed- through growth-stage venture capital raised in the U
 
 - Source: `nature_medicine` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04745-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04745-4`
 
 Resectable non-small cell lung cancer (NSCLC) carries a high risk of postoperative recurrence, underscoring the need for effective perioperative therapies. This nonrandomized, noncomparative phase 2 trial evaluated neoadjuvant ivonescimab monotherapy (cohort 1) or in combination with chemotherapy (cohort 2), followed by surgery and adjuvant ivonescimab. In cohort 2, the major pathological response (MPR) rate was 70.1% (47/67; 95% confidence interval (CI) = 57.7–80.7); the lower bound of the 80% two-sided CI exceeded the historical control rate of 41% and the primary endpoint was met. The MPR rate in cohort 1 was 60.0% (6/10; 95% CI = 26.2–87.8). Among patients who achieved MPR, 83.3% (5/6) in cohort 1 and 97.9% (46/47) in cohort 2 had residual viable tumor (RVT) of ≤5%, respectively. Grade 3 or higher treatment-related adverse events (AEs) occurred in 36.4% (4/11) patients in cohort 1 and 30.4% (24/79) of those in cohort 2, with no grade 3 or higher hemorrhage or treatment-related death. Treatment-related surgery delay occurred in one (1.3%) patient. Surgery-related AEs related to ivonescimab occurred in 10.0% (1/10) and 10.4% (7/67) patients in the two cohorts, respectively, with no grade 3 or higher events reported. These data support perioperative ivonescimab with or without chemotherapy as a promising strategy for resectable NSCLC. ClinicalTrials.gov identifier: NCT05247684 . In a nonrandomized phase 2 trial, patients with resectable non-small cell lung cancer received perioperative ivonescimab as monotherapy or with chemotherapy, leading to encouraging pathological response rates in both cohorts, and sustained circulating tumor DNA negativity throughout neoadjuvant therapy may be predictive of response.
+
+### [Philips reports positive Q3; outlines €288m recall settlement with DoJ](https://www.medicaldevice-network.com/news/philips-reports-positive-q3-outlines-e288m-recall-settlement-with-doj/)
+
+- Source: `medical_device_network` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/philips-reports-positive-q3-outlines-e288m-recall-settlement-with-doj/`
+
+<p>The DoJ settlement relates to Philips subsidiary Respironics global recall of 15 million faulty sleep apnoea devices in 2021.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/philips-reports-positive-q3-outlines-e288m-recall-settlement-with-doj/">Philips reports positive Q3; outlines €288m recall settlement with DoJ</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Philips settles with DOJ over recalled CPAP machines](https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/)
+
+- Source: `medtech_dive_primary` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/`
+
+Philips reached an agreement with the Department of Justice to pay 288 million euros (about $322 million) to settle criminal and civil investigations related to its recall of millions of sleep and respiratory devices, the company disclosed Tuesday. Philips began the recall of more than 15 million devices in 2021 after finding soundproofing foam could break down and be inhaled by users. The recall included continuous positive airway pressure and bilevel positive airway pressure machines, as well as ventilators. The settlement is separate from a consent decree the Food and Drug Administration struck with Philips in 2024, which has barred the sale of certain respiratory devices in the U.S. until Philips meets requirements set out by the agency.
+
+### [Servier Stumbles in Muscle Disease as Drug From $1.5B Deal Fails Pivotal Test](https://medcitynews.com/2026/11/servier-becker-muscular-dystrophy-sevasemten-myosin-inhibitor-rare-disease/)
+
+- Source: `medcity_news` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/servier-becker-muscular-dystrophy-sevasemten-myosin-inhibitor-rare-disease/`
+
+<p><a href="https://medcitynews.com/2026/11/servier-becker-muscular-dystrophy-sevasemten-myosin-inhibitor-rare-disease/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Servier.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Servier.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Servier-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Servier-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>Servier’s sevasemten came from the acquisition of the muscular dystrophy assets of Edgewise Therapeutics. While the small molecule had met the goal of a Phase 2 test in Becker muscular dystrophy, Servier said new results in a pivotal cohort do not show statistically significant benefit. </p> <p>The post <a href="https://medcitynews.com/2026/11/servier-becker-muscular-dystrophy-sevasemten-myosin-inhibitor-rare-disease/">Servier Stumbles in Muscle Disease as Drug From $1.5B Deal Fails Pivotal Test</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [STAT+: A looming deadline to fund the government will shape Congress’ unusual lame duck session](https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/?utm_campaign=rss`
+
+Before Democrats take control, Congress must fund expiring health care programs and confirm HHS nominees.
+
+### [STAT+: CVS Health to split, reversing years of deal-making to combine pharmacies and insurance](https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss`
+
+CVS Health’s decision to split comes amid federal and state scrutiny over vertical integration.
+
+### [STAT+: Democratic doctors and scientists ride the blue wave](https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss`
+
+The clinicians and researchers who will take office are ready to tackle the U.S. health care system.
 
 ### [STAT+: Democrats win power to push back on Trump’s health care moves](https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss`
 
 Democrats win Senate control, and with it the power to push back on Trump’s health care moves.
+
+### [STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns](https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss`
+
+Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.
+
+### [STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug](https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/?utm_campaign=rss`
+
+A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues.
+
+### [STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout](https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss`
+
+Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry.
+
+### [STAT+: Pharmalittle: We’re reading about CVS plans to split up, FDA inspections in India and China and more](https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/?utm_campaign=rss`
+
+The Trump administration will survey key components of pharmaceutical production in order to identify domestic supply chain vulnerabilities.
+
+### [STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees](https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss`
+
+The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.
+
+### [STAT+: The biotech startups skipping AI for drug discovery](https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/?utm_campaign=rss`
+
+In this edition of AI Prognosis: These biotech startups don't think drug discovery is where AI can make the biggest difference.
+
+### [STAT+: Ultragenyx cuts staff after another study fails](https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss`
+
+Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs.
+
+### [STAT+: Where does MAHA go from here? 3 possible futures](https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss`
+
+Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures.
 
 ### [StimLabs commercially launches DermaForm scaffold in US](https://www.medicaldevice-network.com/news/stimlabs-launches-dermaform-scaffold-us/)
 
 - Source: `medical_device_network` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/stimlabs-launches-dermaform-scaffold-us/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/stimlabs-launches-dermaform-scaffold-us/`
 
 <p>StimLabs has commercially launched DermaForm, a 510(k)-cleared porcine collagen scaffold, to manage acute and chronic wounds across the US.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/stimlabs-launches-dermaform-scaffold-us/">StimLabs commercially launches DermaForm scaffold in US</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3532,9 +3468,73 @@ Democrats win Senate control, and with it the power to push back on Trump’s he
 
 - Source: `fitbit_google_blog` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp">Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.
+
+### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
+
+- Source: `crunchbase_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `28` · status: `scored`
+- Event: `updated` · identity: `url:https://news.crunchbase.com/startups/tech-layoffs/`
+
+Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.
+
+### [Top health takeaways from the midterm elections](https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss`
+
+Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.
+
+### [Trump’s healthcare plans under contention after Democrats’ midterm landslide](https://www.medicaldevice-network.com/news/us-midterms-2026-healthcare-impact/)
+
+- Source: `medical_device_network` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/us-midterms-2026-healthcare-impact/`
+
+<p>Experts note that Democrats are likely to place Trump’s MFN deals under the microscope and vie to reverse sweeping Medicaid cuts following the midterm results.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/us-midterms-2026-healthcare-impact/">Trump’s healthcare plans under contention after Democrats&#8217; midterm landslide </a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Watch Henry Cavill build a video game on his Googlebook](https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/)
+
+- Source: `fitbit_google_blog` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp">Henry Cavill built a video game on his Googlebook to help support men’s health.
+
+### [We're sharing our framework for building safer and more helpful AI for health.](https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/)
+
+- Source: `fitbit_google_blog` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp">Many of us have turned to AI with a health question or received care from a doctor who’s using it. The adoption of technology for health is accelerating and impacts bill…
+
+### [When Patients Become Consumers: The New Care Stack Collides With Legacy Healthcare](https://medcitynews.com/2026/11/when-patients-become-consumers-the-new-care-stack-collides-with-legacy-healthcare/)
+
+- Source: `medcity_news` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/when-patients-become-consumers-the-new-care-stack-collides-with-legacy-healthcare/`
+
+<p><a href="https://medcitynews.com/2026/11/when-patients-become-consumers-the-new-care-stack-collides-with-legacy-healthcare/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/speed.jpg" class="attachment-large size-large wp-post-image" alt="Digital generated image of arrow sign made out of cubes connected together into pattern on white background." style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/speed.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/speed-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>To succeed, our healthcare system must fully embrace consumer-focused product design to address demands of scale, access, and daily usability that the market is revealing. </p> <p>The post <a href="https://medcitynews.com/2026/11/when-patients-become-consumers-the-new-care-stack-collides-with-legacy-healthcare/">When Patients Become Consumers: The New Care Stack Collides With Legacy Healthcare</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [Zimmer Biomet stock rises 9% after reporting positive Q3](https://www.medicaldevice-network.com/news/zimmer-biomet-stock-rises-9-after-reporting-positive-q3/)
+
+- Source: `medical_device_network` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/zimmer-biomet-stock-rises-9-after-reporting-positive-q3/`
+
+<p>The orthopaedics giant now expects 2026 earnings to land in the $8.50-$8.60 per share range.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/zimmer-biomet-stock-rises-9-after-reporting-positive-q3/">Zimmer Biomet stock rises 9% after reporting positive Q3</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Zimmer raises sales forecast despite slower knee business](https://www.medtechdive.com/news/zimmer-raises-sales-forecast-despite-slower-knee-business/873760/)
+
+- Source: `medtech_dive_primary` · published `2026-11-04` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medtechdive.com/news/zimmer-raises-sales-forecast-despite-slower-knee-business/873760/`
+
+<figure><div><img src="https://imgproxy.divecdn.com/tJAeuE2vkxFKXSOh1GkP2dteAIOAmqkeQgYzx4O-KmI/g:nowe:0:34/c:1500:847/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg4MzczNTQ2LmpwZw==.webp"/></div></figure><p>CEO Ivan Tornos did not attribute the company&rsquo;s performance in knees to a broader market slowdown, as competitor Stryker did last week.</p>
 
 ---
 
