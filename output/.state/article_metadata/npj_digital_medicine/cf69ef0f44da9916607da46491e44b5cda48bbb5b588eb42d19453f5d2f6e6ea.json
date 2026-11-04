@@ -1,0 +1,5 @@
+{
+  "summary": "Pure data-driven artificial intelligence (AI) is insufficient for clinical adoption. This editorial summarizes 31 papers showing that precision medicine requires integrating structural domain knowledge before model training. We identify three necessary transitions: anchoring algorithms in biological laws for mechanistic interpretability; designing collaborative, human-centered clinical interfaces; and scaling equitable, population-level interventions. These shifts advance medical AI from technical novelty toward trustworthy, clinically grounded, and ethically deployed foundational science.",
+  "summary_source": "https://www.nature.com/articles/s41746-026-03393-9",
+  "url": "https://www.nature.com/articles/s41746-026-03393-9"
+}

@@ -1,32 +1,32 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-03T11:56:09+00:00",
-  "as_of": "2026-11-03",
+  "generated_at": "2026-11-04T12:09:04+00:00",
+  "as_of": "2026-11-04",
   "count": 1,
   "items": [
     {
-      "id": "pmid:42925880",
-      "title": "14 天与 28 天三氟尿苷-替匹拉西加贝伐单抗治疗难治性转移性结直肠癌 (PRABITAS)：一项在日本进行的实用、多中心、开放标签、随机、3 期非劣效性试验。",
-      "original_title": "14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.",
-      "summary": "背景曲氟尿苷-替吡嘧啶 (FTD-TPI) 联合贝伐珠单抗是难治性转移性结直肠癌的标准治疗方法。然而，常规方案经常与血液学和胃肠道毒性相关，这具有临床意义并且与患者相关。已提出简化的 14 天治疗方案以减少毒性，但随机试验尚未确定这种治疗是否能保留生存。因此，我们的目的是评估 14 天的计划是否不劣于传统的总生存期计划。方法 PRABITAS 是一项在日本 178 家医院进行的务实、多中心、开放标签、随机、3 期非劣效性试验。",
-      "url": "https://doi.org/10.1016/s0140-6736(26)01782-4",
-      "source": "The Lancet · 摘要索引",
+      "id": "pmid:42804178",
+      "title": "1990-2019 年美国食品和药物管理局批准的小分子药物专利。",
+      "original_title": "Patents on Small-Molecule Drugs Approved by the US Food and Drug Administration, 1990-2019.",
+      "summary": "重要性 专利保护允许制药公司在市场独占期间对处方药收取高价，而其到期通常决定仿制药竞争对手何时可以进入美国市场。药物活性成分的专利被归类为主要专利，而制剂、使用方法和递送装置的专利则属于非主要专利。目的 评估美国食品和药物管理局 (FDA) 批准的药物的药品专利组合随时间的变化情况。证据审查对 1990 年至 2019 年 FDA 批准的小分子药物专利进行了检查和评估，以了解每种产品的专利数量和类型的变化。",
+      "url": "https://doi.org/10.1001/jama.2026.16139",
+      "source": "JAMA · 摘要索引",
       "source_type": "期刊论文",
-      "published_at": "2026-10-24",
+      "published_at": "2026-11-01",
       "topics": [
-        "hospital",
         "research",
-        "business"
+        "business",
+        "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
-          "lancet_abstracts"
+          "jama_abstracts"
         ],
         "retrieved_via": "europe_pmc",
-        "source_id": "lancet_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/42925880",
-        "upstream_id": "42925880"
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/42804178",
+        "upstream_id": "42804178"
       },
       "sections": [
         "research"
@@ -36,24 +36,20 @@
           "papers"
         ]
       },
-      "research_stages": [
-        "data",
-        "analysis",
-        "validation"
-      ],
+      "research_stages": [],
       "recommendation_reasons": {
-        "research": "随机III期非劣效试验（972例）显示14天给药方案总生存不劣于标准28天方案且显著降低中性粒细胞减少等毒性，可直接影响难治性转移性结直肠癌的处方实践和后续研究设计。局限为开放标签设计、日本单国实施，两例治疗相关死亡需关注。"
+        "research": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。"
       },
-      "reading_value_score": 77,
+      "reading_value_score": 72,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-10-26T10:09:18+00:00",
-        "input_hash": "f8d4dedaa54bbe49735f6769582ea56e6d8c91fb957e28f10b2b55cd9773c0c8",
+        "evaluated_at": "2026-10-04T08:22:39+00:00",
+        "input_hash": "a7ddf6635f8d75590430e06890829a8821b7c8658db46844991e19eda0a8f3fc",
         "input_scope": "source_summary",
         "policy_version": "26b6dbc3481e046c",
-        "reason": "随机III期非劣效试验（972例）显示14天给药方案总生存不劣于标准28天方案且显著降低中性粒细胞减少等毒性，可直接影响难治性转移性结直肠癌的处方实践和后续研究设计。局限为开放标签设计、日本单国实施，两例治疗相关死亡需关注。",
+        "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
         "reviews": [
           {
             "audiences": [
@@ -61,31 +57,31 @@
             ],
             "axes": {
               "evidence": 8,
-              "novelty": 7,
+              "novelty": 6,
               "relevance": 8,
-              "significance": 8,
+              "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "随机III期非劣效试验（972例）显示14天给药方案总生存不劣于标准28天方案且显著降低中性粒细胞减少等毒性，可直接影响难治性转移性结直肠癌的处方实践和后续研究设计。局限为开放标签设计、日本单国实施，两例治疗相关死亡需关注。",
+            "reason": "基于1981个FDA批准小分子药、10940项专利的30年系统分析，量化了非主要专利（84%）对仿制药竞争的阻碍和平均6.1年的独占期延长，对药价政策与仿制药进入研究有实证价值。局限在于属于回顾性专利数据库分析，未直接评估临床或患者结局。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "2026102618091062f51332cff94fe0",
-              "seconds": 3.9,
+              "request_id": "202610041622291454b9fea0514119",
+              "seconds": 4.49,
               "usage": {
-                "completion_tokens": 162,
+                "completion_tokens": 205,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 4
+                  "reasoning_tokens": 46
                 },
-                "prompt_tokens": 1646,
+                "prompt_tokens": 1240,
                 "prompt_tokens_details": {
                   "cached_tokens": 0
                 },
-                "total_tokens": 1808
+                "total_tokens": 1445
               }
             },
-            "support": "A 14-day schedule of FTD-TPI plus bevacizumab was non-inferior to the conventional 28-day schedule for overall survival, while reducing haematological and gastrointestinal toxicity.",
-            "total": 77
+            "support": "The mean number of patents per drug increased from 2.1 in 1990 to 6.9 in 2019, driven primarily by nonprimary patents.",
+            "total": 72
           },
           {
             "audiences": [
@@ -94,33 +90,33 @@
             "axes": {
               "evidence": 8,
               "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "972例随机III期非劣效试验，直接支持将14天FTD-TPI+贝伐方案确立为难治性转移性结直肠癌新标准，毒性显著降低（3级以上中性粒细胞减少13%对39%）。为临床实践与指南更新提供高质量证据；限制为开放标签设计且非劣效界值较宽（HR上限1.08接近1.25边界），两例治疗相关死亡需关注。",
+            "reason": "对FDA 1990-2019年批准的1981个小分子药及10940项专利的系统量化分析，提供了非核心专利延长市场独占期（中位4.7年）和诉讼频率的新实证数据，对药价、专利策略与仿制药竞争研究有参考价值；局限在于属回顾性专利数据研究，不涉及临床疗效，因果推断有限。",
             "receipt": {
               "model": "glm-5.3-flash",
-              "request_id": "202610261809148958ed70a66b4a01",
-              "seconds": 3.94,
+              "request_id": "202610041622340f89271acf7e4a55",
+              "seconds": 5.97,
               "usage": {
-                "completion_tokens": 180,
+                "completion_tokens": 299,
                 "completion_tokens_details": {
-                  "reasoning_tokens": 0
+                  "reasoning_tokens": 139
                 },
-                "prompt_tokens": 1646,
+                "prompt_tokens": 1240,
                 "prompt_tokens_details": {
-                  "cached_tokens": 1600
+                  "cached_tokens": 0
                 },
-                "total_tokens": 1826
+                "total_tokens": 1539
               }
             },
-            "support": "A 14-day schedule of FTD-TPI plus bevacizumab was non-inferior to the conventional 28-day schedule for overall survival, while reducing haematological and gastrointestinal toxicity",
-            "total": 77
+            "support": "The FDA approved 1981 small-molecule drugs during the study period, and manufacturers listed 10 940 patents on these drugs.",
+            "total": 72
           }
         ],
-        "score": 77,
+        "score": 72,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
