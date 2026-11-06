@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T12:07:02+00:00",
-  "as_of": "2026-11-06",
+  "generated_at": "2026-11-06T19:57:18+00:00",
+  "as_of": "2026-11-07",
   "count": 1,
   "items": [
     {
@@ -18,14 +18,12 @@
         "business",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-11-06T01:33:54+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/42804178",
         "upstream_id": "42804178"
