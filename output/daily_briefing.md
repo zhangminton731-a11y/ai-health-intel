@@ -3318,7 +3318,7 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://arxiv.org/abs/2610.21375`
 
-Hacker News community signal; score 102.
+Hacker News community signal; score 109.
 
 ### [Most people haven’t heard of kratom. What is it, and who’s using it?](https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss)
 
@@ -3540,7 +3540,7 @@ Two newly elected lawmakers with science backgrounds hope to push back against T
 
 - Source: `npj_digital_medicine` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03450-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03450-3`
 
 Long-term cardiovascular disease (CVD) risk prediction remains a major global clinical priority. This study investigates how much prognostic information full-night polysomnography (PSG) carries after explicitly controlling demographic confounding, and whether combining specialized unimodal representations with continuous fusion mechanisms can effectively leverage it. We adopt a modular framework based on Coupled Mamba for simultaneous cross-modal and temporal fusion, capturing long-range dependencies and dynamic interactions between physiological modalities throughout sleep. With this capability, we assess whether specialized supervised representations from task-specific unimodal encoders offer prognostic value comparable to task-agnostic multimodal self-supervised pre-training. Validated on the Sleep Heart Health Study (SHHS) dataset, our approach achieves performance comparable to or better than current state-of-the-art architectures in the fully supervised, data-abundant regime, although the cardiac channel alone accounts for most of the discriminative signal. More importantly, we show that in the reference dataset chronological age strongly drives survival ranking; when provided as an explicit input, it can create a shortcut that obscures the contribution of PSG-derived physiology. Ultimately, our findings suggest that supervised unimodal experts integrated through a fusion engine provide a flexible pathway for prognostic risk ranking from sleep recordings, while reliable CVD screening will require independent external cohorts and explicit confounder control.
 
@@ -3548,7 +3548,7 @@ Long-term cardiovascular disease (CVD) risk prediction remains a major global cl
 
 - Source: `npj_digital_medicine` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03425-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03425-4`
 
 Whether wearable photoplethysmography (PPG) encodes dietary information remains unknown. We trained a language model on 1.1M meals to align PPG with meal descriptions. Near-meal PPG carries a meal-specific signal beyond individual traits; predictability decreases farther from meals. This transfers to dietary tasks: PPG increases AUC by 11% for a caloric-intake proxy and satiety across held-out and independent cohorts. Wearable PPG may augment text-based logging, compensating for brief descriptions.
 
