@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-11-07
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 443
+> Daily status: **complete_with_warning** · sources 26/26 · items 442
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 442
+## Archive · 441
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -2648,14 +2648,6 @@ Background: Discriminating mild cognitive impairment (MCI) from subjective cogni
 
 This is a correction of &quot;Detecting and Mitigating AI Bias in Health Care: Development and Validation of a Unified Multistage Framework&quot;.
 
-### [Cross-paradigm audit of large language model judges for clinical text evaluation](https://www.nature.com/articles/s41746-026-03443-2)
-
-- Source: `npj_digital_medicine` · published `2026-11-04` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03443-2`
-
-Large language models are increasingly being used to evaluate clinical texts, a concept known as LLM-as-a-judge. However, most of the existing evidence focuses on English data and uses pooled agreement metrics that obscure clinically relevant failure modes. This study audited six open-weight models against expert judges on four German clinical datasets covering report and nursing documentation summarization, discharge summary generation, and patient letter generation. The models were evaluated across three paradigms and four prompt configurations. Alignment with experts varied by criterion and corpus, and no configuration proved reliable across paradigms. All judges exhibited position and identity bias. Substituting LLM-as-a-judge for the expert panel shifted 57.2% of pointwise categories, swapped 41.7% of pairwise winners, missed 10.2% of clinical errors, and inverted clinical priorities by overrating the criteria succinct and accurate. Therefore, LLM-as-a-judge is not a safe substitute for experts in German clinical text evaluations, and deployment thresholds should follow decision-impact analysis for LLM-as-a-judge in clinical contexts.
-
 ### [Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States](https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/)
 
 - Source: `crunchbase_news_feed` · published `2026-11-04` · freshness `fresh`
@@ -2680,14 +2672,6 @@ So far this year, less than 2% of all startup investment has gone to companies i
 
 Background: Electronic medical record (EMR) certification programs have traditionally focused on product-level requirements, such as interoperability, security, and core functionality. However, growing evidence suggests that many patient safety risks associated with EMRs arise after implementation and are closely related to system configuration, workflow integration, and real-world use. Despite the presence of a national EMR product certification system in Korea, a systematic evaluation of how certified systems are implemented and used in clinical practice is still lacking. Objective: This study aimed to develop and validate a self-assessment checklist for EMR use certification, focused on patient safety-critical functions, and to evaluate its content validity and expert-assessed practical applicability across health care institutions of different sizes. Methods: A convergent mixed methods design was used. A self-assessment checklist comprising 10 patient safety–related EMR functions was developed by adapting the US Office of the National Coordinator for Health Information Technology self-assessment templates to the Korean EMR certification context. Content validity was quantitatively assessed using the Content Validity Index across 4 dimensions (relevance, usefulness, clarity, and importance) by a panel of 24 experts with experience in EMR implementation and certification. Qualitative feedback was collected through open-ended survey questions to examine feasibility, anticipated challenges, and differentiation between product and use certification across tertiary referral hospitals, general hospitals, and clinics. Results: The overall Scale-Level Content Validity Index was 0.921, indicating strong content validity for the proposed checklist. Although most items demonstrated high agreement, lower ratings were observed for certain functions, particularly in clinic-level settings, reflecting structural and resource-related constraints rather than limited recognition of patient safety priorities. Qualitative findings highlighted challenges related to staffing, system governance, and the feasibility of assembling multidisciplinary assessment teams in smaller institutions. Conclusions: The self-assessment checklist demonstrated high content validity and was perceived as relevant for evaluating patient safety–critical aspects of EMR use. However, expert-assessed feasibility varied across health care institution types, particularly in clinic-level settings. Further empirical testing is needed to assess the checklist’s reliability, usability, and applicability in real-world certification processes.
 
-### [Digital and hybrid interventions for subacute and chronic low back pain: component network meta-analysis](https://www.nature.com/articles/s41746-026-03416-5)
-
-- Source: `npj_digital_medicine` · published `2026-11-04` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03416-5`
-
-Digital and hybrid interventions combining exercise, education, and psychological components are increasingly used for low back pain (LBP), but it remains unclear which components and combinations drive efficacy. We conducted a prospectively registered component network meta-analysis (CNMA) to evaluate their efficacy and safety for non-specific LBP. Six databases and two trial registries were searched to May 2025. Data on disability, pain intensity, and adverse events were analysed using a Bayesian random-effects CNMA. Of 2809 records, 56 reports of 46 studies (6717 participants; 80% chronic low back pain) were included. Hybrid interventions combining digital and in-person exercise with in-person psychological components (MD: –22.21; 95%-CrI: –34.11 to –10.67), digital and in-person exercise (MD: –15.75; 95%-CrI: –22.79 to –8.80), or digital exercise with physiotherapy (MD: –13.17; 95%-CrI: –21.18 to –5.16) reduced disability versus no intervention at short-term (minimal clinically important difference (MCID): 4.92/100 Oswestry Disability Index). Digital and in-person exercise (MD: -1.76; 95%-CrI: -2.62; -0.87) and combined digital exercise training with in-person education (MD: -1.73; 95%-CrI: -2.71; -0.83) improved pain intensity beyond the MCID (0.82/10 numeric pain rating scale). No serious adverse events were noted. Multicomponent hybrid interventions appear safe and may provide clinically meaningful improvements for chronic LBP.
-
 ### [Global temperature-related mortality associated with El-Nino Southern Oscillation](https://www.nature.com/articles/s41591-026-04793-w)
 
 - Source: `nature_medicine` · published `2026-11-04` · freshness `fresh`
@@ -2700,7 +2684,7 @@ El Niño-Southern Oscillation (ENSO) influences the global climate through inter
 
 - Source: `oura_blog` · published `2026-11-04` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/womens-sleep-across-life-stages/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/womens-sleep-across-life-stages/`
 
 <p>Sleep plays a huge role in cardiovascular, metabolic, and brain health, yet research focused specifically on women’s sleep is relatively recent. For decades, women&#8217;s health research focused largely on the reproductive system, while studies of nearly everything else, including sleep, were mostly done on men. The NIH didn&#8217;t require the clinical studies it funds to [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/womens-sleep-across-life-stages/">How Women’s Sleep Changes Across Life Stages</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -3172,7 +3156,7 @@ Gait is increasingly recognized as a vital sign, yet current approaches treat it
 
 - Source: `jmir_mhealth` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e96782`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e96782`
 
 Background: Peripheral artery disease (PAD) is prevalent in hemodialysis (HD) patients but remains difficult to diagnose due to unreliable ankle-brachial index (ABI) measurements caused by vascular calcification. We hypothesized that monitoring foot temperatures and their changes during HD, provoked by hemodynamic shifts, could serve as a novel diagnostic tool for detecting severe PAD. Objective: This study aims to evaluate the diagnostic utility of intradialytic foot temperature monitoring using wearable mobile health (mHealth) sensors for detecting severe PAD in patients undergoing HD. Methods: In this prospective observational study, we recruited 109 patients undergoing chronic maintenance HD. Skin temperatures were monitored continuously at the instep and sole during HD sessions using wearable sensors (Temp Pal, iWEECARE Co, Ltd), which are wireless, nanochip-based mHealth thermometers with ±0.05 °C accuracy. The diagnostic performance of temperature parameters, specifically the temperature difference between the wrist and foot at the end of HD, was evaluated against vascular duplex ultrasound (DUS). Severe PAD was defined as abnormal (monophasic or absent) flow in the distal posterior tibial artery (PTA) or anterior tibial artery (ATA). Results: Patients with abnormal tibial flow on DUS exhibited significantly different temperature gradients between the wrist and foot at the end of dialysis compared to those with normal flow. Receiver operating characteristic (ROC) analysis demonstrated that the wrist-foot temperature difference at the sole effectively discriminated abnormal ATA flow (area under the curve [AUC] 64.5%, 95% CI 57.8%‐70.9%) and abnormal PTA flow (AUC 62.0%, 95% CI 55.2%‐68.5%). Notably, an instep wrist-foot temperature difference cutoff of –2.2 °C or less yielded a specificity of 97.6% (95% CI 94.0%-99.3%) for detecting abnormal PTA flow. Conclusions: Intradialytic foot temperature monitoring, particularly the temperature gradient between the wrist and foot, significantly correlates with severe tibial artery flow abnormalities. This method offers an accessible, noninvasive screening adjunct to the ABI for detecting severe PAD in the HD population. These findings indicate an association rather than a standalone diagnostic test; given the modest discriminative ability, external validation is warranted.
 
@@ -3180,7 +3164,7 @@ Background: Peripheral artery disease (PAD) is prevalent in hemodialysis (HD) pa
 
 - Source: `jmir_medinform` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e97411`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e97411`
 
 Background: Pharmacoepidemiologic studies using real-world data often lack clinical context embedded in free-text electronic health records (EHRs). However, sharing EHR narratives is restricted by privacy requirements, and conventional deidentification approaches may reduce analytic utility and limit auditability. Objective: This study aims to develop and evaluate a framework that (1) extracts structured cancer-related entities from Japanese EHR free text using BERT (Bidirectional Encoder Representations from Transformers)–based natural language processing and (2) generates deidentified analytic text that preserves contextual information for post hoc auditing under privacy constraints. Methods: This retrospective observational study used the DATuM IDEA database, which integrates EHR narratives with structured records (claims, prescriptions, and procedure/surgery records) from 2 hospitals in Japan from January 1, 2019, through June 30, 2025. Deterministic linkage was performed within ICI (Integrated Clinical Care Informatics Inc) prior to deidentification. Downstream recoverability analyses were conducted within a governance-constrained analyzable text cohort derived after deidentification and preprocessing. We quantified deidentification using masking rates and evaluated downstream recoverability of TNM (tumor-node-metastasis) or stage-related mentions, internal logical consistency (M1 vs Stage IV), and proxy-based concordance using structured data treatment proxies (Anatomical Therapeutic Chemical [ATC] code L for systemic anticancer therapy and procedure-name keywords for cancer-directed interventions). A stratified manual audit of 400 deidentified narratives primarily inspected for apparent residual direct identifiers and secondarily for retention of TNM and stage outputs. Results: Among 10,214 patients with neoplasms ( [] C00-D48), linked progress notes were available for 4383 patients (82,863 records). The analyzable text cohort (Layer C) comprised 3689 patients and 38,841 documents, of which 1339 patients (1339/3689, 36.3%) and 11,914 documents (11,914/38,841, 30.7%) had at least one recoverable TNM or stage mention (Layer D). Marginal document-level recoverability in Layer C was 24.2% for T, N, and M elements and 23.6% for stage. Conditional on Layer D, it was 78.8% for T, 78.7% for N, 78.8% for M, and 76.8% for stage. Median masking rates ranged from 9.9% to 15% across major cancer categories. M1 and Stage IV mention indicators showed an overall agreement of 94.7%, positive percent agreement of 54.8%, and negative percent agreement of approximately 99%. Proxy-based concordance analysis showed positive predictive values of 0.700 for Stage IV using the systemic therapy proxy and 0.031 for early-stage classification using the procedure proxy. Manual audit demonstrated retention of intended TNM/stage-related outputs after normalization and identified no apparent residual direct identifiers in the audited deidentified narratives. Conclusions: This framework generates deidentified Japanese EHR narratives that preserve contextual structure for auditing while supporting structured entity extraction, addressing the trade-off between privacy protection and reproducibility in real-world data research.
 
@@ -3188,7 +3172,7 @@ Background: Pharmacoepidemiologic studies using real-world data often lack clini
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/`
 
 <p><a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/"><img width="784" height="523" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg 784w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-768x512.jpg 768w" sizes="(max-width: 784px) 100vw, 784px" /></a></p><p>Accelerated FDA approval of Johnson &amp; Johnson’s Rybrevant Faspro covers advanced cases of head and neck cancer. The bispecific antibody was initially approved for treating certain lung cancers. </p> <p>The post <a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/">Bispecific J&amp;J Drug Wins Speedy FDA Approval for Treating Head &amp; Neck Cancer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3260,7 +3244,7 @@ Affordable electroencephalography (EEG) headsets could widen access to EEG-based
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/`
 
 <p><a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/"><img width="600" height="378" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-300x189.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064.jpg 745w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>A new Experian Health survey finds that healthcare providers’ efforts to prevent claims denials are falling short, with many reporting an increase in denials over last year and increasingly complex payer requirements. </p> <p>The post <a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/">Experian Health Survey: Providers Struggle Amid Increasing Claim Denials</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3300,7 +3284,7 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 
 - Source: `oura_blog` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/readiness-score-to-optimize-workouts/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/readiness-score-to-optimize-workouts/`
 
 <p>Whether you&#8217;re training for a marathon or want to get more out of your weekly gym sessions, your Readiness Score can be used as an input to help you decide if today is a day to push or a day to back off. Your Oura Readiness Score combines sleep, recent activity, and body signals to [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/readiness-score-to-optimize-workouts/">How to Use Your Readiness Score to Optimize Your Workouts</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -3308,7 +3292,7 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 
 - Source: `jmir` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e98084`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e98084`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Patient education materials (PEMs) are essential for improving health literacy and clinical outcomes. Although large language models (LLMs) hold promise for optimizing content, their performance in generating new PEMs remains unclear. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to summarize the current evidence on LLMs in generating new PEMs, evaluate readability, quality, and usability in various health care settings, and guide future research and practice. &lt;strong&gt;Methods:&lt;/strong&gt; This review followed PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. A comprehensive literature search was conducted in PubMed, Embase, Cochrane Library, Web of Science, and Scopus from January 1, 2000, to January 1, 2026. Eligible studies were English-language original research studies that evaluated new PEMs generated by LLMs in health care using information assessment tools. Two reviewers independently screened records and extracted data. We conducted a quantitative analysis of the characteristics of the included literature. Furthermore, we classified the PEMs based on core educational tasks and clinical scenarios, and compared their readability, quality, and usability. &lt;strong&gt;Results:&lt;/strong&gt; Thirty studies were included, including 11 LLMs and more than 30 diseases; most compared multiple LLMs and used a single prompt. PEMs were classified into 5 categories: perioperative patient education (n=8), chronic disease management education (n=6), specialty disease diagnostic and therapeutic education (n=9), pharmacotherapy safety and adherence education (n=3), and public health and prevention education (n=4). In terms of readability, only 3 records achieved a sixth-grade reading level. Specialty disease diagnostic and therapeutic education performed relatively well, while chronic disease management education had poor readability. The DeepSeek series demonstrated the most consistent performance. In terms of quality, most records were rated as good or higher. Specialty disease diagnostic and therapeutic education showed a polarized distribution, with both high and low quality ratings. Pharmacotherapy safety and adherence education and public health and prevention education had no poor-quality ratings. The ChatGPT series performed relatively well. In terms of usability, most records performed well in understandability but poor in actionability. Perioperative patient education showed a relatively balanced performance. &lt;strong&gt;Conclusions:&lt;/strong&gt; LLMs offer a transformative opportunity for developing effective and high-quality PEMs, but they currently fail to meet health literacy standards, particularly in readability and actionability. Future efforts must shift from performance evaluation to implementation strategies. Only through rigorous validation and equitable deployment can LLMs truly improve patient education. &lt;strong&gt;Trial Registration:&lt;/strong&gt; <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4ad66a203f2acb072c16d7528ba106b0" />
 
@@ -3316,7 +3300,7 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 
 - Source: `jmir_ai` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e98782/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e98782/`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Clinical diagnosis of tic disorders (TDs) is often delayed by fluctuating symptoms and the subjective nature of assessments. While automated methods have been proposed to bridge this gap, traditional machine learning models frequently lack robustness in unconstrained environments and fail to capture the complex, multisite tics characteristic of severe TDs. &lt;strong&gt;Objective:&lt;/strong&gt; This study aimed to develop and evaluate a fine-tuned large vision-language model framework for the automated, interpretable detection of pediatric motor tics, addressing the clinical need for objective and efficient symptom assessment in unconstrained environments. &lt;strong&gt;Methods:&lt;/strong&gt; In this multicenter study, 168 pediatric participants (n=83, 49.4% with TDs and n=85, 50.6% healthy controls) underwent 12-hour continuous video-electroencephalography monitoring. We fine-tuned the Qwen3-VL-8B model using 3- to 5-minute video segments via low-rank adaptation. The framework used chain-of-thought prompting to generate both binary classifications and textual justifications. A strict patient-wise split ensured zero identity overlap between training and test sets. Diagnostic precision was evaluated using 95% CIs calculated with the Clopper-Pearson exact method. &lt;strong&gt;Results:&lt;/strong&gt; In total, 168 pediatric participants (age: mean 8.3, SD 2.3 years) were enrolled, providing 559 expert-validated video segments for analysis. On the independent test set (n=55), the framework achieved 89.1% (49/55; 95% CI 77.8%-95.9%) accuracy and an area under the curve of 0.950 (95% CI 0.892-1.000), significantly outperforming the landmark-based deep neural network (accuracy 74.1%; &lt;i&gt;P&lt;/i&gt;=.004); recall reached 100% (25/25 positive episodes; 95% CI 86.3%-100.0%). Model-generated justifications showed substantial agreement with expert annotations (κ=0.784, 95% CI 0.625-0.943; &lt;i&gt;P&lt;/i&gt;&amp;lt;.001). &lt;strong&gt;Conclusions:&lt;/strong&gt; These findings suggest that a vision-language model framework can capture clinically relevant tic features beyond conventional geometric descriptors. By combining high sensitivity (recall) with text-based diagnostic justifications aligned with clinical severity dimensions (eg, frequency and intensity), the approach may support automated video review and preliminary symptom quantification in controlled monitoring settings. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/430f0cfe6e3562b2d81d7efe344ba71e" />
 
@@ -3334,7 +3318,7 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://arxiv.org/abs/2610.21375`
 
-Hacker News community signal; score 80.
+Hacker News community signal; score 102.
 
 ### [Most people haven’t heard of kratom. What is it, and who’s using it?](https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss)
 
@@ -3412,7 +3396,7 @@ People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but the
 
 - Source: `jmir_mhealth` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e64502`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e64502`
 
 Background: Mobile health interventions have the potential to motivate healthy behaviors. Optimal strategies for engaging patients in cardiac rehabilitation (CR) through mobile health interventions remain unclear. Objective: This study aimed to examine patient engagement in a mobile app platform for CR across patient characteristics and by the method of delivery of nudge messages over the 12 weeks of CR. Methods: The authors analyzed data from the ERA-Nudge (Enhancing Rehabilitation Adherence Through Optimized Nudge) study, a pragmatic randomized trial conducted at an urban safety-net hospital testing nudges (short messages designed using behavioral economics to elicit behavior change) to enhance CR adherence and log healthy activity. Trial patients were given access to a smartphone-based app. Nudges were initially sent as app notifications. Later in the study, patients received nudges as text messages. We assessed patient characteristics associated with app engagement, and we compared time spent in the CR app among patients receiving nudges as app notifications vs text messages. The trial enrolled patients who could engage with messages in either English or Spanish at an urban safety-net hospital with a qualifying CR diagnosis and a smartphone from May 2019 to May 2023. We describe minutes spent in the app across patient characteristics and by type of nudge delivery, and we compare the 2 approaches using unadjusted and multivariate negative binomial regression over the 12 weeks of CR. Results: In total, 223 patients received nudges: 74 via app notification and 149 via text message. Overall, patients spent an average of 219 (SD 328) minutes in the app, and 3 (1.3%) patients used the app for zero minutes. Patients receiving only app nudges spent a mean of 167 (SD 365) minutes in the app, and patients receiving text messages and app nudges spent 245 (SD 306) minutes in the app (unadjusted ratio 1.5, 95% CI 1.1-2.0; =.02). After adjusting for age category, sex, primary language, CR location (hospital vs home), and highest education achieved, Spanish-preferring patients, patients with some college education, and patients receiving text messages spent more time in the app. Patients receiving nudges as text messages and app notifications spent an adjusted ratio of 1.8 (95% CI 1.2-2.5; =.002) times as many minutes in the app compared to those getting nudges as app notifications. Conclusions: Among an urban safety-net population, text message nudges were associated with greater time in the app compared to nudges delivered as app notifications. These findings suggest that text messages may result in greater patient engagement for mobile health interventions. Trial Registration: ClinicalTrials.gov NCT03834155; https://clinicaltrials.gov/study/NCT03834155 International Registered Report Identifier (IRRID): RR2-10.1016/j.ahj.2025.05.010
 
@@ -3448,14 +3432,6 @@ Background: Effective communication between clinicians and patients plays an imp
 
 Siemens Healthineers said Thursday it will rebrand its in vitro diagnostics business and establish the unit as a standalone organization by mid-2028. The rebranded business, Olyrian Diagnostics, will sell diagnostics for laboratory and point-of-care testing. Clients include Quest Diagnostics, which recently extended its contract by five years. Siemens Healthineers is rebranding its remaining business. Next year, the company will start a three-year transition to rebrand as Healthineers, dropping Siemens from its name. The rebrand coincides with a plan announced late last year for Siemens to give up its controlling stake in Siemens Healthineers. Shareholders will vote about the plan to spin off Siemens Healthineers shares at an annual meeting in February.
 
-### [SketchAgentBench – evaluate LLMs on 3D spatial reasoning](https://sketchagent.dev/)
-
-- Source: `hn_ai_health_signals` · published `2026-11-06` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://sketchagent.dev/`
-
-Hacker News community signal; score 8.
-
 ### [STAT+: After Medicare punts RPM overhaul to 2029, advocates see window to fight back](https://www.statnews.com/2026/11/06/new-medicare-overhaul-of-remote-patient-monitoring-hospital-pushback/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-06` · freshness `fresh`
@@ -3484,7 +3460,7 @@ Democrats are likely to focus on reversing Medicaid cuts and expanding insurance
 
 - Source: `stat_news_feed` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss`
 
 Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans "are being duped and gaslighted and lied to."
 
@@ -3508,7 +3484,7 @@ Novartis acknowledged seven instances of tumors being found in children who were
 
 - Source: `stat_news_feed` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss`
 
 The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable&#8230;
 
@@ -3548,7 +3524,7 @@ This week brought another plethora of large funding rounds for startups and grow
 
 - Source: `stat_news_feed` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/06/abdul-el-sayed-jasmine-clark-defend-health-equity-from-cuts/?utm_campaign=rss`
 
 Two newly elected lawmakers with science backgrounds hope to push back against Trump administration cuts to health equity programs.
 
@@ -3556,9 +3532,25 @@ Two newly elected lawmakers with science backgrounds hope to push back against T
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/`
 
 <p><a href="https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>One voice needs to be increasingly present in the rooms where healthcare’s future is being decided: the physician’s.</p> <p>The post <a href="https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/">Why Physician Leadership Is More Important Than Ever</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography](https://www.nature.com/articles/s41746-026-03450-3)
+
+- Source: `npj_digital_medicine` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03450-3`
+
+Long-term cardiovascular disease (CVD) risk prediction remains a major global clinical priority. This study investigates how much prognostic information full-night polysomnography (PSG) carries after explicitly controlling demographic confounding, and whether combining specialized unimodal representations with continuous fusion mechanisms can effectively leverage it. We adopt a modular framework based on Coupled Mamba for simultaneous cross-modal and temporal fusion, capturing long-range dependencies and dynamic interactions between physiological modalities throughout sleep. With this capability, we assess whether specialized supervised representations from task-specific unimodal encoders offer prognostic value comparable to task-agnostic multimodal self-supervised pre-training. Validated on the Sleep Heart Health Study (SHHS) dataset, our approach achieves performance comparable to or better than current state-of-the-art architectures in the fully supervised, data-abundant regime, although the cardiac channel alone accounts for most of the discriminative signal. More importantly, we show that in the reference dataset chronological age strongly drives survival ranking; when provided as an explicit input, it can create a shortcut that obscures the contribution of PSG-derived physiology. Ultimately, our findings suggest that supervised unimodal experts integrated through a fusion engine provide a flexible pathway for prognostic risk ranking from sleep recordings, while reliable CVD screening will require independent external cohorts and explicit confounder control.
+
+### [Wrist photoplethysmography encodes dietary information](https://www.nature.com/articles/s41746-026-03425-4)
+
+- Source: `npj_digital_medicine` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03425-4`
+
+Whether wearable photoplethysmography (PPG) encodes dietary information remains unknown. We trained a language model on 1.1M meals to align PPG with meal descriptions. Near-meal PPG carries a meal-specific signal beyond individual traits; predictability decreases farther from meals. This transfers to dietary tasks: PPG increases AUC by 11% for a caloric-intake proxy and satiety across held-out and independent cohorts. Wearable PPG may augment text-based logging, compensating for brief descriptions.
 
 ---
 

@@ -1,0 +1,5 @@
+{
+  "summary": "Whether wearable photoplethysmography (PPG) encodes dietary information remains unknown. We trained a language model on 1.1M meals to align PPG with meal descriptions. Near-meal PPG carries a meal-specific signal beyond individual traits; predictability decreases farther from meals. This transfers to dietary tasks: PPG increases AUC by 11% for a caloric-intake proxy and satiety across held-out and independent cohorts. Wearable PPG may augment text-based logging, compensating for brief descriptions.",
+  "summary_source": "https://www.nature.com/articles/s41746-026-03425-4",
+  "url": "https://www.nature.com/articles/s41746-026-03425-4"
+}
