@@ -2568,14 +2568,6 @@ Apple announced expanded language support for the redesigned Health app, bringin
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp">Google combines built-in protections with local partnerships and education to tackle scams in APAC.
 
-### [ZeBridge – PostgreSQL replicas on devices, synchronized over NATS](https://github.com/ndrean/ZeBridge)
-
-- Source: `hn_ai_health_signals` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/ndrean/ZeBridge`
-
-Hacker News community signal; score 24.
-
 ### [3 takeaways from TCT 2026](https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/)
 
 - Source: `medtech_dive_primary` · published `2026-11-04` · freshness `fresh`
@@ -3508,7 +3500,7 @@ Two newly elected lawmakers with science backgrounds hope to push back against T
 
 - Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss`
 
 High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.
 
@@ -3524,15 +3516,15 @@ Long-term cardiovascular disease (CVD) risk prediction remains a major global cl
 
 - Source: `hn_ai_health_signals` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://eyesrhythm.com/`
+- Event: `updated` · identity: `url:https://eyesrhythm.com/`
 
-Hacker News community signal; score 22.
+Hacker News community signal; score 31.
 
 ### [STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries](https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss`
 
 The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.
 
@@ -3540,7 +3532,7 @@ The model is a test of Trump's most-favored nation approach to drug pricing, tho
 
 - Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss`
 
 “These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease."
 
@@ -3548,7 +3540,7 @@ The model is a test of Trump's most-favored nation approach to drug pricing, tho
 
 - Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss`
 
 Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.
 
@@ -3559,6 +3551,14 @@ Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03425-4`
 
 Whether wearable photoplethysmography (PPG) encodes dietary information remains unknown. We trained a language model on 1.1M meals to align PPG with meal descriptions. Near-meal PPG carries a meal-specific signal beyond individual traits; predictability decreases farther from meals. This transfers to dietary tasks: PPG increases AUC by 11% for a caloric-intake proxy and satiety across held-out and independent cohorts. Wearable PPG may augment text-based logging, compensating for brief descriptions.
+
+### [Show HN: LLM weight editing tool made by a 15-year-old](https://github.com/Miyamoto-Renya/LaplacesScissors)
+
+- Source: `hn_ai_health_signals` · published `2026-11-08` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://github.com/Miyamoto-Renya/LaplacesScissors`
+
+Hacker News community signal; score 3.
 
 ---
 
