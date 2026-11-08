@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-11-07
+# Scientific Information Brief · 2026-11-08
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 442
+> Daily status: **complete_with_warning** · sources 26/26 · items 443
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 441
+## Archive · 442
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1866,80 +1866,80 @@ Background: Cardiovascular disease (CVD) remains the leading cause of death worl
 
 ### [Apple unveils groundbreaking MacBook Pro with PROLED XDR Display](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/)
 
-- Source: `apple_newsroom` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `apple_newsroom` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/`
 
 Apple today introduced the all-new MacBook Pro with PROLED XDR Display featuring breakthrough tandem OLED technology.
 
 ### [Automation of Living Clinical Practice Guideline Development: Scoping Review](https://ai.jmir.org/2026/1/e103273/)
 
-- Source: `jmir_ai` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `jmir_ai` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e103273/`
 
 &lt;strong&gt;Background:&lt;/strong&gt; Clinical practice guidelines (CPGs) translate research evidence into actionable recommendations, but their development faces mounting challenges. With dozens of trials and systematic reviews published daily, the traditional 18- to 24-month development cycle struggles to incorporate emerging evidence, and manual screening, synthesis, and quality assessment consume thousands of person-hours per guideline. The resulting knowledge translation pipeline is slow, inconsistent, and quickly outdated. &lt;strong&gt;Objective:&lt;/strong&gt; This review aimed to chart the computational methods empirically tested for automating CPG development, the tasks they address, and their evaluation measures, and to map where that evidence is concentrated and where it is absent for living guidelines. &lt;strong&gt;Methods:&lt;/strong&gt; The review followed the Joanna Briggs Institute scoping review framework and PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidance. We searched PubMed and Scopus for studies published between January 2001 and December 2025, supplemented by backward and forward citation searching. Eligible studies used automated methods for a guideline development task, reported original research with empirical testing, and gave sufficient methodological detail. Two reviewers independently screened records and extracted data. Findings were charted across 4 pillars: retrieval, extraction, encoding, and evaluation. &lt;strong&gt;Results:&lt;/strong&gt; A total of 47 studies met eligibility criteria, spanning 2001 to 2025, with a marked increase after 2015 and a surge in large language model (LLM) work in 2024-2025. Pillar counts (nonexclusive) were as follows: retrieval, 6; extraction, 15; encoding, 26; and evaluation, 17. In retrieval pillar, query expansion achieved 80% recall, while semantic search tools traded recall for specificity (98%). In extraction, rule-based natural language processing achieved an F-measure of 81.96% for structured clinical actions and 71.75% for patient states, and hybrid ontology methods covered 86% of eligibility criteria; LLMs performed well on structured fields but degraded on interpretive content. In encoding, approaches progressed from formalisms such as Guideline Interchange Format version 3 (GLIF3) and guideline elements model toward Fast Healthcare Interoperability Resources (FHIR)–based representation; semiautomated tools assisted guideline encoding, and logic verification detected inconsistencies and coverage gaps missed by human reviewers. In evaluation, LLM appraisers assigned higher Appraisal of Guidelines for Research and Evaluation II (AGREE II) scores than human appraisers, by a mean difference of 12.5% in one study (95% limits of agreement –30.6% to 55.5%; intraclass correlation coefficient 0.753) and by 22 to 60 percentage points across domains in another. &lt;strong&gt;Conclusions:&lt;/strong&gt; Automation shows promise for bounded, well-structured guideline development tasks, while robust evidence for end-to-end, production-scale living guideline pipelines remains limited. No included study demonstrated a validated pipeline connecting all 4 pillars in an operating guideline program, and evidence on clinical safety, workflow integration, and cost-effectiveness is largely absent. Realizing living guidelines will require interoperability standards such as FHIR, and evaluation in real guideline production rather than retrospective benchmarks. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2a6d269cf8e2d48cbe94df1b7e290662" />
 
 ### [Calendar Year (CY) 2027 End-Stage Renal Disease (ESRD) Prospective Payment System Final Rule — CMS-1846-F](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-end-stage-renal-disease-esrd-prospective-payment-system-final-rule-cms-1846-f)
 
-- Source: `cms_fact_sheets` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `cms_fact_sheets` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-end-stage-renal-disease-esrd-prospective-payment-system-final-rule-cms-1846-f`
 
 Calendar Year (CY) 2027 End-Stage Renal Disease (ESRD) Prospective Payment System Final Rule — CMS-1846-F Combating kidney disease starts with prevention, early detection, and timely treatment to help protect kidney health and slow disease progression. For Americans who depend on dialysis, high-quality care is vital to their health and daily lives. The Centers for Medicare & Medicaid Services (CMS) is committed to improving how our kidney care system serves patients by supporting access to lifesaving treatment so more Americans can live longer, healthier lives. CMS is advancing its goals for dialysis access and quality through the calendar year (CY) 2027 Medicare End-Stage Renal Disease (ESRD) Prospective Payment System (PPS) final rule. On Oct. 28, 2026, CMS issued a final rule to update payment rates and policies under the ESRD PPS for renal dialysis services furnished to Medicare beneficiaries on or after Jan. 1, 2027. This rule also finalizes updates to the acute kidney injury (AKI) dialysis payment rate for renal dialysis services furnished by ESRD facilities for calendar year (CY) 2027 and updates requirements for the ESRD Quality Incentive Program (QIP). For CY 2027, CMS will increase the ESRD PPS base rate to $297.52, which CMS expects will increase total payments to all ESRD facilities, both freestanding and hospital-based, by approximately 2.7%. This amount includes a $12.85 increase to account for the incorporation of phosphate binders into the ESRD PPS base rate. The CY 2027 ESRD PPS final rule also finalizes changes to the low-volume payment adjustment, changes to the payment adjustments for pediatric patients, an increase to the home and self-dialysis training add-on payment adjustment amount, and modifications to the transitional drug add-on payment adjustment (TDAPA), and modifications to the post-TDAPA add-on payment adjustment policies. Beginning with Payment Year (PY) 2029, CMS is replacing the Hypercalcemia reporting measure with the Facility-Level Percentage of Chronic Hyperphosphatemia in Dialysis Patients (Hyperphosphatemia) clinical measure and removing two reporting measures from the ESRD QIP. CMS is also updating the National Healthcare Safety Network (NHSN) Bloodstream Infection (BSI) in Hemodialysis Patients clinical measure national baseline data and risk-adjustment methodology. Additionally, CMS is updating the measure domains and the domain and measure weights used to calculate the total performance score. CMS also summarizes input received on a request for information on the potential inclusion of the Dialysis Facility Discussion of Patient Life Goals (D-PaLS) Patient-Reported Outcome Performance measure (PRO-PM) in the ESRD QIP. Final Updates to the ESRD PPS for CY 2027 The ESRD PPS provides a bundled, per-treatment payment to ESRD facilities that includes all renal dialysis services furnished for outpatient maintenance dialysis, including drugs and biological products. Additionally, the bundled payment includes all other renal dialysis items and services that were formerly separately payable under previous payment methodologies. The bundled payment rate is case-mix adjusted for several factors relating to patient characteristics. There are also facility-level adjustments for low patient volume, for ESRD facilities in rural areas, and for ESRD facilities in certain noncontiguous states and territories, as well as a wage index adjustment. When applicable, the bundled payment rate also includes a training payment for home and self-dialysis modalities; an outlier payment for high-cost patients; add-on payment adjustments for certain drugs, equipment, and supplies; and a pediatric ESRD add-on payment adjustment (through 2026). Annual Update to the ESRD PPS Base Rate Under the ESRD PPS for CY 2027, Medicare expects to pay $7.0 billion to approximately 7,600 ESRD facilities for furnishing renal dialysis services. The final CY 2027 ESRD PPS base rate is $297.52, which is an increase of $15.81 from the current CY 2026 base rate of $281.71. This amount includes $12.85 to reflect the inclusion of phosphate binders into the ESRD PPS base rate. Additionally, this amount reflects the application of the final wage index budget neutrality adjustment factor (1.00260), the final CY 2027 ESRD Bundled market basket update of 1.9%, and a budget neutrality factor of 0.98864 for the budget neutral changes to low-volume, pediatric, and home and self-dialysis training payment adjustments, equaling $297.52 [ ($281.71 + $12.85) x 1.00260 x 0.98864) x 1.019 = $297.52]. CMS projects that the CY 2027 updates will increase the total payments to all ESRD facilities by 2.7% compared with CY 2026. Hospital-based and freestanding ESRD facilities are both projected to have an estimated 2.7% increase in total payments. Wage Index Update CMS is making routine annual updates to the ESRD PPS-specific wage index that is used to adjust ESRD PPS payments for geographic differences in area wages. The ESRD PPS wage index methodology, finalized in the CY 2025 ESRD PPS final rule, combines data from the Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics (OEWS) program and freestanding ESRD facility cost reports to produce the ESRD PPS-specific wage index. We are updating the ESRD PPS wage index for CY 2027 to use the latest available BLS OEWS data. CMS will continue to apply the wage-index floor of 0.6000 and a 5 % cap on wage-index decreases from the prior year, as finalized in the CY 2023 ESRD PPS final rule. Updates to the Outlier Policy CMS is making routine updates to the fixed dollar loss (FDL) and Medicare allowable payment (MAP) amounts for CY 2027. For pediatric beneficiaries, the final FDL amount will increase from $162.43 to $229.49, and the final MAP amount will increase from $50.19 to $63.27 as compared to CY 2026 values. For adult beneficiaries, the final FDL amount will increase from $14.80 to $90.60, and the final MAP amount will increase from $23.68 to $41.83. These increases are primarily attributable to the projected utilization of new drugs that will be ESRD outlier services in CY 2027. Addition to the ESRD PPS Base Rate for the Inclusion of Phosphate Binders CMS is finalizing its proposal to permanently increase the ESRD PPS base rate to account for the costs of phosphate binders, marking the completion of the incorporation of phosphate binders into the bundled payment, which began Jan. 1, 2025. This additional amount of $12.85 is based on the most recent average sales price (ASP) data for each of the six types of phosphate binders and on utilization during the TDAPA period, and includes operational costs equal to 6% of ASP. Low-Volume Payment Adjustment CMS is finalizing its proposal to increase the Low-Volume Payment Adjustment (LVPA) volume threshold from 4,000 to 8,000 treatments. This change will also expand the number of LVPA tiers from two to six. ESRD facilities with fewer than 3,000 median treatments over the past three cost reporting years will receive the greatest payment adjuster and ESRD facilities with between 7,000 and 7,999 median treatments will receive the smallest adjuster. We are also finalizing an extension to the attestation deadline for payment year 2027. ESRD facilities may attest that they meet the requirements of the LVPA up to Dec. 31, 2026, to receive the LVPA for CY 2027. This budget-neutral change will reduce the ESRD PPS base rate by approximately 1.1% (~$3). The updated LVPA adjustment will better align payments with costs by recognizing that ESRD facilities furnishing between 4,000 and 8,000 treatments annually generally incur higher costs than higher-volume facilities. Payment Adjustments for Pediatric Patients CMS is finalizing its proposal to modify the payment adjustments for renal dialysis services furnished to pediatric ESRD patients to align with the end of the temporary pediatric payment adjustment in 2027. We are finalizing two permanent changes that will appropriately recognize the higher costs for ESRD facilities that treat pediatric patients. First, we are updating the case-mix adjusters for pediatric patients based on more recent cost data. This addresses the inherent higher costs for patients under 18 years of age. Second, we are finalizing our proposal to begin applying the LVPA to treatments furnished to pediatric ESRD beneficiaries by ESRD facilities that meet the low-volume criteria. Data analysis shows that smaller facilities incur high costs even in the pediatric ESRD patient population. These two changes will result in roughly the same expected spending on pediatric patients, but with payments better targeted toward lower-volume ESRD facilities with higher anticipated resource use and younger pediatric ESRD patients. We are finalizing these changes on a budget-neutral basis. Home and Self-Dialysis Training Add-on Payment Adjustment CMS is finalizing an increase to the payment adjustment amount for home and self-dialysis training from $95.60 to $138.00 beginning in CY 2027. We are also finalizing our proposal to allow the add-on payment adjustment for home and self-dialysis training during the onset period (the first four months of ESRD dialysis), during which the ESRD PPS does not currently pay the home and self-dialysis training add-on adjustment. We are finalizing a reduction to the onset adjustment factor to account for payment overlap during the onset period. The CY 2027 onset adjustment factor is 1.311. These changes will better align the training payment with the actual cost of training patients and caretakers to perform home and self-dialysis. We are finalizing these changes on a budget-neutral basis. Changes to the TDAPA and Post-TDAPA Add-on Payment Adjustment Policies CMS is finalizing several changes to better align payment adjustment amounts for the TDAPA and post-TDAPA add-on payment adjustment with the actual costs of drugs. CMS is finalizing its proposal to use older ASP data when current ASP data are unavailable, such as when the reported ASP reflects zero or negative sales. However, when a drug manufacturer fails to report ASP data to CMS, payment under the TDAPA or Post-TDAPA Add-on Payment Adjustment would be discontinued in accordance with our longstanding conditional ASP policy. CMS is also finalizing a proposal to update the post-TDAPA add-on payment adjustment quarterly through change requests throughout the year, ensuring that the post-TDAPA add-on payment adjustment is based on the most recent pricing and utilization data available. Changes to the Payment for Renal Dialysis Services Furnished to Individuals with AKI As required by section 1834(r) of the Social Security Act, CMS is updating the AKI dialysis payment rate for CY 2027 to $297.52, which is equal to the final CY 2027 ESRD PPS base rate. CMS uses the CY 2027 ESRD PPS wage index to calculate AKI dialysis payments. The increase to the home and self-dialysis training payment adjustment amount under the ESRD PPS will apply to training payments for AKI dialysis. Starting in CY 2027, ESRD facilities are responsible for providing medically necessary phosphate binders to beneficiaries with AKI that are under their direct care. Final Updates to the ESRD QIP The ESRD QIP is authorized by law, and under the program, CMS assesses the total performance of each facility on quality measures specified for a payment year, applies an appropriate payment reduction to each facility that does not meet a minimum total performance score (mTPS), and publicly reports the results. CMS is removing the Hypercalcemia reporting measure and replacing it with the Hyperphosphatemia clinical measure beginning with PY 2029. The Hyperphosphatemia clinical measure will help drive decreases in cardiovascular complications, hospitalizations, and overall mortality by incentivizing additional interventions such as nutritional counseling, phosphorus binding medications, or adjustment of dialysis prescription. Compared to the Hypercalcemia rep
 
 ### [Efficacy and cost effectiveness of high volume injections with and without corticosteroid compared with sham for midportion Achilles tendinopathy (Inject trial): randomised controlled trial.](https://doi.org/10.1136/bmj-2026-100807)
 
-- Source: `bmj_abstracts` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `bmj_abstracts` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42951276`
 
 <h4>Objective</h4>To test the efficacy and cost effectiveness of high volume injections with and without corticosteroid versus sham injection for midportion Achilles tendinopathy.<h4>Design</h4>Single centred, participant and assessor masked, three arm randomised controlled trial (Inject trial).<h4>Setting</h4>Community.<h4>Participants</h4>From 5 December 2019 and 24 July 2022, 192 adults (18 years or older) diagnosed with midportion Achilles tendinopathy were randomly assigned (1:1:1) to sham (n=64), high volume injection without corticosteroid (n=63), or high volume injection with corticosteroid (n=65).<h4>Interventions</h4>Participants were allocated to sham injection (2-3 mL 0.5% bupivacaine hydrochloride), high volume injection with corticosteroid (50 mL saline and 0.5% bupivacaine with 25 mg hydrocortisone in the first 10 mL), or high volume injection with no corticosteroid (same solution but without hydrocortisone). They received the same exercise programme, education, and activity modification advice.<h4>Main outcome measures</h4>The primary clinical outcome was pain and disability using the validated VISA-A and the primary endpoint was at 52 weeks. The economic outcome was cost per quality-adjusted life-years from a societal perspective.<h4>Results</h4>VISA-A data were obtained from 181 (94%) of 192 participants at 12 months. No clear differences were noted between sham and high volume injection either with (-3.5 (98.33% confidence interval -12.0 to 5.0)) or without corticosteroid (4.0 (-4.2 to 12.3)), and between the two injections (-7.5 (-15.3 to 0.3)), at 12 months. The point estimate was closest to the target difference for the comparison between injections and favoured the arm without steroid. The only differences observed on VISA-A at intermediate time points were a benefit for high volume with corticosteroid versus sham at six weeks (9.2 (1.5 to 16.9)) but worse outcomes for high volume injection with corticosteroid versus high volume injection with no corticosteroid at 26 weeks (-8.6 (-16.4 to -0.7)). The health economic analysis found high volume injection with corticosteroid to be less costly than the sham with similar effectiveness based on quality-adjusted life-years (>0.90 probability of being cost effective at $AUD50 000 and $100 000 willingness-to-pay thresholds). No serious trial related adverse events were recorded.<h4>Conclusion</h4>High volume injections with or without corticosteroids did not improve pain or disability compared with sham at 12 months. Although high volume injections with corticosteroid showed short term clinical benefit and potential reduction in healthcare costs over a year, they were associated with worse longer term clinical outcomes. The clinical data do not support routine use for high volume injections with corticosteroid for midportion Achilles tendinopathy.<h4>Trial registration</h4>Australian New Zealand Clinical Trials Registry ACTRN12619001455156.
 
 ### [Harnessing AI for Hypothyroidism Monitoring Using Wearable-Derived Heart Rate Data: Retrospective Cohort Study](https://ai.jmir.org/2026/1/e86030/)
 
-- Source: `jmir_ai` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `jmir_ai` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e86030/`
 
 Background: Hypothyroidism is a prevalent endocrine disorder characterized by an insidious onset and nonspecific symptoms, often leading to significant diagnostic delays. While biochemical thyroid function tests (TFTs) are the gold standard, their invasive nature and cost make them impractical for continuous, proactive screening of at-risk populations. Thyroid hormones exert direct chronotropic effects on the cardiovascular system, and their levels are closely correlated with heart rate (HR). Wearable devices capable of continuous HR monitoring offer a novel opportunity for noninvasive, digital phenotype–based detection. Objective: This study aimed to develop and validate an AI-assisted system that uses wearable-derived sleep HR data as a digital monitoring tool for individuals at risk of hypothyroidism, helping identify those who warrant further confirmatory thyroid testing. Methods: This retrospective cohort study used 1677 paired observations consisting of sleep HR data and serum TFT results, including free thyroxine (T4) and thyroid-stimulating hormone levels, from 413 participants (mean age 43.1, SD 9.7 y; women: n=314, 76%). Participants wore consumer-grade wearables (Fitbit) that recorded HR and sleep data. Each TFT result was paired with sleep HR data extracted from the 15 consecutive nights preceding the blood test. An AI system was developed using a gradient boosting algorithm (LightGBM) to classify thyroid status by integrating baseline TFT results with statistical and temporal HR features. The model’s performance was evaluated using patient-level leave-one-out cross-validation. To examine the benefit of longitudinal data, performance was compared using 1, 2, or 3 prior paired observations as reference points. Results: To ensure clinical relevance and avoid performance inflation from hyperthyroid cases, we prioritized the analysis of a subset containing only euthyroid and hypothyroid data (n=744 paired observations). In this clinically challenging subset, the system achieved an accuracy of 74.6%, with a sensitivity of 82% and a specificity of 73.5% using a single-reference data pair. Incorporating longitudinal HR patterns further enhanced performance; using 3 reference pairs improved accuracy to 78.1% (sensitivity 81.8% and specificity 77.7%). In the overall dataset (n=1677 paired observations), the system demonstrated an accuracy of 80.8%, with a sensitivity of 82% and a specificity of 80.8% using a single-reference pair. Notably, the system achieved high clinical safety by detecting 96.3% of severe overt hypothyroidism cases (free T4 &lt;0.5 ng/dL). Conclusions: This AI-assisted system demonstrates the feasibility of a sensitive, noninvasive longitudinal monitoring tool for hypothyroidism, robustly identifying a high proportion of hypothyroid cases—particularly severe ones—to prioritize at-risk individuals for confirmatory blood tests. Given the predominantly female iatrogenic-withdrawal cohort, prospective sex-balanced validation in primary hypothyroidism is warranted. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a987102a2705d0b3e60602b091360ef2" />
 
 ### [Impact of a large measles outbreak associated with transmission in the Americas and Canada's loss of measles elimination status: descriptive cohort study.](https://doi.org/10.1136/bmj-2026-101123)
 
-- Source: `bmj_abstracts` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `bmj_abstracts` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42951282`
 
 <h4>Objective</h4>To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status.<h4>Design</h4>Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025.<h4>Setting</h4>Ontario, Canada.<h4>Participants</h4>Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period.<h4>Exposure</h4>Exposure to measles virus associated with the Ontario outbreak and related transmission chains.<h4>Main outcome measures</h4>Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries.<h4>Results</h4>The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24).<h4>Conclusions</h4>These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.
 
 ### [Left Bundle-Branch Area Pacing vs Right Ventricular Pacing for Atrioventricular Block and Preserved Left Ventricular Function: The LEAP-Block Randomized Clinical Trial.](https://doi.org/10.1001/jama.2026.18146)
 
-- Source: `jama_abstracts` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `jama_abstracts` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42949742`
 
 <h4>Importance</h4>For patients with atrioventricular block requiring high-burden ventricular pacing, the optimal pacing strategy to reduce heart failure (HF) and all-cause mortality remains uncertain. Robust comparative evidence on the clinical outcomes of left bundle-branch area pacing (LBBAP) vs right ventricular pacing (RVP) in this population is needed.<h4>Objective</h4>To compare 24-month clinical outcomes of LBBAP vs RVP in patients with atrioventricular block and preserved left ventricular ejection fraction (LVEF; ≥50%).<h4>Design, setting, and participants</h4>The LEAP-Block study was a prospective, multicenter, randomized, controlled, superiority trial conducted across 14 Chinese hospitals from January 2021 to August 2025, with last follow-up on June 3, 2025. Of 551 patients with LVEF 50% or greater requiring ventricular pacing who underwent eligibility assessment, 499 with anticipated ventricular pacing greater than 40% were randomized.<h4>Interventions</h4>Patients were randomized in a 1:1 ratio to LBBAP (n = 249) or RVP (n = 250).<h4>Main outcomes and measures</h4>The primary end point was a composite of all-cause death, HF events, or upgrade to biventricular pacing at 24 months. Secondary end points included pacing-induced cardiomyopathy and device-related complications.<h4>Results</h4>The primary analysis included 482 patients (LBBAP, n = 242; RVP, n = 240; mean age, 67 years; 46% female). Acute procedure success was comparable between the 2 groups (LBBAP, 237/242 [97.9%] vs RVP, 239/240 [99.6%]; P = .22), with left bundle-branch capture confirmed in 188 of 236 patients (79.7%). LBBAP significantly reduced the primary end point vs RVP (2.4% vs 12.5%, respectively; absolute risk difference, -10.1% [95% CI, -16.8% to -3.4%]; P = .003). Among secondary outcomes, the LBBAP group had fewer HF events (3.4% vs 11.3%; -7.9% [95% CI, -13.0% to -2.8%]). No significant differences were observed in all-cause death, biventricular pacing upgrade, device-related complications, or pacing-induced cardiomyopathy. The 24-month Kaplan-Meier estimated cumulative incidence of the primary end point was 5.0% for LBBAP vs 13.2% for RVP (hazard ratio, 0.37 [95% CI, 0.19 to 0.73]; P = .004). LBBAP superiority was consistent across all prespecified subgroups.<h4>Conclusions and relevance</h4>Among patients with atrioventricular block and preserved LVEF requiring high-burden ventricular pacing, LBBAP was superior to RVP in reducing the risk of the composite end point of all-cause death, HF events, or upgrade to biventricular pacing at 24 months.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT04730921.
 
 ### [Notice to sponsors on validation and qualification of computerised systems used in clinical trials](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/notice-sponsors-validation-qualification-computerised-systems-used-clinical-trials_en.pdf)
 
-- Source: `ema_guidance` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `ema_guidance` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/notice-sponsors-validation-qualification-computerised-systems-used-clinical-trials_en.pdf`
 
 Notice to sponsors on validation and qualification of computerised systems used in clinical trials
 
 ### [Seven MIT affiliates elected to the National Academy of Medicine for 2026](https://news.mit.edu/2026/mit-affiliates-elected-national-academy-medicine-1028)
 
-- Source: `mit_health` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `mit_health` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `url:https://news.mit.edu/2026/mit-affiliates-elected-national-academy-medicine-1028`
 
 Professor Michael Yaffe and six MIT alumni are honored for their outstanding professional achievement and commitment to service.
 
 ### [The 2026 report of the Lancet Countdown on health and climate change: a decade of escalating health harms and a decisive moment for all.](https://doi.org/10.1016/s0140-6736(26)01779-4)
 
-- Source: `lancet_abstracts` · published `2026-10-28` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `lancet_abstracts` · published `2026-10-28` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42950876`
 
 <h4>Translations</h4>For the French, Arabic, Spanish, Brazilian-Portuguese and Mandarin translations of the abstract see Supplementary Materials section.
@@ -2568,6 +2568,14 @@ Apple announced expanded language support for the redesigned Health app, bringin
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp">Google combines built-in protections with local partnerships and education to tackle scams in APAC.
 
+### [ZeBridge – PostgreSQL replicas on devices, synchronized over NATS](https://github.com/ndrean/ZeBridge)
+
+- Source: `hn_ai_health_signals` · published `2026-11-03` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://github.com/ndrean/ZeBridge`
+
+Hacker News community signal; score 24.
+
 ### [3 takeaways from TCT 2026](https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/)
 
 - Source: `medtech_dive_primary` · published `2026-11-04` · freshness `fresh`
@@ -2872,14 +2880,6 @@ Boston Scientific has formed an alliance with Blackstone Life Sciences to co-fun
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp">Join our November 2026 YouTube livestream for National Veterans Small Business Week. Master AI skills with Gemini and get 1:1 coaching. Register today.
 
-### [Child dies of measles in Wisconsin’s first such death since 1990](https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss`
-
-An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years.
-
 ### [Collaborative generalist-specialist AI for safe worklist deprioritization of non-contrast brain computed tomography](https://www.nature.com/articles/s41746-026-03447-y)
 
 - Source: `npj_digital_medicine` · published `2026-11-05` · freshness `fresh`
@@ -3072,14 +3072,6 @@ Analyses disentangling the role of the gut microbiome in linking lifestyle facto
 
 Companies spanning construction and robotics have raised about $1.6 billion so far this year — more than 4x the $389 million recorded in all of 2025 — according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding.
 
-### [STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy](https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss`
-
-Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.
-
 ### [STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion](https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
@@ -3087,22 +3079,6 @@ Novartis has acknowledged seven previously unknown instances in which tumors wer
 - Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss`
 
 PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.
-
-### [STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community](https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss`
-
-The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community.
-
-### [STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes](https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss`
-
-The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”
 
 ### [The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up.](https://medcitynews.com/2026/11/the-ai-native-clinician-is-already-here-medical-education-and-health-systems-need-to-catch-up/)
 
@@ -3311,14 +3287,6 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873992/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp"/></div></figure><p>Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.</p>
-
-### [Memorilla: Latent Semantic Memory for LLMs](https://arxiv.org/abs/2610.21375)
-
-- Source: `hn_ai_health_signals` · published `2026-11-06` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://arxiv.org/abs/2610.21375`
-
-Hacker News community signal; score 109.
 
 ### [Most people haven’t heard of kratom. What is it, and who’s using it?](https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss)
 
@@ -3536,6 +3504,14 @@ Two newly elected lawmakers with science backgrounds hope to push back against T
 
 <p><a href="https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/04/Physician-practice-smolaw11.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>One voice needs to be increasingly present in the rooms where healthcare’s future is being decided: the physician’s.</p> <p>The post <a href="https://medcitynews.com/2026/11/why-physician-leadership-is-more-important-than-ever/">Why Physician Leadership Is More Important Than Ever</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice](https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss`
+
+High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.
+
 ### [MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography](https://www.nature.com/articles/s41746-026-03450-3)
 
 - Source: `npj_digital_medicine` · published `2026-11-07` · freshness `fresh`
@@ -3543,6 +3519,38 @@ Two newly elected lawmakers with science backgrounds hope to push back against T
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03450-3`
 
 Long-term cardiovascular disease (CVD) risk prediction remains a major global clinical priority. This study investigates how much prognostic information full-night polysomnography (PSG) carries after explicitly controlling demographic confounding, and whether combining specialized unimodal representations with continuous fusion mechanisms can effectively leverage it. We adopt a modular framework based on Coupled Mamba for simultaneous cross-modal and temporal fusion, capturing long-range dependencies and dynamic interactions between physiological modalities throughout sleep. With this capability, we assess whether specialized supervised representations from task-specific unimodal encoders offer prognostic value comparable to task-agnostic multimodal self-supervised pre-training. Validated on the Sleep Heart Health Study (SHHS) dataset, our approach achieves performance comparable to or better than current state-of-the-art architectures in the fully supervised, data-abundant regime, although the cardiac channel alone accounts for most of the discriminative signal. More importantly, we show that in the reference dataset chronological age strongly drives survival ranking; when provided as an explicit input, it can create a shortcut that obscures the contribution of PSG-derived physiology. Ultimately, our findings suggest that supervised unimodal experts integrated through a fusion engine provide a flexible pathway for prognostic risk ranking from sleep recordings, while reliable CVD screening will require independent external cohorts and explicit confounder control.
+
+### [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
+
+- Source: `hn_ai_health_signals` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://eyesrhythm.com/`
+
+Hacker News community signal; score 22.
+
+### [STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries](https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss`
+
+The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.
+
+### [STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories](https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss`
+
+“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease."
+
+### [STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy](https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss`
+
+Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.
 
 ### [Wrist photoplethysmography encodes dietary information](https://www.nature.com/articles/s41746-026-03425-4)
 

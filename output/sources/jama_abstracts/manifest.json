@@ -4,17 +4,17 @@
       "count": 30,
       "hit_count": 72,
       "kind": "europe_pmc",
-      "query": "ISSN:0098-7484 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-09 TO 2026-11-07] sort_date:y"
+      "query": "ISSN:0098-7484 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-10 TO 2026-11-08] sort_date:y"
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 1123,
+  "elapsed_ms": 3741,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-11-07T14:03:03+00:00",
+  "generated_at": "2026-11-08T00:36:40+00:00",
   "item_count": 30,
-  "last_checked_at": "2026-11-07T14:03:03+00:00",
-  "last_success_at": "2026-11-07T14:03:03+00:00",
+  "last_checked_at": "2026-11-08T00:36:40+00:00",
+  "last_success_at": "2026-11-08T00:36:40+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",
