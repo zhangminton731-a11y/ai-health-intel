@@ -1,6 +1,6 @@
-# Scientific Information Brief · 2026-11-08
+# Scientific Information Brief · 2026-11-09
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 443
+> Daily status: **complete_with_warning** · sources 26/26 · items 442
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 442
+## Archive · 441
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1946,32 +1946,32 @@ Professor Michael Yaffe and six MIT alumni are honored for their outstanding pro
 
 ### [Closing the loop on blood flow control in spinal cord injury](https://www.nature.com/articles/s41551-026-01784-7)
 
-- Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01784-7`
+- Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01784-7`
 
-After spinal cord injury, clinicians raise blood pressure to protect tissue without directly monitoring the effect on the cord, exposing patients to harm. We designed a closed-loop controller that adjusts drug infusion in response to ultrasonography-based measurements of spinal cord blood flow, stabilizing perfusion at the injury site and preserving neurological function in animals.
+No summary supplied by the source.
 
 ### [Irritable bowel syndrome and related disorders of gut-brain interaction.](https://doi.org/10.1016/s0140-6736(26)01500-x)
 
-- Source: `lancet_abstracts` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `lancet_abstracts` · published `2026-10-29` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42956794`
 
 Irritable bowel syndrome, chronic constipation, and functional diarrhoea are disorders of gut-brain interaction, the symptoms of which include abnormal stool consistency or frequency accompanied by varying degrees of abdominal pain, discomfort, bloating, or distension. These conditions affect 20% of the global population with a relapsing and remitting course. Risk factors include female sex, younger age, a history of common mental disorders, and acute enteric infection. The pathophysiology of irritable bowel syndrome, chronic constipation, and functional diarrhoea remain incompletely understood, but are thought to be secondary to aberrant interactions throughout the gut-brain axis, resulting in disordered gut motility and visceral hypersensitivity. These conditions are diagnosed with a combination of clinical history, absence of alarm symptoms-such as weight loss or rectal bleeding-and targeted investigations. An empathetic management approach improves quality of life and symptoms, reduces health-care use, and enhances treatment adherence. Mainstays of treatment include education, dietary and lifestyle advice, modifying fibre intake, and drugs directed towards predominant symptoms. For severe symptoms, other treatments include specific medical devices, biofeedback, or psychological therapies. However, the effectiveness of most treatments is modest and there is an ongoing need to expand available treatments for bowel disorders, with several novel drugs currently in development.
 
 ### [Optimal closed-loop feedback control of blood flow after spinal cord injury with norepinephrine](https://www.nature.com/articles/s41551-026-01777-6)
 
-- Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01777-6`
+- Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01777-6`
 
-After spinal cord injury, clinical management aims to support tissue perfusion, but current methods rely on the indirect control of arterial blood pressure without direct measurement of the local blood flow. This limits the ability to tailor drug delivery to the injured tissue. Here, we show that spinal cord blood flow can be regulated using a closed-loop controller that adjusts vasopressor infusion on the basis of real-time ultrasound flow measurement. We characterize the dynamic relationship between drug infusion, arterial pressure and spinal cord blood flow, and we use these data to design a feedback controller that targets a predefined flow level. We validate the system in simulations, implement the controller in real time in rodents and translate it to pigs. We show that the controller reduced blood flow deviations and variability compared with constant dosing and supported functional recovery in a rodent survival model. These results show a closed-loop spinal cord perfusion control strategy that leverages clinically available measurements and pharmacological interventions, supporting its translation to clinical settings for the management of acute spinal cord injury. A closed-loop control strategy regulates spinal cord blood flow by adjusting norepinephrine infusion using real-time flow measurements, enabling direct flow targeting after acute injury.
+No summary supplied by the source.
 
 ### [Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial infarction: a systematic review and individual participant data meta-analysis of randomised controlled trials.](https://doi.org/10.1016/s0140-6736(26)01767-8)
 
-- Source: `lancet_abstracts` · published `2026-10-29` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Source: `lancet_abstracts` · published `2026-10-29` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
 - Event: `seen` · identity: `pmid:42956796`
 
 <h4>Background</h4>In patients with suspected myocardial infarction, the 0/1 h pathway (blood draws at 0 h and 1 h) is recommended in current guidelines for early risk stratification. However, individual trials used different safety outcomes, and efficacy outcomes were inconclusive or not assessed. We conducted a systematic review and individual participant data meta-analysis of all randomised controlled trials to synthesise the totality of the evidence, assess heterogeneity across trials, and evaluate clinically relevant outcomes using harmonised definitions across trials.<h4>Methods</h4>In this systematic review and individual participant data meta-analysis, we searched PubMed, Cochrane Central Register of Controlled Trials, Scopus, and the International Clinical Trials Registry Platform from inception to July 6, 2026, without language restrictions, for randomised trials comparing the safety and efficacy of 0/1 h versus 0/3 h pathways (blood draws at 0 h and 3 h, ie, standard care). Individual participant data were obtained and outcome definitions were harmonised. The primary analysis used a two-stage random-effects meta-analysis. After receipt of the individual participant data but before data harmonisation or analysis, the primary safety outcome was refined to a composite of all-cause death or new type 1 myocardial infarction within 30 days, from the originally specified composite of all-cause death or any new myocardial infarction. The primary efficacy outcomes were emergency department length of stay and direct discharge from the emergency department. This meta-analysis is registered with PROSPERO (CRD420261383452).<h4>Findings</h4>Our systematic review identified five randomised trials, all of which provided individual participant data. Among these, the definition of the primary safety outcome varied, and in four trials emergency department length of stay was not reported for the whole analysis population. We included 110 933 patient presentations (55 489 managed with the 0/1 h pathway and 55 444 managed with the 0/3 h pathway). Within 30 days, all-cause death or new type 1 myocardial infarction occurred in 446 patient presentations (0·8%) with the 0/1 h pathway versus 562 patient presentations (1·0%) with the 0/3 h pathway (random-effects pooled odds ratio [OR] 0·83 [95% CI 0·45-1·53]; I<sup>2</sup>=62·9%; τ<sup>2</sup>=0·143). Emergency department length of stay was 314 min (IQR 211-481) in the 0/1 h pathway group versus 308 min (209-453) in the 0/3 h pathway group (random-effects pooled geometric mean ratio 1·03 [95% CI 0·85-1·25]; I<sup>2</sup>=99·2%; τ<sup>2</sup>=0·024). Direct discharge from the emergency department occurred in 37 190 patient presentations (67·0%) with the 0/1 h pathway versus 36 485 patient presentations (65·8%) with the 0/3 h pathway (random-effects pooled OR 1·31 [95% CI 0·79-2·16]; I<sup>2</sup>=97·8%; τ<sup>2</sup>=0·156).<h4>Interpretation</h4>Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account.<h4>Funding</h4>Swiss National Science Foundation, Swiss Heart Foundation, University Hospital Basel, University of Basel, and Foundation for Cardiovascular Research Basel.
@@ -2240,14 +2240,6 @@ Background: Machine learning has been extensively applied in medical prediction;
 
 <p><a href="https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/MF038-WIDE.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In this episode, we’re joined by Dr. Rani Aravamudhan, senior medical director of Artemis at Nomi Health. We discuss Nomi Health’s new research on endometriosis.</p> <p>The post <a href="https://medcitynews.com/2026/11/medcity-femfwd-the-gaps-in-endometriosis-care/">MedCity FemFwd: The Gaps in Endometriosis Care</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Mental Health Care Was Never Built for Everyone — AI Won’t Fix That](https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/)
-
-- Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/`
-
-<p><a href="https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/"><img width="600" height="360" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1298849652-600x360.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1298849652-600x360.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1298849652-300x180.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/09/GettyImages-1298849652.jpg 763w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Companies aren&#8217;t slowing down to ask if AI is ready for mental health; they&#8217;re racing to build it in. Encoding the same unexamined standards into these tools means repeating the systemic issues marginalized groups have lived with for far too long.</p> <p>The post <a href="https://medcitynews.com/2026/11/mental-health-care-was-never-built-for-everyone-ai-wont-fix-that/">Mental Health Care Was Never Built for Everyone — AI Won&#8217;t Fix That</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Re-timing mortality risk through individualized modelling of lifespan trajectories](https://www.nature.com/articles/s41551-026-01822-4)
 
 - Source: `nature_biomedical_engineering` · published `2026-11-02` · freshness `fresh`
@@ -2327,14 +2319,6 @@ Background: Despite growing recognition that AI-driven systems offer transformat
 - Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp">Read announcements from Google’s 2026 AI in the Learning Era event.
-
-### [Author Correction: In vivo base editing gene therapy for heterozygous familial hypercholesterolemia: a phase 1 trial](https://www.nature.com/articles/s41591-026-04786-9)
-
-- Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04786-9`
-
-No summary supplied by the source.
 
 ### [China’s Largest Startup Deal Ever Lifts Global Venture Funding To $59B In October](https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/)
 
@@ -2511,14 +2495,6 @@ Vagus nerve stimulation has shown promising neuroprotective and anti-inflammator
 - Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-MH-27-025.html`
 
 Notice NOT-MH-27-025 from the NIH Guide for Grants and Contracts
-
-### [Publisher Correction: Molecular predictors of minimal residual disease in newly diagnosed multiple myeloma treated with quadruplet therapy](https://www.nature.com/articles/s41591-026-04792-x)
-
-- Source: `nature_medicine` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04792-x`
-
-No summary supplied by the source.
 
 ### [Redesigned Health app expands language support](https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/)
 
@@ -2840,14 +2816,6 @@ Background: Large language models (LLMs) show great potential for widespread app
 
 <p>Arkstone has launched Arkstone Next, an AI platform developed to provide infectious disease decision support at the point of care for clinicians.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/arkstone-ai-platform-infectious-disease-guidance/">Arkstone introduces AI platform for infectious disease guidance</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [Ballot measures affirm divisions over abortion and transgender issues](https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss`
-
-Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.
-
 ### [BD reports FY26 revenues of $19.5bn after medtech prioritisation](https://www.medicaldevice-network.com/news/bd-reports-fy26-revenues-of-19-bn-after-medtech-prioritisation/)
 
 - Source: `medical_device_network` · published `2026-11-05` · freshness `fresh`
@@ -3140,9 +3108,9 @@ Background: Pharmacoepidemiologic studies using real-world data often lack clini
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/`
 
-<p><a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/"><img width="784" height="523" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg 784w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-768x512.jpg 768w" sizes="(max-width: 784px) 100vw, 784px" /></a></p><p>Accelerated FDA approval of Johnson &amp; Johnson’s Rybrevant Faspro covers advanced cases of head and neck cancer. The bispecific antibody was initially approved for treating certain lung cancers. </p> <p>The post <a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/">Bispecific J&amp;J Drug Wins Speedy FDA Approval for Treating Head &amp; Neck Cancer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/"><img width="784" height="523" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg 784w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-768x512.jpg 768w" sizes="(max-width: 784px) 100vw, 784px" /></a></p><p>Accelerated FDA approval of Johnson &amp; Johnson’s Rybrevant Faspro covers advanced cases of head and neck cancer. The bispecific antibody was initially approved for treating certain lung cancers. </p> <p>The post <a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/">Bispecific J&amp;J Drug Wins Speedy FDA Approval for Treating Head &amp; Neck Cancer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Correction: A Machine Learning–Based Model to Predict Overactive Bladder Risk Among US Women: Evidence From the National Health and Nutrition Examination Survey 2011-2018](https://medinform.jmir.org/2026/1/e113546)
 
@@ -3468,9 +3436,9 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/`
 
-<p><a href="https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/"><img width="600" height="340" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-600x340.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-600x340.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-300x170.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-768x435.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400.jpg 785w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Typically, software placed on the market will undergo changes and updates after its initial release. In the case of healthcare AI, changes can occur, often unexpectedly, even when the developers have not updated the model. </p> <p>The post <a href="https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/">The Big Challenge for AI in Healthcare Comes After Approval</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/"><img width="600" height="340" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-600x340.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-600x340.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-300x170.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-768x435.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400.jpg 785w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Typically, software placed on the market will undergo changes and updates after its initial release. In the case of healthcare AI, changes can occur, often unexpectedly, even when the developers have not updated the model. </p> <p>The post <a href="https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/">The Big Challenge for AI in Healthcare Comes After Approval</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [The Week’s 10 Biggest Funding Rounds: AI, Defense And Space Tech Lead For Large Rounds](https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/)
 
@@ -3518,7 +3486,7 @@ Long-term cardiovascular disease (CVD) risk prediction remains a major global cl
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://eyesrhythm.com/`
 
-Hacker News community signal; score 31.
+Hacker News community signal; score 36.
 
 ### [STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries](https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss)
 
@@ -3552,13 +3520,37 @@ Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for
 
 Whether wearable photoplethysmography (PPG) encodes dietary information remains unknown. We trained a language model on 1.1M meals to align PPG with meal descriptions. Near-meal PPG carries a meal-specific signal beyond individual traits; predictability decreases farther from meals. This transfers to dietary tasks: PPG increases AUC by 11% for a caloric-intake proxy and satiety across held-out and independent cohorts. Wearable PPG may augment text-based logging, compensating for brief descriptions.
 
-### [Show HN: LLM weight editing tool made by a 15-year-old](https://github.com/Miyamoto-Renya/LaplacesScissors)
+### [Effects of semaglutide on cardiac structure and function in heart failure with preserved ejection fraction and obesity: a pre-specified cardiac magnetic resonance substudy of the CAMEO-SEMA trial](https://www.nature.com/articles/s41591-026-04787-8)
 
-- Source: `hn_ai_health_signals` · published `2026-11-08` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://github.com/Miyamoto-Renya/LaplacesScissors`
+- Source: `nature_medicine` · published `2026-11-08` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04787-8`
 
-Hacker News community signal; score 3.
+Glucagon-like peptide-1 receptor agonists improve symptoms in patients with obesity and heart failure with preserved ejection fraction (HFpEF). We recently demonstrated that semaglutide reduces exertional pulmonary artery wedge pressure (PAWP) in obesity-related HFpEF, but potential effects of semaglutide on cardiac structure and function that may underlie these hemodynamic improvements remain unclear. In this prespecified cardiovascular magnetic resonance (CMR) substudy of the randomized CAMEO-SEMA trial, 49 participants (33 semaglutide, 16 placebo, 28 female) underwent CMR at baseline and 52 weeks, within 1 day of invasive exercise hemodynamic assessment. The prespecified primary CMR endpoint was change in left atrial (LA) reservoir strain; other prespecified CMR endpoints included LV filling dynamics, which were assessed by early filling rate indexed to end-diastolic volume (eFR/EDV). Compared with placebo, semaglutide improved LA reservoir strain (+5.7% [95% CI, +0.3 to +9.7]; P=0.037) and eFR/EDV (+0.64 s−1 [95% CI, +0.42 to +1.00]; P&lt;0.0001). Improvements in LA reservoir strain and LV filling dynamics were associated with reductions in exercise PAWP (r=−0.46, P&lt;0.001 and r=−0.65, P&lt;0.0001, respectively). With respect to other prespecified CMR endpoints, semaglutide reduced LV mass, restored more physiologic LV geometry, and improved right ventricular function and biventricular myocardial mechanics. The results of this CMR substudy indicate that in patients with obesity-related HFpEF, semaglutide improves LA function and LV diastolic filling dynamics, identifying improvements in myocardial function that may contribute to semaglutide’s improvement of hemodynamics. ClinicalTrials.gov number: NCT05371496. As presented at the 2026 AHA Scientific Sessions, a cardiac magnetic resonance substudy of the CAMEO-SEMA trial showed that semaglutide significantly improved cardiac structure and function, including left atrial reservoir strain and left ventricular filling dynamics, in individuals with heart failure with preserved ejection fraction and obesity.
+
+### [Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial](https://www.nature.com/articles/s41591-026-04762-3)
+
+- Source: `nature_medicine` · published `2026-11-08` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04762-3`
+
+The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in heart failure with preserved ejection fraction (HFpEF) through unclear mechanisms. Here, in this double-blind, placebo-controlled trial, we randomly assigned 81 patients (47 women) with HFpEF and obesity to semaglutide (2.4 mg weekly) or placebo for 52 weeks. The primary outcome was the change in invasively measured pulmonary artery wedge pressure (PAWP), a direct measure of cardiac congestion, during low-intensity exercise. Additional mechanistic outcomes included other hemodynamic measures and hemodynamic HFpEF remission (defined as normal PAWP under conditions of both rest and exercise at 52 weeks). At baseline, PAWP was 17.5 ± 4.3 mmHg at rest and 31.7 ± 5.2 mmHg during exercise. After 52 weeks, the mean change in PAWP during exercise was −9.8 (95% confidence interval (CI): −11.3 to −8.2) mmHg with semaglutide and +0.9 (95% CI: −1.3 to 3.0) mmHg with placebo (estimated difference, −10.6 mmHg; 95% CI: −13.3 to −8.0; P &lt; 0.0001). As compared to placebo, semaglutide also decreased resting PAWP (estimated difference, −7.1 mmHg; 95% CI: −9.8 to −4.4; P &lt; 0.0001), and semaglutide-treated patients were more likely to experience hemodynamic remission (53.7% versus 7.4%, odds ratio = 14.1, 95% CI: 3.0−134.6, P &lt; 0.001). The results from this trial indicate that, in patients with HFpEF and obesity, treatment with semaglutide reduced left heart filling pressures during exercise and at rest and was associated with hemodynamic HFpEF remission in over half of treated patients. ClinicalTrials.gov identifier: NCT05371496 . As presented at the 2026 American Heart Association Scientific Sessions, in a placebo-controlled randomized clinical trial, semaglutide significantly improved pulmonary artery wedge pressure and other hemodynamic parameters during low-intensity exercise in individuals with heart failure with preserved ejection fraction and obesity.
+
+### [Missing the Point: Isolation Alone Will Not Build AI Safety](https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/)
+
+- Source: `medcity_news` · published `2026-11-08` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/`
+
+<p><a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/"><img width="736" height="474" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg" class="attachment-large size-large wp-post-image" alt="Work Safety Concept - regulations and standard in medical hospital. Doctor offers safety first sign on virtual screen" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg 736w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI-300x193.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" /></a></p><p>Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/">Missing the Point: Isolation Alone Will Not Build AI Safety</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype](https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-08` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss`
+
+Once again, a hot new technology that was supposed to speed up drug research has fallen flat.
 
 ---
 
