@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-11-09
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 442
+> Daily status: **complete_with_warning** · sources 26/26 · items 441
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 441
+## Archive · 440
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1948,7 +1948,7 @@ Professor Michael Yaffe and six MIT alumni are honored for their outstanding pro
 
 - Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01784-7`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01784-7`
 
 No summary supplied by the source.
 
@@ -1964,7 +1964,7 @@ Irritable bowel syndrome, chronic constipation, and functional diarrhoea are dis
 
 - Source: `nature_biomedical_engineering` · published `2026-10-29` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `url:https://www.nature.com/articles/s41551-026-01777-6`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41551-026-01777-6`
 
 No summary supplied by the source.
 
@@ -3032,14 +3032,6 @@ Analyses disentangling the role of the gut microbiome in linking lifestyle facto
 
 Companies spanning construction and robotics have raised about $1.6 billion so far this year — more than 4x the $389 million recorded in all of 2025 — according to Crunchbase data. The surge was driven by three companies that raised the majority of the funding.
 
-### [STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion](https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss`
-
-PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.
-
 ### [The AI-Native Clinician Is Already Here. Medical Education and Health Systems Need to Catch Up.](https://medcitynews.com/2026/11/the-ai-native-clinician-is-already-here-medical-education-and-health-systems-need-to-catch-up/)
 
 - Source: `medcity_news` · published `2026-11-05` · freshness `fresh`
@@ -3108,7 +3100,7 @@ Background: Pharmacoepidemiologic studies using real-world data often lack clini
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/`
 
 <p><a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/"><img width="784" height="523" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson.jpg 784w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/RYBREVANT_FASPRO_Johnson_and_Johnson-768x512.jpg 768w" sizes="(max-width: 784px) 100vw, 784px" /></a></p><p>Accelerated FDA approval of Johnson &amp; Johnson’s Rybrevant Faspro covers advanced cases of head and neck cancer. The bispecific antibody was initially approved for treating certain lung cancers. </p> <p>The post <a href="https://medcitynews.com/2026/11/johnson-johnson-rybrevant-faspro-fda-approval-bispecific-antibody-egfr-met-head-neck-cancer-oncology-jnj/">Bispecific J&amp;J Drug Wins Speedy FDA Approval for Treating Head &amp; Neck Cancer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3436,7 +3428,7 @@ From new hires to departures, promotions and transfers, here are the latest comi
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/`
 
 <p><a href="https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/"><img width="600" height="340" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-600x340.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-600x340.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-300x170.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400-768x435.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1278608400.jpg 785w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Typically, software placed on the market will undergo changes and updates after its initial release. In the case of healthcare AI, changes can occur, often unexpectedly, even when the developers have not updated the model. </p> <p>The post <a href="https://medcitynews.com/2026/11/the-big-challenge-for-ai-in-healthcare-comes-after-approval/">The Big Challenge for AI in Healthcare Comes After Approval</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3480,14 +3472,6 @@ High blood pressure is known as the silent killer. Researchers are finding new w
 
 Long-term cardiovascular disease (CVD) risk prediction remains a major global clinical priority. This study investigates how much prognostic information full-night polysomnography (PSG) carries after explicitly controlling demographic confounding, and whether combining specialized unimodal representations with continuous fusion mechanisms can effectively leverage it. We adopt a modular framework based on Coupled Mamba for simultaneous cross-modal and temporal fusion, capturing long-range dependencies and dynamic interactions between physiological modalities throughout sleep. With this capability, we assess whether specialized supervised representations from task-specific unimodal encoders offer prognostic value comparable to task-agnostic multimodal self-supervised pre-training. Validated on the Sleep Heart Health Study (SHHS) dataset, our approach achieves performance comparable to or better than current state-of-the-art architectures in the fully supervised, data-abundant regime, although the cardiac channel alone accounts for most of the discriminative signal. More importantly, we show that in the reference dataset chronological age strongly drives survival ranking; when provided as an explicit input, it can create a shortcut that obscures the contribution of PSG-derived physiology. Ultimately, our findings suggest that supervised unimodal experts integrated through a fusion engine provide a flexible pathway for prognostic risk ranking from sleep recordings, while reliable CVD screening will require independent external cohorts and explicit confounder control.
 
-### [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
-
-- Source: `hn_ai_health_signals` · published `2026-11-07` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://eyesrhythm.com/`
-
-Hacker News community signal; score 36.
-
 ### [STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries](https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
@@ -3524,7 +3508,7 @@ Whether wearable photoplethysmography (PPG) encodes dietary information remains 
 
 - Source: `nature_medicine` · published `2026-11-08` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04787-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04787-8`
 
 Glucagon-like peptide-1 receptor agonists improve symptoms in patients with obesity and heart failure with preserved ejection fraction (HFpEF). We recently demonstrated that semaglutide reduces exertional pulmonary artery wedge pressure (PAWP) in obesity-related HFpEF, but potential effects of semaglutide on cardiac structure and function that may underlie these hemodynamic improvements remain unclear. In this prespecified cardiovascular magnetic resonance (CMR) substudy of the randomized CAMEO-SEMA trial, 49 participants (33 semaglutide, 16 placebo, 28 female) underwent CMR at baseline and 52 weeks, within 1 day of invasive exercise hemodynamic assessment. The prespecified primary CMR endpoint was change in left atrial (LA) reservoir strain; other prespecified CMR endpoints included LV filling dynamics, which were assessed by early filling rate indexed to end-diastolic volume (eFR/EDV). Compared with placebo, semaglutide improved LA reservoir strain (+5.7% [95% CI, +0.3 to +9.7]; P=0.037) and eFR/EDV (+0.64 s−1 [95% CI, +0.42 to +1.00]; P&lt;0.0001). Improvements in LA reservoir strain and LV filling dynamics were associated with reductions in exercise PAWP (r=−0.46, P&lt;0.001 and r=−0.65, P&lt;0.0001, respectively). With respect to other prespecified CMR endpoints, semaglutide reduced LV mass, restored more physiologic LV geometry, and improved right ventricular function and biventricular myocardial mechanics. The results of this CMR substudy indicate that in patients with obesity-related HFpEF, semaglutide improves LA function and LV diastolic filling dynamics, identifying improvements in myocardial function that may contribute to semaglutide’s improvement of hemodynamics. ClinicalTrials.gov number: NCT05371496. As presented at the 2026 AHA Scientific Sessions, a cardiac magnetic resonance substudy of the CAMEO-SEMA trial showed that semaglutide significantly improved cardiac structure and function, including left atrial reservoir strain and left ventricular filling dynamics, in individuals with heart failure with preserved ejection fraction and obesity.
 
@@ -3532,7 +3516,7 @@ Glucagon-like peptide-1 receptor agonists improve symptoms in patients with obes
 
 - Source: `nature_medicine` · published `2026-11-08` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04762-3`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04762-3`
 
 The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in heart failure with preserved ejection fraction (HFpEF) through unclear mechanisms. Here, in this double-blind, placebo-controlled trial, we randomly assigned 81 patients (47 women) with HFpEF and obesity to semaglutide (2.4 mg weekly) or placebo for 52 weeks. The primary outcome was the change in invasively measured pulmonary artery wedge pressure (PAWP), a direct measure of cardiac congestion, during low-intensity exercise. Additional mechanistic outcomes included other hemodynamic measures and hemodynamic HFpEF remission (defined as normal PAWP under conditions of both rest and exercise at 52 weeks). At baseline, PAWP was 17.5 ± 4.3 mmHg at rest and 31.7 ± 5.2 mmHg during exercise. After 52 weeks, the mean change in PAWP during exercise was −9.8 (95% confidence interval (CI): −11.3 to −8.2) mmHg with semaglutide and +0.9 (95% CI: −1.3 to 3.0) mmHg with placebo (estimated difference, −10.6 mmHg; 95% CI: −13.3 to −8.0; P &lt; 0.0001). As compared to placebo, semaglutide also decreased resting PAWP (estimated difference, −7.1 mmHg; 95% CI: −9.8 to −4.4; P &lt; 0.0001), and semaglutide-treated patients were more likely to experience hemodynamic remission (53.7% versus 7.4%, odds ratio = 14.1, 95% CI: 3.0−134.6, P &lt; 0.001). The results from this trial indicate that, in patients with HFpEF and obesity, treatment with semaglutide reduced left heart filling pressures during exercise and at rest and was associated with hemodynamic HFpEF remission in over half of treated patients. ClinicalTrials.gov identifier: NCT05371496 . As presented at the 2026 American Heart Association Scientific Sessions, in a placebo-controlled randomized clinical trial, semaglutide significantly improved pulmonary artery wedge pressure and other hemodynamic parameters during low-intensity exercise in individuals with heart failure with preserved ejection fraction and obesity.
 
@@ -3540,7 +3524,7 @@ The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in he
 
 - Source: `medcity_news` · published `2026-11-08` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/`
 
 <p><a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/"><img width="736" height="474" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg" class="attachment-large size-large wp-post-image" alt="Work Safety Concept - regulations and standard in medical hospital. Doctor offers safety first sign on virtual screen" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg 736w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI-300x193.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" /></a></p><p>Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/">Missing the Point: Isolation Alone Will Not Build AI Safety</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3548,9 +3532,17 @@ The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in he
 
 - Source: `stat_news_feed` · published `2026-11-08` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss`
 
 Once again, a hot new technology that was supposed to speed up drug research has fallen flat.
+
+### [Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders](https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-08` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss`
+
+A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.
 
 ---
 
