@@ -1,0 +1,5 @@
+{
+  "summary": "We developed a gait foundation model from three-dimensional skeletal motion data of 3,328 deeply phenotyped adults, recorded using a depth camera during five motor tasks. Embeddings significantly predicted 1,887 of 3,210 phenotypic targets and provided predictive gains across all 18 body systems in men and 17 out of 18 in women, while also improving prediction of clinical diagnoses and medication use.",
+  "summary_source": "https://www.nature.com/articles/s41591-026-04725-8",
+  "url": "https://www.nature.com/articles/s41591-026-04725-8"
+}
