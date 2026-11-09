@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-11-09
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 441
+> Daily status: **complete_with_warning** · sources 26/26 · items 440
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 440
+## Archive · 439
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -1063,14 +1063,6 @@ Migraine is a chronic neurovascular disorder characterised by recurrent attacks 
 - Event: `seen` · identity: `pmid:42849489`
 
 <h4>Background</h4>In hereditary angioedema, a rare bradykinin-mediated condition, oral on-demand treatments facilitating prompt administration and providing rapid, sustained relief and attack resolution remain scant. We investigated the efficacy and safety of deucrictibant, an oral bradykinin B2 receptor antagonist, for on-demand treatment of hereditary angioedema attacks.<h4>Methods</h4>RAPIDe-3 was a phase 3, double-blind, 2 × 2 crossover trial in adolescent and adult participants (aged ≥12 to <18 years and aged ≥18 to ≤75 years, respectively) with hereditary angioedema, at 59 sites across 24 countries on six continents. Eligible participants had hereditary angioedema, including those with normal C1 inhibitor associated with a documented genetic variant, at least two attacks within the last 3 months before screening, and experience with effectively using conventional on-demand therapies for hereditary angioedema attacks. Participants were randomly allocated in a 1:1 ratio to one of two double-blind crossover sequences to treat two attacks with a 20 mg oral deucrictibant immediate-release capsule or placebo as either deucrictibant-placebo or placebo-deucrictibant, stratified by age and use of long-term prophylaxis. The primary endpoint was time to onset of symptom relief, defined as Patient Global Impression of Change rating of at least a little better. Safety was assessed in all participants who received any dose of study drug. RAPIDe-3 is registered with ClinicalTrials.gov (NCT06343779) and is complete.<h4>Findings</h4>Between April 4, 2024, and Sept 1, 2025, 149 people were assessed for eligibility, and 134 eligible participants (ten [7%] adolescents and 124 [93%] adults) were randomly allocated. 58 (43%) were male and 76 (57%) were female, and the median age was 38·0 years (IQR 27·0-50·0). 113 participants treated 201 attacks. The primary efficacy analysis included 88 participants with paired treated attacks. Of these, 47 (53%) participants were female and 41 (47%) were male, and 60 (68%), 16 (18%), 4 (5%), and 1 (1%) were White, Asian, Black, and American Indian or Alaska Native, respectively. Onset of symptom relief occurred significantly faster with deucrictibant than placebo, with median times of 1·28 h (95% CI 1·05 to 1·52) and more than 12 h (5·82 to >12), respectively (p<0·0001). Fatigue was the only adverse event reported more than once within 3 days post-treatment: a single event was reported by two participants, one of which was deemed unrelated to treatment. Across the study, no treatment-related adverse events were assessed as severe or serious, and no adverse events led to treatment discontinuation.<h4>Interpretation</h4>Oral deucrictibant provided faster times to symptom relief than placebo and was generally well tolerated. These results support the use of deucrictibant as potentially the first orally administered bradykinin B2 receptor antagonist for the treatment of attacks of bradykinin-mediated angioedema, including hereditary angioedema, and may address an unmet need for options that are effective and well tolerated, with convenient administration.<h4>Funding</h4>Pharvaris.
-
-### [Questions and answers on the PIP compliance verification procedure at EMA, and on paediatric rewards](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-pip-compliance-verification-procedure-ema-paediatric-rewards_en.pdf)
-
-- Source: `ema_guidance` · published `2026-10-09` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/questions-answers-pip-compliance-verification-procedure-ema-paediatric-rewards_en.pdf`
-
-Questions and answers on the PIP compliance verification procedure at EMA, and on paediatric rewards
 
 ### [Addressing threats to future global health-what is the right timeframe?](https://doi.org/10.1016/s0140-6736(26)00880-9)
 
@@ -2200,14 +2192,6 @@ The U.S. Food and Drug Administration today issued final guidance for manufactur
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp">Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.
 
-### [How Innovation in BTK Inhibitor Development Is Improving Treatment Outcomes](https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/)
-
-- Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/`
-
-<p><a href="https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/"><img width="1024" height="1024" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1.png" class="attachment-large size-large wp-post-image" alt="BTK Inhibitor" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-300x300.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-150x150.png 150w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-768x768.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/10/unnamed-1-70x70.png 70w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] BTK inhibitor has become an important treatment option for certain B-cell malignancies.</p> <p>The post <a href="https://medcitynews.com/2026/11/how-innovation-in-btk-inhibitor-development-is-improving-treatment-outcomes/">How Innovation in BTK Inhibitor Development Is Improving Treatment Outcomes</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [Inovio’s DNA-Based Immunotherapy Lands Speedy FDA Nod for Rare Type of Tumor](https://medcitynews.com/2026/11/inovio-voceryq-fda-approval-dna-immunotherapy-human-papillomavirus-papilloma-hpv-rrp-ino/)
 
 - Source: `medcity_news` · published `2026-11-02` · freshness `fresh`
@@ -3172,9 +3156,9 @@ Affordable electroencephalography (EEG) headsets could widen access to EEG-based
 
 - Source: `medcity_news` · published `2026-11-06` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/`
 
-<p><a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/"><img width="600" height="378" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-300x189.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064.jpg 745w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>A new Experian Health survey finds that healthcare providers’ efforts to prevent claims denials are falling short, with many reporting an increase in denials over last year and increasingly complex payer requirements. </p> <p>The post <a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/">Experian Health Survey: Providers Struggle Amid Increasing Claim Denials</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/"><img width="600" height="378" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-300x189.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064.jpg 745w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>A new Experian Health survey finds that healthcare providers’ efforts to prevent claims denials are falling short, with many reporting an increase in denials over last year and increasingly complex payer requirements. </p> <p>The post <a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/">Experian Health Survey: Providers Struggle Amid Increasing Claim Denials</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [GeneDx and Mirum to provide genetic tests for cholestasis, cataracts or PBD-ZSD](https://www.medicaldevice-network.com/news/genedx-mirum-genetic-tests-cholestasis-cataracts-pbd-zsd/)
 
@@ -3524,9 +3508,9 @@ The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in he
 
 - Source: `medcity_news` · published `2026-11-08` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/`
 
-<p><a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/"><img width="736" height="474" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg" class="attachment-large size-large wp-post-image" alt="Work Safety Concept - regulations and standard in medical hospital. Doctor offers safety first sign on virtual screen" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg 736w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI-300x193.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" /></a></p><p>Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/">Missing the Point: Isolation Alone Will Not Build AI Safety</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/"><img width="736" height="474" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg" class="attachment-large size-large wp-post-image" alt="Work Safety Concept - regulations and standard in medical hospital. Doctor offers safety first sign on virtual screen" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg 736w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI-300x193.jpg 300w" sizes="(max-width: 736px) 100vw, 736px" /></a></p><p>Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/">Missing the Point: Isolation Alone Will Not Build AI Safety</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype](https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss)
 
@@ -3540,9 +3524,17 @@ Once again, a hot new technology that was supposed to speed up drug research has
 
 - Source: `stat_news_feed` · published `2026-11-08` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss`
 
 A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility.
+
+### [What’s Driving the Consumerization of Healthcare?](https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/)
+
+- Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/`
+
+<p><a href="https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Patients increasingly expect convenient, consumer-focused healthcare experiences, panelists said at the recent MedCity INVEST Digital Health Conference.</p> <p>The post <a href="https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/">What’s Driving the Consumerization of Healthcare?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ---
 
