@@ -2008,14 +2008,6 @@ No summary supplied by the source.
 
 The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making sure their products meet potency standards.
 
-### [Google Messages, Phone by Google, and Google Contacts get new, updated icons.](https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/)
-
-- Source: `fitbit_google_blog` · published `2026-11-02` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/`
-
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp">Google is updating the icons for Messages, Phone, and Contacts with a sleeker, cohesive design. See the new look for your home screen.
-
 ### [Machine Learning–Based Detection of Prophylactic Indication Mentions for Stress-Related Mucosal Disease in Chinese Clinical Progress Notes: Text Classification Study](https://medinform.jmir.org/2026/1/e103192)
 
 - Source: `jmir_medinform` · published `2026-11-02` · freshness `fresh`
@@ -2384,14 +2376,6 @@ Background: Discriminating mild cognitive impairment (MCI) from subjective cogni
 
 This is a correction of &quot;Detecting and Mitigating AI Bias in Health Care: Development and Validation of a Unified Multistage Framework&quot;.
 
-### [Crunchbase Data: Less Than 2% Of 2026 Venture Funding Went To Post-Election Red States](https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/)
-
-- Source: `crunchbase_news_feed` · published `2026-11-04` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/`
-
-So far this year, less than 2% of all startup investment has gone to companies in post-election red states, a share that is much smaller than in years past due to five states shifting to purple in the most recent election.
-
 ### [CVS Health Bids Goodbye to Vertical Integration But Not Conflict of Interest](https://medcitynews.com/2026/11/cvs-health-bids-goodbye-to-vertical-integration-but-not-conflict-of-interest/)
 
 - Source: `medcity_news` · published `2026-11-04` · freshness `fresh`
@@ -2480,14 +2464,6 @@ Retinoblastoma, the most common primary intraocular malignancy of childhood, rep
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp">Examine art in new ways with The Art of Looking, a new project from Google Arts & Culture and the Courtauld Institute of Art.
 
-### [The Crunchbase Tech Layoffs Tracker](https://news.crunchbase.com/startups/tech-layoffs/)
-
-- Source: `crunchbase_news_feed` · published `2026-11-04` · freshness `fresh`
-- Reading value: `28` · status: `scored`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/startups/tech-layoffs/`
-
-Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.
-
 ### [Watch Henry Cavill build a video game on his Googlebook](https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/)
 
 - Source: `fitbit_google_blog` · published `2026-11-04` · freshness `fresh`
@@ -2528,14 +2504,6 @@ Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts
 
 Heart failure with preserved ejection fraction (HFpEF) complicated by unstable angina (UA) represents a major challenge in chronic disease management with high risk of recurrent heart failure hospitalization (HFH), and despite the availability of multicenter real-world data, AI-driven tools for multi-horizon risk assessment remain limited. This multicenter retrospective cohort enrolled 4367 patients with UA and HFpEF, and an ensemble feature selection pipeline integrating LASSO, SVM-RFE and Boruta identified robust predictors, followed by training of twelve machine learning algorithms to estimate HFH risk at 12-, 24- and 36-month horizons with external validation. The optimal time-specific models (ET, GBDT and LightGBM) achieved strong discrimination in the training cohort with AUCs of 0.818, 0.834 and 0.863, and maintained performance in external validation with AUCs of 0.839, 0.836 and 0.851, respectively, while SHAP analysis highlighted diabetes mellitus, TyG-BMI and NT-proBNP as the most influential predictors. We developed and externally validated a multi-time-point machine learning framework for HFH risk stratification in UA and HFpEF, which showed acceptable calibration and potential clinical utility on decision-curve analysis. Further prospective and real-world validation across diverse populations and healthcare systems is needed to confirm clinical effectiveness and support translation into routine practice.
 
-### [BD reports FY26 revenues of $19.5bn after medtech prioritisation](https://www.medicaldevice-network.com/news/bd-reports-fy26-revenues-of-19-bn-after-medtech-prioritisation/)
-
-- Source: `medical_device_network` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/bd-reports-fy26-revenues-of-19-bn-after-medtech-prioritisation/`
-
-<p>BD spun out its diagnostics business in a $17.5bn deal with Waters Corporation in June 2025 in order to prioritise its focus on the medtech space.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/bd-reports-fy26-revenues-of-19-bn-after-medtech-prioritisation/">BD reports FY26 revenues of $19.5bn after medtech prioritisation</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Boston Scientific, Blackstone agree to $455M deal to co-fund heart pump development](https://www.medtechdive.com/news/boston-scientific-blackstone-agree-to-455m-deal-to-co-fund-heart-pump-dev/873686/)
 
 - Source: `medtech_dive_primary` · published `2026-11-05` · freshness `fresh`
@@ -2559,14 +2527,6 @@ Boston Scientific has formed an alliance with Blackstone Life Sciences to co-fun
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03447-y`
 
 Safe deprioritization of non-contrast brain computed tomography (NCCT) demands high sensitivity and negative predictive value (NPV) across common and uncommon findings requiring clinical attention. Here, we present a collaborative safety net integrating BrainCT-CLIP, a generalist foundation model via contrastive language-image pre-training (CLIP), with commercial detectors. Every examination remained in the reporting workflow, deprioritized only when no model returned a positive result. In a retrospective multicenter external validation of consecutive emergency and trauma cohorts (n = 2001), standalone commercial detectors left 31 of 324 remarkable examinations deprioritized, including 16 target-disease false negatives and 15 outside their indications. In contrast, the collaborative system recovered every remarkable examination at a threshold prespecified in the development cohort, achieving 100% sensitivity and NPV while deprioritizing 18% of examinations (368/2001; 95% CI, 17–20). These findings support generalist-specialist AI for safe worklist deprioritization under radiologist oversight, with high sensitivity for intracranial findings requiring clinical attention.
-
-### [Digital readiness for cardiovascular care in high-burden US communities with cardiology workforce constraints](https://www.nature.com/articles/s41591-026-04800-0)
-
-- Source: `nature_medicine` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04800-0`
-
-Digital health may extend cardiovascular care in communities with limited specialist access, but its effectiveness depends on whether communities have the infrastructure, devices, affordability, and capacity needed to use digital services. We linked national data on cardiometabolic disease burden, cardiology workforce, and digital readiness across 82,999 US census tracts. Among high-burden tracts in counties with no cardiologist or declining per-capita cardiologist supply, 4,765 (18.0%) tracts representing 19.9 million residents had higher digital readiness and were thus classified as deployment-priority tracts, whereas 21,752 (82.0%) tracts representing 74.1 million residents had lower readiness and were investment-priority tracts. Investment-priority tracts were spread across the urban-rural continuum and faced different barriers (adoption versus infrastructure). Contrasting classifications frequently occurred among neighboring census tracts within the same metropolitan area, highlighting geographic variation not captured by county-level targeting. Findings were broadly consistent across nine additional analyses with varying measures of readiness, workforce access, and classification thresholds. These findings provide a national framework for distinguishing communities where digital cardiovascular care may be deployed from those where infrastructure and adoption support may first be needed to enable equitable implementation. As presented at 2026 AHA Scientific Sessions: Analysis of U.S. Census and other national health data identifies communities with high cardiovascular care needs and assess health system readiness for digital care deployment.
 
 ### [Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet](https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition/)
 
@@ -2688,14 +2648,6 @@ Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit P
 
 <h4>Importance</h4>Refusal of newborn prophylactic vitamin K has been increasing in the US, placing more infants at risk for vitamin K deficiency bleeding.<h4>Objective</h4>To describe US trends in nonreceipt of newborn vitamin K and infant bleeding, and to compare risks of bleeding and mortality with concurrent bleeding among infants who did and did not receive newborn intramuscular (IM) vitamin K.<h4>Design, setting, and participants</h4>This retrospective cohort study included infants born at 35 to 43 weeks' gestation between January 1, 2017, and December 31, 2025, at hospitals and health systems from 50 states contributing to the Epic Cosmos dataset.<h4>Exposure</h4>Nonreceipt of newborn IM vitamin K.<h4>Main outcomes and measures</h4>The primary outcome was bleeding within the first 6 months of life based on International Statistical Classification of Diseases and Related Health Problems, Tenth Revision codes. Secondary outcomes were bleeding during the birth hospitalization and after discharge, intracranial bleeding, and mortality with concurrent bleeding during the birth hospitalization. Robust Poisson regression was used to estimate relative risks while adjusting for covariates.<h4>Results</h4>Among 5 240 780 infants, the rate of vitamin K nonreceipt increased from 3.1% in 2017 to 6.8% in 2025. Between 2017 and 2025, the incidence of bleeding by 6 months increased from 225.3 to 394.0 per 10 000 births in infants who did not receive newborn IM vitamin K, compared with 136.6 to 221.8 per 10 000 in infants who received vitamin K. Infants who did not receive vitamin K had significantly higher risk of bleeding by 6 months than infants who did receive vitamin K (288.0 vs 185.9 per 10 000; adjusted risk ratio [ARR], 1.47; 95% CI, 1.43-1.51). They also had higher risk of intracranial bleeding (33.0 vs 13.2 per 10 000; ARR, 2.43; 95% CI, 2.26-2.62) and mortality with concurrent bleeding during the birth hospitalization (2.9 vs 1.1 per 10 000; ARR, 2.69; 95% CI, 2.09-3.47).<h4>Conclusions and relevance</h4>Nonreceipt of vitamin K and infant bleeding incidence have increased in the US, and newborns who did not receive vitamin K were at significantly higher risk of bleeding during their first 6 months.
 
-### [Opposing microbiome-mediated axes link modifiable lifestyles to health and chronic diseases](https://www.nature.com/articles/s41591-026-04744-5)
-
-- Source: `nature_medicine` · published `2026-11-05` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04744-5`
-
-Analyses disentangling the role of the gut microbiome in linking lifestyle factors to health outcomes remain limited. Here, using fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort, we identified two opposing microbiome-mediated axes linking lifestyle to health and 15 diseases. A health-associated axis enriched in microbial metabolism of dietary components was linked to plant-based, soy and dairy intake. In contrast, a disease-associated axis, enriched in oral-derived bacteria and pathobionts, was linked to refined carbohydrates and sedentary behavior. Starter culture microorganisms used to ferment foods did not show statistically significant mediation of the observed health effects. Alcohol was associated with both health- and disease-oriented mediation patterns involving microbial host-glycan utilization. Microbiome-defined health- and disease-oriented mediator axes were supported by fecal short-chain fatty acids and plasma cytokines from &gt;1,700 individuals, revealing butyrate-associated anti-inflammatory and pro-inflammatory host profiles, respectively. Microbiome-based prediction (MADE) scores captured lifestyle–microbiome–disease mediation patterns and distinguished individual diseases across 13 independent external cohorts from the United States, China, Sweden, Russia and Australia. We identify the gut microbiome as a key mediator linking lifestyle to health and disease, providing a framework for microbiome-based assessment to guide lifestyle interventions for health promotion and disease prevention. Fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort and microbiome-based prediction scores validated across 13 independent and geographically diverse cohorts revealed two opposing microbiome-mediated axes linking lifestyle to health and 15 diseases.
-
 ### [Sector Snapshot: Construction Robotics Funding Soars To $1.6B, Tripling Previous Peak](https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/)
 
 - Source: `crunchbase_news_feed` · published `2026-11-05` · freshness `fresh`
@@ -2751,14 +2703,6 @@ Companies spanning construction and robotics have raised about $1.6 billion so f
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/`
 
 <p><a href="https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/"><img width="1000" height="563" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></a></p><p>Growing use of wearable technologies and the data they produce was discussed by a panel at the MedCity News INVEST Digital Health Conference in Dallas. </p> <p>The post <a href="https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/">Why the Wealth of Data From Wearables Are Important for Consumers and Clinicians</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [A gait foundation model for prediction of multisystem health phenotypes from 3D skeletal motion](https://www.nature.com/articles/s41591-026-04724-9)
-
-- Source: `nature_medicine` · published `2026-11-06` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04724-9`
-
-Gait is increasingly recognized as a vital sign, yet current approaches treat it as a symptom of specific pathologies rather than a systemic biomarker. Here we developed a gait foundation model for three-dimensional skeletal motion, which was recorded via a single-depth camera during 5 motor tasks, from 3,328 deeply phenotyped adults. Our purpose was to capture the full pattern of a person’s movement and use it to predict health phenotypes such as grip strength and sleep quality across 18 body systems. Gait is conventionally described by engineered features (for example, calculated measurements such as cadence and stride length), which may fail to capture the fine detail of how a person moves. Our model instead translates movement into learned embeddings: sets of numbers that describe how all body joints move together over time. Learned embeddings outperformed engineered features for prediction of age (Pearsonʼs r = 0.69), body mass index (r = 0.91) and visceral adipose tissue area (r = 0.83), and embeddings significantly predicted 1,887 of 3,210 tested phenotypes. Relative to a baseline model using age, body mass index, visceral adipose tissue and height alone, gait embeddings improved prediction in all 18 systems in males and 17 of 18 in females, as well as prediction of clinical diagnoses and medication use. Anatomical ablation analyses revealed that leg dynamics dominated metabolic and frailty predictions, and torso dynamics encoded sleep and lifestyle phenotypes. These findings establish gait as an independent, multisystem biosignal, motivating integration of gait analysis into routine clinical assessment as a scalable, passive vital sign. A gait foundation model, developed using three-dimensional skeletal motion data from 3,328 adults, predicts a wide array of clinical characteristics and diagnoses, including cardiometabolic, mental health and frailty phenotypes.
 
 ### [Association Between Intradialytic Foot Temperature Gradients and Severe Peripheral Artery Disease in Patients Undergoing Hemodialysis: Prospective Cohort Study](https://mhealth.jmir.org/2026/1/e96782)
 
@@ -2848,14 +2792,6 @@ Affordable electroencephalography (EEG) headsets could widen access to EEG-based
 
 <p><a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/"><img width="600" height="378" src="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-600x378.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064-300x189.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2018/10/GettyImages-812376064.jpg 745w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>A new Experian Health survey finds that healthcare providers’ efforts to prevent claims denials are falling short, with many reporting an increase in denials over last year and increasingly complex payer requirements. </p> <p>The post <a href="https://medcitynews.com/2026/11/experian-health-survey-providers-struggle-amid-increasing-claim-denials/">Experian Health Survey: Providers Struggle Amid Increasing Claim Denials</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [GeneDx and Mirum to provide genetic tests for cholestasis, cataracts or PBD-ZSD](https://www.medicaldevice-network.com/news/genedx-mirum-genetic-tests-cholestasis-cataracts-pbd-zsd/)
-
-- Source: `medical_device_network` · published `2026-11-06` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/genedx-mirum-genetic-tests-cholestasis-cataracts-pbd-zsd/`
-
-<p>GeneDx and Mirum Pharmaceuticals have partnered to provide no-cost exome sequencing for eligible patients across cholestasis, early-onset cataracts, and PBD-ZSD testing programmes.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/genedx-mirum-genetic-tests-cholestasis-cataracts-pbd-zsd/">GeneDx and Mirum to provide genetic tests for cholestasis, cataracts or PBD-ZSD</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [General Catalyst Tops Lead Investors For October In Busy Month For US Startup Dealmaking](https://news.crunchbase.com/venture/october-2026-lead-startup-investors/)
 
 - Source: `crunchbase_news_feed` · published `2026-11-06` · freshness `fresh`
@@ -2936,14 +2872,6 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 
 Background: The rapid advancement of generative AI (GenAI) holds transformative potential for clinical nursing practice, yet its integration also brings significant risks and uncertainties. Despite growing discourse on AI in health care, frontline nurses’ firsthand experiences, perceptions, and practical needs regarding GenAI remain largely under-synthesized in the existing literature. Objective: This systematic review aimed to synthesize qualitative evidence to clarify the core themes related to clinical nurses’ perceptions, experiences, obstacles, and requirements when using GenAI in real-world clinical settings. Methods: A systematic search was conducted across 10 electronic databases (PubMed, Embase, CINAHL, Web of Science, Cochrane Library, ProQuest Dissertations and Theses, China National Knowledge Infrastructure, VIP Information, SinoMed, and Wanfang) for records published between January 2018 and June 2026. Eligible studies included qualitative and mixed methods studies involving registered nurses that explored their perceptions and experiences of GenAI in clinical practice. Two independent reviewers (MMW and CYZ) performed study selection, quality appraisal, and data extraction, with disagreements resolved by consensus. Quality was assessed using the Joanna Briggs Institute (JBI) Critical Appraisal Checklist for Qualitative Research. Extracted data encompassed study characteristics, participant demographics, and GenAI-related contextual factors. Data synthesis followed Thomas and Harden’s 3-phase thematic synthesis: initial inductive coding generated descriptive themes, which were subsequently integrated with the Technology Acceptance Model for Artificial Intelligence in Nursing (TAM-AIN) framework to develop higher-order analytical themes. Certainty in the evidence was evaluated using the GRADE-CERQual (Grading of Recommendations Assessment, Development and Evaluation-Confidence in the Evidence from Reviews of Qualitative Research). Results: Of the 4350 initially identified records, 13 studies from 6 countries (China: n=6; Saudi Arabia: n=3; United States, Singapore, Australia, and South Korea: n=1 each) met the inclusion criteria, encompassing qualitative data from 234 registered nurses. Three main themes emerged: patterns of nurses’ engagement with GenAI (ranging from passive observation to proactive integration), multidimensional perceived threats to adoption (functional, professional, and accountability-related), and the moderating role of organizational readiness, which influenced whether these threats hindered or facilitated GenAI uptake in practice. The GRADE-CERQual assessment showed moderate to high confidence in all findings. Conclusions: Nurses’ engagement with GenAI ranges from passive observation to proactive integration, accompanied by legitimate concerns about functional reliability, professional role displacement, and accountability ambiguity. The moderating role of organizational readiness further highlights that training, tool optimization, and institutional governance remain critical yet often unmet. These findings necessitate coordinated efforts across workforce development, technological design, and regulatory frameworks. Future research should prioritize the development of clinically validated, context-aware GenAI systems that incorporate human-in-the-loop oversight, ensuring that efficiency gains do not compromise the delivery of compassionate, person-centered care. Trial Registration: PROSPERO CRD420251250664; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251250664 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/747940bd8a0ec5c7fa9e03e5e1df0318" />
 
-### [Olympus launches Soltive Gemini laser system in US](https://www.medicaldevice-network.com/news/olympus-soltive-gemini-laser-system-us/)
-
-- Source: `medical_device_network` · published `2026-11-06` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/olympus-soltive-gemini-laser-system-us/`
-
-<p>Olympus Corporation has launched its Soltive Gemini 60W Laser System in the US, targeting kidney stone management and soft tissue procedures.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/olympus-soltive-gemini-laser-system-us/">Olympus launches Soltive Gemini laser system in US</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
 ### [Patient Engagement in a Virtual Cardiac Rehabilitation Platform: Secondary Analysis of the ERA-Nudge Trial](https://mhealth.jmir.org/2026/1/e64502)
 
 - Source: `jmir_mhealth` · published `2026-11-06` · freshness `fresh`
@@ -3020,25 +2948,17 @@ This week brought another plethora of large funding rounds for startups and grow
 
 - Source: `lancet_abstracts` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42998670`
+- Event: `updated` · identity: `pmid:42998670`
 
-Acute myocardial infarction complicated by cardiogenic shock (AMI-CS) can compromise the administration and absorption of oral P2Y12 inhibitors and carries high ischaemic and mortality risks. This trial assessed whether intravenous cangrelor was non-inferior to crushed oral ticagrelor for short-term clinical outcomes and whether it provided faster and more consistent platelet inhibition in patients with AMI-CS. DAPT-SHOCK-AMI was a double-blind trial conducted at 29 hospitals across five European countries (Czech Republic, France, Germany, Poland, and Slovakia). Patients older than 18 years with AMI-CS were randomly assigned (1:1 ratio, stratified by centre, age, sex, presence or absence of ST-segment elevation, and mechanical ventilation) to cangrelor (30 μg/kg bolus followed by an infusion of 4 μg/kg per min for at least 2 h) or crushed ticagrelor (180 mg loading dose). The primary laboratory endpoint was a platelet reactivity index of less than 50% at the end of primary percutaneous coronary intervention. The primary clinical endpoint was death, myocardial infarction, or ischaemic stroke at 30 days. The primary clinical endpoint was analysed for non-inferiority with a prespecified margin of 1 percentage point among all randomly assigned patients who received study treatment. The study is registered with ClinicalTrials.gov (NCT03551964) and EudraCT (2018-002161-19); recruitment and 1-year follow-up are complete, and 5-year follow-up is ongoing. Between Aug 1, 2018, and Jan 19, 2024, 605 patients (137 [23%] were female) were randomly assigned to cangrelor (n=298) or ticagrelor (n=307); no surviving patients were lost to the 1-year follow-up. The primary laboratory endpoint was analysed in 56 (19%) patients in the cangrelor group and 68 (22%) in the ticagrelor group, and was achieved in 56 (100%) of 56 patients receiving cangrelor and 15 (22%) of 68 receiving ticagrelor (p<0·0001). The 30-day primary clinical endpoint occurred in 112 (38%) of 298 patients receiving cangrelor and 126 (41%) of 307 receiving ticagrelor; non-inferiority was not demonstrated (difference -4 percentage points [90% CI -10 to 3]; Pnon-inferiority=0·13). Major bleeding at 30 days occurred in 19 (6%) of 298 patients receiving cangrelor and 16 (5%) of 307 receiving ticagrelor. To our knowledge, this is the first randomised trial to compare P2Y12 inhibitor strategies specifically in patients with AMI-CS. Cangrelor achieved effective platelet inhibition more frequently than crushed ticagrelor at the end of primary percutaneous coronary intervention. Non-inferiority of cangrelor versus crushed ticagrelor was not demonstrated for the primary 30-day clinical endpoint. These trial findings can inform future trials of P2Y12 inhibition strategies in patients with AMI-CS. Czech Republic Ministry of Health, Charles University (Czech Republic), and NextGenerationEU.
+<h4>Background</h4>Acute myocardial infarction complicated by cardiogenic shock (AMI-CS) can compromise the administration and absorption of oral P2Y<sub>12</sub> inhibitors and carries high ischaemic and mortality risks. This trial assessed whether intravenous cangrelor was non-inferior to crushed oral ticagrelor for short-term clinical outcomes and whether it provided faster and more consistent platelet inhibition in patients with AMI-CS.<h4>Methods</h4>DAPT-SHOCK-AMI was a double-blind trial conducted at 29 hospitals across five European countries (Czech Republic, France, Germany, Poland, and Slovakia). Patients older than 18 years with AMI-CS were randomly assigned (1:1 ratio, stratified by centre, age, sex, presence or absence of ST-segment elevation, and mechanical ventilation) to cangrelor (30 μg/kg bolus followed by an infusion of 4 μg/kg per min for at least 2 h) or crushed ticagrelor (180 mg loading dose). The primary laboratory endpoint was a platelet reactivity index of less than 50% at the end of primary percutaneous coronary intervention. The primary clinical endpoint was death, myocardial infarction, or ischaemic stroke at 30 days. The primary clinical endpoint was analysed for non-inferiority with a prespecified margin of 1 percentage point among all randomly assigned patients who received study treatment. The study is registered with ClinicalTrials.gov (NCT03551964) and EudraCT (2018-002161-19); recruitment and 1-year follow-up are complete, and 5-year follow-up is ongoing.<h4>Findings</h4>Between Aug 1, 2018, and Jan 19, 2024, 605 patients (137 [23%] were female) were randomly assigned to cangrelor (n=298) or ticagrelor (n=307); no surviving patients were lost to the 1-year follow-up. The primary laboratory endpoint was analysed in 56 (19%) patients in the cangrelor group and 68 (22%) in the ticagrelor group, and was achieved in 56 (100%) of 56 patients receiving cangrelor and 15 (22%) of 68 receiving ticagrelor (p<0·0001). The 30-day primary clinical endpoint occurred in 112 (38%) of 298 patients receiving cangrelor and 126 (41%) of 307 receiving ticagrelor; non-inferiority was not demonstrated (difference -4 percentage points [90% CI -10 to 3]; P<sub>non-inferiority</sub>=0·13). Major bleeding at 30 days occurred in 19 (6%) of 298 patients receiving cangrelor and 16 (5%) of 307 receiving ticagrelor.<h4>Interpretation</h4>To our knowledge, this is the first randomised trial to compare P2Y<sub>12</sub> inhibitor strategies specifically in patients with AMI-CS. Cangrelor achieved effective platelet inhibition more frequently than crushed ticagrelor at the end of primary percutaneous coronary intervention. Non-inferiority of cangrelor versus crushed ticagrelor was not demonstrated for the primary 30-day clinical endpoint. These trial findings can inform future trials of P2Y<sub>12</sub> inhibition strategies in patients with AMI-CS.<h4>Funding</h4>Czech Republic Ministry of Health, Charles University (Czech Republic), and NextGenerationEU.
 
 ### [Long-Term Survival After Initial Invasive or Conservative Management of Stable Coronary Disease in ISCHEMIA-EXTEND.](https://doi.org/10.1001/jama.2026.20375)
 
 - Source: `jama_abstracts` · published `2026-11-07` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `pmid:42998244`
+- Event: `updated` · identity: `pmid:42998244`
 
-It is unknown whether routine invasive management of chronic coronary disease improves long-term survival when added to guideline-directed medical therapy. To compare the effects of initial invasive and conservative strategies on long-term mortality in patients with chronic coronary disease. In this long-term follow-up study of the International Study of Comparative Health Effectiveness with Medical and Invasive Approaches (ISCHEMIA), an international trial of patients with chronic coronary disease, moderate or severe ischemia, left ventricular ejection fraction of 35% or more, and no left main coronary artery disease, unacceptable angina, or recent acute coronary syndrome, participants were randomized at 320 sites in 37 countries beginning August 2012 and followed up through December 2025. Data were analyzed using the intention-to-treat principle. ISCHEMIA randomized patients to an initial invasive strategy of guideline-directed medical therapy plus coronary angiography and revascularization (when feasible) or an initial conservative strategy with guideline-directed medical therapy alone, with invasive management for failure of medical therapy. All-cause, cardiovascular, and noncardiovascular mortality were analyzed using cumulative incidence estimates, Cox and Fine-Gray models, bayesian analysis, and restricted mean survival time. Among 5179 participants, median age was 64 (IQR, 58-70) years; 23% were female, 42% had diabetes, and median ejection fraction was 60% (IQR, 55%-65%). During 9-year median follow-up (range, 1 day to 13.4 years), 1071 deaths occurred (782 during extended follow-up): 672 cardiovascular, 359 noncardiovascular, and 40 unclassified. All-cause 11-year mortality was not significantly different between groups (25.8% invasive vs 26.9% conservative; estimated difference, -1.0 percentage point [95% CI, -4.2 to 2.1 percentage points]; adjusted hazard ratio [AHR], 0.97 [95% CI, 0.86-1.09]). By bayesian analysis, the posterior probability of more than 1 percentage-point survival benefit to invasive vs conservative was low (18%). Cardiovascular mortality at 11 years was 15.8% in the invasive group vs 17.1% in the conservative group (estimated difference, -1.4 percentage points [95% CI, -4.0 to 1.3 percentage points]; AHR, 0.88 [95% CI, 0.75-1.02]). Noncardiovascular mortality at 11 years was 9.1% in the invasive group vs 8.1% in the conservative group (estimated difference, 1.0 percentage point [95% CI, -0.9 to 2.9 percentage points]; AHR, 1.18 [95% CI, 0.96-1.45]). Eleven-year restricted mean survival was not significantly different (estimated difference, 14 days [95% CI, -41 to 70 days]). In this study, long-term all-cause mortality in patients with high-risk chronic coronary disease was not significantly different after routine invasive vs initial conservative management. ClinicalTrials.gov Identifier: NCT04894877.
-
-### [Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice](https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss`
-
-High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.
+<h4>Importance</h4>It is unknown whether routine invasive management of chronic coronary disease improves long-term survival when added to guideline-directed medical therapy.<h4>Objective</h4>To compare the effects of initial invasive and conservative strategies on long-term mortality in patients with chronic coronary disease.<h4>Design, setting, and participants</h4>In this long-term follow-up study of the International Study of Comparative Health Effectiveness with Medical and Invasive Approaches (ISCHEMIA), an international trial of patients with chronic coronary disease, moderate or severe ischemia, left ventricular ejection fraction of 35% or more, and no left main coronary artery disease, unacceptable angina, or recent acute coronary syndrome, participants were randomized at 320 sites in 37 countries beginning August 2012 and followed up through December 2025. Data were analyzed using the intention-to-treat principle.<h4>Intervention</h4>ISCHEMIA randomized patients to an initial invasive strategy of guideline-directed medical therapy plus coronary angiography and revascularization (when feasible) or an initial conservative strategy with guideline-directed medical therapy alone, with invasive management for failure of medical therapy.<h4>Main outcomes and measures</h4>All-cause, cardiovascular, and noncardiovascular mortality were analyzed using cumulative incidence estimates, Cox and Fine-Gray models, bayesian analysis, and restricted mean survival time.<h4>Results</h4>Among 5179 participants, median age was 64 (IQR, 58-70) years; 23% were female, 42% had diabetes, and median ejection fraction was 60% (IQR, 55%-65%). During 9-year median follow-up (range, 1 day to 13.4 years), 1071 deaths occurred (782 during extended follow-up): 672 cardiovascular, 359 noncardiovascular, and 40 unclassified. All-cause 11-year mortality was not significantly different between groups (25.8% invasive vs 26.9% conservative; estimated difference, -1.0 percentage point [95% CI, -4.2 to 2.1 percentage points]; adjusted hazard ratio [AHR], 0.97 [95% CI, 0.86-1.09]). By bayesian analysis, the posterior probability of more than 1 percentage-point survival benefit to invasive vs conservative was low (18%). Cardiovascular mortality at 11 years was 15.8% in the invasive group vs 17.1% in the conservative group (estimated difference, -1.4 percentage points [95% CI, -4.0 to 1.3 percentage points]; AHR, 0.88 [95% CI, 0.75-1.02]). Noncardiovascular mortality at 11 years was 9.1% in the invasive group vs 8.1% in the conservative group (estimated difference, 1.0 percentage point [95% CI, -0.9 to 2.9 percentage points]; AHR, 1.18 [95% CI, 0.96-1.45]). Eleven-year restricted mean survival was not significantly different (estimated difference, 14 days [95% CI, -41 to 70 days]).<h4>Conclusions and relevance</h4>In this study, long-term all-cause mortality in patients with high-risk chronic coronary disease was not significantly different after routine invasive vs initial conservative management.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT04894877.
 
 ### [MambaSleepCVD for prediction of long term cardiovascular outcomes from polysomnography](https://www.nature.com/articles/s41746-026-03450-3)
 
@@ -3047,22 +2967,6 @@ High blood pressure is known as the silent killer. Researchers are finding new w
 - Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03450-3`
 
 Long-term cardiovascular disease (CVD) risk prediction remains a major global clinical priority. This study investigates how much prognostic information full-night polysomnography (PSG) carries after explicitly controlling demographic confounding, and whether combining specialized unimodal representations with continuous fusion mechanisms can effectively leverage it. We adopt a modular framework based on Coupled Mamba for simultaneous cross-modal and temporal fusion, capturing long-range dependencies and dynamic interactions between physiological modalities throughout sleep. With this capability, we assess whether specialized supervised representations from task-specific unimodal encoders offer prognostic value comparable to task-agnostic multimodal self-supervised pre-training. Validated on the Sleep Heart Health Study (SHHS) dataset, our approach achieves performance comparable to or better than current state-of-the-art architectures in the fully supervised, data-abundant regime, although the cardiac channel alone accounts for most of the discriminative signal. More importantly, we show that in the reference dataset chronological age strongly drives survival ranking; when provided as an explicit input, it can create a shortcut that obscures the contribution of PSG-derived physiology. Ultimately, our findings suggest that supervised unimodal experts integrated through a fusion engine provide a flexible pathway for prognostic risk ranking from sleep recordings, while reliable CVD screening will require independent external cohorts and explicit confounder control.
-
-### [STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries](https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss`
-
-The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.
-
-### [STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy](https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-07` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss`
-
-Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke.
 
 ### [Wrist photoplethysmography encodes dietary information](https://www.nature.com/articles/s41746-026-03425-4)
 
@@ -3095,14 +2999,6 @@ The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in he
 - Event: `seen` · identity: `url:https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/`
 
 <p><a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/"><img width="736" height="474" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg" class="attachment-large size-large wp-post-image" alt="Work Safety Concept - regulations and standard in medical hospital. Doctor offers safety first sign on virtual screen" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI.jpg 736w, https://medcitynews.com/wp-content/uploads/sites/7/2026/03/AI-300x193.jpg 300w" sizes="auto, (max-width: 736px) 100vw, 736px" /></a></p><p>Treating AI agents like contract nurses and minimizing their access to critical patient information certainly reduces potential risk. But, it also minimizes key opportunities.</p> <p>The post <a href="https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/">Missing the Point: Isolation Alone Will Not Build AI Safety</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype](https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-08` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss`
-
-Once again, a hot new technology that was supposed to speed up drug research has fallen flat.
 
 ### [Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders](https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss)
 
@@ -3148,7 +3044,7 @@ A barrier to precision medicine for ulcerative colitis (UC) is the inability to 
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/`
 
 <p><a href="https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>Argenx’s Unnatural Products acquisition brings a macrocyclic peptides discovery platform for developing oral peptide drugs. The deal brings a new modality to Argenx, whose immunology R&amp;D had focused on antibodies. </p> <p>The post <a href="https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/">Argenx Adds Oral Peptides to Its Immunology Strategy With $550M UNP Acquisition</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3156,7 +3052,7 @@ A barrier to precision medicine for ulcerative colitis (UC) is the inability to 
 
 - Source: `jmir` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e101269`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e101269`
 
 Clinical large language model agents depend on both model capability and the surrounding system that selects information, constrains actions, and verifies execution. In this Viewpoint, we argue that this harness should be an explicit unit of clinical agent design, evaluation, and reporting. Our aim is to help clinical informatics and development teams specify this layer and to help evaluators and institutional governance teams assess its contributions and risks. Selected benchmarks show substantial performance differences across harness configurations, but architecture comparisons, bundled improvements, and within-model component comparisons support different levels of causal attribution. We propose a revisable 3-tier framework: tier 1 specifies general orchestration functions, including prompts, tools, output schemas, control flow, memory, and generic verification; tier 2 specifies their clinical adaptations for knowledge integration, differential reasoning, missingness and temporality, safety verification, and workflow alignment; and tier 3 specifies a failure-driven evaluation cycle applied to both. Our contribution is a framework that makes these connections explicit. We provide classification rules, an illustrative clinical example, a proposed evaluation protocol, and a minimum reporting checklist. Observable execution traces are distinguished from private model reasoning, with provenance and privacy safeguards supporting retrospective reconstruction. Evaluation should separate task success, clinical correctness, process safety, and operational reliability. Lightweight fine-tuning can complement harness design; their interaction requires controlled study. The framework is a proposal for empirical testing, not a validated taxonomy or evidence of deployment safety. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/cadc3640026958c59f79af1b1db2562c" />
 
@@ -3164,7 +3060,7 @@ Clinical large language model agents depend on both model capability and the sur
 
 - Source: `jmir` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e94570`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e94570`
 
 AI-enabled digital medicine platforms in Europe are developed within overlapping rules for personal data, medical devices, AI, clinical research, health data access, and health technology assessment. This viewpoint represents the authors’ experience and interpretation from the preimplementation phase of INTERCEPT, an Innovative Health Initiative consortium that plans to validate biomarkers and develop a blood-based risk score for early Crohn disease interception. It does not report original empirical research, a systematic regulatory review, a deployed platform, or a validated AI model. Our aim is to explain how compliance-by-design can be translated into an auditable governance architecture and to identify what still requires scientific evaluation. We advance 3 messages. First, governance must begin with intended purpose and boundary mapping: a digital platform may contain research, operational, and medical device software functions, and conformity of one module cannot be inferred for the platform as a whole. Second, overlapping obligations can be operationalized through 5 linked controls: modular responsibility and change control, federated data governance, traceable AI life cycle management, consent and participant rights orchestration, and a common cross-border governance core with local adaptations. Third, compliance is not a surrogate for model validity, clinical benefit, trust, scalability, or market access. Before clinical deployment, planned AI components require prespecified labels and cohorts, leakage prevention, missing data and imbalance strategies, calibration, subgroup assessment, external validation, human factors evaluation, and postdeployment algorithmovigilance. A hypothetical biomarker risk score update illustrates how the 5 controls interact. INTERCEPT is informative because it combines cross-border biomarker research, planned predictive analytics, and heterogeneous institutional settings while key design decisions remain modifiable. Its contribution is nevertheless conceptual: the proposed framework is a testable governance hypothesis, not evidence of implementation success. Prospective studies should compare it with alternative governance models and assess safety, workload, participant experience, evidence generation, and regulatory performance. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/55c82d0764ccc4f30bed9ef2f70f2a54" />
 
@@ -3180,7 +3076,7 @@ We developed a gait foundation model from three-dimensional skeletal motion data
 
 - Source: `jmir_ai` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e94097/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e94097/`
 
 Background: Natural language processing and AI models are increasingly used to extract emotional signals from textual data; however, systematic validation of different computational paradigms in emotionally complex relational contexts remains limited. Such approaches may contribute to digital health research, particularly in the fields of digital mental health and couples therapy, where understanding emotional expressions within romantic relationships is especially relevant. Objective: This study aimed to compare a lexicon-based approach (NRC Emotion Lexicon) and a transformer-based model (Pysentimiento) in detecting affective patterns within spontaneous romantic relationship narratives and to evaluate their criterion-related associations with a theory-driven measure of relational well-being. Methods: In this cross-sectional exploratory study, 112 Spanish adults completed the Couple Flourishing Measure (CFM) and provided an open-ended description of their romantic relationship. Narratives were analyzed using both computational approaches to generate emotion and sentiment indices. Pearson correlations were computed between model outputs and CFM scores. Steiger Z tests were conducted to compare dependent correlations across models. Results: Both approaches showed significant associations with couple flourishing, although the transformer-based model yielded stronger correlations for several affective dimensions, particularly positive sentiment (=0.66, 95% CI 0.54-0.76) and negative sentiment (=−0.74, 95% CI −0.82 to −0.65). The lexicon-based approach showed smaller associations, primarily for negative emotions. Steiger Z tests identified significant between-model differences for disgust (=.04), joy (=.01), sadness (=.004), surprise (=.03), and positive and negative sentiment (both &lt;.001), but not for anger or fear. Conclusions: In this sample, Pysentimiento showed stronger associations with couple flourishing than the NRC Emotion Lexicon across several affective dimensions, although differences were not consistent across all categories. These findings support the value of theory-driven external criteria for evaluating computational emotion detection in relational narratives and underscore the importance of context-sensitive interpretation when applying AI tools in psychologically sensitive domains. These findings also highlight the potential relevance of computational emotion analysis for digital health research, particularly in digital mental health and couples therapy research, although further validation in clinical settings is needed before clinical implementation. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a69ede8f9dc256f5e448a90d4b8e31fa" />
 
@@ -3196,7 +3092,7 @@ Background: Natural language processing and AI models are increasingly used to e
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/`
 
 <p><a href="https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/"><img width="1024" height="784" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-1024x784.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-1024x784.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-300x230.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-768x588.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-1536x1176.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-2048x1569.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>In a panel discussion, executives from Noom, Omada, Virta and Twin Health discussed how they are going beyond the pill in their GLP-1 strategy and responded to a question about whether they will exist two-to-three years from now. </p> <p>The post <a href="https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/">Digital Health&#8217;s GLP-1 Strategy: &#8220;You Didn&#8217;t Come for the Drug. You Came for Health&#8221;</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3204,7 +3100,7 @@ Background: Natural language processing and AI models are increasingly used to e
 
 - Source: `jmir_mhealth` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e64941`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e64941`
 
 Background: Smartphone-delivered travel-record and health-code systems were deployed across China during the COVID-19 pandemic to classify risk based on travel history and regulate access to venues and travel. The geographic classification rule is a key design choice for these systems. A city-boundary rule (city-cut) is administratively convenient but may group areas with different mobility patterns under one risk label, whereas a fixed-radius rule (radius-cut) offers greater spatial precision but may exclude more distant areas connected by routine travel. Whether a classification rule aligns with observed mobility is a design question distinct from evaluating a deployed system’s epidemiological effects. Objective: This study examined whether observed mobility in Shanghai supported a city-cut or a radius-cut geographic design for a mobile health travel-record system and whether mobility-derived communities corresponded to administrative districts. Methods: We conducted a retrospective observational analysis of 1.44 billion deidentified China Unicom mobility records collected for two 46-day periods in 2019 and 2020. The analytical unit was the daily origin-area movement proportion. We calculated within-Shanghai, confirmed external-city, and nonadjacent-district movement proportions; for each origin area, we paired them by calendar day. We constructed grid-level transition matrices, used spectral clustering followed by k-means++, and checked the groupings across repeated initializations and selected dates. Results: Across 46 daily city-average observations in 2019, the intracity proportion was 97.2% (95% CI 97.1%‐97.3%). Nonadjacent-district movement was 13.7% (95% CI 13.5%‐13.9%), compared with 2.8% (95% CI 2.7%‐2.9%) for confirmed external-city movement. A paired, 2-tailed Newey-West heteroskedasticity- and autocorrelation-consistent (HAC) test (α=.05) gave a mean difference of 10.9 (95% HAC CI 10.7‐11.1; <.001) percentage points. At the Chongming border, the corresponding difference was –3.1 (95% HAC CI –4.1 to –2.1; <.001) percentage points. Conclusions: This study moves the question from postdeployment evaluation to predeployment design, treating geographic calibration as an upstream mobile health decision. It differs from prior work that assessed uptake, privacy, or epidemiological outcomes after fielding, and from mobility research that treated movement data as a predictor, an outcome, or a model input rather than as a criterion for choosing a boundary rule. The contribution is threefold: it formulates a boundary-fit question that can be answered before a system is built; it provides a reproducible, auditable workflow (daily origin-area proportions, a paired HAC-based comparison, and a mobility-clustering check) that agencies and developers can rerun on their own data; and it demonstrates the workflow from end to end in a large municipality. Practically, a city-level unit is a defensible starting reference where movement is predominantly internal, whereas border areas warrant separate local assessment. Agencies should document where a boundary fits local movement and where exceptions may be needed. Decisions about restrictions also require epidemiological evidence and assessment of proportionality, public acceptability, and social costs.
 
@@ -3212,7 +3108,7 @@ Background: Smartphone-delivered travel-record and health-code systems were depl
 
 - Source: `fda_press` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk`
+- Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk`
 
 FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a recent mild-to-moderate non-cardioembolic ischemic stroke or a high-risk transient ischemic attack.
 
@@ -3284,7 +3180,7 @@ Background: Machine learning models are increasingly used for glycemic event pre
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/nkarta-natural-killer-nk-cell-therapy-autoimmune-disease-myositis-systemic-sclerosis-rheumatology-acr-nktx/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/nkarta-natural-killer-nk-cell-therapy-autoimmune-disease-myositis-systemic-sclerosis-rheumatology-acr-nktx/`
 
 <p><a href="https://medcitynews.com/2026/11/nkarta-natural-killer-nk-cell-therapy-autoimmune-disease-myositis-systemic-sclerosis-rheumatology-acr-nktx/"><img width="600" height="450" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/29120480442_7b4387b3b4_c-600x450.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/29120480442_7b4387b3b4_c-600x450.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/29120480442_7b4387b3b4_c-300x225.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/29120480442_7b4387b3b4_c-768x576.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2023/02/29120480442_7b4387b3b4_c.jpg 800w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Nkarta will present initial clinical data for its natural killer cell therapy in two disorders, myositis and systemic sclerosis, during the American College of Rheumatology annual in Orlando this week. The biotech is part of a growing group of companies developing therapies that reset the immune system to treat autoimmune disease. </p> <p>The post <a href="https://medcitynews.com/2026/11/nkarta-natural-killer-nk-cell-therapy-autoimmune-disease-myositis-systemic-sclerosis-rheumatology-acr-nktx/">Nkarta Autoimmune Disease Cell Therapy’s First Human Data Show Safety, Signs of Efficacy</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3388,7 +3284,7 @@ Incretin mimetics as obesity therapy induce substantial weight and fat loss but 
 
 - Source: `jmir` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e103138`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e103138`
 
 Intravenous fluid therapy is a cornerstone of optimizing body hydration, circulation, and perfusion, yet its rational implementation is limited by inconsistent clinical terminology. As fluid therapy moves toward AI-empowered clinical decision support systems (AI-CDSS), there is a critical need for high-quality, verified training data. The reliability of these systems is currently threatened by misleading data resulting from ambiguous definitions and the interchangeable use of nonsynonymous terms, such as “dehydration” and “hypovolemia.” This multidisciplinary panel-of-experts opinion article intends to start a discussion by identifying the key drawbacks in current terminology and proposes solutions, including a shift toward adequacy-based phenotypes and categorizing blood and water volumes as “insufficient,” “optimal,” or “excessive” rather than relying on context-sensitive quantitative measures such as “low,” “normal,” or “high.” Illustrative scenarios are used to show how inconsistent terminology and static quantitative labels could mislead an AI-CDSS. The proposed phenotype matrix is designed to provide a structured, systematic description of fluid requirements for specific clinical objectives that can be integrated into clinical algorithms and machine learning databases. An example of a fluid requirement assessment algorithm is used for exploring its applicability in AI training. The proposed terminology and phenotype matrix are provisional: they represent the opinion of a multidisciplinary expert panel and have not undergone formal consensus, clinical validation, or testing within an AI system. Broad consensus-building initiatives will follow. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a3600b8999bfb9e31b3ebd4455c82d2d" />
 
@@ -3404,7 +3300,7 @@ Rural Health Transformation Program: Year 2 Awards The Centers for Medicare & Me
 
 - Source: `jmir_medinform` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e104836`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e104836`
 
 <strong>Background:</strong> Large language models (LLMs) are increasingly used for health information, but chronic obstructive pulmonary disease (COPD)–related questions often involve safety-sensitive decisions, including treatment escalation, oxygen therapy, and exacerbation management. Because generative outputs may vary across repeated prompts, response stability is also relevant to comparative evaluation. <strong>Objective:</strong> This study aims to compare 6 public-facing LLM chatbots in answering COPD-related public health questions across safety, accuracy, empathy, information quality, source transparency, readability, and 2-round response stability. <strong>Methods:</strong> We developed a 55-question English COPD question bank from an initial 108-question pool using web-based retrieval, Google Trends, PubMed-informed topic review, patient education resources, and expert screening. Six public-facing chatbot products were evaluated in a primary first round and a post hoc independent second round, added after first-round data collection, using the same 55 questions. Visible model/mode labels are provided in the supplementary materials. Five blinded raters assessed manually scored outcomes against a Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2026-centered reference standard, and 6 readability indices were calculated. The primary cross-model analysis used the first round; the second round was analyzed as a matched retest sensitivity analysis. Stability was assessed using exact agreement and Cohen κ for safety, quadratic-weighted κ for ordinal ratings, and absolute-agreement single-measure intraclass correlation coefficients (ICCs) for continuous scores and readability indices; 95% CIs used question-level bootstrap resampling. <strong>Results:</strong> The first round yielded 330 responses. Unsafe responses occurred in every model: ChatGPT, Gemini, Copilot, and DeepSeek each generated 4 unsafe responses (7.3%); Qwen generated 5 (9.1%); and Doubao generated 6 (10.9%). The overall safety comparison was not statistically significant (Cochran Q=1.909, df=5; <i>P</i>=.86); this finding should not be interpreted as evidence of equivalent safety. Accuracy, empathy, information-quality measures, source-transparency scores, and readability indices differed significantly across models. Across 330 matched question-model pairs, safety classifications agreed in 97.3% of pairs (κ=0.821, 95% CI 0.543-0.979); accuracy and empathy showed weighted κ values of 0.872 and 0.856, respectively; DISCERN (an instrument for judging the quality of written consumer health information on treatment choices) and adapted Ensuring Quality Information for Patients (EQIP) showed ICCs of 0.954 and 0.925. Most readability indices also showed high overall 2-round stability, although model-specific variability remained. Nine safety classifications changed across the 2 rounds (5 from safe to unsafe and 4 from unsafe to safe). <strong>Conclusions:</strong> In this standardized single-turn COPD question set, model performance differed across several evaluated outcomes, whereas the first-round safety test neither established a between-model difference nor demonstrated equivalence. All 6 models produced potentially unsafe advice, and 9 safety classifications changed between rounds conducted several months apart despite high pooled agreement. These findings support cautious use of LLMs for supplementary COPD education, with clinician oversight for individualized treatment decisions and ongoing reassessment as public-facing systems change.
 
@@ -3420,7 +3316,7 @@ More money is pouring into Series A rounds, but it isn’t opening the door to m
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/`
 
 <p><a href="https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/"><img width="600" height="402" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-480985277-600x402.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-480985277-600x402.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-480985277-300x201.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-480985277-768x514.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-480985277-e1598369408885.jpg 700w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Simulations do not replace human judgment: they inform it, making transparent what would otherwise remain a “black box.” EU law does not require them today; but a proportionate embrace, in the right legislative vehicle, with clear methodological standards, and without crushing noncommercial research, could make trials safer, faster, cheaper, and more reliable, without sacrificing rigor.</p> <p>The post <a href="https://medcitynews.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/">Simulation-Guided Clinical Trials: Is EU Law Ready?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3428,7 +3324,7 @@ More money is pouring into Series A rounds, but it isn’t opening the door to m
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/`
 
 <p><a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Avanlee Care&#8217;s seed round was led by BEA Venture Fund, with participation from existing investors, including Board Chair Esther Dyson, Chrysalis Ventures and FairBridge VC.</p> <p>The post <a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/">Startup Supporting Caregivers Raises $3.5M in Seed Funding</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3468,7 +3364,7 @@ Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage
 
 - Source: `stat_news_feed` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss`
 
 Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.
 
@@ -3516,7 +3412,7 @@ Novartis is largely abandoning a drug once considered a potential blockbuster af
 
 - Source: `stat_news_feed` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss`
 
 The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.
 
@@ -3524,7 +3420,7 @@ The Trump administration has removed WuXi AppTec, a key partner for the pharma i
 
 - Source: `jmir` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e99575`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e99575`
 
 &lt;strong&gt;Background:&lt;/strong&gt; The proliferation of electronic clinical information resources has transformed how evidence is accessed during primary care consultations, particularly in community settings where clinicians must rapidly access reliable information at the point of care (POC). For general practice trainees, who are still developing clinical expertise and information-seeking skills, how these digital resources are used during real-time decision-making remains poorly understood. &lt;strong&gt;Objective:&lt;/strong&gt; This study aims to investigate the selection, use, and real-time interaction with electronic clinical information resources used by Australian general practice (GP) trainees (specialist vocational trainees in family medicine) during clinical decision-making. &lt;strong&gt;Methods:&lt;/strong&gt; Using a novel qualitative interview and screen-capture approach, this study combines semistructured interviews with a screen-recorded, think-aloud protocol capturing real-time interaction with digital information systems. In 2024, a total of 20 GP trainees (women: n=13; men: n=7) in their final 2 years of GP specialty training participated in the study, first discussing their general approaches to information seeking, followed by a live, video-recorded task session where participants engaged with hypothetical clinical vignettes using their usual information resources. Data were analyzed using reflexive thematic analysis. GP trainees from various community-based training practices across Australia were purposively sampled to capture diverse perspectives within primary care settings. &lt;strong&gt;Results:&lt;/strong&gt; GP trainees relied on a combination of personal knowledge, clinical guidelines, and electronic information resources during decision-making. Major themes included a desire to “do the right thing” while under constraints of other themes such as time limits and perceived patient perception. Think-aloud sessions revealed common patterns in information resource selection, and that trainees often struggled with the efficiency and accessibility of finding specific information. Trainees sometimes made errors in information synthesis and judgment. Trainees frequently used a stepped approach to choosing internet resources and preferred resources that provided quick, reliable answers, indicating a preference for accessible information resources over comprehensive but time-consuming evidence repositories. &lt;strong&gt;Conclusions:&lt;/strong&gt; Trainees used rapid, pragmatic strategies centered on trusted resources to support decision-making within significant time and contextual constraints. While trainees endorsed the principles of evidence-based medicine, the realities of POC practice limited direct engagement with the underlying evidence base. These findings suggest that current electronic clinical resources may require redesign to better integrate with clinical workflows and present clinically relevant evidence in ways that support timely, evidence-informed decision-making in primary care. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/b0a1b6ba5dcd53ae400915746c2cc75f" />
 
@@ -3532,17 +3428,121 @@ The Trump administration has removed WuXi AppTec, a key partner for the pharma i
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/`
 
 <p><a href="https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/11/GettyImages-1327076020.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Patients increasingly expect convenient, consumer-focused healthcare experiences, panelists said at the recent MedCity INVEST Digital Health Conference.</p> <p>The post <a href="https://medcitynews.com/2026/11/whats-driving-the-consumerization-of-healthcare/">What’s Driving the Consumerization of Healthcare?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [<b>Next-generation KRAS G12C inhibitor improves survival in lung cancer</b>](https://www.nature.com/articles/d41591-026-00057-9)
+
+- Source: `nature_medicine` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00057-9`
+
+Phase 3 trial data show that the next-generation KRAS G12C inhibitor divarasib leads to longer progression-free survival than the first-generation inhibitors sotorasib and adagrasib in patients with non–small-cell lung cancer.
+
+### [A novel candidate biomarker for detecting premalignant and early ovarian cancer](https://www.nature.com/articles/s41591-026-04755-2)
+
+- Source: `nature_medicine` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04755-2`
+
+New data suggest that the long noncoding RNA known as Tu-Stroma represents a promising new circulating biomarker for the detection of ovarian cancer at premalignant and early stages, for which sensitive screening methods currently are lacking.
+
+### [Blood-based RNA biomarker for the early detection of ovarian cancer](https://www.nature.com/articles/s41591-026-04732-9)
+
+- Source: `nature_medicine` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04732-9`
+
+Flower-Win/Lose signaling underlies a tumor–host fitness conflict in ovarian cancer, in which tumor-derived exosomal Tu-stroma reduces the fitness of surrounding host cells, favoring tumor expansion within host tissues. High-grade serous carcinoma (HGSC), the most prevalent histotype of epithelial ovarian cancer and leading cause of ovarian-cancer-related mortality, arises from serous tubal intraepithelial carcinoma (STIC), a noninvasive precursor typically identifiable only by histopathologic examination of excised fallopian tube tissue. Here we evaluated Tu-stroma, a tumor-associated long noncoding RNA enriched in serum extracellular vesicles (EVs), as a circulating biomarker in STIC and early-stage HGSC, representing the earliest histopathologically defined phases of disease. Tu-stroma was quantified in serum EVs from 506 individuals with histologically normal adnexa, benign-adnexal lesions, isolated STIC and HGSC across International Federation of Gynecology and Obstetrics (FIGO) stages I–IV. Normalized EV Tu-stroma ΔCT values were elevated in STIC (n = 43) and HGSC (n = 232) versus controls (n = 143) and benign-adnexal lesions (n = 88), including premenopausal women (controls = 57, benign = 34, STIC = 32, HGSC = 88). In paired receiver operating characteristic analyses, Tu-stroma showed higher discrimination than cancer antigen 125 (CA125) for STIC versus controls (area under the curve (AUC) = 0.99 versus 0.59, P &lt; 0.001) and benign-adnexal masses (0.99 versus 0.31, P &lt; 0.001), and for HGSC versus controls (AUC = 0.99 versus 0.96, P = 0.001) and benign-adnexal masses (0.98 versus 0.84, P &lt; 0.001). Tu-stroma showed no systematic elevation across inflammatory or physiologic comparators (n = 116) or nonovarian malignancies (n = 160), each assessed against healthy controls (n = 100), supporting disease-context specificity. Modeled risk-enriched contexts yielded predictive values compatible with intended-use populations. These findings identify Tu-stroma as a candidate EV-RNA marker associated with pre-invasive and early HGSC biology. Prospective evaluation in consecutively enrolled real-world cohorts is required to validate diagnostic performance, predictive value and clinical utility. Tested in a cohort of 506 individuals, the RNA-based biomarker of microenvironment fitness Tu-stroma shows high performance in discriminating early-stage ovarian cancer from benign lesions, outperforming CA125.
+
+### [Novocure’s device for treating brain metastases rejected by FDA](https://www.medicaldevice-network.com/news/novocure-device-for-treating-brain-metastases-rejected-by-fda/)
+
+- Source: `medical_device_network` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/novocure-device-for-treating-brain-metastases-rejected-by-fda/`
+
+<p>Novocure's Optune Mya uses the company's TTFields therapy, designed to exert physical forces on the electrically charged components of dividing cancer cells, resulting in cell death.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/novocure-device-for-treating-brain-metastases-rejected-by-fda/">Novocure’s device for treating brain metastases rejected by FDA</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Opinion: AI’s health advice can be accurate and still make us sicker](https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss`
+
+“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.
+
+### [Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now](https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss`
+
+BIO CEO: “Today’s biotech race is our generation’s Space Race.”
+
+### [Rosti acquires Alvi to strengthen medical device manufacturing](https://www.medicaldevice-network.com/news/rosti-buys-alvi-medical-device-manufacturing/)
+
+- Source: `medical_device_network` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/rosti-buys-alvi-medical-device-manufacturing/`
+
+<p>Rosti Group has acquired Alvi Group for an undisclosed sum, to strengthen the manufacturing of medical devices.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/rosti-buys-alvi-medical-device-manufacturing/">Rosti acquires Alvi to strengthen medical device manufacturing</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Startup Founders Are Using AI To File Patents. Here’s Where DIY Becomes A Liability.](https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/)
+
+- Source: `crunchbase_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/`
+
+AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of AI-Native law firm Landfall IP, argue that combining AI with legal expertise can produce more efficient, commercially valuable patent protection that withstands investor scrutiny and is harder for competitors to circumvent.
 
 ### [STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug](https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss`
 
 Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after the company slashed sales projections for a triglyceride-lowering drug.
+
+### [STAT+: PepGen says early trial for muscular dystrophy drug looks promising](https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss`
+
+PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.
+
+### [STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people](https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss`
+
+Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.
+
+### [Sysmex and Hologen form Saibogen for blood test AI analysis](https://www.medicaldevice-network.com/news/sysmex-hologen-saibogen-blood-test-ai-analysis/)
+
+- Source: `medical_device_network` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/sysmex-hologen-saibogen-blood-test-ai-analysis/`
+
+<p>Sysmex Corporation and Hologen have established Saibogen, an AI JV aimed at generating clinical intelligence from routine blood examinations.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/sysmex-hologen-saibogen-blood-test-ai-analysis/">Sysmex and Hologen form Saibogen for blood test AI analysis</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old](https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/)
+
+- Source: `crunchbase_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/`
+
+A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private unicorn companies.
+
+### [Waze and Garmin team up to boost driver awareness of cyclists.](https://blog.google/waze/garmin-safety-cyclists/)
+
+- Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://blog.google/waze/garmin-safety-cyclists/`
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp">Waze and Garmin improve road safety with real-time cycling alerts. See how Garmin LiveTrack icons help drivers stay aware of nearby cyclists. Get the details.
 
 ---
 
