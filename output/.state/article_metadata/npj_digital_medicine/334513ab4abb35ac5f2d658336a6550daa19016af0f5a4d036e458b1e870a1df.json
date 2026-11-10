@@ -1,0 +1,5 @@
+{
+  "summary": "Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries. We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), SynSight enables rapid ML training without real-world training images, keeping pace with new RDT development.",
+  "summary_source": "https://www.nature.com/articles/s41746-026-03380-0",
+  "url": "https://www.nature.com/articles/s41746-026-03380-0"
+}
