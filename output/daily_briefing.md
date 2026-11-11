@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-11-11
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 443
+> Daily status: **complete_with_warning** · sources 26/26 · items 444
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -22,7 +22,7 @@ No items.
 
 No items.
 
-## Archive · 442
+## Archive · 443
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -895,14 +895,6 @@ Migraine is a chronic neurovascular disorder characterised by recurrent attacks 
 - Event: `seen` · identity: `url:https://www.cms.gov/newsroom/fact-sheets/2027-medicare-advantage-part-d-star-ratings`
 
 2027 Medicare Advantage and Part D Star Ratings Note: The information included in this Fact Sheet is based on the 2027 Medicare Advantage (MA) and Part D Star Ratings published on the Medicare Plan Finder on Oct. 8, 2026. For details on the methodology of the MA and Part D Star Ratings, please refer to the 2027 Part C & D Star Ratings Technical Notes available at http://go.cms.gov/partcanddstarratings . Ensuring that Medicare works for seniors and people with disabilities and that people with Medicare have access to robust, stable, high-quality, and affordable options for the coverage they need are top priorities for the Centers for Medicare & Medicaid Services (CMS). CMS continues to implement enhancements to the Medicare Advantage (MA) and Medicare Part D Star Ratings programs to incentivize plans to strive for ongoing quality improvement and to help ensure that Medicare enrollees receive high-quality care. CMS publishes the MA (Medicare Part C) and Part D Star Ratings each year to measure the quality of health and prescription drug services received by consumers enrolled in MA and Part D prescription drug plans (PDPs or Part D plans). An important component of the Star Ratings is to provide people with Medicare and their caregivers with meaningful information about the quality of plans in Medicare Plan Finder, alongside information about benefits and costs, to assist them in comparing Medicare health and drug plans and choosing the Medicare coverage option that best fits their health needs. The 2027 Star Ratings announced today appear on Medicare Plan Finder for 2027 Open Enrollment, which begins on October 15, 2026 and runs through December 7, 2026, and will impact 2028 MA quality bonus payments. Highlights of Contract Performance in 2027 Star Ratings MA Prescription Drug (MA-PD) contracts are rated on up to 43 unique quality and performance measures; MA-only contracts (without Part D coverage) are rated on up to 32 measures; and standalone PDP contracts are rated on up to 13 measures. For each measure, CMS establishes thresholds called “cut points” that are used to determine whether each contract’s performance for that measure receives a one, two, three, four, or five-star rating. Changes in the Methodology for the 2027 Star Ratings CMS made changes to the methodology for the 2027 Star Ratings through previous notice and comment rulemaking. There are two new measures added beginning with the 2027 Star Ratings: Concurrent Use of Opioids and Benzodiazepines (COB) and Polypharmacy: Use of Multiple Anticholinergic Medications in Older Adults (Poly-ACH). i The Care for Older Adults — Functional Status Assessment measure is returning to the 2027 Star Ratings after substantive specification changes. i The respecified Colorectal Cancer Screening measure was moved into the 2027 Star Ratings as a new measure, replacing the legacy Colorectal Cancer Screening measure. i All of these measures are process measures developed from evidence-based clinical treatment guidelines, each with a weight of one. These clinical process measures are critical for measuring healthcare and medication use quality, ensuring that care is delivered effectively, and preventing long-term health consequences by addressing potential health concerns early in the beneficiary’s care. The weight of the Improving or Maintaining Physical Health and Improving or Maintaining Mental Health measures increased from a weight of one for the 2026 Star Ratings to a weight of three beginning with the 2027 Star Ratings following a substantive measure specification change. The Medication Therapy Management (MTM) Program Completion Rate for Comprehensive Medication Review (Part D) measure i was transitioned to the display page for measurement years 2025 and 2026 and will return to the Star Ratings as a new measure beginning with the 2029 Star Ratings (measurement year 2027). Additionally, the Care for Older Adults — Pain Assessment (Part C) ii and Medication Reconciliation Post-Discharge (Part C) i measures were retired from the Star Ratings. For the 2027 Star Ratings, CMS began using data collected through the Part C Reporting Requirements (as described at § 422.516(a)) to confirm the completeness of the Independent Review Entity (IRE) data used in the calculation of the Plan Makes Timely Decisions about Appeals and Reviewing Appeals Decisions measures. i As codified at § 422.164(g)(1)(iii), CMS used these data to implement scaled reductions data integrity issues were identified. Rating Distribution iii The last row in Table 1 shows the trend in the average overall Star Ratings weighted by enrollment for MA-PDs from 2024-2027 after any adjustments for extreme and uncontrollable circumstances. iv Approximately 37% of MA-PDs (188 contracts) that will be offered in 2027 earned four stars or higher for their 2027 overall rating. Weighted by enrollment, approximately 71% of MA-PD enrollees are currently in contracts that will have four or more stars in 2027. Changes in Star Ratings year-over-year are normal and expected and vary by measure. Star Ratings are intended to capture a contract’s performance during the measurement period, with some contracts performing better or worse in different years. The cut points are recalculated each year based on performance during the measurement period. The 2026 overall rating data reflect the updates for MA contracts that had their 2027 Quality Bonus Payment rating updated in June 2026 and their 2026 overall rating updated in Medicare Plan Finder in July 2026. Table 1: Overall Star Rating Distribution for MA-PD Contracts (2024 – 2027) Overall Rating 2024 2025 2026 2027 #a % Weighted by Enrollment #a % Weighted by Enrollment #a % Weighted by Enrollment #a % Weighted by Enrollment 5 stars 38 6.97 7.64 9 1.73 1.98 22 4.26 2.43 15 2.95 2.25 4.5 stars 81 14.86 31.76 85 16.31 29.73 89 17.25 38.78 65 12.80 32.70 4 stars 123 22.57 36.94 120 23.03 32.15 118 22.87 25.95 108 21.26 35.78 3.5 stars 141 25.87 15.89 170 32.63 29.19 166 32.17 25.50 164 32.28 19.71 3 stars 126 23.12 6.77 115 22.07 5.96 98 18.99 6.82 124 24.41 8.75 2.5 stars 32 5.87 0.96 21 4.03 0.99 21 4.07 0.48 31 6.10 0.81 2 stars 4 0.73 0.03 1 0.19 0.01 2 0.39 0.04 1 0.20 0.01 Total Rated Contracts 545 521 516 508 Average Star Rating b 4.07 3.95 4.01 3.99 a Number of contracts b The average overall MA-PD Star Rating is weighted by enrollment. The overall rating is a weighted average of the Part C and D measure stars. The last row in Table 2 shows the average Part D Ratings weighted by enrollment for stand-alone PDPs from 2024-2027 after any adjustments for extreme and uncontrollable circumstances. iv Approximately 27% of PDPs (11 contracts) that will be active in 2027 received four or more stars for their 2027 Part D Rating. Weighted by enrollment, approximately 22% of PDP enrollees are currently in contracts that will have four or more stars in 2027, an increase from 2% in 2026. Table 2: Part D Rating Distribution for PDPs (2024 – 2027) Part D Rating 2024 2025 2026 2027 #c % Weighted by Enrollment #c % Weighted by Enrollment #c % Weighted by Enrollment #c % Weighted by Enrollment 5 stars 2 4.17 0.04 2 4.88 0.04 2 5 0.04 0 0 0 4.5 stars 4 8.33 0.60 6 14.63 0.94 5 12.5 0.87 3 7.32 16.39 4 stars 12 25.00 22.82 3 7.32 3.60 2 5 0.94 8 19.51 5.93 3.5 stars 10 20.83 24.45 11 26.83 53.61 6 15 35.65 4 9.76 4.43 3 stars 14 29.17 49.56 10 24.39 4.04 18 45 36.54 14 34.15 51.27 2.5 stars 2 4.17 0.04 8 19.51 36.23 5 12.5 13.90 11 26.83 21.97 2 stars 4 8.33 2.48 1 2.44 1.54 2 5 12.07 0 0 0 1.5 stars 0 0 0 0 0 0 0 0 0 1 2.44 0.00e Total Rated Contracts 48 41 40 41 Average Star Ratingd 3.34 3.12 3.01 3.22 c Number of contracts d The average Star Rating is weighted by enrollment. e The contract with 1.5 stars is very small. Five-Star Contracts A total of 15 MA-PD contracts are highlighted on the Medicare Plan Finder with a high-performing icon v indicating they earned five stars (Table A1 in Appendix). For 2027, six of the contracts receiving the high-performing icon also received it in 2026. Consistently Low Performers There are four MA-PD contracts identified on the Medicare Plan Finder with a low-performing icon (LPI) vi for 2027 for consistently low-quality ratings (Table A2 in Appendix). Last year, four contracts received this icon. Tax Status and Performance Nonprofit organizations more frequently earn higher ratings than organizations that are for-profit. For MA-PDs, approximately 44% of nonprofit contracts received four or more stars compared to 34% of for-profit MA-PDs. For PDPs, approximately 28% of nonprofit PDPs received four or more stars compared to 27% of for-profit PDPs. Below are the ratings distributions by tax status for MA-PD (Table 3) and PDP (Table 4) contracts after any adjustments for extreme and uncontrollable circumstances. iv Table 3: Distribution of 2027 Overall Star Ratings for For-profit and Nonprofit MA-PDs 2027 Overall Rating Number of For-Profit Contracts % For-Profit Weighted By Enrollment For-Profit Number of Nonprofit Contracts % Nonpro fit Weighted By Enrollment Nonprofit 5 stars 14 3.80 2.82 1 0.71 0.28 4.5 stars 40 10.87 29.81 25 17.86 42.64 4 stars 72 19.57 37.26 36 25.71 30.68 3.5 stars 120 32.61 19.72 44 31.43 19.67 3 stars 94 25.54 9.58 30 21.43 5.93 2.5 stars 27 7.34 0.81 4 2.86 0.80 2 stars 1 0.27 0.01 0 0 0 Total Rated Contracts 368 140 Table 4: Distribution of 2027 Part D Ratings for For-profit and Nonprofit PDPsf 2027 Part D Rating Number of For-Profit Contracts %For-Profit Weighted By Enrollment For-Profit Number of Nonprofit Contracts % Nonpro fit Weighted By Enrollment Nonprofit 5 stars 0 0 0 0 0 0 4.5 stars 1 4.55 17.67 2 11.11 0.80 4 stars 5 22.73 5.17 3 16.67 17.77 3.5 stars 3 13.64 4.78 1 5.56 0.10 3 stars 6 27.27 53.44 7 38.89 11.78 2.5 stars 6 27.27 18.92 5 27.78 69.56 2 stars 0 0 0 0 0 0 1.5 stars 1 4.55 0 g 0 0 0 Total Rated Contracts 22 18 f One PDP is missing information about tax status. g The contract with 1.5 stars is very small. Length of Time in Program and Performance Generally, higher overall Star Ratings are associated with contracts that have more experience in the MA program. MA-PDs with 10 or more years in the program are more likely to have four or more stars compared to MA-PDs with less experience in the program. There are very few PDPs with less than 10 years of experience in the program so the relationship is not as clear. There are only five PDPs with less than 10 years of experience, and they all earned 3.5 or fewer stars. The tables below show the distribution of ratings by the number of years in the program (MA-PDs are shown in Table 5 and PDPs in Table 6 after adjustments for extreme and uncontrollable circumstances). iv Table 5: Distribution of 2027 Overall Star Ratings by Length of Time in Program for MA-PDs 2027 Overall Rating Number of Contracts with Less than 5 Years % Less than 5 Years Number of Contracts with 5 years to Less than 10 Years % 5 Years to Less than 10 Years Number of Contracts with 10 or More Years % 10 or More Years 5 stars 2 2.13 6 4.35 7 2.54 4.5 stars 10 10.64 17 12.32 38 13.77 4 stars 16 17.02 20 14.49 72 26.09 3.5 stars 30 31.91 45 32.61 89 32.25 3 stars 23 24.47 38 27.54 63 22.83 2.5 stars 12 12.77 12 8.70 7 2.54 2 stars 1 1.06 0 0 0 0 Total Rated Contracts 94 138 276 Table 6: Distribution of 2027 Part D Ratings by Length of Time in Program for PDPs 2027 Part D Rating Number of Contracts with Less than 5 Years % Less than 5 Years Number of Contracts with 5 years to Less than 10 Years % 5 Years to Less than 10 Years Number of Contracts with 10 or More Years % 10 or More Years 5 stars 0 0 0 0 0 0 4.5 stars 0 0 0 0 3 8.33 4 stars 0 0 0 0 8 22.22 3.5 stars 0 0 1 100.00 3 8.33 3 stars 2 50.00 0 0 12 33.33 2.5 stars 1 25.00 0 0 10 27.78 2 stars 0 0 0 0 0 0 1.5 stars 1 25.00 0 0 0 0 Total Rated Contracts 4 1 36 Average Star Rating for Each Measure The tables below list the average Star Ratings for 2024, 2025, 2026, and 2027 Part C and D measures (Tables
-
-### [Building the Handmade World of Oura’s Latest Brand Campaign](https://ouraring.wpengine.com/wear-your-best-life-brand-campaign/)
-
-- Source: `oura_blog` · published `2026-10-08` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://ouraring.wpengine.com/wear-your-best-life-brand-campaign/`
-
-<p>Launching October 8, Oura’s latest brand campaign eschews AI; instead, it features a world crafted entirely by hands, for hands—centering and celebrating Oura Ring 5, the world’s smallest smart ring. For Oura&#8217;s fall brand campaign, Wear Your Best Life, we created a miniaturized city at one-tenth scale, complete with working trains, remote-controlled cars, and fully functioning [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/wear-your-best-life-brand-campaign/">Building the Handmade World of Oura’s Latest Brand Campaign</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
 ### [Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study.](https://doi.org/10.1016/s0140-6736(26)01535-7)
 
@@ -2008,30 +2000,6 @@ Background: Repurposing approved drugs offers a time- and cost-effective alterna
 
 <h4>Background</h4>Randomized trials have shown limited benefits and increased risks of adding spinal fusion surgery to decompression for degenerative spondylolisthesis. Decompression with fusion has increasingly been used in the United States.<h4>Objective</h4>To examine the comparative effectiveness of decompression with fusion versus decompression alone for patient subgroups.<h4>Design</h4>Cohort study using the target trial framework.<h4>Setting</h4>Norwegian Registry for Spine Surgery and nested NORDSTEN-DS (Norwegian degenerative spondylolisthesis and spinal stenosis) randomized trial.<h4>Patients</h4>Adults aged 18 to 80 years with lumbar degenerative spondylolisthesis and symptomatic back or leg pain lasting at least 3 months.<h4>Intervention</h4>Lumbar spinal decompression surgery with fusion versus lumbar spinal decompression surgery alone.<h4>Measurements</h4>The primary outcomes were Oswestry Disability Index (ODI) score and reoperation at 12 months. Linear regression models with inverse probability weighting to control for baseline confounding were used to obtain effect estimates with 95% CIs for decompression with fusion versus decompression alone for prespecified subgroups, including sex, age, smoking, body mass index (BMI), back pain intensity, and American Society of Anesthesiologists (ASA) grade.<h4>Results</h4>Of 2252 patients, 236 were in the NORDSTEN-DS randomized trial. The mean age was 66 years, and 1576 (70%) women were included. A total of 1446 patients had decompression alone, and 806 had decompression with fusion; respective unadjusted baseline ODI scores were 38.9 (SD, 14.9) and 41.4 (SD, 14.7). At 12 months, the ODI score was 22.3 (95% CI, 15.5 to 29.1) for decompression alone and 20.0 (CI, 13.9 to 26.2) for decompression with fusion; the mean difference was 2.2 (CI, -1.6 to 6.1). In exploratory analyses, the ODI score was worse for decompression with fusion for men with BMI of 30 kg/m<sup>2</sup> or higher. Reoperation risk at 12 months did not differ.<h4>Limitation</h4>Possible residual confounding.<h4>Conclusion</h4>Patient subgroups did not have differential effects from the addition of fusion to decompression at 12 months.<h4>Primary funding source</h4>Research Council of Norway.
 
-### [Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines](https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/)
-
-- Source: `medcity_news` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/`
-
-<p><a href="https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/09/GettyImages-1173531479.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>Flagship Pioneering unveiled Etcelera, a new startup formed by combining three of the firm’s portfolio companies. Etcelera&#8217;s approach to drug R&amp;D focuses on “causal intelligence,” which Flagship defines as predicting and understanding cause and effect in biology. </p> <p>The post <a href="https://medcitynews.com/2026/11/flagship-pioneering-startup-etcelera-causal-intelligence-ai-ml-drug-discovery/">Flagship Merges 3 Startups to Turn Cause and Effect Insights Into Novel Medicines</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Healthcare’s Trust Crisis Is an Experience Crisis](https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/)
-
-- Source: `medcity_news` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/`
-
-<p><a href="https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg" class="attachment-large size-large wp-post-image" alt="Close-up of caregiver holding senior client hand. Support from nurse to patient, taking care of elderly man in hospital. Emotional support and care in healthcare, hospice care." style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/nurse-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Rebuilding trust across a fragmented healthcare landscape demands that payers and providers alike move beyond transactional relationships and prioritize transparency, empathy, and tailored communication.</p> <p>The post <a href="https://medcitynews.com/2026/11/healthcares-trust-crisis-is-an-experience-crisis/">Healthcare&#8217;s Trust Crisis Is an Experience Crisis</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Implementation Evaluation of an AI Scribing Tool in the Ambulatory Setting: Single-Site Qualitative Implementation Evaluation Study](https://medinform.jmir.org/2026/1/e96245)
-
-- Source: `jmir_medinform` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e96245`
-
-Background: AI scribing tools to assist health care providers by generating clinical notes are rapidly spreading across health care settings. Although these tools may reduce documentation burden, successful implementation depends on the contextual factors influencing their integration into clinical practice. Implementation evaluations are needed to inform practice integration, guide future adoption, and enhance effective use of this novel technology. Objective: This study aims to explore contextual factors influencing the implementation of an AI scribe for physicians in the ambulatory setting. Methods: This study was a single-site qualitative implementation evaluation at a metropolitan university health system where the AI scribe was available across primary and specialty care clinics. The Practical, Robust Implementation and Sustainability Model (PRISM) and the Sociotechnical Systems framework guided the evaluation. Using maximum variation sampling, we recruited attending physicians with varied levels of AI scribe use. Semistructured interviews were conducted with attending physicians working in the ambulatory setting. Data collection and analysis occurred iteratively until thematic saturation was achieved. Interviews were analyzed using thematic analysis with a constant comparative method, incorporating both deductive and inductive coding. Resulting subthemes were mapped onto corresponding domains of the PRISM and Sociotechnical Systems frameworks. Results: A total of 25 physicians were interviewed, including 7 who had never used the AI scribe, 9 who used it minimally, and 9 who used it frequently. Participants represented a broad range of specialties. A total of 5 themes and 15 subthemes emerged. First, workflow integration influenced adoption. Limitations in customization were a barrier to adoption, while flexibility among users was critical to fit. Second, ease of tool usability facilitated initial adoption, whereby users tried the tool without paying close attention to training materials. However, this lack of training engagement hindered widespread sustained use due to limited knowledge of advanced functionalities. Third, attending physicians balanced trust and confidence in AI-generated documentation with mistrust and professional accountability. Many described a “trust but verify” approach. Also, some concerns about others’ inadequate review of AI-generated content weakened physician-physician trust. Fourth, attending physicians viewed the ubiquitous presence of AI scribing as inevitable, driven by organizational priorities related to productivity, cost, and burnout. Interviewees disagreed about the appropriate use of AI scribes by trainees. Finally, identical mechanisms were viewed as both benefits and drawbacks. Increased efficiency from AI documentation was perceived by some as reducing burden and cognitive load, but perceived by others as potentially intensifying workload expectations. Similarly, some thought AI scribes facilitated more patient-centered communication, while others thought it had the opposite impact. Conclusions: Implementation of AI scribes in ambulatory care is shaped by complex sociotechnical and contextual factors. Adoption is influenced by workflow alignment, trust, and preexisting beliefs about the tool’s benefits and drawbacks, illustrating how clinical context affects AI scribe implementation.
-
 ### [In adults with diabetes and risk for HF, an NT-proBNP-based screening strategy vs. usual care increased diagnostic yield for HF at 6 mo.](https://doi.org/10.7326/annals-26-04073-jc)
 
 - Source: `annals_internal_abstracts` · published `2026-11-03` · freshness `fresh`
@@ -2079,14 +2047,6 @@ Background: AI scribing tools to assist health care providers by generating clin
 - Event: `seen` · identity: `pmid:42970805`
 
 <h4>Clinical impact ratings</h4>GIM/FP/GP: [Formula: see text] Endocrinology: [Formula: see text].
-
-### [Informatics for the Planet: Integrating Species, Ecosystems, and Geophysical Data to Manage the Health of Earth Systems](https://medinform.jmir.org/2026/1/e113778)
-
-- Source: `jmir_medinform` · published `2026-11-03` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e113778`
-
-Biomedical and health informatics (BMHI) has traditionally focused on human-centric clinical data to support individual patient care and health systems. However, contemporary health challenges driven by climate change, biodiversity loss, and ecological degradation demand an expanded paradigm that addresses interdependencies among human, animal, and environmental health. This editorial introduces a new JMIR Medical Informatics section on “Planetary Health Informatics” (PHI), an essential evolution extending informatics praxis beyond human healthcare toward Earth’s interconnected systems. JMIR Medical Informatics is launching a call for papers for a new section dedicated to advancing PHI theory, methods, and applications for a sustainable future shaped by human impact on Earth. We invite authors to submit work that explores how PHI integrates species, ecosystem, and geophysical data to address critical global challenges, including metagenomic disease surveillance, climate-related hazard forecasting, environmental pollution monitoring, and health infrastructure decarbonization. By synthesizing broader ecological frameworks, we present a roadmap for transforming fragmented data streams into planetary-scale intelligence.
 
 ### [Long-term outcomes after percutaneous coronary intervention with drug-eluting stents versus coronary artery bypass grafting for left main coronary artery disease: a prospective analysis of the multicentre IRIS-MAIN registry.](https://doi.org/10.1016/s0140-6736(26)02104-5)
 
@@ -2480,6 +2440,14 @@ Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit P
 
 <p><a href="https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/"><img width="1000" height="563" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></a></p><p>Growing use of wearable technologies and the data they produce was discussed by a panel at the MedCity News INVEST Digital Health Conference in Dallas. </p> <p>The post <a href="https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/">Why the Wealth of Data From Wearables Are Important for Consumers and Clinicians</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
+### [Arbitration Under The Arbitration Rules of The Finland Chamber of Commerce](https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/)
+
+- Source: `oura_blog` · published `2026-11-06` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/`
+
+<p>ARBITRATION UNDER THE ARBITRATION RULES OF THE FINLAND CHAMBER OF COMMERCE between Oura Health Oy (Finland) And Oura Inc. (United States) Claimants And Peter Attia (United States) Respondent REQUEST FOR ARBITRATION 6 November 2026 1. In accordance with Article 6 of the Arbitration Rules of the Finland Chamber of Commerce (the “FAI Rules”), Claimants hereby [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/">Arbitration Under The Arbitration Rules of The Finland Chamber of Commerce</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
+
 ### [Association Between Intradialytic Foot Temperature Gradients and Severe Peripheral Artery Disease in Patients Undergoing Hemodialysis: Prospective Cohort Study](https://mhealth.jmir.org/2026/1/e96782)
 
 - Source: `jmir_mhealth` · published `2026-11-06` · freshness `fresh`
@@ -2728,14 +2696,6 @@ Whether wearable photoplethysmography (PPG) encodes dietary information remains 
 
 Glucagon-like peptide-1 receptor agonists improve symptoms in patients with obesity and heart failure with preserved ejection fraction (HFpEF). We recently demonstrated that semaglutide reduces exertional pulmonary artery wedge pressure (PAWP) in obesity-related HFpEF, but potential effects of semaglutide on cardiac structure and function that may underlie these hemodynamic improvements remain unclear. In this prespecified cardiovascular magnetic resonance (CMR) substudy of the randomized CAMEO-SEMA trial, 49 participants (33 semaglutide, 16 placebo, 28 female) underwent CMR at baseline and 52 weeks, within 1 day of invasive exercise hemodynamic assessment. The prespecified primary CMR endpoint was change in left atrial (LA) reservoir strain; other prespecified CMR endpoints included LV filling dynamics, which were assessed by early filling rate indexed to end-diastolic volume (eFR/EDV). Compared with placebo, semaglutide improved LA reservoir strain (+5.7% [95% CI, +0.3 to +9.7]; P=0.037) and eFR/EDV (+0.64 s−1 [95% CI, +0.42 to +1.00]; P&lt;0.0001). Improvements in LA reservoir strain and LV filling dynamics were associated with reductions in exercise PAWP (r=−0.46, P&lt;0.001 and r=−0.65, P&lt;0.0001, respectively). With respect to other prespecified CMR endpoints, semaglutide reduced LV mass, restored more physiologic LV geometry, and improved right ventricular function and biventricular myocardial mechanics. The results of this CMR substudy indicate that in patients with obesity-related HFpEF, semaglutide improves LA function and LV diastolic filling dynamics, identifying improvements in myocardial function that may contribute to semaglutide’s improvement of hemodynamics. ClinicalTrials.gov number: NCT05371496. As presented at the 2026 AHA Scientific Sessions, a cardiac magnetic resonance substudy of the CAMEO-SEMA trial showed that semaglutide significantly improved cardiac structure and function, including left atrial reservoir strain and left ventricular filling dynamics, in individuals with heart failure with preserved ejection fraction and obesity.
 
-### [Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial](https://www.nature.com/articles/s41591-026-04762-3)
-
-- Source: `nature_medicine` · published `2026-11-08` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04762-3`
-
-The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in heart failure with preserved ejection fraction (HFpEF) through unclear mechanisms. Here, in this double-blind, placebo-controlled trial, we randomly assigned 81 patients (47 women) with HFpEF and obesity to semaglutide (2.4 mg weekly) or placebo for 52 weeks. The primary outcome was the change in invasively measured pulmonary artery wedge pressure (PAWP), a direct measure of cardiac congestion, during low-intensity exercise. Additional mechanistic outcomes included other hemodynamic measures and hemodynamic HFpEF remission (defined as normal PAWP under conditions of both rest and exercise at 52 weeks). At baseline, PAWP was 17.5 ± 4.3 mmHg at rest and 31.7 ± 5.2 mmHg during exercise. After 52 weeks, the mean change in PAWP during exercise was −9.8 (95% confidence interval (CI): −11.3 to −8.2) mmHg with semaglutide and +0.9 (95% CI: −1.3 to 3.0) mmHg with placebo (estimated difference, −10.6 mmHg; 95% CI: −13.3 to −8.0; P &lt; 0.0001). As compared to placebo, semaglutide also decreased resting PAWP (estimated difference, −7.1 mmHg; 95% CI: −9.8 to −4.4; P &lt; 0.0001), and semaglutide-treated patients were more likely to experience hemodynamic remission (53.7% versus 7.4%, odds ratio = 14.1, 95% CI: 3.0−134.6, P &lt; 0.001). The results from this trial indicate that, in patients with HFpEF and obesity, treatment with semaglutide reduced left heart filling pressures during exercise and at rest and was associated with hemodynamic HFpEF remission in over half of treated patients. ClinicalTrials.gov identifier: NCT05371496 . As presented at the 2026 American Heart Association Scientific Sessions, in a placebo-controlled randomized clinical trial, semaglutide significantly improved pulmonary artery wedge pressure and other hemodynamic parameters during low-intensity exercise in individuals with heart failure with preserved ejection fraction and obesity.
-
 ### [Missing the Point: Isolation Alone Will Not Build AI Safety](https://medcitynews.com/2026/11/imprivata-ceo-is-missing-the-point-isolation-alone-will-not-build-ai-safety/)
 
 - Source: `medcity_news` · published `2026-11-08` · freshness `fresh`
@@ -2772,7 +2732,7 @@ A barrier to precision medicine for ulcerative colitis (UC) is the inability to 
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/`
 
 <p><a href="https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/"><img width="1024" height="683" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/07/Argenx_logo-768x512.jpg 768w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>Argenx’s Unnatural Products acquisition brings a macrocyclic peptides discovery platform for developing oral peptide drugs. The deal brings a new modality to Argenx, whose immunology R&amp;D had focused on antibodies. </p> <p>The post <a href="https://medcitynews.com/2026/11/argenx-unnatural-products-acquisition-macrocyclic-oral-peptides-immunology-inflammation-unp-argx/">Argenx Adds Oral Peptides to Its Immunology Strategy With $550M UNP Acquisition</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2820,7 +2780,7 @@ Background: Natural language processing and AI models are increasingly used to e
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/`
 
 <p><a href="https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/"><img width="1024" height="784" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-1024x784.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-1024x784.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-300x230.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-768x588.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-1536x1176.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/IMG_0845-2-2048x1569.jpg 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>In a panel discussion, executives from Noom, Omada, Virta and Twin Health discussed how they are going beyond the pill in their GLP-1 strategy and responded to a question about whether they will exist two-to-three years from now. </p> <p>The post <a href="https://medcitynews.com/2026/11/digital-healths-glp-1-strategy-you-didnt-come-for-the-drug-you-came-for-health/">Digital Health&#8217;s GLP-1 Strategy: &#8220;You Didn&#8217;t Come for the Drug. You Came for Health&#8221;</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -2888,14 +2848,6 @@ The Food and Drug Administration on Friday issued a discussion paper on robotic 
 
 Labcorp has completed its takeover of accredited specialty laboratory Millennium Health, the company said last week. The takeover, which Labcorp struck last month, is worth $245 million upfront plus up to $130 million in milestone payments. Labcorp bought Millennium to strengthen its toxicology capabilities and expand its geographic footprint.
 
-### [Machine Learning Models for Glycemic Prediction in Type 1 and Type 2 Diabetes: Systematic Review and Meta-Analysis](https://www.jmir.org/article/view/jmir_v28i1e100653)
-
-- Source: `jmir` · published `2026-11-09` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e100653`
-
-Background: Machine learning models are increasingly used for glycemic event prediction and continuous glucose forecasting, but targets, populations, horizons, validation, and uncertainty reporting remain heterogeneous. Objective: This study aimed to evaluate machine learning models for glycemic prediction in type 1, type 2, and mixed diabetes populations while distinguishing the full evidence map from the quantitatively analyzable subset. Methods: We searched 9 English- and Chinese-language databases from inception to April 12, 2026, for studies predicting future glycemic events or glucose values in people with diabetes. Continuous forecasting and binary event prediction were analyzed separately. Root-mean-square error (RMSE) was the principal continuous end point; mean absolute error was supportive. Area under the receiver operating characteristic curve was synthesized using a Bayesian random-effects model because analyzable 2×2 data were sparse. Two reviewers (HY and DA) independently applied PROBAST (Prediction Model Risk of Bias Assessment Tool) to 19 quantitative-source reports (28 assessment units). Results: We identified 787 records, assessed 310 full texts, and included 299 reports representing 270 studies; 19 reports contributed to quantitative synthesis. The review included 128 type 1, 26 type 2, 78 mixed, and 38 unclear-diabetes-type studies. Pooled RMSE was 1.18 mmol/L (95% CI 1.01‐1.34; 37 effects), supportive mean absolute error was 0.90 mmol/L (95% CI 0.78‐1.02; 20 effects), and Bayesian pooled area under the receiver operating characteristic curve was 0.926 (95% credible interval 0.877‐0.957). Supportive sensitivity and specificity were 0.77 and 0.80. Of 28 PROBAST units, 24 were high risk, 2 unclear, and 2 low. Post hoc exploratory within-report analysis estimated an RMSE increase of 0.481 mmol/L per additional 30 minutes (95% CI 0.213‐0.749), but overlap sensitivity reduced certainty. In the 270-study clinical readiness audit, external validation occurred in 4.0% (10/251), prospective evaluation in 0.7% (2/270), calibration in 4.8% (13/270), decision-curve or net-benefit analysis in 2.6% (7/270), and implementation or human-factors evaluation in 2.6% (7/270). Conclusions: Glycemic prediction studies show forecasting and discrimination signals, but heterogeneity, high risk of bias, incomplete uncertainty reporting, and limited external and prospective validation preclude deployable benchmarks. Pooled estimates should be viewed as summaries of analyzable literature. Future studies need transparent horizon, threshold, calibration, validation, uncertainty, and implementation reporting. Trial Registration: PROSPERO CRD420261366978; https://www.crd.york.ac.uk/PROSPERO/view/CRD420261366978 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/a33d89c528a74289a096a0840abba334" />
-
 ### [Nkarta Autoimmune Disease Cell Therapy’s First Human Data Show Safety, Signs of Efficacy](https://medcitynews.com/2026/11/nkarta-natural-killer-nk-cell-therapy-autoimmune-disease-myositis-systemic-sclerosis-rheumatology-acr-nktx/)
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
@@ -2951,14 +2903,6 @@ AI startups should be judged by durable revenue, full-price renewals and healthy
 - Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/pharmacovigilance-related-regulatory-recommendations-centrally-authorised-veterinary-medicinal-products-during-2026_en.pdf`
 
 Pharmacovigilance-related regulatory recommendations for centrally authorised veterinary medicinal products during 2026
-
-### [Relating to AI in Spiritual Care](https://www.jmir.org/article/view/jmir_v28i1e113467)
-
-- Source: `jmir` · published `2026-11-09` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113467`
-
-In response to a recently published Delphi study on AI in spiritual care, this commentary focuses on ways to perceive the relationship between AI and human beings in the context of spiritual care. We explore this relationship by framing it within the philosophy of Martin Buber. Because AI has no lived experience or existential crises of its own, we question whether a truly fulfilling encounter between a human being and an AI model is possible when the relationship is inherently asymmetrical on an existential level. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/ee7842d03d5ed4988e561105946400c9" />
 
 ### [Request for Information (RFI): Seeking New and Emerging Areas of Science Relevant to the NIDCD Mission, To Inform an Update of the NIDCD Strategic Plan for 2028-2032](http://grants.nih.gov/grants/guide/notice-files/NOT-DC-26-008.html)
 
@@ -3030,7 +2974,7 @@ More money is pouring into Series A rounds, but it isn’t opening the door to m
 - Reading value: `pending` · status: `failed`
 - Event: `updated` · identity: `url:https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/`
 
-<p><a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone-300x200.jpg 300w" sizes="(max-width: 724px) 100vw, 724px" /></a></p><p>Avanlee Care&#8217;s seed round was led by BEA Venture Fund, with participation from existing investors, including Board Chair Esther Dyson, Chrysalis Ventures and FairBridge VC.</p> <p>The post <a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/">Startup Supporting Caregivers Raises $3.5M in Seed Funding</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Avanlee Care&#8217;s seed round was led by BEA Venture Fund, with participation from existing investors, including Board Chair Esther Dyson, Chrysalis Ventures and FairBridge VC.</p> <p>The post <a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/">Startup Supporting Caregivers Raises $3.5M in Seed Funding</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [STAT+: Bill Ackman’s bold plan to transform brain research](https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss)
 
@@ -3047,14 +2991,6 @@ Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss`
 
 Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.
-
-### [STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition](https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-09` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss`
-
-The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an "eye stroke."
 
 ### [STAT+: Heart association meeting’s readout is trending ‘neutral’](https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/?utm_campaign=rss)
 
@@ -3100,7 +3036,7 @@ The Trump administration has removed WuXi AppTec, a key partner for the pharma i
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp">A new Google Arts & Culture collaboration with the James Beard Foundation brings 10,000 menus to life.
 
@@ -3116,7 +3052,7 @@ Phase 3 trial data show that the next-generation KRAS G12C inhibitor divarasib l
 
 - Source: `jmir_medinform` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e95929`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e95929`
 
 <strong>Background:</strong> Heart failure develops through complex longitudinal interactions among multiple chronic diseases, making longitudinal disease trajectories an important source of clinical information. Longitudinal disease trajectories contain rich structural information that reflects disease evolution and comorbidity interactions. However, this information is often lost when electronic health record (EHR) data are summarized using conventional pooling strategies or sparse <i>International Classification of Diseases (ICD</i>) representations. <strong>Objective:</strong> This study aimed to develop an interpretable trajectory representation that preserves structural characteristics of longitudinal disease evolution for heart failure risk stratification using EHRs. <strong>Methods:</strong> Longitudinal <i>ICD</i> trajectories were represented using Node2Vec embeddings and summarized with information gain (IG)–weighted geometric features, including historical means, directional shifts, dispersion, and deviation relative to high-risk disease representations. The resulting maximum IG-weighted deviation geometric (mIGwDG) representation was evaluated using 10-fold cross-validation against conventional embedding aggregation strategies, sparse <i>ICD</i> one-hot encoding, and a long short-term memory (LSTM) model. To facilitate interpretation of longitudinal disease evolution, we further developed a risk-aware pseudotime framework to organize patient trajectories along a model-inferred risk continuum and used a framework combining IG with the positive pointwise mutual information (PPMI) framework to characterize clinically relevant comorbidity patterns. <strong>Results:</strong> The proposed framework achieved an out-of-fold (OOF) area under the precision-recall curve (AUPRC) of 0.667 and an area under the curve (AUC) of 0.888, outperforming conventional embedding aggregation methods. Compared with sparse <i>ICD</i> one-hot encoding, the proposed framework reduced feature dimensionality by approximately 75% while maintaining comparable predictive performance. Combining mIGwDG with sparse <i>ICD</i> one-hot features further improved both logistic regression (LR) and extreme gradient boosting (XGBoost), suggesting that the proposed representation captures complementary longitudinal disease trajectory information. In addition, the risk-aware pseudotime framework organized heterogeneous patient trajectories along a model-inferred risk continuum, while IG×PPMI analysis highlighted clinically relevant comorbidity patterns that supported the interpretation of longitudinal disease organization. <strong>Conclusions:</strong> The proposed framework provides a compact and interpretable representation of longitudinal disease trajectories while maintaining comparable predictive performance. By combining geometric trajectory characterization with risk-aware pseudotime visualization, the framework facilitates the representation of longitudinal EHRs, the visualization of disease evolution, and risk stratification.
 
@@ -3132,7 +3068,7 @@ New data suggest that the long noncoding RNA known as Tu-Stroma represents a pro
 
 - Source: `crunchbase_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/`
+- Event: `seen` · identity: `url:https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/`
 
 Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details including a proposed share price range offering size.
 
@@ -3140,17 +3076,33 @@ Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a conc
 
 - Source: `apple_newsroom` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/`
 
 Today, Apple announced a new accessibility feature on the Apple TV app offering sign language interpretation for supported titles.
+
+### [Author Correction: Innate lymphoid cells in the initiation, regulation and resolution of inflammation](https://www.nature.com/articles/s41591-026-04799-4)
+
+- Source: `nature_medicine` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04799-4`
+
+No summary supplied by the source.
 
 ### [Behavioral Interactions Shaping the Use of a Mobile Health Intervention for Diabetic Foot Self-Care Among People With Diabetes and Caregivers: COM-B and TDF Qualitative Analysis](https://mhealth.jmir.org/2026/1/e101195)
 
 - Source: `jmir_mhealth` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e101195`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e101195`
 
 Background: Mobile health (mHealth) interventions show promise for supporting diabetic foot self-care; however, sustained engagement remains a challenge, particularly in low- and middle-income countries. While educational strategies are commonly used to address diabetic foot ulcers, they often fail to translate knowledge into long-term self-care. Understanding behavioral mechanisms underlying mHealth use, including the role of caregivers, is critical for improving implementation and effectiveness. Objective: This study explored how behavioral interactions between people with diabetes and caregivers shape the use of an mHealth app for diabetic foot self-care. Methods: This qualitative explanatory study was embedded within a parent study of an mHealth app for diabetic foot care that was conducted in primary care settings in Peru. It used the COM-B (capability, opportunity, motivation–behavior) model and the Theoretical Domains Framework (TDF) to identify mechanisms relevant for intervention design and scale-up. Semistructured interviews were conducted with people with diabetes and caregivers about their experiences related to accessing the app. Data were analyzed using deductive and inductive thematic analysis informed by the COM-B and TDF. Results: In total, 14 people with diabetes (median age 54 y, 8 women and 6 men) and 10 caregivers (median age 28.5 y, all women) were interviewed. The app use depended on varying interactions between COM-B domains, while other behavioral determinants aligned with a single domain. Across domains, interactions between people with diabetes and caregivers also affected the app use. For example, caregivers often compensated for physical capability limitations through foot positioning or environmental adjustments. Environmental context and resources, including internet access, lighting, and device compatibility, affected the app use for all participants. Motivation for all participants was largely driven by beliefs about the app’s preventive value, although reassurance from health professionals and altruism also emerged. Conclusions: The app use often depended on collaboration between people with diabetes and caregivers as a dyad, rather than on independent users. This highlights the need to design digital interventions around caregiver demographics, competing responsibilities, and the additional responsibilities an app may introduce. Participants’ preference for individual follow-up suggests that nonphysician health personnel and other human support may help maintain continuity and reassurance alongside digital monitoring. Although the app was an early prototype intended for algorithmic training, participant experiences provided insight into real-world usability and contextual barriers for future app development.
+
+### [Berta, an Open-Source, Modular AI Scribe for Clinical Documentation: Implementation Report](https://medinform.jmir.org/2026/1/e105385)
+
+- Source: `jmir_medinform` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e105385`
+
+Background: Clinical documentation is a major contributor to physician workload and burnout, particularly in high-acuity settings such as emergency departments. Ambient AI scribes have emerged as a response, but commercial products cost US $99 to more than US $600 per physician per month, operate as opaque systems, and often process data on vendor-controlled infrastructure. These characteristics limit organizational control over data sovereignty, quality improvement, and clinical workflows and create barriers to adoption in resource-constrained settings. Objective: We aimed to develop an open-source, modular AI scribe platform that could be deployed entirely within institutional infrastructure, and to evaluate its real-world use across a provincial health system. Methods: We developed Berta, an open-source, modular platform that pairs a Next.js front end and a FastAPI back end with configurable automatic speech recognition and large language model components. A closed-source implementation developed in parallel with Berta was deployed at Alberta Health Services (AHS), Canada’s largest provincially integrated health system at the time of implementation, and operated within AHS’s existing Snowflake AI Data Cloud infrastructure. All clinical audio and text remained within the secure AHS environment. Use and session metadata were automatically recorded during routine clinical use by emergency physicians across AHS between November 2024 and July 2025, and physicians were emailed an optional survey. Operating costs were estimated from Snowflake service consumption over the same period. Implementation (Results): During the 9-month study period, 197 emergency physicians registered at 105 urban and rural facilities used the system, generating 21,548 clinical sessions and more than 2700 hours of audio. Monthly session volume grew from 675 sessions in November 2024 to 5463 in July 2025. Mean recorded session length was 7.6 minutes, and 42% (82/197) of users customized at least 1 documentation template. Operating costs averaged less than US $30 per physician per month, representing a 70% to 95% reduction in cost compared with commercial subscription prices; this comparison excludes personnel costs for development and maintenance. Survey respondents (69-73 per item) rated user-friendliness as good (median 5, IQR 4-6), reported a median time saving of 16 to 30 (IQR 0-15 to 46-60) minutes per shift, and rated documentation quality the lowest. After the pilot, access was opened to other departments, and by September 30, 2026, approximately 2000 users had registered. Conclusions: An in-house AI scribe can be deployed at provincial scale within existing health system infrastructure at a fraction of the operating cost of commercial alternatives while preserving data sovereignty and institutional control. The full cost of ownership and documentation quality require further evaluation. By releasing Berta publicly, we provide a reproducible foundation that health systems can adapt to evaluate and deploy AI documentation technology within their own secure environments.
 
 ### [Blood-based RNA biomarker for the early detection of ovarian cancer](https://www.nature.com/articles/s41591-026-04732-9)
 
@@ -3160,11 +3112,27 @@ Background: Mobile health (mHealth) interventions show promise for supporting di
 
 Flower-Win/Lose signaling underlies a tumor–host fitness conflict in ovarian cancer, in which tumor-derived exosomal Tu-stroma reduces the fitness of surrounding host cells, favoring tumor expansion within host tissues. High-grade serous carcinoma (HGSC), the most prevalent histotype of epithelial ovarian cancer and leading cause of ovarian-cancer-related mortality, arises from serous tubal intraepithelial carcinoma (STIC), a noninvasive precursor typically identifiable only by histopathologic examination of excised fallopian tube tissue. Here we evaluated Tu-stroma, a tumor-associated long noncoding RNA enriched in serum extracellular vesicles (EVs), as a circulating biomarker in STIC and early-stage HGSC, representing the earliest histopathologically defined phases of disease. Tu-stroma was quantified in serum EVs from 506 individuals with histologically normal adnexa, benign-adnexal lesions, isolated STIC and HGSC across International Federation of Gynecology and Obstetrics (FIGO) stages I–IV. Normalized EV Tu-stroma ΔCT values were elevated in STIC (n = 43) and HGSC (n = 232) versus controls (n = 143) and benign-adnexal lesions (n = 88), including premenopausal women (controls = 57, benign = 34, STIC = 32, HGSC = 88). In paired receiver operating characteristic analyses, Tu-stroma showed higher discrimination than cancer antigen 125 (CA125) for STIC versus controls (area under the curve (AUC) = 0.99 versus 0.59, P &lt; 0.001) and benign-adnexal masses (0.99 versus 0.31, P &lt; 0.001), and for HGSC versus controls (AUC = 0.99 versus 0.96, P = 0.001) and benign-adnexal masses (0.98 versus 0.84, P &lt; 0.001). Tu-stroma showed no systematic elevation across inflammatory or physiologic comparators (n = 116) or nonovarian malignancies (n = 160), each assessed against healthy controls (n = 100), supporting disease-context specificity. Modeled risk-enriched contexts yielded predictive values compatible with intended-use populations. These findings identify Tu-stroma as a candidate EV-RNA marker associated with pre-invasive and early HGSC biology. Prospective evaluation in consecutively enrolled real-world cohorts is required to validate diagnostic performance, predictive value and clinical utility. Tested in a cohort of 506 individuals, the RNA-based biomarker of microenvironment fitness Tu-stroma shows high performance in discriminating early-stage ovarian cancer from benign lesions, outperforming CA125.
 
+### [Explainable Machine Learning for Predicting Hospital Admission at Emergency Department Triage: Retrospective Cohort Study](https://medinform.jmir.org/2026/1/e98273)
+
+- Source: `jmir_medinform` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e98273`
+
+Background: Emergency departments (EDs) are vital access points for urgent care, yet persistent overcrowding in health care systems worldwide compromises service quality and efficiency. Urban tertiary care centers are increasingly strained by surging patient numbers and scarce inpatient beds. Prior admission prediction studies mostly rely on limited triage features and discrimination metrics, neglecting operational factors, calibration, and explainability. Identifying likely admissions early could enable proactive resource allocation and shorter wait times. Objective: This study aimed to develop and evaluate machine learning models for predicting hospital admission at the end of triage using routinely collected structured data while addressing prior limitations regarding feature selection, model calibration, and explainability. Methods: We conducted a retrospective cohort study of adult ED visits between January 2015 and December 2022 at 2 academic hospitals in the McGill University Health Centre. We excluded visits with dispositions other than admission or discharge to ensure a binary outcome. Data were split into training (70%), validation (10%), and testing (20%) sets using stratified random sampling. We trained classifiers, including logistic regression (LR), decision trees, random forests, artificial neural networks, and gradient boosting algorithms (extreme gradient boosting [XGBoost], light gradient boosting machine, and categorical boosting), using demographics, vital signs, chief complaints, comorbidities, and historical hospitalization frequency available at triage. Sensitivity analyses tested exclusion criteria and temporal data shifts, while subgroup analyses examined differences by age, sex, and site. Performance was evaluated using area under the receiver operating characteristic curve (AUC-ROC), sensitivity, specificity, and calibration. We also performed a decision threshold analysis to assess operational flexibility and used Shapley additive explanations (SHAP) values to interpret feature contributions. Results: The final cohort included 526,145 visits (mean age 50.9, SD 21.1 years; 272,767/526,145, 51.8% female), with 91,363 patients (17.4%) admitted. The XGBoost model achieved the highest performance, with an AUC-ROC of 0.86 (95% CI 0.858‐0.864), a sensitivity of 0.67, and a specificity of 0.86, outperforming the LR baseline (AUC 0.84). Key predictors identified by SHAP values included age, Canadian Triage and Acuity Scale scores, arrival mode, and historical hospitalization frequency. Subgroup analyses confirmed strong performance across age, sex, and sites. Sensitivity analyses evaluating alternative outcome dispositions and chronological data splits confirmed overall model stability. Threshold analysis showed that adjusting the decision threshold to the 0.70 to 0.75 range improved the positive predictive value and did not disproportionately reclassify older or higher-acuity patients. Conclusions: In urban tertiary care settings, structured triage data available at triage can effectively anticipate hospital admissions. By incorporating broad feature sets and operational variables, models such as XGBoost offer a feasible, explainable tool for early decision-making. Such tools could improve coordination between emergency and inpatient services and ease overcrowding. Future work should prioritize prospective validation and real-time clinical workflow integration.
+
+### [FDA Approves First-in-Class Bayer Drug for Reducing the Risk of Stroke](https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/)
+
+- Source: `medcity_news` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/`
+
+<p><a href="https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/"><img width="1000" height="666" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p><p>Bayer’s asundexian, brand name Sunharbo, is the first FDA-approved drug in a new class cardiovascular medicines Approval of the once-daily pill covers secondary stroke prevention in adults. </p> <p>The post <a href="https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/">FDA Approves First-in-Class Bayer Drug for Reducing the Risk of Stroke</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
 ### [Football Manager and other hit franchises headline Apple Arcade’s holiday lineup](https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/)
 
 - Source: `apple_newsroom` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/`
+- Event: `seen` · identity: `url:https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/`
 
 Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for every kind of player on December 3.
 
@@ -3172,7 +3140,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `oura_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/personalized-plans-with-oura-advisor/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/personalized-plans-with-oura-advisor/`
 
 <p>Knowing your Sleep Score is dipping or your resting heart rate is above average is useful. Knowing what to do about it is better. Oura has always helped you learn more about your body. Now, Oura Advisor can also help you act on what you learn. With Advisor plans, you can turn a goal like [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/personalized-plans-with-oura-advisor/">From Insights to Action: Build a Personalized Plan with Oura Advisor</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -3180,7 +3148,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `jmir` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115514`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115514`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/379704d83162dce55730522ed70b70aa" />
 
@@ -3188,7 +3156,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp">Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers.
 
@@ -3196,7 +3164,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp">Starting today, developers can build with Gemini 4 Carbon, our strongest model with frontier performance in cybersecurity and long-horizon capabilities. Built for sustai…
 
@@ -3204,7 +3172,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp">Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.
 
@@ -3212,7 +3180,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp">Get live workout guidance on your Pixel Watch with Google. Follow custom routines and track reps directly on your wrist. See how it works.
 
@@ -3220,7 +3188,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `medtech_dive_primary` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/getinge-hires-president-of-acute-care-therapies/874219/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/getinge-hires-president-of-acute-care-therapies/874219/`
 
 <figure><div><img src="https://imgproxy.divecdn.com/ZJj3LTgcq7JkQua2kDMXxQuGBWHa7iH4HBSYZsUaIwY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXRpbmdlLWhxLWdvdGhlbmJ1cmctMTYwMHB4LmpwZw==.webp"/></div></figure><p>Stacy Beske joins Getinge from Philips&nbsp;and will take over the role on Dec. 1.</p>
 
@@ -3228,7 +3196,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp">Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.
 
@@ -3236,7 +3204,7 @@ Today Apple Arcade welcomes Football Manager 27 Touch, plus four new games for e
 
 - Source: `jmir_medinform` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e80683`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e80683`
 
 Background: Demand for health data to support research, innovation, and evidence-based policymaking is increasing, but access to patient-level data is constrained by privacy and data protection requirements. To address this challenge, the Czech Republic developed a national synthetic data infrastructure within the National Health Information System (NHIS). The infrastructure aims to support privacy-preserving secondary use of health data by enabling the development and validation of analytical workflows without providing direct access to operational patient-level databases. Objective: This study describes the design, implementation, governance framework, and operational evaluation of the Czech NHIS synthetic data infrastructure as a national platform for privacy-preserving secondary use of health data and for the development of reproducible analytical workflows. The system strongly supports the continuing relevance and importance of national infrastructures during the transition to full European Health Data Space (EHDS) implementation. Methods: The infrastructure was implemented using selected nationwide registries, including reimbursement, cancer, reproductive health, and mortality databases. Synthetic datasets were generated using registry-specific rule-based procedures designed to preserve database structures, variable formats, and selected longitudinal relationships while preventing reconstruction of real patient records. Researchers developed and tested SQL-based analytical workflows within the synthetic environment, whereas execution on primary NHIS databases and disclosure control review were performed exclusively by authorized personnel. The implementation was evaluated using predefined operational indicators, including user adoption, request volume, processing outcomes, transparency measures, and privacy-related incidents. Implementation (Results): The infrastructure enables the development and validation of SQL-based analytical workflows without direct access to primary patient-level data. Synthetic datasets representing approximately 0.04% to 0.26% of the selected NHIS registries were created while maintaining schema compatibility and selected analytical relationships. Between the platform’s public launch and July 23, 2026, a total of 170 users registered, 199 requests were submitted, and 184 requests have been processed (173 with data delivery). A total of 41 (20.6%) requests included consent to share SQL scripts, thereby supporting public transparency and reproducibility. Practical implementation was demonstrated through operational use cases in oncology, nephrology, cardiology, and vaccination research. No privacy-related incidents were reported during the evaluation period. Conclusions: The Czech NHIS synthetic data infrastructure demonstrates that privacy-preserving secondary use of national health data can be implemented through a General Data Protection Regulation (GDPR)–aligned governance framework that combines synthetic data, controlled execution on operational databases, disclosure-risk assessment, and transparent analytical workflows. Rather than serving as a statistically valid surrogate for inferential research, the infrastructure supports the reproducible development of workflows and the secure preparation of population-level analyses. As a fully operational national implementation aligned with the principles of the EHDS, the platform may provide a reference model for other countries developing privacy-preserving health data ecosystems.
 
@@ -3244,7 +3212,7 @@ Background: Demand for health data to support research, innovation, and evidence
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp">Google Registry launches .eat, .fly, and .here today. See how Wingstop, Zillow, Rocket Lawyer, and others are already using them.
 
@@ -3252,7 +3220,7 @@ Background: Demand for health data to support research, innovation, and evidence
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp">Google Fi Wireless is launching a new super network, combining two 5G networks with millions of Wi-Fi networks in one phone plan.
 
@@ -3260,15 +3228,31 @@ Background: Demand for health data to support research, innovation, and evidence
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/`
+- Event: `seen` · identity: `url:https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png">We’re launching Multimodal Knowledge Agent, a new benchmark to evaluate how agents reason across visually-complex multimodal tasks.
+
+### [Is More Perceived Empathy Better? Large Language Models, Communication, and Safety in Health Care](https://www.jmir.org/article/view/jmir_v28i1e113223)
+
+- Source: `jmir` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113223`
+
+Richter and colleagues offer a careful systematic review of how large language model–based tools affect physician-patient communication, but the outcomes that matter most in deciding to scale a solution—trust and safety—are still unknown. Before deploying these tools, health systems need local validation, ongoing monitoring for accuracy and equity, and pragmatic trials that measure trust, safety, and outcomes alongside perceived empathy. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8f9005da9f8717c22d1aa7b198f33139" />
+
+### [Labeling Clinical Notes With Large Language Models: Retrospective Benchmarking Study](https://www.jmir.org/article/view/jmir_v28i1e81708)
+
+- Source: `jmir` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e81708`
+
+Background: Clinical notes are rich sources of clinical information and are routinely used in clinical practice to infer past diagnoses and other comorbidities. Large language models (LLMs) may simplify the task by extracting this information from clinical notes. Objective: The study aims to evaluate the performance of state-of-the-art LLMs on the task of labeling English clinical notes. Methods: This institutional review board–approved retrospective study comprised 380 clinical notes obtained from 2 institutions in the United States. The notes were manually labeled for the presence or absence of 29 conditions (simplified Elixhauser Comorbidity Index) by 2 human readers—a radiology resident and a medical student under the supervision of a senior radiologist. Forty-six LLMs, including 4 closed-source commercial models from the GPT and Claude families, and 42 open-weights LLMs from the Llama (13 models) and the Qwen (29 models) families were used to label each note. The GPT-o3-mini-high reasoning model was used to parse the free-text model responses to binary yes/no answers. Using the manual labels as the reference standard, the recall, precision, and -scores for the models were evaluated. The effect of factors such as the length of the notes and the family, size, and release recency of the LLMs was analyzed using generalized linear models. Results: The top-performing LLMs included the GPT and Claude models, and the larger open-weights models included Llama 3 70B, Llama 3.1 70B, Llama 3.1 405B, Llama 3.3 70B, Qwen 1.5 72B, Qwen 1.5 110B, Qwen 2 72B, and Qwen 2 VL 72B, which achieved -scores above 70%. The most recent and higher-capacity releases of the LLMs have been improving mainly in their precision. The evaluation of 29 conditions showed a large variance in performance depending on the condition. Conclusions: In this evaluation with 46 LLMs, larger open-weights LLMs such as the Llama 3.3 70B performed on par with or better than the GPT and Claude models, achieving -scores above 70%. The performance of open-weights models improved significantly with model size and recency. These results suggest that locally run open-weights LLMs can be potentially used to label clinical notes. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2de357b855f27ca09be996017dc8d084" />
 
 ### [Mobile Apps Addressing Feeding of Children With Autism: Systematic Search and Content and Quality Analysis](https://mhealth.jmir.org/2026/1/e94908)
 
 - Source: `jmir_mhealth` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e94908`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e94908`
 
 Background: Approximately 1 in 100 children worldwide are diagnosed with autism spectrum disorder (ASD), and 46% to 89% of those diagnosed experience significant feeding difficulties. Mobile health (mHealth) apps are a potential tool for scalable support. However, there is nascent literature on the quality and relevance of mHealth apps for managing ASD-related feeding challenges. Objective: This study aimed at systematically identifying and reviewing the content, behavior change strategies, and quality of free English-language mHealth apps supporting the feeding of children with autism. Methods: A systematic search was conducted on the Apple App Store and Google Play Store between September and October 2024 and updated between June and July 2026. Apps were included if they were free or freemium, in English, updated within the past year, and explicitly focused on the feeding of children with autism. Apps were excluded if they targeted clinicians rather than parents or children; could not be installed on the test devices; or primarily focused on learning or communication rather than feeding, despite descriptions suggesting relevance to feeding. We identified intervention strategies in the included apps using the behavior change wheel (BCW) framework and evaluated their quality using the Mobile App Rating Scale (MARS). Results: The search returned 333 apps from both app stores. After removing duplicates and screening, only 2 iOS apps (EduKitchen-Toddlers Food Games and Autism Food Coach 2) met all inclusion criteria. 331 apps were excluded due to their focus on communication, early education, or other autism support that was not food related. EduKitchen-Toddlers Food Games provided child-centered interactive games and sensory-friendly visuals, while Autism Food Coach 2 provided structured caregiver tools, visual meal plans, and progress tracking. EduKitchen-Toddlers Food Games provided the BCW intervention functions of education, training, enablement, incentivization, and modeling, while Autism Food Coach 2 provided education, training, enablement, persuasion, incentivization, and environmental restructuring. The apps received MARS scores of 3.9 and 3.7, respectively, indicating acceptable quality. The apps’ shortcomings included limited customization for diverse user needs and the absence of documented clinical validation. Conclusions: There is a critical shortage of mHealth apps for feeding difficulties in children with autism that are both evidence-based and of high quality. Future development must integrate robust clinical validation and comprehensive, caregiver-centered support features to address this significant gap.
 
@@ -3276,9 +3260,9 @@ Background: Approximately 1 in 100 children worldwide are diagnosed with autism 
 
 - Source: `medcity_news` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/`
 
-<p><a href="https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg" class="attachment-large size-large wp-post-image" alt="An abstract human face dissolves into a cloud of glowing cubes. The image illustrates concepts of data fragmentation, information flow, and technological change on a dark blue background." style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI-768x432.jpg 768w" sizes="(max-width: 788px) 100vw, 788px" /></a></p><p>Healthcare has plenty of tedious administrative work which could benefit from AI&#8217;s efficiency &#8211; but what if simply speeding up an already broken system isn&#8217;t the answer? Healthcare leaders push for a re-built, AI-native system in Anterior&#8217;s recent Beyond Faster Horses campaign. </p> <p>The post <a href="https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/">New Campaign Wants AI Applications To Look Beyond Speed</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg" class="attachment-large size-large wp-post-image" alt="An abstract human face dissolves into a cloud of glowing cubes. The image illustrates concepts of data fragmentation, information flow, and technological change on a dark blue background." style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI-768x432.jpg 768w" sizes="(max-width: 788px) 100vw, 788px" /></a></p><p>Healthcare has plenty of tedious administrative work which could benefit from AI&#8217;s efficiency &#8211; but what if simply speeding up an already broken system isn&#8217;t the answer? Healthcare leaders push for a re-built, AI-native system in Anterior&#8217;s recent Beyond Faster Horses campaign. </p> <p>The post <a href="https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/">New Campaign Wants AI Applications To Look Beyond Speed</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Novocure’s device for treating brain metastases rejected by FDA](https://www.medicaldevice-network.com/news/novocure-device-for-treating-brain-metastases-rejected-by-fda/)
 
@@ -3308,7 +3292,7 @@ BIO CEO: “Today’s biotech race is our generation’s Space Race.”
 
 - Source: `oura_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/oura-to-acquire-counsel-health/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/oura-to-acquire-counsel-health/`
 
 <p>Today, Oura announced that we have entered into a definitive agreement to acquire Counsel Health, the AI-native, physician-supervised care platform with which Oura has partnered since May 2026. The deal takes Oura from helping members understand their health to enabling them to act on it. With Counsel becoming part of the Oura ecosystem, we’re building [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/oura-to-acquire-counsel-health/">Oura Announces Agreement to Acquire Counsel Health, the AI-Native, Physician-Supervised Care Platform</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -3316,7 +3300,7 @@ BIO CEO: “Today’s biotech race is our generation’s Space Race.”
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/`
+- Event: `seen` · identity: `url:https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp">Explore the latest Pixel features, including Gemini Intelligence on Pixel 10, HiLight alerts for Google Messages, and more.
 
@@ -3324,7 +3308,7 @@ BIO CEO: “Today’s biotech race is our generation’s Space Race.”
 
 - Source: `medical_device_network` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-driving-dbs-access-for-parkinson-patients-in-the-uk-and-europe/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/comment/podcast-driving-dbs-access-for-parkinson-patients-in-the-uk-and-europe/`
 
 <p>A recent survey by Boston Scientific found that UK clinicians view deep-brain stimulation for Parkinson's disease positively, yet feel it is on not reaching enough patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/comment/podcast-driving-dbs-access-for-parkinson-patients-in-the-uk-and-europe/">Podcast: Driving DBS access for Parkinson&#8217;s patients in the UK and Europe</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3340,23 +3324,23 @@ BIO CEO: “Today’s biotech race is our generation’s Space Race.”
 
 - Source: `hn_ai_health_signals` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://charleshuang.me/2026/09/27/theoremsmith/`
+- Event: `updated` · identity: `url:https://charleshuang.me/2026/09/27/theoremsmith/`
 
-Hacker News community signal; score 6.
+Hacker News community signal; score 10.
 
 ### [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 
 - Source: `hn_ai_health_signals` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://docodethatmatters.com/home-automation-overnight-success/`
+- Event: `updated` · identity: `url:https://docodethatmatters.com/home-automation-overnight-success/`
 
-Hacker News community signal; score 405.
+Hacker News community signal; score 688.
 
 ### [Smartwatch-Measured Clinician Perceptions of Emergency Department Crowding and Their Association With Objective Metrics: Prospective Observational Study](https://mhealth.jmir.org/2026/1/e103317)
 
 - Source: `jmir_mhealth` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://mhealth.jmir.org/2026/1/e103317`
+- Event: `seen` · identity: `url:https://mhealth.jmir.org/2026/1/e103317`
 
 <strong>Background:</strong> Emergency department (ED) crowding compromises patient safety and increases clinical workload. Existing crowding metrics capture structural indicators but not how clinicians subjectively experience crowding in real time. Clinician perception may provide a complementary measure. <strong>Objective:</strong> This study aimed to examine the concurrent and temporal associations between clinicians’ real-time ED perceived crowding (EDPC), captured via a smartwatch-based ecological momentary assessment (EMA) system, and 3 objective crowding metrics: the ED occupancy ratio (EDOR), the National Emergency Department Overcrowding Score (NEDOCS), and the ED Work Index (EDWIN). <strong>Methods:</strong> We conducted a prospective observational study over a continuous 449-hour period (November 25, 2024, 7 AM to December 13, 2024, 11:59 PM) in a single tertiary ED operating under reduced bed capacity and attending-only staffing due to a national physician shortage. We enrolled 28 clinicians (5 attending physicians and 23 charge nurses; mean age 36.3, SD 5.9 years; 21 female and 7 male) by voluntary nonprobability sampling. Clinicians recorded EDPC hourly during active shifts on a continuous 0-200 scale anchored to the NEDOCS crowding categories, from “Not Busy” to “Dangerously Overcrowded.” All valid ratings within each hourly period were aggregated into a single median EDPC value. Interrater agreement was assessed with the Gwet weighted agreement coefficient (AC2) at hourly time points with at least 2 ratings. Main analyses used Pearson correlations between hourly median EDPC and median EDOR, NEDOCS, and EDWIN. Linear mixed-effects models additionally accounted for repeated ratings within clinicians and clustering at the same hourly time point. Time-lagged correlations were exploratory. Statistical significance was set at α=.05. <strong>Results:</strong> Across 1124 scheduled on-duty assessment opportunities, clinicians completed 1100 individual EDPC ratings (response rate 1100/1124, 97.86%). These ratings yielded 449 hourly aggregated EDPC observations, with a median of 2 (IQR 2-3; range 1-4) clinicians contributing ratings per hour. Interrater reliability was substantial (AC2=0.742, 95% CI 0.712-0.772). Objective metrics were derived from 1846 ED visits. Hourly median EDPC correlated with median EDOR (<i>r</i>=0.542, 95% CI 0.473-0.604; <i>P</i>&lt;.001) and NEDOCS (<i>r</i>=0.483, 95% CI 0.409-0.551; <i>P</i>&lt;.001), but not EDWIN (<i>r</i>=0.060, 95% CI –0.033 to 0.152; <i>P</i>=.20). <strong>Conclusions:</strong> We deployed smartwatch-based EMA to capture high-frequency, in situ clinician perceptions during active shifts, potentially reducing susceptibility to retrospective recall bias while minimizing the spatial constraints of traditional survey methods. Hourly median EDPC was moderately associated with EDOR and NEDOCS in this single tertiary ED during an exceptional staffing crisis. The association with EDWIN was less consistent and became significant only after adjustment for time-of-day patterns. The high response rate (1100/1124, 97.9%) supports the short-term feasibility of repeated wearable-based data collection during routine clinical shifts. These findings support further investigation of EDPC as a complementary operational measure but do not establish that it directly measures cognitive workload or predicts subsequent crowding. <strong>Trial Registration:</strong>
 
@@ -3368,11 +3352,19 @@ Hacker News community signal; score 405.
 
 AI can help startups reduce patent preparation costs, but DIY applications may overlook critical issues. In this guest commentary, attorneys Michael Drapkin and Nathan Mutter of AI-Native law firm Landfall IP, argue that combining AI with legal expertise can produce more efficient, commercially valuable patent protection that withstands investor scrutiny and is harder for competitors to circumvent.
 
+### [STAT+: Democrats take new step toward investigating Trump’s drug pricing deals](https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss`
+
+Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.
+
 ### [STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug](https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss`
 
 Dutch antitrust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.
 
@@ -3380,7 +3372,7 @@ Dutch antitrust regulators are investigating allegations that Biogen may have ab
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/former-lilly-rep-claims-she-was-fired-for-complaining-about-marketing-of-mounjaro-diabetes-drug/?utm_campaign=rss`
 
 A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claiming the company was inappropriately promoting its Mounjaro diabetes drug to combat weight loss.
 
@@ -3388,7 +3380,7 @@ A former Eli Lilly sales rep filed a lawsuit alleging she was fired after claimi
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss`
 
 The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”
 
@@ -3404,7 +3396,7 @@ Ionis Pharmaceuticals lost more than $1 billion in market value on Monday after 
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/?utm_campaign=rss`
 
 In this edition of STAT Health Tech: Growing optimism around chatbots and men who avoid therapy, and highlights from the earnings season.
 
@@ -3412,7 +3404,7 @@ In this edition of STAT Health Tech: Growing optimism around chatbots and men wh
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss`
 
 Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup.
 
@@ -3428,7 +3420,7 @@ PepGen says its candidate is correcting more of the genetic stutter found in myo
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss`
 
 Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed.
 
@@ -3436,7 +3428,7 @@ Many large pharmaceutical companies are taking steps to improve access to their 
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss`
 
 The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of&#8230;
 
@@ -3452,7 +3444,7 @@ Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats 
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss`
 
 Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.
 
@@ -3460,7 +3452,7 @@ Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 
 
 - Source: `npj_digital_medicine` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03380-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03380-0`
 
 Rapid diagnostic tests (RDTs) support affordable disease diagnosis. Machine learning (ML) can improve RDT interpretation but often relies on large, proprietary, and costly real-world image libraries. We present SynSight – a ML-enabled RDT segmentation and classification pipeline trained on synthetic data. Validated on HIV (98% sensitivity, 99% specificity) and COVID-19 RDTs (up to 99% accuracy), SynSight enables rapid ML training without real-world training images, keeping pace with new RDT development.
 
@@ -3484,15 +3476,23 @@ A total of 34 companies joined The Crunchbase Unicorn Board in October, adding m
 
 - Source: `medcity_news` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/`
 
-<p><a href="https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>The industry’s next major competitor may never build another national laboratory network or employ thousands of phlebotomists. It may simply own the device that notices something first. </p> <p>The post <a href="https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/">The Laboratory Industry’s Next Competitor May Be the Company on Your Patient&#8217;s Wrist</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The industry’s next major competitor may never build another national laboratory network or employ thousands of phlebotomists. It may simply own the device that notices something first. </p> <p>The post <a href="https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/">The Laboratory Industry’s Next Competitor May Be the Company on Your Patient&#8217;s Wrist</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [The Surprising Effectiveness of Deleting Weights in LLM Post-Training](https://arxiv.org/abs/2611.10866)
+
+- Source: `hn_ai_health_signals` · published `2026-11-10` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://arxiv.org/abs/2611.10866`
+
+Hacker News community signal; score 4.
 
 ### [The Surprising Key to Improving Sleep & Long-Term Health](https://ouraring.wpengine.com/sleep-consistency/)
 
 - Source: `oura_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/sleep-consistency/`
+- Event: `seen` · identity: `url:https://ouraring.wpengine.com/sleep-consistency/`
 
 <p>When it comes to sleep, most people focus on how long they’re asleep, or the duration of sleep. While sleep duration is important (most adults should aim for 7 or more hours), sleep regularity—or consistent bed and wake times—is an often overlooked yet essential element of good sleep. In fact, recent research suggests that sleep [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/sleep-consistency/">The Surprising Key to Improving Sleep &#038; Long-Term Health</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
@@ -3500,7 +3500,7 @@ A total of 34 companies joined The Crunchbase Unicorn Board in October, adding m
 
 - Source: `jmir` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e116289`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e116289`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/111adc2fd1ea7460777b6814111ecb96" />
 
@@ -3508,7 +3508,7 @@ A total of 34 companies joined The Crunchbase Unicorn Board in October, adding m
 
 - Source: `jmir_ai` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ai.jmir.org/2026/1/e105750/`
+- Event: `seen` · identity: `url:https://ai.jmir.org/2026/1/e105750/`
 
 Race, ethnicity, online health information sharing, and AI-mediated environments can intersect in ways that may importantly shape individuals’ willingness to share health data with researchers. In this Viewpoint, we closely examine this intersection by drawing parallels between historical and contemporary public health controversies and discussing recent empirical work centered on privacy-related experiences, data donation, and emerging evidence on AI-mediated digital disenfranchisement. We describe how AI-driven online engagement centered on race, ethnicity, and health can facilitate mutual aid and peer support while also posing privacy, reputational, algorithmic, and psychosocial risks when improperly mediated. These effects, alone or combined, can erode trust in digital health research and other engagement initiatives. Therefore, we propose 2 complementary sets of evaluation metrics in response: one focused on how race-related online experiences influence trust, consent behavior, and participation in data sharing and the other focused on race-conscious AI performance within the scope of fairness, representation, and downstream health outcomes. Together, these metrics position race and ethnicity as a key analytic dimension, rather than an optional covariate, to guide teams focused on understanding race as a key analytic dimension in AI-enabled, health-related social engagement online and its full role in and impact on health research. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9d2b692769942d2a6a7cd001a893c630" />
 
@@ -3516,7 +3516,7 @@ Race, ethnicity, online health information sharing, and AI-mediated environments
 
 - Source: `medtech_dive_primary` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.medtechdive.com/news/virtuoso-robot-wins-fda-nod-for-bladder-tumor-removal/874261/`
+- Event: `seen` · identity: `url:https://www.medtechdive.com/news/virtuoso-robot-wins-fda-nod-for-bladder-tumor-removal/874261/`
 
 The Food and Drug Administration granted de novo authorization to Virtuoso Surgical’s robotic system for endoscopic surgery to remove bladder tumors, the company said Tuesday. In Virtuoso’s procedure, lesions are removed in one piece in an approach called en bloc resection to obtain tissue for diagnosis of bladder cancer. Two miniaturized robotic arms at the tip of a standard-sized endoscope operate through the urethra, without incisions. The robot, which received breakthrough device designation in September 2025, is the first device in a new FDA classification for electromechanical surgical systems used in endoluminal procedures, where instruments pass through an endoscope into the body.
 
@@ -3524,7 +3524,7 @@ The Food and Drug Administration granted de novo authorization to Virtuoso Surgi
 
 - Source: `jmir` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e101138`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e101138`
 
 Background: The platform-based economy has expanded rapidly through the integration of digital platforms into sectors such as transportation, delivery, and freelance work. Platform labor combines features of precarious employment and digitalized work organization, encompassing both location-based and web-based work. Platform workers are often treated as a homogeneous group, despite substantial differences in job tasks, working conditions, and worker characteristics. Consequently, it remains unclear which health and safety risks are linked to shared features of platform-mediated work, and which reflect occupation-specific working conditions. Objective: This study aimed to compare how taxi drivers, delivery couriers, and online freelancers experience platform-specific and occupation-specific determinants of health, well-being, and safety, and to identify worker-informed solutions to address them. Methods: A participatory photovoice study was conducted with platform-based taxi drivers, delivery couriers, and freelancers living in Stockholm. Between September and November 2022, 16 participants were recruited through convenience sampling, operationalized through a targeted social media campaign, and divided into 3 occupation-specific groups (5‐6 participants per group). Each group participated in 5 weekly sessions involving photo documentation, group discussion, collaborative coding and analysis, and the development of themes and recommendations related to working conditions, health, and well-being. Results: Participants identified 14 themes representing major determinants of health, well-being, and safety at work, as well as 23 recommendations for improving working conditions. Workers reported exposure to both platform-specific risks, including algorithmic management and digital surveillance, and traditional occupational risks such as psychosocial strain, ergonomic challenges, and traffic-related hazards. Experiences differed substantially across platform work types. Delivery and taxi drivers reported greater exposure to physical and traffic-related risks, whereas freelancers emphasized psychosocial demands and digital work intensification. Economic insecurity and costs associated with maintaining work equipment emerged as common challenges across all groups. Attitudes toward flexibility, autonomy, and algorithmic management also varied between worker categories. Conclusions: This study highlights important similarities and differences in working conditions and health risks across platform work types. The findings suggest that research and occupational health interventions targeting platform workers should differentiate between specific forms of digital platform work to better capture the diversity of workers’ experiences and exposures. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8690afcc0df7ad792e649c59bd53997b" />
 
@@ -3540,7 +3540,7 @@ Background: The platform-based economy has expanded rapidly through the integrat
 
 - Source: `fitbit_google_blog` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/`
+- Event: `seen` · identity: `url:https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/`
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp">Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.
 
@@ -3548,7 +3548,7 @@ Background: The platform-based economy has expanded rapidly through the integrat
 
 - Source: `jmir` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115991`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e115991`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9c5cadf8ab09a252feac8807a8ab3abb" />
 
@@ -3556,9 +3556,17 @@ Background: The platform-based economy has expanded rapidly through the integrat
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss`
 
 At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:
+
+### [Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board?](https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/)
+
+- Source: `medcity_news` · published `2026-11-11` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/`
+
+<p><a href="https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Oura will be integrating Counsel Health&#8217;s clinical AI and virtual care into its app, but will payers and employers cover the Oura ring as a benefit? And will consumers sign on to pay a much more expensive monthly subscription for AI-enabled medical insights and access to licensed physicians? </p> <p>The post <a href="https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/">Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ---
 
