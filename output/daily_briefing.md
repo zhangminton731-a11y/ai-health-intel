@@ -8,7 +8,15 @@ Reading tiers are configurable attention hints, not scientific-quality grades.
 
 No items.
 
-## Scan · 1
+## Scan · 2
+
+### [Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation.](https://doi.org/10.1001/jama.2026.17403)
+
+- Source: `jama_abstracts` · published `2026-11-01` · freshness `fresh`
+- Reading value: `76` · status: `scored`
+- Event: `updated` · identity: `pmid:42862588`
+
+<h4>Importance</h4>One in 5 heart transplant candidates in the US die or are delisted without transplant. Donor hearts are currently allocated by a 6-status therapy-based system criticized for limited risk stratification and susceptibility to gaming.<h4>Objective</h4>To develop a new heart allocation policy based on an objective medical urgency score that ranks candidates based on the interaction between physiology and mechanical circulatory support.<h4>Design, setting, and participants</h4>Registry-based observational study using data from the US organ transplant system. All adult (aged ≥18 years) heart transplant candidates from January 2019 to August 2025 were included, split into training (2019-2023), validation (2023-2024), and test (2024-2025) datasets.<h4>Main outcomes and measures</h4>A marginal structural model of 6-week mortality without transplant was estimated (the US Candidate Risk Score [US-CRS]). Eight models were compared in held-out data by weighted time-dependent area under the curve (AUC) and calibration by status. Finally, US-CRS was converted into an allocation policy and a match-run simulation of waitlist reordering was performed compared with the current 6-status system.<h4>Results</h4>Adult heart transplant candidates were partitioned into consecutive training (n = 21 859), validation (n = 7897), and test (n = 8256) datasets (mean [SD] age, 53 [13] years; 74% male). The chosen US-CRS model included 5 laboratory values and 4 therapeutic devices (durable left ventricular assist device, intra-aortic balloon pump, microaxial flow pump, and advanced mechanical circulatory support). In test-set cross-sections of candidates actively waiting on the same calendar date, US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively) and acceptable calibration by status, especially for candidates who received their status by exception. In match-run analysis (n = 45 530 donor hearts), a US-CRS-based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2% (95% CI, 10.1%-12.5%) under the current system to 15.7% (95% CI, 13.9%-17.6%) under the US-CRS-based system.<h4>Conclusions and relevance</h4>In this registry-based study of US heart transplant candidates, a US-CRS-based allocation system prioritized sicker candidates with higher mortality without transplant compared with the current medical urgency statuses.
 
 ### [Patents on Small-Molecule Drugs Approved by the US Food and Drug Administration, 1990-2019.](https://doi.org/10.1001/jama.2026.16139)
 
@@ -22,7 +30,7 @@ No items.
 
 No items.
 
-## Archive · 443
+## Archive · 442
 
 ### [MIT scientists debut a generative AI model that could create molecules addressing hard-to-treat diseases](https://news.mit.edu/2025/mit-scientists-debut-generative-ai-model-that-could-create-molecules-addressing-hard-to-treat-diseases-1125)
 
@@ -936,22 +944,6 @@ Our decisions today can support or threaten future human health. Insofar as we p
 
 By 2050, almost 1 billion people are expected to live with osteoarthritis-a disabling musculoskeletal condition with currently no cure. Despite its burden and costs, osteoarthritis remains largely invisible in national and global health agendas, is poorly integrated within service models for other chronic health conditions, and is frequently perceived as inevitable with ageing and associated with limited therapeutic options. This context drives an osteoarthritis identity problem that fuels frustration among those living with the disease and health-care professionals, perpetuates stigma and inequities, undermines access to effective interventions, and crucially, deprioritises osteoarthritis in health policy. How can health systems be strengthened to mitigate the burden of disease and prioritise the prevention and control of osteoarthritis? We outline a co-created, globally relevant roadmap for health policy responses for osteoarthritis prevention and care that extend beyond the UN's Agenda 2030 targets. The intended audience for the roadmap includes health policy makers, health services managers, clinicians, and civil society organisations. The roadmap anchors to three strategic priorities underpinned by guiding principles of a life course approach, prioritising health equity, and ensuring that responses are affordable and sustainable across economies. Priority 1: recognise and respond to osteoarthritis with capacity building in national surveillance of burden, cost, and modifiable risk factors, and explicitly embedding musculoskeletal health within national and subnational health policies. Priority 2: scale up high-value, person-centred, equitable care for approximately 600 million people living with osteoarthritis. This priority requires reframing of societal narratives around osteoarthritis and reconfiguring service models to integrate osteoarthritis into primary and chronic disease care while also addressing social, environmental, and commercial determinants of musculoskeletal health. Priority 3: slow the osteoarthritis trajectory via primary and secondary prevention targeted at excess bodyweight and joint injury, enabled by cross-sectoral and cross-disease cooperation. These priorities are supported by accelerators requiring global collaboration, within and outside the osteoarthritis community.
 
-### [Development and Validation of an Adult Medical Urgency Score for US Donor Heart Allocation.](https://doi.org/10.1001/jama.2026.17403)
-
-- Source: `jama_abstracts` · published `2026-10-12` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42862588`
-
-<h4>Importance</h4>One in 5 heart transplant candidates in the US die or are delisted without transplant. Donor hearts are currently allocated by a 6-status therapy-based system criticized for limited risk stratification and susceptibility to gaming.<h4>Objective</h4>To develop a new heart allocation policy based on an objective medical urgency score that ranks candidates based on the interaction between physiology and mechanical circulatory support.<h4>Design, setting, and participants</h4>Registry-based observational study using data from the US organ transplant system. All adult (aged ≥18 years) heart transplant candidates from January 2019 to August 2025 were included, split into training (2019-2023), validation (2023-2024), and test (2024-2025) datasets.<h4>Main outcomes and measures</h4>A marginal structural model of 6-week mortality without transplant was estimated (the US Candidate Risk Score [US-CRS]). Eight models were compared in held-out data by weighted time-dependent area under the curve (AUC) and calibration by status. Finally, US-CRS was converted into an allocation policy and a match-run simulation of waitlist reordering was performed compared with the current 6-status system.<h4>Results</h4>Adult heart transplant candidates were partitioned into consecutive training (n = 21 859), validation (n = 7897), and test (n = 8256) datasets (mean [SD] age, 53 [13] years; 74% male). The chosen US-CRS model included 5 laboratory values and 4 therapeutic devices (durable left ventricular assist device, intra-aortic balloon pump, microaxial flow pump, and advanced mechanical circulatory support). In test-set cross-sections of candidates actively waiting on the same calendar date, US-CRS had similar or significantly higher time-dependent AUC than the current 6-status system (mean AUC, 0.807 vs 0.693, respectively) and acceptable calibration by status, especially for candidates who received their status by exception. In match-run analysis (n = 45 530 donor hearts), a US-CRS-based system led to 67% of transplant recipients moving down in rank order and increased observed 6-week transplant-censored mortality for the first candidate on the match run from 11.2% (95% CI, 10.1%-12.5%) under the current system to 15.7% (95% CI, 13.9%-17.6%) under the US-CRS-based system.<h4>Conclusions and relevance</h4>In this registry-based study of US heart transplant candidates, a US-CRS-based allocation system prioritized sicker candidates with higher mortality without transplant compared with the current medical urgency statuses.
-
-### [Heart Transplant for Advanced Heart Failure: A Review.](https://doi.org/10.1001/jama.2026.17622)
-
-- Source: `jama_abstracts` · published `2026-10-12` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `pmid:42862549`
-
-<h4>Importance</h4>Heart failure affects more than 6 million US adults; approximately 4% to 5% progress to advanced disease despite optimal therapy. Heart transplant is a class I guideline-recommended therapy for select individuals with advanced heart failure.<h4>Observations</h4>Early referral for heart transplant is guided by the "I NEED HELP" mnemonic, a tool that identifies patients with advanced heart failure based on criteria such as use of inotropes, persistent symptoms (New York Heart Association class III or IV), end-organ dysfunction, left ventricular ejection fraction, defibrillator shocks, hospitalizations for heart failure, persistent edema or escalating use of diuretics, and low blood pressure. Each criterion is associated with higher risk of death or first heart failure hospitalization over a median follow-up of 260 days (adjusted hazard ratio, 1.19 [95% CI, 1.11-1.27] for each additional criterion). Typical absolute contraindications to heart transplant include active systemic infection, malignancy with limited life expectancy, severe and irreversible end-organ dysfunction (eg, cirrhosis, severe pulmonary hypertension), active substance use, major untreated psychiatric illness, inadequate social support, and severe frailty. Approximately 4600 heart transplants are performed annually in the US. The mortality rate was 8.5 deaths/100 patient-years for adults on the transplant waiting list in 2023. Leading causes of early death after transplant include primary graft dysfunction (39.5%), multiorgan failure (18.5%), and infection (13.9%). Among adults, contemporary survival rates after heart transplant are 91.5% at 1 year and 80.3% at 5 years. Lifelong maintenance immunosuppression typically combines a calcineurin inhibitor, antiproliferative agents (typically mycophenolate mofetil or azathioprine) and corticosteroids, with selective use of induction therapy (intensive immunosuppression immediately after transplant). Acute rejection requiring treatment occurs in 20% to 25% of recipients within a year, and may be treated with high-dose corticosteroids, antithymocyte globulin, and B-cell-targeted therapies (such as rituximab or bortezomib). Rejection surveillance with endomyocardial biopsies of the right ventricular septum is performed 5 to 10 times within the first year after transplant. Cardiac allograft vasculopathy (chronic rejection that causes diffuse coronary narrowing) affects 29% of heart transplant recipients within 5 years and 46.8% by 10 years and is the leading cause of late mortality. Cardiac allograft vasculopathy is treated with statins, mechanistic target of rapamycin inhibitors (such as sirolimus or everolimus), and retransplant for severe cases. Infections (62.5% are bacterial, 30.0% are viral, 6.7% are fungal, and 0.8% are parasitic) and malignancy (10.7% within 5 years after heart transplant) are other leading causes of late mortality.<h4>Conclusions and relevance</h4>Heart transplant is the definitive therapy for carefully selected patients with advanced heart failure despite receiving optimal, guideline-directed therapy. After heart transplant, lifelong multidisciplinary care is necessary to manage immunosuppression, prevent and treat rejection and cardiac allograft vasculopathy, and monitor for infection and malignancy.
-
 ### [Apple unveils the new Apple TV 4K, supercharged by Siri AI](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
 
 - Source: `apple_newsroom` · published `2026-10-13` · freshness `stale`
@@ -1864,6 +1856,14 @@ Background: While AI has existed for decades, the introduction of generative AI 
 
 <h4>Importance</h4>Statin nonadherence is a leading, addressable driver of preventable cardiovascular events. Although health systems routinely use outreach to promote preventive care, most strategies are static and lack evidence from randomized clinical trials.<h4>Objective</h4>To determine whether an adaptive, sequential digital outreach strategy improves short-term statin refill vs usual communication among adults with established atherosclerotic cardiovascular disease (ASCVD) or high ASCVD risk and recent nonadherence within a rapidly implemented, health system-embedded randomized clinical trial.<h4>Design, setting, and participants</h4>Pragmatic, health system-embedded, prospective randomized open blinded end point (PROBE) clinical trial using a 2-stage sequential, multiple assignment, randomized trial (SMART) design. The trial was conducted via Kaiser Permanente Northern California, an integrated health care delivery system serving more than 4.6 million members. Eligible participants were adults 18 years or older with established ASCVD or high ASCVD risk, recent statin nonadherence, and eligibility for all study communication modalities.<h4>Interventions</h4>Participants were randomized 1:1:1:1 to receive secure portal messaging, SMS/text messaging, nonsecure email, or usual communication. Initial nonresponders within 14 days underwent prespecified second-stage randomization to repeat the same outreach, switch communication modality, or receive usual communication.<h4>Main outcomes and measures</h4>Rates of 14-day statin refill following each randomization, with 28-day follow-up.<h4>Results</h4>Among 20 604 participants (mean [SD] age, 54.8 [9.0] years; 40.9% female; 27.8% Asian, 10.9% Black, 33.6% Hispanic; 15.3% with established ASCVD), initial digital outreach increased 14-day statin refill vs usual communication (14.4% vs 12.0%; adjusted risk difference, 2.3 percentage points [95% CI, 1.3-3.4]; adjusted risk ratio, 1.20 [95% CI, 1.10-1.30]). Among initial nonresponders, second-stage outreach further increased refill (13.0% vs 10.4%; adjusted risk difference, 2.5 percentage points [95% CI, 1.3-3.7]; adjusted risk ratio, 1.25 [95% CI, 1.11-1.39]). Switching communication modalities did not improve refill vs repeating the same modality (13.2% vs 12.5%; adjusted risk ratio, 1.06 [95% CI, 0.94-1.17]). Cumulative statin refill through 28 days was higher in those receiving any digital outreach vs usual communication (24.9% vs 21.2%; adjusted hazard ratio, 1.21 [95% CI, 1.13-1.30]). Results were consistent across prespecified subgroups.<h4>Conclusions and relevance</h4>Among adults with a statin indication and recent statin nonadherence, adaptive outreach improved short-term refill vs usual communication. A second outreach produced additional gains among initial nonresponders, although switching communication modalities provided no additional benefit. These findings support adaptive, sequential health system outreach strategies to improve cardiovascular prevention when integrated into population health programs.<h4>Trial registration</h4>ClinicalTrials.gov Identifier: NCT07522645.
 
+### [Heart Transplant for Advanced Heart Failure: A Review.](https://doi.org/10.1001/jama.2026.17622)
+
+- Source: `jama_abstracts` · published `2026-11-01` · freshness `fresh`
+- Reading value: `60` · status: `scored`
+- Event: `updated` · identity: `pmid:42862549`
+
+<h4>Importance</h4>Heart failure affects more than 6 million US adults; approximately 4% to 5% progress to advanced disease despite optimal therapy. Heart transplant is a class I guideline-recommended therapy for select individuals with advanced heart failure.<h4>Observations</h4>Early referral for heart transplant is guided by the "I NEED HELP" mnemonic, a tool that identifies patients with advanced heart failure based on criteria such as use of inotropes, persistent symptoms (New York Heart Association class III or IV), end-organ dysfunction, left ventricular ejection fraction, defibrillator shocks, hospitalizations for heart failure, persistent edema or escalating use of diuretics, and low blood pressure. Each criterion is associated with higher risk of death or first heart failure hospitalization over a median follow-up of 260 days (adjusted hazard ratio, 1.19 [95% CI, 1.11-1.27] for each additional criterion). Typical absolute contraindications to heart transplant include active systemic infection, malignancy with limited life expectancy, severe and irreversible end-organ dysfunction (eg, cirrhosis, severe pulmonary hypertension), active substance use, major untreated psychiatric illness, inadequate social support, and severe frailty. Approximately 4600 heart transplants are performed annually in the US. The mortality rate was 8.5 deaths/100 patient-years for adults on the transplant waiting list in 2023. Leading causes of early death after transplant include primary graft dysfunction (39.5%), multiorgan failure (18.5%), and infection (13.9%). Among adults, contemporary survival rates after heart transplant are 91.5% at 1 year and 80.3% at 5 years. Lifelong maintenance immunosuppression typically combines a calcineurin inhibitor, antiproliferative agents (typically mycophenolate mofetil or azathioprine) and corticosteroids, with selective use of induction therapy (intensive immunosuppression immediately after transplant). Acute rejection requiring treatment occurs in 20% to 25% of recipients within a year, and may be treated with high-dose corticosteroids, antithymocyte globulin, and B-cell-targeted therapies (such as rituximab or bortezomib). Rejection surveillance with endomyocardial biopsies of the right ventricular septum is performed 5 to 10 times within the first year after transplant. Cardiac allograft vasculopathy (chronic rejection that causes diffuse coronary narrowing) affects 29% of heart transplant recipients within 5 years and 46.8% by 10 years and is the leading cause of late mortality. Cardiac allograft vasculopathy is treated with statins, mechanistic target of rapamycin inhibitors (such as sirolimus or everolimus), and retransplant for severe cases. Infections (62.5% are bacterial, 30.0% are viral, 6.7% are fungal, and 0.8% are parasitic) and malignancy (10.7% within 5 years after heart transplant) are other leading causes of late mortality.<h4>Conclusions and relevance</h4>Heart transplant is the definitive therapy for carefully selected patients with advanced heart failure despite receiving optimal, guideline-directed therapy. After heart transplant, lifelong multidisciplinary care is necessary to manage immunosuppression, prevent and treat rejection and cardiac allograft vasculopathy, and monitor for infection and malignancy.
+
 ### [Intravenous Thrombolysis for Acute Ischemic Stroke - New Directions.](https://doi.org/10.1056/nejmra2519017)
 
 - Source: `nejm_abstracts` · published `2026-11-01` · freshness `fresh`
@@ -2440,14 +2440,6 @@ Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit P
 
 <p><a href="https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/"><img width="1000" height="563" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/INVEST_DigitalHealth2026_wearables-768x432.jpg 768w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></a></p><p>Growing use of wearable technologies and the data they produce was discussed by a panel at the MedCity News INVEST Digital Health Conference in Dallas. </p> <p>The post <a href="https://medcitynews.com/2026/11/why-the-wealth-of-data-from-wearables-are-important-for-consumers-and-clinicians/">Why the Wealth of Data From Wearables Are Important for Consumers and Clinicians</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
-### [Arbitration Under The Arbitration Rules of The Finland Chamber of Commerce](https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/)
-
-- Source: `oura_blog` · published `2026-11-06` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/`
-
-<p>ARBITRATION UNDER THE ARBITRATION RULES OF THE FINLAND CHAMBER OF COMMERCE between Oura Health Oy (Finland) And Oura Inc. (United States) Claimants And Peter Attia (United States) Respondent REQUEST FOR ARBITRATION 6 November 2026 1. In accordance with Article 6 of the Arbitration Rules of the Finland Chamber of Commerce (the “FAI Rules”), Claimants hereby [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/">Arbitration Under The Arbitration Rules of The Finland Chamber of Commerce</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
-
 ### [Association Between Intradialytic Foot Temperature Gradients and Severe Peripheral Artery Disease in Patients Undergoing Hemodialysis: Prospective Cohort Study](https://mhealth.jmir.org/2026/1/e96782)
 
 - Source: `jmir_mhealth` · published `2026-11-06` · freshness `fresh`
@@ -2599,6 +2591,14 @@ AI chip startups can challenge the sector's Goliath's by building substantially 
 - Event: `seen` · identity: `url:https://www.medtechdive.com/news/natera-promotes-solomon-moshkevich-to-ceo/874022/`
 
 <p>The CEO change was unexpected and prompted a stock selloff Friday, analysts said, but the new chief executive is prepared for the role.</p>
+
+### [Oura Health Oy and Oura Inc. File Arbitration Against Peter Attia](https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/)
+
+- Source: `oura_blog` · published `2026-11-06` · freshness `fresh`
+- Reading value: `pending` · status: `failed`
+- Event: `updated` · identity: `url:https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/`
+
+<p>Oura filed for arbitration on Nov. 6, 2026, to rescind Peter Attia’s 2018 Series A investment, alleging he concealed his relationship with Jeffrey Epstein. Download the full request for arbitration here. ARBITRATION UNDER THE ARBITRATION RULES OF THE FINLAND CHAMBER OF COMMERCE between Oura Health Oy (Finland) And Oura Inc. (United States) Claimants And Peter [&#8230;]</p> <p>The post <a href="https://ouraring.wpengine.com/arbitration-oura-health-oy-and-oura-inc-and-peter-attia/">Oura Health Oy and Oura Inc. File Arbitration Against Peter Attia</a> appeared first on <a href="https://ouraring.wpengine.com">The Pulse Blog</a>.</p>
 
 ### [Patient Engagement in a Virtual Cardiac Rehabilitation Platform: Secondary Analysis of the ERA-Nudge Trial](https://mhealth.jmir.org/2026/1/e64502)
 
@@ -2972,7 +2972,7 @@ More money is pouring into Series A rounds, but it isn’t opening the door to m
 
 - Source: `medcity_news` · published `2026-11-09` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/`
 
 <p><a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/phone-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Avanlee Care&#8217;s seed round was led by BEA Venture Fund, with participation from existing investors, including Board Chair Esther Dyson, Chrysalis Ventures and FairBridge VC.</p> <p>The post <a href="https://medcitynews.com/2026/11/startup-supporting-caregivers-raises-3-5m-in-seed-funding/">Startup Supporting Caregivers Raises $3.5M in Seed Funding</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3084,7 +3084,7 @@ Today, Apple announced a new accessibility feature on the Apple TV app offering 
 
 - Source: `nature_medicine` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41591-026-04799-4`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41591-026-04799-4`
 
 No summary supplied by the source.
 
@@ -3100,7 +3100,7 @@ Background: Mobile health (mHealth) interventions show promise for supporting di
 
 - Source: `jmir_medinform` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e105385`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e105385`
 
 Background: Clinical documentation is a major contributor to physician workload and burnout, particularly in high-acuity settings such as emergency departments. Ambient AI scribes have emerged as a response, but commercial products cost US $99 to more than US $600 per physician per month, operate as opaque systems, and often process data on vendor-controlled infrastructure. These characteristics limit organizational control over data sovereignty, quality improvement, and clinical workflows and create barriers to adoption in resource-constrained settings. Objective: We aimed to develop an open-source, modular AI scribe platform that could be deployed entirely within institutional infrastructure, and to evaluate its real-world use across a provincial health system. Methods: We developed Berta, an open-source, modular platform that pairs a Next.js front end and a FastAPI back end with configurable automatic speech recognition and large language model components. A closed-source implementation developed in parallel with Berta was deployed at Alberta Health Services (AHS), Canada’s largest provincially integrated health system at the time of implementation, and operated within AHS’s existing Snowflake AI Data Cloud infrastructure. All clinical audio and text remained within the secure AHS environment. Use and session metadata were automatically recorded during routine clinical use by emergency physicians across AHS between November 2024 and July 2025, and physicians were emailed an optional survey. Operating costs were estimated from Snowflake service consumption over the same period. Implementation (Results): During the 9-month study period, 197 emergency physicians registered at 105 urban and rural facilities used the system, generating 21,548 clinical sessions and more than 2700 hours of audio. Monthly session volume grew from 675 sessions in November 2024 to 5463 in July 2025. Mean recorded session length was 7.6 minutes, and 42% (82/197) of users customized at least 1 documentation template. Operating costs averaged less than US $30 per physician per month, representing a 70% to 95% reduction in cost compared with commercial subscription prices; this comparison excludes personnel costs for development and maintenance. Survey respondents (69-73 per item) rated user-friendliness as good (median 5, IQR 4-6), reported a median time saving of 16 to 30 (IQR 0-15 to 46-60) minutes per shift, and rated documentation quality the lowest. After the pilot, access was opened to other departments, and by September 30, 2026, approximately 2000 users had registered. Conclusions: An in-house AI scribe can be deployed at provincial scale within existing health system infrastructure at a fraction of the operating cost of commercial alternatives while preserving data sovereignty and institutional control. The full cost of ownership and documentation quality require further evaluation. By releasing Berta publicly, we provide a reproducible foundation that health systems can adapt to evaluate and deploy AI documentation technology within their own secure environments.
 
@@ -3116,7 +3116,7 @@ Flower-Win/Lose signaling underlies a tumor–host fitness conflict in ovarian c
 
 - Source: `jmir_medinform` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e98273`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e98273`
 
 Background: Emergency departments (EDs) are vital access points for urgent care, yet persistent overcrowding in health care systems worldwide compromises service quality and efficiency. Urban tertiary care centers are increasingly strained by surging patient numbers and scarce inpatient beds. Prior admission prediction studies mostly rely on limited triage features and discrimination metrics, neglecting operational factors, calibration, and explainability. Identifying likely admissions early could enable proactive resource allocation and shorter wait times. Objective: This study aimed to develop and evaluate machine learning models for predicting hospital admission at the end of triage using routinely collected structured data while addressing prior limitations regarding feature selection, model calibration, and explainability. Methods: We conducted a retrospective cohort study of adult ED visits between January 2015 and December 2022 at 2 academic hospitals in the McGill University Health Centre. We excluded visits with dispositions other than admission or discharge to ensure a binary outcome. Data were split into training (70%), validation (10%), and testing (20%) sets using stratified random sampling. We trained classifiers, including logistic regression (LR), decision trees, random forests, artificial neural networks, and gradient boosting algorithms (extreme gradient boosting [XGBoost], light gradient boosting machine, and categorical boosting), using demographics, vital signs, chief complaints, comorbidities, and historical hospitalization frequency available at triage. Sensitivity analyses tested exclusion criteria and temporal data shifts, while subgroup analyses examined differences by age, sex, and site. Performance was evaluated using area under the receiver operating characteristic curve (AUC-ROC), sensitivity, specificity, and calibration. We also performed a decision threshold analysis to assess operational flexibility and used Shapley additive explanations (SHAP) values to interpret feature contributions. Results: The final cohort included 526,145 visits (mean age 50.9, SD 21.1 years; 272,767/526,145, 51.8% female), with 91,363 patients (17.4%) admitted. The XGBoost model achieved the highest performance, with an AUC-ROC of 0.86 (95% CI 0.858‐0.864), a sensitivity of 0.67, and a specificity of 0.86, outperforming the LR baseline (AUC 0.84). Key predictors identified by SHAP values included age, Canadian Triage and Acuity Scale scores, arrival mode, and historical hospitalization frequency. Subgroup analyses confirmed strong performance across age, sex, and sites. Sensitivity analyses evaluating alternative outcome dispositions and chronological data splits confirmed overall model stability. Threshold analysis showed that adjusting the decision threshold to the 0.70 to 0.75 range improved the positive predictive value and did not disproportionately reclassify older or higher-acuity patients. Conclusions: In urban tertiary care settings, structured triage data available at triage can effectively anticipate hospital admissions. By incorporating broad feature sets and operational variables, models such as XGBoost offer a feasible, explainable tool for early decision-making. Such tools could improve coordination between emergency and inpatient services and ease overcrowding. Future work should prioritize prospective validation and real-time clinical workflow integration.
 
@@ -3124,7 +3124,7 @@ Background: Emergency departments (EDs) are vital access points for urgent care,
 
 - Source: `medcity_news` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/`
 
 <p><a href="https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/"><img width="1000" height="666" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Sunharbo_50_mg_Prescription_Bottle-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p><p>Bayer’s asundexian, brand name Sunharbo, is the first FDA-approved drug in a new class cardiovascular medicines Approval of the once-daily pill covers secondary stroke prevention in adults. </p> <p>The post <a href="https://medcitynews.com/2026/11/bayer-sunharbo-asundexian-fda-approval-secondary-stroke-prevention-factor-xia-bayry/">FDA Approves First-in-Class Bayer Drug for Reducing the Risk of Stroke</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3236,7 +3236,7 @@ Background: Demand for health data to support research, innovation, and evidence
 
 - Source: `jmir` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113223`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e113223`
 
 Richter and colleagues offer a careful systematic review of how large language model–based tools affect physician-patient communication, but the outcomes that matter most in deciding to scale a solution—trust and safety—are still unknown. Before deploying these tools, health systems need local validation, ongoing monitoring for accuracy and equity, and pragmatic trials that measure trust, safety, and outcomes alongside perceived empathy. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/8f9005da9f8717c22d1aa7b198f33139" />
 
@@ -3244,7 +3244,7 @@ Richter and colleagues offer a careful systematic review of how large language m
 
 - Source: `jmir` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e81708`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e81708`
 
 Background: Clinical notes are rich sources of clinical information and are routinely used in clinical practice to infer past diagnoses and other comorbidities. Large language models (LLMs) may simplify the task by extracting this information from clinical notes. Objective: The study aims to evaluate the performance of state-of-the-art LLMs on the task of labeling English clinical notes. Methods: This institutional review board–approved retrospective study comprised 380 clinical notes obtained from 2 institutions in the United States. The notes were manually labeled for the presence or absence of 29 conditions (simplified Elixhauser Comorbidity Index) by 2 human readers—a radiology resident and a medical student under the supervision of a senior radiologist. Forty-six LLMs, including 4 closed-source commercial models from the GPT and Claude families, and 42 open-weights LLMs from the Llama (13 models) and the Qwen (29 models) families were used to label each note. The GPT-o3-mini-high reasoning model was used to parse the free-text model responses to binary yes/no answers. Using the manual labels as the reference standard, the recall, precision, and -scores for the models were evaluated. The effect of factors such as the length of the notes and the family, size, and release recency of the LLMs was analyzed using generalized linear models. Results: The top-performing LLMs included the GPT and Claude models, and the larger open-weights models included Llama 3 70B, Llama 3.1 70B, Llama 3.1 405B, Llama 3.3 70B, Qwen 1.5 72B, Qwen 1.5 110B, Qwen 2 72B, and Qwen 2 VL 72B, which achieved -scores above 70%. The most recent and higher-capacity releases of the LLMs have been improving mainly in their precision. The evaluation of 29 conditions showed a large variance in performance depending on the condition. Conclusions: In this evaluation with 46 LLMs, larger open-weights LLMs such as the Llama 3.3 70B performed on par with or better than the GPT and Claude models, achieving -scores above 70%. The performance of open-weights models improved significantly with model size and recency. These results suggest that locally run open-weights LLMs can be potentially used to label clinical notes. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/2de357b855f27ca09be996017dc8d084" />
 
@@ -3260,7 +3260,7 @@ Background: Approximately 1 in 100 children worldwide are diagnosed with autism 
 
 - Source: `medcity_news` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/`
 
 <p><a href="https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/"><img width="788" height="443" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg" class="attachment-large size-large wp-post-image" alt="An abstract human face dissolves into a cloud of glowing cubes. The image illustrates concepts of data fragmentation, information flow, and technological change on a dark blue background." style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI.jpg 788w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/06/AI-768x432.jpg 768w" sizes="(max-width: 788px) 100vw, 788px" /></a></p><p>Healthcare has plenty of tedious administrative work which could benefit from AI&#8217;s efficiency &#8211; but what if simply speeding up an already broken system isn&#8217;t the answer? Healthcare leaders push for a re-built, AI-native system in Anterior&#8217;s recent Beyond Faster Horses campaign. </p> <p>The post <a href="https://medcitynews.com/2026/11/new-campaign-wants-ai-applications-to-look-beyond-speed/">New Campaign Wants AI Applications To Look Beyond Speed</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3320,21 +3320,13 @@ BIO CEO: “Today’s biotech race is our generation’s Space Race.”
 
 <p>Rosti Group has acquired Alvi Group for an undisclosed sum, to strengthen the manufacturing of medical devices.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/rosti-buys-alvi-medical-device-manufacturing/">Rosti acquires Alvi to strengthen medical device manufacturing</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs](https://charleshuang.me/2026/09/27/theoremsmith/)
-
-- Source: `hn_ai_health_signals` · published `2026-11-10` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://charleshuang.me/2026/09/27/theoremsmith/`
-
-Hacker News community signal; score 10.
-
 ### [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 
 - Source: `hn_ai_health_signals` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://docodethatmatters.com/home-automation-overnight-success/`
 
-Hacker News community signal; score 688.
+Hacker News community signal; score 871.
 
 ### [Smartwatch-Measured Clinician Perceptions of Emergency Department Crowding and Their Association With Objective Metrics: Prospective Observational Study](https://mhealth.jmir.org/2026/1/e103317)
 
@@ -3356,7 +3348,7 @@ AI can help startups reduce patent preparation costs, but DIY applications may o
 
 - Source: `stat_news_feed` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss`
 
 Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.
 
@@ -3476,7 +3468,7 @@ A total of 34 companies joined The Crunchbase Unicorn Board in October, adding m
 
 - Source: `medcity_news` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/`
 
 <p><a href="https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/"><img width="600" height="400" src="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-600x400.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-600x400.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2020/08/GettyImages-623621238.jpg 724w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></p><p>The industry’s next major competitor may never build another national laboratory network or employ thousands of phlebotomists. It may simply own the device that notices something first. </p> <p>The post <a href="https://medcitynews.com/2026/11/the-laboratory-industrys-next-competitor-may-be-the-company-on-your-patients-wrist/">The Laboratory Industry’s Next Competitor May Be the Company on Your Patient&#8217;s Wrist</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
@@ -3484,9 +3476,9 @@ A total of 34 companies joined The Crunchbase Unicorn Board in October, adding m
 
 - Source: `hn_ai_health_signals` · published `2026-11-10` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://arxiv.org/abs/2611.10866`
+- Event: `updated` · identity: `url:https://arxiv.org/abs/2611.10866`
 
-Hacker News community signal; score 4.
+Hacker News community signal; score 19.
 
 ### [The Surprising Key to Improving Sleep & Long-Term Health](https://ouraring.wpengine.com/sleep-consistency/)
 
@@ -3560,11 +3552,19 @@ Background: The platform-based economy has expanded rapidly through the integrat
 
 At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:
 
+### [LLMs Play Zachtronics' TIS-100](https://tis-100.wincon.dev/)
+
+- Source: `hn_ai_health_signals` · published `2026-11-11` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://tis-100.wincon.dev/`
+
+Hacker News community signal; score 47.
+
 ### [Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board?](https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/)
 
 - Source: `medcity_news` · published `2026-11-11` · freshness `fresh`
 - Reading value: `pending` · status: `failed`
-- Event: `new` · identity: `url:https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/`
+- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/`
 
 <p><a href="https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2017/01/GettyImages-468340908.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Oura will be integrating Counsel Health&#8217;s clinical AI and virtual care into its app, but will payers and employers cover the Oura ring as a benefit? And will consumers sign on to pay a much more expensive monthly subscription for AI-enabled medical insights and access to licensed physicians? </p> <p>The post <a href="https://medcitynews.com/2026/11/ouras-buys-counsel-for-625m-but-will-payers-and-consumers-get-on-board/">Oura Buys Counsel for $625M, But Will Payers and Consumers Get on Board?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
