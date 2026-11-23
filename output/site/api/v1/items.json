@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T09:18:37+00:00",
+  "generated_at": "2026-11-23T13:48:46+00:00",
   "as_of": "2026-11-23",
   "count": 11,
   "items": [
@@ -17,7 +17,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -133,7 +133,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -252,7 +252,7 @@
         "hospital",
         "consumer"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "cms_fact_sheets"
@@ -371,7 +371,7 @@
         "hospital",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
@@ -487,7 +487,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -606,7 +606,7 @@
         "consumer",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -669,7 +669,7 @@
                 "total_tokens": 1659
               }
             },
-            "support": "At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95% ",
+            "support": "At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95%",
             "total": 69
           },
           {
@@ -700,7 +700,7 @@
                 "total_tokens": 1664
               }
             },
-            "support": "At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95% ",
+            "support": "At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95%",
             "total": 73
           }
         ],
@@ -724,7 +724,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nejm_abstracts"
@@ -843,7 +843,7 @@
         "hospital",
         "regulation"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
@@ -958,7 +958,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "nature_medicine"
@@ -1075,7 +1075,7 @@
         "research",
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -1193,7 +1193,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
