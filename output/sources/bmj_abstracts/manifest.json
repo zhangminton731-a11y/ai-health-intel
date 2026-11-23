@@ -2,20 +2,20 @@
   "checks": [
     {
       "count": 30,
-      "hit_count": 34,
+      "hit_count": 35,
       "kind": "europe_pmc",
-      "query": "ISSN:0959-8138 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-13 TO 2026-11-11] sort_date:y"
+      "query": "ISSN:0959-8138 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-25 TO 2026-11-23] sort_date:y"
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 1746,
+  "elapsed_ms": 14766,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-11-11T07:46:34+00:00",
+  "generated_at": "2026-11-23T09:18:37+00:00",
   "item_count": 30,
-  "last_checked_at": "2026-11-11T07:46:34+00:00",
-  "last_success_at": "2026-11-11T07:46:34+00:00",
-  "recovered": false,
+  "last_checked_at": "2026-11-23T09:18:37+00:00",
+  "last_success_at": "2026-11-23T09:18:37+00:00",
+  "recovered": true,
   "required": false,
   "role": "supplemental",
   "source_id": "bmj_abstracts",

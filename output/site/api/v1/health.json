@@ -1,41 +1,33 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-11T07:46:34+00:00",
-  "as_of": "2026-11-11",
+  "generated_at": "2026-11-23T09:18:37+00:00",
+  "as_of": "2026-11-23",
   "daily_status": "complete_with_warning",
   "sources": [
     {
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
-          "content_type": "text/plain",
-          "elapsed_ms": 120,
+          "bytes_read": 8631,
+          "content_type": "application/rss+xml",
+          "elapsed_ms": 101,
           "error_code": null,
           "final_url": "https://www.medtechdive.com/feeds/news/",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
+          "response_kind": "feed"
         },
         {
           "kind": "dive_brief",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "dive_brief",
-          "status": "unavailable"
+          "status": "ok"
         },
         {
           "kind": "dive_brief",
-          "status": "cached"
-        },
-        {
-          "kind": "dive_brief",
-          "status": "cached"
-        },
-        {
-          "kind": "dive_brief",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "dive_brief",
@@ -43,7 +35,11 @@
         },
         {
           "kind": "dive_brief",
-          "status": "unavailable"
+          "status": "ok"
+        },
+        {
+          "kind": "dive_brief",
+          "status": "ok"
         },
         {
           "kind": "dive_brief",
@@ -55,7 +51,11 @@
         },
         {
           "kind": "dive_brief",
-          "status": "cached"
+          "status": "ok"
+        },
+        {
+          "kind": "dive_brief",
+          "status": "ok"
         },
         {
           "count": 10,
@@ -63,13 +63,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 1042,
+      "elapsed_ms": 3384,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": true,
       "role": "primary",
@@ -81,14 +81,14 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
-          "content_type": "text/plain",
-          "elapsed_ms": 135,
+          "bytes_read": 55584,
+          "content_type": "application/rss+xml",
+          "elapsed_ms": 119,
           "error_code": null,
           "final_url": "https://www.statnews.com/feed/",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
+          "response_kind": "feed"
         },
         {
           "count": 20,
@@ -96,13 +96,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 140,
+      "elapsed_ms": 122,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 20,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -114,14 +114,14 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
-          "content_type": "text/plain",
-          "elapsed_ms": 140,
+          "bytes_read": 111710,
+          "content_type": "application/rss+xml",
+          "elapsed_ms": 98,
           "error_code": null,
           "final_url": "https://news.crunchbase.com/feed/",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
+          "response_kind": "feed"
         },
         {
           "count": 10,
@@ -129,13 +129,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 142,
+      "elapsed_ms": 101,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -154,7 +154,7 @@
       "elapsed_ms": 0,
       "enabled": false,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 0,
       "last_success_at": null,
       "recovered": false,
@@ -168,14 +168,14 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
+          "bytes_read": 18271,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 87,
+          "elapsed_ms": 160,
           "error_code": null,
           "final_url": "https://www.apple.com/newsroom/rss-feed.rss",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
+          "response_kind": "feed"
         },
         {
           "count": 20,
@@ -183,13 +183,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 88,
+      "elapsed_ms": 163,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 20,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -201,9 +201,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 29397,
+          "bytes_read": 28817,
           "content_type": "application/xml",
-          "elapsed_ms": 253,
+          "elapsed_ms": 154,
           "error_code": null,
           "final_url": "https://blog.google/rss/",
           "http_status": 200,
@@ -216,13 +216,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 254,
+      "elapsed_ms": 157,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 20,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -233,18 +233,18 @@
     {
       "checks": [
         {
-          "count": 3,
+          "count": 1,
           "kind": "hn_firebase"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 8849,
+      "elapsed_ms": 8781,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
-      "item_count": 3,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
+      "item_count": 1,
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -256,9 +256,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 76050,
+          "bytes_read": 76087,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 197,
+          "elapsed_ms": 119,
           "error_code": null,
           "final_url": "https://medcitynews.com/feed/",
           "http_status": 200,
@@ -271,13 +271,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 202,
+      "elapsed_ms": 124,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 30,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -289,46 +289,46 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
-          "content_type": "text/plain",
-          "elapsed_ms": 105,
+          "bytes_read": 16039,
+          "content_type": "application/rss+xml",
+          "elapsed_ms": 1214,
           "error_code": null,
           "final_url": "https://www.nature.com/npjdigitalmed.rss",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
+          "response_kind": "feed"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "count": 8,
@@ -336,13 +336,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 108,
+      "elapsed_ms": 17874,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 8,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -354,18 +354,14 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
-          "content_type": "text/plain",
-          "elapsed_ms": 105,
+          "bytes_read": 30910,
+          "content_type": "application/rss+xml",
+          "elapsed_ms": 128,
           "error_code": null,
           "final_url": "https://www.nature.com/nm.rss",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
-        },
-        {
-          "kind": "article_metadata",
-          "status": "cached"
+          "response_kind": "feed"
         },
         {
           "kind": "article_metadata",
@@ -373,27 +369,31 @@
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "unavailable"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "unavailable"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
+        },
+        {
+          "kind": "article_metadata",
+          "status": "unavailable"
         },
         {
           "count": 8,
@@ -401,13 +401,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 8783,
+      "elapsed_ms": 55161,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 8,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -419,9 +419,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 549994,
+          "bytes_read": 551793,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 207,
+          "elapsed_ms": 147,
           "error_code": null,
           "final_url": "https://news.mit.edu/topic/mithealth-rss.xml",
           "http_status": 200,
@@ -434,13 +434,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 218,
+      "elapsed_ms": 157,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 50,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -452,9 +452,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 192225,
+          "bytes_read": 208571,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 113,
+          "elapsed_ms": 237,
           "error_code": null,
           "final_url": "https://ouraring.com/blog/feed/",
           "http_status": 200,
@@ -467,13 +467,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 130,
+      "elapsed_ms": 255,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 12,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -485,9 +485,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 21457,
+          "bytes_read": 15262,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 156,
+          "elapsed_ms": 110,
           "error_code": null,
           "final_url": "https://www.medicaldevice-network.com/feed/",
           "http_status": 200,
@@ -500,13 +500,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 157,
+      "elapsed_ms": 111,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -518,9 +518,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 23989,
+          "bytes_read": 33972,
           "content_type": "application/rdf+xml",
-          "elapsed_ms": 536,
+          "elapsed_ms": 454,
           "error_code": null,
           "final_url": "https://www.jmir.org/feed/rss",
           "http_status": 200,
@@ -533,13 +533,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 537,
+      "elapsed_ms": 455,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -551,9 +551,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 32290,
+          "bytes_read": 36172,
           "content_type": "application/rdf+xml",
-          "elapsed_ms": 378,
+          "elapsed_ms": 358,
           "error_code": null,
           "final_url": "https://ai.jmir.org/feed/rss",
           "http_status": 200,
@@ -566,13 +566,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 379,
+      "elapsed_ms": 359,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -584,19 +584,9 @@
       "checks": [
         {
           "attempt": 1,
-          "content_type": "text/plain",
-          "elapsed_ms": 1016,
-          "error_code": "http_error",
-          "final_url": "https://www.nature.com/natbiomedeng.rss",
-          "http_status": 304,
-          "kind": "rss_fetch",
-          "retry_delay_seconds": 5.013
-        },
-        {
-          "attempt": 2,
-          "bytes_read": 18910,
+          "bytes_read": 17970,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 989,
+          "elapsed_ms": 60,
           "error_code": null,
           "final_url": "https://www.nature.com/natbiomedeng.rss",
           "http_status": 200,
@@ -605,15 +595,15 @@
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "unavailable"
+          "status": "ok"
         },
         {
           "kind": "article_metadata",
-          "status": "cached"
+          "status": "ok"
         },
         {
           "count": 8,
@@ -621,13 +611,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 14467,
+      "elapsed_ms": 4515,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 8,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -639,28 +629,28 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 0,
-          "content_type": "text/plain",
-          "elapsed_ms": 213,
+          "bytes_read": 2662,
+          "content_type": "text/xml",
+          "elapsed_ms": 219,
           "error_code": null,
           "final_url": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
-          "http_status": 304,
+          "http_status": 200,
           "kind": "rss_fetch",
-          "response_kind": "not_modified"
+          "response_kind": "feed"
         },
         {
-          "count": 2,
+          "count": 6,
           "kind": "rss_atom"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 214,
+      "elapsed_ms": 220,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
-      "item_count": 2,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
+      "item_count": 6,
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -672,9 +662,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 6131,
+          "bytes_read": 4711,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 293,
+          "elapsed_ms": 613,
           "error_code": null,
           "final_url": "https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml",
           "http_status": 200,
@@ -682,18 +672,18 @@
           "response_kind": "feed"
         },
         {
-          "count": 6,
+          "count": 4,
           "kind": "rss_atom"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 293,
+      "elapsed_ms": 614,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
-      "item_count": 6,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
+      "item_count": 4,
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -705,9 +695,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 44722,
+          "bytes_read": 35860,
           "content_type": "application/atom+xml",
-          "elapsed_ms": 514,
+          "elapsed_ms": 398,
           "error_code": null,
           "final_url": "https://mhealth.jmir.org/feed/atom",
           "http_status": 200,
@@ -720,13 +710,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 515,
+      "elapsed_ms": 400,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -738,9 +728,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 42047,
+          "bytes_read": 42058,
           "content_type": "application/atom+xml",
-          "elapsed_ms": 451,
+          "elapsed_ms": 325,
           "error_code": null,
           "final_url": "https://medinform.jmir.org/feed/atom",
           "http_status": 200,
@@ -753,13 +743,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 452,
+      "elapsed_ms": 326,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 10,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -771,19 +761,19 @@
       "checks": [
         {
           "count": 30,
-          "hit_count": 66,
+          "hit_count": 82,
           "kind": "europe_pmc",
-          "query": "ISSN:0028-4793 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-13 TO 2026-11-11] sort_date:y"
+          "query": "ISSN:0028-4793 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-25 TO 2026-11-23] sort_date:y"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 4798,
+      "elapsed_ms": 11993,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 30,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -795,19 +785,19 @@
       "checks": [
         {
           "count": 30,
-          "hit_count": 71,
+          "hit_count": 78,
           "kind": "europe_pmc",
-          "query": "ISSN:0140-6736 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-13 TO 2026-11-11] sort_date:y"
+          "query": "ISSN:0140-6736 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-25 TO 2026-11-23] sort_date:y"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 6595,
+      "elapsed_ms": 13902,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 30,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -819,19 +809,19 @@
       "checks": [
         {
           "count": 30,
-          "hit_count": 74,
+          "hit_count": 86,
           "kind": "europe_pmc",
-          "query": "ISSN:0098-7484 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-13 TO 2026-11-11] sort_date:y"
+          "query": "ISSN:0098-7484 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-25 TO 2026-11-23] sort_date:y"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 24907,
+      "elapsed_ms": 56555,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 30,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -843,19 +833,19 @@
       "checks": [
         {
           "count": 30,
-          "hit_count": 58,
+          "hit_count": 59,
           "kind": "europe_pmc",
-          "query": "ISSN:0003-4819 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-13 TO 2026-11-11] sort_date:y"
+          "query": "ISSN:0003-4819 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-25 TO 2026-11-23] sort_date:y"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 4901,
+      "elapsed_ms": 6609,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 30,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -867,20 +857,20 @@
       "checks": [
         {
           "count": 30,
-          "hit_count": 34,
+          "hit_count": 35,
           "kind": "europe_pmc",
-          "query": "ISSN:0959-8138 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-13 TO 2026-11-11] sort_date:y"
+          "query": "ISSN:0959-8138 AND HAS_ABSTRACT:Y AND FIRST_PDATE:[2026-08-25 TO 2026-11-23] sort_date:y"
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 1746,
+      "elapsed_ms": 14766,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 30,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
-      "recovered": false,
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
+      "recovered": true,
       "required": false,
       "role": "supplemental",
       "source_id": "bmj_abstracts",
@@ -891,9 +881,9 @@
       "checks": [
         {
           "attempt": 1,
-          "bytes_read": 15998,
+          "bytes_read": 15881,
           "content_type": "application/rss+xml",
-          "elapsed_ms": 109,
+          "elapsed_ms": 117,
           "error_code": null,
           "final_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
           "http_status": 200,
@@ -950,15 +940,15 @@
         },
         {
           "kind": "fda_release",
-          "status": "cached"
+          "status": "unavailable"
         },
         {
           "kind": "fda_release",
-          "status": "cached"
+          "status": "unavailable"
         },
         {
           "kind": "fda_release",
-          "status": "cached"
+          "status": "unavailable"
         },
         {
           "kind": "fda_release",
@@ -986,13 +976,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 868,
+      "elapsed_ms": 1017,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
       "item_count": 20,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -1007,13 +997,13 @@
         }
       ],
       "consecutive_failures": 0,
-      "elapsed_ms": 480,
+      "elapsed_ms": 1436,
       "enabled": true,
       "error": "",
-      "generated_at": "2026-11-11T07:46:34+00:00",
-      "item_count": 17,
-      "last_checked_at": "2026-11-11T07:46:34+00:00",
-      "last_success_at": "2026-11-11T07:46:34+00:00",
+      "generated_at": "2026-11-23T09:18:37+00:00",
+      "item_count": 23,
+      "last_checked_at": "2026-11-23T09:18:37+00:00",
+      "last_success_at": "2026-11-23T09:18:37+00:00",
       "recovered": false,
       "required": false,
       "role": "supplemental",
@@ -1025,114 +1015,122 @@
   "coverage": {
     "dates": [
       {
-        "date": "2026-11-11",
-        "collected": 2,
+        "date": "2026-11-23",
+        "collected": 4,
+        "selected": 1,
+        "excluded_reasons": {
+          "scored": 3
+        }
+      },
+      {
+        "date": "2026-11-22",
+        "collected": 4,
         "selected": 0,
         "excluded_reasons": {
+          "scored": 2,
           "pending": 1,
+          "needs_review": 1
+        }
+      },
+      {
+        "date": "2026-11-21",
+        "collected": 3,
+        "selected": 0,
+        "excluded_reasons": {
+          "scored": 1,
+          "needs_review": 1,
           "failed": 1
         }
       },
       {
-        "date": "2026-11-10",
-        "collected": 65,
+        "date": "2026-11-20",
+        "collected": 49,
         "selected": 0,
         "excluded_reasons": {
-          "failed": 57,
-          "pending": 8
+          "needs_review": 8,
+          "scored": 35,
+          "pending": 3,
+          "failed": 3
         }
       },
       {
-        "date": "2026-11-09",
-        "collected": 41,
-        "selected": 0,
+        "date": "2026-11-19",
+        "collected": 49,
+        "selected": 3,
         "excluded_reasons": {
-          "failed": 38,
-          "pending": 3
+          "scored": 36,
+          "pending": 2,
+          "needs_review": 8
         }
       },
       {
-        "date": "2026-11-08",
+        "date": "2026-11-18",
+        "collected": 28,
+        "selected": 1,
+        "excluded_reasons": {
+          "scored": 24,
+          "pending": 2,
+          "needs_review": 1
+        }
+      },
+      {
+        "date": "2026-11-17",
+        "collected": 33,
+        "selected": 3,
+        "excluded_reasons": {
+          "scored": 18,
+          "needs_review": 6,
+          "failed": 2,
+          "pending": 4
+        }
+      },
+      {
+        "date": "2026-11-16",
+        "collected": 21,
+        "selected": 1,
+        "excluded_reasons": {
+          "scored": 14,
+          "pending": 3,
+          "needs_review": 2,
+          "failed": 1
+        }
+      },
+      {
+        "date": "2026-11-15",
         "collected": 2,
-        "selected": 0,
-        "excluded_reasons": {
-          "failed": 2
-        }
+        "selected": 2,
+        "excluded_reasons": {}
       },
       {
-        "date": "2026-11-07",
-        "collected": 4,
+        "date": "2026-11-14",
+        "collected": 0,
         "selected": 0,
-        "excluded_reasons": {
-          "failed": 4
-        }
+        "excluded_reasons": {}
       },
       {
-        "date": "2026-11-06",
-        "collected": 27,
-        "selected": 0,
-        "excluded_reasons": {
-          "failed": 27
-        }
-      },
-      {
-        "date": "2026-11-05",
-        "collected": 23,
-        "selected": 0,
-        "excluded_reasons": {
-          "failed": 23
-        }
-      },
-      {
-        "date": "2026-11-04",
-        "collected": 19,
-        "selected": 0,
-        "excluded_reasons": {
-          "failed": 19
-        }
-      },
-      {
-        "date": "2026-11-03",
-        "collected": 20,
-        "selected": 0,
-        "excluded_reasons": {
-          "failed": 19,
-          "pending": 1
-        }
-      },
-      {
-        "date": "2026-11-02",
+        "date": "2026-11-13",
         "collected": 7,
         "selected": 0,
         "excluded_reasons": {
-          "failed": 6,
-          "pending": 1
-        }
-      },
-      {
-        "date": "2026-11-01",
-        "collected": 9,
-        "selected": 2,
-        "excluded_reasons": {
-          "failed": 6,
-          "scored": 1
+          "scored": 7
         }
       }
     ],
-    "selected": 2,
-    "collected": 444
+    "selected": 11,
+    "collected": 450
   },
   "editorial": {
     "counts": {
-      "failed": 202,
-      "ineligible": 225,
-      "insufficient_material": 14,
-      "scored": 3
+      "failed": 7,
+      "ineligible": 250,
+      "insufficient_material": 15,
+      "needs_review": 27,
+      "scored": 151
     },
-    "model": "glm-5.3-flash",
-    "policy_version": "26b6dbc3481e046c",
+    "model": "deepseek-flash",
+    "policy_version": "79c20b05dbd582fa",
     "retained_during_source_outage": 0,
-    "selected": 2,
+    "selected": 11,
     "status": "warning"
   }
 }
