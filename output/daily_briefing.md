@@ -1240,6 +1240,14 @@ Irritable bowel syndrome, chronic constipation, and functional diarrhoea are dis
 
 <h4>Background</h4>In patients with suspected myocardial infarction, the 0/1 h pathway (blood draws at 0 h and 1 h) is recommended in current guidelines for early risk stratification. However, individual trials used different safety outcomes, and efficacy outcomes were inconclusive or not assessed. We conducted a systematic review and individual participant data meta-analysis of all randomised controlled trials to synthesise the totality of the evidence, assess heterogeneity across trials, and evaluate clinically relevant outcomes using harmonised definitions across trials.<h4>Methods</h4>In this systematic review and individual participant data meta-analysis, we searched PubMed, Cochrane Central Register of Controlled Trials, Scopus, and the International Clinical Trials Registry Platform from inception to July 6, 2026, without language restrictions, for randomised trials comparing the safety and efficacy of 0/1 h versus 0/3 h pathways (blood draws at 0 h and 3 h, ie, standard care). Individual participant data were obtained and outcome definitions were harmonised. The primary analysis used a two-stage random-effects meta-analysis. After receipt of the individual participant data but before data harmonisation or analysis, the primary safety outcome was refined to a composite of all-cause death or new type 1 myocardial infarction within 30 days, from the originally specified composite of all-cause death or any new myocardial infarction. The primary efficacy outcomes were emergency department length of stay and direct discharge from the emergency department. This meta-analysis is registered with PROSPERO (CRD420261383452).<h4>Findings</h4>Our systematic review identified five randomised trials, all of which provided individual participant data. Among these, the definition of the primary safety outcome varied, and in four trials emergency department length of stay was not reported for the whole analysis population. We included 110 933 patient presentations (55 489 managed with the 0/1 h pathway and 55 444 managed with the 0/3 h pathway). Within 30 days, all-cause death or new type 1 myocardial infarction occurred in 446 patient presentations (0·8%) with the 0/1 h pathway versus 562 patient presentations (1·0%) with the 0/3 h pathway (random-effects pooled odds ratio [OR] 0·83 [95% CI 0·45-1·53]; I<sup>2</sup>=62·9%; τ<sup>2</sup>=0·143). Emergency department length of stay was 314 min (IQR 211-481) in the 0/1 h pathway group versus 308 min (209-453) in the 0/3 h pathway group (random-effects pooled geometric mean ratio 1·03 [95% CI 0·85-1·25]; I<sup>2</sup>=99·2%; τ<sup>2</sup>=0·024). Direct discharge from the emergency department occurred in 37 190 patient presentations (67·0%) with the 0/1 h pathway versus 36 485 patient presentations (65·8%) with the 0/3 h pathway (random-effects pooled OR 1·31 [95% CI 0·79-2·16]; I<sup>2</sup>=97·8%; τ<sup>2</sup>=0·156).<h4>Interpretation</h4>Across the available randomised trials, short-term adverse event rates were low with both pathways, but the pooled safety estimate remained imprecise. On average, earlier cardiac troponin retesting did not reduce emergency department length of stay or clearly increase direct discharge, and substantial between-study heterogeneity indicates that treatment effects might not translate uniformly across health-care systems. For hospitals considering transitioning from a 0/3 h to a 0/1 h pathway, implementation decisions should take broader diagnostic and organisational considerations into account.<h4>Funding</h4>Swiss National Science Foundation, Swiss Heart Foundation, University Hospital Basel, University of Basel, and Foundation for Cardiovascular Research Basel.
 
+### [A single-step injectable Janus-adhesive hydrogel for endoscopic gastrointestinal fistula repair](https://www.nature.com/articles/s41551-026-01820-6)
+
+- Source: `nature_biomedical_engineering` · published `2026-10-30` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01820-6`
+
+No summary supplied by the source.
+
 ### [FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis](http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis)
 
 - Source: `fda_press` · published `2026-10-30` · freshness `stale`
@@ -1447,6 +1455,14 @@ No summary supplied by the source.
 - Event: `seen` · identity: `url:http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality`
 
 The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making sure their products meet potency standards.
+
+### [Re-timing mortality risk through individualized modelling of lifespan trajectories](https://www.nature.com/articles/s41551-026-01822-4)
+
+- Source: `nature_biomedical_engineering` · published `2026-11-02` · freshness `stale`
+- Reading value: `pending` · status: `ineligible`
+- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01822-4`
+
+No summary supplied by the source.
 
 ### [Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery](https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102)
 
@@ -2208,14 +2224,6 @@ This is a correction of "Real-World Functional Gait Recovery Trajectories After 
 
 Fiscal Year 2026 Improper Payments The Centers for Medicare & Medicaid Services (CMS) is committed to being a responsible steward of public funds and promoting the sustainability of its programs for future generations. Measuring improper payments is an important part of that responsibility. An improper payment is a payment that does not meet CMS program requirements. Improper payments include overpayments, underpayments, and payments for which there is insufficient information to determine whether payment requirements were met. Improper payment rates do not measure fraud. While some improper payments may involve fraud or abuse, others reflect missing documentation or administrative errors. For example, a state or contractor may miss a required administrative step, where completing that step would have established the payment was proper. Estimated Fiscal Year (FY) 2026 Improper Payment Rates: Original Medicare: 7.32%, or $33.96 billion, compared to the FY 2025 reported rate of 6.55%, or $28.83 billion. The FY 2026 estimate marks the tenth consecutive year this figure has been below the 10% threshold for compliance established by improper payment statutory requirements. 1 Medicare Part C : 5.68%, or $23.86 billion, compared to the FY 2025 reported rate of 6.09%, or $23.67 billion. Most Part C improper payments were attributable to situations where the Medicare Advantage Organization’s supporting documentation failed to substantiate beneficiary diagnosis data submitted for payment. Medicare Part D : 3.85%, or $5.16 billion, compared to the FY 2025 reported rate of 4%, or $4.23 billion. Most Part D improper payments occurred because plan sponsors failed to provide sufficient documentation to support prescription data used for payment determinations. Medicaid: 7.08%, or $46.84 billion (composed of the past three cycles of approximately 17 states per cycle from reviews in 2024, 2025, and 2026), compared to the FY 2025 reported rate of 6.12%, or $37.39 billion. About 79.41% of the improper payments were the result of insufficient documentation. The Children’s Health Insurance Program (CHIP) : 9.81%, or $2.26 billion (composed of reviews in 2024, 2025, and 2026), compared to the FY 2025 reported rate of 7.05%, or $1.37 billion. About 55.93% of the improper payments were the result of insufficient documentation. The increase in national Medicaid and CHIP improper payment estimates reflects, in part, the effects of unwinding the flexibilities given to states during the COVID-19 public health emergency, such as conducting eligibility redeterminations and provider revalidation requirements, which resumed in April 2023. Advance Payments of the Premium Tax Credit (APTC) program for the Federally-Facilitated Exchange (FFE) for Benefit Year 2024 (Jan. 1 to Dec. 31, 2024): The FY 2026 improper payment rate, for BY 2024 is 0.84% or $830.37 million, compared to the FY 2025, for BY 2023, reported rate of 0.89%, or $657.46 million. The primary cause of improper payments was overpayments due to automated errors (59.24% of improper payments) where most relate to duplicate payment errors, which encapsulates duplicate member and duplicate use of Social Security Number (SSN) errors. The secondary cause of improper payments was overpayments found in manual errors related to failures to properly examine consumer submitted documents. While CMS’ improper payment reporting programs are not designed to measure fraud, the agency is committed to crushing fraud, waste, and abuse throughout its programs and fully expects these efforts to impact improper payment rates going forward. The 2026 Original Medicare and Medicaid/CHIP improper payment measurements are based on claims submitted from July 1, 2024, through June 30, 2025. This timeframe is before many of CMS’ current crushing fraud initiatives were implemented including: Medicare enrollment moratoria for high-risk provider types (including home health agencies and hospices); Large-scale provider enrollment revocations and payment suspensions targeting suspicious billing patterns; Greater use of advanced data analytics to identify high-risk Medicaid providers and coordinate rapid investigations with states and HHS' Office of Inspector General; Development of new data dashboards that give states a Super Intelligence-powered tool to track claims and catch Medicaid outliers before losses occur. To further strengthen stewardship of taxpayer dollars and secure the Medicare Trust Fund, CMS is also advancing a best-in-class commercial claims processing effort, ClaimsCore, that will re-platform Original Medicare claims processing onto a secure, configurable, and modern foundation. CMS estimates it will save millions through this work, not including the additional billions that may be saved through improved program integrity. ClaimsCore is designed to support modern payment integrity controls, faster and more transparent policy execution, and advanced capabilities such as Super Intelligence, while improving operational efficiency and care delivery over time. The impact of these and CMS’ other actions to combat fraud will begin to appear in the improper payment data for FY 2027, with more substantial effects expected in FY 2028. What You Need to Know: The Payment Integrity Information Act of 2019 (Public Law 116- 117) defines significant improper payments as either: Greater than $10 million and over 1.5% of all payments made under that program, or Greater than $100 million. The FY 2026 HHS Agency Financial Report provides the improper payment data for the Original Medicare, Medicare Part C, Medicare Part D, Medicaid, CHIP, and Affordable Care Act Health Insurance Exchange APTC programs. Most improper payments occurred in situations where a reviewer could not determine if a payment was proper because of insufficient documentation from a state, provider, a Medicare Advantage Organization, Part D Sponsor, or Marketplace insurer. Improper payments can result from a variety of circumstances, including: Items or services with no documentation; Items or services with insufficient documentation; Items or services with documentation that does not substantiate the payment; Items or services where the payment was to the right recipient for the right amount, but the payment process did not comply with applicable statutory or regulatory payment requirements; or With respect to Medicaid and CHIP, there is no record of the required verification of an individual’s eligibility factors, such as income. Proper payments occur when there is sufficient documentation to support payment in accordance with the program payment requirements. Two examples of proper payments include: Payments where CMS or the state appropriately maintained documentation of an eligibility verification requirement and appropriately determined eligibility based on program eligibility and payment requirements. Payments where sufficient documentation was provided to support program payment requirements. More information on CMS’ Improper Payments Measurement Programs can be found at: https://www.cms.gov/data-research/monitoring-programs/improper-payment-measurement-programs. To view the HHS Agency Financial Report, visit: www.hhs.gov/afr. _______________ 1 Originally published under the Improper Payments Elimination and Recovery Act of 2010 and adopted by the Payment Integrity Information Act of 2019. ### CMS News and Media Group Catherine Howden, Director Media Inquiries Form 202-690-6145
 
-### [Innovative Health Tech and MedTech Grab the Spotlight at INVEST Digital Health](https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/)
-
-- Source: `medcity_news` · published `2026-11-16` · freshness `fresh`
-- Reading value: `16` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/`
-
-<p><a href="https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/"><img width="793" height="440" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/GettyImages-2297510135.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/GettyImages-2297510135.jpg 793w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/GettyImages-2297510135-300x166.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/GettyImages-2297510135-768x426.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/GettyImages-2297510135-576x320.jpg 576w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/GettyImages-2297510135-360x200.jpg 360w" sizes="auto, (max-width: 793px) 100vw, 793px" /></a></p><p>[Sponsored] The Innovation Showcase at the Dallas conference included technology to objectively assess pain, as well as startups seeking to speed up diagnosis of endometriosis, improve the way we communicate and precision nutrition. </p> <p>The post <a href="https://medcitynews.com/2026/11/invest-digital-health-spotlights-innovative-health-tech-and-medtech-at-invest-digital-health/">Innovative Health Tech and MedTech Grab the Spotlight at INVEST Digital Health</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
 ### [J&J’s $2.2B Ollin Buyout Brings Late-Stage Eye Drug; Blackstone Deal Adds Trial Funding](https://medcitynews.com/2026/11/johnson-johnson-jnj-ollin-biosciences-acquisition-bispecific-antibody-vegf-ang2-wet-amd-dme/)
 
 - Source: `medcity_news` · published `2026-11-16` · freshness `fresh`
@@ -2239,14 +2247,6 @@ Notice NOT-OD-27-008 from the NIH Guide for Grants and Contracts
 - Event: `seen` · identity: `url:http://grants.nih.gov/grants/guide/notice-files/NOT-GM-27-004.html`
 
 Notice NOT-GM-27-004 from the NIH Guide for Grants and Contracts
-
-### [Ongoing Check-Ins Can Help More Postpartum Mothers Get the Care They Need](https://medcitynews.com/2026/11/ongoing-check-ins-can-help-more-postpartum-mothers-get-the-care-they-need/)
-
-- Source: `medcity_news` · published `2026-11-16` · freshness `fresh`
-- Reading value: `15` · status: `needs_review`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/ongoing-check-ins-can-help-more-postpartum-mothers-get-the-care-they-need/`
-
-<p><a href="https://medcitynews.com/2026/11/ongoing-check-ins-can-help-more-postpartum-mothers-get-the-care-they-need/"><img width="724" height="483" src="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/GettyImages-2158835167.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2025/09/GettyImages-2158835167.jpg 724w, https://medcitynews.com/wp-content/uploads/sites/7/2025/09/GettyImages-2158835167-300x200.jpg 300w" sizes="auto, (max-width: 724px) 100vw, 724px" /></a></p><p>Engaging with mothers earlier gives us the best chance of catching PPD, PPA, and PPP before they escalate. It won’t be perfect, but it will help more moms and their families.</p> <p>The post <a href="https://medcitynews.com/2026/11/ongoing-check-ins-can-help-more-postpartum-mothers-get-the-care-they-need/">Ongoing Check-Ins Can Help More Postpartum Mothers Get the Care They Need</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Platform Differences in Smartphone Sensing Features for Mental Health Across Four Annual College Cohorts: Secondary Analysis](https://mhealth.jmir.org/2026/1/e103711)
 
@@ -2679,14 +2679,6 @@ Science Corporation said Tuesday it has raised $400 million to commercialize its
 - Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/science-400m-expand-retinal-implant-rollout/`
 
 <p>The company will use the funds to expand access to Prima across Europe, where the device is designed to restore form vision.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/science-400m-expand-retinal-implant-rollout/">Science raises $400m to expand retinal implant rollout</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
-
-### [Sector Snapshot: Investors Turn Up The Volume On Voice AI](https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/)
-
-- Source: `crunchbase_news_feed` · published `2026-11-18` · freshness `fresh`
-- Reading value: `17` · status: `needs_review`
-- Event: `seen` · identity: `url:https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/`
-
-Voice AI is drawing billions of dollars from investors as startups find more ways to put it to work. According to Crunchbase data, companies developing or offering the technology have raised at least $9.5 billion in venture funding so far in 2026.
 
 ### [Senseonics, Beta Bionics integrate diabetes technology](https://www.medtechdive.com/news/senseonics-beta-bionics-integrate-diabetes-technology/875120/)
 
@@ -3176,14 +3168,6 @@ Background: Under the new diagnosis-related group (NDRG) payment system in Korea
 
 <p>A 2026 report by the World Bank estimates that almost two-thirds of people globally cannot reliably access ultrasound imaging.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/exo-lands-11-m-gates-foundation-grant-to-expand-ultrasound-access/">Exo lands $11.6m Gates Foundation grant to expand ultrasound access</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [FDA’s search for a new leader, and China’s largest drugmakers](https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss)
-
-- Source: `stat_news_feed` · published `2026-11-20` · freshness `fresh`
-- Reading value: `24` · status: `needs_review`
-- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss`
-
-This week on "The Readout LOUD" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.
-
 ### [Get your year-end tasks done with new Connected Apps.](https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/)
 
 - Source: `fitbit_google_blog` · published `2026-11-20` · freshness `fresh`
@@ -3331,7 +3315,7 @@ High-fidelity computational models of cardiac mechanics provide mechanistic insi
 ### [STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive](https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-20` · freshness `fresh`
-- Reading value: `pending` · status: `failed`
+- Reading value: `41` · status: `scored`
 - Event: `seen` · identity: `url:https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss`
 
 Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:
@@ -3460,9 +3444,9 @@ Asthma affects over 260 million people worldwide, yet diagnosis remains dependen
 
 - Source: `medcity_news` · published `2026-11-22` · freshness `fresh`
 - Reading value: `40` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/`
 
-<p><a href="https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/"><img width="300" height="250" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/traveling-nurses-MedCity-Featured.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" /></a></p><p>The University of Maryland Medical system announced that its nurse-designed orientation tool is now available to other health systems. The tool has saved the hospital nearly $4 million in staffing costs since its launch in January 2023.</p> <p>The post <a href="https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/">Orientation Solution Supports New Nurses, Saves Millions at Maryland’s Largest Healthcare System</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/"><img width="300" height="250" src="https://medcitynews.com/wp-content/uploads/sites/7/2023/02/traveling-nurses-MedCity-Featured.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" /></a></p><p>The University of Maryland Medical system announced that its nurse-designed orientation tool is now available to other health systems. The tool has saved the hospital nearly $4 million in staffing costs since its launch in January 2023.</p> <p>The post <a href="https://medcitynews.com/2026/11/orientation-solution-supports-new-nurses-saves-millions-at-marylands-largest-healthcare-system/">Orientation Solution Supports New Nurses, Saves Millions at Maryland’s Largest Healthcare System</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
 
@@ -3470,7 +3454,7 @@ Asthma affects over 260 million people worldwide, yet diagnosis remains dependen
 - Reading value: `pending` · status: `insufficient_material`
 - Event: `updated` · identity: `url:https://github.com/gulivan/worker755`
 
-Hacker News community signal; score 340.
+Hacker News community signal; score 344.
 
 ### [When Practicing Clinicians Help Write the Protocol, More Patients Get Access To Novel Therapies](https://medcitynews.com/2026/11/when-practicing-clinicians-help-write-the-protocol-more-patients-get-access-to-novel-therapies/)
 
@@ -3484,23 +3468,15 @@ Hacker News community signal; score 340.
 
 - Source: `medcity_news` · published `2026-11-23` · freshness `fresh`
 - Reading value: `18` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/`
 
-<p><a href="https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/"><img width="1024" height="674" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-1024x674.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-1024x674.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-300x197.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-768x505.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-1536x1010.png 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM.png 1642w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>Here are seven notable announcements from the HLTH conference, including from Noom, Teladoc and Apple.</p> <p>The post <a href="https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/">7 HLTH 2026 Announcements You Don’t Want to Miss</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
-
-### [Advances in molecular imaging of the tumour microenvironment](https://www.nature.com/articles/s41551-026-01832-2)
-
-- Source: `nature_biomedical_engineering` · published `2026-11-23` · freshness `fresh`
-- Reading value: `50` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01832-2`
-
-The tumour microenvironment (TME) is a multidimensional dynamic and complex system of cells and non-cellular components that not only drives tumour progression but also substantially influences response to therapy. Understanding TME biology for basic research and identifying biomarkers in the TME to stratify patients for therapy is crucial for optimizing therapeutic outcomes. Current standards for investigating TME dynamics, if even considered beyond preclinical work, rely predominantly on samples for tissue staining and sequencing and require invasive procedures to obtain tissue via surgery or biopsies. This leads to limited assessment of spatial heterogeneity and minimal temporal information as this depends on the timing of tissue sampling, which results in undefined clinical utility. Molecular imaging provides promising solutions by enabling non-invasive, real-time multidimensional spatiotemporal probing of the TME that can complement current ex vivo practices. This Review highlights the relevance of molecular imaging agents and methods that can effectively capture spatiotemporal TME characteristics in situ, offering critical insights into tumour behaviour and treatment response. We provide an overview of current preclinical imaging strategies and their applications in identifying cellular and non-cellular components of the TME, along with monitoring progression-associated processes and treatment response. We showcase new developments and avenues being explored in preclinical imaging, as well as offer perspectives into existing and emerging clinical imaging of the TME to enhance patient care and highlight opportunities for improvement. Overall, integrating TME imaging into clinical practice holds the potential to bridge critical gaps in spatiotemporal resolution, ultimately enabling more precise diagnosis, patient stratification and personalized therapeutic interventions. This Review discusses molecular imaging probes and modalities for studying the complexity and dynamics of the tumour microenvironment in preclinical research and further highlights emerging clinical applications in diagnostics and intervention.
+<p><a href="https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/"><img width="1024" height="674" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-1024x674.png" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" loading="lazy" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-1024x674.png 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-300x197.png 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-768x505.png 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM-1536x1010.png 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Screenshot-2026-11-22-at-6.09.04-PM.png 1642w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></p><p>Here are seven notable announcements from the HLTH conference, including from Noom, Teladoc and Apple.</p> <p>The post <a href="https://medcitynews.com/2026/11/7-hlth-2026-announcements-you-dont-want-to-miss/">7 HLTH 2026 Announcements You Don’t Want to Miss</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [As diabetes association’s turmoil continues, what does it mean for patients?](https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss)
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `26` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss`
 
 The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future.
 
@@ -3508,17 +3484,9 @@ The American Diabetes Association has made concrete differences in patient care 
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `37` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss`
 
 In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:
-
-### [Biophysical brain twins map the phenotype–expotype architecture of ageing and dementia](https://www.nature.com/articles/s41551-026-01823-3)
-
-- Source: `nature_biomedical_engineering` · published `2026-11-23` · freshness `fresh`
-- Reading value: `66` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41551-026-01823-3`
-
-Biophysical whole-brain models may reveal causal links between neural dynamics and biological–environmental variation, yet no framework has explained how these factors become embedded in mechanistic dynamics. Here we develop individualized biophysical digital twins mechanistically linked to phenotypes and expotypes (that is, combinations of exposomal influences) leveraging resting-state functional magnetic resonance imaging data (n = 6,986, 16 countries) of healthy controls and participants with mild cognitive impairment, Alzheimer’s disease and frontotemporal dementia. Personalized twins improved goodness-of-fit over group-level models. They reproduced structure–function coupling between regional excitability and brain volume, captured age, sex and neurodegeneration, and encoded 68 expotypes. Associations remained robust after controlling for demographics, data quality, model fit and scanner/site, with the strongest effects for social and physical (pollution) exposomes. We release an open resource (empirical data, code, &gt;3 million simulations) for future research. These findings ground phenotypic–exposomic variation in individualized biophysical twins, enabling in silico testing of mechanisms and potential model-informed interventions. The generation of individual biophysical digital twins at massive scale from resting-state functional magnetic resonance imaging enables individualized insights into regional signatures and excitatory/inhibitory balance, with features that can be linked to key phenotypes and expotypes.
 
 ### [Health-state instability and progression in longitudinal clinical records reveal heterogeneous ageing trajectories](https://www.nature.com/articles/s41746-026-03482-9)
 
@@ -3532,15 +3500,23 @@ Longitudinal clinical records capture health changes, but most models reduce the
 
 - Source: `medcity_news` · published `2026-11-23` · freshness `fresh`
 - Reading value: `71` · status: `scored`
-- Event: `seen` · identity: `url:https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/`
+- Event: `updated` · identity: `url:https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/`
 
-<p><a href="https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/"><img width="1000" height="562" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p><p>FDA approval of Beren Therapeutics’ Lembaz makes it the first therapy for Niemann-Pick disease type C with data showing survival benefit in this rare inherited disorder. The FDA nod is the culmination of a 20-year journey for this molecule, which Beren, a public benefit corporation, plucked from the bankruptcy proceedings of Mallinckrodt.</p> <p>The post <a href="https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/">How Biotech Upstart Beren Turned a Pharma Failure Into a First-in-Class FDA Approval</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+<p><a href="https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/"><img width="1000" height="562" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz.jpg 1000w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/Beren_Therapeutics_Lembaz-768x432.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p><p>FDA approval of Beren Therapeutics’ Lembaz makes it the first therapy for Niemann-Pick disease type C with data showing survival benefit in this rare inherited disorder. The FDA nod is the culmination of a 20-year journey for this molecule, which Beren, a public benefit corporation, plucked from the bankruptcy proceedings of Mallinckrodt.</p> <p>The post <a href="https://medcitynews.com/2026/11/beren-therapeutics-fda-approval-niemann-pick-type-c-lembaz-adrabetadex-cyclodextrin-npc-pbc/">How Biotech Upstart Beren Turned a Pharma Failure Into a First-in-Class FDA Approval</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
+
+### [How Can Specialty Practices Capture More Revenue?](https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/)
+
+- Source: `medcity_news` · published `2026-11-23` · freshness `fresh`
+- Reading value: `15` · status: `scored`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/`
+
+<p><a href="https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/"><img width="1024" height="576" src="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/modmed_thumb-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2026/11/modmed_thumb-1024x576.jpg 1024w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/modmed_thumb-300x169.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/modmed_thumb-768x432.jpg 768w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/modmed_thumb-1536x864.jpg 1536w, https://medcitynews.com/wp-content/uploads/sites/7/2026/11/modmed_thumb.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p><p>[Sponsored] In an interview at the HLTH conference, Rob Ware, ModMed Senior Vice President and General Manager of RCM, explained how its software works and the value it offers specialty practices.</p> <p>The post <a href="https://medcitynews.com/2026/11/how-can-specialty-practices-capture-more-revenue/">How Can Specialty Practices Capture More Revenue?</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ### [Ladera Medical reports positive data for large bore closure system](https://www.medicaldevice-network.com/news/ladera-medical-reports-positive-data-for-large-bore-closure-system/)
 
 - Source: `medical_device_network` · published `2026-11-23` · freshness `fresh`
 - Reading value: `33` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/ladera-medical-reports-positive-data-for-large-bore-closure-system/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/ladera-medical-reports-positive-data-for-large-bore-closure-system/`
 
 <p>Ladera Medical has reported full data from the FASTEN trial of the Large Bore Closure System, which demonstrated rapid haemostasis in TAVR/TAVI patients.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/ladera-medical-reports-positive-data-for-large-bore-closure-system/">Ladera Medical reports positive data for large bore closure system</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3548,15 +3524,23 @@ Longitudinal clinical records capture health changes, but most models reduce the
 
 - Source: `medical_device_network` · published `2026-11-23` · freshness `fresh`
 - Reading value: `46` · status: `scored`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/mmi-robotic-electrosurgical-tool-europe/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/mmi-robotic-electrosurgical-tool-europe/`
 
 <p>MMI has made its NanoWrist Monopolar Scissors available to hospitals across Europe following the completion of initial clinical procedures.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/mmi-robotic-electrosurgical-tool-europe/">MMI launches robotic electrosurgical tool in Europe</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates](https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/)
+
+- Source: `crunchbase_news_feed` · published `2026-11-23` · freshness `fresh`
+- Reading value: `15` · status: `needs_review`
+- Event: `new` · identity: `url:https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/`
+
+The more than 1,900 startups on the The Crunchbase Unicorn Board have a combined valuation of roughly $9 trillion, based on their last reported valuations. But Crunchbase&#8217;s new Current Valuation Model, which estimates how private-company values have changed since their last funding rounds, puts that figure closer to $11 trillion. Most unicorns are estimated to [&#8230;]
 
 ### [Multimodal CT-pathology imaging deep learning model for risk stratification in resected stage I lung adenocarcinoma](https://www.nature.com/articles/s41746-026-03467-8)
 
 - Source: `npj_digital_medicine` · published `2026-11-23` · freshness `fresh`
 - Reading value: `62` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03467-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03467-8`
 
 Lung adenocarcinoma is a highly heterogeneous disease, highlighting the need for more accurate prognosis prediction. We developed a multimodal deep learning model combining preoperative computed tomography (CT) and postoperative whole slide image (WSI) to predict the disease-free survival (DFS) of resected stage I lung adenocarcinoma. Based on a cohort of 1078 patients from multiple centers, our dual-information instance neural network achieved superior performance over unimodal approaches. The risk stratification defined by the model effectively distinguished DFS in both validation cohorts and served as an independent predictor, suggesting the complementary value of the model beyond clinicopathological factors. An exploratory scoring system integrating the model-derived risk stratification with key clinicopathological factors was developed, identifying patients with significantly different prognostic outcomes. Further analyses suggested that patients with high-risk stage IB disease or high scores might derive DFS benefit from adjuvant chemotherapy, warranting prospective validation. Beyond its predictive capacity, the model also provided morphological insights, identifying prognostically significant structures such as tertiary lymphoid structures and stroma barriers, while RNA-sequencing analysis revealed distinct oncogenic pathway activation and immunosuppressive tumor microenvironments in high-risk patients. By leveraging routinely acquired clinical images, this multimodal approach offers a practical tool for improving prognostic stratification, with potential implications for informing patient selection for adjuvant chemotherapy in resected stage I lung adenocarcinoma.
 
@@ -3564,7 +3548,7 @@ Lung adenocarcinoma is a highly heterogeneous disease, highlighting the need for
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `29` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/foia-scientific-research-china-legal-loophole/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/foia-scientific-research-china-legal-loophole/?utm_campaign=rss`
 
 A $25 fee and simple online FOIA request gave a Chinese “consultant” access to this writer’s scientific research.
 
@@ -3572,7 +3556,7 @@ A $25 fee and simple online FOIA request gave a Chinese “consultant” access 
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `31` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss`
 
 “A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.
 
@@ -3580,7 +3564,7 @@ A $25 fee and simple online FOIA request gave a Chinese “consultant” access 
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `48` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss`
 
 The Danish biotech Genmab in on a roll with cancer drugs, with success in three late-stage clinical trials over the course of a month.
 
@@ -3588,7 +3572,7 @@ The Danish biotech Genmab in on a roll with cancer drugs, with success in three 
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `39` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss`
 
 The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?
 
@@ -3596,7 +3580,7 @@ The biotech Invivyd reported that its monoclonal antibody strongly protected peo
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `47` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss`
 
 Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin.
 
@@ -3604,17 +3588,33 @@ Kymera Therapeutics announced on Monday that its experimental therapy effectivel
 
 - Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
 - Reading value: `33` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss`
 
 Relapse in multiple myeloma is common. A new type of CAR-T aims to avoid that by adding a target to evade the tumor.
+
+### [STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more](https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss)
+
+- Source: `stat_news_feed` · published `2026-11-23` · freshness `fresh`
+- Reading value: `43` · status: `needs_review`
+- Event: `new` · identity: `url:https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss`
+
+The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics
 
 ### [The future of precision in energy-based therapies](https://www.medicaldevice-network.com/sponsored/the-future-of-precision-in-energy-based-therapies/)
 
 - Source: `medical_device_network` · published `2026-11-23` · freshness `fresh`
 - Reading value: `17` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/sponsored/the-future-of-precision-in-energy-based-therapies/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/sponsored/the-future-of-precision-in-energy-based-therapies/`
 
 <p>Explore how advances in energy delivery, sensing, and device design are improving precision in minimally invasive therapeutic procedures.</p> <p>The post <a href="https://www.medicaldevice-network.com/sponsored/the-future-of-precision-in-energy-based-therapies/">The future of precision in energy-based therapies</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
+
+### [Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer](https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/)
+
+- Source: `medcity_news` · published `2026-11-23` · freshness `fresh`
+- Reading value: `20` · status: `needs_review`
+- Event: `new` · identity: `url:https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/`
+
+<p><a href="https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/"><img width="600" height="399" src="https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1220059467-600x399.jpg" class="attachment-large size-large wp-post-image" alt="" style="max-width: 100%; height: auto!important;" decoding="async" fetchpriority="high" srcset="https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1220059467-600x399.jpg 600w, https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1220059467-300x200.jpg 300w, https://medcitynews.com/wp-content/uploads/sites/7/2021/02/GettyImages-1220059467.jpg 724w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>Here are some steps forward-thinking digital health companies can take to prepare for payer negotiations.</p> <p>The post <a href="https://medcitynews.com/2026/11/your-series-b-proved-investors-believe-you-it-wont-prove-anything-to-a-payer/">Your Series B Proved Investors Believe You — It Won’t Prove Anything to a Payer</a> appeared first on <a href="https://medcitynews.com">MedCity News</a>.</p>
 
 ---
 

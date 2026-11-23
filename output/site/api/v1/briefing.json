@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T13:48:46+00:00",
+  "generated_at": "2026-11-23T14:39:45+00:00",
   "as_of": "2026-11-23",
   "item_ids": [
     "url:https://www.nature.com/articles/s41746-026-03441-4"
@@ -11,7 +11,7 @@
       "item_ids": [
         "url:https://www.nature.com/articles/s41746-026-03441-4"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-11-19",
@@ -20,7 +20,7 @@
         "pmid:43057277",
         "url:https://www.nature.com/articles/s41591-026-04731-w"
       ],
-      "minutes": 8
+      "minutes": 3
     },
     {
       "date": "2026-11-18",
@@ -36,14 +36,14 @@
         "url:https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
         "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
       ],
-      "minutes": 6
+      "minutes": 2
     },
     {
       "date": "2026-11-16",
       "item_ids": [
         "pmid:43037562"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-11-15",
@@ -51,21 +51,21 @@
         "pmid:43035098",
         "pmid:43035096"
       ],
-      "minutes": 4
+      "minutes": 2
     }
   ],
   "edition_date": "2026-11-23",
-  "text": "奇点日报 · 2026-11-23\n这一天的 1 件 AI 医疗大事\n\n01 · 论文研究\nArtificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions\nCancer risk assessment is a crucial step in PCL management, but the complexity and limited accuracy of existing approaches contribute to suboptimal patient care. We developed and validated an artificial intelligence (AI) model that uses radiology reports and clinical data to predict the future risk of pancreatic cancer in patients with PCLs. Among the models evaluated, XGBoost achieved the highest performance, with AUCs of 0.960, 0.945, and 0.944 for predicting pancreatic cancer incidence at 1, 3, and 5 years after imaging, respectively.\nnpj Digital Medicine · 2026-11-23\nhttps://www.nature.com/articles/s41746-026-03441-4\n",
+  "text": "奇点日报 · 2026-11-23\n这一天的 1 件 AI 医疗大事\n\n01 · 论文研究\n胰腺囊性病变患者胰腺癌风险预测的人工智能模型\n癌症风险评估是 PCL 管理的关键步骤，但现有方法的复杂性和有限的准确性导致患者护理效果不佳。我们开发并验证了一种人工智能 (AI) 模型，该模型使用放射学报告和临床数据来预测 PCL 患者未来患胰腺癌的风险。在评估的模型中，XGBoost 取得了最高的性能，预测成像后 1 年、3 年和 5 年胰腺癌发病率的 AUC 分别为 0.960、0.945 和 0.944。\nnpj Digital Medicine · 2026-11-23\nhttps://www.nature.com/articles/s41746-026-03441-4\n",
   "publication": {
     "date": "2026-11-23",
     "item_ids": [
       "url:https://www.nature.com/articles/s41746-026-03441-4"
     ],
-    "minutes": 2,
+    "minutes": 1,
     "date_basis": "publication",
     "source_dates": [
       "2026-11-23"
     ],
-    "text": "奇点日报 · 2026-11-23\n近三日精选 · 1 件 AI 医疗大事\n\n01 · 论文研究\nArtificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions\nCancer risk assessment is a crucial step in PCL management, but the complexity and limited accuracy of existing approaches contribute to suboptimal patient care. We developed and validated an artificial intelligence (AI) model that uses radiology reports and clinical data to predict the future risk of pancreatic cancer in patients with PCLs. Among the models evaluated, XGBoost achieved the highest performance, with AUCs of 0.960, 0.945, and 0.944 for predicting pancreatic cancer incidence at 1, 3, and 5 years after imaging, respectively.\nnpj Digital Medicine · 2026-11-23\nhttps://www.nature.com/articles/s41746-026-03441-4\n"
+    "text": "奇点日报 · 2026-11-23\n近三日精选 · 1 件 AI 医疗大事\n\n01 · 论文研究\n胰腺囊性病变患者胰腺癌风险预测的人工智能模型\n癌症风险评估是 PCL 管理的关键步骤，但现有方法的复杂性和有限的准确性导致患者护理效果不佳。我们开发并验证了一种人工智能 (AI) 模型，该模型使用放射学报告和临床数据来预测 PCL 患者未来患胰腺癌的风险。在评估的模型中，XGBoost 取得了最高的性能，预测成像后 1 年、3 年和 5 年胰腺癌发病率的 AUC 分别为 0.960、0.945 和 0.944。\nnpj Digital Medicine · 2026-11-23\nhttps://www.nature.com/articles/s41746-026-03441-4\n"
   }
 }
