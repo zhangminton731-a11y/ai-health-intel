@@ -364,6 +364,9 @@ def build(*, as_of: date | None = None) -> None:
     shutil.copyfile(ROOT/'assets/community-qr.png', assets/'community-qr.png')
     shutil.copyfile(ROOT/'assets/brand-symbol.svg', assets/'brand-symbol.svg')
     shutil.copyfile(ROOT/'assets/company-logo.png', assets/'company-logo.png')
+    reports = ROOT / "templates" / "reports"
+    if reports.is_dir():
+        shutil.copytree(reports, OUTPUT / "site" / "reports", dirs_exist_ok=True)
     export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 

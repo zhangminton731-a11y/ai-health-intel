@@ -100,6 +100,10 @@
 #selectedHighlights a{font-weight:650}#selectedHighlights li span{margin-right:.5em;font-size:12px}
 #v-daily [hidden],#selectedHeadlinePanel[hidden]{display:none!important}
 #reportTabs{margin-bottom:18px}#periodDates{display:grid;gap:6px}
+#editorialIssue{margin:0 0 18px;padding:18px 20px;background:var(--soft)}
+#editorialIssue h2{margin:4px 0;font-size:20px}
+#editorialIssue .text-link{min-height:34px}
+.editorial-archive-link{display:inline-flex;margin-top:12px;font-size:13px;font-weight:650;color:var(--green)}
 #periodDates a{padding:8px;border-radius:6px}#periodDates a[aria-current=page]{color:var(--green);background:var(--soft)}
 .sidebar nav{min-height:0;overflow-y:auto}.sidebar{gap:16px}
 @media (max-width:700px){.mobile-nav{grid-template-columns:repeat(5,minmax(0,1fr))}.mobile-nav a{font-size:11px}.reader-card{padding:13px}.reader-heading h1{font-size:23px}}
@@ -174,8 +178,9 @@
 <nav id="reportTabs" class="category-tabs" aria-label="报告周期"><a href="#daily">日报</a><a href="#daily?period=week">周报</a><a href="#daily?period=month">月报</a></nav>
 <div id="periodReport" class="digest-layout" hidden><aside class="digest-dates" aria-label="报告目录"><div class="digest-index-title" id="periodIndexTitle"></div><nav id="periodDates"></nav></aside><div class="digest-reading"><label for="periodSelect">选择期次</label> <select id="periodSelect"></select><h1 id="periodTitle"></h1><p id="periodStatus" aria-live="polite"></p><div id="periodStories"></div><div class="digest-end"><button id="periodCopy" type="button" class="button secondary">复制本期</button><button id="periodShare" type="button" class="button secondary">分享本期</button></div></div></div>
 <div class="digest-layout">
-<aside class="digest-dates" aria-label="日报日期目录"><div class="digest-index-title">奇点日报</div><p>今日出刊 · 原文日期归档</p><nav id="dailyDates" aria-label="选择日报日期"></nav></aside>
+<aside class="digest-dates" aria-label="日报日期目录"><div class="digest-index-title">奇点日报</div><p>今日出刊 · 原文日期归档</p><nav id="dailyDates" aria-label="选择日报日期"></nav><a class="editorial-archive-link" href="reports/2026-11-23/">11 月 23 日 · 消费健康科技专题</a></aside>
 <div class="digest-reading"><div class="digest-mobile-date"><label for="dailyDateSelect">选择日期</label><select id="dailyDateSelect"></select></div>
+<aside id="editorialIssue" class="panel" aria-labelledby="editorialIssueTitle" hidden><time datetime="2026-11-23">2026 年 11 月 23 日</time><h2 id="editorialIssueTitle">消费健康科技专题</h2><p>从 Oura 的美妆门店到 Noom 的雇主福利，四条产品与商业动向。</p><a href="reports/2026-11-23/" class="text-link">阅读本期奇点日报</a></aside>
 <header class="digest-header"><div class="digest-kicker">奇点日报 <time id="dailyDate"></time></div><div class="daily-masthead"><div><div class="daily-wordmark"><span>奇点</span>日报</div><span class="daily-imprint">SINGULARITY MED · DAILY BRIEF</span></div><div id="dailyCalendar" class="daily-calendar" aria-label="日报日历"></div></div><h1 id="dailyTitle"></h1><p id="dailyMeta"></p></header>
 <p id="dailyUpdate" class="muted" style="font-size:12px;margin:12px 0"></p><div id="dailyStories"></div><div id="monthlyLinks" class="monthly-links"></div><div class="digest-end"><button id="copyBtn" class="button secondary">复制这份日报</button><button id="shareBtn" class="button secondary">分享网站</button></div>
 </div></div></section>
@@ -512,6 +517,7 @@ function renderDaily(requested){
  const edition=selected==='today'?publication:catalog.find(e=>e.date===selected);
  const isPublication=edition===publication&&!!publication;
  const selectedDate=edition?.date||(/^\d{4}-\d{2}-\d{2}$/.test(selected||'')?selected:today);
+ $('#editorialIssue').hidden=selectedDate!=='2026-11-23';
  const groups=new Map();for(const e of catalog){const month=e.date.slice(0,7);if(!groups.has(month))groups.set(month,[]);groups.get(month).push(e);}
  $('#dailyDates').innerHTML=(publication?`<a class="today-edition" href="#daily?date=today" ${isPublication?'aria-current="page"':''}><time>${esc(publication.date.slice(8))}</time><span>今日要闻<small>${publication.item_ids.length} 篇精选</small></span></a>`:'')+[...groups].map(([month,rows])=>`<details class="digest-month" ${selectedDate.startsWith(month)?'open':''}><summary>${esc(month.replace('-',' 年 '))} 月 <span>${rows.length}</span></summary>${rows.map(e=>`<a href="#daily?date=${esc(e.date)}" ${e.date===selected?'aria-current="page"':''}><time datetime="${esc(e.date)}">${esc(e.date.slice(8))}</time><span>${esc(e.headline||'历史日报')}<small>${e.archiveMonth?'回溯整理 · ':''}${e.count} 条</small></span></a>`).join('')}</details>`).join('')||'<p class="digest-no-dates">暂无日报</p>';
  $('#dailyDateSelect').innerHTML=(publication?`<option value="today">${esc(publication.date)} · 今日出刊</option>`:'')+catalog.map(e=>`<option value="${esc(e.date)}">${esc(e.date)} · ${e.count} 件大事${e.archiveMonth?' · 回溯':''}</option>`).join('');
