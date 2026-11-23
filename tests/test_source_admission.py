@@ -6,7 +6,7 @@ import json
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from audit_sources import decision, latest_ten
-from sih_ref.editorial import AXES, VERSION, WEIGHTS, combine
+from sih_ref.editorial import AXES, WEIGHTS, combine
 
 
 class AdmissionTests(unittest.TestCase):
@@ -17,12 +17,13 @@ class AdmissionTests(unittest.TestCase):
         self.assertTrue(additions)
         for source in additions:
             report = json.loads((root / source['admission_report']).read_text(encoding='utf-8'))
-            self.assertEqual(VERSION, report['policy_version'])
+            self.assertRegex(report['policy_version'], r'^[a-f0-9]{16}$')
             audit = next(s for s in report['sources'] if s['source']['id'] == source['id'])
             self.assertEqual('admitted', decision(audit['articles'], audit.get('sampling_problems', []))['outcome'])
             for row in audit['articles']:
                 judgment = row['editorial']
                 if judgment['status'] not in ('scored', 'needs_review'): continue
+                self.assertEqual(report['policy_version'], judgment['policy_version'])
                 for review in judgment['reviews']:
                     self.assertEqual(review['total'], sum(review['axes'][a] * w for a, w in zip(AXES, WEIGHTS[review['kind']])))
                 recalculated = combine(judgment['reviews'], judgment['source_tier'])
