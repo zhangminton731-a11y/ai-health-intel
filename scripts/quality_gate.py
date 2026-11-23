@@ -13,6 +13,8 @@ if hasattr(sys.stdout, 'reconfigure'):
 OUTPUT = Path(__file__).resolve().parents[1] / 'output'
 sys.path.insert(0, str(OUTPUT.parent / 'engine/src'))
 from sih_ref.editorial import VERSION, combine, material, validate_review
+# Historical archives retain the policy used when their receipts were issued.
+ARCHIVE_POLICY_VERSIONS = {VERSION, '26b6dbc3481e046c'}
 REQUIRED_FILES = ['daily_items.jsonl','source_health.json','daily_briefing.md','daily_briefing_cn.md','site/index.html',
                   'site/api/v1/items.json','site/api/v1/health.json','site/api/v1/briefing.json','site/feed.xml','site/sih-intel.zip',
                   'site/sih-intel/README.md','site/sih-mcp.zip','site/sih-mcp/README.md','site/llms.txt','site/openapi.json']
@@ -131,7 +133,8 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
                     try:
                         judgment = original['editorial']
                         checked = combine([validate_review(r, material(original)) for r in judgment['reviews']], judgment['source_tier'])
-                        if (not checked['selected'] or judgment.get('policy_version') != VERSION or
+                        if (not checked['selected'] or judgment.get('policy_version') not in ARCHIVE_POLICY_VERSIONS or
+                                (row.get('editorial') or {}).get('policy_version') != judgment.get('policy_version') or
                                 row.get('rel') != checked['score'] or row.get('sections') != checked['audiences']):
                             problems.append('月度文章与有效编辑评审不一致')
                     except (KeyError, ValueError, TypeError):
