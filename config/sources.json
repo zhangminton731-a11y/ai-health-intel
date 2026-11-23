@@ -256,12 +256,11 @@
     "model_env": "SIH_LLM_MODEL",
     "requires_api_key": true,
     "timeout_seconds": 90,
-    "max_workers": 2,
+    "max_workers": 4,
     "request_options": {
       "thinking": {
-        "type": "enabled"
+        "type": "disabled"
       },
-      "reasoning_effort": "low",
       "response_format": {
         "type": "json_object"
       }

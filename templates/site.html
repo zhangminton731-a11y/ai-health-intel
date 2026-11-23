@@ -435,9 +435,9 @@ function reportKey(date,period){
 function renderPeriod(period,requested){
  const label=period==='week'?'奇点周报':'奇点月报';
  const link=key=>'#daily?period='+period+'&edition='+key;
- const catalog=allEditions();
  const publication=D.publicationIssue?.date===today?D.publicationIssue:null;
- if(publication&&!catalog.some(e=>e.date===publication.date))catalog.unshift(publication);
+ const catalog=allEditions().filter(e=>!publication||e.date!==publication.date);
+ if(publication)catalog.unshift(publication);
  const groups=new Map();
  for(const e of catalog){
   const key=reportKey(e.date,period);
