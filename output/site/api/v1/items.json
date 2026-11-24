@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T14:39:45+00:00",
-  "as_of": "2026-11-23",
-  "count": 11,
+  "generated_at": "2026-11-24T05:19:32+00:00",
+  "as_of": "2026-11-24",
+  "count": 12,
   "items": [
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04759-y",
@@ -376,7 +376,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-23T14:39:45+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
       },
@@ -583,6 +585,127 @@
             },
             "support": "Among 567 randomized participants (309 [54.5%] female; mean [SD] age was 34.4 [8.4] years, body weight was 93.0 [17.3] kg, and body mass index was 33.3 [4.5]), 514 (90.7%) completed the 48-week treatm",
             "total": 70
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03442-3",
+      "title": "Challenges in AI based tumor board case summarization and recommendations",
+      "original_title": "Challenges in AI based tumor board case summarization and recommendations",
+      "summary": "Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment. Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6.",
+      "url": "https://www.nature.com/articles/s41746-026-03442-3",
+      "source": "npj Digital Medicine",
+      "source_type": "期刊论文",
+      "published_at": "2026-11-24",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03442-3",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03442-3"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。"
+      },
+      "reading_value_score": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T05:20:07+00:00",
+        "input_hash": "542a73f9199430cb2d3fc5fa6a00e8737503f953655ba5b202d5899f564f6f54",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究基于四家机构、约1.6万条专家评分，系统评估LLM在肿瘤委员会病例总结与推荐生成中的表现，揭示推荐任务仍明显困难，且参考文本自动评估与专家判断存在偏差。研究者可据此理解临床文本生成任务的评估难点、专家标注成本及可解释指标设计，但结论限于摘要所述任务与机构场景，未涉及临床落地效果。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "5f36dcdb-17e4-465b-b730-177245345a8f",
+              "seconds": 2.86,
+              "usage": {
+                "completion_tokens": 168,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 309,
+                "prompt_tokens": 1205,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1373
+              }
+            },
+            "support": "Clinical alignment analyses showed modest correlations of ~0.2 for case summarization subtasks and higher correlations of ~0.6 for recommendation generation using LLM-as-Judge metrics.",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "d5aba09b-a5f7-49f1-86f0-ad250f94f574",
+              "seconds": 2.2,
+              "usage": {
+                "completion_tokens": 158,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 181,
+                "prompt_tokens": 1205,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1363
+              }
+            },
+            "support": "This study, to our knowledge the largest expert-grading study of tumor board tasks with both granular and direct assessments, found that criterion-level scores and overall judgments are related nonlin",
+            "total": 72
           }
         ],
         "score": 73,
@@ -848,7 +971,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-23T14:39:45+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
       },

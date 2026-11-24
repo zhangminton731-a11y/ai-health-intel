@@ -1,8 +1,8 @@
-奇点日报 · 2026-11-23
+奇点日报 · 2026-11-24
 这一天的 1 件 AI 医疗大事
 
 01 · 论文研究
-胰腺囊性病变患者胰腺癌风险预测的人工智能模型
-癌症风险评估是 PCL 管理的关键步骤，但现有方法的复杂性和有限的准确性导致患者护理效果不佳。我们开发并验证了一种人工智能 (AI) 模型，该模型使用放射学报告和临床数据来预测 PCL 患者未来患胰腺癌的风险。在评估的模型中，XGBoost 取得了最高的性能，预测成像后 1 年、3 年和 5 年胰腺癌发病率的 AUC 分别为 0.960、0.945 和 0.944。
-npj Digital Medicine · 2026-11-23
-https://www.nature.com/articles/s41746-026-03441-4
+Challenges in AI based tumor board case summarization and recommendations
+Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment. Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6.
+npj Digital Medicine · 2026-11-24
+https://www.nature.com/articles/s41746-026-03442-3
