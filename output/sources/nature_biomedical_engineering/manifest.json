@@ -2,14 +2,18 @@
   "checks": [
     {
       "attempt": 1,
-      "bytes_read": 19057,
+      "bytes_read": 18746,
       "content_type": "application/rss+xml",
-      "elapsed_ms": 11,
+      "elapsed_ms": 875,
       "error_code": null,
       "final_url": "https://www.nature.com/natbiomedeng.rss",
       "http_status": 200,
       "kind": "rss_fetch",
       "response_kind": "feed"
+    },
+    {
+      "kind": "article_metadata",
+      "status": "ok"
     },
     {
       "kind": "article_metadata",
@@ -33,13 +37,13 @@
     }
   ],
   "consecutive_failures": 0,
-  "elapsed_ms": 12,
+  "elapsed_ms": 2261,
   "enabled": true,
   "error": "",
-  "generated_at": "2026-11-24T05:19:32+00:00",
+  "generated_at": "2026-11-24T18:53:31+00:00",
   "item_count": 8,
-  "last_checked_at": "2026-11-24T05:19:32+00:00",
-  "last_success_at": "2026-11-24T05:19:32+00:00",
+  "last_checked_at": "2026-11-24T18:53:31+00:00",
+  "last_success_at": "2026-11-24T18:53:31+00:00",
   "recovered": false,
   "required": false,
   "role": "supplemental",

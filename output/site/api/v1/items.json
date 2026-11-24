@@ -1,9 +1,122 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T05:19:32+00:00",
-  "as_of": "2026-11-24",
-  "count": 12,
+  "generated_at": "2026-11-24T18:53:31+00:00",
+  "as_of": "2026-11-25",
+  "count": 18,
   "items": [
+    {
+      "id": "url:https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+      "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+      "original_title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+      "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+      "url": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+      "source": "STAT News",
+      "source_type": "专业媒体",
+      "published_at": "2026-11-24",
+      "topics": [],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
+        "observed_in_sources": [
+          "stat_news_feed"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "stat_news_feed",
+        "upstream_id": "https://www.statnews.com/?p=1552266"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。"
+      },
+      "reading_value_score": 78,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-24T18:54:51+00:00",
+        "input_hash": "b0d5dad86aca5555ffe93926348075207720f641aeb7532280e081bc5086a563",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "64733535-0722-40d8-b6c8-222c3859d179",
+              "seconds": 1.33,
+              "usage": {
+                "completion_tokens": 144,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 193,
+                "prompt_tokens": 961,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1105
+              }
+            },
+            "support": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是一笔已宣布的410亿美元大型并购，直接改变赛诺菲在呼吸/肺病领域的管线布局和行业竞争格局，产业读者可据此判断大药企的并购方向与资产定价；但材料仅为摘要，缺少交易结构、审批风险和两款药物的销售细节。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "fd78f074-1a0d-4d69-a99a-26d3f721650c",
+              "seconds": 1.97,
+              "usage": {
+                "completion_tokens": 139,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 193,
+                "prompt_tokens": 961,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1100
+              }
+            },
+            "support": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+            "total": 79
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
+      }
+    },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04759-y",
       "title": "西方国家认知能力和痴呆症发病率的代代相传",
@@ -240,6 +353,236 @@
       }
     },
     {
+      "id": "url:https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "original_title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+      "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "source": "STAT News",
+      "source_type": "专业媒体",
+      "published_at": "2026-11-24",
+      "topics": [
+        "business"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+        "observed_in_sources": [
+          "stat_news_feed"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "stat_news_feed",
+        "upstream_id": "https://www.statnews.com/?p=1552339"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "business"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。"
+      },
+      "reading_value_score": 77,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-24T18:54:43+00:00",
+        "input_hash": "c7a77af52b3ab8ade5873fc317f768ec71d7a1763e8cceca118a51d046fe0867",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 5,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "cae9ebec-d0fc-4fc1-9adf-e737e0bce5a7",
+              "seconds": 1.69,
+              "usage": {
+                "completion_tokens": 146,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 202,
+                "prompt_tokens": 970,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1116
+              }
+            },
+            "support": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 5,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并直接获得两款已获批药物，产业读者可据此判断呼吸及罕见病领域格局与管线补强逻辑；但材料仅为摘要快讯，未披露交易结构、监管审批状态与财务细节，需查阅原文核实。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "a8ee19f2-7ee1-4bb2-98cf-702eda2d25fd",
+              "seconds": 1.6,
+              "usage": {
+                "completion_tokens": 148,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 202,
+                "prompt_tokens": 970,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1118
+              }
+            },
+            "support": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
+      }
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+      "title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
+      "original_title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
+      "summary": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric patients weighing at least 30 kg.",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+      "source": "FDA · 官方公告",
+      "source_type": "官方机构",
+      "published_at": "2026-11-23",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9"
+      },
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "research_stages": [],
+      "recommendation_reasons": {
+        "industry": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。"
+      },
+      "reading_value_score": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-24T18:55:12+00:00",
+        "input_hash": "a9e6088fd110c6417f63476c827e142a806d2d2fd027c1b1b8c57186f9c8fe1d",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA批准首个LGMD2I/R9治疗药物，是罕见神经肌肉病领域明确的监管准入事件，产业读者可据此判断该适应症从无药可治进入商业化阶段的信号；但材料仅为审批公告摘要，缺少疗效数据、试验设计与定价支付信息，无法评估临床获益幅度。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "f28158be-caea-4dfa-8f08-ae2ccfe57387",
+              "seconds": 1.57,
+              "usage": {
+                "completion_tokens": 165,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 216,
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1149
+              }
+            },
+            "support": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric pa",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "0de145f6-40ec-43cc-bb28-5227361b4269",
+              "seconds": 1.98,
+              "usage": {
+                "completion_tokens": 153,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 216,
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1137
+              }
+            },
+            "support": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease",
+            "total": 75
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
       "title": "医疗保险共享储蓄计划 负责任的护理组织 2025 年绩效财务和质量结果",
       "original_title": "Medicare Shared Savings Program Accountable Care Organizations Performance Year 2025 Financial and Quality Results",
@@ -371,14 +714,12 @@
         "hospital",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-11-23T14:39:45+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
       },
@@ -466,6 +807,125 @@
             },
             "support": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg (approxima",
             "total": 73
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:43072799",
+      "title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
+      "original_title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
+      "summary": "Acute behavioral disturbance is a high-risk emergency department presentation. There is limited evidence for the comparative effectiveness of intramuscular sedative medications in children and adolescents, which may be required when there is imminent risk of serious harm due to agitation. To determine whether olanzapine is more effective than droperidol intramuscularly in achieving behavioral containment. This investigator-initiated, open-label, multicenter, superiority, randomized clinical trial recruited children and adolescents aged 9 to 17 years presenting to 10 Australian emergency departments with acute behavioral disturbance clinically deemed to require intramuscular medication from November 8, 2021, to February 16, 2026. The last participant follow-up occurred on March 17, 2026. Data were analyzed from April 15 to 27, 2026.",
+      "url": "https://doi.org/10.1001/jama.2026.25561",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-11-23",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43072799",
+        "upstream_id": "43072799"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "这项多中心、随机、优效性试验在小儿急诊急性行为紊乱人群中直接比较了两种常用肌注镇静药，结果Olanzapine未显示优于Droperidol，且两组有效率均仅约50%–60%，可为儿科急诊镇静的药物选择、样本量设计和终点定义提供直接依据；限制为开放标签、未设安慰剂、单次给药比较，外推需谨慎。"
+      },
+      "reading_value_score": 74,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T18:55:09+00:00",
+        "input_hash": "652d77d655502d35a5940ff809550da80c63cddf159a2f723ad946bbe59b8ae3",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项多中心、随机、优效性试验在小儿急诊急性行为紊乱人群中直接比较了两种常用肌注镇静药，结果Olanzapine未显示优于Droperidol，且两组有效率均仅约50%–60%，可为儿科急诊镇静的药物选择、样本量设计和终点定义提供直接依据；限制为开放标签、未设安慰剂、单次给药比较，外推需谨慎。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心优效性随机试验直接比较了儿童青少年急性行为紊乱的两种常用肌注镇静药，结果显示奥氮平未优于氟哌利多，且两药成功率均有限，为急诊镇静选择和后续研究设计提供了明确的阴性证据；但开放标签设计及部分受试者未在30分钟内给药构成主要限制。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "806ac7d8-cc15-4aba-8bdb-f6ffc36e881f",
+              "seconds": 1.51,
+              "usage": {
+                "completion_tokens": 163,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 565,
+                "prompt_tokens": 1461,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1624
+              }
+            },
+            "support": "In this randomized clinical trial in children and adolescents presenting to the emergency department with behavioral disturbance, intramuscular olanzapine did not result in a clinically meaningfully g",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心、随机、优效性试验在小儿急诊急性行为紊乱人群中直接比较了两种常用肌注镇静药，结果Olanzapine未显示优于Droperidol，且两组有效率均仅约50%–60%，可为儿科急诊镇静的药物选择、样本量设计和终点定义提供直接依据；限制为开放标签、未设安慰剂、单次给药比较，外推需谨慎。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "d6949761-d693-4819-a728-f5df7130cefd",
+              "seconds": 1.79,
+              "usage": {
+                "completion_tokens": 179,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 181,
+                "prompt_tokens": 1461,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1640
+              }
+            },
+            "support": "In this randomized clinical trial in children and adolescents presenting to the emergency department with behavioral disturbance, intramuscular olanzapine did not result in a clinically meaningfully g",
+            "total": 72
           }
         ],
         "score": 74,
@@ -607,7 +1067,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -709,6 +1169,126 @@
           }
         ],
         "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e101445",
+      "title": "Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review",
+      "original_title": "Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review",
+      "summary": "Conclusions: In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined workflow and less often examined transparency and governance. The challenge is whether favorable attitudes and early deployment translate into calibrated, governed, and sustained routine use. An interpretive stage-specific model identifies assessment priorities across exposure and implementation contexts, but is not a validated causal or predictive model. Later-stage evaluations should retain measurement of Acceptance, trust calibration, governance, durability, and workflow outcomes. Trial Registration: OSF Registries osf.io/nmep8; https://osf.io/nmep8 Results: We included 309 primary empirical studies; 187 (60.5%) were published in 2025 or 2026.",
+      "url": "https://www.jmir.org/article/view/jmir_v28i1e101445",
+      "source": "Journal of Medical Internet Research",
+      "source_type": "期刊论文",
+      "published_at": "2026-11-24",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7527450ccc2e539f133ff25348898b6b",
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e101445"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "analysis",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T18:55:05+00:00",
+        "input_hash": "b643b74ad9f6a05fe32e6542d1d633869d51012ea11d18c09d9b242acf44ab02",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "ff78c534-735a-4ee6-b63b-1c0da1098022",
+              "seconds": 1.58,
+              "usage": {
+                "completion_tokens": 171,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 759,
+                "prompt_tokens": 1655,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1826
+              }
+            },
+            "support": "In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "这项系统综述纳入309项实证研究，并指出一个可复用的规律：越接近实际部署，对接受度、透明性和治理的评估反而越少，而工作流评估有所增加。研究者可据此校准AI肿瘤学评估指标与阶段化研究设计；主要限制是横断面证据、阶段模型未经验证，且结果与“常规使用”直接相关的证据极少。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "94f25dcb-2251-4d8f-a2c1-d979250f6604",
+              "seconds": 1.77,
+              "usage": {
+                "completion_tokens": 169,
+                "prompt_cache_hit_tokens": 1408,
+                "prompt_cache_miss_tokens": 247,
+                "prompt_tokens": 1655,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1408
+                },
+                "total_tokens": 1824
+              }
+            },
+            "support": "In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined",
+            "total": 72
+          }
+        ],
+        "score": 72,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
@@ -966,14 +1546,12 @@
         "hospital",
         "regulation"
       ],
-      "event_type": "seen",
+      "event_type": "new",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-11-23T14:39:45+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
       },
@@ -1419,6 +1997,126 @@
           }
         ],
         "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:43071962",
+      "title": "Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.",
+      "original_title": "Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.",
+      "summary": "The current less intensive guidelines for pulmonary nodule follow-up have not been compared with more intensive strategies. To determine whether less intensive follow-up of small pulmonary nodules is noninferior to more intensive follow-up. Unblinded, cluster randomized, pragmatic comparative effectiveness trial. (ClinicalTrials.gov: NCT02623712). 24 clusters of U.S. hospitals and health care systems. 34 686 patients with a new pulmonary nodule measuring 15 mm or less, detected incidentally or by screening. Follow-up protocols were modeled on current and prior recommendations from the Fleischner Society and the Lung CT Screening Reporting and Data System (Lung-RADS). Each cluster was randomly assigned to the less or more intensive follow-up protocol. The primary outcome was the proportion of lung cancers measuring more than 20 mm at diagnosis.",
+      "url": "https://doi.org/10.7326/annals-25-05646",
+      "source": "Annals of Internal Medicine · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-11-24",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "annals_internal_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "annals_internal_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43071962",
+        "upstream_id": "43071962"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "design",
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。"
+      },
+      "reading_value_score": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T18:55:12+00:00",
+        "input_hash": "d772b7f4fa5b08b534e9da935c1dc7c4a1ac6f6b9d351d7fa9f4198d143a7a41",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该大型集群随机实用性试验直接比较了小肺结节低强度与高强度随访策略，发现低强度组>20mm肺癌比例反而高7个百分点且超过非劣效界值，对现行指南提出警示；但依从性不佳、把握度有限和残余混杂限制了结论强度，非劣效未达统计学显著。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "f3c34923-c80c-48be-b58f-7b37c42cd186",
+              "seconds": 1.46,
+              "usage": {
+                "completion_tokens": 167,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 466,
+                "prompt_tokens": 1362,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1529
+              }
+            },
+            "support": "After adjustment, more lung cancers larger than 20 mm were identified with less intensive screening (7 percentage points [95% CI, -2.0 to 15.9 percentage points]), exceeding the noninferiority margin ",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "a31bdc0f-ac68-47f0-a597-7ff0264c43eb",
+              "seconds": 1.6,
+              "usage": {
+                "completion_tokens": 171,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 210,
+                "prompt_tokens": 1362,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1533
+              }
+            },
+            "support": "After adjustment, more lung cancers larger than 20 mm were identified with less intensive screening (7 percentage points [95% CI, -2.0 to 15.9 percentage points]), exceeding the noninferiority margin ",
+            "total": 66
+          }
+        ],
+        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
