@@ -254,3 +254,28 @@ test('new default and two reader lanes preserve approved navigation',()=>{
  assert.equal(p.errors.length,0);
  p.dom.window.close();
 });
+
+test('newsroom preserves the dated feed, ranked topics and separate daily issue',()=>{
+ const base={stage_label:'已宣布',event_date:day,region:'美国',why:'阅读理由'};
+ const yesterday=new Date(Date.parse(day+'T00:00:00Z')-86400000).toISOString().slice(0,10);
+ const consumer={...entry('added','Home monitoring',['consumer']),date:yesterday,rel:88,readerEvent:{...base,id:'added',lane:'consumer',topic:'home'}};
+ const medical={...entry('daily','Policy',['industry']),rel:93,readerEvent:{...base,id:'daily',lane:'medical',topic:'policy'},
+  provenance:{evidence_urls:['https://example.org/receipt','javascript:bad()']}};
+ const issue={date:day,kind:'industry_edition',updated_at:stamp,item_ids:['daily'],headline_id:'daily',minutes:1,text:'copy'};
+ const p=page({items:[consumer,medical],hot30:[medical,consumer],dailyIssues:[],publicationIssue:issue,publishedIssues:[issue],
+  newsroom:{days:10,topics:{consumer:{home:'居家监测',wearables:'可穿戴'},medical:{policy:'政策与支付'}}}},{hash:'#selected'});
+ assert.equal(p.doc.querySelectorAll('#selectedRows .news-card').length,2);
+ assert.equal(p.doc.querySelector('#selectedHighlights li:first-child').textContent.trim(),'1Policy93');
+ assert.equal(p.doc.querySelector('#selectedRows [data-event=added] time').dateTime,yesterday);
+ navigate(p,'#consumer?kind=home');
+ assert.equal(p.doc.querySelectorAll('#consumerRows .news-card').length,1);
+ navigate(p,'#consumer?kind=wearables');
+ assert.equal(p.doc.querySelectorAll('#consumerRows .news-card').length,0);
+ navigate(p,'#article?id=daily&section=industry');
+ assert.equal(p.doc.querySelectorAll('.news-evidence a').length,1);
+ assert.match(p.doc.querySelector('#articleReader').textContent,/事件日期/);
+ navigate(p,'#daily');
+ assert.deepEqual([...p.doc.querySelectorAll('#dailyStories [data-event]')].map(i=>i.dataset.event),['daily']);
+ assert.equal(p.errors.length,0);
+ p.dom.window.close();
+});

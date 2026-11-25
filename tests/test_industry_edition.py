@@ -1,12 +1,15 @@
 from copy import deepcopy
+from datetime import date
 from pathlib import Path
 import json
 import sys
 import unittest
+from unittest.mock import patch
+from tempfile import TemporaryDirectory
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path[:0] = [str(ROOT / 'scripts'), str(ROOT / 'engine/src')]
-from industry_edition import overlay, public_issue, records, STAGES
+from industry_edition import active_news, newsroom_rows, overlay, public_issue, records, STAGES
 
 
 class IndustryEditionTests(unittest.TestCase):
@@ -63,3 +66,19 @@ class IndustryEditionTests(unittest.TestCase):
         self.assertEqual(value['updated_at'], updated)
         self.assertEqual(value['revisions'], edition['revisions'])
         self.assertIn('2026-11-24', value['source_dates'])
+
+    def test_column_events_have_an_independent_window_and_a_unique_event(self):
+        day = date(2026, 11, 25)
+        daily = records(self.edition)
+        older = dict(self.edition['events'][0], id='older', url='https://example.org/older',
+                     evidence=['https://example.org/older'], published_at='2026-11-17',
+                     event_date='2026-11-17', topic='business')
+        batch = dict(self.edition, events=[self.edition['events'][0], older])
+        with self.assertRaisesRegex(ValueError, '不合格'):
+            records(batch)
+        with TemporaryDirectory() as directory, patch('industry_edition.NEWSROOM', Path(directory)):
+            (Path(directory) / '2026-11-25.json').write_text(json.dumps(batch), encoding='utf-8')
+            rows = newsroom_rows({'2026-11-25': (self.edition, daily)}, day)
+        self.assertEqual(len(active_news(rows, day)), len(daily)+1)
+        self.assertNotIn('event:older', public_issue(self.edition, daily)['item_ids'])
+        self.assertNotIn('event:older', {row['item_id'] for row in active_news(rows, date(2026, 11, 28))})
