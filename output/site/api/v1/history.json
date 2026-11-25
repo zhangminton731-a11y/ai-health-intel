@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T09:02:15+00:00",
+  "generated_at": "2026-11-25T10:46:47+00:00",
   "as_of": "2026-11-25",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -542,9 +542,7 @@
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/43076168",
         "upstream_id": "43076168"
@@ -922,7 +920,7 @@
         ]
       },
       "stages": [],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
@@ -1049,14 +1047,12 @@
         "data",
         "validation"
       ],
-      "event": "updated",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/43072799",
         "upstream_id": "43072799"
@@ -1432,14 +1428,12 @@
         "design",
         "analysis"
       ],
-      "event": "seen",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/43056070",
         "upstream_id": "43056070"
@@ -1559,7 +1553,7 @@
         ]
       },
       "stages": [],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
@@ -1936,7 +1930,7 @@
         ]
       },
       "stages": [],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
@@ -2191,14 +2185,12 @@
       "stages": [
         "validation"
       ],
-      "event": "seen",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/43035098",
         "upstream_id": "43035098"
@@ -2321,14 +2313,12 @@
       "stages": [
         "validation"
       ],
-      "event": "seen",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "europe_pmc",
-        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
         "source_id": "jama_abstracts",
         "summary_source": "https://europepmc.org/article/MED/43035096",
         "upstream_id": "43035096"
