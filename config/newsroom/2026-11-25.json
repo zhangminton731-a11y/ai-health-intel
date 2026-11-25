@@ -296,10 +296,10 @@
       "source": "MiniMed 财报",
       "source_tier": "T2",
       "source_type": "企业披露",
-      "title": "MiniMed 披露两款贴片泵在美国和西欧的上市进度",
+      "title": "MiniMed 披露 Fit 贴片泵与 Flex 胰岛素泵的美欧上市进度",
       "original_title": "MiniMed Delivers Strong Fiscal Q2 with Accelerating Pump Demand, Expanding Profitability, and Faster Pipeline Commercialization",
       "summary": "MiniMed 11月24日财报称，Fit在美仍计划于2027年春季上市，Flex搭配Simplera已在西欧推出，搭配Instinct的版本已获CE标志。",
-      "why": "同一系列在不同市场和传感器组合上的可用时间不同，搭配Instinct的版本计划在公司2027财年第四季度推出。",
+      "why": "两款泵在不同市场和传感器组合上的可用时间不同，Flex 搭配 Instinct 的版本计划在公司2027财年第四季度推出。",
       "source_excerpt": "accelerating U.S. launch from Summer to Spring 2027",
       "url": "https://www.sec.gov/Archives/edgar/data/2062583/000162828026075612/exhibit991-fy27q2earningsr.htm",
       "evidence": [
@@ -321,7 +321,7 @@
             "relevance": 9,
             "usefulness": 9
           },
-          "reason": "同一系列在不同市场和传感器组合上的可用时间不同，搭配Instinct的版本计划在公司2027财年第四季度推出。",
+          "reason": "两款泵在不同市场和传感器组合上的可用时间不同，Flex 搭配 Instinct 的版本计划在公司2027财年第四季度推出。",
           "support": "accelerating U.S. launch from Summer to Spring 2027"
         },
         {
@@ -336,7 +336,7 @@
             "relevance": 9,
             "usefulness": 8
           },
-          "reason": "同一系列在不同市场和传感器组合上的可用时间不同，搭配Instinct的版本计划在公司2027财年第四季度推出。",
+          "reason": "两款泵在不同市场和传感器组合上的可用时间不同，Flex 搭配 Instinct 的版本计划在公司2027财年第四季度推出。",
           "support": "accelerating U.S. launch from Summer to Spring 2027"
         }
       ]
