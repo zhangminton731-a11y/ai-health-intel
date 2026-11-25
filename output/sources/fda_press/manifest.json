@@ -2,26 +2,112 @@
   "checks": [
     {
       "attempt": 1,
-      "content_type": "text/plain",
-      "elapsed_ms": 46,
-      "error_code": "http_error",
-      "final_url": "https://www.fda.gov/apology_objects/abuse-detection-apology.html",
-      "http_status": 404,
-      "kind": "rss_fetch"
+      "bytes_read": 15861,
+      "content_type": "application/rss+xml",
+      "elapsed_ms": 114,
+      "error_code": null,
+      "final_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+      "http_status": 200,
+      "kind": "rss_fetch",
+      "response_kind": "feed"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "unavailable"
+    },
+    {
+      "kind": "fda_release",
+      "status": "cached"
+    },
+    {
+      "kind": "fda_release",
+      "status": "cached"
+    },
+    {
+      "kind": "fda_release",
+      "status": "cached"
+    },
+    {
+      "count": 20,
+      "kind": "rss_atom"
     }
   ],
-  "consecutive_failures": 1,
-  "elapsed_ms": 47,
+  "consecutive_failures": 0,
+  "elapsed_ms": 1214,
   "enabled": true,
-  "error": "RSS http_error after 1 attempt(s)",
-  "generated_at": "2026-11-25T04:12:20+00:00",
-  "item_count": 0,
-  "last_checked_at": "2026-11-25T04:12:20+00:00",
-  "last_success_at": "2026-11-24T18:53:31+00:00",
-  "recovered": false,
+  "error": "",
+  "generated_at": "2026-11-25T09:02:15+00:00",
+  "item_count": 20,
+  "last_checked_at": "2026-11-25T09:02:15+00:00",
+  "last_success_at": "2026-11-25T09:02:15+00:00",
+  "recovered": true,
   "required": false,
   "role": "supplemental",
   "source_id": "fda_press",
   "source_kind": "rss",
-  "status": "failed"
+  "status": "ok"
 }

@@ -1,9 +1,643 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T04:12:20+00:00",
+  "generated_at": "2026-11-25T09:02:15+00:00",
   "as_of": "2026-11-25",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "t": "",
+      "te": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "s": "",
+      "se": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+      "u": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+      "src": "STAT News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [
+        "business"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "business"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "image_url": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
+        "observed_in_sources": [
+          "stat_news_feed"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "stat_news_feed",
+        "upstream_id": "https://www.statnews.com/?p=1552339"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-24T18:54:43+00:00",
+        "input_hash": "c7a77af52b3ab8ade5873fc317f768ec71d7a1763e8cceca118a51d046fe0867",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 5,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "cae9ebec-d0fc-4fc1-9adf-e737e0bce5a7",
+              "seconds": 1.69,
+              "usage": {
+                "completion_tokens": 146,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 202,
+                "prompt_tokens": 970,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1116
+              }
+            },
+            "support": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 5,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并直接获得两款已获批药物，产业读者可据此判断呼吸及罕见病领域格局与管线补强逻辑；但材料仅为摘要快讯，未披露交易结构、监管审批状态与财务细节，需查阅原文核实。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "a8ee19f2-7ee1-4bb2-98cf-702eda2d25fd",
+              "seconds": 1.6,
+              "usage": {
+                "completion_tokens": 148,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 202,
+                "prompt_tokens": 970,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1118
+              }
+            },
+            "support": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "industry": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+      "t": "",
+      "te": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
+      "s": "",
+      "se": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+      "u": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+      "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
+      "src": "STAT News",
+      "role": "专业媒体",
+      "cat": "专业媒体",
+      "trust": 3,
+      "sourceType": "专业媒体",
+      "topics": [],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "overview"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
+        "observed_in_sources": [
+          "stat_news_feed"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "stat_news_feed",
+        "upstream_id": "https://www.statnews.com/?p=1552266"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 78,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-24T18:54:51+00:00",
+        "input_hash": "b0d5dad86aca5555ffe93926348075207720f641aeb7532280e081bc5086a563",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 5
+            },
+            "kind": "industry",
+            "reason": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "64733535-0722-40d8-b6c8-222c3859d179",
+              "seconds": 1.33,
+              "usage": {
+                "completion_tokens": 144,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 193,
+                "prompt_tokens": 961,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1105
+              }
+            },
+            "support": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 9,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是一笔已宣布的410亿美元大型并购，直接改变赛诺菲在呼吸/肺病领域的管线布局和行业竞争格局，产业读者可据此判断大药企的并购方向与资产定价；但材料仅为摘要，缺少交易结构、审批风险和两款药物的销售细节。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "fd78f074-1a0d-4d69-a99a-26d3f721650c",
+              "seconds": 1.97,
+              "usage": {
+                "completion_tokens": 139,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 193,
+                "prompt_tokens": 961,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1100
+              }
+            },
+            "support": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
+            "total": 79
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T2",
+        "status": "scored",
+        "threshold": 76
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "industry": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03442-3",
+      "t": "",
+      "te": "Challenges in AI based tumor board case summarization and recommendations",
+      "s": "",
+      "se": "Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment. Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6.",
+      "u": "https://www.nature.com/articles/s41746-026-03442-3",
+      "image": "",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "data",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03442-3",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03442-3"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T05:20:07+00:00",
+        "input_hash": "542a73f9199430cb2d3fc5fa6a00e8737503f953655ba5b202d5899f564f6f54",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究基于四家机构、约1.6万条专家评分，系统评估LLM在肿瘤委员会病例总结与推荐生成中的表现，揭示推荐任务仍明显困难，且参考文本自动评估与专家判断存在偏差。研究者可据此理解临床文本生成任务的评估难点、专家标注成本及可解释指标设计，但结论限于摘要所述任务与机构场景，未涉及临床落地效果。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "5f36dcdb-17e4-465b-b730-177245345a8f",
+              "seconds": 2.86,
+              "usage": {
+                "completion_tokens": 168,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 309,
+                "prompt_tokens": 1205,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1373
+              }
+            },
+            "support": "Clinical alignment analyses showed modest correlations of ~0.2 for case summarization subtasks and higher correlations of ~0.6 for recommendation generation using LLM-as-Judge metrics.",
+            "total": 75
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "d5aba09b-a5f7-49f1-86f0-ad250f94f574",
+              "seconds": 2.2,
+              "usage": {
+                "completion_tokens": 158,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 181,
+                "prompt_tokens": 1205,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1363
+              }
+            },
+            "support": "This study, to our knowledge the largest expert-grading study of tumor board tasks with both granular and direct assessments, found that criterion-level scores and overall judgments are related nonlin",
+            "total": 72
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "research": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.jmir.org/article/view/jmir_v28i1e101445",
+      "t": "",
+      "te": "Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review",
+      "s": "",
+      "se": "Conclusions: In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined workflow and less often examined transparency and governance. The challenge is whether favorable attitudes and early deployment translate into calibrated, governed, and sustained routine use. An interpretive stage-specific model identifies assessment priorities across exposure and implementation contexts, but is not a validated causal or predictive model. Later-stage evaluations should retain measurement of Acceptance, trust calibration, governance, durability, and workflow outcomes. Trial Registration: OSF Registries osf.io/nmep8; https://osf.io/nmep8 Results: We included 309 primary empirical studies; 187 (60.5%) were published in 2025 or 2026.",
+      "u": "https://www.jmir.org/article/view/jmir_v28i1e101445",
+      "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7527450ccc2e539f133ff25348898b6b",
+      "src": "Journal of Medical Internet Research",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "analysis",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7527450ccc2e539f133ff25348898b6b",
+        "observed_in_sources": [
+          "jmir"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "jmir",
+        "upstream_id": "https://www.jmir.org/article/view/jmir_v28i1e101445"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T18:55:05+00:00",
+        "input_hash": "b643b74ad9f6a05fe32e6542d1d633869d51012ea11d18c09d9b242acf44ab02",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "ff78c534-735a-4ee6-b63b-1c0da1098022",
+              "seconds": 1.58,
+              "usage": {
+                "completion_tokens": 171,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 759,
+                "prompt_tokens": 1655,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1826
+              }
+            },
+            "support": "In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined",
+            "total": 72
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "这项系统综述纳入309项实证研究，并指出一个可复用的规律：越接近实际部署，对接受度、透明性和治理的评估反而越少，而工作流评估有所增加。研究者可据此校准AI肿瘤学评估指标与阶段化研究设计；主要限制是横断面证据、阶段模型未经验证，且结果与“常规使用”直接相关的证据极少。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "94f25dcb-2251-4d8f-a2c1-d979250f6604",
+              "seconds": 1.77,
+              "usage": {
+                "completion_tokens": 169,
+                "prompt_cache_hit_tokens": 1408,
+                "prompt_cache_miss_tokens": 247,
+                "prompt_tokens": 1655,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1408
+                },
+                "total_tokens": 1824
+              }
+            },
+            "support": "In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined",
+            "total": 72
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "research": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43076168",
+      "t": "",
+      "te": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+      "s": "",
+      "se": "Importance Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis. Objective To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. Design, setting, and participants This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure < 100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025. Interventions Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids;",
+      "u": "https://doi.org/10.1001/jama.2026.25627",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43076168",
+        "upstream_id": "43076168"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-25T04:14:03+00:00",
+        "input_hash": "29c5ecfb407fa56a25db393ca3921c81117d824dbf583221b9637d862dda4c52",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心安慰剂对照优效性试验在约2000例疑似脓毒症患者中显示，院前肌注头孢曲松未降低住院死亡率，且17项次要结局均无差异，为院前抗生素策略提供了高质量阴性证据。主要限制是仅覆盖加拿大安大略省四个急救服务、单一药物与给药途径，且疑似脓毒症定义含发热与低血压，外推需谨慎。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "b70ac566-d729-44e5-b113-ef8ec7a4cf5f",
+              "seconds": 1.65,
+              "usage": {
+                "completion_tokens": 172,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 606,
+                "prompt_tokens": 1502,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1674
+              }
+            },
+            "support": "Among patients with suspected sepsis on evaluation by paramedics, earlier treatment with antibiotics in the ambulance did not reduce mortality compared with usual care provided in the emergency depart",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "2c7f1233-09f5-4286-bd0b-200db1b00ac6",
+              "seconds": 2.25,
+              "usage": {
+                "completion_tokens": 192,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 222,
+                "prompt_tokens": 1502,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1694
+              }
+            },
+            "support": "Among patients with suspected sepsis on evaluation by paramedics, earlier treatment with antibiotics in the ambulance did not reduce mortality compared with usual care provided in the emergency depart",
+            "total": 71
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "research": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。"
+      },
+      "historical": true
+    },
     {
       "id": "pmid:43071962",
       "t": "",
@@ -132,15 +766,1723 @@
         "research": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。"
       },
       "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03441-4",
+      "t": "胰腺囊性病变患者胰腺癌风险预测的人工智能模型",
+      "te": "Artificial intelligence model for pancreatic cancer risk prediction in patients with pancreatic cystic lesions",
+      "s": "癌症风险评估是 PCL 管理的关键步骤，但现有方法的复杂性和有限的准确性导致患者护理效果不佳。我们开发并验证了一种人工智能 (AI) 模型，该模型使用放射学报告和临床数据来预测 PCL 患者未来患胰腺癌的风险。在评估的模型中，XGBoost 取得了最高的性能，预测成像后 1 年、3 年和 5 年胰腺癌发病率的 AUC 分别为 0.960、0.945 和 0.944。",
+      "se": "Cancer risk assessment is a crucial step in PCL management, but the complexity and limited accuracy of existing approaches contribute to suboptimal patient care. We developed and validated an artificial intelligence (AI) model that uses radiology reports and clinical data to predict the future risk of pancreatic cancer in patients with PCLs. Among the models evaluated, XGBoost achieved the highest performance, with AUCs of 0.960, 0.945, and 0.944 for predicting pancreatic cancer incidence at 1, 3, and 5 years after imaging, respectively.",
+      "u": "https://www.nature.com/articles/s41746-026-03441-4",
+      "image": "",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "data",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03441-4",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03441-4"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:21:13+00:00",
+        "input_hash": "ed81bcaf6e587f792f3191e3f02e17910c804b61271bbb566245ea800a24891f",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该回顾性多中心队列显示，基于影像报告与临床数据的XGBoost模型在1/3/5年胰腺癌预测上AUC约0.94–0.96，并优于指南分层；研究者可借鉴其利用既有文本报告建模、以时间分层评估及与放射科医生对照的设计，但需注意事件率仅1.8%、缺乏外部独立验证和前瞻性验证，不能据此推断临床获益。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该回顾性多中心队列显示，基于影像报告与临床数据的XGBoost模型在1/3/5年胰腺癌预测上AUC约0.94–0.96，并优于指南分层；研究者可借鉴其利用既有文本报告建模、以时间分层评估及与放射科医生对照的设计，但需注意事件率仅1.8%、缺乏外部独立验证和前瞻性验证，不能据此推断临床获益。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "0e9bb0f3-bec6-40f8-b4ca-d7ba83c76fff",
+              "seconds": 1.78,
+              "usage": {
+                "completion_tokens": 180,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 196,
+                "prompt_tokens": 1220,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1400
+              }
+            },
+            "support": "The model was developed and tested in a 13-year retrospective cohort comprising 23,398 abdominal CT/MRI examination reports from 8707 patients with PCLs across a multisite healthcare system.",
+            "total": 65
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究在多中心13年队列中开发并验证基于影像报告与临床数据的AI模型，为胰腺囊性病变患者的个体化胰腺癌风险分层提供了可复用的方法框架与性能对照（优于指南分层），对临床研究者设计类似预测工具、评估回顾性验证局限有直接参考价值；但证据来自回顾性队列，需前瞻性外部验证才能确认临床效用。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "5ebcd80c-f38d-4eeb-bf8f-7c682eae2d08",
+              "seconds": 2.16,
+              "usage": {
+                "completion_tokens": 168,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 196,
+                "prompt_tokens": 1220,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1388
+              }
+            },
+            "support": "The model was developed and tested in a 13-year retrospective cohort comprising 23,398 abdominal CT/MRI examination reports from 8707 patients with PCLs across a multisite healthcare system.",
+            "total": 78
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-11-23",
+      "reasons": {
+        "research": "该回顾性多中心队列显示，基于影像报告与临床数据的XGBoost模型在1/3/5年胰腺癌预测上AUC约0.94–0.96，并优于指南分层；研究者可借鉴其利用既有文本报告建模、以时间分层评估及与放射科医生对照的设计，但需注意事件率仅1.8%、缺乏外部独立验证和前瞻性验证，不能据此推断临床获益。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+      "t": "",
+      "te": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
+      "s": "",
+      "se": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric patients weighing at least 30 kg.",
+      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+      "image": "",
+      "src": "FDA · 官方公告",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 76,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-24T18:55:12+00:00",
+        "input_hash": "a9e6088fd110c6417f63476c827e142a806d2d2fd027c1b1b8c57186f9c8fe1d",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA批准首个LGMD2I/R9治疗药物，是罕见神经肌肉病领域明确的监管准入事件，产业读者可据此判断该适应症从无药可治进入商业化阶段的信号；但材料仅为审批公告摘要，缺少疗效数据、试验设计与定价支付信息，无法评估临床获益幅度。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "f28158be-caea-4dfa-8f08-ae2ccfe57387",
+              "seconds": 1.57,
+              "usage": {
+                "completion_tokens": 165,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 216,
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1149
+              }
+            },
+            "support": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric pa",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "0de145f6-40ec-43cc-bb28-5227361b4269",
+              "seconds": 1.98,
+              "usage": {
+                "completion_tokens": 153,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 216,
+                "prompt_tokens": 984,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1137
+              }
+            },
+            "support": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease",
+            "total": 75
+          }
+        ],
+        "score": 76,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-11-23",
+      "reasons": {
+        "industry": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43072799",
+      "t": "",
+      "te": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
+      "s": "",
+      "se": "Importance Acute behavioral disturbance is a high-risk emergency department presentation. There is limited evidence for the comparative effectiveness of intramuscular sedative medications in children and adolescents, which may be required when there is imminent risk of serious harm due to agitation. Objective To determine whether olanzapine is more effective than droperidol intramuscularly in achieving behavioral containment. Design, setting, and participants This investigator-initiated, open-label, multicenter, superiority, randomized clinical trial recruited children and adolescents aged 9 to 17 years presenting to 10 Australian emergency departments with acute behavioral disturbance clinically deemed to require intramuscular medication from November 8, 2021, to February 16, 2026. The last participant follow-up occurred on March 17, 2026. Data were analyzed from April 15 to 27, 2026.",
+      "u": "https://doi.org/10.1001/jama.2026.25561",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43072799",
+        "upstream_id": "43072799"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-25T04:14:03+00:00",
+        "input_hash": "837eb0ca201312e4d6e31091358b234ae2deb4acf82029b21a288860e498fb53",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是儿童青少年急诊急性行为紊乱领域少见的头对头多中心随机优效性试验，阴性结果直接否定了奥氮平优于氟哌利多的假设，为急诊镇静选药和后续研究设计提供了实证依据；局限在于采用开放标签设计、且约三分之一受试者未在30分钟内用药，可能影响干预效果的解读。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "835d41a0-0df9-422a-855e-ae7bdf996fbf",
+              "seconds": 1.95,
+              "usage": {
+                "completion_tokens": 199,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 569,
+                "prompt_tokens": 1465,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1664
+              }
+            },
+            "support": "Successful sedation without the requirement for additional sedatives occurred in 89 individuals (53%) in the olanzapine group and 104 individuals (62%) in the droperidol group. No evidence of superior",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "0f056085-05b4-418c-85ec-7c79d1b1fc41",
+              "seconds": 1.44,
+              "usage": {
+                "completion_tokens": 154,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 185,
+                "prompt_tokens": 1465,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1619
+              }
+            },
+            "support": "Successful sedation without the requirement for additional sedatives occurred in 89 individuals (53%) in the olanzapine group and 104 individuals (62%) in the droperidol group.",
+            "total": 71
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-11-23",
+      "reasons": {
+        "research": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04731-w",
+      "t": "BCMA CAR-T 细胞治疗相关小肠结肠炎中粘膜 CAR<sup>+</sup> T 细胞的扩增和细胞毒性",
+      "te": "Expansion and cytotoxicity of mucosal CAR<sup>+</sup> T cells in enterocolitis associated with BCMA CAR-T cell therapy",
+      "s": "Ciltacabtagene autoleucel (cilta-cel) 是一种 B 细胞成熟抗原靶向嵌合抗原受体 (CAR) T 细胞产品，被批准用于复发/难治性多发性骨髓瘤治疗。此前报道的 cilta-cel 后免疫效应细胞小肠结肠炎 (IEC-EC) 病例被描述为与克隆 CAR T 细胞群相关的严重腹泻。在此，我们报告了 MD 安德森癌症中心 158 名接受 cilta-cel 治疗的患者中出现 9 例 cilta-cel 相关的 IEC-EC 病例，并伴有 CAR T 细胞阳性 (CAR+) 浸润（6 个月里程碑时的发病率为 5.1%，全球发病率为 5.7%）。 Cilta-cel 浸润是 IEC-EC 的主要原因，通过载体整合分析、流式细胞术和 T 细胞受体测序测量，所有病例均显示单克隆或寡克隆 T 细胞群。",
+      "se": "Ciltacabtagene autoleucel (cilta-cel) is a B cell maturation-antigen-targeting chimeric antigen receptor (CAR) T cell product approved for relapsed/refractory multiple myeloma treatment. Previously reported cases of post-cilta-cel immune effector cell enterocolitis (IEC-EC) have been described as a severe diarrhea associated with clonal CAR T cell populations. Here we report nine cases of cilta-cel-associated IEC-EC with CAR T cell-positive (CAR+) infiltration in 158 cilta-cel-treated patients at MD Anderson Cancer Center (incidence of 5.1% at a 6-month landmark and 5.7% globally). Cilta-cel infiltration was the primary cause of IEC-EC, and all cases demonstrated monoclonal or oligoclonal T cell populations as measured by vector integration analysis, flow cytometry and T cell receptor sequencing.",
+      "u": "https://www.nature.com/articles/s41591-026-04731-w",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04731-w",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04731-w"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:21:20+00:00",
+        "input_hash": "280337890e8230900ad6912e76f6b0d5c9f51d518736434fff767b9411545a9a",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "基于158例治疗队列的9例活检确诊报告，用载体整合、流式和TCR测序多模态刻画CAR+克隆浸润的细胞毒表型与十二指肠富集，为CAR-T胃肠道毒性机制和鉴别T细胞淋巴瘤提供可复用分析路径；但为单中心回顾性观察，样本小且无对照干预，机制仍属关联。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "基于158例治疗队列的9例活检确诊报告，用载体整合、流式和TCR测序多模态刻画CAR+克隆浸润的细胞毒表型与十二指肠富集，为CAR-T胃肠道毒性机制和鉴别T细胞淋巴瘤提供可复用分析路径；但为单中心回顾性观察，样本小且无对照干预，机制仍属关联。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "60532f60-5e1c-463f-bf09-07a826ffae1f",
+              "seconds": 1.61,
+              "usage": {
+                "completion_tokens": 160,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 177,
+                "prompt_tokens": 1329,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1489
+              }
+            },
+            "support": "we report nine cases of cilta-cel-associated IEC-EC with CAR T cell-positive (CAR+) infiltration in 158 cilta-cel-treated patients at MD Anderson Cancer Center",
+            "total": 68
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该研究基于158例接受cilta-cel治疗的患者中的9例活检确诊病例，利用载体整合分析、流式细胞术和TCR测序揭示IEC-EC为十二指肠为主的克隆性CAR+细胞毒性T细胞浸润，与CAR-T后外周T细胞淋巴瘤在驱动突变谱上可区分。对研究者而言，这提供了CAR-T非血液学毒性机制鉴别与监测的具体范式；但为单中心回顾性观察，样本量有限，发生率与因果推断需外部验证。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "73626dc6-4348-4ac1-9960-a5e631bc0628",
+              "seconds": 1.93,
+              "usage": {
+                "completion_tokens": 190,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 177,
+                "prompt_tokens": 1329,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1519
+              }
+            },
+            "support": "Here we report nine cases of cilta-cel-associated IEC-EC with CAR T cell-positive (CAR+) infiltration in 158 cilta-cel-treated patients at MD Anderson Cancer Center",
+            "total": 75
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "6 天前",
+      "date": "2026-11-19",
+      "reasons": {
+        "research": "基于158例治疗队列的9例活检确诊报告，用载体整合、流式和TCR测序多模态刻画CAR+克隆浸润的细胞毒表型与十二指肠富集，为CAR-T胃肠道毒性机制和鉴别T细胞淋巴瘤提供可复用分析路径；但为单中心回顾性观察，样本小且无对照干预，机制仍属关联。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43057277",
+      "t": "在冈比亚和布基纳法索使用 R21/Matrix-M 进行季节性大规模疫苗接种以对抗疟疾：一项开放标签、整群随机、对照试验。",
+      "te": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial.",
+      "s": "背景 WHO 推荐用于幼儿的 R21/Matrix-M (R21) 疟疾候选疫苗可以扩展到整个人群。在疟疾传播高峰之前进行季节性大规模疫苗接种（SMV）可能是加速消除疟疾进展的一个有前途的工具。我们的目的是评估 SMV 与 R21 在西非两个疟疾流行地区的安全性和有效性。方法 这项开放标签、整群随机、对照试验在冈比亚（一个具有低度至中度季节性传播的环境）和布基纳法索（一个具有强烈季节性传播的环境）进行。通过计算机限制随机化，54 个中等规模的村庄（冈比亚 30 个，布基纳法索 24 个）被随机分配（1:1），接受带有 R21 的 SMV（干预组）或不接受 SMV（对照组）。",
+      "se": "Background The R21/Matrix-M (R21) malaria vaccine candidate, recommended by WHO for use in young children, could be extended to the whole population. Seasonal mass vaccination (SMV) before peak malaria transmission could be a promising tool to accelerate progress towards malaria elimination. We aimed to evaluate the safety and effectiveness of SMV with R21 in two malaria-endemic settings in west Africa. Methods This open-label, cluster-randomised, controlled trial was conducted in The Gambia, a setting with low-to-moderate seasonal transmission, and Burkina Faso, a setting with intense seasonal transmission. 54 medium-sized villages (30 in The Gambia and 24 in Burkina Faso) were randomly assigned (1:1) by use of computer-restricted randomisation to receive either SMV with R21 (intervention group) or no SMV (control group).",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01562-x",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43057277",
+        "upstream_id": "43057277"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:22:13+00:00",
+        "input_hash": "20420d2531726df826fb3f4a3d7523e3afcd29bac7c83f06ef539ca0f74dc6ec",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是一项开放标签、整群随机对照试验，在冈比亚和布基纳法索两个传播强度不同的西非现场评估R21季节性群体接种，显示疟疾感染几率下降70%；研究者可借鉴其整群随机设计、跨传播强度现场与横断面终点的实施细节及局限，对全人群接种策略的因果判断需结合开放性、接种覆盖差异和单季调查解读。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是一项开放标签、整群随机对照试验，在冈比亚和布基纳法索两个传播强度不同的西非现场评估R21季节性群体接种，显示疟疾感染几率下降70%；研究者可借鉴其整群随机设计、跨传播强度现场与横断面终点的实施细节及局限，对全人群接种策略的因果判断需结合开放性、接种覆盖差异和单季调查解读。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "dd2a894a-95f5-4dc6-b240-e2dc6051a33a",
+              "seconds": 1.77,
+              "usage": {
+                "completion_tokens": 170,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 227,
+                "prompt_tokens": 1379,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1549
+              }
+            },
+            "support": "SMV with R21 reduced the odds of malaria infection by 70% (adjusted odds ratio 0·30 [95% CI 0·20-0·44]; p",
+            "total": 64
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项针对R21的季节性大规模接种整群随机对照试验显示，在两个传播强度不同的西非现场，疟疾感染几率降低约70%，为将WHO推荐的儿童疫苗扩展到全人群提供了直接证据。研究者可重点关注开放标签设计、横断面终点的评价方式、各轮接种依从性以及不同传播强度下外推结果的差异。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "dca677e6-930c-4dd7-8d26-a1771df054b2",
+              "seconds": 1.57,
+              "usage": {
+                "completion_tokens": 158,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 227,
+                "prompt_tokens": 1379,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1537
+              }
+            },
+            "support": "SMV with R21 reduced the odds of malaria infection by 70% (adjusted odds ratio 0·30 [95% CI 0·20-0·44]; p",
+            "total": 79
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "6 天前",
+      "date": "2026-11-19",
+      "reasons": {
+        "research": "这是一项开放标签、整群随机对照试验，在冈比亚和布基纳法索两个传播强度不同的西非现场评估R21季节性群体接种，显示疟疾感染几率下降70%；研究者可借鉴其整群随机设计、跨传播强度现场与横断面终点的实施细节及局限，对全人群接种策略的因果判断需结合开放性、接种覆盖差异和单季调查解读。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43056070",
+      "t": "医学影像和儿童及青少年脑肿瘤风险。",
+      "te": "Medical Imaging and Pediatric and Adolescent Brain Tumor Risk.",
+      "s": "重要性 医学成像的电离辐射可能会增加脑肿瘤的风险。目的 量化儿童和青少年与医学成像辐射暴露相关的脑肿瘤风险。设计、背景和参与者 对 1996 年至 2016 年出生的儿童进行回顾性队列研究，这些儿童从出生起就在美国 6 个医疗保健系统或加拿大安大略省入组，并且在 2 岁时仍存活且未患癌症，随访至 2017 年 12 月 31 日（美国站点）和 2024 年 12 月 31 日（安大略省）。暴露 医学成像对大脑造成的累积辐射剂量滞后 2 年。主要结果和措施 发生脑或其他中枢神经系统肿瘤。使用分类剂量的 Cox 比例风险模型估计危险比 (HR)，使用连续剂量的线性剂量反应模型估计过量相对风险 (ERR)。",
+      "se": "Importance Ionizing radiation from medical imaging may increase brain tumor risk. Objective To quantify brain tumor risk associated with radiation exposure from medical imaging in children and adolescents. Design, setting, and participants Retrospective cohort study of children born from 1996 through 2016 who were enrolled from birth in 6 US health care systems or Ontario, Canada, and were alive and cancer-free at age 2 years, with follow-up through December 31, 2017 (US sites), and December 31, 2024 (Ontario). Exposures Cumulative radiation dose to the brain from medical imaging, lagged by 2 years. Main outcomes and measures Incident brain or other central nervous system tumors. Hazard ratios (HRs) were estimated using Cox proportional hazards models for categorical dose, and excess relative risks (ERRs) were estimated using linear dose-response models for continuous dose.",
+      "u": "https://doi.org/10.1001/jama.2026.20441",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "analysis"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43056070",
+        "upstream_id": "43056070"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:22:16+00:00",
+        "input_hash": "79e229b688d905d899173335bb56b5fa10bc2cd9730c3ef29dae7a7f5dacea2a",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "大型多中心回顾性队列（约370万儿童、4500万人年、1536例脑瘤）量化了儿童医学影像累积脑部辐射剂量与脑瘤风险的剂量-反应关系，为儿科CT等检查的临床 justification 和剂量最小化提供了可引用的定量依据。限制是观察性设计、依赖剂量与诊断记录，不能直接证明因果，摘要也未给出具体风险估计值。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项回顾性多中心队列覆盖370万儿童、4570万人年，量化了医学影像累积辐射与儿童脑瘤风险之间的剂量反应关系，为临床开单和低剂量方案提供依据；但属观察性关联，残余混杂与筛查指征（逆因果）限制因果解读，摘要未给具体HR/ERR数值。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "a5811af8-e301-4f5b-8207-018bafc6555e",
+              "seconds": 1.76,
+              "usage": {
+                "completion_tokens": 151,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 254,
+                "prompt_tokens": 1278,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1429
+              }
+            },
+            "support": "Retrospective cohort study of children born from 1996 through 2016 who were enrolled from birth in 6 US health care systems or Ontario, Canada",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "大型多中心回顾性队列（约370万儿童、4500万人年、1536例脑瘤）量化了儿童医学影像累积脑部辐射剂量与脑瘤风险的剂量-反应关系，为儿科CT等检查的临床 justification 和剂量最小化提供了可引用的定量依据。限制是观察性设计、依赖剂量与诊断记录，不能直接证明因果，摘要也未给出具体风险估计值。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "fa5d9326-0a9e-42f1-b100-ed216e0a890e",
+              "seconds": 1.71,
+              "usage": {
+                "completion_tokens": 166,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 254,
+                "prompt_tokens": 1278,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1444
+              }
+            },
+            "support": "Retrospective cohort study of children born from 1996 through 2016 who were enrolled from birth in 6 US health care systems or Ontario, Canada",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "6 天前",
+      "date": "2026-11-19",
+      "reasons": {
+        "research": "大型多中心回顾性队列（约370万儿童、4500万人年、1536例脑瘤）量化了儿童医学影像累积脑部辐射剂量与脑瘤风险的剂量-反应关系，为儿科CT等检查的临床 justification 和剂量最小化提供了可引用的定量依据。限制是观察性设计、依赖剂量与诊断记录，不能直接证明因果，摘要也未给出具体风险估计值。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+      "t": "FDA 批准首个治疗 3 型戈谢病神经系统症状的药物",
+      "te": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+      "s": "FDA 今天批准了 Infilbray (venglustat) 片剂，这是首个用于治疗体重至少 15 公斤（约 33 磅）的成人和儿童患者 3 型戈谢病 (GD3) 神经症状的药物。",
+      "se": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg (approximately 33 pounds).",
+      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+      "image": "",
+      "src": "FDA · 官方公告",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 74,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-23T09:22:25+00:00",
+        "input_hash": "a4a6fd92a14507678c6acbdecdd80c2074fae8182f7ee886debb190b0bddbcd0",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "FDA首次批准针对3型戈谢病神经系统症状的药物，填补了这一适应症的空白，属于明确的监管审批事件；产业读者可据此判断该罕见病领域的市场准入与未满足需求，但材料仅有批准动作，缺少疗效数据和试验设计细节。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA首次批准针对3型戈谢病神经系统症状的药物，是明确的监管审批与市场准入事件，产业读者可据此判断该罕见病领域的新治疗选择和竞争格局；但材料仅提供批准公告，缺少疗效数据、试验设计与安全性细节。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "d11a4ffd-3e85-4801-bc7f-35e1a8490da9",
+              "seconds": 1.73,
+              "usage": {
+                "completion_tokens": 145,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 210,
+                "prompt_tokens": 978,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1123
+              }
+            },
+            "support": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg",
+            "total": 76
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA首次批准针对3型戈谢病神经系统症状的药物，填补了这一适应症的空白，属于明确的监管审批事件；产业读者可据此判断该罕见病领域的市场准入与未满足需求，但材料仅有批准动作，缺少疗效数据和试验设计细节。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "6bee97c0-0deb-4c8b-8efc-e0719bd42022",
+              "seconds": 1.69,
+              "usage": {
+                "completion_tokens": 152,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 210,
+                "prompt_tokens": 978,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1130
+              }
+            },
+            "support": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg (approxima",
+            "total": 73
+          }
+        ],
+        "score": 74,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "7 天前",
+      "date": "2026-11-18",
+      "reasons": {
+        "industry": "FDA首次批准针对3型戈谢病神经系统症状的药物，填补了这一适应症的空白，属于明确的监管审批事件；产业读者可据此判断该罕见病领域的市场准入与未满足需求，但材料仅有批准动作，缺少疗效数据和试验设计细节。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04759-y",
+      "t": "西方国家认知能力和痴呆症发病率的代代相传",
+      "te": "Generational gains in cognitive capacity and dementia incidence rates in Western countries",
+      "s": "近几十年来，欧洲和美国在任何特定年龄患痴呆症的风险都在稳步下降。一个尚未解决的关键问题是，最近几代人是否在老年时认知能力更好，认知能力下降是否较慢，或者两者兼而有之，因为这对预防性干预何时可能产生最大影响具有影响。通过对五项长达 30 年的纵向研究中约 219,000 名个体的约 783,000 次情景记忆评估进行分析，我们发现晚生的几代人受益于双重红利，进入老年时记忆水平更高，此后衰退速度更慢。综合优势足够大，可以合理地解释据报道痴呆症发病率每十年下降 13%。进步集中在下降最快的国家；",
+      "se": "The risk of developing dementia at any given age has fallen steadily in Europe and the United States over recent decades. A key unresolved question is whether recent generations reach older age with better cognitive capacity, experience slower cognitive decline, or both, as this has implications for when preventive interventions are likely to have the greatest impact. Analyzing ~783,000 episodic-memory assessments from ~219,000 individuals in five longitudinal studies followed for up to 30 years, we find that later-born generations benefit from a double dividend, with higher memory levels entering old age and slower decline thereafter. The combined advantage is large enough to plausibly account for the reported 13% per-decade decline in dementia incidence. Improvements are concentrated among the fastest decliners;",
+      "u": "https://www.nature.com/articles/s41591-026-04759-y",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04759-y",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04759-y"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:21:22+00:00",
+        "input_hash": "83650159f3f85b09d5df8964b385b4a7adfeebfe12b4a572fdf7bee208ea8e9d",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该研究基于约21.9万人的长期纵向队列和约78.3万次记忆评估，把世代认知优势拆成“进入老年时水平更高”和“下降更慢”两部分，并对应临床损害与海马萎缩，为痴呆发病率下降提供了机制层面的证据。限制在于这是观察性队列，不能证明因果，也不能据此评估具体预防干预的效应。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该研究用约21.9万人、最长30年的多队列情景记忆数据，区分了记忆水平与下降速度的世代差异，并给出可解释痴呆发病率每十年下降13%的量化证据。其价值在于为痴呆预防干预的时机设计提供依据，但属观察性队列表述，材料未展开混杂控制与外部验证细节，研究者需核对原文方法学。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "b71a5ce2-fad9-4c7e-9edf-faf17e2f50ce",
+              "seconds": 1.81,
+              "usage": {
+                "completion_tokens": 168,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 169,
+                "prompt_tokens": 1193,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1361
+              }
+            },
+            "support": "Analyzing ~783,000 episodic-memory assessments from ~219,000 individuals in five longitudinal studies followed for up to 30 years, we find that later-born generations benefit from a double dividend",
+            "total": 78
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该研究基于约21.9万人的长期纵向队列和约78.3万次记忆评估，把世代认知优势拆成“进入老年时水平更高”和“下降更慢”两部分，并对应临床损害与海马萎缩，为痴呆发病率下降提供了机制层面的证据。限制在于这是观察性队列，不能证明因果，也不能据此评估具体预防干预的效应。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "56264fe2-2d88-4bf1-a1ce-396862232f9d",
+              "seconds": 1.67,
+              "usage": {
+                "completion_tokens": 180,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 169,
+                "prompt_tokens": 1193,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1373
+              }
+            },
+            "support": "Analyzing ~783,000 episodic-memory assessments from ~219,000 individuals in five longitudinal studies followed for up to 30 years, we find that later-born generations benefit from a double dividend, w",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "8 天前",
+      "date": "2026-11-17",
+      "reasons": {
+        "research": "该研究基于约21.9万人的长期纵向队列和约78.3万次记忆评估，把世代认知优势拆成“进入老年时水平更高”和“下降更慢”两部分，并对应临床损害与海马萎缩，为痴呆发病率下降提供了机制层面的证据。限制在于这是观察性队列，不能证明因果，也不能据此评估具体预防干预的效应。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
+      "t": "医疗保险共享储蓄计划 负责任的护理组织 2025 年绩效财务和质量结果",
+      "te": "Medicare Shared Savings Program Accountable Care Organizations Performance Year 2025 Financial and Quality Results",
+      "s": "医疗保险共享储蓄计划 负责任的护理组织 2025 年业绩 财务和质量结果 医疗保险共享储蓄计划（共享储蓄计划） 责任护理组织 (ACO) 通过支持高质量、协调一致的护理，解决预防、慢性病和疾病的根源问题，对于帮助“让美国再次健康”至关重要。在 2025 年绩效年 (PY) 中，共享储蓄计划中的 ACO 实现了自该计划启动以来最高的共享储蓄率。与许多使用类别的基准相比，实现节省的 ACO 的利用率较低，包括出院、急诊科 (ED) 就诊、熟练护理机构 (SNF) 住院次数和 SNF 使用天数。",
+      "se": "Medicare Shared Savings Program Accountable Care Organizations Performance Year 2025 Financial and Quality Results Medicare Shared Savings Program (Shared Savings Program) Accountable Care Organizations (ACOs) are critical in helping Make America Healthy Again — by supporting high-quality, coordinated care that addresses prevention, chronic illness and the root causes of disease. For Performance Year (PY) 2025, ACOs in the Shared Savings Program achieved the highest rates of shared savings since the inception of the program. ACOs that achieved savings had lower utilization compared to their benchmark across many categories of utilization including hospital discharges, Emergency Department (ED) Visits, number of Skilled Nursing Facility (SNF) stays, and SNF Utilization Days.",
+      "u": "https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
+      "image": "",
+      "src": "CMS · 政策事实说明",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "consumer"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "products",
+          "technology",
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "cms_fact_sheets"
+        ],
+        "retrieved_via": "cms_facts",
+        "source_id": "cms_fact_sheets",
+        "summary_kind": "source_excerpt",
+        "summary_source": "https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
+        "upstream_id": ""
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 75,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-23T09:22:32+00:00",
+        "input_hash": "ae0d9a11c1e035038754ee75cdda7aa3ae569774716a3a90dd941eafe55acb3f",
+        "input_scope": "source_excerpt",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是Medicare共享节余计划PY2025的官方结算与质量结果，并披露CY2027支付规则对ACO激励、基准调整、数字质量报告和Part B自付减免的最终政策；产业读者可据此判断责任医疗组织的付费阶段、风险轨道迁移和参与策略，但材料为CMS汇总口径，缺少ACO层面明细和因果设计。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 6,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "这是Medicare共享节余计划PY2025的官方结算与质量结果，并披露CY2027支付规则对ACO激励、基准调整、数字质量报告和Part B自付减免的最终政策；产业读者可据此判断责任医疗组织的付费阶段、风险轨道迁移和参与策略，但材料为CMS汇总口径，缺少ACO层面明细和因果设计。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "14dd2142-7610-40a4-8c3c-25bef274be85",
+              "seconds": 2.06,
+              "usage": {
+                "completion_tokens": 150,
+                "prompt_cache_hit_tokens": 2939,
+                "prompt_cache_miss_tokens": 134,
+                "prompt_tokens": 3073,
+                "prompt_tokens_details": {
+                  "cached_tokens": 2939
+                },
+                "total_tokens": 3223
+              }
+            },
+            "support": "ACOs in level E of the BASIC track will see their shared savings rate increase from 50% to 60%",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 5,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "industry",
+            "reason": "CMS官方披露的2025绩效年MSSP ACO财务与质量结果，含472个ACO、80%获分成、Medicare净节省25亿美元及按ACO类型的分层数据，并列出2027年PFS最终规则的具体政策调整，可帮助医院与支付方决策者判断参与轨道、初级保健投入和成本分摊策略；局限是官方汇总数据，未提供各ACO层面明细或因果归因。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "bde53650-c72c-4a43-9a92-5b15c74e843b",
+              "seconds": 3.4,
+              "usage": {
+                "completion_tokens": 195,
+                "prompt_cache_hit_tokens": 2939,
+                "prompt_cache_miss_tokens": 134,
+                "prompt_tokens": 3073,
+                "prompt_tokens_details": {
+                  "cached_tokens": 2939
+                },
+                "total_tokens": 3268
+              }
+            },
+            "support": "Out of 472 ACOs, 80% of ACOs, representing 84% of the 10.9 million assigned beneficiaries, are earning performance payments totaling $4.9 billion, and Medicare saved $2.5 billion relative to benchmark",
+            "total": 76
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "8 天前",
+      "date": "2026-11-17",
+      "reasons": {
+        "industry": "这是Medicare共享节余计划PY2025的官方结算与质量结果，并披露CY2027支付规则对ACO激励、基准调整、数字质量报告和Part B自付减免的最终政策；产业读者可据此判断责任医疗组织的付费阶段、风险轨道迁移和参与策略，但材料为CMS汇总口径，缺少ACO层面明细和因果设计。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+      "t": "FDA 批准首个药物可帮助患有婴儿期尼曼匹克病 C 型患者延长寿命",
+      "te": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
+      "s": "FDA 批准了 Lembaz (adrabetadex) 注射液，这是第一种被证明可以帮助患有严重 C 型尼曼匹克病 (NPC) 的患者延长寿命的治疗方法。",
+      "se": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
+      "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+      "image": "",
+      "src": "FDA · 官方公告",
+      "role": "官方机构",
+      "cat": "官方机构",
+      "trust": 3,
+      "sourceType": "官方机构",
+      "topics": [
+        "hospital",
+        "regulation"
+      ],
+      "sections": [
+        "industry"
+      ],
+      "categories": {
+        "industry": [
+          "regulation"
+        ]
+      },
+      "stages": [],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "fda_press"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "fda_press",
+        "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "industry"
+        ],
+        "evaluated_at": "2026-11-23T09:22:27+00:00",
+        "input_hash": "9c1f214df803c09532ead2620dc2d8a07d68a36e9423a27aea4f2a51fb0a1757",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "FDA 首次批准可延长婴儿期起病 NPC 患者生存期的药物，是明确的监管审批与市场准入事实，产业读者可据此判断罕见病治疗领域的新准入节点；但材料仅提供批准结论，未披露试验设计、样本量、效应幅度与安全性细节，疗效与商业价值判断受限。",
+        "reviews": [
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "FDA 首次批准可延长婴儿期起病 NPC 患者生存期的药物，是明确的监管审批与市场准入事实，产业读者可据此判断罕见病治疗领域的新准入节点；但材料仅提供批准结论，未披露试验设计、样本量、效应幅度与安全性细节，疗效与商业价值判断受限。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "791616b1-75a9-423a-bc81-a9a6cfb1612f",
+              "seconds": 1.79,
+              "usage": {
+                "completion_tokens": 153,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 204,
+                "prompt_tokens": 972,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1125
+              }
+            },
+            "support": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
+            "total": 71
+          },
+          {
+            "audiences": [
+              "industry"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "industry",
+            "reason": "这是首个获批用于婴儿型NPC并显示延长生存的药物，属于明确的监管审批与市场准入事件，产业读者可据此判断该罕见病领域的治疗空白、准入路径与后续商业化空间；但输入仅摘要级信息，未披露试验设计、生存获益幅度与安全性数据，需查原文核实。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "05dd1253-8048-4996-9718-df925f60659a",
+              "seconds": 2.27,
+              "usage": {
+                "completion_tokens": 151,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 204,
+                "prompt_tokens": 972,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1123
+              }
+            },
+            "support": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
+            "total": 71
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "8 天前",
+      "date": "2026-11-17",
+      "reasons": {
+        "industry": "FDA 首次批准可延长婴儿期起病 NPC 患者生存期的药物，是明确的监管审批与市场准入事实，产业读者可据此判断罕见病治疗领域的新准入节点；但材料仅提供批准结论，未披露试验设计、样本量、效应幅度与安全性细节，疗效与商业价值判断受限。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43037562",
+      "t": "索马鲁肽用于治疗 6 至 <12 岁儿童肥胖症。",
+      "te": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age.",
+      "s": "背景 儿童肥胖是一种慢性神经代谢疾病，有效且持久的药物治疗选择有限。第 68 周时，索马鲁肽组的 BMI 平均百分比变化为 -13.5%，安慰剂组为 2.7%（估计组间差异，-16.2 个百分点；95% 置信区间 [CI]，-19.4 至 -12.9；P < 0.001）。",
+      "se": "Background Childhood obesity is a chronic, neurometabolic disease with limited options for medical treatments that are efficacious and durable. At week 68, the mean percent change in BMI was -13.5% with semaglutide and 2.7% with placebo (estimated between-group difference, -16.2 percentage points; 95% confidence interval [CI], -19.4 to -12.9; P < 0.001).",
+      "u": "https://doi.org/10.1056/nejmoa2604058",
+      "image": "",
+      "src": "NEJM · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "nejm_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "nejm_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43037562",
+        "upstream_id": "43037562"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:22:11+00:00",
+        "input_hash": "4c6feef1b061c5518da6ac36e04d9e0b3dc75face474cf9ac1b3deb051ec4897",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项3b期随机对照试验（RCT）首次为6至<12岁肥胖儿童提供司美格鲁肽治疗证据；主要结果（第68周BMI变化-13.5%对+2.7%）为儿科用药与临床决策提供参考。但摘要未给出不良事件、停药后体重反弹及生长发育等关键安全性细节，也缺少长期结局数据。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这项3b期随机对照试验（RCT）首次为6至<12岁肥胖儿童提供司美格鲁肽治疗证据；主要结果（第68周BMI变化-13.5%对+2.7%）为儿科用药与临床决策提供参考。但摘要未给出不良事件、停药后体重反弹及生长发育等关键安全性细节，也缺少长期结局数据。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "bbe256a8-d6e8-4bb3-b03e-775a7a4e0dc7",
+              "seconds": 1.6,
+              "usage": {
+                "completion_tokens": 183,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 255,
+                "prompt_tokens": 1151,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1334
+              }
+            },
+            "support": "Among 167 children who underwent randomization, 112 were assigned to receive semaglutide and 55 to receive placebo. At week 68, the mean percent change in BMI was -13.5% with semaglutide and 2.7% with",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是司美格鲁肽在6至<12岁肥胖儿童中的3期双盲随机对照试验，明确报告68周BMI降幅组间差异及置信区间，为低龄儿童用药提供直接证据；摘要仅给核心结果，安全性细节、不良事件与停药后结局需读全文。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "b8c0a6ee-76be-41ba-a4b1-0c2e8c979bc6",
+              "seconds": 2.11,
+              "usage": {
+                "completion_tokens": 149,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 255,
+                "prompt_tokens": 1151,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1300
+              }
+            },
+            "support": "Among children (6 to <12 years of age) with obesity, treatment with semaglutide for 68 weeks resulted in a significantly greater mean percent reduction in BMI than placebo.",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "9 天前",
+      "date": "2026-11-16",
+      "reasons": {
+        "research": "这项3b期随机对照试验（RCT）首次为6至<12岁肥胖儿童提供司美格鲁肽治疗证据；主要结果（第68周BMI变化-13.5%对+2.7%）为儿科用药与临床决策提供参考。但摘要未给出不良事件、停药后体重反弹及生长发育等关键安全性细节，也缺少长期结局数据。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43035098",
+      "t": "每周一次利布帕肽治疗中国超重或肥胖成人的减肥效果：GEMINI-1 随机临床试验。",
+      "te": "Once-Weekly Ribupatide for Weight Loss in Adults in China With Overweight or Obesity: The GEMINI-1 Randomized Clinical Trial.",
+      "s": "重要性 肥胖是中国的一个主要健康问题；需要更多的药物治疗选择来进行长期体重管理。目的 评价每周一次皮下注射利布帕肽（一种葡萄糖依赖性促胰岛素多肽/胰高血糖素样肽 1 受体激动剂）对中国超重或肥胖非糖尿病成人减肥的有效性和安全性。设计、设置和参与者 这项多中心、随机、双盲、安慰剂对照 3 期临床试验在中国 55 个地点进行。从 2024 年 5 月到 6 月，体重指数为 28 或更高或 24 或更高且至少有 1 种体重相关合并症的非糖尿病成人被纳入研究，最终随访日期为 2025 年 6 月 20 日。",
+      "se": "Importance Obesity is a major health problem in China; more pharmacotherapy choices for long-term weight management are needed. Objective To evaluate the efficacy and safety of once-weekly subcutaneous ribupatide, a dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonist, for weight loss in adults in China with overweight or obesity without diabetes. Design, setting, and participants This multicenter, randomized, double-blind, placebo-controlled, phase 3 clinical trial was conducted at 55 sites in China. From May to June 2024, adults without diabetes who had a body mass index of 28 or greater or 24 or greater with at least 1 weight-related comorbidity were enrolled, with final follow-up on June 20, 2025.",
+      "u": "https://doi.org/10.1001/jama.2026.24796",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43035098",
+        "upstream_id": "43035098"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:22:19+00:00",
+        "input_hash": "19f4f6b16d0bd6f51d9beae7d8a39a6770f720ce8ee4bde8fc12820e70b80dcc",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "中国人群多中心3期随机双盲安慰剂对照试验，报告新型GIP/GLP-1双激动剂ribupatide三个剂量48周减重幅度及安慰剂校正差值，为研究者提供剂量效应、效应量估计和胃肠道耐受性信息；但摘要未给出安全性事件发生率、停药率及人群外推限制。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项3期、双盲、安慰剂对照试验在中国55个中心入组567例非糖尿病超重或肥胖成人，48周时最高剂量组安慰剂校正体重降幅达-16.3个百分点，为双靶点减重药物提供了直接临床证据；但摘要未给出具体胃肠道不良事件发生率、停药率及亚组数据，安全性判断受限。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "6d4f5ec1-4b50-40d7-860f-ce7a91c39b88",
+              "seconds": 1.9,
+              "usage": {
+                "completion_tokens": 201,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 213,
+                "prompt_tokens": 1493,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1694
+              }
+            },
+            "support": "Among 567 randomized participants (309 [54.5%] female; mean [SD] age was 34.4 [8.4] years, body weight was 93.0 [17.3] kg, and body mass index was 33.3 [4.5]), 514 (90.7%) completed the 48-week treatm",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "中国人群多中心3期随机双盲安慰剂对照试验，报告新型GIP/GLP-1双激动剂ribupatide三个剂量48周减重幅度及安慰剂校正差值，为研究者提供剂量效应、效应量估计和胃肠道耐受性信息；但摘要未给出安全性事件发生率、停药率及人群外推限制。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "777624a7-7666-4575-a234-c8e0b972a69d",
+              "seconds": 1.92,
+              "usage": {
+                "completion_tokens": 196,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 213,
+                "prompt_tokens": 1493,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1689
+              }
+            },
+            "support": "Among 567 randomized participants (309 [54.5%] female; mean [SD] age was 34.4 [8.4] years, body weight was 93.0 [17.3] kg, and body mass index was 33.3 [4.5]), 514 (90.7%) completed the 48-week treatm",
+            "total": 70
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "10 天前",
+      "date": "2026-11-15",
+      "reasons": {
+        "research": "中国人群多中心3期随机双盲安慰剂对照试验，报告新型GIP/GLP-1双激动剂ribupatide三个剂量48周减重幅度及安慰剂校正差值，为研究者提供剂量效应、效应量估计和胃肠道耐受性信息；但摘要未给出安全性事件发生率、停药率及人群外推限制。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43035096",
+      "t": "替泽帕肽治疗肥胖青少年：SURMOUNT-ADOLESCENTS 随机临床试验。",
+      "te": "Tirzepatide in Adolescents With Obesity: The SURMOUNT-ADOLESCENTS Randomized Clinical Trial.",
+      "s": "替泽帕肽是一种每周一次的葡萄糖依赖性促胰岛素多肽和胰高血糖素样肽 1 受体激动剂，已被批准用于成人肥胖症的肥胖管理，但有关其影响的重要信息在青少年中仍然有限。总体而言，79.6% 的替泽帕肽治疗参与者的 BMI 降低了至少 5%，而安慰剂组的参与者为 28.5%（风险差异，51.2 [95% CI, 36.3-66.1] 个百分点；P < .001）。",
+      "se": "Importance Information on the effects of tirzepatide, a once-weekly glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist approved for obesity management in adults with obesity, remains limited in adolescents. Overall, 79.6% of tirzepatide-treated participants achieved BMI reduction of at least 5% compared with 28.5% of participants in the placebo group (risk difference, 51.2 [95% CI, 36.3-66.1] percentage points; P < .001).",
+      "u": "https://doi.org/10.1001/jama.2026.23420",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "validation"
+      ],
+      "event": "seen",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retained_during_source_outage": true,
+        "retrieved_via": "europe_pmc",
+        "snapshot_observed_at": "2026-11-25T04:12:20+00:00",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43035096",
+        "upstream_id": "43035096"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 71,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-23T09:22:20+00:00",
+        "input_hash": "48a11a74524af1c1a489d3fcfce1d2ea7b1496b63108dad9f339e2036a535fbb",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是替尔泊肽在青少年肥胖中的3期随机双盲试验，报告了72周BMI降低18.5%、对照升0.5%及不良事件框架，为儿科减重药物研究者和临床决策提供直接证据；但样本仅160例、摘要未给出安全性细节与停药/依从数据，限制外推与获益-风险判断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是替尔泊肽在青少年肥胖中的3期随机双盲试验，报告了72周BMI降低18.5%、对照升0.5%及不良事件框架，为儿科减重药物研究者和临床决策提供直接证据；但样本仅160例、摘要未给出安全性细节与停药/依从数据，限制外推与获益-风险判断。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "00ca8bda-d422-4d50-9b3d-a76c5ff3620b",
+              "seconds": 1.63,
+              "usage": {
+                "completion_tokens": 188,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 191,
+                "prompt_tokens": 1471,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1659
+              }
+            },
+            "support": "At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95%",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这项3期随机双盲试验在青少年肥胖人群中报告替尔泊肽72周使BMI降低18.5%、对照为升高0.5%，为该药在青少年中的使用提供了直接随机证据，研究者可关注其减重幅度与停药后随访及安全性细节；但摘要未披露不良事件发生率、耐受性具体数字和统计效能等信息，仅能作摘要级判断。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "984fef42-f4e4-462e-b35c-f98e4fd2ee31",
+              "seconds": 1.94,
+              "usage": {
+                "completion_tokens": 193,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 191,
+                "prompt_tokens": 1471,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1664
+              }
+            },
+            "support": "At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95%",
+            "total": 73
+          }
+        ],
+        "score": 71,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "10 天前",
+      "date": "2026-11-15",
+      "reasons": {
+        "research": "这是替尔泊肽在青少年肥胖中的3期随机双盲试验，报告了72周BMI降低18.5%、对照升0.5%及不良事件框架，为儿科减重药物研究者和临床决策提供直接证据；但样本仅160例、摘要未给出安全性细节与停药/依从数据，限制外推与获益-风险判断。"
+      },
+      "historical": true
     }
   ],
   "editions": [
     {
       "date": "2026-11-24",
       "item_ids": [
-        "pmid:43071962"
+        "url:https://www.nature.com/articles/s41746-026-03442-3",
+        "url:https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+        "url:https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
+        "pmid:43076168",
+        "url:https://www.jmir.org/article/view/jmir_v28i1e101445"
+      ],
+      "minutes": 9
+    },
+    {
+      "date": "2026-11-23",
+      "item_ids": [
+        "pmid:43072799",
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+        "url:https://www.nature.com/articles/s41746-026-03441-4"
+      ],
+      "minutes": 4
+    },
+    {
+      "date": "2026-11-19",
+      "item_ids": [
+        "pmid:43056070",
+        "pmid:43057277",
+        "url:https://www.nature.com/articles/s41591-026-04731-w"
       ],
       "minutes": 3
+    },
+    {
+      "date": "2026-11-18",
+      "item_ids": [
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-11-17",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41591-026-04759-y",
+        "url:https://www.cms.gov/newsroom/fact-sheets/medicare-shared-savings-program-accountable-care-organizations-performance-year-2025-financial",
+        "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
+      ],
+      "minutes": 2
+    },
+    {
+      "date": "2026-11-16",
+      "item_ids": [
+        "pmid:43037562"
+      ],
+      "minutes": 1
+    },
+    {
+      "date": "2026-11-15",
+      "item_ids": [
+        "pmid:43035098",
+        "pmid:43035096"
+      ],
+      "minutes": 2
     }
   ]
 }

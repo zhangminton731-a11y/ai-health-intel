@@ -1,32 +1,30 @@
-奇点日报 · 2026-11-24
-这一天的 5 件 AI 医疗大事
+奇点日报 · 2026-11-25
 
-01 · 论文研究
-Challenges in AI based tumor board case summarization and recommendations
-Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment. Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6.
-npj Digital Medicine · 2026-11-24
-https://www.nature.com/articles/s41746-026-03442-3
+头条 · 医药研发与临床 · 已签约
+赛诺菲拟以约410亿美元收购 Insmed
+赛诺菲11月24日披露，已签约拟以每股175美元现金收购美国药企 Insmed，股权价值约410亿美元，交割仍待股东及监管批准。
+若交易完成，赛诺菲将获得两款已商业化的呼吸疾病药物，并扩大在这一领域的产品组合。
+赛诺菲 · 2026-11-24
+https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002
 
-02 · 融资合作
-STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more
-Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs
-STAT News · 2026-11-24
-https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss
+医药研发与临床 · 政策公布
+美国 Medicare 公布13款药品议定价格，2028年生效
+美国 CMS 公布 Medicare 第三轮13款药品的最高公平价格，其中12款首次议价、1款重新议价，2028年1月1日起生效。
+本轮首次覆盖可按 Part B 支付的药品，议价由此延伸到部分在诊所等场景给药的高支出药品。
+美国 CMS · 2026-11-23
+https://www.cms.gov/newsroom/press-releases/cms-announces-lower-negotiated-prices-13-high-cost-drugs
 
-03 · 产业动态
-STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines
-Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.
-STAT News · 2026-11-24
-https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss
+医药研发与临床 · 各省发文
+国家医保局称各省均已发文，推进包括居家药学服务在内的定价
+国家医保局11月25日披露，各省份均完成药学服务价格项目整合并正式发文，国家试行指南包括居家药学服务等四类十项。
+医院和服务机构可以查本地文件了解哪些服务可单独收费，具体收费价格由各统筹地区制定。
+国家医保局 · 2026-11-25
+https://www.nhsa.gov.cn/art/2026/11/25/art_14_23519.html
 
-04 · 论文研究
-Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.
-Importance Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis. Objective To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. Design, setting, and participants This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure < 100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025. Interventions Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids;
-JAMA · 摘要索引 · 2026-11-24
-https://doi.org/10.1001/jama.2026.25627
+消费健康科技 · 预售
+华为维感 G1 持续葡萄糖监测系统开启预售
+华为终端11月24日发布维感 G1 持续葡萄糖监测系统，并于当天通过华为商城及授权电商开启预售。
+需要持续看血糖的用户可用独立贴片采集数据，在兼容手机和手表查看，媒体报道计划于12月11日开售。
+华为终端 · 2026-11-24
+https://www.sina.cn/news/detail/5368718085063274.html
 
-05 · 论文研究
-Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review
-Conclusions: In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined workflow and less often examined transparency and governance. The challenge is whether favorable attitudes and early deployment translate into calibrated, governed, and sustained routine use. An interpretive stage-specific model identifies assessment priorities across exposure and implementation contexts, but is not a validated causal or predictive model. Later-stage evaluations should retain measurement of Acceptance, trust calibration, governance, durability, and workflow outcomes. Trial Registration: OSF Registries osf.io/nmep8; https://osf.io/nmep8 Results: We included 309 primary empirical studies; 187 (60.5%) were published in 2025 or 2026.
-Journal of Medical Internet Research · 2026-11-24
-https://www.jmir.org/article/view/jmir_v28i1e101445
