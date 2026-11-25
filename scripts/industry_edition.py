@@ -9,25 +9,36 @@ from sih_ref.editorial import combine, material, project, validate_review
 
 
 DIRECTORY = Path(__file__).resolve().parents[1] / 'config/editions'
+NEWSROOM = DIRECTORY.parent / 'newsroom'
+NEWS_DAYS = 10
 START = date(2026, 11, 25)
 CST = timezone(timedelta(hours=8))
 LANES = {'consumer': '消费健康科技', 'medical': '医药研发与临床'}
+TOPICS = {
+    'consumer': {'wearables': '可穿戴', 'sleep': '睡眠呼吸', 'home': '居家监测',
+                 'services': '健康服务', 'business': '融资与交易'},
+    'medical': {'business': '融资与交易', 'policy': '政策与支付', 'approval': '获批与上市',
+                'research': '研发商业化', 'adoption': '机构采用', 'opinion': '行业观点'},
+}
 SOURCE_TYPES = {'官方机构', '企业披露', '原始访谈'}
 STAGES = {
     'product': {'concept': '概念展示', 'announced': '正式发布', 'presale': '预售',
-                'on_sale': '实售', 'paid_pilot': '付费试点', 'cleared': '获准上市'},
+                'on_sale': '实售', 'available': '已开放', 'paid_pilot': '付费试点',
+                'cleared': '获准上市', 'fda_approved': 'FDA 已批准', 'roadmap': '上市安排'},
     'policy': {'consultation': '征求意见', 'filing': '信息申报', 'list_announced': '公布名单',
                'announced': '政策公布', 'notices_issued': '各省发文', 'pilot': '试点启动',
+               'award': '中标公告', 'scheduled': '实施日期已公布',
                'effective': '正式实施', 'expanded': '推广'},
-    'industry': {'signed': '已签约', 'closed': '已完成', 'announced': '已宣布'},
+    'industry': {'signed': '已签约', 'closed': '已完成', 'announced': '已宣布',
+                 'launched': '合作已启动'},
     'opinion': {'published': '行业观点'},
 }
 
 
-def records(edition):
+def records(edition, *, max_items=5, max_age=2):
     day = date.fromisoformat(edition['date'])
     updated = datetime.fromisoformat(edition['updated_at'])
-    if updated.tzinfo is None or len(edition['events']) > 5:
+    if updated.tzinfo is None or (max_items is not None and len(edition['events']) > max_items):
         raise ValueError('日报更新时间或条数异常')
     update_day = updated.astimezone(CST).date()
     revisions = edition.get('revisions', [])
@@ -43,7 +54,8 @@ def records(edition):
         source_day, event_day = map(date.fromisoformat, (event['published_at'], event['event_date']))
         if (event['verification'] != 'passed' or event['lane'] not in LANES or
                 event['source_type'] not in SOURCE_TYPES or
-                stage not in STAGES.get(kind, {}) or not 0 <= (day-source_day).days <= 2 or
+                stage not in STAGES.get(kind, {}) or not 0 <= (day-source_day).days <= max_age or
+                ('topic' in event and event['topic'] not in TOPICS.get(event['lane'], {})) or
                 event_day > day or not event['why'].strip() or not event['summary'].strip() or
                 not event['evidence'] or event['url'] not in event['evidence'] or
                 any(urlsplit(url).scheme != 'https' or not urlsplit(url).hostname for url in event['evidence'])):
@@ -85,6 +97,33 @@ def load(as_of, generated_at):
     if day not in batches:
         batches[day] = ({'date': day, 'updated_at': generated_at, 'events': []}, [])
     return batches
+
+
+def newsroom_rows(batches, as_of):
+    """Reusable feed records, with daily editions taking precedence for a shared event."""
+    rows = {row['item_id']: row for _, items in batches.values() for row in items}
+    urls = {row['url']: row['item_id'] for row in rows.values()}
+    for path in sorted(NEWSROOM.glob('????-??-??.json')):
+        if path.stem > as_of.isoformat():
+            continue
+        batch = json.loads(path.read_text(encoding='utf-8'))
+        if batch['date'] != path.stem or datetime.fromisoformat(batch['updated_at']).astimezone(CST).date() > as_of:
+            raise ValueError('栏目稿批次日期不一致')
+        for row in records(batch, max_items=None, max_age=NEWS_DAYS):
+            item_id = row['item_id']
+            if item_id in rows:
+                if (row['url'], row['published_at']) != (rows[item_id]['url'], rows[item_id]['published_at']):
+                    raise ValueError(f'同一事件的原文记录不一致: {item_id}')
+                continue
+            if row['url'] in urls:
+                raise ValueError(f'同一原文被重复收录: {item_id}')
+            urls[row['url']] = item_id
+            rows[item_id] = row
+    return list(rows.values())
+
+
+def active_news(rows, as_of):
+    return [row for row in rows if 0 <= (as_of-date.fromisoformat(row['published_at'])).days <= NEWS_DAYS]
 
 
 def public_issue(edition, rows):

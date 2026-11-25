@@ -271,6 +271,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
         event = raw.get('reader_event')
         if event:
             item['readerEvent'] = {key: event[key] for key in ('id', 'lane', 'region', 'event_date', 'stage', 'why')}
+            if 'topic' in event:
+                item['readerEvent']['topic'] = event['topic']
             item['readerEvent']['stage_label'] = industry_edition.STAGES[event['kind']][event['stage']]
             item['reasons'] = {'industry': event['why']}
             item['categories'] = {'industry': [{'product': 'products', 'policy': 'regulation',
@@ -300,8 +302,10 @@ def build(*, as_of: date | None = None) -> None:
     if industry is not None:
         published = {day: industry_edition.public_issue(*batch) for day, batch in industry.items()}
     history_raw = update_history(OUTPUT / 'history_items.jsonl', items, profile, build_date)
+    newsroom = industry is not None and industry_edition.NEWSROOM.is_dir()
     if industry is not None:
-        items = industry_edition.overlay(items, industry[as_of][1])
+        curated = industry_edition.newsroom_rows(industry, build_date) if newsroom else industry[as_of][1]
+        items = industry_edition.overlay(items, industry_edition.active_news(curated, build_date) if newsroom else curated)
     status = health.get("daily_status", "unknown")
     n_src = health.get("source_count", len(SOURCE_META))
     items = [dict(it) for it in items]
@@ -341,12 +345,15 @@ def build(*, as_of: date | None = None) -> None:
                          "n": s.get("item_count", 0),
                          "ok": s.get("status") in ("ok", "ok_no_updates")})
 
-    daily_issues = build_issues(data, build_date)
+    issue_rows = {row['item_id'] for row in industry[as_of][1]} if newsroom else None
+    daily_issues = build_issues(data if issue_rows is None else [row for row in data if row['id'] in issue_rows], build_date)
     daily_ids = daily_issues[0]['item_ids'] if daily_issues else []
     briefing = issue_text(daily_issues[0] if daily_issues else None, by_id, as_of)
     if industry is not None:
         published_ids = {day: issue['item_ids'] for day, issue in published.items()}
         previous_rows = {row['item_id']: row for day, (_, rows) in industry.items() if day != as_of for row in rows}
+        if newsroom:
+            previous_rows.update({row['item_id']: row for row in curated})
         curated_history = build_data([row for key, row in previous_rows.items() if key not in current_ids], tr, build_date)
         daily_ids = published_ids[as_of]
         briefing = published[as_of]['text']
@@ -360,6 +367,7 @@ def build(*, as_of: date | None = None) -> None:
         "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
         "publicationIssue": published[as_of] if published else build_publication(data, build_date),
         **({"publishedIssues": list(published.values()), "publishedArchiveItems": curated_history} if published else {}),
+        **({"newsroom": {"days": industry_edition.NEWS_DAYS, "topics": industry_edition.TOPICS}} if newsroom else {}),
         "historyItems": history_data, "historyIssues": history_issues, "policyTimeline": policy,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
         "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),

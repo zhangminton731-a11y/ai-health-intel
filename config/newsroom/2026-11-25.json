@@ -1,0 +1,1184 @@
+{
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T18:41:44+08:00",
+  "events": [
+    {
+      "id": "cofoe-afu-device-data-partnership-cn-20261123",
+      "lane": "consumer",
+      "region": "中国大陆",
+      "kind": "industry",
+      "stage": "announced",
+      "topic": "sleep",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-24",
+      "source": "可孚医疗",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "可孚披露与蚂蚁阿福合作，呼吸机先接入",
+      "original_title": "牵手1.5亿用户的AI健康入口，可孚医疗携蚂蚁阿福共建家庭健康管理闭环",
+      "summary": "可孚医疗11月24日披露与蚂蚁阿福的设备合作，称呼吸机率先接入，连续血糖监测将是下一步。",
+      "why": "家用呼吸设备正接向健康应用入口，具体型号、向哪些用户开放及收费方式仍待公布。",
+      "source_excerpt": "作为蚂蚁阿福生态中重要的硬件设备与数据采集合作伙伴",
+      "url": "https://cofoe.com.cn/news_page/1870.html",
+      "evidence": [
+        "https://cofoe.com.cn/news_page/1870.html",
+        "https://www.cofoe.com.cn/news-5/"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "家用呼吸设备正接向健康应用入口，具体型号、向哪些用户开放及收费方式仍待公布。",
+          "support": "作为蚂蚁阿福生态中重要的硬件设备与数据采集合作伙伴"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 8,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "家用呼吸设备正接向健康应用入口，具体型号、向哪些用户开放及收费方式仍待公布。",
+          "support": "作为蚂蚁阿福生态中重要的硬件设备与数据采集合作伙伴"
+        }
+      ]
+    },
+    {
+      "id": "drive-walkwise-us-home-retail-20261123",
+      "lane": "consumer",
+      "region": "美国",
+      "kind": "product",
+      "stage": "on_sale",
+      "topic": "home",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "Drive Medical",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "WalkWise 助行器监测夹进入沃尔玛、亚马逊渠道",
+      "original_title": "WalkWise by Drive Smart Activity Monitor Helps Families Stay Connected to a Loved One's Day, Now Available for Home Use",
+      "summary": "Drive Medical公布 WalkWise 助行器监测夹可通过沃尔玛和亚马逊线上购买，自营商店已提供购买入口，标价199美元。",
+      "why": "家庭可以为长辈的助行器加装监测夹，活动变化提醒需单独订阅，设备用于一般健康监测。",
+      "source_excerpt": "now available on DriveMedicalAtHome.com, Walmart.com and Amazon.com",
+      "url": "https://www.prnewswire.com/news-releases/walkwise-by-drive-smart-activity-monitor-helps-families-stay-connected-to-a-loved-ones-day-now-available-for-home-use-302947531.html",
+      "evidence": [
+        "https://www.prnewswire.com/news-releases/walkwise-by-drive-smart-activity-monitor-helps-families-stay-connected-to-a-loved-ones-day-now-available-for-home-use-302947531.html",
+        "https://drivemedicalathome.com/products/walkwise-by-drive-smart-activity-monitor?variant=51259881849153",
+        "https://www.drivemedical.com/news-article/walkwise-by-drive"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "家庭可以为长辈的助行器加装监测夹，活动变化提醒需单独订阅，设备用于一般健康监测。",
+          "support": "now available on DriveMedicalAtHome.com, Walmart.com and Amazon.com"
+        },
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "家庭可以为长辈的助行器加装监测夹，活动变化提醒需单独订阅，设备用于一般健康监测。",
+          "support": "now available on DriveMedicalAtHome.com, Walmart.com and Amazon.com"
+        }
+      ]
+    },
+    {
+      "id": "ant-afu-video-wearables-cn-20261123",
+      "lane": "consumer",
+      "region": "中国大陆",
+      "kind": "product",
+      "stage": "available",
+      "topic": "services",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "蚂蚁集团原始通稿",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "蚂蚁阿福上线视频健康咨询，福环和福戒亮相",
+      "original_title": "Ant Group’s AI Health App Afu Upgrades with AI Video Consultations and Enhanced Health Management Features to Make Everyday Care More Accessible and Convenient",
+      "summary": "蚂蚁宣布新版阿福上线实时视频健康咨询，支持用户申请线上医生复核，并在同场大会展示健康手环和戒指。",
+      "why": "用户可在手机上用画面说明健康疑问，硬件则瞄准日常数据采集，价格和开售日期仍待公布。",
+      "source_excerpt": "has launched a major upgrade, introducing real-time video consultations",
+      "url": "https://www.streetinsider.com/Business%2BWire/Ant%2BGroup%E2%80%99s%2BAI%2BHealth%2BApp%2BAfu%2BUpgrades%2Bwith%2BAI%2BVideo%2BConsultations%2Band%2BEnhanced%2BHealth%2BManagement%2BFeatures%2Bto%2BMake%2BEveryday%2BCare%2BMore%2BAccessible%2Band%2BConvenient/27383494.html",
+      "evidence": [
+        "https://www.streetinsider.com/Business%2BWire/Ant%2BGroup%E2%80%99s%2BAI%2BHealth%2BApp%2BAfu%2BUpgrades%2Bwith%2BAI%2BVideo%2BConsultations%2Band%2BEnhanced%2BHealth%2BManagement%2BFeatures%2Bto%2BMake%2BEveryday%2BCare%2BMore%2BAccessible%2Band%2BConvenient/27383494.html",
+        "https://www.businesswire.com/news/home/20261122320607/en/",
+        "https://www.yicai.com/news/103449886.html"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 8,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "用户可在手机上用画面说明健康疑问，硬件则瞄准日常数据采集，价格和开售日期仍待公布。",
+          "support": "has launched a major upgrade, introducing real-time video consultations"
+        },
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 9,
+            "evidence": 8,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "用户可在手机上用画面说明健康疑问，硬件则瞄准日常数据采集，价格和开售日期仍待公布。",
+          "support": "has launched a major upgrade, introducing real-time video consultations"
+        }
+      ]
+    },
+    {
+      "id": "ozlo-dreem-us-sleep-referrals-20261117",
+      "lane": "consumer",
+      "region": "美国",
+      "kind": "industry",
+      "stage": "launched",
+      "topic": "sleep",
+      "event_date": "2026-11-17",
+      "published_at": "2026-11-17",
+      "source": "Ozlo 与 Dreem Health",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "Ozlo 和 Dreem Health 连接睡眠耳塞用户与线上睡眠门诊",
+      "original_title": "Ozlo and Dreem Health Announce Strategic Partnership to Expand Access to Better Sleep and Clinical Sleep Care",
+      "summary": "睡眠耳塞品牌 Ozlo 宣布与虚拟睡眠诊所 Dreem Health 启动合作，初期通过教育资源和联名页面连接用户与持证睡眠医疗人员。",
+      "why": "普通睡眠硬件用户有了进入专业睡眠服务的路径，必要时可由医疗人员决定是否安排居家睡眠检查。",
+      "source_excerpt": "today launched a strategic partnership",
+      "url": "https://rss.globenewswire.com/news-release/2026/11/17/3404663/0/en/ozlo-and-dreem-health-announce-strategic-partnership-to-expand-access-to-better-sleep-and-clinical-sleep-care.html",
+      "evidence": [
+        "https://rss.globenewswire.com/news-release/2026/11/17/3404663/0/en/ozlo-and-dreem-health-announce-strategic-partnership-to-expand-access-to-better-sleep-and-clinical-sleep-care.html",
+        "https://ozlosleep.com/pages/ozlo-x-dreem-health",
+        "https://ozlosleep.com/blogs/blogs/ozlo-dreem-health-sleep-care"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "普通睡眠硬件用户有了进入专业睡眠服务的路径，必要时可由医疗人员决定是否安排居家睡眠检查。",
+          "support": "today launched a strategic partnership"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 8,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "普通睡眠硬件用户有了进入专业睡眠服务的路径，必要时可由医疗人员决定是否安排居家睡眠检查。",
+          "support": "today launched a strategic partnership"
+        }
+      ]
+    },
+    {
+      "id": "wellable-givhero-wellness-acquisition-20261124",
+      "lane": "consumer",
+      "region": "美国",
+      "kind": "industry",
+      "stage": "closed",
+      "topic": "business",
+      "event_date": "2026-11-24",
+      "published_at": "2026-11-24",
+      "source": "Wellable",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "Wellable 收购 Givhero 的员工健康业务",
+      "original_title": "Wellable Acquires Givhero's Employee Well-Being Business",
+      "summary": "Wellable 公布已收购 Givhero 企业员工健康客户业务，Givhero 保留募捐、公益和志愿活动业务。",
+      "why": "雇主购买的员工健康方案将转入 Wellable 平台，可观察机构付费渠道如何集中。",
+      "source_excerpt": "it has acquired Givhero's employee wellbeing and corporate wellness business",
+      "url": "https://www.prnewswire.com/news-releases/wellable-acquires-givheros-employee-well-being-business-302948841.html",
+      "evidence": [
+        "https://www.prnewswire.com/news-releases/wellable-acquires-givheros-employee-well-being-business-302948841.html"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 8,
+            "usefulness": 8
+          },
+          "reason": "雇主购买的员工健康方案将转入 Wellable 平台，可观察机构付费渠道如何集中。",
+          "support": "it has acquired Givhero's employee wellbeing and corporate wellness business"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 6,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 8,
+            "usefulness": 7
+          },
+          "reason": "雇主购买的员工健康方案将转入 Wellable 平台，可观察机构付费渠道如何集中。",
+          "support": "it has acquired Givhero's employee wellbeing and corporate wellness business"
+        }
+      ]
+    },
+    {
+      "id": "minimed-fit-us-rollout-20261124",
+      "lane": "consumer",
+      "region": "美国、西欧",
+      "kind": "product",
+      "stage": "roadmap",
+      "topic": "wearables",
+      "event_date": "2026-11-24",
+      "published_at": "2026-11-24",
+      "source": "MiniMed 财报",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "MiniMed 披露两款贴片泵在美国和西欧的上市进度",
+      "original_title": "MiniMed Delivers Strong Fiscal Q2 with Accelerating Pump Demand, Expanding Profitability, and Faster Pipeline Commercialization",
+      "summary": "MiniMed 11月24日财报称，Fit在美仍计划于2027年春季上市，Flex搭配Simplera已在西欧推出，搭配Instinct的版本已获CE标志。",
+      "why": "同一系列在不同市场和传感器组合上的可用时间不同，搭配Instinct的版本计划在公司2027财年第四季度推出。",
+      "source_excerpt": "accelerating U.S. launch from Summer to Spring 2027",
+      "url": "https://www.sec.gov/Archives/edgar/data/2062583/000162828026075612/exhibit991-fy27q2earningsr.htm",
+      "evidence": [
+        "https://www.sec.gov/Archives/edgar/data/2062583/000162828026075612/exhibit991-fy27q2earningsr.htm",
+        "https://www.prnewswire.com/news-releases/minimed-delivers-strong-fiscal-q2-with-accelerating-pump-demand-expanding-profitability-and-faster-pipeline-commercialization-302948848.html",
+        "https://investors.minimed.com/2026-11-17-MiniMed-Launches-MiniMed-Flex-TM-%2C-its-Smallest-and-Most-Discrete-Insulin-Pump%2C-in-Europe"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 7,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "同一系列在不同市场和传感器组合上的可用时间不同，搭配Instinct的版本计划在公司2027财年第四季度推出。",
+          "support": "accelerating U.S. launch from Summer to Spring 2027"
+        },
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 5,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "同一系列在不同市场和传感器组合上的可用时间不同，搭配Instinct的版本计划在公司2027财年第四季度推出。",
+          "support": "accelerating U.S. launch from Summer to Spring 2027"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-us-fda-bacfenssi",
+      "lane": "medical",
+      "region": "美国",
+      "kind": "product",
+      "stage": "fda_approved",
+      "topic": "approval",
+      "event_date": "2026-11-24",
+      "published_at": "2026-11-24",
+      "source": "FDA",
+      "source_tier": "T1",
+      "source_type": "官方机构",
+      "title": "FDA 批准用于结直肠术口感染预防的局部用药",
+      "original_title": "FDA Approves First Locally Applied Treatment to Reduce Surgical Site Infections After Colorectal Surgery",
+      "summary": "美国FDA批准Bacfenssi，用于降低体重至少45公斤、手术切口超过20厘米的成人及儿童结直肠手术患者发生术口感染的风险。",
+      "why": "这是FDA批准的首款用于该场景的局部用药，商业合作方Azurity预计2027年初在美上市，届时还需观察医院采购和新增技术附加支付。",
+      "source_excerpt": "to reduce the occurrence of surgical site infections (SSIs)",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-locally-applied-treatment-reduce-surgical-site-infections-after-colorectal",
+      "evidence": [
+        "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-locally-applied-treatment-reduce-surgical-site-infections-after-colorectal",
+        "https://www.fda.gov/drugs/news-events-human-drugs/notable-approvals-drugs",
+        "https://www.sec.gov/Archives/edgar/data/1611842/000121390026123719/ea031349501ex99-1.htm"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "这是FDA批准的首款用于该场景的局部用药，商业合作方Azurity预计2027年初在美上市，届时还需观察医院采购和新增技术附加支付。",
+          "support": "to reduce the occurrence of surgical site infections (SSIs)"
+        },
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "这是FDA批准的首款用于该场景的局部用药，商业合作方Azurity预计2027年初在美上市，届时还需观察医院采购和新增技术附加支付。",
+          "support": "to reduce the occurrence of surgical site infections (SSIs)"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-us-leash-financing",
+      "lane": "medical",
+      "region": "美国",
+      "kind": "industry",
+      "stage": "announced",
+      "topic": "business",
+      "event_date": "2026-11-24",
+      "published_at": "2026-11-24",
+      "source": "Leash Biosciences 通稿",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "Leash 宣布融资 1,100 万美元，扩充 AI 制药数据服务",
+      "original_title": "Leash Biosciences raises $11M to build training environments for scientific AI",
+      "summary": "AI制药数据基础设施公司Leash Biosciences宣布融资1100万美元，由Innovation Endeavors与Insight Partners联合领投。",
+      "why": "资金将用于扩大实验数据生产和AI评测服务，显示药物发现相关资本开始购买支撑模型训练的数据能力。",
+      "source_excerpt": "announced an $11 million financing round co-led by Innovation Endeavors and Insight Partners",
+      "url": "https://www.utahbusiness.com/press-releases/2026/11/24/leash-biosciences-raises-11-million-build-training-environments-scientific-ai/",
+      "evidence": [
+        "https://www.utahbusiness.com/press-releases/2026/11/24/leash-biosciences-raises-11-million-build-training-environments-scientific-ai/",
+        "https://www.innovationendeavors.com/insights/leash-bio"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "资金将用于扩大实验数据生产和AI评测服务，显示药物发现相关资本开始购买支撑模型训练的数据能力。",
+          "support": "announced an $11 million financing round co-led by Innovation Endeavors and Insight Partners"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 9,
+            "evidence": 9,
+            "relevance": 10,
+            "usefulness": 8
+          },
+          "reason": "资金将用于扩大实验数据生产和AI评测服务，显示药物发现相关资本开始购买支撑模型训练的数据能力。",
+          "support": "announced an $11 million financing round co-led by Innovation Endeavors and Insight Partners"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-cn-mab-vbp-filing",
+      "lane": "medical",
+      "region": "中国",
+      "kind": "policy",
+      "stage": "filing",
+      "topic": "policy",
+      "event_date": "2026-11-24",
+      "published_at": "2026-11-21",
+      "source": "全国单抗类制剂联盟采购办公室 / 国家医保局",
+      "source_tier": "T1",
+      "source_type": "官方机构",
+      "title": "全国单抗集采开启企业信息申报",
+      "original_title": "全国药品联盟集中带量采购（单克隆抗体类） 公告（第1号）",
+      "summary": "全国单抗类制剂联盟集采于11月24日开放企业信息申报，合资格的境内外上市许可持有人可于11月27日18时前填报。",
+      "why": "本轮申报将划定医疗机构按厂牌填报需求量的范围，企业之后还需看具体采购公告。",
+      "source_excerpt": "信息申报是医疗机构报量的前置环节",
+      "url": "https://www.nhsa.gov.cn/art/2026/11/21/art_185_23491.html",
+      "evidence": [
+        "https://www.nhsa.gov.cn/art/2026/11/21/art_185_23491.html"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 8,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "本轮申报将划定医疗机构按厂牌填报需求量的范围，企业之后还需看具体采购公告。",
+          "support": "信息申报是医疗机构报量的前置环节"
+        },
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 8,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "本轮申报将划定医疗机构按厂牌填报需求量的范围，企业之后还需看具体采购公告。",
+          "support": "信息申报是医疗机构报量的前置环节"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-cn-henan-hospital-ai-award",
+      "lane": "medical",
+      "region": "中国·河南",
+      "kind": "policy",
+      "stage": "award",
+      "topic": "adoption",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "河南省公共资源交易中心",
+      "source_tier": "T1",
+      "source_type": "官方机构",
+      "title": "河南一医院公布 798 万元 AI 基础设施采购中标",
+      "original_title": "河南科技大学第一附属医院人工智能基础设施及医疗模型建设项目-中标公告",
+      "summary": "河南科技大学第一附属医院公告，河南智能医学科技有限公司以人民币798万元中标医院人工智能基础设施及医疗模型建设项目。",
+      "why": "项目明确采购系统开发、院内接口对接、运维和培训，可据后续合同及验收跟踪医院为AI部署实际采购了什么。",
+      "source_excerpt": "河南智能医学科技有限公司 河南省郑州市",
+      "url": "https://hnsggzyjy.henan.gov.cn/jyxx/002002/002002003/20261123/a416b836-ede1-40a1-b131-21a367ed05d7.html",
+      "evidence": [
+        "https://hnsggzyjy.henan.gov.cn/jyxx/002002/002002003/20261123/a416b836-ede1-40a1-b131-21a367ed05d7.html",
+        "https://pyshlq.zfcg.henan.gov.cn/henan/content?bz=1&channelCode=H600102&infoId=2048328"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "项目明确采购系统开发、院内接口对接、运维和培训，可据后续合同及验收跟踪医院为AI部署实际采购了什么。",
+          "support": "河南智能医学科技有限公司 河南省郑州市"
+        },
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 10,
+            "relevance": 10,
+            "usefulness": 9
+          },
+          "reason": "项目明确采购系统开发、院内接口对接、运维和培训，可据后续合同及验收跟踪医院为AI部署实际采购了什么。",
+          "support": "河南智能医学科技有限公司 河南省郑州市"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-us-iqvia-quotient",
+      "lane": "medical",
+      "region": "美国／英国",
+      "kind": "industry",
+      "stage": "closed",
+      "topic": "business",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "IQVIA",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "IQVIA 完成对英国药物开发服务商 Quotient 的收购",
+      "original_title": "IQVIA Announces Acquisition of Quotient Sciences",
+      "summary": "IQVIA宣布已从由Permira担任顾问的基金收购英国药物开发服务商Quotient Sciences，交易金额未披露。",
+      "why": "并购让IQVIA把制剂开发、小批量生产和早期临床服务合在同一家供应商，对药企外包选择有实际影响。",
+      "source_excerpt": "today announced it has acquired Quotient Sciences from funds advised by Permira",
+      "url": "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Announces-Acquisition-of-Quotient-Sciences/default.aspx",
+      "evidence": [
+        "https://ir.iqvia.com/press-releases/press-release-details/2026/IQVIA-Announces-Acquisition-of-Quotient-Sciences/default.aspx",
+        "https://www.permira.com/news-and-insights/announcements/permira-completes-sale-of-quotient-sciences-to-iqvia"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "并购让IQVIA把制剂开发、小批量生产和早期临床服务合在同一家供应商，对药企外包选择有实际影响。",
+          "support": "today announced it has acquired Quotient Sciences from funds advised by Permira"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "并购让IQVIA把制剂开发、小批量生产和早期临床服务合在同一家供应商，对药企外包选择有实际影响。",
+          "support": "today announced it has acquired Quotient Sciences from funds advised by Permira"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-cn-fapon-medilink-license",
+      "lane": "medical",
+      "region": "中国",
+      "kind": "industry",
+      "stage": "signed",
+      "topic": "research",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "Fapon Biopharma 公司通稿",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "菲鹏与宜联签署指定领域的全球研发许可",
+      "original_title": "Fapon Biopharma and MediLink Therapeutics Sign VHH Licensing Agreement, Accelerating Clinical Translation of TCE Platform",
+      "summary": "菲鹏生物制药与宜联生物宣布签署许可协议，宜联获得一款候选产品在指定领域的全球进一步开发权。",
+      "why": "这笔交易把菲鹏的一项研发成果交由国内另一家公司推进，菲鹏将收取首付款，并可按进展获得里程碑款。",
+      "source_excerpt": "Fapon Biopharma will receive an upfront payment and be eligible for further milestone payments",
+      "url": "https://www.prnewswire.com/news-releases/fapon-biopharma-and-medilink-therapeutics-sign-vhh-licensing-agreement-accelerating-clinical-translation-of-tce-platform-302947995.html",
+      "evidence": [
+        "https://www.prnewswire.com/news-releases/fapon-biopharma-and-medilink-therapeutics-sign-vhh-licensing-agreement-accelerating-clinical-translation-of-tce-platform-302947995.html"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "这笔交易把菲鹏的一项研发成果交由国内另一家公司推进，菲鹏将收取首付款，并可按进展获得里程碑款。",
+          "support": "Fapon Biopharma will receive an upfront payment and be eligible for further milestone payments"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 7,
+            "novelty": 8,
+            "evidence": 8,
+            "relevance": 9,
+            "usefulness": 7
+          },
+          "reason": "这笔交易把菲鹏的一项研发成果交由国内另一家公司推进，菲鹏将收取首付款，并可按进展获得里程碑款。",
+          "support": "Fapon Biopharma will receive an upfront payment and be eligible for further milestone payments"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-us-fda-welgemda",
+      "lane": "medical",
+      "region": "美国",
+      "kind": "product",
+      "stage": "fda_approved",
+      "topic": "approval",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "BridgeBio Pharma 公司通稿",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "FDA 批准针对 2I/R9 型肢带型肌营养不良的首款药物",
+      "original_title": "Welgemda™ (BBP-418, Ribitol) Receives Traditional Approval as the First and Only Treatment for Individuals Living with LGMD2I/R9",
+      "summary": "FDA于11月23日批准BridgeBio的Welgemda，用于治疗体重至少30公斤的2I/R9型肢带型肌营养不良成人及儿童。",
+      "why": "该亚型在美国首次有获批治疗，公司预计立即启动美国销售并提供保险与财务援助支持，供药和支付落地仍可追踪。",
+      "source_excerpt": "BridgeBio anticipates an immediate U.S. launch",
+      "url": "https://rss.globenewswire.com/news-release/2026/11/23/3408902/0/en/welgemda-bbp-418-ribitol-receives-traditional-approval-as-the-first-and-only-treatment-for-individuals-living-with-lgmd2i-r9.html",
+      "evidence": [
+        "https://rss.globenewswire.com/news-release/2026/11/23/3408902/0/en/welgemda-bbp-418-ribitol-receives-traditional-approval-as-the-first-and-only-treatment-for-individuals-living-with-lgmd2i-r9.html",
+        "https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "该亚型在美国首次有获批治疗，公司预计立即启动美国销售并提供保险与财务援助支持，供药和支付落地仍可追踪。",
+          "support": "BridgeBio anticipates an immediate U.S. launch"
+        },
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "该亚型在美国首次有获批治疗，公司预计立即启动美国销售并提供保险与财务援助支持，供药和支付落地仍可追踪。",
+          "support": "BridgeBio anticipates an immediate U.S. launch"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-us-cms-maha-elevate-awards",
+      "lane": "medical",
+      "region": "美国",
+      "kind": "policy",
+      "stage": "list_announced",
+      "topic": "policy",
+      "event_date": "2026-11-20",
+      "published_at": "2026-11-20",
+      "source": "CMS",
+      "source_tier": "T1",
+      "source_type": "官方机构",
+      "title": "美国 HHS 宣布为 15 项慢病防治试点提供 4,700 万美元",
+      "original_title": "HHS Announces $47 Million in MAHA ELEVATE Awards to 15 Organizations to Test Chronic Disease Prevention Approaches in Medicare",
+      "summary": "美国HHS通过CMS宣布向15家机构提供共4700万美元，试验面向Medicare受益人的慢病预防和管理服务。",
+      "why": "部分项目把居家血压监测接入临床预警，资助范围和机构名单可用于追踪此类服务如何进入支付试验。",
+      "source_excerpt": "announced $47 million in awards to 15 organizations",
+      "url": "https://www.cms.gov/newsroom/press-releases/hhs-announces-47-million-maha-elevate-awards-15-organizations-test-chronic-disease-prevention",
+      "evidence": [
+        "https://www.cms.gov/newsroom/press-releases/hhs-announces-47-million-maha-elevate-awards-15-organizations-test-chronic-disease-prevention",
+        "https://www.cms.gov/priorities/innovation/innovation-models/maha-elevate",
+        "https://www.cms.gov/priorities/innovation/files/maha-elevate-fs.pdf"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "部分项目把居家血压监测接入临床预警，资助范围和机构名单可用于追踪此类服务如何进入支付试验。",
+          "support": "announced $47 million in awards to 15 organizations"
+        },
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "部分项目把居家血压监测接入临床预警，资助范围和机构名单可用于追踪此类服务如何进入支付试验。",
+          "support": "announced $47 million in awards to 15 organizations"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-cn-innogen-arcera",
+      "lane": "medical",
+      "region": "中国／阿联酋",
+      "kind": "industry",
+      "stage": "signed",
+      "topic": "business",
+      "event_date": "2026-11-19",
+      "published_at": "2026-11-19",
+      "source": "银诺医药 港交所公告",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "银诺签约拓展 GLP-1 海外市场，首付款 1,500 万美元",
+      "original_title": "內幕消息 與 ARCERA LIFE SCIENCES LTD 訂立許可協議",
+      "summary": "银诺医药与Arcera签署初始期15年的独家许可，授权后者在非洲、拉美、中东和东欧部分市场推进其GLP-1药物注册和商业化，约定不可退还首付款1500万美元。",
+      "why": "交易将中国原研药的海外商业渠道扩展到这些地区，最高3800万美元的首付款及近期里程碑包含该首付，超过10亿美元的潜在总值取决于条件款及销售表现。",
+      "source_excerpt": "包括1,500萬美元的不可退還首付款",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900513_c.pdf",
+      "evidence": [
+        "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1119/2026111900513_c.pdf",
+        "https://innogenpharm.com/en/news/4567890?from=news",
+        "https://www.globenewswire.com/de/news-release/2026/11/19/3406360/0/en/arcera-life-sciences-and-innogen-pharmaceuticals-sign-exclusive-licensing-agreement-to-expand-access-to-cardiometabolic-care-across-international-markets.html"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "交易将中国原研药的海外商业渠道扩展到这些地区，最高3800万美元的首付款及近期里程碑包含该首付，超过10亿美元的潜在总值取决于条件款及销售表现。",
+          "support": "包括1,500萬美元的不可退還首付款"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "交易将中国原研药的海外商业渠道扩展到这些地区，最高3800万美元的首付款及近期里程碑包含该首付，超过10亿美元的潜在总值取决于条件款及销售表现。",
+          "support": "包括1,500萬美元的不可退還首付款"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-us-msd-isomorphic-research",
+      "lane": "medical",
+      "region": "美国／英国",
+      "kind": "industry",
+      "stage": "signed",
+      "topic": "research",
+      "event_date": "2026-11-19",
+      "published_at": "2026-11-19",
+      "source": "Merck",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "默沙东与 Isomorphic Labs 达成药物设计合作",
+      "original_title": "Merck and Isomorphic Labs Enter Strategic Research Collaboration",
+      "summary": "默沙东与Isomorphic Labs宣布围绕一个未公开的肿瘤靶点合作发现小分子候选药，Isomorphic将获得首付款，并可获得里程碑付款与分级销售版税。",
+      "why": "默沙东提供专有数据，并负责后续开发、生产和商业化，这份分工说明药企在合作中购买的是上游设计能力。",
+      "source_excerpt": "Isomorphic Labs will receive an upfront payment from Merck",
+      "url": "https://s2.q4cdn.com/584635680/files/doc_news/Merck-and-Isomorphic-Labs-Enter-Strategic-Research-Collaboration-2026.pdf",
+      "evidence": [
+        "https://s2.q4cdn.com/584635680/files/doc_news/Merck-and-Isomorphic-Labs-Enter-Strategic-Research-Collaboration-2026.pdf",
+        "https://www.isomorphiclabs.com/articles/isomorphic-labs-enters-into-a-research-collaboration-with-msd"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 10,
+            "usefulness": 9
+          },
+          "reason": "默沙东提供专有数据，并负责后续开发、生产和商业化，这份分工说明药企在合作中购买的是上游设计能力。",
+          "support": "Isomorphic Labs will receive an upfront payment from Merck"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 9,
+            "relevance": 10,
+            "usefulness": 9
+          },
+          "reason": "默沙东提供专有数据，并负责后续开发、生产和商业化，这份分工说明药企在合作中购买的是上游设计能力。",
+          "support": "Isomorphic Labs will receive an upfront payment from Merck"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-uk-boltz-series-a",
+      "lane": "medical",
+      "region": "英国／美国",
+      "kind": "industry",
+      "stage": "announced",
+      "topic": "business",
+      "event_date": "2026-11-18",
+      "published_at": "2026-11-18",
+      "source": "Bessemer Venture Partners",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "Bessemer 宣布领投 Boltz 1.1 亿美元 A 轮",
+      "original_title": "Boltz: building towards programmable molecular design",
+      "summary": "Bessemer Venture Partners宣布领投伦敦AI药物设计公司Boltz的1.1亿美元A轮。",
+      "why": "这轮投资将资源投向面向药物设计的工具和商业产品，为观察开源模型能否转化为企业付费提供线索。",
+      "source_excerpt": "we’re leading their $110M Series A",
+      "url": "https://www.bvp.com/news/boltz-building-towards-programmable-molecular-design",
+      "evidence": [
+        "https://www.bvp.com/news/boltz-building-towards-programmable-molecular-design"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "这轮投资将资源投向面向药物设计的工具和商业产品，为观察开源模型能否转化为企业付费提供线索。",
+          "support": "we’re leading their $110M Series A"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 9,
+            "relevance": 10,
+            "usefulness": 8
+          },
+          "reason": "这轮投资将资源投向面向药物设计的工具和商业产品，为观察开源模型能否转化为企业付费提供线索。",
+          "support": "we’re leading their $110M Series A"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-uk-isomorphic-series-c",
+      "lane": "medical",
+      "region": "英国／美国",
+      "kind": "industry",
+      "stage": "closed",
+      "topic": "business",
+      "event_date": "2026-11-17",
+      "published_at": "2026-11-17",
+      "source": "Isomorphic Labs",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "Isomorphic Labs 宣布筹得 50 亿美元 C 轮",
+      "original_title": "Isomorphic Labs announces Series C investment round",
+      "summary": "Isomorphic Labs宣布已筹得50亿美元C轮，由Greenoaks和红杉资本联合领投，Alphabet继续参与投资。",
+      "why": "公司称将用资金扩充药物设计平台、推进自有项目并拓展药企合作，重点观察投入能否形成付费合同和临床推进。",
+      "source_excerpt": "Isomorphic Labs announces it has raised $5 Billion in Series C funding.",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+      "evidence": [
+        "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+        "https://storage.googleapis.com/isomorphiclabs-website-public-artifacts/ISOMORPHIC_LABS_FUNDING_17-11-26.pdf"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 10,
+            "novelty": 10,
+            "evidence": 9,
+            "relevance": 10,
+            "usefulness": 8
+          },
+          "reason": "公司称将用资金扩充药物设计平台、推进自有项目并拓展药企合作，重点观察投入能否形成付费合同和临床推进。",
+          "support": "Isomorphic Labs announces it has raised $5 Billion in Series C funding."
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 10,
+            "novelty": 10,
+            "evidence": 9,
+            "relevance": 10,
+            "usefulness": 8
+          },
+          "reason": "公司称将用资金扩充药物设计平台、推进自有项目并拓展药企合作，重点观察投入能否形成付费合同和临床推进。",
+          "support": "Isomorphic Labs announces it has raised $5 Billion in Series C funding."
+        }
+      ]
+    },
+    {
+      "id": "lilly-loqus23-2026-11-23",
+      "lane": "medical",
+      "region": "美国／英国",
+      "kind": "industry",
+      "stage": "closed",
+      "topic": "business",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "LoQus23",
+      "source_tier": "T2",
+      "source_type": "企业披露",
+      "title": "礼来完成收购 LoQus23，现金对价上限 7.25 亿美元",
+      "original_title": "LoQus23 Therapeutics Acquired by Lilly to Accelerate Development of Novel Small Molecule Therapy for Huntington’s Disease",
+      "summary": "英国LoQus23 11月23日宣布已被礼来收购，现金对价最高7.25亿美元，包含进度挂钩款项，首付款未单列。",
+      "why": "交易显示礼来为亨廷顿病领域的早期研发资产投入资金，实际总支付取决于约定的里程碑。",
+      "source_excerpt": "acquired by Eli Lilly and Company",
+      "url": "https://rss.globenewswire.com/news-release/2026/11/23/3408071/0/en/loqus23-therapeutics-acquired-by-lilly-to-accelerate-development-of-novel-small-molecule-therapy-for-huntington-s-disease.html",
+      "evidence": [
+        "https://rss.globenewswire.com/news-release/2026/11/23/3408071/0/en/loqus23-therapeutics-acquired-by-lilly-to-accelerate-development-of-novel-small-molecule-therapy-for-huntington-s-disease.html",
+        "https://www.ropesgray.com/en/news-and-events/news/2026/11/ropes-gray-represents-eli-lilly-in-acquisition-of-loqus23-therapeutics"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 8
+          },
+          "reason": "交易显示礼来为亨廷顿病领域的早期研发资产投入资金，实际总支付取决于约定的里程碑。",
+          "support": "acquired by Eli Lilly and Company"
+        },
+        {
+          "kind": "industry",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 9,
+            "relevance": 9,
+            "usefulness": 7
+          },
+          "reason": "交易显示礼来为亨廷顿病领域的早期研发资产投入资金，实际总支付取决于约定的里程碑。",
+          "support": "acquired by Eli Lilly and Company"
+        }
+      ]
+    },
+    {
+      "id": "jilin-huiminbao-framework-2026-11-25",
+      "lane": "medical",
+      "region": "中国·吉林",
+      "kind": "policy",
+      "stage": "announced",
+      "topic": "policy",
+      "event_date": "2026-11-18",
+      "published_at": "2026-11-25",
+      "source": "吉林省医疗保障局",
+      "source_tier": "T1",
+      "source_type": "官方机构",
+      "title": "吉林公布省级惠民保规范，明确职工医保个人账户缴费路径",
+      "original_title": "关于规范发展全省惠民型商业医疗保险的通知",
+      "summary": "吉林医保和金融监管部门11月25日公开惠民保规范，明确统一产品框架、组建共保体，并允许符合条件的职工使用医保个人账户为本人及近亲属缴费。",
+      "why": "文件给省内居民及承保机构明确了参保和付费渠道，具体费率、参保窗口和同步结算安排仍待公布。",
+      "source_excerpt": "我省职工基本医疗保险参保人员可以使用医保个人账户",
+      "url": "https://ybj.jl.gov.cn/zcfg/sjzc/202611/t20261125_9750434.html",
+      "evidence": [
+        "https://ybj.jl.gov.cn/zcfg/sjzc/202611/t20261125_9750434.html"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "文件给省内居民及承保机构明确了参保和付费渠道，具体费率、参保窗口和同步结算安排仍待公布。",
+          "support": "我省职工基本医疗保险参保人员可以使用医保个人账户"
+        },
+        {
+          "kind": "policy",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 8,
+            "novelty": 8,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "文件给省内居民及承保机构明确了参保和付费渠道，具体费率、参保窗口和同步结算安排仍待公布。",
+          "support": "我省职工基本医疗保险参保人员可以使用医保个人账户"
+        }
+      ]
+    },
+    {
+      "id": "wilserdly-adjuvant-fda-2026-11-23",
+      "lane": "medical",
+      "region": "美国",
+      "kind": "product",
+      "stage": "fda_approved",
+      "topic": "approval",
+      "event_date": "2026-11-23",
+      "published_at": "2026-11-23",
+      "source": "美国 FDA",
+      "source_tier": "T1",
+      "source_type": "官方机构",
+      "title": "FDA 扩大 Wilserdly 准入，新增特定早期乳癌术后治疗",
+      "original_title": "FDA Approves First New Hormone Therapy for Early-Stage Breast Cancer in More Than 20 Years",
+      "summary": "美国FDA于11月23日批准Wilserdly用于符合条件的早期乳腺癌成人术后单药辅助治疗。",
+      "why": "新批用途把这款药扩展到另一类患者，此前批准的晚期联用方案有独立适用范围。",
+      "source_excerpt": "approved Wilserdly (giredestrant), used alone after surgery in adults",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
+      "evidence": [
+        "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
+        "https://www.gene.com/media/press-releases/15145/2026-11-23/fda-approves-genentechs-wilserdly-girede"
+      ],
+      "verification": "passed",
+      "reviews": [
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "新批用途把这款药扩展到另一类患者，此前批准的晚期联用方案有独立适用范围。",
+          "support": "approved Wilserdly (giredestrant), used alone after surgery in adults"
+        },
+        {
+          "kind": "product",
+          "audiences": [
+            "industry"
+          ],
+          "axes": {
+            "significance": 9,
+            "novelty": 9,
+            "evidence": 10,
+            "relevance": 9,
+            "usefulness": 9
+          },
+          "reason": "新批用途把这款药扩展到另一类患者，此前批准的晚期联用方案有独立适用范围。",
+          "support": "approved Wilserdly (giredestrant), used alone after surgery in adults"
+        }
+      ]
+    }
+  ]
+}

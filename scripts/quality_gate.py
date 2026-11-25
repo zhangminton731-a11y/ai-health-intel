@@ -59,7 +59,13 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
         as_of=date.fromisoformat(health['as_of'])
         industry=industry_edition.load(as_of, health['generated_at'])
         if industry is not None:
-            items=industry_edition.overlay(items, industry[health['as_of']][1])
+            if industry_edition.NEWSROOM.is_dir():
+                curated = industry_edition.newsroom_rows(industry, as_of)
+                items = industry_edition.overlay(items, industry_edition.active_news(curated, as_of))
+                if payload.get('newsroom') != {'days': industry_edition.NEWS_DAYS, 'topics': industry_edition.TOPICS}:
+                    problems.append('新闻栏目的题材配置异常')
+            else:
+                items=industry_edition.overlay(items, industry[health['as_of']][1])
         feeds={name:json.loads((output/f'site/api/v1/{name}.json').read_text(encoding='utf-8')) for name in ('items','health','briefing')}
         if feeds['health'].get('coverage',{}) != payload.get('coverage',{}): problems.append('内容覆盖诊断与页面不一致')
         if payload.get('generatedAt')!=health['generated_at'] or payload.get('asOf')!=health['as_of']:
@@ -121,11 +127,19 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
                     payload.get('publishedIssues') != published or feeds['briefing'].get('published_editions') != published):
                 problems.append('产业日报、期号或归档与核验稿不一致')
             for iid, item in current.items():
+                if 'reader_event' not in by_id.get(iid, {}):
+                    problems.append('产业动态包含未经复核的记录')
+                    continue
                 event = by_id[iid]['reader_event']
                 expected_event = {key: event[key] for key in ('id', 'lane', 'region', 'event_date', 'stage', 'why')}
+                if 'topic' in event:
+                    expected_event['topic'] = event['topic']
                 expected_event['stage_label'] = industry_edition.STAGES[event['kind']][event['stage']]
-                if item.get('readerEvent') != expected_event or item.get('s') != event['summary']:
+                if (item.get('readerEvent') != expected_event or item.get('s') != event['summary'] or
+                        item.get('date') != event['published_at'] or item.get('t') != event['title']):
                     problems.append('产业事件、阶段或摘要与核验稿不一致')
+            if payload.get('newsroom') and any(iid not in edition['item_ids'] for date_group in editions for iid in date_group['item_ids']):
+                problems.append('栏目补录动态进入日报日期目录')
             for day, (_, rows) in industry.items():
                 report = (output / 'site/reports' / day / 'index.html').read_text(encoding='utf-8')
                 if (f'奇点日报 · {day}' not in report or

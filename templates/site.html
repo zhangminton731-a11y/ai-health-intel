@@ -102,6 +102,30 @@
 .reader-card{padding:16px 18px;margin-bottom:10px;border:1px solid var(--line);border-radius:9px;background:var(--paper)}
 .reader-card h3{margin:7px 0;font-size:17px;line-height:1.55}.reader-card p{margin:6px 0;line-height:1.65;font-size:14px}
 .reader-card .text-link{min-height:32px}
+.newsroom-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,300px);gap:28px;align-items:start}
+.newsroom-layout .reader-timeline{grid-column:1;grid-row:1;min-width:0}
+.newsroom-layout .newsroom-hot{grid-column:2;grid-row:1;position:sticky;top:24px;min-width:0;padding:18px}
+.newsroom-hot header{display:flex;align-items:baseline;justify-content:space-between;gap:10px;margin-bottom:8px}
+.newsroom-hot h2{font-size:17px}.newsroom-hot .text-link{font-size:12px;min-height:34px}
+.newsroom-hot ol{list-style:none;margin:0;padding:0}
+.newsroom-hot li+li{border-top:1px solid var(--line)}
+.newsroom-hot li a{display:grid;grid-template-columns:18px minmax(0,1fr) 26px;gap:9px;padding:10px 0;align-items:baseline;font-size:13px;line-height:1.55;overflow-wrap:anywhere}
+.newsroom-hot li .rank,.reader-score{font-variant-numeric:tabular-nums;color:var(--green);font-weight:750}
+.reader-timeline .news-card{padding:18px 0;border:0;border-bottom:1px solid var(--line);background:transparent;margin:0;border-radius:0}
+.news-card .reader-meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.news-card .reader-stage{color:var(--green);font-weight:650}
+.news-card .reader-score{margin-left:auto;font-size:12px}
+.news-card h3{font-size:20px;line-height:1.45;margin:8px 0;overflow-wrap:anywhere}
+.news-card h3 a:hover{color:var(--green)}
+.news-card .reader-why{font-size:13px;color:var(--muted)}
+.news-card footer{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:2px 10px;margin-top:5px;font-size:13px}
+.news-card footer a,.news-evidence a{min-height:34px;display:inline-flex;align-items:center}
+.newsroom-layout .reader-day h2,.newsroom-timeline .reader-day h2{display:flex;justify-content:space-between;align-items:baseline;gap:12px;font-size:16px;border-bottom:1px solid var(--line);padding:0 0 10px}
+.news-day-count{font-size:12px;color:var(--muted);font-weight:500}
+.newsroom-window{font-size:13px;color:var(--muted);margin:0 0 14px}
+.news-evidence{margin-top:16px}.news-evidence ul{padding-left:20px}
+@media(max-width:1000px){.newsroom-layout{grid-template-columns:1fr}.newsroom-layout .reader-timeline{grid-row:2}.newsroom-layout .newsroom-hot{grid-column:1;position:static}.newsroom-hot li:nth-child(n+4){display:none}}
+@media(max-width:700px){.newsroom-layout{gap:18px}.news-card h3{font-size:18px}.newsroom-hot li a{padding:7px 0}}
 .reader-meta{display:flex;flex-wrap:wrap;gap:5px 12px;font-size:12px;color:var(--muted)}
 .reader-meta span:first-child,.reader-why strong,#selectedHighlights li span{color:var(--green)}
 #selectedHighlights a{font-weight:650}#selectedHighlights li span{margin-right:.5em;font-size:12px}
@@ -143,8 +167,11 @@
 <section id="v-selected" class="view selection-page">
 <header class="reader-heading"><h1>精选</h1><a class="text-link" href="#daily">读本期日报 →</a></header>
 <div class="reader-tools"><nav id="selectedLanes" class="category-tabs" aria-label="精选栏目"></nav><a class="button secondary" href="#feed">搜索资讯</a></div>
+<div id="selectedWindow" class="newsroom-window" hidden></div>
+<div id="selectedLayout">
 <div id="selectedHeadlinePanel" class="panel highlights"><h2>今日看点</h2><ol id="selectedHighlights"></ol></div>
 <div id="selectedRows" class="reader-timeline"></div>
+</div>
 </section>
 <section id="v-consumer" class="view selection-page">
 <header class="reader-heading"><h1>消费健康科技</h1></header>
@@ -281,6 +308,24 @@ function readerLabel(i){
  if(kind==='research')return '研发进展';
  return '产业大事';
 }
+function newsTopic(i){
+ const lane=readerLane(i),kind=i.editorial?.reviews?.[0]?.kind;
+ if(i.readerEvent?.topic)return i.readerEvent.topic;
+ if(lane==='medical')return kind==='policy'?'policy':kind==='product'?'approval':kind==='opinion'?'opinion':'business';
+ const subject=[i.t,i.te,i.s].join(' ');
+ if(readerPatterns.sleep.test(subject))return 'sleep';
+ if(readerPatterns.home.test(subject)||/血糖|血压|监测系统/.test(subject))return 'home';
+ return kind==='industry'?'business':'wearables';
+}
+function newsCard(i){
+ const lane=readerLane(i),topic=D.newsroom.topics[lane][newsTopic(i)],event=i.readerEvent;
+ const url=safeUrl(i.u),more=(i.provenance?.evidence_urls||[]).filter(u=>u!==i.u&&safeUrl(u)!=='#');
+ return `<article class="reader-card news-card" data-event="${esc(event.id)}">
+ <div class="reader-meta"><span>${esc(topic)}</span><span class="reader-stage">${esc(event.stage_label)}</span><span>${esc(i.src)}</span><time datetime="${esc(i.date)}">${esc(i.date)}</time><span class="reader-score">阅读价值 ${score(i)}</span></div>
+ <h3><a href="${esc(articleHref(i))}">${esc(i.t||i.te)}</a></h3><p>${esc(i.s||i.se)}</p>
+ <p class="reader-why"><strong>为什么看</strong> ${esc(event.why)}</p>
+ <footer><a class="text-link" href="${esc(url)}" target="_blank" rel="noopener noreferrer">原文 ↗</a>${more.length?`<a class="text-link" href="${esc(articleHref(i))}">核验资料 →</a>`:''}</footer></article>`;
+}
 function readerCard(i,showReason){
  const label=i.readerEvent?.stage_label||readerLabel(i),reason=i.reasons?.[articleAudience(i)]||i.editorial?.reason;
  const url=safeUrl(i.u);
@@ -288,11 +333,11 @@ function readerCard(i,showReason){
 }
 function readerTimeline(rows,showReason){
  const groups=new Map();
- [...rows].sort((a,b)=>b.date.localeCompare(a.date)).forEach(i=>{
+ [...rows].sort((a,b)=>b.date.localeCompare(a.date)||(b.rel||0)-(a.rel||0)).forEach(i=>{
   if(!groups.has(i.date))groups.set(i.date,[]);
   groups.get(i.date).push(i);
  });
- return [...groups].map(([day,items])=>`<section class="reader-day"><h2>${day===today?'今天 · ':''}${esc(day)}</h2>${items.map(i=>readerCard(i,showReason)).join('')}</section>`).join('')||'<p class="empty">这个范围暂无已收录的动态。</p>';
+ return [...groups].map(([day,items])=>`<section class="reader-day"><h2><span>${day===today?'今天 · ':''}${esc(day)}</span>${D.newsroom?`<span class="news-day-count">${items.length} 条</span>`:''}</h2>${items.map(i=>D.newsroom&&i.readerEvent?newsCard(i):readerCard(i,showReason)).join('')}</section>`).join('')||'<p class="empty">这个范围暂无已核验动态。</p>';
 }
 function renderSelected(requested){
  const lane=Object.hasOwn(readerLaneLabels,requested)?requested:'all';
@@ -300,6 +345,17 @@ function renderSelected(requested){
  const publication=D.publicationIssue?.kind==='industry_edition'||D.publicationIssue?.date===today?D.publicationIssue:null;
  const issue=publication||currentEditions[0];
  const inLane=i=>lane==='all'||readerLane(i)===lane;
+ if(D.newsroom){
+  const rows=current.filter(inLane),ranked=hot.filter(inLane).slice(0,5);
+  $('#selectedWindow').hidden=false;
+  $('#selectedWindow').textContent=rows.length+` 条已核验动态 · 原文发布于 ${D.newsroom.days} 天内`;
+  $('#selectedLayout').classList.toggle('newsroom-layout',ranked.length>0);
+  $('#selectedHeadlinePanel').className='panel newsroom-hot';
+  $('#selectedHeadlinePanel').hidden=!ranked.length;
+  $('#selectedHeadlinePanel').innerHTML=`<header><h2>当前热点</h2><a class="text-link" href="#hot">完整榜单 →</a></header><ol id="selectedHighlights">${ranked.map((i,n)=>`<li><a href="${esc(articleHref(i))}"><span class="rank">${n+1}</span><span>${esc(i.t||i.te)}</span><span class="rank" aria-label="阅读价值 ${score(i)}">${score(i)}</span></a></li>`).join('')}</ol>`;
+  $('#selectedRows').innerHTML=readerTimeline(rows,true);
+  return;
+ }
  const headlines=(issue?.item_ids||[]).map(id=>byId[id]).filter(i=>i&&inLane(i)).slice(0,5);
  $('#selectedHeadlinePanel').hidden=!headlines.length;
  $('#selectedHeadlinePanel h2').textContent=issue?.date===today?'今日看点':(issue?.date||'')+' 看点';
@@ -307,18 +363,20 @@ function renderSelected(requested){
  $('#selectedRows').innerHTML=readerTimeline(current.filter(inLane),true);
 }
 function renderReaderLane(lane,requested){
- const filters=readerLaneFilters[lane],key=Object.hasOwn(filters,requested)?requested:'all';
+ const filters=D.newsroom?{all:'全部',...D.newsroom.topics[lane]}:readerLaneFilters[lane],key=Object.hasOwn(filters,requested)?requested:'all';
  const wanted=$('#'+lane+'Search').value.trim().toLowerCase();
  $('#'+lane+'Filters').innerHTML=Object.entries(filters).map(([code,label])=>`<a href="#${lane}?kind=${code}" ${code===key?'aria-current="page"':''}>${label}</a>`).join('');
  const inFilter=i=>{
   if(key==='all')return true;
+  if(D.newsroom&&i.readerEvent)return newsTopic(i)===key;
   if(key==='research')return i.editorial?.reviews?.[0]?.kind==='research'||i.categories?.research?.includes('papers');
   if(key==='opinion')return readerLabel(i)==='行业观点';
   return readerPatterns[key].test([i.t,i.te,i.src].join(' '));
  };
  const pool=D.publishedIssues?current:[...new Map(history.concat(current).map(i=>[i.id,i])).values()];
  const rows=pool.filter(i=>readerLane(i)===lane&&inFilter(i)&&(!wanted||searchText.get(i.id)?.includes(wanted)));
- $('#'+lane+'Status').textContent=rows.length?rows.length+' 条动态':'';
+ $('#'+lane+'Status').textContent=D.newsroom?rows.length+` 条已核验动态 · 原文发布于 ${D.newsroom.days} 天内`:rows.length?rows.length+' 条动态':'';
+ $('#'+lane+'Rows').classList.toggle('newsroom-timeline',!!D.newsroom);
  $('#'+lane+'Rows').innerHTML=readerTimeline(rows.filter(i=>!i.historical||i.editorial?.selected),!!D.publishedIssues);
 }
 for(const lane of Object.keys(readerLaneLabels)){
@@ -357,8 +415,11 @@ function renderArticle(params){
  const month=params.get('month');if(month&&archiveMonths.some(m=>m.month===month)&&!monthlyData.has(month)){awaitArchive(month,$('#articleReader'),()=>renderArticle(params));return;}
  const id=params.get('id'),i=month?monthlyData.get(month)?.items.find(i=>i.id===id):(Object.hasOwn(archiveById,id)?archiveById[id]:null);
  if(!i){$('#articleReader').innerHTML='<a class="text-link" href="#jingxuan">← 返回医学科研</a><h1>这篇内容暂不可用</h1><p class="muted">请返回信息流查看当前收录的内容。</p>';return;}
- const audience=articleAudience(i,params.get('section')),home=audience==='research'?'jingxuan':'industry',reason=i.reasons?.[audience],url=safeUrl(i.u);
- $('#articleReader').innerHTML=`<a class="text-link" href="#${home}${month?'?month='+encodeURIComponent(month):''}">← 返回${audience==='research'?'医学科研':'产业前沿'}</a><h1>${esc(i.t||i.te)}</h1><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time></div>${reason?`<section class="reader-reason"><h2>推荐理由</h2><p>${esc(reason)}</p></section>`:''}<section class="reader-summary"><h2>内容摘要</h2><p>${esc(i.s||i.se||'来源未提供摘要，请前往来源阅读。')}</p></section><div class="reader-source">${url!=='#'?`<a class="button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">前往来源阅读全文 ↗</a>`:'<p class="muted">原文链接暂不可用。</p>'}</div>`;
+ const audience=articleAudience(i,params.get('section')),event=i.readerEvent;
+ const home=event?.lane||(audience==='research'?'jingxuan':'industry'),reason=i.reasons?.[audience],url=safeUrl(i.u);
+ const evidence=(event?i.provenance?.evidence_urls||[]:[]).filter(u=>u!==i.u&&safeUrl(u)!=='#');
+ const details=event?`<span>${esc(event.region)}</span><span>${esc(event.stage_label)}</span><span>事件日期 ${esc(event.event_date)}</span>`:'';
+ $('#articleReader').innerHTML=`<a class="text-link" href="#${home}${month?'?month='+encodeURIComponent(month):''}">← 返回${readerLaneLabels[home]||(audience==='research'?'医学科研':'产业前沿')}</a><h1>${esc(i.t||i.te)}</h1><div class="meta"><span>${esc(i.src)}</span><span class="pill">${esc(i.sourceType)}</span><time>${esc(i.date)}</time>${details}</div>${reason?`<section class="reader-reason"><h2>推荐理由</h2><p>${esc(reason)}</p></section>`:''}<section class="reader-summary"><h2>内容摘要</h2><p>${esc(i.s||i.se||'来源未提供摘要，请前往来源阅读。')}</p></section><div class="reader-source">${url!=='#'?`<a class="button" href="${esc(url)}" target="_blank" rel="noopener noreferrer">前往来源阅读全文 ↗</a>`:'<p class="muted">原文链接暂不可用。</p>'}</div>${evidence.length?`<section class="news-evidence"><h2>核验资料</h2><ul>${evidence.map((u,n)=>`<li><a class="text-link" href="${esc(safeUrl(u))}" target="_blank" rel="noopener noreferrer">${esc(new URL(u).hostname)} · 资料 ${n+1} ↗</a></li>`).join('')}</ul></section>`:''}`;
  document.querySelectorAll(`.nav-link[href="#${home}"],.mobile-nav a[href="#${home}"]`).forEach(a=>a.setAttribute('aria-current','page'));
 }
 function score(i){return Number.isFinite(i.rel)?Math.round(Math.max(0,Math.min(98,i.rel))):'待评';}
