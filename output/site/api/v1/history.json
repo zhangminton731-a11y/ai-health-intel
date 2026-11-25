@@ -1,8 +1,146 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T18:53:31+00:00",
+  "generated_at": "2026-11-25T04:12:20+00:00",
   "as_of": "2026-11-25",
   "description": "近20天历史阅读，不属于当前推荐",
-  "items": [],
-  "editions": []
+  "items": [
+    {
+      "id": "pmid:43071962",
+      "t": "",
+      "te": "Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.",
+      "s": "",
+      "se": "The current less intensive guidelines for pulmonary nodule follow-up have not been compared with more intensive strategies. To determine whether less intensive follow-up of small pulmonary nodules is noninferior to more intensive follow-up. Unblinded, cluster randomized, pragmatic comparative effectiveness trial. (ClinicalTrials.gov: NCT02623712). 24 clusters of U.S. hospitals and health care systems. 34 686 patients with a new pulmonary nodule measuring 15 mm or less, detected incidentally or by screening. Follow-up protocols were modeled on current and prior recommendations from the Fleischner Society and the Lung CT Screening Reporting and Data System (Lung-RADS). Each cluster was randomly assigned to the less or more intensive follow-up protocol. The primary outcome was the proportion of lung cancers measuring more than 20 mm at diagnosis.",
+      "u": "https://doi.org/10.7326/annals-25-05646",
+      "image": "",
+      "src": "Annals of Internal Medicine · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "design",
+        "data",
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "annals_internal_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "annals_internal_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43071962",
+        "upstream_id": "43071962"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-24T18:55:12+00:00",
+        "input_hash": "d772b7f4fa5b08b534e9da935c1dc7c4a1ac6f6b9d351d7fa9f4198d143a7a41",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该大型集群随机实用性试验直接比较了小肺结节低强度与高强度随访策略，发现低强度组>20mm肺癌比例反而高7个百分点且超过非劣效界值，对现行指南提出警示；但依从性不佳、把握度有限和残余混杂限制了结论强度，非劣效未达统计学显著。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "f3c34923-c80c-48be-b58f-7b37c42cd186",
+              "seconds": 1.46,
+              "usage": {
+                "completion_tokens": 167,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 466,
+                "prompt_tokens": 1362,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1529
+              }
+            },
+            "support": "After adjustment, more lung cancers larger than 20 mm were identified with less intensive screening (7 percentage points [95% CI, -2.0 to 15.9 percentage points]), exceeding the noninferiority margin ",
+            "total": 74
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "a31bdc0f-ac68-47f0-a597-7ff0264c43eb",
+              "seconds": 1.6,
+              "usage": {
+                "completion_tokens": 171,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 210,
+                "prompt_tokens": 1362,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1533
+              }
+            },
+            "support": "After adjustment, more lung cancers larger than 20 mm were identified with less intensive screening (7 percentage points [95% CI, -2.0 to 15.9 percentage points]), exceeding the noninferiority margin ",
+            "total": 66
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "research": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。"
+      },
+      "historical": true
+    }
+  ],
+  "editions": [
+    {
+      "date": "2026-11-24",
+      "item_ids": [
+        "pmid:43071962"
+      ],
+      "minutes": 3
+    }
+  ]
 }

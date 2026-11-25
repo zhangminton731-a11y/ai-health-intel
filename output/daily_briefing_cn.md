@@ -20,13 +20,13 @@ STAT News · 2026-11-24
 https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss
 
 04 · 论文研究
+Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.
+Importance Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis. Objective To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. Design, setting, and participants This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure < 100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025. Interventions Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids;
+JAMA · 摘要索引 · 2026-11-24
+https://doi.org/10.1001/jama.2026.25627
+
+05 · 论文研究
 Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review
 Conclusions: In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined workflow and less often examined transparency and governance. The challenge is whether favorable attitudes and early deployment translate into calibrated, governed, and sustained routine use. An interpretive stage-specific model identifies assessment priorities across exposure and implementation contexts, but is not a validated causal or predictive model. Later-stage evaluations should retain measurement of Acceptance, trust calibration, governance, durability, and workflow outcomes. Trial Registration: OSF Registries osf.io/nmep8; https://osf.io/nmep8 Results: We included 309 primary empirical studies; 187 (60.5%) were published in 2025 or 2026.
 Journal of Medical Internet Research · 2026-11-24
 https://www.jmir.org/article/view/jmir_v28i1e101445
-
-05 · 论文研究
-Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.
-The current less intensive guidelines for pulmonary nodule follow-up have not been compared with more intensive strategies. To determine whether less intensive follow-up of small pulmonary nodules is noninferior to more intensive follow-up. Unblinded, cluster randomized, pragmatic comparative effectiveness trial. (ClinicalTrials.gov: NCT02623712). 24 clusters of U.S. hospitals and health care systems. 34 686 patients with a new pulmonary nodule measuring 15 mm or less, detected incidentally or by screening. Follow-up protocols were modeled on current and prior recommendations from the Fleischner Society and the Lung CT Screening Reporting and Data System (Lung-RADS). Each cluster was randomly assigned to the less or more intensive follow-up protocol. The primary outcome was the proportion of lung cancers measuring more than 20 mm at diagnosis.
-Annals of Internal Medicine · 摘要索引 · 2026-11-24
-https://doi.org/10.7326/annals-25-05646

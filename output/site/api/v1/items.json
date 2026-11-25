@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T18:53:31+00:00",
+  "generated_at": "2026-11-25T04:12:20+00:00",
   "as_of": "2026-11-25",
   "count": 18,
   "items": [
@@ -14,7 +14,7 @@
       "source_type": "专业媒体",
       "published_at": "2026-11-24",
       "topics": [],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
         "observed_in_sources": [
@@ -364,7 +364,7 @@
       "topics": [
         "business"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
         "observed_in_sources": [
@@ -485,7 +485,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-24T18:53:31+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9"
       },
@@ -719,7 +721,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-24T18:53:31+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
       },
@@ -807,125 +811,6 @@
             },
             "support": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg (approxima",
             "total": 73
-          }
-        ],
-        "score": 74,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:43072799",
-      "title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
-      "original_title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
-      "summary": "Acute behavioral disturbance is a high-risk emergency department presentation. There is limited evidence for the comparative effectiveness of intramuscular sedative medications in children and adolescents, which may be required when there is imminent risk of serious harm due to agitation. To determine whether olanzapine is more effective than droperidol intramuscularly in achieving behavioral containment. This investigator-initiated, open-label, multicenter, superiority, randomized clinical trial recruited children and adolescents aged 9 to 17 years presenting to 10 Australian emergency departments with acute behavioral disturbance clinically deemed to require intramuscular medication from November 8, 2021, to February 16, 2026. The last participant follow-up occurred on March 17, 2026. Data were analyzed from April 15 to 27, 2026.",
-      "url": "https://doi.org/10.1001/jama.2026.25561",
-      "source": "JAMA · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-11-23",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "jama_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "jama_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/43072799",
-        "upstream_id": "43072799"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "这项多中心、随机、优效性试验在小儿急诊急性行为紊乱人群中直接比较了两种常用肌注镇静药，结果Olanzapine未显示优于Droperidol，且两组有效率均仅约50%–60%，可为儿科急诊镇静的药物选择、样本量设计和终点定义提供直接依据；限制为开放标签、未设安慰剂、单次给药比较，外推需谨慎。"
-      },
-      "reading_value_score": 74,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-11-24T18:55:09+00:00",
-        "input_hash": "652d77d655502d35a5940ff809550da80c63cddf159a2f723ad946bbe59b8ae3",
-        "input_scope": "source_summary",
-        "policy_version": "79c20b05dbd582fa",
-        "reason": "这项多中心、随机、优效性试验在小儿急诊急性行为紊乱人群中直接比较了两种常用肌注镇静药，结果Olanzapine未显示优于Droperidol，且两组有效率均仅约50%–60%，可为儿科急诊镇静的药物选择、样本量设计和终点定义提供直接依据；限制为开放标签、未设安慰剂、单次给药比较，外推需谨慎。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这项多中心优效性随机试验直接比较了儿童青少年急性行为紊乱的两种常用肌注镇静药，结果显示奥氮平未优于氟哌利多，且两药成功率均有限，为急诊镇静选择和后续研究设计提供了明确的阴性证据；但开放标签设计及部分受试者未在30分钟内给药构成主要限制。",
-            "receipt": {
-              "model": "deepseek-flash",
-              "request_id": "806ac7d8-cc15-4aba-8bdb-f6ffc36e881f",
-              "seconds": 1.51,
-              "usage": {
-                "completion_tokens": 163,
-                "prompt_cache_hit_tokens": 896,
-                "prompt_cache_miss_tokens": 565,
-                "prompt_tokens": 1461,
-                "prompt_tokens_details": {
-                  "cached_tokens": 896
-                },
-                "total_tokens": 1624
-              }
-            },
-            "support": "In this randomized clinical trial in children and adolescents presenting to the emergency department with behavioral disturbance, intramuscular olanzapine did not result in a clinically meaningfully g",
-            "total": 77
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 8,
-              "significance": 7,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "这项多中心、随机、优效性试验在小儿急诊急性行为紊乱人群中直接比较了两种常用肌注镇静药，结果Olanzapine未显示优于Droperidol，且两组有效率均仅约50%–60%，可为儿科急诊镇静的药物选择、样本量设计和终点定义提供直接依据；限制为开放标签、未设安慰剂、单次给药比较，外推需谨慎。",
-            "receipt": {
-              "model": "deepseek-flash",
-              "request_id": "d6949761-d693-4819-a728-f5df7130cefd",
-              "seconds": 1.79,
-              "usage": {
-                "completion_tokens": 179,
-                "prompt_cache_hit_tokens": 1280,
-                "prompt_cache_miss_tokens": 181,
-                "prompt_tokens": 1461,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1280
-                },
-                "total_tokens": 1640
-              }
-            },
-            "support": "In this randomized clinical trial in children and adolescents presenting to the emergency department with behavioral disturbance, intramuscular olanzapine did not result in a clinically meaningfully g",
-            "total": 72
           }
         ],
         "score": 74,
@@ -1176,6 +1061,243 @@
       }
     },
     {
+      "id": "pmid:43072799",
+      "title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
+      "original_title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
+      "summary": "Importance Acute behavioral disturbance is a high-risk emergency department presentation. There is limited evidence for the comparative effectiveness of intramuscular sedative medications in children and adolescents, which may be required when there is imminent risk of serious harm due to agitation. Objective To determine whether olanzapine is more effective than droperidol intramuscularly in achieving behavioral containment. Design, setting, and participants This investigator-initiated, open-label, multicenter, superiority, randomized clinical trial recruited children and adolescents aged 9 to 17 years presenting to 10 Australian emergency departments with acute behavioral disturbance clinically deemed to require intramuscular medication from November 8, 2021, to February 16, 2026. The last participant follow-up occurred on March 17, 2026. Data were analyzed from April 15 to 27, 2026.",
+      "url": "https://doi.org/10.1001/jama.2026.25561",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-11-23",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "updated",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43072799",
+        "upstream_id": "43072799"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "data",
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-25T04:14:03+00:00",
+        "input_hash": "837eb0ca201312e4d6e31091358b234ae2deb4acf82029b21a288860e498fb53",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是儿童青少年急诊急性行为紊乱领域少见的头对头多中心随机优效性试验，阴性结果直接否定了奥氮平优于氟哌利多的假设，为急诊镇静选药和后续研究设计提供了实证依据；局限在于采用开放标签设计、且约三分之一受试者未在30分钟内用药，可能影响干预效果的解读。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "835d41a0-0df9-422a-855e-ae7bdf996fbf",
+              "seconds": 1.95,
+              "usage": {
+                "completion_tokens": 199,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 569,
+                "prompt_tokens": 1465,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1664
+              }
+            },
+            "support": "Successful sedation without the requirement for additional sedatives occurred in 89 individuals (53%) in the olanzapine group and 104 individuals (62%) in the droperidol group. No evidence of superior",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "0f056085-05b4-418c-85ec-7c79d1b1fc41",
+              "seconds": 1.44,
+              "usage": {
+                "completion_tokens": 154,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 185,
+                "prompt_tokens": 1465,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1619
+              }
+            },
+            "support": "Successful sedation without the requirement for additional sedatives occurred in 89 individuals (53%) in the olanzapine group and 104 individuals (62%) in the droperidol group.",
+            "total": 71
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
+      "id": "pmid:43076168",
+      "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+      "original_title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
+      "summary": "Importance Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis. Objective To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. Design, setting, and participants This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure < 100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025. Interventions Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids;",
+      "url": "https://doi.org/10.1001/jama.2026.25627",
+      "source": "JAMA · 摘要索引",
+      "source_type": "期刊论文",
+      "published_at": "2026-11-24",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "event_type": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43076168",
+        "upstream_id": "43076168"
+      },
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "research_stages": [
+        "validation"
+      ],
+      "recommendation_reasons": {
+        "research": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。"
+      },
+      "reading_value_score": 72,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-25T04:14:03+00:00",
+        "input_hash": "29c5ecfb407fa56a25db393ca3921c81117d824dbf583221b9637d862dda4c52",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心安慰剂对照优效性试验在约2000例疑似脓毒症患者中显示，院前肌注头孢曲松未降低住院死亡率，且17项次要结局均无差异，为院前抗生素策略提供了高质量阴性证据。主要限制是仅覆盖加拿大安大略省四个急救服务、单一药物与给药途径，且疑似脓毒症定义含发热与低血压，外推需谨慎。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "b70ac566-d729-44e5-b113-ef8ec7a4cf5f",
+              "seconds": 1.65,
+              "usage": {
+                "completion_tokens": 172,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 606,
+                "prompt_tokens": 1502,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1674
+              }
+            },
+            "support": "Among patients with suspected sepsis on evaluation by paramedics, earlier treatment with antibiotics in the ambulance did not reduce mortality compared with usual care provided in the emergency depart",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "2c7f1233-09f5-4286-bd0b-200db1b00ac6",
+              "seconds": 2.25,
+              "usage": {
+                "completion_tokens": 192,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 222,
+                "prompt_tokens": 1502,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1694
+              }
+            },
+            "support": "Among patients with suspected sepsis on evaluation by paramedics, earlier treatment with antibiotics in the ambulance did not reduce mortality compared with usual care provided in the emergency depart",
+            "total": 71
+          }
+        ],
+        "score": 72,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      }
+    },
+    {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e101445",
       "title": "Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review",
       "original_title": "Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review",
@@ -1188,7 +1310,7 @@
         "hospital",
         "research"
       ],
-      "event_type": "new",
+      "event_type": "seen",
       "provenance": {
         "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7527450ccc2e539f133ff25348898b6b",
         "observed_in_sources": [
@@ -1551,7 +1673,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-24T18:53:31+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
       },
@@ -1997,126 +2121,6 @@
           }
         ],
         "score": 71,
-        "selected": true,
-        "source_tier": "T1",
-        "status": "scored",
-        "threshold": 70
-      }
-    },
-    {
-      "id": "pmid:43071962",
-      "title": "Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.",
-      "original_title": "Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.",
-      "summary": "The current less intensive guidelines for pulmonary nodule follow-up have not been compared with more intensive strategies. To determine whether less intensive follow-up of small pulmonary nodules is noninferior to more intensive follow-up. Unblinded, cluster randomized, pragmatic comparative effectiveness trial. (ClinicalTrials.gov: NCT02623712). 24 clusters of U.S. hospitals and health care systems. 34 686 patients with a new pulmonary nodule measuring 15 mm or less, detected incidentally or by screening. Follow-up protocols were modeled on current and prior recommendations from the Fleischner Society and the Lung CT Screening Reporting and Data System (Lung-RADS). Each cluster was randomly assigned to the less or more intensive follow-up protocol. The primary outcome was the proportion of lung cancers measuring more than 20 mm at diagnosis.",
-      "url": "https://doi.org/10.7326/annals-25-05646",
-      "source": "Annals of Internal Medicine · 摘要索引",
-      "source_type": "期刊论文",
-      "published_at": "2026-11-24",
-      "topics": [
-        "hospital",
-        "research"
-      ],
-      "event_type": "new",
-      "provenance": {
-        "observed_in_sources": [
-          "annals_internal_abstracts"
-        ],
-        "retrieved_via": "europe_pmc",
-        "source_id": "annals_internal_abstracts",
-        "summary_source": "https://europepmc.org/article/MED/43071962",
-        "upstream_id": "43071962"
-      },
-      "sections": [
-        "research"
-      ],
-      "categories": {
-        "research": [
-          "papers"
-        ]
-      },
-      "research_stages": [
-        "design",
-        "data",
-        "validation"
-      ],
-      "recommendation_reasons": {
-        "research": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。"
-      },
-      "reading_value_score": 70,
-      "editorial": {
-        "audiences": [
-          "research"
-        ],
-        "evaluated_at": "2026-11-24T18:55:12+00:00",
-        "input_hash": "d772b7f4fa5b08b534e9da935c1dc7c4a1ac6f6b9d351d7fa9f4198d143a7a41",
-        "input_scope": "source_summary",
-        "policy_version": "79c20b05dbd582fa",
-        "reason": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。",
-        "reviews": [
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 7,
-              "novelty": 7,
-              "relevance": 8,
-              "significance": 8,
-              "usefulness": 7
-            },
-            "kind": "research",
-            "reason": "该大型集群随机实用性试验直接比较了小肺结节低强度与高强度随访策略，发现低强度组>20mm肺癌比例反而高7个百分点且超过非劣效界值，对现行指南提出警示；但依从性不佳、把握度有限和残余混杂限制了结论强度，非劣效未达统计学显著。",
-            "receipt": {
-              "model": "deepseek-flash",
-              "request_id": "f3c34923-c80c-48be-b58f-7b37c42cd186",
-              "seconds": 1.46,
-              "usage": {
-                "completion_tokens": 167,
-                "prompt_cache_hit_tokens": 896,
-                "prompt_cache_miss_tokens": 466,
-                "prompt_tokens": 1362,
-                "prompt_tokens_details": {
-                  "cached_tokens": 896
-                },
-                "total_tokens": 1529
-              }
-            },
-            "support": "After adjustment, more lung cancers larger than 20 mm were identified with less intensive screening (7 percentage points [95% CI, -2.0 to 15.9 percentage points]), exceeding the noninferiority margin ",
-            "total": 74
-          },
-          {
-            "audiences": [
-              "research"
-            ],
-            "axes": {
-              "evidence": 6,
-              "novelty": 7,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
-            },
-            "kind": "research",
-            "reason": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。",
-            "receipt": {
-              "model": "deepseek-flash",
-              "request_id": "a31bdc0f-ac68-47f0-a597-7ff0264c43eb",
-              "seconds": 1.6,
-              "usage": {
-                "completion_tokens": 171,
-                "prompt_cache_hit_tokens": 1152,
-                "prompt_cache_miss_tokens": 210,
-                "prompt_tokens": 1362,
-                "prompt_tokens_details": {
-                  "cached_tokens": 1152
-                },
-                "total_tokens": 1533
-              }
-            },
-            "support": "After adjustment, more lung cancers larger than 20 mm were identified with less intensive screening (7 percentage points [95% CI, -2.0 to 15.9 percentage points]), exceeding the noninferiority margin ",
-            "total": 66
-          }
-        ],
-        "score": 70,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
