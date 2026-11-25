@@ -27,6 +27,7 @@ from publication import current_items as select_current, coverage
 from site_assets import extract_assets
 from monthly_archive import export_archives
 from sih_ref.editorial import VERSION
+import industry_edition
 
 OUTPUT = ROOT / "output"
 CACHE_PATH = OUTPUT / ".state" / "translations.json"
@@ -211,12 +212,13 @@ def reader_summary(value: str) -> str:
 def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
     out = []
     for it in items:
+        event = it.get('reader_event')
         title_en = it.get("title", "")
-        title_zh = (tr.zh(title_en) or "") if it.get("reading_tier") != "archive" else ""
+        title_zh = event['title'] if event else (tr.zh(title_en) or "") if it.get("reading_tier") != "archive" else ""
         original_summary = it.get('summary', '') or ''
         # Archived raw evidence remains in JSONL; it is not rendered by any current view.
         summary = reader_summary(original_summary) if it.get('reading_tier') != 'archive' else ''
-        summary_zh = (tr.zh(summary) or '') if it.get('reading_tier') != 'archive' else ''
+        summary_zh = event['summary'] if event else (tr.zh(summary) or '') if it.get('reading_tier') != 'archive' else ''
         # Correct known literal mistranslations only when the source has the term.
         for original, wrong, preferred in (
             ('Oura', '大浦', 'Oura'),
@@ -233,6 +235,8 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
             summary_zh = summary_zh.replace('法学硕士', '大语言模型')
         src_id = it.get("source_id", "")
         name, role, cat, trust = SOURCE_META.get(src_id, (src_id, "", "行业媒体", 1))
+        if event:
+            role = cat = event['source_type']
         out.append({
             "id": it.get("item_id", ""),
             "t": title_zh, "te": title_en,
@@ -263,6 +267,14 @@ def build_data(items: list[dict], tr: Translator, as_of: date) -> list[dict]:
                 item['stages'] = []
         item["reasons"] = ({audience: judgment['reason'] for audience in judgment.get('audiences', [])}
                            if judgment.get('status') == 'scored' else {})
+    for item, raw in zip(out, items):
+        event = raw.get('reader_event')
+        if event:
+            item['readerEvent'] = {key: event[key] for key in ('id', 'lane', 'region', 'event_date', 'stage', 'why')}
+            item['readerEvent']['stage_label'] = industry_edition.STAGES[event['kind']][event['stage']]
+            item['reasons'] = {'industry': event['why']}
+            item['categories'] = {'industry': [{'product': 'products', 'policy': 'regulation',
+                                               'industry': 'business'}.get(event['kind'], 'overview')]}
     return out
 
 
@@ -282,8 +294,14 @@ def build(*, as_of: date | None = None) -> None:
     tr = Translator()
     profile = json.loads((ROOT / "config" / "profile.json").read_text(encoding="utf-8"))
 
-    history_raw = update_history(OUTPUT / 'history_items.jsonl', items, profile, build_date)
     as_of = build_date.isoformat()
+    industry = industry_edition.load(build_date, health.get('generated_at'))
+    published = {}
+    if industry is not None:
+        published = {day: industry_edition.public_issue(*batch) for day, batch in industry.items()}
+    history_raw = update_history(OUTPUT / 'history_items.jsonl', items, profile, build_date)
+    if industry is not None:
+        items = industry_edition.overlay(items, industry[as_of][1])
     status = health.get("daily_status", "unknown")
     n_src = health.get("source_count", len(SOURCE_META))
     items = [dict(it) for it in items]
@@ -326,6 +344,12 @@ def build(*, as_of: date | None = None) -> None:
     daily_issues = build_issues(data, build_date)
     daily_ids = daily_issues[0]['item_ids'] if daily_issues else []
     briefing = issue_text(daily_issues[0] if daily_issues else None, by_id, as_of)
+    if industry is not None:
+        published_ids = {day: issue['item_ids'] for day, issue in published.items()}
+        previous_rows = {row['item_id']: row for day, (_, rows) in industry.items() if day != as_of for row in rows}
+        curated_history = build_data([row for key, row in previous_rows.items() if key not in current_ids], tr, build_date)
+        daily_ids = published_ids[as_of]
+        briefing = published[as_of]['text']
 
     site_data = {
         "editorialPolicyVersion": VERSION,
@@ -334,7 +358,8 @@ def build(*, as_of: date | None = None) -> None:
         "generatedAt": health.get("generated_at", ""),
         "coverage": coverage(items, build_date),
         "briefing": briefing, "dailyIssues": daily_issues, "dailyIds": daily_ids,
-        "publicationIssue": build_publication(data, build_date),
+        "publicationIssue": published[as_of] if published else build_publication(data, build_date),
+        **({"publishedIssues": list(published.values()), "publishedArchiveItems": curated_history} if published else {}),
         "historyItems": history_data, "historyIssues": history_issues, "policyTimeline": policy,
         "status": STATUS_CN.get(status, status), "statusRaw": status,
         "nSrc": n_src, "nItems": len(data), "nCurrent": len(current_items),
@@ -367,6 +392,10 @@ def build(*, as_of: date | None = None) -> None:
     reports = ROOT / "templates" / "reports"
     if reports.is_dir():
         shutil.copytree(reports, OUTPUT / "site" / "reports", dirs_exist_ok=True)
+    if industry is not None:
+        stylesheet = re.search(r'href="(assets/site\.[a-f0-9]+\.css)"', page)[1]
+        for edition, records in industry.values():
+            industry_edition.write_report(OUTPUT / 'site', edition, records, stylesheet)
     export_feeds(OUTPUT / "site", site_data, health, briefing, ROOT / "skills" / "sih-intel")
 
 

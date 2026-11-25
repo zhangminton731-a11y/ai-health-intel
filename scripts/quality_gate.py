@@ -5,6 +5,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from datetime import date, datetime, timezone, timedelta
+from html import escape
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -13,6 +14,7 @@ if hasattr(sys.stdout, 'reconfigure'):
 OUTPUT = Path(__file__).resolve().parents[1] / 'output'
 sys.path.insert(0, str(OUTPUT.parent / 'engine/src'))
 from sih_ref.editorial import VERSION, combine, material, validate_review
+import industry_edition
 # Historical archives retain the policy used when their receipts were issued.
 ARCHIVE_POLICY_VERSIONS = {VERSION, '26b6dbc3481e046c'}
 REQUIRED_FILES = ['daily_items.jsonl','source_health.json','daily_briefing.md','daily_briefing_cn.md','site/index.html',
@@ -54,6 +56,10 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
         match=re.search(r'<script id="payload" type="application/json">(.*?)</script>',html,re.S)
         if not match:problems.append('页面缺少情报数据');return problems
         payload=json.loads(match[1])
+        as_of=date.fromisoformat(health['as_of'])
+        industry=industry_edition.load(as_of, health['generated_at'])
+        if industry is not None:
+            items=industry_edition.overlay(items, industry[health['as_of']][1])
         feeds={name:json.loads((output/f'site/api/v1/{name}.json').read_text(encoding='utf-8')) for name in ('items','health','briefing')}
         if feeds['health'].get('coverage',{}) != payload.get('coverage',{}): problems.append('内容覆盖诊断与页面不一致')
         if payload.get('generatedAt')!=health['generated_at'] or payload.get('asOf')!=health['as_of']:
@@ -67,7 +73,6 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
         by_id={i['item_id']:i for i in items}
         expected={i['item_id'] for i in items if i.get('freshness_gate')=='fresh' and i.get('reading_tier')!='archive'}
         if set(current)!=expected:problems.append('网页推荐池与采集筛选结果不一致')
-        as_of=date.fromisoformat(health['as_of'])
         for iid,item in current.items():
             judgment = by_id[iid].get('editorial')
             if judgment is not None:
@@ -89,7 +94,8 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             page_item=current.get(item['id'],{})
             if (item.get('sections',[])!=page_item.get('sections',[]) or
                 item.get('categories',{})!=page_item.get('categories',{}) or
-                item.get('research_stages',[])!=page_item.get('stages',[])):
+                item.get('research_stages',[])!=page_item.get('stages',[]) or
+                item.get('reader_event')!=page_item.get('readerEvent')):
                 problems.append('API 与网页栏目分类不一致')
         if not set(payload['top']).issubset(current) or not set(i['id'] for i in payload['hot30']).issubset(current):
             problems.append('榜单包含不合格条目')
@@ -107,8 +113,28 @@ def validate(output: Path, now: datetime | None = None) -> list[str]:
             if any(iid not in current or not 0 <= (as_of-date.fromisoformat(current[iid]['date'])).days <= 2 for iid in ids):problems.append('出刊日报含过期或不合格内容')
             if publication.get('source_dates') != sorted({current[iid]['date'] for iid in ids if iid in current}):problems.append('出刊日报原文日期不一致')
         if feeds['briefing'].get('editions', []) != editions:problems.append('日报日期目录与接口不一致')
-        if 'dailyIssues' in payload and payload.get('dailyIds') != (editions[0]['item_ids'] if editions else []):problems.append('最新日报与目录不一致')
-        if feeds['briefing'].get('edition_date') != (editions[0]['date'] if editions else None):problems.append('日报日期与接口不一致')
+        if industry is not None:
+            published = [industry_edition.public_issue(*batch) for batch in industry.values()]
+            edition = next(issue for issue in published if issue['date'] == health['as_of'])
+            if (publication != edition or payload.get('dailyIds') != edition['item_ids'] or
+                    feeds['briefing'].get('edition_date') != edition['date'] or
+                    payload.get('publishedIssues') != published or feeds['briefing'].get('published_editions') != published):
+                problems.append('产业日报、期号或归档与核验稿不一致')
+            for iid, item in current.items():
+                event = by_id[iid]['reader_event']
+                expected_event = {key: event[key] for key in ('id', 'lane', 'region', 'event_date', 'stage', 'why')}
+                expected_event['stage_label'] = industry_edition.STAGES[event['kind']][event['stage']]
+                if item.get('readerEvent') != expected_event or item.get('s') != event['summary']:
+                    problems.append('产业事件、阶段或摘要与核验稿不一致')
+            for day, (_, rows) in industry.items():
+                report = (output / 'site/reports' / day / 'index.html').read_text(encoding='utf-8')
+                if (f'奇点日报 · {day}' not in report or
+                        any(escape(row['url']) not in report or escape(row['reader_event']['summary']) not in report or
+                            escape(row['reader_event']['why']) not in report for row in rows)):
+                    problems.append('日报正文与核验稿不一致')
+        else:
+            if 'dailyIssues' in payload and payload.get('dailyIds') != (editions[0]['item_ids'] if editions else []):problems.append('最新日报与目录不一致')
+            if feeds['briefing'].get('edition_date') != (editions[0]['date'] if editions else None):problems.append('日报日期与接口不一致')
         for edition in editions:
             ids = edition['item_ids']
             if not 1 <= len(ids) <= 5 or len(set(ids)) != len(ids):problems.append('日报条数或去重异常')
