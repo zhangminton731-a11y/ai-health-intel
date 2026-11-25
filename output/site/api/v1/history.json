@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T10:46:47+00:00",
+  "generated_at": "2026-11-25T14:23:15+00:00",
   "as_of": "2026-11-25",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
       "id": "url:https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
-      "t": "",
+      "t": "STAT+：Pharmalittle：我们正在阅读有关赛诺菲收购 Insmed、罗氏推销其乳腺癌药物等的信息",
       "te": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-      "s": "",
+      "s": "赛诺菲 (Sanofi) 以 410 亿美元收购生物技术公司 Insmed，这是多年来最大的生物制药收购，将为这家法国公司带来两种新的批准药物",
       "se": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
       "u": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
       "image": "https://www.statnews.com/wp-content/uploads/2015/11/PHARMALOT_LITTLE-copy-1024x576.jpg",
@@ -130,9 +130,9 @@
     },
     {
       "id": "url:https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-      "t": "",
+      "t": "STAT+：赛诺菲以 41B 美元收购 Insmed，获得两种肺病药物",
       "te": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-      "s": "",
+      "s": "赛诺菲 (Sanofi) 将以 410 亿美元收购美国生物技术公司 Insmed，这笔巨额交易将为这家法国制药公司带来两种新的批准药物。",
       "se": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines.",
       "u": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
       "image": "https://www.statnews.com/wp-content/uploads/2026/07/GettyImages-2281597952-1024x576.jpg",
@@ -252,9 +252,9 @@
     },
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03442-3",
-      "t": "",
+      "t": "基于AI的肿瘤委员会案例总结及建议面临的挑战",
       "te": "Challenges in AI based tumor board case summarization and recommendations",
-      "s": "",
+      "s": "肿瘤委员会在医院机构定期召开会议，召集癌症专家（例如肿瘤内科和病理学）来讨论患者护理。在这项工作中，我们正式将肿瘤委员会案例总结、选项生成和会议结果预测定义为人工智能任务。我们研究来自四个医疗机构的数据集，并使用专家人类评估来评估来自 DeepSeek、GPT、Gemini 和 Qwen 系列的最先进的大型语言模型 (LLM)。医学肿瘤学家跨任务创建了约 9600 个参考文本和 16000 个人类判断。各机构的临床医生对大语言模型生成的病例摘要的评分为 3.57-4.59（满分 5.0），但推荐的生成仍然更具挑战性，平均得分为 2.0-3.6。",
       "se": "Tumor boards, recurring meetings at hospital institutions, assemble cancer specialists (e.g., medical oncology and pathology) to discuss patient care. In this work, we formally define tumor board case summarization, options generation, and meeting outcome prediction as AI tasks. We study datasets from four medical institutions and evaluate state-of-the-art large language models (LLMs) from the DeepSeek, GPT, Gemini, and Qwen families using expert human assessment. Medical oncologists created ~9.6k reference texts and 16k human judgments across tasks. Clinicians rated LLM-generated case summaries 3.57–4.59 out of 5.0 across institutions, but recommendation generation remained more challenging, with average scores of 2.0–3.6.",
       "u": "https://www.nature.com/articles/s41746-026-03442-3",
       "image": "",
@@ -382,9 +382,9 @@
     },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e101445",
-      "t": "",
+      "t": "利益相关者对肿瘤学人工智能的接受、信任和实施：混合方法系统评价",
       "te": "Stakeholder Acceptance, Trust, and Implementation of AI in Oncology: Mixed Methods Systematic Review",
-      "s": "",
+      "s": "结论：在肿瘤学中，人工智能的证据概况似乎与预期的使用和实施有所不同。最常在部署前根据经验评估验收情况；后期研究更多地考察工作流程，而较少考察透明度和治理。挑战在于有利的态度和早期部署是否转化为校准、管理和持续的日常使用。特定于阶段的解释模型确定了暴露和实施环境中的评估优先级，但不是经过验证的因果模型或预测模型。后期评估应保留对接受度、信任校准、治理、耐久性和工作流程结果的衡量。试用注册：OSF 注册中心 osf.io/nmep8；  结果：我们纳入了 309 项主要实证研究； 187 篇 (60.5%) 于 2025 年或 2026 年发表。",
       "se": "Conclusions: In oncology, the AI evidence profile appears to differ from anticipated use to implementation. Acceptance was empirically assessed most often before deployment; later-stage studies more often examined workflow and less often examined transparency and governance. The challenge is whether favorable attitudes and early deployment translate into calibrated, governed, and sustained routine use. An interpretive stage-specific model identifies assessment priorities across exposure and implementation contexts, but is not a validated causal or predictive model. Later-stage evaluations should retain measurement of Acceptance, trust calibration, governance, durability, and workflow outcomes. Trial Registration: OSF Registries osf.io/nmep8; https://osf.io/nmep8 Results: We included 309 primary empirical studies; 187 (60.5%) were published in 2025 or 2026.",
       "u": "https://www.jmir.org/article/view/jmir_v28i1e101445",
       "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/7527450ccc2e539f133ff25348898b6b",
@@ -510,10 +510,264 @@
       "historical": true
     },
     {
-      "id": "pmid:43076168",
+      "id": "pmid:43078111",
       "t": "",
+      "te": "Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
+      "s": "Sexually transmitted infection (STI) diagnoses have increased in Britain since 2010, alongside major changes to sexual health policy, services, and disruptions owing to the COVID-19 pandemic.与此同时，人口层面的性活动有所减少，更多的人报告有同性性行为。 To understand implications for HIV and STI control, we examined the general population prevalence of three STIs, sexual behaviours associated with STIs, and uptake of sexual health services, including HIV and chlamydia testing. We conducted the fourth National Surveys of Sexual Attitudes and Lifestyles (Natsal-4) between Sept 20, 2022, and April 5, 2024. In this analysis, we used cross-sectional data from 5949 sexually experienced (who reported ever having sex) participants aged 16-59 years in Britain from the probability sample surveys.",
+      "se": "Sexually transmitted infection (STI) diagnoses have increased in Britain since 2010, alongside major changes to sexual health policy, services, and disruptions owing to the COVID-19 pandemic. Meanwhile, sexual activity has decreased at population level, and more people report same-sex behaviours. To understand implications for HIV and STI control, we examined the general population prevalence of three STIs, sexual behaviours associated with STIs, and uptake of sexual health services, including HIV and chlamydia testing. We conducted the fourth National Surveys of Sexual Attitudes and Lifestyles (Natsal-4) between Sept 20, 2022, and April 5, 2024. In this analysis, we used cross-sectional data from 5949 sexually experienced (who reported ever having sex) participants aged 16-59 years in Britain from the probability sample surveys.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01605-3",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "consumer",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43078111",
+        "upstream_id": "43078111"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 75,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-25T14:24:33+00:00",
+        "input_hash": "596105a4db6b016854a845233af068d6e7d5323c445ceb720bb20c4ef2c46623",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是英国代表性人群的重复横断面调查，提供了2010–2024年性病和性健康服务的使用变化，其中16–24岁女性衣原体检测从54.2%降至17.8%；对性健康服务设计和监测研究有直接参考价值。主要限制是采用横断面设计，存在自报行为和一次抽样框架的局限，只能反映关联而不能作因果推断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "Natsal-4提供2022-24年英国全国概率样本的性病生物样本患病率、风险行为与服务利用的跨期比较，揭示了年轻女性沙眼衣原体高患病率及衣原体检测大幅下降（16-24岁女性自54.2%降至17.8%），对性健康服务与HIV/STI防控决策有直接参考价值。限制在于横断面设计无法推断因果，且STI患病率基于部分样本生物检测、部分行为为自报。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "c81ee124-a200-401e-a413-df18a2c2e55a",
+              "seconds": 1.97,
+              "usage": {
+                "completion_tokens": 197,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 911,
+                "prompt_tokens": 1807,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 2004
+              }
+            },
+            "support": "Between Natsal-3 and Natsal-4, HIV testing increased in MSM, sexual health service use decreased in young men with only opposite-sex partners, and chlamydia testing markedly declined",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 7,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这是英国代表性人群的重复横断面调查，提供了2010–2024年性病和性健康服务的使用变化，其中16–24岁女性衣原体检测从54.2%降至17.8%；对性健康服务设计和监测研究有直接参考价值。主要限制是采用横断面设计，存在自报行为和一次抽样框架的局限，只能反映关联而不能作因果推断。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "513e3d67-e679-4129-8126-f699e26dc4fa",
+              "seconds": 1.86,
+              "usage": {
+                "completion_tokens": 172,
+                "prompt_cache_hit_tokens": 1664,
+                "prompt_cache_miss_tokens": 143,
+                "prompt_tokens": 1807,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1664
+                },
+                "total_tokens": 1979
+              }
+            },
+            "support": "Between Natsal-3 and Natsal-4, HIV testing increased in MSM, sexual health service use decreased in young men with only opposite-sex partners, and chlamydia testing markedly declined",
+            "total": 73
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "research": "这是英国代表性人群的重复横断面调查，提供了2010–2024年性病和性健康服务的使用变化，其中16–24岁女性衣原体检测从54.2%降至17.8%；对性健康服务设计和监测研究有直接参考价值。主要限制是采用横断面设计，存在自报行为和一次抽样框架的局限，只能反映关联而不能作因果推断。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43078110",
+      "t": "1999 年至 2024 年英国人乳头瘤病毒 (HPV) 感染、疫苗接种和宫颈筛查：来自全国性态度和生活方式重复横断面调查 (Natsal) 的结果。",
+      "te": "Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
+      "s": "人乳头瘤病毒 (HPV) 疫苗接种和宫颈筛查显着降低了宫颈癌的总体风险，但必须量化接种率的差异，以便为公平获取提供信息。本研究旨在提供人口层面的证据，证明自 2008 年引入疫苗接种计划 15 年后，HPV 疫苗接种对英格兰、苏格兰和威尔士（以下简称英国）的 HPV 16 和 18（以下简称 HPV-16/18）患病率以及宫颈癌预防干预措施（即疫苗接种和筛查）的采用产生影响。我们开展了全国性态度和生活方式调查 (Natsal)，该调查具有全国代表性，使用个人数据和生物样本 HPV 检测进行横断面人口调查。数据来自 Natsal-2（1999-2001 年；在疫苗接种计划推出之前，包括尿液生物样本）、Natsal-3（2010-12；",
+      "se": "Human papillomavirus (HPV) vaccination and cervical screening have substantially reduced overall cervical cancer risk, but differences in uptake must be quantified to inform equitable access. This study aimed to provide population-level evidence of the impact of HPV vaccination on HPV types 16 and 18 (hereafter HPV-16/18) prevalence in England, Scotland, and Wales (hereafter Britain), and uptake of cervical cancer prevention interventions (ie, vaccination and screening), 15 years after the introduction of the vaccination programme in 2008. We conducted the National Surveys of Sexual Attitudes and Lifestyles (Natsal), which are nationally representative, cross-sectional population surveys with individual-level data and HPV testing of biosamples. Data from Natsal-2 (1999-2001; before the vaccination programme was introduced, and included urine biosamples), Natsal-3 (2010-12;",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01554-0",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43078110",
+        "upstream_id": "43078110"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-25T14:24:34+00:00",
+        "input_hash": "de38d0fa123a5d0e3158c0506c9f1f1a952015bd037f3d2a5c47d7b703533724",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是基于Natsal连续横断面、含HPV生物样本检测的人群证据，可为评估疫苗接种对HPV-16/18流行率的影响及筛查、接种公平性缺口提供参考；但结论源于横断面比较，且部分亚组样本量有限，不宜外推为因果或临床获益证明。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 6
+            },
+            "kind": "research",
+            "reason": "这是基于Natsal连续横断面、含HPV生物样本检测的人群证据，可为评估疫苗接种对HPV-16/18流行率的影响及筛查、接种公平性缺口提供参考；但结论源于横断面比较，且部分亚组样本量有限，不宜外推为因果或临床获益证明。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "ff7308ff-fcf2-47fe-adf2-76c1a3e482b4",
+              "seconds": 1.45,
+              "usage": {
+                "completion_tokens": 157,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 808,
+                "prompt_tokens": 1704,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1861
+              }
+            },
+            "support": "HPV-16/18 prevalence was 86% lower (aPR 0·14, 95% CI 0·02-0·84) among those aged 18-29 years in Natsal-4",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于三轮全国代表性调查、含生物样本HPV检测的重复横断面研究，量化了HPV-16/18感染下降86%及未接种者承担全部感染，并揭示少数族裔、宗教群体和非英国出生人群接种与筛查不足；研究者可借鉴其年龄调整设计、分亚组公平性分析与自报接种/筛查的局限。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "5a2f81ce-07fe-4cfb-bdcd-0f4e21475041",
+              "seconds": 2.97,
+              "usage": {
+                "completion_tokens": 232,
+                "prompt_cache_hit_tokens": 1536,
+                "prompt_cache_miss_tokens": 168,
+                "prompt_tokens": 1704,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1536
+                },
+                "total_tokens": 1936
+              }
+            },
+            "support": "HPV-16/18 prevalence was 86% lower (aPR 0·14, 95% CI 0·02-0·84) among those aged 18-29 years in Natsal-4 (1·6%, 95% CI 0·3-8·2) than in Natsal-2 (8·7%, 95% CI 6·7-11·3). All HPV-16/18 infections repor",
+            "total": 71
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-24",
+      "reasons": {
+        "research": "这是基于Natsal连续横断面、含HPV生物样本检测的人群证据，可为评估疫苗接种对HPV-16/18流行率的影响及筛查、接种公平性缺口提供参考；但结论源于横断面比较，且部分亚组样本量有限，不宜外推为因果或临床获益证明。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43076168",
+      "t": "疑似脓毒症患者的院前抗生素：PITSTOP-抗生素析因随机临床试验。",
       "te": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial.",
-      "s": "",
+      "s": "重要性 早期使用抗生素治疗被认为是降低脓毒症患者死亡率的重要干预措施。目的 确定与急诊科常规治疗相比，在救护车上早期使用抗生素治疗对 90 天死亡率的影响。设计、设置和参与者 这项多中心、2 × 2 析因随机、安慰剂对照试验在加拿大安大略省的 4 个护理服务机构及其目的地医院中进行。参与者是疑似败血症的成年人，定义为疑似感染、发烧（≥38.0°C）和低血压（收缩压<100 mm Hg）。患者于2020年3月23日至2025年8月20日期间入组，最终随访时间为2025年12月。 干预措施患者被随机分配接受1克肌肉注射头孢曲松或安慰剂（并接受自由液体与常规液体；",
       "se": "Importance Early treatment with antibiotics is considered an important intervention to reduce mortality for patients with sepsis. Objective To determine the effect of earlier treatment with antibiotics in the ambulance on 90-day mortality compared with usual treatment in the emergency department. Design, setting, and participants This multicenter, 2 × 2 factorial randomized, placebo-controlled trial was conducted among 4 paramedic services and their destination hospitals in Ontario, Canada. Participants were adults with suspected sepsis, defined as suspected infection, fever (≥38.0 °C), and hypotension (systolic blood pressure < 100 mm Hg). Patients were enrolled between March 23, 2020, and August 20, 2025, with final follow-up in December 2025. Interventions Patients were randomized to receive 1 g of intramuscular ceftriaxone or placebo (and to receive liberal fluids vs usual fluids;",
       "u": "https://doi.org/10.1001/jama.2026.25627",
       "image": "",
@@ -537,7 +791,7 @@
       "stages": [
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -638,9 +892,9 @@
     },
     {
       "id": "pmid:43071962",
-      "t": "",
+      "t": "小肺结节随访的较少与较多强化策略：一项整群随机实用临床试验。",
       "te": "Less Versus More Intensive Strategies for Follow-up of Small Pulmonary Nodules : A Cluster Randomized Pragmatic Clinical Trial.",
-      "s": "",
+      "s": "目前肺结节随访的强度较低的指南尚未与强度较高的策略进行比较。确定小肺部结节的低强度随访是否不劣于高强度随访。非盲、整群随机、务实的比较有效性试验。 （ClinicalTrials.gov：NCT02623712）。 24 个美国医院和医疗保健系统集群。 34 686 名患者偶然发现或通过筛查发现了尺寸为 15 毫米或更小的新肺结节。后续方案以 Fleischner 协会和肺部 CT 筛查报告和数据系统 (Lung-RADS) 当前和之前的建议为蓝本。每个簇被随机分配到强度较低或较高的后续方案。主要结果是诊断时尺寸超过 20 毫米的肺癌比例。",
       "se": "The current less intensive guidelines for pulmonary nodule follow-up have not been compared with more intensive strategies. To determine whether less intensive follow-up of small pulmonary nodules is noninferior to more intensive follow-up. Unblinded, cluster randomized, pragmatic comparative effectiveness trial. (ClinicalTrials.gov: NCT02623712). 24 clusters of U.S. hospitals and health care systems. 34 686 patients with a new pulmonary nodule measuring 15 mm or less, detected incidentally or by screening. Follow-up protocols were modeled on current and prior recommendations from the Fleischner Society and the Lung CT Screening Reporting and Data System (Lung-RADS). Each cluster was randomly assigned to the less or more intensive follow-up protocol. The primary outcome was the proportion of lung cancers measuring more than 20 mm at diagnosis.",
       "u": "https://doi.org/10.7326/annals-25-05646",
       "image": "",
@@ -896,9 +1150,9 @@
     },
     {
       "id": "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
-      "t": "",
+      "t": "FDA 批准首个治疗 2I/R9 型肢带型肌营养不良症的药物",
       "te": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
-      "s": "",
+      "s": "美国食品和药物管理局今天批准了第一种用于治疗 2I/R9 型肢带型肌营养不良症 (LGMD2I/R9) 的药物，这是一种罕见的遗传性肌肉疾病，适用于体重至少 30 公斤的成人和儿童患者。",
       "se": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric patients weighing at least 30 kg.",
       "u": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
       "image": "",
@@ -1020,9 +1274,9 @@
     },
     {
       "id": "pmid:43072799",
-      "t": "",
+      "t": "肌肉注射奥氮平或氟哌利多治疗儿童和青少年急性行为障碍：PEAChY-M 随机临床试验。",
       "te": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial.",
-      "s": "",
+      "s": "重要性 急性行为障碍是一种高风险的急诊科表现。关于儿童和青少年肌肉注射镇静药物相对有效性的证据有限，当因躁动而面临严重伤害的迫在眉睫时，可能需要使用肌肉注射镇静药物。目的 确定奥氮平是否比肌肉注射氟哌利多更有效地实现行为控制。设计、设置和参与者 这项研究者发起的、开放标签、多中心、优越性、随机临床试验招募了 9 至 17 岁的儿童和青少年，这些儿童和青少年在 2021 年 11 月 8 日至 2026 年 2 月 16 日期间因临床认为需要肌肉注射药物的急性行为障碍到澳大利亚 10 个急诊科就诊。最后一次参与者随访发生在 2026 年 3 月 17 日。数据分析时间为 4 月 15 日至 27 日， 2026 年。",
       "se": "Importance Acute behavioral disturbance is a high-risk emergency department presentation. There is limited evidence for the comparative effectiveness of intramuscular sedative medications in children and adolescents, which may be required when there is imminent risk of serious harm due to agitation. Objective To determine whether olanzapine is more effective than droperidol intramuscularly in achieving behavioral containment. Design, setting, and participants This investigator-initiated, open-label, multicenter, superiority, randomized clinical trial recruited children and adolescents aged 9 to 17 years presenting to 10 Australian emergency departments with acute behavioral disturbance clinically deemed to require intramuscular medication from November 8, 2021, to February 16, 2026. The last participant follow-up occurred on March 17, 2026. Data were analyzed from April 15 to 27, 2026.",
       "u": "https://doi.org/10.1001/jama.2026.25561",
       "image": "",
@@ -1047,7 +1301,7 @@
         "data",
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -1428,7 +1682,7 @@
         "design",
         "analysis"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -2185,7 +2439,7 @@
       "stages": [
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -2313,7 +2567,7 @@
       "stages": [
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -2417,13 +2671,13 @@
     {
       "date": "2026-11-24",
       "item_ids": [
-        "url:https://www.nature.com/articles/s41746-026-03442-3",
+        "pmid:43078111",
         "url:https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
         "url:https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-        "pmid:43076168",
-        "url:https://www.jmir.org/article/view/jmir_v28i1e101445"
+        "url:https://www.nature.com/articles/s41746-026-03442-3",
+        "pmid:43076168"
       ],
-      "minutes": 9
+      "minutes": 5
     },
     {
       "date": "2026-11-23",
@@ -2432,7 +2686,7 @@
         "url:http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
         "url:https://www.nature.com/articles/s41746-026-03441-4"
       ],
-      "minutes": 4
+      "minutes": 2
     },
     {
       "date": "2026-11-19",
