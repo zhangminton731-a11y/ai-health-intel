@@ -51,3 +51,15 @@ class IndustryEditionTests(unittest.TestCase):
         self.assertEqual(value['item_ids'], [])
         self.assertIsNone(value['headline_id'])
         self.assertIn('暂无通过核验和评分', value['text'])
+
+    def test_later_correction_keeps_original_issue_and_source_dates(self):
+        updated = '2026-11-26T09:10:00+08:00'
+        edition = dict(self.edition, updated_at=updated)
+        with self.assertRaisesRegex(ValueError, '修订记录'):
+            records(edition)
+        edition['revisions'] = [{'date': '2026-11-26', 'note': '更正交易阶段'}]
+        value = public_issue(edition, records(edition))
+        self.assertEqual(value['date'], self.edition['date'])
+        self.assertEqual(value['updated_at'], updated)
+        self.assertEqual(value['revisions'], edition['revisions'])
+        self.assertIn('2026-11-24', value['source_dates'])

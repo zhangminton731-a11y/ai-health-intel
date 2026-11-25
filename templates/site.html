@@ -251,7 +251,7 @@ const todayMs=Date.parse(today+'T00:00:00Z');
 const isCurrent=i=>{const age=(todayMs-Date.parse(i.date+'T00:00:00Z'))/86400000;return i.freshness==='fresh'&&i.tier!=='archive'&&age>=0&&age<=10;};
 const current=D.items.filter(isCurrent),byId=Object.fromEntries(current.map(i=>[i.id,i]));
 const history=(D.historyItems||[]).filter(i=>{const age=(todayMs-Date.parse(i.date+'T00:00:00Z'))/86400000;return age>=0&&age<=20&&!byId[i.id];});
-const archiveById={...Object.fromEntries(history.concat(D.publishedArchiveItems||[]).map(i=>[i.id,i])),...byId};
+const archiveById={...Object.fromEntries(history.concat(D.publishedArchiveItems||[],D.items.filter(i=>i.readerEvent)).map(i=>[i.id,i])),...byId};
 if(D.publishedIssues)$('#v-daily').dataset.industry='';
 const searchText=new Map(Object.values(archiveById).map(i=>[i.id,[i.t,i.te,i.s,i.se,i.src].join(' ').toLowerCase()]));
 const hot=D.hot30.filter(i=>byId[i.id]);

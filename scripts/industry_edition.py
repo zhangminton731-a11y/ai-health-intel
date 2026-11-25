@@ -1,5 +1,5 @@
 """Verified event editions projected onto the existing publication pipeline."""
-from datetime import date, datetime
+from datetime import date, datetime, timedelta, timezone
 from html import escape
 import json
 from pathlib import Path
@@ -10,6 +10,7 @@ from sih_ref.editorial import combine, material, project, validate_review
 
 DIRECTORY = Path(__file__).resolve().parents[1] / 'config/editions'
 START = date(2026, 11, 25)
+CST = timezone(timedelta(hours=8))
 LANES = {'consumer': '消费健康科技', 'medical': '医药研发与临床'}
 SOURCE_TYPES = {'官方机构', '企业披露', '原始访谈'}
 STAGES = {
@@ -26,8 +27,16 @@ STAGES = {
 def records(edition):
     day = date.fromisoformat(edition['date'])
     updated = datetime.fromisoformat(edition['updated_at'])
-    if updated.tzinfo is None or updated.date() != day or len(edition['events']) > 5:
+    if updated.tzinfo is None or len(edition['events']) > 5:
         raise ValueError('日报更新时间或条数异常')
+    update_day = updated.astimezone(CST).date()
+    revisions = edition.get('revisions', [])
+    revision_days = [date.fromisoformat(revision['date']) for revision in revisions]
+    has_later_update = update_day > day
+    if (update_day < day or (has_later_update and (not revision_days or revision_days[-1] != update_day)) or
+            any(not day <= revision_day <= update_day for revision_day in revision_days) or
+            revision_days != sorted(revision_days) or any(not revision['note'].strip() for revision in revisions)):
+        raise ValueError('日报更新时间与修订记录不一致')
     rows = []
     for event in edition['events']:
         kind, stage = event['kind'], event['stage']
@@ -57,13 +66,21 @@ def load(as_of, generated_at):
     if as_of < START or not DIRECTORY.is_dir():
         return None
     batches = {}
+    published_ids = set()
     for path in sorted(DIRECTORY.glob('????-??-??.json')):
         if path.stem > as_of.isoformat():
             continue
         edition = json.loads(path.read_text(encoding='utf-8'))
         if edition['date'] != path.stem:
             raise ValueError('日报文件日期与期号不一致')
-        batches[path.stem] = (edition, records(edition))
+        rows = records(edition)
+        if datetime.fromisoformat(edition['updated_at']).astimezone(CST).date() > as_of:
+            raise ValueError('日报修订时间晚于当前批次')
+        ids = {row['item_id'] for row in rows}
+        if published_ids & ids:
+            raise ValueError('已出刊事件应在原期号更正')
+        published_ids.update(ids)
+        batches[path.stem] = (edition, rows)
     day = as_of.isoformat()
     if day not in batches:
         batches[day] = ({'date': day, 'updated_at': generated_at, 'events': []}, [])
@@ -107,6 +124,7 @@ def write_report(site, edition, rows, stylesheet):
                 f'<a href="{escape(event["url"])}" rel="noopener noreferrer">原文 ↗</a></div></article>')
 
     day = edition['date']
+    updated = datetime.fromisoformat(edition['updated_at']).astimezone(CST).strftime('%Y-%m-%d %H:%M:%S')
     body = '<p>本期暂无通过核验和评分的产业事件。</p>'
     if rows:
         body = story(rows[0], lead=True) + '<div class="edition-lanes">'
@@ -122,7 +140,7 @@ def write_report(site, edition, rows, stylesheet):
         '<meta name="viewport" content="width=device-width, initial-scale=1">'
         f'<title>奇点日报 · {day}</title><link rel="stylesheet" href="../../{stylesheet}"></head>'
         f'<body><main><header class="digest-header"><h1>奇点日报 · {day}</h1>'
-        f'<p>更新于 {escape(edition["updated_at"].replace("T"," ").split("+")[0])}（北京时间）</p>'
+        f'<p>更新于 {updated}（北京时间）</p>'
         f'<a class="text-link" href="../../#daily?date={day}">切换日期、复制与分享 →</a></header>{body}'
         + ('<h2>修订记录</h2><ul>'+revisions+'</ul>' if revisions else '') +
         '</main></body></html>\n', encoding='utf-8')
