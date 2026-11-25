@@ -22,12 +22,14 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
         'sections': i.get('sections', []), 'categories': i.get('categories', {}),
         'research_stages': i.get('stages', []), 'recommendation_reasons': i.get('reasons', {}),
         'reading_value_score': i.get('rel'), 'editorial': i.get('editorial', {}),
+        **({'reader_event': i['readerEvent']} if 'readerEvent' in i else {}),
     } for i in payload['items'] if i['freshness'] == 'fresh' and i['tier'] != 'archive']
     common = {'schema_version': '1.0', 'generated_at': payload['generatedAt'], 'as_of': payload['asOf']}
     for name, data in {
         'items': {**common, 'count': len(items), 'items': items},
         'health': {**common, 'daily_status': health.get('daily_status', 'unknown'), 'sources': health.get('sources', []), 'coverage':payload.get('coverage', {}), 'editorial': health.get('extensions', {}).get('llm_triage', {})},
-        'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing, 'publication': payload.get('publicationIssue')},
+        'briefing': {**common, 'item_ids': payload.get('dailyIds', payload['top']), 'editions': payload.get('dailyIssues', []), 'edition_date': (payload.get('dailyIssues') or [{}])[0].get('date'), 'text': briefing, 'publication': payload.get('publicationIssue'),
+                     **({'published_editions': payload['publishedIssues'], 'edition_date': payload['asOf']} if 'publishedIssues' in payload else {})},
     }.items():
         (api / f'{name}.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     (api / 'history.json').write_text(json.dumps({**common, 'description': '近20天历史阅读，不属于当前推荐', 'items': payload.get('historyItems', []), 'editions': payload.get('historyIssues', [])}, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
@@ -48,6 +50,11 @@ def export_feeds(site: Path, payload: dict, health: dict, briefing: str, skill: 
             ET.SubElement(entry, 'category').text = topic
         for section in i['sections']:
             ET.SubElement(entry, 'category', {'domain': BASE_URL + '#sections'}).text = section
+        if 'reader_event' in i:
+            event = i['reader_event']
+            entry.find('description').text += '\n' + event['why']
+            ET.SubElement(entry, 'category').text = event['lane']
+            ET.SubElement(entry, 'category').text = event['stage_label']
     ET.ElementTree(rss).write(site / 'feed.xml', encoding='utf-8', xml_declaration=True)
     target = site / 'sih-intel'
     target.mkdir(exist_ok=True)
