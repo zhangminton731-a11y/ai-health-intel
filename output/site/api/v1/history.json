@@ -1,14 +1,267 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-26T03:34:31+00:00",
+  "generated_at": "2026-11-26T13:54:23+00:00",
   "as_of": "2026-11-26",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
+      "id": "url:https://www.nature.com/articles/s41591-026-04754-3",
+      "t": "综合废水和临床基因组监测，用于高分辨率跟踪麻疹病毒的进化和传播",
+      "te": "Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission",
+      "s": "全球麻疹疫情激增，给监测和控制工作带来挑战。在南非，2024-2025 年麻疹疫情导致近 4,000 例报告病例，引发了全国范围内的疫苗接种运动。然而，大规模追踪麻疹病毒（MeV；人麻疹病毒种）的传播和进化仍然很困难，特别是在护理、诊断测试和测序能力有限的环境中。废水可以实现群体规模的病毒监测，但低 MeV 浓度限制了检测灵敏度和测序质量。在这里，我们表明，克服这些技术挑战可以实现废水和临床基因组的综合监测，从而扩大 MeV 监测的覆盖范围和分辨率。",
+      "se": "Measles outbreaks have surged globally, challenging surveillance and control efforts. In South Africa, the 2024−2025 measles outbreak led to nearly 4,000 reported cases, triggering a nationwide vaccination campaign. However, tracking measles virus (MeV; species Morbillivirus hominis) transmission and evolution remains difficult at scale, particularly in settings with limited access to care, diagnostic testing and sequencing capacity. Wastewater can enable population-scale virus surveillance, but low MeV concentrations limit detection sensitivity and sequencing quality. Here we show that overcoming these technical challenges enables integrated wastewater and clinical genomic surveillance that expands the coverage and resolution of MeV monitoring.",
+      "u": "https://www.nature.com/articles/s41591-026-04754-3",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04754-3",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04754-3"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 75,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-26T13:55:12+00:00",
+        "input_hash": "f8116db26612e35659ac68c7c41800e4527018fadc847c23a691db676840005a",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该研究针对低浓度麻疹病毒建立了污水浓缩与全基因组测序流程，并在全国疫情中整合临床与污水序列，识别出常规N450靶向法漏检的跨省传播链。对做病原基因组监测和公共卫生研究的人有直接方法学参考，但污水信号与临床病例的因果对应、各变异株回收的敏感度仍需看全文验证。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究针对低浓度麻疹病毒建立了污水浓缩与全基因组测序流程，并在全国疫情中整合临床与污水序列，识别出常规N450靶向法漏检的跨省传播链。对做病原基因组监测和公共卫生研究的人有直接方法学参考，但污水信号与临床病例的因果对应、各变异株回收的敏感度仍需看全文验证。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "3f027043-6c1d-4660-8039-97a7ccf2567c",
+              "seconds": 1.9,
+              "usage": {
+                "completion_tokens": 159,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 473,
+                "prompt_tokens": 1241,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1400
+              }
+            },
+            "support": "Wastewater MeV genotype prevalence tracked clinical estimates, and phylogenetic analyses combining wastewater and clinical sequences revealed geographically structured transmission and previously unde",
+            "total": 73
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究提供了可复用的污水浓缩与全基因组测序流程，并在大规模样本上证明污水与临床整合基因组监测能发现N450靶向法漏掉的跨省传播链，对监测设计和方法选择有直接参考价值；但仅报告单一国家单次暴发，技术灵敏度和成本可推广性仍需外部验证。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "428eeaab-6dc8-4b5f-9c9b-42e9792e1282",
+              "seconds": 1.64,
+              "usage": {
+                "completion_tokens": 160,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 217,
+                "prompt_tokens": 1241,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1401
+              }
+            },
+            "support": "WGS recovered transmission links not captured by the field standard approach, which targets a 450-nucleotide region of the nucleoprotein gene (N450), highlighting the importance of WGS to accurately c",
+            "total": 77
+          }
+        ],
+        "score": 75,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "今天",
+      "date": "2026-11-26",
+      "reasons": {
+        "research": "该研究针对低浓度麻疹病毒建立了污水浓缩与全基因组测序流程，并在全国疫情中整合临床与污水序列，识别出常规N450靶向法漏检的跨省传播链。对做病原基因组监测和公共卫生研究的人有直接方法学参考，但污水信号与临床病例的因果对应、各变异株回收的敏感度仍需看全文验证。"
+      },
+      "historical": true
+    },
+    {
+      "id": "url:https://www.nature.com/articles/s41591-026-04530-3",
+      "t": "20 年来植入脑机接口的人皮质内微电极阵列的性能",
+      "te": "Performance of intracortical microelectrode arrays in people with implanted brain–computer interfaces over a 20-year period",
+      "s": "然而，迄今为止的报告通常仅限于一两个人，没有对阵列寿命、解码准确性和日常稳定性进行系统评估。在这里，我们对 BrainGate 临床试验的神经数据进行了 20 年的全面评估，涵盖 2,289 个记录会话、20 个阵列和 14 名参与者。使用“解码信噪比”(dSNR) 指标，我们发现 14 个阵列中的 11 个在整个参与过程中提供了有意义的运动解码（中位 dSNR > 1），其中与健全的鼠标控制相比，其中三个实现了 >70% 的准确度。",
+      "se": "However, reports so far have typically been limited to one or two individuals, with no systematic assessment of array longevity, decoding accuracy and day-to-day stability. Here we present a comprehensive 20-year evaluation of neural data from the BrainGate clinical trials, spanning 2,289 recording sessions, 20 arrays and 14 participants. Using a ‘decoding signal-to-noise ratio’ (dSNR) metric, we found that 11 of 14 arrays provided meaningful movement decoding throughout participation (median dSNR >1), with three achieving >70% accuracy compared with able-bodied mouse control.",
+      "u": "https://www.nature.com/articles/s41591-026-04530-3",
+      "image": "",
+      "src": "Nature Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "nature_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "nature_medicine",
+        "summary_source": "https://www.nature.com/articles/s41591-026-04530-3",
+        "upstream_id": "https://www.nature.com/articles/s41591-026-04530-3"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 78,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-26T13:55:13+00:00",
+        "input_hash": "d38992ef65c2b987224cf10d4aa41dfeb28ddd2ceec91759e700ed7114130427",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这是迄今规模最大的脑机接口皮层内阵列长期稳定性系统评估，基于20年、20个阵列、14名参与者和2289次记录会话，为研究者提供了电极长期信号衰减幅度与解码性能随时间变化的可核实纵向数据；主要限制是单一阵列类型（Utah）且为观察性汇总，未能区分失败机制或给出改进对照。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 9,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "这是迄今规模最大的皮层内微电极阵列长期稳定性系统评估，覆盖20个阵列、14名参与者和2,289次记录，提供了电极存活率、信号衰减及解码性能随时间的可量化纵向数据；限制在于为单臂观察性汇总，缺乏对照，且“70%准确率”等指标需结合任务与基线解读。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "5436352d-183d-422e-ab0d-67e6a55cfefd",
+              "seconds": 1.87,
+              "usage": {
+                "completion_tokens": 161,
+                "prompt_cache_hit_tokens": 768,
+                "prompt_cache_miss_tokens": 445,
+                "prompt_tokens": 1213,
+                "prompt_tokens_details": {
+                  "cached_tokens": 768
+                },
+                "total_tokens": 1374
+              }
+            },
+            "support": "On average, arrays successfully recorded neural spiking waveforms on 35.6% of electrodes, with a modest 7 percentage point decline over the recording period (up to 7.3 years).",
+            "total": 79
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "这是迄今规模最大的脑机接口皮层内阵列长期稳定性系统评估，基于20年、20个阵列、14名参与者和2289次记录会话，为研究者提供了电极长期信号衰减幅度与解码性能随时间变化的可核实纵向数据；主要限制是单一阵列类型（Utah）且为观察性汇总，未能区分失败机制或给出改进对照。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "872a369a-58ad-46ae-88f3-b25ae5f1ab28",
+              "seconds": 1.9,
+              "usage": {
+                "completion_tokens": 155,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 189,
+                "prompt_tokens": 1213,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1368
+              }
+            },
+            "support": "comprehensive 20-year evaluation of neural data from the BrainGate clinical trials, spanning 2,289 recording sessions, 20 arrays and 14 participants",
+            "total": 77
+          }
+        ],
+        "score": 78,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "今天",
+      "date": "2026-11-26",
+      "reasons": {
+        "research": "这是迄今规模最大的脑机接口皮层内阵列长期稳定性系统评估，基于20年、20个阵列、14名参与者和2289次记录会话，为研究者提供了电极长期信号衰减幅度与解码性能随时间变化的可核实纵向数据；主要限制是单一阵列类型（Utah）且为观察性汇总，未能区分失败机制或给出改进对照。"
+      },
+      "historical": true
+    },
+    {
       "id": "pmid:43082011",
-      "t": "",
+      "t": "远程医疗支持有创通气中协调的自发觉醒和呼吸试验：TEACH 集群随机临床试验。",
       "te": "Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial.",
-      "s": "",
+      "s": "重要性 协调的自主觉醒试验和自主呼吸试验 (C-SAT/SBT) 可改善接受有创机械通气的患者的预后，但实施仍然不够。结论和相关性 在重症监护病房接受插管和机械通气的成人中，增加 C-SAT/SBT 的实时远程医疗支持比单独实施标准审核和反馈更能提高依从性并增加无需呼吸机的天数。",
       "se": "Importance Coordinated spontaneous awakening trials and spontaneous breathing trials (C-SAT/SBT) improve outcomes for patients receiving invasive mechanical ventilation, but implementation remains inadequate. Conclusions and relevance Among adults intubated and mechanically ventilated in the intensive care unit, adding real-time telehealth support for C-SAT/SBT improved adherence and increased ventilator-free days more than a standard audit and feedback implementation alone.",
       "u": "https://doi.org/10.1001/jama.2026.25197",
       "image": "",
@@ -33,7 +286,7 @@
         "analysis",
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "jama_abstracts"
@@ -639,9 +892,9 @@
     },
     {
       "id": "pmid:43078111",
-      "t": "",
+      "t": "2010 年至 2024 年英国性传播感染、行为风险和性健康服务的接受情况：来自全国性态度和生活方式重复横断面调查 (Natsal) 的调查结果。",
       "te": "Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
-      "s": "",
+      "s": "背景 自 2010 年以来，英国的性传播感染 (STI) 诊断有所增加，同时性健康政策、服务也发生了重大变化，并因 COVID-19 大流行而受到干扰。与此同时，人口层面的性活动有所减少，更多的人报告有同性性行为。为了了解艾滋病毒和性传播感染控制的影响，我们研究了三种性传播感染的总体流行率、与性传播感染相关的性行为以及性健康服务的接受情况，包括艾滋病毒和衣原体检测。方法 我们于 2022 年 9 月 20 日至 2024 年 4 月 5 日期间进行了第四次全国性态度和生活方式调查 (Natsal-4)。在这项分析中，我们使用了概率抽样调查中来自英国 5949 名 16-59 岁有性经验（报告曾经发生过性行为）的参与者的横截面数据。",
       "se": "Background Sexually transmitted infection (STI) diagnoses have increased in Britain since 2010, alongside major changes to sexual health policy, services, and disruptions owing to the COVID-19 pandemic. Meanwhile, sexual activity has decreased at population level, and more people report same-sex behaviours. To understand implications for HIV and STI control, we examined the general population prevalence of three STIs, sexual behaviours associated with STIs, and uptake of sexual health services, including HIV and chlamydia testing. Methods We conducted the fourth National Surveys of Sexual Attitudes and Lifestyles (Natsal-4) between Sept 20, 2022, and April 5, 2024. In this analysis, we used cross-sectional data from 5949 sexually experienced (who reported ever having sex) participants aged 16-59 years in Britain from the probability sample surveys.",
       "u": "https://doi.org/10.1016/s0140-6736(26)01605-3",
       "image": "",
@@ -667,7 +920,7 @@
       "stages": [
         "data"
       ],
-      "event": "updated",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -770,7 +1023,7 @@
       "id": "pmid:43078110",
       "t": "1999 年至 2024 年英国人乳头瘤病毒 (HPV) 感染、疫苗接种和宫颈筛查：来自全国性态度和生活方式重复横断面调查 (Natsal) 的结果。",
       "te": "Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
-      "s": "",
+      "s": "背景 人乳头瘤病毒 (HPV) 疫苗接种和宫颈筛查显着降低了宫颈癌的总体风险，但必须量化接种率的差异，以便为公平获取提供信息。本研究旨在提供人口层面的证据，证明自 2008 年引入疫苗接种计划 15 年后，HPV 疫苗接种对英格兰、苏格兰和威尔士（以下简称英国）的 HPV 16 和 18（以下简称 HPV-16/18）患病率以及宫颈癌预防干预措施（即疫苗接种和筛查）的采用产生影响。 方法 我们进行了全国性态度和生活方式调查 (Natsal)，该调查具有全国代表性，使用个人数据和生物样本 HPV 检测进行横断面人口调查。来自 Natsal-2 的数据（1999-2001；",
       "se": "Background Human papillomavirus (HPV) vaccination and cervical screening have substantially reduced overall cervical cancer risk, but differences in uptake must be quantified to inform equitable access. This study aimed to provide population-level evidence of the impact of HPV vaccination on HPV types 16 and 18 (hereafter HPV-16/18) prevalence in England, Scotland, and Wales (hereafter Britain), and uptake of cervical cancer prevention interventions (ie, vaccination and screening), 15 years after the introduction of the vaccination programme in 2008. Methods We conducted the National Surveys of Sexual Attitudes and Lifestyles (Natsal), which are nationally representative, cross-sectional population surveys with individual-level data and HPV testing of biosamples. Data from Natsal-2 (1999-2001;",
       "u": "https://doi.org/10.1016/s0140-6736(26)01554-0",
       "image": "",
@@ -794,7 +1047,7 @@
       "stages": [
         "data"
       ],
-      "event": "updated",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -1304,14 +1557,12 @@
         ]
       },
       "stages": [],
-      "event": "seen",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-11-25T14:23:15+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9"
       },
@@ -1787,9 +2038,9 @@
     },
     {
       "id": "pmid:43057276",
-      "t": "",
+      "t": "2010 年至 2024 年英国女性的生殖健康：重复性横断面全国性态度和生活方式调查 (Natsal) 的结果。",
       "te": "Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
-      "s": "",
+      "s": "背景 随着对激素犹豫和出生率下降的日益关注，重大政策和资金变化威胁着英国（英格兰、苏格兰和威尔士）获得基本生殖服务和生殖自主权的机会。我们报告了2010年至2024年英国育龄妇女生殖健康指标的患病率、变化和社会人口统计学差异。方法英国全国性态度和生活方式调查（Natsal）是横断面、全国代表性的调查（Natsal-3 2010年9月6日至2012年8月31日；Natsal-4 2022年9月20日至4月2024 年 5 月）。",
       "se": "Background Major policy and funding shifts threaten access to essential reproductive services and reproductive autonomy in Britain (England, Scotland, and Wales) amid growing attention towards hormone hesitancy and declining birth rates. We report on prevalence, changes, and sociodemographic differences in reproductive health indicators among women of reproductive age in Britain from 2010 to 2024. Methods Britain's National Surveys of Sexual Attitudes and Lifestyles (Natsal) are cross-sectional, nationally representative surveys (Natsal-3 Sept 6, 2010, to Aug 31, 2012; Natsal-4 Sept 20, 2022, to April 5, 2024).",
       "u": "https://doi.org/10.1016/s0140-6736(26)01551-5",
       "image": "",
@@ -1811,7 +2062,7 @@
         ]
       },
       "stages": [],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -2064,14 +2315,12 @@
         ]
       },
       "stages": [],
-      "event": "seen",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-11-25T14:23:15+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
       },
@@ -2443,14 +2692,12 @@
         ]
       },
       "stages": [],
-      "event": "seen",
+      "event": "new",
       "provenance": {
         "observed_in_sources": [
           "fda_press"
         ],
-        "retained_during_source_outage": true,
         "retrieved_via": "rss",
-        "snapshot_observed_at": "2026-11-25T14:23:15+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
       },
@@ -2930,11 +3177,19 @@
   ],
   "editions": [
     {
+      "date": "2026-11-26",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41591-026-04530-3",
+        "url:https://www.nature.com/articles/s41591-026-04754-3"
+      ],
+      "minutes": 2
+    },
+    {
       "date": "2026-11-25",
       "item_ids": [
         "pmid:43082011"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-11-24",
@@ -2945,7 +3200,7 @@
         "url:https://www.nature.com/articles/s41746-026-03442-3",
         "pmid:43076168"
       ],
-      "minutes": 5
+      "minutes": 4
     },
     {
       "date": "2026-11-23",
@@ -2964,7 +3219,7 @@
         "pmid:43057277",
         "url:https://www.nature.com/articles/s41591-026-04731-w"
       ],
-      "minutes": 5
+      "minutes": 4
     },
     {
       "date": "2026-11-18",
