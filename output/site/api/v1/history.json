@@ -1,9 +1,137 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T14:23:15+00:00",
-  "as_of": "2026-11-25",
+  "generated_at": "2026-11-26T03:34:31+00:00",
+  "as_of": "2026-11-26",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "pmid:43082011",
+      "t": "",
+      "te": "Telehealth to Support Coordinated Spontaneous Awakening and Breathing Trials in Invasive Ventilation: The TEACH Cluster Randomized Clinical Trial.",
+      "s": "",
+      "se": "Importance Coordinated spontaneous awakening trials and spontaneous breathing trials (C-SAT/SBT) improve outcomes for patients receiving invasive mechanical ventilation, but implementation remains inadequate. Conclusions and relevance Among adults intubated and mechanically ventilated in the intensive care unit, adding real-time telehealth support for C-SAT/SBT improved adherence and increased ventilator-free days more than a standard audit and feedback implementation alone.",
+      "u": "https://doi.org/10.1001/jama.2026.25197",
+      "image": "",
+      "src": "JAMA · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "jama_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "jama_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43082011",
+        "upstream_id": "43082011"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 70,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-26T03:35:40+00:00",
+        "input_hash": "765d2954373292f8fa72b5d5c04f76916a172c40c54df8f61f986728d29d5d1a",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "这项集群随机试验为远程医疗强化C-SAT/SBT实施提供了随机对照证据，显示依从性和无呼吸机天数均改善，研究者可借鉴其混合有效性-实施设计及以依从性为共同主要终点的做法；但摘要未给出无呼吸机天数的效应量与置信区间，限制了对临床获益幅度的判断。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 6,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "这项集群随机试验为远程医疗强化C-SAT/SBT实施提供了随机对照证据，显示依从性和无呼吸机天数均改善，研究者可借鉴其混合有效性-实施设计及以依从性为共同主要终点的做法；但摘要未给出无呼吸机天数的效应量与置信区间，限制了对临床获益幅度的判断。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "3d5e39d4-90f0-48ba-a143-fe03079463e7",
+              "seconds": 2.36,
+              "usage": {
+                "completion_tokens": 163,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 528,
+                "prompt_tokens": 1424,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1587
+              }
+            },
+            "support": "Among adults intubated and mechanically ventilated in the intensive care unit, adding real-time telehealth support for C-SAT/SBT improved adherence and increased ventilator-free days more than a stand",
+            "total": 70
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 6,
+              "relevance": 7,
+              "significance": 7,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "该集群随机试验为拔管方案依从性提供了具体干预效果数据：远程重症实时督导叠加审计反馈，较单纯审计反馈进一步改善C-SAT/SBT依从性并增加无呼吸机天数，可指导实施科学研究设计与ICU质量管理；但为单一卫生系统12家医院、预设单侧检验，外部推广需谨慎。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "c44d98cc-b7ee-475c-8d70-2a5fa4e17f01",
+              "seconds": 2.2,
+              "usage": {
+                "completion_tokens": 163,
+                "prompt_cache_hit_tokens": 1280,
+                "prompt_cache_miss_tokens": 144,
+                "prompt_tokens": 1424,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1280
+                },
+                "total_tokens": 1587
+              }
+            },
+            "support": "Among adults intubated and mechanically ventilated in the intensive care unit, adding real-time telehealth support for C-SAT/SBT improved adherence and increased ventilator-free days more than a stand",
+            "total": 71
+          }
+        ],
+        "score": 70,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-25",
+      "reasons": {
+        "research": "这项集群随机试验为远程医疗强化C-SAT/SBT实施提供了随机对照证据，显示依从性和无呼吸机天数均改善，研究者可借鉴其混合有效性-实施设计及以依从性为共同主要终点的做法；但摘要未给出无呼吸机天数的效应量与置信区间，限制了对临床获益幅度的判断。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
       "t": "STAT+：Pharmalittle：我们正在阅读有关赛诺菲收购 Insmed、罗氏推销其乳腺癌药物等的信息",
@@ -121,7 +249,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
         "industry": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。"
@@ -243,7 +371,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
         "industry": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。"
@@ -373,7 +501,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。"
@@ -502,7 +630,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。"
@@ -513,8 +641,8 @@
       "id": "pmid:43078111",
       "t": "",
       "te": "Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
-      "s": "Sexually transmitted infection (STI) diagnoses have increased in Britain since 2010, alongside major changes to sexual health policy, services, and disruptions owing to the COVID-19 pandemic.与此同时，人口层面的性活动有所减少，更多的人报告有同性性行为。 To understand implications for HIV and STI control, we examined the general population prevalence of three STIs, sexual behaviours associated with STIs, and uptake of sexual health services, including HIV and chlamydia testing. We conducted the fourth National Surveys of Sexual Attitudes and Lifestyles (Natsal-4) between Sept 20, 2022, and April 5, 2024. In this analysis, we used cross-sectional data from 5949 sexually experienced (who reported ever having sex) participants aged 16-59 years in Britain from the probability sample surveys.",
-      "se": "Sexually transmitted infection (STI) diagnoses have increased in Britain since 2010, alongside major changes to sexual health policy, services, and disruptions owing to the COVID-19 pandemic. Meanwhile, sexual activity has decreased at population level, and more people report same-sex behaviours. To understand implications for HIV and STI control, we examined the general population prevalence of three STIs, sexual behaviours associated with STIs, and uptake of sexual health services, including HIV and chlamydia testing. We conducted the fourth National Surveys of Sexual Attitudes and Lifestyles (Natsal-4) between Sept 20, 2022, and April 5, 2024. In this analysis, we used cross-sectional data from 5949 sexually experienced (who reported ever having sex) participants aged 16-59 years in Britain from the probability sample surveys.",
+      "s": "",
+      "se": "Background Sexually transmitted infection (STI) diagnoses have increased in Britain since 2010, alongside major changes to sexual health policy, services, and disruptions owing to the COVID-19 pandemic. Meanwhile, sexual activity has decreased at population level, and more people report same-sex behaviours. To understand implications for HIV and STI control, we examined the general population prevalence of three STIs, sexual behaviours associated with STIs, and uptake of sexual health services, including HIV and chlamydia testing. Methods We conducted the fourth National Surveys of Sexual Attitudes and Lifestyles (Natsal-4) between Sept 20, 2022, and April 5, 2024. In this analysis, we used cross-sectional data from 5949 sexually experienced (who reported ever having sex) participants aged 16-59 years in Britain from the probability sample surveys.",
       "u": "https://doi.org/10.1016/s0140-6736(26)01605-3",
       "image": "",
       "src": "The Lancet · 摘要索引",
@@ -525,7 +653,8 @@
       "topics": [
         "hospital",
         "consumer",
-        "research"
+        "research",
+        "business"
       ],
       "sections": [
         "research"
@@ -538,7 +667,7 @@
       "stages": [
         "data"
       ],
-      "event": "new",
+      "event": "updated",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -550,16 +679,16 @@
       },
       "tier": "skim",
       "freshness": "fresh",
-      "rel": 75,
+      "rel": 74,
       "editorial": {
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-11-25T14:24:33+00:00",
-        "input_hash": "596105a4db6b016854a845233af068d6e7d5323c445ceb720bb20c4ef2c46623",
+        "evaluated_at": "2026-11-26T03:35:38+00:00",
+        "input_hash": "e7c729778583d9f81fec9c1b76488e657b04bb7dde22c290b0f1901e820de712",
         "input_scope": "source_summary",
         "policy_version": "79c20b05dbd582fa",
-        "reason": "这是英国代表性人群的重复横断面调查，提供了2010–2024年性病和性健康服务的使用变化，其中16–24岁女性衣原体检测从54.2%降至17.8%；对性健康服务设计和监测研究有直接参考价值。主要限制是采用横断面设计，存在自报行为和一次抽样框架的局限，只能反映关联而不能作因果推断。",
+        "reason": "这是Natsal系列有全国概率样本与生物学检测的重复横断面研究，提供了2022–24年STI患病率、风险行为和性健康服务使用的直接估计，并可与2010–12年比较；尤其衣原体检测率大幅下降、风险人群中多数未使用服务，对性健康服务与筛查策略有实质参考。限制是横断面自报行为与跨国/跨期可比性，不能推断因果。",
         "reviews": [
           {
             "audiences": [
@@ -569,28 +698,28 @@
               "evidence": 8,
               "novelty": 7,
               "relevance": 8,
-              "significance": 8,
+              "significance": 7,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "Natsal-4提供2022-24年英国全国概率样本的性病生物样本患病率、风险行为与服务利用的跨期比较，揭示了年轻女性沙眼衣原体高患病率及衣原体检测大幅下降（16-24岁女性自54.2%降至17.8%），对性健康服务与HIV/STI防控决策有直接参考价值。限制在于横断面设计无法推断因果，且STI患病率基于部分样本生物检测、部分行为为自报。",
+            "reason": "这是Natsal系列有全国概率样本与生物学检测的重复横断面研究，提供了2022–24年STI患病率、风险行为和性健康服务使用的直接估计，并可与2010–12年比较；尤其衣原体检测率大幅下降、风险人群中多数未使用服务，对性健康服务与筛查策略有实质参考。限制是横断面自报行为与跨国/跨期可比性，不能推断因果。",
             "receipt": {
               "model": "deepseek-flash",
-              "request_id": "c81ee124-a200-401e-a413-df18a2c2e55a",
-              "seconds": 1.97,
+              "request_id": "d4f35d08-8d53-4c7b-9f48-53817083bf3a",
+              "seconds": 2.88,
               "usage": {
-                "completion_tokens": 197,
+                "completion_tokens": 181,
                 "prompt_cache_hit_tokens": 896,
-                "prompt_cache_miss_tokens": 911,
-                "prompt_tokens": 1807,
+                "prompt_cache_miss_tokens": 916,
+                "prompt_tokens": 1812,
                 "prompt_tokens_details": {
                   "cached_tokens": 896
                 },
-                "total_tokens": 2004
+                "total_tokens": 1993
               }
             },
             "support": "Between Natsal-3 and Natsal-4, HIV testing increased in MSM, sexual health service use decreased in young men with only opposite-sex partners, and chlamydia testing markedly declined",
-            "total": 77
+            "total": 74
           },
           {
             "audiences": [
@@ -599,41 +728,41 @@
             "axes": {
               "evidence": 7,
               "novelty": 7,
-              "relevance": 7,
+              "relevance": 8,
               "significance": 8,
               "usefulness": 7
             },
             "kind": "research",
-            "reason": "这是英国代表性人群的重复横断面调查，提供了2010–2024年性病和性健康服务的使用变化，其中16–24岁女性衣原体检测从54.2%降至17.8%；对性健康服务设计和监测研究有直接参考价值。主要限制是采用横断面设计，存在自报行为和一次抽样框架的局限，只能反映关联而不能作因果推断。",
+            "reason": "英国全国概率抽样重复横断面调查提供了2022–24年性传播感染生物样本患病率、风险行为和HIV/衣原体检测利用的群体级数据，并可与Natsal-3比较，对性健康服务配置和HIV/STI防控研究有直接参考价值；限制在于横断面设计不能推断因果，且部分行为与服务利用为自报。",
             "receipt": {
               "model": "deepseek-flash",
-              "request_id": "513e3d67-e679-4129-8126-f699e26dc4fa",
-              "seconds": 1.86,
+              "request_id": "23bfca99-1d8a-4b7a-80cd-aeb87f6180de",
+              "seconds": 1.76,
               "usage": {
-                "completion_tokens": 172,
+                "completion_tokens": 168,
                 "prompt_cache_hit_tokens": 1664,
-                "prompt_cache_miss_tokens": 143,
-                "prompt_tokens": 1807,
+                "prompt_cache_miss_tokens": 148,
+                "prompt_tokens": 1812,
                 "prompt_tokens_details": {
                   "cached_tokens": 1664
                 },
-                "total_tokens": 1979
+                "total_tokens": 1980
               }
             },
             "support": "Between Natsal-3 and Natsal-4, HIV testing increased in MSM, sexual health service use decreased in young men with only opposite-sex partners, and chlamydia testing markedly declined",
-            "total": 73
+            "total": 74
           }
         ],
-        "score": 75,
+        "score": 74,
         "selected": true,
         "source_tier": "T1",
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
-        "research": "这是英国代表性人群的重复横断面调查，提供了2010–2024年性病和性健康服务的使用变化，其中16–24岁女性衣原体检测从54.2%降至17.8%；对性健康服务设计和监测研究有直接参考价值。主要限制是采用横断面设计，存在自报行为和一次抽样框架的局限，只能反映关联而不能作因果推断。"
+        "research": "这是Natsal系列有全国概率样本与生物学检测的重复横断面研究，提供了2022–24年STI患病率、风险行为和性健康服务使用的直接估计，并可与2010–12年比较；尤其衣原体检测率大幅下降、风险人群中多数未使用服务，对性健康服务与筛查策略有实质参考。限制是横断面自报行为与跨国/跨期可比性，不能推断因果。"
       },
       "historical": true
     },
@@ -641,8 +770,8 @@
       "id": "pmid:43078110",
       "t": "1999 年至 2024 年英国人乳头瘤病毒 (HPV) 感染、疫苗接种和宫颈筛查：来自全国性态度和生活方式重复横断面调查 (Natsal) 的结果。",
       "te": "Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
-      "s": "人乳头瘤病毒 (HPV) 疫苗接种和宫颈筛查显着降低了宫颈癌的总体风险，但必须量化接种率的差异，以便为公平获取提供信息。本研究旨在提供人口层面的证据，证明自 2008 年引入疫苗接种计划 15 年后，HPV 疫苗接种对英格兰、苏格兰和威尔士（以下简称英国）的 HPV 16 和 18（以下简称 HPV-16/18）患病率以及宫颈癌预防干预措施（即疫苗接种和筛查）的采用产生影响。我们开展了全国性态度和生活方式调查 (Natsal)，该调查具有全国代表性，使用个人数据和生物样本 HPV 检测进行横断面人口调查。数据来自 Natsal-2（1999-2001 年；在疫苗接种计划推出之前，包括尿液生物样本）、Natsal-3（2010-12；",
-      "se": "Human papillomavirus (HPV) vaccination and cervical screening have substantially reduced overall cervical cancer risk, but differences in uptake must be quantified to inform equitable access. This study aimed to provide population-level evidence of the impact of HPV vaccination on HPV types 16 and 18 (hereafter HPV-16/18) prevalence in England, Scotland, and Wales (hereafter Britain), and uptake of cervical cancer prevention interventions (ie, vaccination and screening), 15 years after the introduction of the vaccination programme in 2008. We conducted the National Surveys of Sexual Attitudes and Lifestyles (Natsal), which are nationally representative, cross-sectional population surveys with individual-level data and HPV testing of biosamples. Data from Natsal-2 (1999-2001; before the vaccination programme was introduced, and included urine biosamples), Natsal-3 (2010-12;",
+      "s": "",
+      "se": "Background Human papillomavirus (HPV) vaccination and cervical screening have substantially reduced overall cervical cancer risk, but differences in uptake must be quantified to inform equitable access. This study aimed to provide population-level evidence of the impact of HPV vaccination on HPV types 16 and 18 (hereafter HPV-16/18) prevalence in England, Scotland, and Wales (hereafter Britain), and uptake of cervical cancer prevention interventions (ie, vaccination and screening), 15 years after the introduction of the vaccination programme in 2008. Methods We conducted the National Surveys of Sexual Attitudes and Lifestyles (Natsal), which are nationally representative, cross-sectional population surveys with individual-level data and HPV testing of biosamples. Data from Natsal-2 (1999-2001;",
       "u": "https://doi.org/10.1016/s0140-6736(26)01554-0",
       "image": "",
       "src": "The Lancet · 摘要索引",
@@ -651,7 +780,8 @@
       "trust": 3,
       "sourceType": "期刊论文",
       "topics": [
-        "research"
+        "research",
+        "business"
       ],
       "sections": [
         "research"
@@ -664,7 +794,7 @@
       "stages": [
         "data"
       ],
-      "event": "new",
+      "event": "updated",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -681,73 +811,73 @@
         "audiences": [
           "research"
         ],
-        "evaluated_at": "2026-11-25T14:24:34+00:00",
-        "input_hash": "de38d0fa123a5d0e3158c0506c9f1f1a952015bd037f3d2a5c47d7b703533724",
+        "evaluated_at": "2026-11-26T03:35:39+00:00",
+        "input_hash": "fffda300e0e717dcca70c50a0ce20e7a4e93290d766ffe9bacb8cd84d83c78c7",
         "input_scope": "source_summary",
         "policy_version": "79c20b05dbd582fa",
-        "reason": "这是基于Natsal连续横断面、含HPV生物样本检测的人群证据，可为评估疫苗接种对HPV-16/18流行率的影响及筛查、接种公平性缺口提供参考；但结论源于横断面比较，且部分亚组样本量有限，不宜外推为因果或临床获益证明。",
+        "reason": "这项研究基于三项具有全国代表性的重复横断面调查，报告了HPV-16/18感染率的长期下降并指出接种和筛查不足的人群特征，对评估免疫规划效果和公平性有参考价值；但核心比较为横断面观察，且年龄和调查期混杂，未提供因果估计。",
         "reviews": [
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 8,
-              "novelty": 6,
-              "relevance": 7,
-              "significance": 7,
-              "usefulness": 6
+              "evidence": 7,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
             },
             "kind": "research",
-            "reason": "这是基于Natsal连续横断面、含HPV生物样本检测的人群证据，可为评估疫苗接种对HPV-16/18流行率的影响及筛查、接种公平性缺口提供参考；但结论源于横断面比较，且部分亚组样本量有限，不宜外推为因果或临床获益证明。",
+            "reason": "这项研究用1999–2024年三期具有全国代表性的横截面调查，量化了HPV-16/18感染率下降86%、未接种人群中的全部感染及接种与筛查不平等等，可供研究者参考准概率混合抽样、生物样本HPV检测和年龄校正比率设计；但横截面观察不能直接证明个体因果，疫苗覆盖与筛查行为为自报，概率样本HPV检测仅约千人。",
             "receipt": {
               "model": "deepseek-flash",
-              "request_id": "ff7308ff-fcf2-47fe-adf2-76c1a3e482b4",
-              "seconds": 1.45,
+              "request_id": "9ac103b3-8225-4ae3-928a-90440ff9b32d",
+              "seconds": 2.35,
               "usage": {
-                "completion_tokens": 157,
+                "completion_tokens": 223,
                 "prompt_cache_hit_tokens": 896,
-                "prompt_cache_miss_tokens": 808,
-                "prompt_tokens": 1704,
+                "prompt_cache_miss_tokens": 813,
+                "prompt_tokens": 1709,
                 "prompt_tokens_details": {
                   "cached_tokens": 896
                 },
-                "total_tokens": 1861
+                "total_tokens": 1932
               }
             },
-            "support": "HPV-16/18 prevalence was 86% lower (aPR 0·14, 95% CI 0·02-0·84) among those aged 18-29 years in Natsal-4",
-            "total": 70
+            "support": "HPV-16/18 prevalence was 86% lower (aPR 0·14, 95% CI 0·02-0·84) among those aged 18-29 years in Natsal-4 (1·6%, 95% CI 0·3-8·2) than in Natsal-2 (8·7%, 95% CI 6·7-11·3).",
+            "total": 74
           },
           {
             "audiences": [
               "research"
             ],
             "axes": {
-              "evidence": 8,
+              "evidence": 7,
               "novelty": 6,
               "relevance": 7,
               "significance": 7,
-              "usefulness": 7
+              "usefulness": 6
             },
             "kind": "research",
-            "reason": "基于三轮全国代表性调查、含生物样本HPV检测的重复横断面研究，量化了HPV-16/18感染下降86%及未接种者承担全部感染，并揭示少数族裔、宗教群体和非英国出生人群接种与筛查不足；研究者可借鉴其年龄调整设计、分亚组公平性分析与自报接种/筛查的局限。",
+            "reason": "这项研究基于三项具有全国代表性的重复横断面调查，报告了HPV-16/18感染率的长期下降并指出接种和筛查不足的人群特征，对评估免疫规划效果和公平性有参考价值；但核心比较为横断面观察，且年龄和调查期混杂，未提供因果估计。",
             "receipt": {
               "model": "deepseek-flash",
-              "request_id": "5a2f81ce-07fe-4cfb-bdcd-0f4e21475041",
-              "seconds": 2.97,
+              "request_id": "26bce63c-a01a-49c2-a1c4-e0faddcca176",
+              "seconds": 2.52,
               "usage": {
-                "completion_tokens": 232,
+                "completion_tokens": 200,
                 "prompt_cache_hit_tokens": 1536,
-                "prompt_cache_miss_tokens": 168,
-                "prompt_tokens": 1704,
+                "prompt_cache_miss_tokens": 173,
+                "prompt_tokens": 1709,
                 "prompt_tokens_details": {
                   "cached_tokens": 1536
                 },
-                "total_tokens": 1936
+                "total_tokens": 1909
               }
             },
-            "support": "HPV-16/18 prevalence was 86% lower (aPR 0·14, 95% CI 0·02-0·84) among those aged 18-29 years in Natsal-4 (1·6%, 95% CI 0·3-8·2) than in Natsal-2 (8·7%, 95% CI 6·7-11·3). All HPV-16/18 infections repor",
-            "total": 71
+            "support": "HPV-16/18 prevalence was 86% lower (aPR 0·14, 95% CI 0·02-0·84) among those aged 18-29 years in Natsal-4 (1·6%, 95% CI 0·3-8·2) than in Natsal-2 (8·7%, 95% CI 6·7-11·3).",
+            "total": 67
           }
         ],
         "score": 70,
@@ -756,10 +886,10 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
-        "research": "这是基于Natsal连续横断面、含HPV生物样本检测的人群证据，可为评估疫苗接种对HPV-16/18流行率的影响及筛查、接种公平性缺口提供参考；但结论源于横断面比较，且部分亚组样本量有限，不宜外推为因果或临床获益证明。"
+        "research": "这项研究基于三项具有全国代表性的重复横断面调查，报告了HPV-16/18感染率的长期下降并指出接种和筛查不足的人群特征，对评估免疫规划效果和公平性有参考价值；但核心比较为横断面观察，且年龄和调查期混杂，未提供因果估计。"
       },
       "historical": true
     },
@@ -883,7 +1013,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。"
@@ -1012,7 +1142,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。"
@@ -1141,7 +1271,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-11-23",
       "reasons": {
         "research": "该回顾性多中心队列显示，基于影像报告与临床数据的XGBoost模型在1/3/5年胰腺癌预测上AUC约0.94–0.96，并优于指南分层；研究者可借鉴其利用既有文本报告建模、以时间分层评估及与放射科医生对照的设计，但需注意事件率仅1.8%、缺乏外部独立验证和前瞻性验证，不能据此推断临床获益。"
@@ -1179,7 +1309,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-25T14:23:15+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9"
       },
@@ -1265,7 +1397,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-11-23",
       "reasons": {
         "industry": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。"
@@ -1393,7 +1525,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-11-23",
       "reasons": {
         "research": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。"
@@ -1518,7 +1650,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "基于158例治疗队列的9例活检确诊报告，用载体整合、流式和TCR测序多模态刻画CAR+克隆浸润的细胞毒表型与十二指肠富集，为CAR-T胃肠道毒性机制和鉴别T细胞淋巴瘤提供可复用分析路径；但为单中心回顾性观察，样本小且无对照干预，机制仍属关联。"
@@ -1646,10 +1778,135 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "这是一项开放标签、整群随机对照试验，在冈比亚和布基纳法索两个传播强度不同的西非现场评估R21季节性群体接种，显示疟疾感染几率下降70%；研究者可借鉴其整群随机设计、跨传播强度现场与横断面终点的实施细节及局限，对全人群接种策略的因果判断需结合开放性、接种覆盖差异和单季调查解读。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43057276",
+      "t": "",
+      "te": "Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal).",
+      "s": "",
+      "se": "Background Major policy and funding shifts threaten access to essential reproductive services and reproductive autonomy in Britain (England, Scotland, and Wales) amid growing attention towards hormone hesitancy and declining birth rates. We report on prevalence, changes, and sociodemographic differences in reproductive health indicators among women of reproductive age in Britain from 2010 to 2024. Methods Britain's National Surveys of Sexual Attitudes and Lifestyles (Natsal) are cross-sectional, nationally representative surveys (Natsal-3 Sept 6, 2010, to Aug 31, 2012; Natsal-4 Sept 20, 2022, to April 5, 2024).",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01551-5",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43057276",
+        "upstream_id": "43057276"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 77,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-26T03:35:40+00:00",
+        "input_hash": "023e3ccf0f097ffaef429a8f3b99608d2f4edcd4f196863b51f400277e2831a7",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "Natsal两次全国概率抽样调查的对比提供了英国女性生殖健康自主权指标的可比趋势，揭示了避孕使用下降、不想要孩子比例翻倍及社会经济不平等，对理解人口与生殖健康服务需求有实质价值；但横截面设计只能提示关联，且需注意概率与非概率样本合并分析的限制。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "Natsal两次全国概率抽样调查的对比提供了英国女性生殖健康自主权指标的可比趋势，揭示了避孕使用下降、不想要孩子比例翻倍及社会经济不平等，对理解人口与生殖健康服务需求有实质价值；但横截面设计只能提示关联，且需注意概率与非概率样本合并分析的限制。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "7c91a0dc-c710-42b1-b2c8-e27dcc65e382",
+              "seconds": 2.67,
+              "usage": {
+                "completion_tokens": 187,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 766,
+                "prompt_tokens": 1662,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1849
+              }
+            },
+            "support": "The proportion of those aged 16-44 years reporting definitely not wanting children more than doubled from Natsal-3 to Natsal-4 (from 7·7% to 16·6%; adjusted OR 1·66, 95% CI 1·28-2·16), driven by women",
+            "total": 77
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于两轮全国概率抽样调查（Natsal-3 与 Natsal-4）的可比指标，提供了英国女性避孕使用、流产、生育意愿及社会经济不平等的纵向变化证据；但属横断面重复调查，只能提示关联而非因果，且部分非概率样本用于亚组分析。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "81c7dbc9-6a79-4d07-96e0-c4d7d9d15b91",
+              "seconds": 2.12,
+              "usage": {
+                "completion_tokens": 149,
+                "prompt_cache_hit_tokens": 1408,
+                "prompt_cache_miss_tokens": 254,
+                "prompt_tokens": 1662,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1408
+                },
+                "total_tokens": 1811
+              }
+            },
+            "support": "The increase in women not intending to have children has major demographic implications and, alongside the persistent unmet need for effective contraception, underscores the importance of high-quality",
+            "total": 77
+          }
+        ],
+        "score": 77,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "7 天前",
+      "date": "2026-11-19",
+      "reasons": {
+        "research": "Natsal两次全国概率抽样调查的对比提供了英国女性生殖健康自主权指标的可比趋势，揭示了避孕使用下降、不想要孩子比例翻倍及社会经济不平等，对理解人口与生殖健康服务需求有实质价值；但横截面设计只能提示关联，且需注意概率与非概率样本合并分析的限制。"
       },
       "historical": true
     },
@@ -1774,7 +2031,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "6 天前",
+      "when": "7 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "大型多中心回顾性队列（约370万儿童、4500万人年、1536例脑瘤）量化了儿童医学影像累积脑部辐射剂量与脑瘤风险的剂量-反应关系，为儿科CT等检查的临床 justification 和剂量最小化提供了可引用的定量依据。限制是观察性设计、依赖剂量与诊断记录，不能直接证明因果，摘要也未给出具体风险估计值。"
@@ -1812,7 +2069,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-25T14:23:15+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease"
       },
@@ -1898,7 +2157,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "7 天前",
+      "when": "8 天前",
       "date": "2026-11-18",
       "reasons": {
         "industry": "FDA首次批准针对3型戈谢病神经系统症状的药物，填补了这一适应症的空白，属于明确的监管审批事件；产业读者可据此判断该罕见病领域的市场准入与未满足需求，但材料仅有批准动作，缺少疗效数据和试验设计细节。"
@@ -2023,7 +2282,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-17",
       "reasons": {
         "research": "该研究基于约21.9万人的长期纵向队列和约78.3万次记忆评估，把世代认知优势拆成“进入老年时水平更高”和“下降更慢”两部分，并对应临床损害与海马萎缩，为痴呆发病率下降提供了机制层面的证据。限制在于这是观察性队列，不能证明因果，也不能据此评估具体预防干预的效应。"
@@ -2151,7 +2410,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-17",
       "reasons": {
         "industry": "这是Medicare共享节余计划PY2025的官方结算与质量结果，并披露CY2027支付规则对ACO激励、基准调整、数字质量报告和Part B自付减免的最终政策；产业读者可据此判断责任医疗组织的付费阶段、风险轨道迁移和参与策略，但材料为CMS汇总口径，缺少ACO层面明细和因果设计。"
@@ -2189,7 +2448,9 @@
         "observed_in_sources": [
           "fda_press"
         ],
+        "retained_during_source_outage": true,
         "retrieved_via": "rss",
+        "snapshot_observed_at": "2026-11-25T14:23:15+00:00",
         "source_id": "fda_press",
         "upstream_id": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer"
       },
@@ -2275,7 +2536,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-17",
       "reasons": {
         "industry": "FDA 首次批准可延长婴儿期起病 NPC 患者生存期的药物，是明确的监管审批与市场准入事实，产业读者可据此判断罕见病治疗领域的新准入节点；但材料仅提供批准结论，未披露试验设计、样本量、效应幅度与安全性细节，疗效与商业价值判断受限。"
@@ -2403,7 +2664,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-11-16",
       "reasons": {
         "research": "这项3b期随机对照试验（RCT）首次为6至<12岁肥胖儿童提供司美格鲁肽治疗证据；主要结果（第68周BMI变化-13.5%对+2.7%）为儿科用药与临床决策提供参考。但摘要未给出不良事件、停药后体重反弹及生长发育等关键安全性细节，也缺少长期结局数据。"
@@ -2531,7 +2792,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-11-15",
       "reasons": {
         "research": "中国人群多中心3期随机双盲安慰剂对照试验，报告新型GIP/GLP-1双激动剂ribupatide三个剂量48周减重幅度及安慰剂校正差值，为研究者提供剂量效应、效应量估计和胃肠道耐受性信息；但摘要未给出安全性事件发生率、停药率及人群外推限制。"
@@ -2659,7 +2920,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-11-15",
       "reasons": {
         "research": "这是替尔泊肽在青少年肥胖中的3期随机双盲试验，报告了72周BMI降低18.5%、对照升0.5%及不良事件框架，为儿科减重药物研究者和临床决策提供直接证据；但样本仅160例、摘要未给出安全性细节与停药/依从数据，限制外推与获益-风险判断。"
@@ -2668,6 +2929,13 @@
     }
   ],
   "editions": [
+    {
+      "date": "2026-11-25",
+      "item_ids": [
+        "pmid:43082011"
+      ],
+      "minutes": 2
+    },
     {
       "date": "2026-11-24",
       "item_ids": [
@@ -2692,10 +2960,11 @@
       "date": "2026-11-19",
       "item_ids": [
         "pmid:43056070",
+        "pmid:43057276",
         "pmid:43057277",
         "url:https://www.nature.com/articles/s41591-026-04731-w"
       ],
-      "minutes": 3
+      "minutes": 5
     },
     {
       "date": "2026-11-18",

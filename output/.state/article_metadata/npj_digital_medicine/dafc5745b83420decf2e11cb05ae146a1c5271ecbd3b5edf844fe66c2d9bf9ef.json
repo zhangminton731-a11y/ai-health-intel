@@ -1,0 +1,5 @@
+{
+  "summary": "Distinguishing Group A streptococcus (GAS) pharyngitis from viral upper respiratory tract infections (URTIs) is critical for appropriate antibiotic use but remains difficult on symptoms alone. We developed and internally validated a multimodal artificial intelligence (AI) model fusing pharyngeal images (Swin Transformer) with clinical metadata via gradient boosting decision trees, using 6666 visits and 119,988 images from 44 facilities collected March 2023–August 2025. For discriminating GAS from non-GAS (influenza A/B, COVID-19), the fusion model achieved area under the curve (AUC) 0.917 (95% confidence interval 0.907–0.926), outperforming image-only (0.902), metadata-only (0.871) and proxy Centor/McIsaac scores. At a pre-specified high-specificity threshold (≥0.90) sensitivity was 0.761; simulations indicated antibiotic-prescription reductions of 23–56% across GAS prevalences of 5–20%. External validation and prospective evaluation are needed.",
+  "summary_source": "https://www.nature.com/articles/s41746-026-03492-7",
+  "url": "https://www.nature.com/articles/s41746-026-03492-7"
+}
