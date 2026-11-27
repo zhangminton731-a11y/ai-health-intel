@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T03:38:21+00:00",
+  "generated_at": "2026-11-27T13:52:42+00:00",
   "as_of": "2026-11-27",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
@@ -287,7 +287,7 @@
         "analysis",
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "image_url": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4a835b64db7055df1fa78234ad2693de",
         "observed_in_sources": [
@@ -416,7 +416,7 @@
         "design",
         "data"
       ],
-      "event": "updated",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "bmj_abstracts"
