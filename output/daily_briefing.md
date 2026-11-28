@@ -1,6 +1,6 @@
 # Scientific Information Brief · 2026-11-28
 
-> Daily status: **complete_with_warning** · sources 26/26 · items 451
+> Daily status: **complete_with_warning** · sources 26/26 · items 450
 
 Reading tiers are configurable attention hints, not scientific-quality grades.
 
@@ -14,7 +14,7 @@ No items.
 
 - Source: `lancet_abstracts` · published `2026-11-26` · freshness `fresh`
 - Reading value: `79` · status: `scored`
-- Event: `new` · identity: `pmid:43098155`
+- Event: `seen` · identity: `pmid:43098155`
 
 <h4>Background</h4>Adding novel androgen receptor pathway inhibitors (ARPIs) to standard of care improves outcomes for patients with metastatic hormone-sensitive prostate cancer (mHSPC), but whether benefits are consistent across patient subgroups remains uncertain. We aimed to assess whether ARPI effects vary according to participant or tumour characteristics, or by docetaxel use.<h4>Methods</h4>In this systematic review and meta-analysis (STOPCAP), we sought individual participant data for completed trials adding ARPIs to standard of care. Intention-to-treat, two-stage, common-effect meta-analysis of hazard ratios (HRs) were adjusted for a common set of covariates and docetaxel use. Main effects were based on overall survival. Interaction effects were based on progression-free survival (PFS) to maximise power, then overall survival whenever significant PFS interactions were found. Prostate cancer-specific survival (PCSS), exploratory competing risk analyses of causes of death, and 5-year absolute effects were estimated overall and for key subgroups.<h4>Findings</h4>Individual participant data were available from seven eligible trial comparisons (two comparisons from STAMPEDE, LATITUDE, PEACE-1, SWOG-S1216, ENZAMET, and TITAN) and 7778 participants (66% of total eligible). In the primary analysis of six trials (6467 participants and 3322 events), adding an ARPI improved overall survival (HR 0·66 [95% CI 0·62-0·710]; p<0·0001), with a 13% absolute improvement in 5-year survival. Similar results were observed for PFS. No evidence of effect variation was observed by ARPI class, docetaxel use, disease volume, Gleason score, performance status, or metastatic burden. ARPI effects on PFS varied by continuous age (interaction p=0·0005) and by age group (interaction p=0·0027), with patterns differing by ARPI class (biosynthesis versus receptor inhibitors: p=0·022) and similar results for overall survival. Based on individual participant data from three abiraterone trials (100% of eligible participants), effects on overall survival varied by age group (interaction p=0·0006), with an absolute 5-year improvement of about 15% for patients younger than 75 years but minimal benefit (about 1%) in those aged 75 years or older. Abiraterone improved 5-year PCSS across all age groups (11-18%), with a similar reduction in cumulative incidence of cancer deaths. However, in patients aged 75 years or older, abiraterone was associated with a 12% increase in 5-year cumulative incidence of non-cancer deaths. Based on limited individual participant data for receptor inhibitors (two trials; 35% of eligible participants), there was no clear evidence that effects on overall survival varied by age group (interaction p=0·078), and results from the STAMPEDE trial comparison of combined abiraterone and enzalutamide were similar.<h4>Interpretation</h4>Adding an ARPI to standard of care significantly improved overall survival for most patients with mHSPC. Although abiraterone improved cancer-specific survival for all, non-cancer mortality was increased among older patients. Further individual participant data are needed to fully assess the effects of androgen receptor inhibitors by age. Current data highlight the importance of considering age and comorbidities when selecting ARPI therapy.<h4>Funding</h4>UK Medical Research Council and Prostate Cancer UK.
 
@@ -94,7 +94,7 @@ FDA today approved Infilbray (venglustat) tablets, the first treatment for the n
 
 - Source: `npj_digital_medicine` · published `2026-11-27` · freshness `fresh`
 - Reading value: `73` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03455-y`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03455-y`
 
 Clinical large language models (LLMs) are commonly scaled by increasing model size, context length, retrieval complexity, or inference-time compute, on the assumption that higher accuracy implies safer behavior. In medicine, where a few confident or evidence-contradicting errors can outweigh average performance, this assumption may be incomplete. We introduce Safety-Focused Evaluation of Scaling (SaFE-Scale) and instantiate it on RadSaFE-200, a 200-question text-based radiology multiple-choice benchmark with clinician-defined clean evidence, conflict evidence, and option-level labels for high-risk error, unsafe answer, and evidence contradiction. Thirty-four local LLMs were evaluated across six deployment conditions spanning closed-book, evidence-grounded, standard and agentic retrieval-augmented generation (RAG), and max-context prompting. Clean clinician-written evidence, used as an upper-bound, produced the strongest joint gain, raising mean accuracy from 73.5% to 94.1% and reducing high-risk error from 12.0% to 2.6% and dangerous overconfidence from 8.0% to 1.6%. Standard and agentic RAG, max-context prompting, and inference-time compute improved selected metrics but did not reproduce this safety profile. Clinically consequential errors concentrated in a small subset of questions, and variance decomposition placed deployment condition above model family on every safety metric. Within this evaluation, clinical LLM safety did not track accuracy scaling but emerged as a deployment-level property.
 
@@ -150,7 +150,7 @@ Clinical large language models (LLMs) are commonly scaled by increasing model si
 
 No items.
 
-## Archive · 434
+## Archive · 433
 
 ### [Noninvasive imaging could replace finger pricks for people with diabetes](https://news.mit.edu/2025/noninvasive-imaging-could-replace-finger-pricks-diabetes-1203)
 
@@ -1064,14 +1064,6 @@ Calendar Year (CY) 2027 End-Stage Renal Disease (ESRD) Prospective Payment Syste
 
 <h4>Objective</h4>To describe the epidemiological characteristics, public health response, and evidence of international spread of a large measles outbreak that contributed to the loss of Canada's measles elimination status.<h4>Design</h4>Descriptive analysis of the cohort of measles outbreak cases reported to Ontario's public health surveillance system during the outbreak period: epidemiological week of 28 October 2024 to 6 October 2025.<h4>Setting</h4>Ontario, Canada.<h4>Participants</h4>Individuals meeting the outbreak case definition for confirmed or probable measles infection during the outbreak period.<h4>Exposure</h4>Exposure to measles virus associated with the Ontario outbreak and related transmission chains.<h4>Main outcome measures</h4>Demographic characteristics, vaccination status, admission to hospital, complications, pregnancy associated outcomes, mortality, and evidence of international spread based on measles virus genotyping and sequencing. Cases were identified using an outbreak-specific case definition incorporating epidemiological, clinical, laboratory, and viral sequencing criteria. Phylogenetic analysis of measles virus sequences was used to assess evidence of onwards spread to other countries.<h4>Results</h4>The outbreak consisted of 2377 cases (2064 confirmed and 313 probable) over 49 weeks and contributed to the loss of Canada's measles elimination status. Most cases (2146/2377, 90.3%) occurred among members of historically under-vaccinated communities, with limited spillover into the broader population. Among the 2377 cases, approximately three quarters of cases (n=1736, 73.0%) occurred in individuals aged 19 years or younger, 2121 (89.2%) were unvaccinated, and 97 (4.1%) had unknown vaccination status. The outbreak was associated with 166 (7%) admissions to hospital, 13 (<1%) admissions to intensive care unit, 51 (2.1%) infections during pregnancy, 10 (<1%) congenital measles infections, one (<1%) case of encephalitis, and one (<1%) infant death. Sequencing identified a novel N450 distinct sequence identifier that was subsequently detected in countries including the United States of America, Mexico, and the Netherlands. The outbreak strain was designated a World Health Organization named strain (MVs/Ontario.CAN/47.24).<h4>Conclusions</h4>These findings highlight the risk of measles re-establishment in countries that have attained elimination and underscore the importance of culturally appropriate community engagement to build trust in immunisation and prevent future outbreaks. This outbreak shows the fragility of measles elimination in the presence of long standing immunity gaps within interconnected communities across the Americas and the population-level protection that limited broader community transmission.
 
-### [Notice to sponsors on validation and qualification of computerised systems used in clinical trials](https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/notice-sponsors-validation-qualification-computerised-systems-used-clinical-trials_en.pdf)
-
-- Source: `ema_guidance` · published `2026-10-28` · freshness `stale`
-- Reading value: `pending` · status: `ineligible`
-- Event: `seen` · identity: `url:https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/notice-sponsors-validation-qualification-computerised-systems-used-clinical-trials_en.pdf`
-
-Notice to sponsors on validation and qualification of computerised systems used in clinical trials
-
 ### [Seven MIT affiliates elected to the National Academy of Medicine for 2026](https://news.mit.edu/2026/mit-affiliates-elected-national-academy-medicine-1028)
 
 - Source: `mit_health` · published `2026-10-28` · freshness `stale`
@@ -1212,7 +1204,7 @@ In the past 5 years, substantial changes have been made in the use of intravenou
 
 - Source: `lancet_abstracts` · published `2026-11-01` · freshness `stale`
 - Reading value: `pending` · status: `ineligible`
-- Event: `updated` · identity: `pmid:42933459`
+- Event: `seen` · identity: `pmid:42933459`
 
 <h4>Background</h4>Patients with heavily pretreated hormone receptor-positive and human epidermal growth factor receptor 2-negative (HR+/HER2-) breast cancer have few treatment options. Izalontamab brengitecan (iza-bren) is a first-in-class, epidermal growth factor receptor and HER3 bispecific antibody-drug conjugate that contains a potent topoisomerase I inhibitor payload (Ed-04). The aim of PANKU-Breast01 was to compare the efficacy and safety of iza-bren versus chemotherapy in patients with pretreated HR+/HER2- breast cancer.<h4>Methods</h4>In this randomised, phase 3, open-label, multicentre study in 72 hospitals in China, patients with HR+/HER2- breast cancer who had disease progression after endocrine therapy, cyclin-dependent kinase (CDK) 4/6 inhibitors, and one or two lines of chemotherapy were randomly assigned (1:1) to iza-bren (2·5 mg/kg, administered by intravenous infusion on day 1 and day 8 every 3 weeks) or physician's choice chemotherapy (eribulin, 1·4 mg/m<sup>2</sup>; vinorelbine, 25 mg/m<sup>2</sup>; or gemcitabine, 1000 mg/m<sup>2</sup>, all administered by intravenous infusion on day 1 and day 8 every 3 weeks; or capecitabine, 1000-1250 mg/m<sup>2</sup>, administered orally twice daily on days 1-14 of each 3-week cycle). Stratified block randomisation was performed by an independent vendor using an interactive web response system, with stratification factors of number of previous lines of chemotherapy, CNS metastasis, and HER2 expression status. Patients, investigators, and site personnel involved in patient care and performing trial procedures were not masked to treatment assignment. The primary endpoint was progression-free survival assessed by Blinded Independent Central Review per RECIST (version 1.1) in the modified intention-to-treat population, which consisted of all randomly assigned participants who had at least one dose of study drug. Median progression-free survival was estimated using the Kaplan-Meier method and hazard ratios (HRs) were calculated using a stratified Cox proportional hazards model. The trial was registered at ClinicalTrials.gov, NCT06343948, and is closed to recruitment.<h4>Findings</h4>Between April 24, 2024, and June 6, 2025, 560 patients were screened, 177 were excluded, and 383 patients were randomly assigned and treated (190 were assigned to the iza-bren group and 193 were assigned to the chemotherapy group). All 383 participants in the study were female and of Chinese ethnicity. Median age was 54·0 years (IQR 47·0-60·0). At data cutoff (July 21, 2026), median follow-up for progression-free survival was 15·2 months (95% CI 13·9-16·8). Iza-bren significantly improved progression-free survival versus chemotherapy (log-rank p<0·0001), and median progression-free survival assessed by Blinded Independent Central Review was 8·2 months (95% CI 6·9-8·6) versus 4·0 months (2·9-4·3; HR 0·41 [95% CI 0·33-0·53]). Grade 3 or higher treatment-related adverse events occurred in 162 (85%) patients in the iza-bren group versus 127 (66%) patients in the chemotherapy group, and haematological adverse events were the most common in both groups. For the treatment of haematological adverse events, 138 (73%) patients in the iza-bren group received platelet-elevating agents, 28 (15%) patients in the iza-bren group received platelet transfusion, and 18 patients (10%) in the iza-bren group received a blood transfusion. Two patients in the iza-bren group died due to treatment-related adverse events.<h4>Interpretation</h4>Iza-bren showed a significant improvement in progression-free survival versus chemotherapy in patients with HR+/HER2- breast cancer previously treated with endocrine therapy, CDK4/6 inhibitors, and one or two lines of chemotherapy (including taxanes). The overall survival data were immature, and an overall survival benefit has not been established. These results suggest that iza-bren could be a new treatment option for this population in China; however, further evaluation of iza-bren in global populations and in earlier lines of therapy for HER2-negative breast cancer is warranted.<h4>Funding</h4>Baili-Bio (Chengdu) Pharmaceutical, CAMS Innovation Fund for Medical Sciences, Noncommunicable Chronic Diseases-National Science and Technology Major Project, National High Level Hospital Clinical Research Funding, and the National Natural Science Foundation of China.
 
@@ -3324,7 +3316,7 @@ Background: Pathology-labeled optical narrow-band imaging (NBI) is difficult to 
 
 - Source: `lancet_abstracts` · published `2026-11-26` · freshness `fresh`
 - Reading value: `67` · status: `scored`
-- Event: `new` · identity: `pmid:43098154`
+- Event: `seen` · identity: `pmid:43098154`
 
 <h4>Background</h4>Safe and highly effective oral treatment options for patients with moderate-to-severe psoriasis are scarce. Here, we aimed to assess the efficacy and safety of envudeucitinib (ESK-001), an investigational next-generation, highly selective, oral, allosteric tyrosine kinase 2 inhibitor, in patients with moderate-to-severe plaque psoriasis.<h4>Methods</h4>ONWARD1 (NCT06586112) and ONWARD2 (NCT06588738) are completed, replicate, multicentre, randomised, double-blinded, placebo-controlled and active comparator-controlled, phase 3 trials that enrolled patients in 333 sites (eg, research and medical centres, private practices, and hospitals) across 19 countries. Adults with a diagnosis of plaque psoriasis for at least 6 months, body surface area of at least 10%, and Psoriasis Area Severity Index (PASI) of at least 12 were randomly assigned 2:1:1 to oral envudeucitinib 40 mg twice daily, placebo, or apremilast 30 mg twice daily for 24 weeks of treatment. At week 16, patients receiving placebo were transitioned to envudeucitinib. Coprimary endpoints were at least 75% improvement from baseline in Psoriasis Area Severity Index (PASI 75) and static Physician's Global Assessment (sPGA) of 0 or 1 at week 16 (envudeucitinib vs placebo). Secondary endpoints were assessed at weeks 16 and 24 (envudeucitinib vs placebo and/or apremilast). Safety assessments included adverse events and laboratory parameters.<h4>Findings</h4>From July 25, 2024, to Dec 18, 2025, 912 and 859 patients were randomly assigned to ONWARD1 and ONWARD2, respectively (envudeucitinib, n=459 and n=433; placebo, n=230 and n=211; apremilast, n=223 and n=215). In both trials, coprimary and all key secondary endpoints were met (all p<0·0001). At week 16, envudeucitinib resulted in statistically significant PASI 75 responses versus placebo (ONWARD1: 351 [76·5%] of 459 vs 43 [18·7%] of 230; ONWARD2: 305 [70·4%] of 433 vs 29 [13·7%] of 211; both p<0·0001) and sPGA of 0 or 1 responses versus placebo (ONWARD1: 280 [61·0%] of 459 vs 23 [10·0%] of 230; ONWARD2: 248 [57·3%] of 433 vs 12 [5·7%] of 211; both p<0·0001). Up to week 16, 525 (59·0%) of 890 receiving envudeucitinib, 166 (37·6%) of 441 receiving placebo, and 224 (51·1%) of 438 patients receiving apremilast had one or more treatment-emergent adverse event. Up to week 24, 566 (63·6%) of 890 and 248 (56·6%) of 438 patients originally randomly assigned to envudeucitinib or apremilast had one or more treatment-emergent adverse event. Treatment-emergent adverse events were mostly mild or moderate and responsive to standard therapies; headache (97 [10·9%] of 890), nasopharyngitis (93 [10·4%] of 890), acne (60 [6·7%] of 890), and upper respiratory tract infection (57 [6·4%] of 890) occurred in at least 5% of patients receiving envudeucitinib during the trials. Up to week 16, serious adverse events occurred in 19 (2·1%) of 890 patients receiving envudeucitinib, five (1·1%) of 441 patients receiving placebo, and five (1·1%) of 438 patients receiving apremilast.<h4>Interpretation</h4>Envudeucitinib improved both skin signs and patient-reported outcomes, and maintained favourable tolerability, supporting its role as a promising oral treatment for patients with moderate-to-severe plaque psoriasis.<h4>Funding</h4>Alumis.
 
@@ -3412,7 +3404,7 @@ Background: Population aging has increased interest in digital strategies that m
 
 - Source: `nature_medicine` · published `2026-11-27` · freshness `fresh`
 - Reading value: `61` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/d41591-026-00060-0`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/d41591-026-00060-0`
 
 A phase 2 platform trial tests a plethora of drug combinations that incorporate new agents ganfeborole and BTZ-043 and identifies two regimens for further clinical development.
 
@@ -3420,7 +3412,7 @@ A phase 2 platform trial tests a plethora of drug combinations that incorporate 
 
 - Source: `jmir` · published `2026-11-27` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e79852`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e79852`
 
 Background: GamblingLess: In-The-Moment is an app-based just-in-time adaptive intervention (JITAI), informed by the Dynamic Model of Relapse, that delivers tailored interventions during moments of cognitive vulnerability to people seeking to reduce or quit gambling. It aims to reduce gambling symptom severity through short-term reductions in gambling episodes (primary proximal outcome) by improving craving intensity, self-efficacy, or positive outcome expectancies (secondary proximal outcomes). Objective: This study aimed to inform the optimization of GamblingLess: In-The-Moment by using a microrandomized trial (MRT) to explore whether tailored interventions, compared with no intervention, reduced subsequent gambling episodes, and improved subsequent craving intensity, self-efficacy, and positive outcome expectancies. A concurrent single-arm outcome evaluation assessed changes in gambling symptom severity (primary distal outcome) and gambling frequency, expenditure, craving severity, self-efficacy, and positive outcome expectancies (secondary distal outcomes) over 6 months. Methods: Australian adults seeking to reduce or quit gambling were recruited using online convenience sampling. In the fully automated, blinded 28-day MRT, participants reporting high craving intensity, low self-efficacy, and/or high positive outcome expectancies in ecological momentary assessments (EMAs), delivered by push notification 3 times daily, were randomized to a tailored intervention or a no-intervention control. Three modules (Curbing Cravings, Tackling Triggers, and Exploring Expectancies) targeted these cognitive processes; control messages comprised brief encouragement without intervention content. Results: Among 192 participants completing at least one EMA (men: n=127, 66.2%; median age 35, IQR 24-44 years), 5116 EMAs were completed (31.7% compliance). In the MRT, the tailored intervention was no more effective than the control condition in reducing subsequent gambling episodes (odds ratio 1.05, 95% CI 0.79-1.38; =.74) or associated expenditure, or in improving secondary proximal outcomes. No intervention module demonstrated clear evidence of reducing gambling episodes or associated expenditure, although Tackling Triggers and Exploring Expectancies produced small improvements in their target processes (self-efficacy and positive outcome expectancies, respectively). Sensitivity analyses, including adjustment for other help-seeking, demonstrated similar findings. Supplementary post hoc analyses not fully preserving decision-point randomization suggested small daily improvement in craving intensity and self-efficacy, and medium-to-large immediate improvements in all secondary proximal outcomes after intervention activities. The single-arm evaluation revealed large improvements in gambling symptom severity at postintervention (b=−11.30, 95% CI −12.96 to −9.64; =−0.96; &lt;.001) and 6 months (b=−12.33, 95% CI −14.01 to −10.66; =−1.04; &lt;.001), with 64.6% (104/161) and 66.5% (105/158) of participants, respectively, showing clinically significant recovery or improvement. Small-to-large improvements were also observed across all secondary distal outcomes at both time points. Conclusions: This study is the first to test a theoretically informed multimodule JITAI targeting dynamic cognitive relapse processes. The findings provide important guidance for optimizing gambling JITAIs and other scalable mobile health interventions delivered during moments of vulnerability in real-world settings, alongside promising distal improvements over an extended follow-up period. Trial Registration: Australian New Zealand Clinical Trials Registry ACTRN12622000490774; https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=380757&amp;isClinicalTrial=False International Registered Report Identifier (IRRID): RR2-10.2196/38958 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/09aa9ba1123869b6101eff1e6c72d136" />
 
@@ -3436,7 +3428,7 @@ Background: GamblingLess: In-The-Moment is an app-based just-in-time adaptive in
 
 - Source: `jmir` · published `2026-11-27` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93835`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e93835`
 
 Background: Patients after sphincter-preserving surgery (SPS) for rectal cancer often need to manage persistent bowel symptoms during recovery and may experience psychological distress, including loneliness, anxiety, and depressive symptoms. Self-compassion interventions have been used among patients with cancer, but research on digital self-compassion interventions for this population, particularly during home-based recovery after discharge, remains limited. Objective: This study aimed to evaluate the effect of a WeChat Mini Program–based self-compassion intervention on self-compassion in patients after SPS for rectal cancer. We also examined changes in cancer-related loneliness, anxiety, and depressive symptoms and evaluated intervention feasibility and platform usability. Methods: From September 2025 to February 2026, we conducted a single-center, two-arm, parallel-group, single-blind randomized controlled trial at a tertiary Grade A hospital in Anhui Province, China. A total of 160 patients were randomized 1:1 to the intervention or control group. The intervention group received a 4-week WeChat Mini Program–based self-compassion intervention, and the control group received routine postoperative follow-up. The primary outcome was self-compassion, and secondary outcomes were cancer-related loneliness, anxiety, and depressive symptoms. Outcomes were assessed at baseline (T0), at the end of the intervention (week 4; T1), 4 weeks after the intervention (week 8; T2), and 8 weeks after the intervention (week 12; T3). Intervention feasibility was evaluated based on task completion and platform use. The System Usability Scale (SUS) was used to assess platform usability among intervention-group participants who completed T3. Generalized estimating equations were used to examine between-group differences in changes over time, and multiple imputation was used for sensitivity analysis of missing data. Results: A total of 160 participants were randomized, with 80 in each group. At T1, improvement in self-compassion was greater in the intervention group than in the control group (β=6.13, 95% CI 4.44‐7.82; &lt;.001). This difference remained significant at T2 (β=5.25, 95% CI 3.60‐6.90; &lt;.001) and T3 (β=6.52, 95% CI 4.66‐8.38; &lt;.001). Reductions in cancer-related loneliness, anxiety, and depressive symptoms were also greater in the intervention group at all follow-up time points (all &lt;.001). Results of the multiple-imputation sensitivity analysis were generally consistent with the primary analysis. In the intervention group, 62 of 80 (77.5%) participants completed at least 75% of the training tasks. Among the 52 intervention-group participants who completed T3, the mean SUS score was 74.13 (SD 8.00), above the benchmark of 68. Conclusions: During home-based recovery after SPS for rectal cancer, the intervention group showed greater improvement in self-compassion and greater reductions in cancer-related loneliness, anxiety, and depressive symptoms than the control group, and these between-group differences were observed at T2 and T3. Further multicenter studies with longer follow-up are needed. Trial Registration: Chinese Clinical Trial Registry ChiCTR2500107801; https://www.chictr.org.cn/showprojEN.html?proj=283239 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/9ad70e1663d34933ae2a0141c2029ecb" />
 
@@ -3444,7 +3436,7 @@ Background: Patients after sphincter-preserving surgery (SPS) for rectal cancer 
 
 - Source: `jmir` · published `2026-11-27` · freshness `fresh`
 - Reading value: `59` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e108789`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e108789`
 
 Background: Generative AI (GenAI), particularly large language models, is increasingly being used in behavioral medicine to provide scalable and personalized support. However, evidence from randomized controlled trials (RCTs) remains heterogeneous, and the contribution of generative capabilities beyond therapeutic content and intervention design remains unclear. Objective: This systematic review and meta-analysis aimed to evaluate the effectiveness of GenAI-based interventions across behavioral medicine and to characterize the intervention features and trial designs relevant to their clinical evaluation and implementation. Methods: We searched PubMed, Embase, Web of Science, and Scopus for RCTs published from January 1, 2020, to March 31, 2026. Eligible studies compared GenAI-based interventions with inactive controls, usual care, nongenerative interventions, or active comparators. The primary outcomes were depressive and anxiety symptoms. Secondary outcomes included affect, engagement, empathy, and therapeutic alliance. Risk of bias was assessed using the revised Cochrane risk-of-bias tool for randomized trials (RoB 2), and certainty of evidence was assessed using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach. Random-effects models were used to calculate pooled Hedges values and 95% CIs. Results: Of the 19,475 records identified, 20 RCTs met the eligibility criteria. Of these, 14 (70%) were at overall high risk of bias, 4 (20%) raised some concerns, and 2 (10%) were at low risk. GenAI-based interventions were associated with a small reduction in depressive symptoms in the primary random-effects analysis (Hedges =−0.21, 95% CI −0.41 to −0.02; ²=63%), although the Hartung-Knapp-Sidik-Jonkman (HKSJ) sensitivity analysis yielded a CI that included 0 (95% CI −0.46 to 0.04). Anxiety symptoms did not significantly improve (=−0.14, 95% CI −0.31 to 0.02; ²=63%). Negative affect improved, whereas positive affect did not significantly improve. Point estimates favored larger benefits against waitlist controls, but formal between-subgroup tests did not support differences by comparator type for depression (=.20) or anxiety (=.28). Engagement generally favored GenAI-based interventions. Narrative findings suggested greater empathy compared with rule-based systems, mixed empathy findings compared with human-delivered care, and no clear differences in therapeutic alliance compared with active conversational comparators. Follow-up beyond 3 months was limited, and safety reporting was sparse. The certainty of evidence ranged from low to very low. Conclusions: GenAI-based interventions may provide small, outcome-specific benefits in behavioral medicine, but the available evidence does not establish whether these benefits are attributable specifically to generative capabilities. Effects appear to depend on intervention design, human involvement, comparator selection, and implementation context. Current evidence, therefore, supports viewing GenAI as a design-dependent augmentation tool rather than a standalone therapeutic innovation. Future trials should prioritize active comparators, longer follow-up, and transparent reporting of model characteristics and safety outcomes. Trial Registration: PROSPERO CRD420251180679; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251180679 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/fd724f4ef1d4c8b9eda620d797b83d02" />
 
@@ -3476,7 +3468,7 @@ EU Implementation Guide (IG) on veterinary medicines product data in the Union P
 
 - Source: `jmir` · published `2026-11-27` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e116895`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e116895`
 
 <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/cbc00cc69ce79234a94df4f90b5de7f9" />
 
@@ -3488,19 +3480,11 @@ EU Implementation Guide (IG) on veterinary medicines product data in the Union P
 
 <p>DNV surveyed 12,500 consumers for their perceived trust and acceptance levels around medical devices and IVDs.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/medica-2026-consumers-open-to-ai-based-medtech-but-personal-touch-remains-key/">Medica 2026: Consumers open to AI-based medtech, but personal touch remains key</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
-### [Mental Health Resources and Political Engagement](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
-
-- Source: `hn_ai_health_signals` · published `2026-11-27` · freshness `fresh`
-- Reading value: `pending` · status: `insufficient_material`
-- Event: `updated` · identity: `url:https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219`
-
-Hacker News community signal; score 126.
-
 ### [Monocular Two-Dimensional and 3D Red-Green-Blue-Camera Marker-Less Motion Capture Systems for Human Lower-Limb Activities: Scoping Review](https://www.jmir.org/article/view/jmir_v28i1e91609)
 
 - Source: `jmir` · published `2026-11-27` · freshness `fresh`
 - Reading value: `57` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e91609`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e91609`
 
 Background: Single-camera markerless motion capture systems (MLMCS) offer a low-cost, portable alternative to marker-based motion capture systems (MBMCS) for lower-limb assessment, but the evidence remains fragmented across movement tasks, algorithms, and validation frameworks. Existing reviews have addressed broader health care applications, disease-specific gait technologies, or general pose-estimation use cases, but a focused synthesis of monocular two-dimensional (2D) and 3D red-green-blue (RGB)-camera MLMCS for human lower-limb activities has been lacking. Objective: This scoping review aimed to map how single RGB-camera MLMCS have been used to quantify lower-limb kinematics by examining data collection protocols, participant/task characteristics, computational pipelines, human pose estimation (HPE) methods, and reference standards and validation strategies. Methods: Following PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidance, we searched PubMed, Scopus, IEEE Xplore, CINAHL, and SPORTDiscus from database inception to March 16, 2026. Peer-reviewed English-language studies of human lower-limb activities using a single RGB camera were eligible. Two reviewers (BG and DH) independently screened studies and appraised quality using a modified Downs and Black checklist. Findings were synthesized descriptively. Results: Out of a total of 4484 identified records, 39 studies were included. The evidence base was dominated by gait-related tasks (29/39, 75%) and predominantly healthy cohorts, with knee flexion/extension and hip flexion/extension as the most frequently reported outcomes. Twenty-five distinct MLMCS methods were identified. OpenPose (Perceptual Computing Lab) was the most frequently used 2D approach. Across studies, performance was most consistent for sagittal-plane hip and knee flexion/extension, whereas ankle plantarflexion/dorsiflexion, frontal- and transverse-plane kinematics, and occluded-side estimation remained less robust and less consistently validated. Unlike broader previous reviews, this review provides the first focused evidence map of monocular RGB lower-limb applications across tasks, populations, hardware/software configurations, HPE algorithms, and benchmarking strategies. It also offers a clearer performance hierarchy, with OpenPose emerging as the strongest 2D option for sagittal knee flexion/extension and the World-grounded Humans with Accurate Motion (WHAM) method as the best-performing single-view 3D system overall in the largest benchmark. Conclusions: This review advances the field by clarifying where single RGB-camera MLMCS are currently most credible and where major limitations remain. In real-world settings, these systems show promise as accessible tools for repeated movement assessment, screening, and longitudinal monitoring when the primary target is sagittal-plane hip and knee motion. However, broader clinical deployment will require more standardized protocols, richer ankle and foot keypoint definitions, pathology-specific validation, and greater robustness to occlusion, viewpoint variation, and real-world recording conditions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/085d16d4ca2b7af3cd403c61baf9bd69" />
 
@@ -3508,7 +3492,7 @@ Background: Single-camera markerless motion capture systems (MLMCS) offer a low-
 
 - Source: `jmir` · published `2026-11-27` · freshness `fresh`
 - Reading value: `55` · status: `scored`
-- Event: `new` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105912`
+- Event: `seen` · identity: `url:https://www.jmir.org/article/view/jmir_v28i1e105912`
 
 Background: Multimodal AI may improve clinically significant prostate cancer (csPCa) detection and risk stratification by integrating imaging, histopathology, molecular, radiomic, and structured clinical data. Objective: This scoping review aimed to map recent evidence on multimodal AI for prostate cancer diagnosis, staging, prognosis, and treatment personalization, with emphasis on data modalities, fusion strategies, validation, reproducibility, and clinical translation. Its added value is a decision-centered evidence map linking fusion strategy and input burden to clinical task, validation strength, reproducibility, and translational readiness across the prostate cancer pathway. Methods: A PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews)–guided search of IEEE Xplore, Scopus, Web of Science, PubMed, and SpringerLink was conducted to identify English-language peer-reviewed studies published from January 2021 to December 2025. Eligible studies applied AI to at least 2 data sources for prostate cancer detection, grading, staging, prognosis, recurrence prediction, or treatment selection. Two reviewers screened records and charted clinical tasks, modalities, fusion strategy, validation design, performance, and reproducibility indicators. Results: Twenty-six studies were included. Clinical variables were incorporated in 24 studies, multiparametric magnetic resonance imaging (MRI) in 17 studies, and whole-slide histopathology in 6 studies. Multimodal models usually outperformed unimodal baselines in paired comparisons. including prostate imaging: cancer AI (PI-CAI) performance above the median radiologist area under the receiver operating characteristic curve (AUROC; 0.91 vs 0.86) and trimodal positron emission tomography (PET)/MRI/clinical models reporting area under the curve (AUC) values of up to 0.955. The evidence was limited by retrospective designs, small cohorts, geographic concentration, scarce public code, inconsistent calibration reporting, and a lack of prospective workflow validation. Conclusions: Multimodal AI is promising for biopsy triage, grading, staging, prognostication, and treatment selection, but current evidence supports research prioritization rather than routine deployment. Prospective, diverse, transparent, and clinically embedded validation is required before multimodal AI can guide routine prostate cancer decisions. <img src="https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/ea10e4e00041c0364de1d7a2ae8348da" />
 
@@ -3532,7 +3516,7 @@ Many women struggle with eating disorders before and after childbirth, but they 
 
 - Source: `npj_digital_medicine` · published `2026-11-27` · freshness `fresh`
 - Reading value: `61` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03510-8`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03510-8`
 
 Large language models (LLMs) are increasingly used for mental health support despite lacking mechanisms to safely govern evolving risk. Existing safety approaches primarily detect risk but rarely shape how models respond as conversational risk unfolds. We developed a portable, model-external safety governance architecture that combines contextual risk detection, reasoning-based verification, and protocol-guided response generation for multi-turn mental health interactions. Using synthetic conversations grounded in real-world mental health narratives, the architecture’s performance was assessed with GPT-5-chat and Qwen3.5-27B, increasing clinician-preferred escalation responses by 25.6–59.2 pp, while achieving high risk detection performance (specificity: 0.85 (95%CI: 0.78;0.91), sensitivity: 0.92 (95%CI: 0.89;0.95)). Performance remained stable across conversation length and across models (proprietary and open-source), with preliminary evidence showing that rapport and connection were preserved. These findings demonstrate that clinically-grounded governance can extend beyond risk detection to improve how LLMs manage evolving mental health risk, providing a framework for scalable safety governance.
 
@@ -3540,17 +3524,17 @@ Large language models (LLMs) are increasingly used for mental health support des
 
 - Source: `hn_ai_health_signals` · published `2026-11-27` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/`
+- Event: `updated` · identity: `url:https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/`
 
-Hacker News community signal; score 44.
+Hacker News community signal; score 58.
 
 ### [Show HN: I restored Palm's last device, and brought its OS to other platforms](https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/)
 
 - Source: `hn_ai_health_signals` · published `2026-11-27` · freshness `fresh`
 - Reading value: `pending` · status: `insufficient_material`
-- Event: `new` · identity: `url:https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/`
+- Event: `updated` · identity: `url:https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/`
 
-Hacker News community signal; score 70.
+Hacker News community signal; score 80.
 
 ### [Singapore HSA approves Gene Solutions’ SPOT-MAS 10 IVD test](https://www.medicaldevice-network.com/news/gene-solutions-singapore-ivd-registration-spot-mas-10/)
 
@@ -3572,7 +3556,7 @@ This manuscript describes a novel consumer-grade wearable approach, leveraging a
 
 - Source: `jmir_medinform` · published `2026-11-27` · freshness `fresh`
 - Reading value: `45` · status: `scored`
-- Event: `new` · identity: `url:https://medinform.jmir.org/2026/1/e115607`
+- Event: `seen` · identity: `url:https://medinform.jmir.org/2026/1/e115607`
 
 Clinical AI is increasingly being evaluated within individual health care organizations, yet much of what is learned remains local. Organizations may implement similar tools while using different measures, definitions, and approaches to evaluation, making it difficult to learn across settings. We believe local evaluation should do two things: inform immediate organizational decisions and contribute to broader learning about clinical AI. This does not require standardizing entire evaluations. A small common layer in how similar implementations are described, measured, and reported could make local findings more useful to others while preserving the context and flexibility organizations need. Drawing on our experience mapping clinical AI adoption in Canada and developing a practical evaluation toolkit, we propose a simple shift: design local evaluations not only to answer, “Is this working here?” but also, “What can others learn from what happened here?”
 
@@ -3580,7 +3564,7 @@ Clinical AI is increasingly being evaluated within individual health care organi
 
 - Source: `stat_news_feed` · published `2026-11-27` · freshness `fresh`
 - Reading value: `42` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss`
 
 The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.
 
@@ -3588,7 +3572,7 @@ The FDA is extending its assessment of Vertex's investigational kidney drug, as 
 
 - Source: `stat_news_feed` · published `2026-11-27` · freshness `fresh`
 - Reading value: `10` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss`
 
 In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.
 
@@ -3596,7 +3580,7 @@ In this edition of STAT's AI Prognosis: Health stories that can be conversation 
 
 - Source: `stat_news_feed` · published `2026-11-27` · freshness `fresh`
 - Reading value: `10` · status: `scored`
-- Event: `new` · identity: `url:https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss`
+- Event: `seen` · identity: `url:https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss`
 
 STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.
 
@@ -3604,7 +3588,7 @@ STAT staffers have put together a list of the stories we’re thankful for this 
 
 - Source: `medical_device_network` · published `2026-11-27` · freshness `fresh`
 - Reading value: `49` · status: `needs_review`
-- Event: `new` · identity: `url:https://www.medicaldevice-network.com/news/uk-hospital-completes-world-first-implantation-of-new-medtronic-pacemaker/`
+- Event: `seen` · identity: `url:https://www.medicaldevice-network.com/news/uk-hospital-completes-world-first-implantation-of-new-medtronic-pacemaker/`
 
 <p>Medtronic’s Restoria uses conduction system pacing to directly targets the heart’s natural electrical pathways versus non-selective stimulation as with traditional pacemakers.</p> <p>The post <a href="https://www.medicaldevice-network.com/news/uk-hospital-completes-world-first-implantation-of-new-medtronic-pacemaker/">UK hospital completes world-first implantation of new Medtronic pacemaker</a> appeared first on <a href="https://www.medicaldevice-network.com">Medical Device Network</a>.</p>
 
@@ -3620,9 +3604,17 @@ Integrated clinical and wastewater monitoring during the 2024–2025 outbreaks o
 
 - Source: `npj_digital_medicine` · published `2026-11-28` · freshness `fresh`
 - Reading value: `41` · status: `scored`
-- Event: `new` · identity: `url:https://www.nature.com/articles/s41746-026-03559-5`
+- Event: `seen` · identity: `url:https://www.nature.com/articles/s41746-026-03559-5`
 
 Clinical AI agents can carry tasks across steps. This changes the safety problem. The question is not only whether an AI system gives a correct response, but what working narrative it carries into action. A wrong narrative can move through tools, tasks, and care. Clinical oversight should examine the agent’s goal, narrative, tools, uncertainty, and stopping conditions before it enters workflow.
+
+### [GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
+
+- Source: `hn_ai_health_signals` · published `2026-11-28` · freshness `fresh`
+- Reading value: `pending` · status: `insufficient_material`
+- Event: `new` · identity: `url:https://malspark.com/blog/malicious-gguf-models-hugging-face/`
+
+Hacker News community signal; score 13.
 
 ---
 

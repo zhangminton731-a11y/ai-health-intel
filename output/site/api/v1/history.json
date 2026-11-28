@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-28T03:18:55+00:00",
+  "generated_at": "2026-11-28T12:59:33+00:00",
   "as_of": "2026-11-28",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
     {
       "id": "url:https://www.nature.com/articles/s41746-026-03455-y",
-      "t": "",
+      "t": "临床大语言模型中部署条件的安全性和准确性存在差异",
       "te": "Safety and accuracy diverge across deployment conditions in clinical large language models",
-      "s": "",
+      "s": "临床大语言模型 (LLM) 通常通过增加模型大小、上下文长度、检索复杂性或推理时间计算来扩展，假设更高的准确性意味着更安全的行为。干净的临床医生书面证据用作上限，产生了最强的联合增益，将平均准确度从 73.5% 提高到 94.1%，将高风险错误从 12.0% 降低到 2.6%，将危险的过度自信从 8.0% 降低到 1.6%。标准和代理 RAG、最大上下文提示和推理时间计算改进了选定的指标，但没有重现此安全性。",
       "se": "Clinical large language models (LLMs) are commonly scaled by increasing model size, context length, retrieval complexity, or inference-time compute, on the assumption that higher accuracy implies safer behavior. Clean clinician-written evidence, used as an upper-bound, produced the strongest joint gain, raising mean accuracy from 73.5% to 94.1% and reducing high-risk error from 12.0% to 2.6% and dangerous overconfidence from 8.0% to 1.6%. Standard and agentic RAG, max-context prompting, and inference-time compute improved selected metrics but did not reproduce this safety profile.",
       "u": "https://www.nature.com/articles/s41746-026-03455-y",
       "image": "",
@@ -34,7 +34,7 @@
         "analysis",
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "npj_digital_medicine"
@@ -388,9 +388,9 @@
     },
     {
       "id": "url:https://www.jmir.org/article/view/jmir_v28i1e103517",
-      "t": "",
+      "t": "生成式人工智能聊天机器人对自杀和自残的反应：系统回顾",
       "te": "Generative AI Chatbot Responses to Suicide and Self-Harm: Systematic Review",
-      "s": "",
+      "s": "结论：证据受到预印本比例、质量参差不齐、合成单轮提示、小样本、异质结果和快速模型版本控制的限制。尽管如此，当前的聊天机器人倾向于提供验证，但难以升级护理、评估风险和抵制越狱。需要使用现实世界或临床环境中的后续评估来研究利益相关者的观点以及聊天机器人响应的短期和长期临床影响。试用注册：OSF 注册中心 osf.io/7fz95；  结果：在 1042 条重复数据删除记录中，审查了 126 条全文，纳入了 29 条（16 条已发表；13 条是预印本）。大多数研究仅评估自杀内容（21/29）。 20 项只是审计研究，2 项是聊天机器人开发，1 项是越狱。其余的结合方法。最常用的合成单轮提示；",
       "se": "Conclusions: Evidence is limited by the proportion of preprints, variable quality, synthetic single-turn prompts, small samples, heterogeneous outcomes, and rapid model versioning. Nonetheless, current chatbots tend to provide validation but struggle to escalate care, assess risk, and resist jailbreaking. Research is needed on stakeholder perspectives and on the short- and long-term clinical impact of chatbot responses using follow-up assessments in real-world or clinical settings. Trial Registration: OSF Registries osf.io/7fz95; https://osf.io/7fz95 Results: Of 1042 deduplicated records, 126 full texts were reviewed, and 29 were included (16 published; 13 preprints). Most studies evaluated suicidal content only (21/29). Twenty were solely audit studies, 2 chatbot development, and 1 jailbreaking. The rest combined approaches. Most used synthetic, single-turn prompts;",
       "u": "https://www.jmir.org/article/view/jmir_v28i1e103517",
       "image": "https://jmir-production.s3.us-east-2.amazonaws.com/thumbs/4a835b64db7055df1fa78234ad2693de",
@@ -517,9 +517,9 @@
     },
     {
       "id": "pmid:43098155",
-      "t": "",
+      "t": "确定哪些转移性激素敏感型前列腺癌患者从雄激素受体途径抑制剂 (STOPCAP) 中获益最多：对个体参与者数据的系统回顾和荟萃分析。",
       "te": "Identifying which patients with metastatic hormone-sensitive prostate cancer benefit most from androgen receptor pathway inhibitors (STOPCAP): a systematic review and meta-analysis of individual participant data.",
-      "s": "",
+      "s": "背景 在护理标准中添加新型雄激素受体途径抑制剂 (ARPIs) 可改善转移性激素敏感型前列腺癌 (mHSPC) 患者的预后，但不同患者亚组的获益是否一致仍不确定。在六项试验（6467 名受试者和 3322 件事件）的主要分析中，添加 ARPI 可以改善总体生存率（HR 0·66 [95% CI 0·62-0·710]；p < 0·0001），5 年生存率绝对提高 13%。阿比特龙改善了所有年龄组的 5 年 PCSS（11-18%），癌症死亡累积发生率也有类似的降低。解释 将 ARPI 添加到护理标准中可显着改善大多数 mHSPC 患者的总生存期。",
       "se": "Background Adding novel androgen receptor pathway inhibitors (ARPIs) to standard of care improves outcomes for patients with metastatic hormone-sensitive prostate cancer (mHSPC), but whether benefits are consistent across patient subgroups remains uncertain. In the primary analysis of six trials (6467 participants and 3322 events), adding an ARPI improved overall survival (HR 0·66 [95% CI 0·62-0·710]; p < 0·0001), with a 13% absolute improvement in 5-year survival. Abiraterone improved 5-year PCSS across all age groups (11-18%), with a similar reduction in cumulative incidence of cancer deaths. Interpretation Adding an ARPI to standard of care significantly improved overall survival for most patients with mHSPC.",
       "u": "https://doi.org/10.1016/s0140-6736(26)01483-2",
       "image": "",
@@ -545,7 +545,7 @@
         "data",
         "validation"
       ],
-      "event": "new",
+      "event": "seen",
       "provenance": {
         "observed_in_sources": [
           "lancet_abstracts"
@@ -596,7 +596,7 @@
                 "total_tokens": 1506
               }
             },
-            "support": "Individual participant data were available from seven eligible trial comparisons (two comparisons from STAMPEDE, LATITUDE, PEACE-1, SWOG-S1216, ENZAMET, and TITAN) and 7778 participants (66% of total ",
+            "support": "Individual participant data were available from seven eligible trial comparisons (two comparisons from STAMPEDE, LATITUDE, PEACE-1, SWOG-S1216, ENZAMET, and TITAN) and 7778 participants (66% of total",
             "total": 81
           },
           {
@@ -646,9 +646,9 @@
     },
     {
       "id": "pmid:43085815",
-      "t": "",
+      "t": "产前接受注意力缺陷/多动障碍药物治疗和神经发育障碍风险：斯堪的纳维亚多国队列研究。",
       "te": "Prenatal exposure to drug treatment for attention deficit/hyperactivity disorder and risk of neurodevelopmental disorders: Scandinavian multinational cohort study.",
-      "s": "",
+      "s": "目的 评估产前接受注意力缺陷/多动障碍 (ADHD) 药物治疗是否会增加儿童神经发育障碍的风险。在控制混杂因素后，无论是总体还是中/晚期接触 ADHD 药物或按药物类型，均与任何神经发育障碍（加权风险比 1.05，95% 置信区间 0.98 至 1.12）、行为和情绪障碍（1.04、0.97 至 1.12）或心理和智力发育障碍（1.06、0.96 至 1.18）的风险增加相关。",
       "se": "Objective To assess whether prenatal exposure to drug treatment for attention deficit/hyperactivity disorder (ADHD) increases the risk of neurodevelopmental disorders in children. After control for confounders, neither any nor second/third trimester exposure to ADHD drugs overall or by drug type was associated with increased risk of any neurodevelopmental disorder (weighted hazard ratio 1.05, 95% confidence interval 0.98 to 1.12), behavioural and emotional disorders (1.04, 0.97 to 1.12), or disorders of psychological and intellectual development (1.06, 0.96 to 1.18).",
       "u": "https://doi.org/10.1136/bmj-2026-101236",
       "image": "",
@@ -3697,7 +3697,7 @@
       "item_ids": [
         "url:https://www.nature.com/articles/s41746-026-03455-y"
       ],
-      "minutes": 2
+      "minutes": 1
     },
     {
       "date": "2026-11-26",
@@ -3707,7 +3707,7 @@
         "url:https://www.nature.com/articles/s41591-026-04754-3",
         "url:https://www.jmir.org/article/view/jmir_v28i1e103517"
       ],
-      "minutes": 6
+      "minutes": 3
     },
     {
       "date": "2026-11-25",
@@ -3715,7 +3715,7 @@
         "pmid:43085815",
         "pmid:43082011"
       ],
-      "minutes": 3
+      "minutes": 2
     },
     {
       "date": "2026-11-24",
