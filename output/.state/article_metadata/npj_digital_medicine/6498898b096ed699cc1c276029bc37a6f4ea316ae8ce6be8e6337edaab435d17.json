@@ -1,0 +1,5 @@
+{
+  "summary": "Clinical AI agents can carry tasks across steps. This changes the safety problem. The question is not only whether an AI system gives a correct response, but what working narrative it carries into action. A wrong narrative can move through tools, tasks, and care. Clinical oversight should examine the agent’s goal, narrative, tools, uncertainty, and stopping conditions before it enters workflow.",
+  "summary_source": "https://www.nature.com/articles/s41746-026-03559-5",
+  "url": "https://www.nature.com/articles/s41746-026-03559-5"
+}

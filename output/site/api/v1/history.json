@@ -1,9 +1,138 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-27T13:52:42+00:00",
-  "as_of": "2026-11-27",
+  "generated_at": "2026-11-28T03:18:55+00:00",
+  "as_of": "2026-11-28",
   "description": "近20天历史阅读，不属于当前推荐",
   "items": [
+    {
+      "id": "url:https://www.nature.com/articles/s41746-026-03455-y",
+      "t": "",
+      "te": "Safety and accuracy diverge across deployment conditions in clinical large language models",
+      "s": "",
+      "se": "Clinical large language models (LLMs) are commonly scaled by increasing model size, context length, retrieval complexity, or inference-time compute, on the assumption that higher accuracy implies safer behavior. Clean clinician-written evidence, used as an upper-bound, produced the strongest joint gain, raising mean accuracy from 73.5% to 94.1% and reducing high-risk error from 12.0% to 2.6% and dangerous overconfidence from 8.0% to 1.6%. Standard and agentic RAG, max-context prompting, and inference-time compute improved selected metrics but did not reproduce this safety profile.",
+      "u": "https://www.nature.com/articles/s41746-026-03455-y",
+      "image": "",
+      "src": "npj Digital Medicine",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers",
+          "methods"
+        ]
+      },
+      "stages": [
+        "analysis",
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "npj_digital_medicine"
+        ],
+        "retrieved_via": "rss",
+        "source_id": "npj_digital_medicine",
+        "summary_source": "https://www.nature.com/articles/s41746-026-03455-y",
+        "upstream_id": "https://www.nature.com/articles/s41746-026-03455-y"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 73,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-28T03:19:28+00:00",
+        "input_hash": "3ade9186da1d0b32ae98c605d3ec0c0f66eb21d51b34170cb795a5fffbd78fa7",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "该研究用200题放射学多选题基准和34个本地模型系统比较六种部署条件，发现安全指标不随准确率缩放，为临床LLM评估提供了可直接复用的基准设计、风险指标和消融思路；限制在于基准为纯文本、单科室、选择题形式，与真实临床工作流尚有距离，且证据仅为摘要级。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 6,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 7,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究用200题放射学多选题基准和34个本地模型系统比较六种部署条件，发现安全指标不随准确率缩放，为临床LLM评估提供了可直接复用的基准设计、风险指标和消融思路；限制在于基准为纯文本、单科室、选择题形式，与真实临床工作流尚有距离，且证据仅为摘要级。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "f7f63ec9-166e-47c2-97af-db02c9dea002",
+              "seconds": 1.59,
+              "usage": {
+                "completion_tokens": 149,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 327,
+                "prompt_tokens": 1223,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1372
+              }
+            },
+            "support": "Clinically consequential errors concentrated in a small subset of questions, and variance decomposition placed deployment condition above model family on every safety metric.",
+            "total": 69
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 7,
+              "novelty": 8,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该研究用自建SaFE-Scale与RadSaFE-200基准，系统比较34个本地LLM在六种部署条件下的安全与准确性，发现安全并不随规模或RAG同步提升，部署条件的影响大于模型家族。对临床研究者设计评估与选型有直接方法学参考，但为多选题文本放射学基准，外部效度与真实临床流程验证仍有限。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "59645d7e-e870-4c8d-976c-ea2f8b18c233",
+              "seconds": 1.73,
+              "usage": {
+                "completion_tokens": 157,
+                "prompt_cache_hit_tokens": 1024,
+                "prompt_cache_miss_tokens": 199,
+                "prompt_tokens": 1223,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1024
+                },
+                "total_tokens": 1380
+              }
+            },
+            "support": "Clinically consequential errors concentrated in a small subset of questions, and variance decomposition placed deployment condition above model family on every safety metric.",
+            "total": 77
+          }
+        ],
+        "score": 73,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "昨天",
+      "date": "2026-11-27",
+      "reasons": {
+        "research": "该研究用200题放射学多选题基准和34个本地模型系统比较六种部署条件，发现安全指标不随准确率缩放，为临床LLM评估提供了可直接复用的基准设计、风险指标和消融思路；限制在于基准为纯文本、单科室、选择题形式，与真实临床工作流尚有距离，且证据仅为摘要级。"
+      },
+      "historical": true
+    },
     {
       "id": "url:https://www.nature.com/articles/s41591-026-04754-3",
       "t": "综合废水和临床基因组监测，用于高分辨率跟踪麻疹病毒的进化和传播",
@@ -122,7 +251,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-26",
       "reasons": {
         "research": "该研究针对低浓度麻疹病毒建立了污水浓缩与全基因组测序流程，并在全国疫情中整合临床与污水序列，识别出常规N450靶向法漏检的跨省传播链。对做病原基因组监测和公共卫生研究的人有直接方法学参考，但污水信号与临床病例的因果对应、各变异株回收的敏感度仍需看全文验证。"
@@ -250,7 +379,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-26",
       "reasons": {
         "research": "这是迄今规模最大的脑机接口皮层内阵列长期稳定性系统评估，基于20年、20个阵列、14名参与者和2289次记录会话，为研究者提供了电极长期信号衰减幅度与解码性能随时间变化的可核实纵向数据；主要限制是单一阵列类型（Utah）且为观察性汇总，未能区分失败机制或给出改进对照。"
@@ -379,10 +508,139 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "昨天",
+      "when": "2 天前",
       "date": "2026-11-26",
       "reasons": {
         "research": "这是首个针对生成式AI聊天机器人自杀/自伤风险应答的系统综述，汇总了29项审计与开发研究，明确了风险评估、升级转介和抗越狱能力的具体短板，可作为安全评估与产品合规研究的参考；但纳入研究多为合成单轮提示、样本小、结局异质且含大量预印本，敏感度分析后模型间差异减弱，结论仍偏初步。"
+      },
+      "historical": true
+    },
+    {
+      "id": "pmid:43098155",
+      "t": "",
+      "te": "Identifying which patients with metastatic hormone-sensitive prostate cancer benefit most from androgen receptor pathway inhibitors (STOPCAP): a systematic review and meta-analysis of individual participant data.",
+      "s": "",
+      "se": "Background Adding novel androgen receptor pathway inhibitors (ARPIs) to standard of care improves outcomes for patients with metastatic hormone-sensitive prostate cancer (mHSPC), but whether benefits are consistent across patient subgroups remains uncertain. In the primary analysis of six trials (6467 participants and 3322 events), adding an ARPI improved overall survival (HR 0·66 [95% CI 0·62-0·710]; p < 0·0001), with a 13% absolute improvement in 5-year survival. Abiraterone improved 5-year PCSS across all age groups (11-18%), with a similar reduction in cumulative incidence of cancer deaths. Interpretation Adding an ARPI to standard of care significantly improved overall survival for most patients with mHSPC.",
+      "u": "https://doi.org/10.1016/s0140-6736(26)01483-2",
+      "image": "",
+      "src": "The Lancet · 摘要索引",
+      "role": "期刊论文",
+      "cat": "期刊论文",
+      "trust": 3,
+      "sourceType": "期刊论文",
+      "topics": [
+        "hospital",
+        "research",
+        "business"
+      ],
+      "sections": [
+        "research"
+      ],
+      "categories": {
+        "research": [
+          "papers"
+        ]
+      },
+      "stages": [
+        "data",
+        "validation"
+      ],
+      "event": "new",
+      "provenance": {
+        "observed_in_sources": [
+          "lancet_abstracts"
+        ],
+        "retrieved_via": "europe_pmc",
+        "source_id": "lancet_abstracts",
+        "summary_source": "https://europepmc.org/article/MED/43098155",
+        "upstream_id": "43098155"
+      },
+      "tier": "skim",
+      "freshness": "fresh",
+      "rel": 79,
+      "editorial": {
+        "audiences": [
+          "research"
+        ],
+        "evaluated_at": "2026-11-28T03:19:35+00:00",
+        "input_hash": "34dde2d5fd30dadff8746a27b2f80e54dc18b0d0690fdbdac71b3f7460597c95",
+        "input_scope": "source_summary",
+        "policy_version": "79c20b05dbd582fa",
+        "reason": "基于7项试验、7778例个体数据的IPD荟萃分析，按年龄和合并症细化ARPI在mHSPC的生存获益与竞争死亡风险差异，可为临床研究亚组设计和治疗选择提供证据；主要限制是该项为摘要级信息，交互作用部分被截断，且阿比特龙对各年龄组癌症特异性生存的结论需查看全文确认。",
+        "reviews": [
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 9,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 8
+            },
+            "kind": "research",
+            "reason": "该个体参与者数据荟萃分析整合7项试验、7778例mHSPC患者，按年龄和合并症等亚组揭示ARPI获益差异及阿比特龙相关非癌死亡增加，可指导研究者设计亚组分析和临床选择；但为二次分析、非全部符合条件患者的数据，且腺苷受体抑制剂按年龄的效应证据仍不完整。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "3b1748c0-e3f4-4b07-bb68-c51d8ca3541e",
+              "seconds": 1.84,
+              "usage": {
+                "completion_tokens": 183,
+                "prompt_cache_hit_tokens": 896,
+                "prompt_cache_miss_tokens": 427,
+                "prompt_tokens": 1323,
+                "prompt_tokens_details": {
+                  "cached_tokens": 896
+                },
+                "total_tokens": 1506
+              }
+            },
+            "support": "Individual participant data were available from seven eligible trial comparisons (two comparisons from STAMPEDE, LATITUDE, PEACE-1, SWOG-S1216, ENZAMET, and TITAN) and 7778 participants (66% of total ",
+            "total": 81
+          },
+          {
+            "audiences": [
+              "research"
+            ],
+            "axes": {
+              "evidence": 8,
+              "novelty": 7,
+              "relevance": 8,
+              "significance": 8,
+              "usefulness": 7
+            },
+            "kind": "research",
+            "reason": "基于7项试验、7778例个体数据的IPD荟萃分析，按年龄和合并症细化ARPI在mHSPC的生存获益与竞争死亡风险差异，可为临床研究亚组设计和治疗选择提供证据；主要限制是该项为摘要级信息，交互作用部分被截断，且阿比特龙对各年龄组癌症特异性生存的结论需查看全文确认。",
+            "receipt": {
+              "model": "deepseek-flash",
+              "request_id": "74efdd83-5e5c-4f85-afb2-09ee9496d11f",
+              "seconds": 1.84,
+              "usage": {
+                "completion_tokens": 173,
+                "prompt_cache_hit_tokens": 1152,
+                "prompt_cache_miss_tokens": 171,
+                "prompt_tokens": 1323,
+                "prompt_tokens_details": {
+                  "cached_tokens": 1152
+                },
+                "total_tokens": 1496
+              }
+            },
+            "support": "In the primary analysis of six trials (6467 participants and 3322 events), adding an ARPI improved overall survival (HR 0·66 [95% CI 0·62-0·710]; p",
+            "total": 77
+          }
+        ],
+        "score": 79,
+        "selected": true,
+        "source_tier": "T1",
+        "status": "scored",
+        "threshold": 70
+      },
+      "when": "2 天前",
+      "date": "2026-11-26",
+      "reasons": {
+        "research": "基于7项试验、7778例个体数据的IPD荟萃分析，按年龄和合并症细化ARPI在mHSPC的生存获益与竞争死亡风险差异，可为临床研究亚组设计和治疗选择提供证据；主要限制是该项为摘要级信息，交互作用部分被截断，且阿比特龙对各年龄组癌症特异性生存的结论需查看全文确认。"
       },
       "historical": true
     },
@@ -508,7 +766,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-11-25",
       "reasons": {
         "research": "这项跨国注册队列覆盖三百多万儿童并采用倾向评分加权与荟萃分析，为孕期ADHD用药与神经发育障碍风险提供较有力的阴性证据，可帮助研究者和临床读者理解混杂控制、罕见结局分析与阴性结果解读；但属观察性研究，残余混杂和随访中位约9-10年限制因果推断。"
@@ -636,7 +894,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "2 天前",
+      "when": "3 天前",
       "date": "2026-11-25",
       "reasons": {
         "research": "这项集群随机试验为远程医疗强化C-SAT/SBT实施提供了随机对照证据，显示依从性和无呼吸机天数均改善，研究者可借鉴其混合有效性-实施设计及以依从性为共同主要终点的做法；但摘要未给出无呼吸机天数的效应量与置信区间，限制了对临床获益幅度的判断。"
@@ -760,7 +1018,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "industry": "赛诺菲以410亿美元收购Insmed，是近年最大生物制药并购之一，并明确带来两款已获批药物；产业读者可据此判断呼吸/罕见病领域资产整合与大型药企补管线的方向，但材料仅为新闻摘要，交易条款、监管审批状态和产品细节尚缺。"
@@ -882,7 +1140,7 @@
         "status": "scored",
         "threshold": 76
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "industry": "这是一起已披露的410亿美元并购，赛诺菲借此获得两款已获批肺部疾病药物，产业读者可据此判断呼吸/罕见病管线的整合与竞争格局变化；但摘要仅交代交易与资产，缺少交割状态、估值依据和产品放量数据，无法进一步评估交易成败。"
@@ -1012,7 +1270,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "该研究在多机构专家评阅下定义了肿瘤委员会病例摘要与推荐生成任务，并提供约9.6k参考文本与16k专家判断，能帮助研究者理解LLM临床任务的评测设计及参考文本指标的局限。限制在于摘要未给出模型规模、机构差异细节与推荐任务低分的具体原因，结论仅达摘要级判断。"
@@ -1141,7 +1399,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "该混合方法系统综述纳入309项原始研究，按AI暴露与实施成熟度分级呈现接受度、信任、透明性与治理证据的分布变化，为肿瘤AI研究者设计后期评估、选择结局指标和识别证据缺口提供可复用框架；限制是整合结论为解释性模型、非因果或预测验证，且多数研究集中于2025—2026年预印或早期阶段。"
@@ -1270,7 +1528,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "这是Natsal系列有全国概率样本与生物学检测的重复横断面研究，提供了2022–24年STI患病率、风险行为和性健康服务使用的直接估计，并可与2010–12年比较；尤其衣原体检测率大幅下降、风险人群中多数未使用服务，对性健康服务与筛查策略有实质参考。限制是横断面自报行为与跨国/跨期可比性，不能推断因果。"
@@ -1397,7 +1655,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "这项研究基于三项具有全国代表性的重复横断面调查，报告了HPV-16/18感染率的长期下降并指出接种和筛查不足的人群特征，对评估免疫规划效果和公平性有参考价值；但核心比较为横断面观察，且年龄和调查期混杂，未提供因果估计。"
@@ -1524,7 +1782,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "这项多中心、2×2析因、安慰剂对照的随机试验，在2091例疑似脓毒症患者中显示院前肌注头孢曲松未降低住院死亡率（18.0%对18.4%，RR 0.97），17个次要结局均无差异，为院前抗菌治疗策略提供了明确的阴性证据。其主要局限是研究仅覆盖特定的院前识别标准，即患者须同时满足疑似感染、发热和低血压，且院前用药后多数患者仍在院内接受了抗生素。"
@@ -1653,7 +1911,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "3 天前",
+      "when": "4 天前",
       "date": "2026-11-24",
       "reasons": {
         "research": "大型集群随机实效试验直接比较小肺结节低强度与高强度随访策略，为非劣效设计、依从性不足和把握度有限等实际执行难点提供了可借鉴的经验；但结果未达统计学显著，且作者自述存在残留混杂，因此只能作为对现行低强度指南的警示性证据，不足以据此改变临床路径。"
@@ -1782,7 +2040,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-11-23",
       "reasons": {
         "research": "该回顾性多中心队列显示，基于影像报告与临床数据的XGBoost模型在1/3/5年胰腺癌预测上AUC约0.94–0.96，并优于指南分层；研究者可借鉴其利用既有文本报告建模、以时间分层评估及与放射科医生对照的设计，但需注意事件率仅1.8%、缺乏外部独立验证和前瞻性验证，不能据此推断临床获益。"
@@ -1906,7 +2164,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-11-23",
       "reasons": {
         "industry": "这是首个针对LGMD2I/R9的获批药物，直接改变该罕见病无药可用的临床与市场格局，产业读者可据此判断罕见病研发注册路径与准入机会；但材料仅证实审批动作，未披露疗效数据、对照设计与定价信息，实质获益幅度仍待查。"
@@ -2034,7 +2292,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "4 天前",
+      "when": "5 天前",
       "date": "2026-11-23",
       "reasons": {
         "research": "这项多中心随机优效性试验直接比较儿童青少年急性行为紊乱的两种肌注镇静药，阴性的主要结局与一例呼吸暂停不良事件为急诊用药选择和研究设计提供可复用证据；限制在于开放标签、仅约三分之二受试者在随机后30分钟内给药，且两组有效率均有限。"
@@ -2159,7 +2417,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "基于158例治疗队列的9例活检确诊报告，用载体整合、流式和TCR测序多模态刻画CAR+克隆浸润的细胞毒表型与十二指肠富集，为CAR-T胃肠道毒性机制和鉴别T细胞淋巴瘤提供可复用分析路径；但为单中心回顾性观察，样本小且无对照干预，机制仍属关联。"
@@ -2287,7 +2545,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "这是一项开放标签、整群随机对照试验，在冈比亚和布基纳法索两个传播强度不同的西非现场评估R21季节性群体接种，显示疟疾感染几率下降70%；研究者可借鉴其整群随机设计、跨传播强度现场与横断面终点的实施细节及局限，对全人群接种策略的因果判断需结合开放性、接种覆盖差异和单季调查解读。"
@@ -2412,7 +2670,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "Natsal两次全国概率抽样调查的对比提供了英国女性生殖健康自主权指标的可比趋势，揭示了避孕使用下降、不想要孩子比例翻倍及社会经济不平等，对理解人口与生殖健康服务需求有实质价值；但横截面设计只能提示关联，且需注意概率与非概率样本合并分析的限制。"
@@ -2540,7 +2798,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "8 天前",
+      "when": "9 天前",
       "date": "2026-11-19",
       "reasons": {
         "research": "大型多中心回顾性队列（约370万儿童、4500万人年、1536例脑瘤）量化了儿童医学影像累积脑部辐射剂量与脑瘤风险的剂量-反应关系，为儿科CT等检查的临床 justification 和剂量最小化提供了可引用的定量依据。限制是观察性设计、依赖剂量与诊断记录，不能直接证明因果，摘要也未给出具体风险估计值。"
@@ -2664,7 +2922,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "9 天前",
+      "when": "10 天前",
       "date": "2026-11-18",
       "reasons": {
         "industry": "FDA首次批准针对3型戈谢病神经系统症状的药物，填补了这一适应症的空白，属于明确的监管审批事件；产业读者可据此判断该罕见病领域的市场准入与未满足需求，但材料仅有批准动作，缺少疗效数据和试验设计细节。"
@@ -2789,7 +3047,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-11-17",
       "reasons": {
         "research": "该研究基于约21.9万人的长期纵向队列和约78.3万次记忆评估，把世代认知优势拆成“进入老年时水平更高”和“下降更慢”两部分，并对应临床损害与海马萎缩，为痴呆发病率下降提供了机制层面的证据。限制在于这是观察性队列，不能证明因果，也不能据此评估具体预防干预的效应。"
@@ -2917,7 +3175,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-11-17",
       "reasons": {
         "industry": "这是Medicare共享节余计划PY2025的官方结算与质量结果，并披露CY2027支付规则对ACO激励、基准调整、数字质量报告和Part B自付减免的最终政策；产业读者可据此判断责任医疗组织的付费阶段、风险轨道迁移和参与策略，但材料为CMS汇总口径，缺少ACO层面明细和因果设计。"
@@ -3041,7 +3299,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "10 天前",
+      "when": "11 天前",
       "date": "2026-11-17",
       "reasons": {
         "industry": "FDA 首次批准可延长婴儿期起病 NPC 患者生存期的药物，是明确的监管审批与市场准入事实，产业读者可据此判断罕见病治疗领域的新准入节点；但材料仅提供批准结论，未披露试验设计、样本量、效应幅度与安全性细节，疗效与商业价值判断受限。"
@@ -3169,7 +3427,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "11 天前",
+      "when": "12 天前",
       "date": "2026-11-16",
       "reasons": {
         "research": "这项3b期随机对照试验（RCT）首次为6至<12岁肥胖儿童提供司美格鲁肽治疗证据；主要结果（第68周BMI变化-13.5%对+2.7%）为儿科用药与临床决策提供参考。但摘要未给出不良事件、停药后体重反弹及生长发育等关键安全性细节，也缺少长期结局数据。"
@@ -3297,7 +3555,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-11-15",
       "reasons": {
         "research": "中国人群多中心3期随机双盲安慰剂对照试验，报告新型GIP/GLP-1双激动剂ribupatide三个剂量48周减重幅度及安慰剂校正差值，为研究者提供剂量效应、效应量估计和胃肠道耐受性信息；但摘要未给出安全性事件发生率、停药率及人群外推限制。"
@@ -3425,7 +3683,7 @@
         "status": "scored",
         "threshold": 70
       },
-      "when": "12 天前",
+      "when": "13 天前",
       "date": "2026-11-15",
       "reasons": {
         "research": "这是替尔泊肽在青少年肥胖中的3期随机双盲试验，报告了72周BMI降低18.5%、对照升0.5%及不良事件框架，为儿科减重药物研究者和临床决策提供直接证据；但样本仅160例、摘要未给出安全性细节与停药/依从数据，限制外推与获益-风险判断。"
@@ -3435,13 +3693,21 @@
   ],
   "editions": [
     {
+      "date": "2026-11-27",
+      "item_ids": [
+        "url:https://www.nature.com/articles/s41746-026-03455-y"
+      ],
+      "minutes": 2
+    },
+    {
       "date": "2026-11-26",
       "item_ids": [
+        "pmid:43098155",
         "url:https://www.nature.com/articles/s41591-026-04530-3",
         "url:https://www.nature.com/articles/s41591-026-04754-3",
         "url:https://www.jmir.org/article/view/jmir_v28i1e103517"
       ],
-      "minutes": 4
+      "minutes": 6
     },
     {
       "date": "2026-11-25",
